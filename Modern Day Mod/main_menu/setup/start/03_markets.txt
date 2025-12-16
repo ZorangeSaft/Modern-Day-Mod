@@ -1,0 +1,287 @@
+market_manager = {
+	#north america
+
+	#usa/united states/america
+	add_market = dgheyaytnu #anchorage, alaska
+	add_market = puyallup #seattle, washington state
+	add_market = chochenyo #silicon valley/san jose, california
+	add_market = yaanga #los angeles, california
+	add_market = pio_gwut #salt lake city, utah
+	add_market = niineniiniicie #denver, colorado
+	add_market = tuf_shur_tia #albuquerque, new mexico, might not be the exact right location, hard to tell
+	add_market = guwevkabaya #pheonix, arizona
+	add_market = yahandeka #boise, idaho
+	add_market = tanimuu #dallas, texas
+	add_market = bulbancha #new orleans, lousiana
+	#add_market = spithota #nashville, tennessee
+	add_market = chucalissa #memphis, tennessee
+	add_market = pakanahuili #atlanta, georgia
+	add_market = mayaimi #miami, florida
+	add_market = nudarcha #kansas city, missouri
+	add_market = mathoskabde # minneapolis, minnesota
+	add_market = ksai_yohe #billings, montana
+	add_market = checagou #chicago, illinois
+	#add_market = olentangy #columbus, ohio
+	add_market = assereniet #cincinnati, ohio
+	add_market = pamunkey #richmond, virginia
+	add_market = manhattan #new york, new york
+
+	add_market = o_ahu #honolulu, hawaii
+	add_market = guahan #hagatna, guam, hagåtña, guam
+
+	#canada
+	add_market = tkaronto #toronto, ontario
+	add_market = hochelaga #montreal, quebec
+	add_market = cape_spear #st johns, newfoundland
+	add_market = wetewatoqsik #halifax, nova scotia
+	add_market = mihkwakamiwi_sipiy #winnepeg, manitoba
+	add_market = okotoks #calgary, alberta
+	add_market = whonnock #vancouver, british columbia
+	add_market = wecho #yellowknife, northwest territories
+
+	#greenland
+	add_market = godthab
+
+	#mexico
+	add_market = tenochtitlan #mexico city, mexico
+	add_market = hocabail #mérida, yucatan
+	add_market = huajuco #monterry, nuevo leon
+	add_market = tonala #gualadajara, jalisco
+	add_market = akwaala #tijuana, baja california 
+	add_market = comcaac #hermosillo, sonora
+
+	#central america
+	add_market = xunantunich #belize city, belize, notably not the capital
+	add_market = cuauhtemallan #guatemala city, guatemala
+	add_market = kuskatan #san salvador, el salvador
+	add_market = xoxonal #tegucigalpa, honduras, location might be wrong
+	add_market = nequecheri #managua, nicaragua
+	add_market = pacaca #san josé/san jose, costa rica
+	add_market = panama #panama city, panama
+
+	#caribbean
+	add_market = habana #havana, cuba
+	add_market = yaguabo #kingston, jamaica
+	add_market = abacoa #nassau, bahamas
+	add_market = caycos #providenciales, turks and caicos islands (british overseas territory)
+	add_market = jaragua #port-au-prince, haiti
+	add_market = cayacoa #santo domingo, dominican republic
+	add_market = guaynabo #san juan, puerto rico
+	add_market = anegada #british virgin islands, maby better if this is just part of caycos market
+	add_market = walichi #philipsburg, dutch saint martin
+	add_market = liamuiga #st kits and nevis
+	add_market = wadadli #antigua and barbuda
+	add_market = carucairi #french guadeloupe, a bit higher gdp than martinuque
+	add_market = waitu_kubuli #dominica
+	add_market = hewanorra #st lucia
+	add_market = youloumain #st Vincent and the grenadines
+	add_market = kamahuya #grenada
+	add_market = ichirouganaim #barbados
+	add_market = cairiana #trinidad and tobago
+	add_market = curacaute #curaçao/curacao, part of the dutch caribbean
+
+
+
+	#south america
+
+	add_market = boiaca #bogotá/bogota, colombia
+	add_market = caracas #caracas, venezuela
+	add_market = essequibo #georgetown, guyana
+	add_market = paramaribo #paramaribo, suriname
+	add_market = cayenne #cayenne, french guiana
+	add_market = guayaquil #guayaquil, ecuador, notably not the capital, but largest port and generally as important as quito
+	add_market = santiago_islands #puerto ayora, galapagos islands, ecuador, biggest port on the islands
+	add_market = rimaq #lima, peru
+	add_market = mbia #santa cruz de la sierra, bolivia, notably not the capital, but largest economy 
+	add_market = nemby #asunción/asuncion, paraguay
+	add_market = charrua #montevideo, uruguay
+	add_market = east_falkland #stanley, falkland islands
+
+	#chile
+	add_market = antofagasta #antofagasta, chile, important for mining industry, next to lithium triangle
+	add_market = waykuche #santiago, chile, not 100% sure about the location, it isnt on the coast tho
+	add_market = caurakawin #puerto montt, chile, biggest port for southern chile
+	add_market = horsh_aiken #punta arenas, chile, biggest port in patagonia
+	add_market = rapa_nui #hanga roa, easter island, chile
+
+	#argentina
+	add_market = ituzaingo #buenos aires, argentina, city also extends into tuvicha_mini
+	add_market = auleta #córdoba/cordoba, argentina
+	add_market = kububu #puerto madryn, argentina, biggest port in argentine patagonia
+	add_market = juni_aiken #rio gallegos, argentina, so that chiles market doesnt take over southern argentine patagonia
+
+	#brazil
+	add_market = manaos #manaus, brazil, most important port in the amazon
+	add_market = upaon_acu #são luís/sao luis, brazil
+	add_market = yapuata #recife, brazil
+	add_market = itaparica #vitoria, brazil, port of vitória has the largest iron terminal in the world (according to ai)
+	add_market = piratininga #são paulo/sao paulo, brazil
+	add_market = cangucu #rio grande, brazil, port of rio grande, notably not the nearby big city of porto alegre, brazil, in the tapes location
+	add_market = ava_canoeiro #brasília/brasilia, brazil, the capital of brazil
+	add_market = ikuiapa #cuiabá/cuiaba, brazil
+
+
+
+	#europe
+	add_market = reikjavik #reikjavik, iceland
+
+
+
+	#oceania
+
+	#australia
+	add_market = kariyarra #port of port hedland, western australia, biggest bulk exporting port in the world, primarily for iron ore
+	add_market = mandurah #perth, western australia
+	add_market = tarntanya #adelaid, south australia
+	add_market = boon_wurrung #melbourne, victoria, australia, market will have to be moved when new locations added and stuff
+	add_market = tommeginne #burnie port, tasmania, australia, notably not the capital of hobart, tasmania
+	add_market = eora #sydney, new south wales, australia, notably not the capital of australia
+	add_market = badtjala #brisbane, queensland, australia, notably not the biggest port by tonnage in queensland, which is the port of gladstone
+	add_market = bindal #townsville, queensland, australia, biggest port in northern queensland
+	add_market = larrakia #darwin, northern territory, australia
+
+	#new zealand
+	add_market = tamaki #auckland, new zealand, notably not the biggest port in new zealand, which is the port of tauranga, maby that is better because it is more central ?
+	add_market = akaroa #christchurch, new zealand, but actually the port of lyttelton, which is a bit away from actual christchurch
+	#north and south island divided because they are pretty far apart irl
+
+	#new caledonia
+	add_market = ndrumbea #noumea, new caledonai, nouméa, french new caledonia, exports a ton of nickel, notably not coastal in game but location should be changed to coastal
+
+	#vanuatu
+	add_market = efate #port vila, vanuatu
+
+	#fiji
+	add_market = kubuna #suva, fiji
+
+	#solomon islands
+	add_market = ghari #honiara, solomon islands
+
+	#tonga
+	add_market = tongatapu #nuku'alofa, tonga, nukualofa, tonga
+
+	#niue
+	add_market = niue #alofi, niue, notably niue is sort of part of new zealand
+
+	#samoa
+	add_market = upolu #apia, samoa
+
+	#american samoa
+	add_market = tutuila #pago pago, american samoa
+
+	#tokelau
+	add_market = nukunonu_atoll #tokelau has no permanent capital and no true port
+
+	#tuvalu
+	add_market = funafuti_atoll #funafuti, tuvalu
+
+	#cook islands
+	add_market = rarotonga_atoll #avarua, cook islands
+
+	#french polynesia
+	add_market = tahiti #papeete, french polynesia
+
+	#marshall islands
+	add_market = majuro_atoll #majuro, marshall islands
+
+	#nauru
+	add_market = nauru #yaren district, nauru, de facto capital according to ai
+	
+	#micronesia
+	add_market = pohnpei #palikir, micronesia, notably not on the coast
+
+	#palau
+	add_market = belau #koror, palau, notably the capital changed to ngerulmud in 2006, but that is only like 3 buildings
+
+	#kiribati
+	add_market = tarawa_atoll #tarawa, kiribati, capital and by far most populated island
+	add_market = kiritimati #tabwakea, kiribati, biggest settlement in the eastern islands of the country
+
+	#papua new guinea
+	add_market = bukawa #lae, papua new guinea, largest port in the country, notably not the capital
+	add_market = koiali #port moresby, papua new guinea, notably second largest port in the country, but capital and largest city
+
+
+
+	#asia
+
+	#east asia
+
+	#north korea
+	add_market = seogyeong #pyongyang, north korea
+
+	#south korea
+	add_market = namgyeong #seoul, south korea, notably busan is the biggest port, but the seoul metro area is half of koreas gdp
+	add_market = dongnae #busan, south korea, added because otherwise the fukuoka market takes over
+
+	#taiwan
+	add_market = ketagalan #taipei, taiwan, notably taipei isnt actually on the coast, so locations and capital should be changed
+
+	#japan
+	add_market = oozato #location of naha airport, okinawa, important for japans tourism industry
+	add_market = mikasa #fukuoka, japan, the actual port of the city is called hakata, but the ingame location of hakata has its port in the wrong location, so this might have to be changed
+	add_market = osaka #osaka, japan, second biggest metropolitan area in japan
+	add_market = toshima_kanto #financial center of tokyo, japan, locations here will need to be changed anyway so might change
+	add_market = miyagi #sendai, japan, biggest city in north honshu, and combined with the other markets it looked wierd with a hole there
+	add_market = sapporo #sapporo, japan, japan might have too many markets on its own, but otherwise hokkaido had very low market access
+
+
+	#southeast asia
+
+	#philippines
+	add_market = maynila #manila, philippines, locations here are very strange so hard to tell where manila would actually be
+	add_market = tagloc #davao city, philippines, biggest city in southern pihlippines
+	#add_market = singhapala #cebu city, philippines, also big southern city, maby better market center than davao
+
+	#brunei
+	add_market = berune #bandar seri begawan, brunei, capital of the country
+
+	#indonesia
+	add_market = gresi #jayapura, west papua, indonesia, biggest city in indonesian papua
+	add_market = gowa #makassar, south sulawesi,indonesia , biggest city in eastern indonesia and major regional port
+	add_market = surabaya #surabaya, east java, indonesia, second largest city by economy in indonesia
+	add_market = sunda_kelapa #jakarta, indonesia, one of the most populated cities on earth
+	add_market = kupang #kupang, timor, indonesia, biggest city in the sunda islands that isnt too close to java
+	add_market = hitu #ambon, maluku, indonesia, biggest city in the mollucas
+	#add_market = ternate #ternate, north maluku, indonesia, also big city in the mollucas, idk if this or ambon is a better market
+	add_market = jembayan #port of balikpapan, biggest port in indonesian borneo, other places in borneo might be better
+	add_market = deli #medan, north sumatra, indonesia, biggest city and busiest port on sumatra
+	add_market = palembang #palembang, south sumatra, indonesia, biggest city in southern sumatra
+	add_market = marind #merauke, south papua, indonesia, biggest city and port in southern indonesian papua
+	add_market = manado #manado, north sulawesi, indonesia, suggested by itsbenter in modding coop
+	add_market = moi #sorong, southwest papua, indonesia, major port in papua, suggested by itsbenter in modding coop
+	add_market = pontianak #pontianak, west kalimantan, indonesia, suggested by itsbenter in modding coop
+	add_market = padang #padang, west sumatra, indonesia, suggested by itsbenter in modding coop
+
+	#east timor
+	add_market = likusaen #dili, east timor, capital of east timor/timor leste
+
+	#malaysia
+	add_market = santubong #kuching, sarawak, malaysia, biggest city in malaysian borneo
+	add_market = api_api #kota kinabalu, sabah, malaysia, second biggest city in malaysia
+	add_market = klang #kuala lumpur, malaysia, capital and biggest city
+
+	#singapore
+	add_market = temasek #singapore, one of the financial capitals of the world
+
+	#thailand
+	add_market = ayodhya #bangkok, thailand, largest port is actually laem chabang port a few locations over, but bankok is biggest city and center of gdp
+
+	#cambodia
+	add_market = phnom_penh #phnom penh, cambodia, largest port is sihanoukville autonomous port up the road on the coast
+
+	#vietnam
+	add_market = thang_long #hanoi, vietnam
+	#add_market = dien_ban #da nang port, biggest port in central vietnam
+	add_market = prey_nokor #ho chi minh city, vietnam, biggest city and port in south vietnam, also financial capital
+
+	#laos
+	add_market = vientiane #vientiane, laos, capital
+
+	#myanmar
+	add_market = dagon #yangon, myanmar, largest port and financial capital
+	add_market = wetwin #mandalay, myanmar, second biggest city and transportation hub for the center
+
+	#
+	#add_market = a
+}

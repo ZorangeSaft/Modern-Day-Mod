@@ -1,0 +1,29 @@
+﻿mdm_debug_wind_speed_mapmode = {
+	type = country_event 				 # type of event 
+	title = mdm_debug_wind_speed_mapmode.title 			 # title key to be localized
+	desc = mdm_debug_wind_speed_mapmode.desc 			 # description key to be localized 
+	historical_info = mdm_debug_wind_speed_mapmode.historical_info  # optional description text to provide historical context
+	
+	trigger = { 	# List of requirements that need to be fulfilled for event to file
+		#a
+	}
+
+	immediate = {
+		error_log = "test message"
+		every_location_in_the_world = {
+			limit = { is_land = yes }
+			set_variable = {
+				name = mdm_local_wind_speed
+				value = mdm_wind_turbine_max_building_level
+			}
+			set_variable = {
+				name = mdm_local_solar_illumination
+				value = mdm_solar_panel_max_building_level
+			}
+		}
+	}
+
+	option = {
+	name = mdm_debug_wind_speed_mapmode.b
+	}
+}

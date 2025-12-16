@@ -1,0 +1,31 @@
+﻿l_english:
+###### mdm modern day mod
+
+ #wind speed mapmode/wind mapmode
+ mapmode_mdm_wind_name: "Wind Speed"
+ MAPMODE_MDM_WIND: "#T $mapmode_mdm_wind_name$#!\nThis colors [locations|e] by the [mdm_average_wind_speed|e] in the [location|e]."
+ MAPMODE_MDM_WIND_TT_LAND: "[ROOT.GetLocation.GetName] has an average [mdm_average_wind_speed|e] of [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed').GetValue|Y]."
+ MAPMODE_MDM_WIND_TT_WATER: "[ROOT.GetLocation.GetName] is not a land [location|e] so it does not have an [mdm_average_wind_speed|e] assigned."
+ MAPMODE_MDM_WIND_TT_LAND_BREAKDOWN: "[ROOT.GetLocation.GetName] has an average [mdm_average_wind_speed|e] of [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed').GetValue|Y].\nFrom local topography: [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed_topo_base').GetValue|Y]\nFrom nearby topography: [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed_topo_neighbors').GetValue|Y]\nTotal from topography: [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed_topo_total').GetValue|Y]\nFrom vegetation: [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed_veg').GetValue|Y]\nFrom nearby water: [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed_water').GetValue|Y]"
+
+ game_concept_mdm_average_wind_speed: "Average Wind Speed"
+ game_concept_mdm_average_wind_speed_desc: "[mdm_average_wind_speed|e] determines the maximum possible building level of wind turbines in a [location|e]"
+
+
+
+ #solar illumination mapmode/solar mapmode
+ mapmode_mdm_solar_name: "Solar Illumination"
+ MAPMODE_MDM_SOLAR: "#T $mapmode_mdm_solar_name$#!\nThis colors [locations|e] by the [mdm_average_solar_illumination|e] in the [location|e]."
+ MAPMODE_MDM_SOLAR_TT_LAND: "[ROOT.GetLocation.GetName] has an average [mdm_average_solar_illumination|e] of [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed').GetValue|Y]."
+ MAPMODE_MDM_SOLAR_TT_WATER: "[ROOT.GetLocation.GetName] is not a land [location|e] so it does not have an [mdm_average_solar_illumination|e] assigned."
+ MAPMODE_MDM_SOLAR_TT_LAND_BREAKDOWN: "[ROOT.GetLocation.GetName] has an average [mdm_average_solar_illumination|e] of [ROOT.GetLocation.MakeScope.Var('mdm_local_solar_illumination').GetValue|Y].\nFrom local topography: [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed_topo_base').GetValue|Y]\nFrom nearby topography: [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed_topo_neighbors').GetValue|Y]\nTotal from topography: [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed_topo_total').GetValue|Y]\nFrom vegetation: [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed_veg').GetValue|Y]\nFrom nearby water: [ROOT.GetLocation.MakeScope.Var('mdm_local_wind_speed_water').GetValue|Y]"
+
+ game_concept_mdm_average_solar_illumination: "Average Solar Illumination"
+ game_concept_mdm_average_solar_illumination_desc: "[mdm_average_solar_illumination|e] determines the maximum possible building level of solar panels in a [location|e]"
+
+
+
+ #other localisation
+ game_concept_deflation: "Deflation"
+ game_concept_deflate: "Deflate"
+ game_concept_deflation_desc: "Deflation is bad even tho it sounds good at first."

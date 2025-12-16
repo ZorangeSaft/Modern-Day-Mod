@@ -1,0 +1,101 @@
+﻿#on_game_start = {
+#	effect = {
+#		every_location_in_the_world = {
+#            limit = { is_land = yes }
+#            set_variable = {
+#                name = mdm_local_wind_speed
+#                value = mdm_wind_turbine_max_building_level
+#            }
+#        }
+#    }
+#}
+
+#from CaesarVincens
+
+#on_game_start = {
+#  effect = {
+#    every_location_in_the_world = {
+#        limit = { is_land = yes }
+#        set_variable = {
+#            name = num_neighbor_locations
+#            value = { every_neighbor_location = { add = 1 } }
+#         }
+#        set_variable = {
+#            name = mdm_local_wind_speed
+#            value = mdm_wind_turbine_max_building_level
+#        }
+#    }
+#  }
+#}
+
+#on_game_start = {
+#  on_actions = {
+#    mdm_on_game_start
+#  }
+#}
+#mdm_on_game_start = {
+#  effect = {
+#    every_location_in_the_world = {
+#      limit = { is_land = yes }
+#      set_variable = {
+#        name = num_neighbor_locations
+#        value = { every_neighbor_location = { add = 1 } }
+#      }
+#      set_variable = {
+#        name = mdm_local_wind_speed
+#        value = mdm_wind_turbine_max_building_level
+#      }
+#    }
+#  }
+#}
+
+#on_game_start = {
+#  on_actions = {
+#    mdm_calc_num_neighbor_locations
+#    delay = { days = 1 }
+#    mdm_calc_average_wind_speed
+#  }
+#}
+#mdm_calc_num_neighbor_locations = {
+#  effect = {
+#    every_location_in_the_world = {
+#      limit = { is_land = yes }
+#      set_variable = {
+#        name = num_neighbor_locations
+#        value = { every_neighbor_location = { add = 1 } }
+#      }
+#    }
+#  }
+#}
+#mdm_calc_average_wind_speed = {
+#  effect = {
+#    every_location_in_the_world = {
+#      limit = { is_land = yes }
+#      set_variable = {
+#        name = mdm_local_wind_speed
+#        value = mdm_wind_turbine_max_building_level
+#      }
+#    }
+#  }
+#}
+
+on_game_start = {
+  on_actions = {
+    mdm_on_game_start
+  }
+}
+mdm_on_game_start = {
+  effect = {
+    every_location_in_the_world = {
+      limit = { is_land = yes }
+      set_variable = {
+        name = mdm_local_wind_speed
+        value = mdm_wind_turbine_max_building_level
+      }
+      set_variable = {
+        name = mdm_local_solar_illumination
+        value = mdm_solar_panel_max_building_level
+      }
+    }
+  }
+}

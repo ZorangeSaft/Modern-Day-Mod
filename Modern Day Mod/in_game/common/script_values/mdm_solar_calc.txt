@@ -1,0 +1,222 @@
+﻿#mdm modern day mod
+
+mdm_solar_panel_max_building_level = { #add stuff so sichuan in china has worse top level, generaly stuff like that, to make it a bit more accurate to irl https://globalsolaratlas.info/map?c=22.187405,-10.371094,3&s=27.994401,19.335938&m=site
+	value = 0
+	#topography checks
+	#if mountains
+	if = {
+		limit = { topography = mountains }
+		add = 45 #40
+	}
+	#if hills
+	else_if = {
+		limit = { topography = hills }
+		add = 35 #40 #30
+	}
+	#if plateau
+	else_if = {
+		limit = { topography = plateau }
+		add = 40 #35 #25
+	}
+	#if wetlands
+	else_if = {
+		limit = { topography = wetlands }
+		add = 30 #15
+	}
+	#if flatland
+	else = {
+		#limit = { topography = flatland }
+		add = 30 #20
+	}
+
+
+	#vegetation checks
+	#if jungle
+	if = {
+		limit = { vegetation = jungle }
+		multiply = 0.95 #0.8 #0.6 #0.3
+	}
+	#if forest
+	else_if = {
+		limit = { vegetation = forest }
+		multiply = 0.8 #0.9 #0.8 #0.7
+	}
+	#if woods
+	else_if = {
+		limit = { vegetation = woods }
+		multiply = 0.9 #1 #0.9
+	}
+	#if grassland
+	else_if = {
+		limit = { vegetation = grasslands }
+		multiply = 1.1 #1.3 #1
+	}
+	#if farmland
+	else_if = {
+		limit = { vegetation = farmland }
+		multiply = 1.2 #1.1
+	}
+	#if sparse
+	else_if = {
+		limit = { vegetation = sparse }
+		multiply = 1.35 #1.4 #1.3
+	}
+	#if desert
+	else = {
+		#limit = { vegetation = desert }
+		multiply = 1.5 #1.6 #1.4
+	}
+
+
+	#climate checks
+	if = {
+		limit = { climate = cold_arid }
+		multiply = 0.9
+	}
+	else_if = {
+		limit = { climate = continental }
+		multiply = 0.85
+	}
+	else_if = {
+		limit = { climate = mediterranean }
+		multiply = 1.05 #1.15 #1.05
+	}
+	else_if = {
+		limit = { climate = tropical }
+		multiply = 1.1 #0.95
+	}
+	else_if = {
+		limit = { climate = oceanic }
+		multiply = 0.8
+	}
+	else_if = {
+		limit = { climate = subtropical }
+		multiply = 0.95 #1.1 #0.95
+	}
+	else_if = {
+		limit = { climate = arctic }
+		multiply = 0.7
+	}
+	else = {
+		#if hot_arid then 1
+	}
+
+
+
+	#region checks
+	if = {
+		limit = { region = region:australia_region }
+		multiply = 1.5 #australia and new zealand get a ton of solar radiation irl
+	}
+	if = {
+		limit = { region = region:new_zealand_region }
+		multiply = 1.15
+	}
+	if = {
+		limit = { region = region:canada_region }
+		multiply = 1.3
+	}
+	if = {
+		limit = { region = region:east_coast_region }
+		multiply = 1.3
+	}
+	#if = {
+	#	limit = { region = region:great_plains_region }
+	#	multiply = 1.3
+	#}
+	if = {
+		limit = { region = region:deccan_region }
+		multiply = 1.1
+	}
+	if = {
+		limit = { region = region:bengal_region }
+		multiply = 1.2
+	}
+	if = {
+		limit = { region = region:central_india_region }
+		multiply = 1.1
+	}
+	if = {
+		limit = { region = region:south_china_region }
+		multiply = 0.8
+	}
+	if = {
+		limit = { region = region:east_china_region }
+		multiply = 0.8
+	}
+	if = {
+		limit = { region = region:balkans_region }
+		multiply = 1.1
+	}
+	if = {
+		limit = { region = region:carpathia_region }
+		multiply = 1.1
+	}
+	
+
+	#area checks
+	if = {
+		limit = { 
+			OR = { 
+				area = area:chuanxi_area
+				area = area:chuandong_area
+			}
+		}
+		multiply = 0.65
+	}
+	if = {
+		limit = { area = area:chuannan_area }
+		multiply = 0.55
+	}
+	if = {
+		limit = { area = area:guizhou_area }
+		multiply = 0.8
+	}
+	if = {
+		limit = { area = area:texas_area }
+		multiply = 1.3
+	}
+	if = {
+		limit = { area = area:louisiana_area }
+		multiply = 1.3
+	}
+	if = {
+		limit = { area = area:arkansas_area }
+		multiply = 1.3
+	}
+	if = {
+		limit = { area = area:missouri_area }
+		multiply = 1.3
+	}
+	if = {
+		limit = { area = area:iowa_area }
+		multiply = 1.3
+	}
+	if = {
+		limit = { area = area:superior_area }
+		multiply = 1.3
+	}
+	if = {
+		limit = { area = area:red_river_area }
+		multiply = 1.3
+	}
+	if = {
+		limit = { area = area:central_plains_area }
+		multiply = 1.3
+	}
+
+
+	#province checks
+	if = {
+		limit = { province_definition = province_definition:trebizond_province } #pontus is very rainy
+		multiply = 0.6
+	}
+	if = {
+		limit = { province_definition = province_definition:canik_province } #pontus is very rainy
+		multiply = 0.6
+	}
+
+
+
+	#fix area around paraguay, central africa, area around mozanbique, northern india, northern quebec, northe western canada, that wierd belt in west africa, some other parts
+}

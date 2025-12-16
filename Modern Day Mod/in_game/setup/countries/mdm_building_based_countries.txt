@@ -1,0 +1,16 @@
+﻿#####mdm modern day mod
+
+EUROP = {
+	color = blue
+	color2 = rgb {0 51 153}
+	
+	unit_color0 = rgb {0 51 153}
+	unit_color1 = rgb {0 51 153}
+	unit_color2 = rgb {0 51 153}
+
+	culture_definition = mdm_european_culture
+	religion_definition = catholic
+
+	description_category = diplomatic
+	difficulty = 2
+}

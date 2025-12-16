@@ -1,0 +1,36 @@
+﻿#####mdm modern day mod
+
+mdm_european_culture = { #european culture for the EU building country at start
+	language = mdm_european_language #english_dialect #idk if the language should be english or european
+	
+	color = blue
+	
+	tags = { western_european_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		mdm_united_nations_culture = positive
+		#add all other european cultures here as well
+	}
+
+	culture_groups = {
+		mdm_european_group
+		mdm_internationalism_group
+	}
+}
+
+mdm_united_nations_culture = { #united nations culture for the UN building country at start
+	language = mdm_united_nations_language #english_dialect #idk if the language should be english instead
+	
+	color = blue
+	
+	tags = { western_european_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		mdm_european_culture = positive
+		#add english, spanish, french, russian, arabic and chinese ?
+	}
+
+	culture_groups = {
+		mdm_internationalism_group
+	}
+}

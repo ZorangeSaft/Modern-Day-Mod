@@ -1,0 +1,38 @@
+﻿
+mdm_european_language = {
+	color = blue
+
+	family = mdm_european_language_family
+
+	male_names = {
+		#maby add all the names here from the other european languages ?
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+
+	}
+	lowborn = {
+
+	}
+}
+
+mdm_united_nations_language = {
+	color = blue
+
+	family = mdm_united_nations_language_family
+
+	male_names = {
+		#should in theory have literally every name in the game, might be bad to do that tho
+	}
+	female_names = {
+		
+	}
+	dynasty_names = {
+
+	}
+	lowborn = {
+
+	}
+}

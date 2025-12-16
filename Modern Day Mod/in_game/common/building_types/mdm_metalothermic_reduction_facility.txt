@@ -1,0 +1,63 @@
+mdm_metalothermic_reduction_facility = {
+    is_foreign = no
+    max_levels = mdm_location_rank_max_level
+    pop_type = laborers
+    
+    employment_size = mdm_default_employment
+    category = infrastructure_category
+    
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+    village = yes
+    rural_settlement = yes
+
+    price = mdm_default_price
+    build_time = mdm_default_built_time
+
+    unique_production_methods = {
+        mdm_metalothermic_reduction_facility_beryllium = {
+            beryllium_ore = 1
+            magnesium = 0.2
+            produced = beryllium
+            output = 0.8
+        }
+        mdm_metalothermic_reduction_facility_magnesium = {
+            magnesium_ore = 1
+            silicon = 0.2
+            coal = 0.2
+            produced = magnesium
+            output = 0.8
+        }
+        mdm_metalothermic_reduction_facility_niobium = {
+            niobium_ore = 1
+            aluminium = 0.3
+            produced = niobium
+            output = 0.85
+        }
+        mdm_metalothermic_reduction_facility_titanium = {
+            rutile = 1
+            magnesium = 0.2
+            chlorine = 0.2
+            produced = titanium
+            output = 0.85
+        }
+        mdm_metalothermic_reduction_facility_tungsten = {
+            tungsten_ore = 1
+            coal = 0.2
+            produced = tungsten
+            output = 0.85
+        }
+        mdm_metalothermic_reduction_facility_zirconium = {
+            zirconium_ore = 1
+            manganese = 0.2
+            chlorine = 0.2
+            produced = zirconium
+            output = 0.85
+        }
+	}
+
+    construction_demand = mdm_default_construction_demand
+}

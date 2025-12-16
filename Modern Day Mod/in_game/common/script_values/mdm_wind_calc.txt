@@ -1,0 +1,504 @@
+﻿#mdm modern day mod
+
+mdm_wind_turbine_max_building_level = { #add stuff so northern india and sichuan in china has worse top level and patagonia has better, generaly stuff like that, to make it a bit more accurate to irl https://globalwindatlas.info/en/
+	save_temporary_value_as = {
+		name = num_land_neighbors
+		value = {
+			every_neighbor_location = { limit = { is_land = yes } add = 1 }
+		}
+	}
+	save_temporary_value_as = {
+		name = num_sea_neighbors
+		value = {
+			every_neighbor_location = { limit = { is_land = no } add = 1 }
+		}
+	}
+	value = 0
+	#topography checks
+	#if mountains
+	if = {
+		limit = { topography = mountains }
+		add = 40 #20 #40
+		add = {
+			every_neighbor_location = {
+				limit = { topography = mountains }
+				add = 0
+			}
+			every_neighbor_location = {
+				limit = { topography = hills }
+				add = 5.5 #1
+			}
+			every_neighbor_location = {
+				limit = { topography = plateau }
+				add = 8.25 #1.5
+			}
+			every_neighbor_location = {
+				limit = { topography = wetlands }
+				add = 13.75 #2.5
+			}
+			every_neighbor_location = {
+				limit = { topography = flatland }
+				add = 16.5 #3
+			}
+			divide = scope:num_land_neighbors #cached
+		}
+	}
+	#if hills
+	else_if = {
+		limit = { topography = hills }
+		add = 30 #15 #30
+		add = {
+			every_neighbor_location = {
+				limit = { topography = mountains }
+				add = -11 #-2
+			}
+			every_neighbor_location = {
+				limit = { topography = hills }
+				add = 0 #0
+			}
+			every_neighbor_location = {
+				limit = { topography = plateau }
+				add = 5.5 #1
+			}
+			every_neighbor_location = {
+				limit = { topography = wetlands }
+				add = 11.55 #2.1
+			}
+			every_neighbor_location = {
+				limit = { topography = flatland }
+				add = 11 #2
+			}
+			divide = scope:num_land_neighbors #cached
+		}
+	}
+	#if plateau
+	else_if = {
+		limit = { topography = plateau }
+		add = 25 #12.5 #25
+		add = {
+			every_neighbor_location = {
+				limit = { topography = mountains }
+				add = -11 #-2
+			}
+			every_neighbor_location = {
+				limit = { topography = hills }
+				add = -5.5 #-1
+			}
+			every_neighbor_location = {
+				limit = { topography = plateau }
+				add = 5.5 #1
+			}
+			every_neighbor_location = {
+				limit = { topography = wetlands }
+				add = 11.55 #2.1
+			}
+			every_neighbor_location = {
+				limit = { topography = flatland }
+				add = 11 #2
+			}
+			divide = scope:num_land_neighbors #cached
+		}
+	}
+	#if wetlands
+	else_if = {
+		limit = { topography = wetlands }
+		add = 15 #7.5 #15
+		add = { 
+			every_neighbor_location = {
+				limit = { topography = mountains }
+				add = -16.5 #-3
+			}
+			every_neighbor_location = {
+				limit = { topography = hills }
+				add = -11 #-2
+			}
+			every_neighbor_location = {
+				limit = { topography = plateau }
+				add = -13.75 #-2.5
+			}
+			every_neighbor_location = {
+				limit = { topography = wetlands }
+				add = 14.85 #2.7
+			}
+			every_neighbor_location = {
+				limit = { topography = flatland }
+				add = 13.75#2.5
+			}
+			divide = scope:num_land_neighbors #cached
+		}
+	}
+	#if flatland
+	else = {
+		#limit = { topography = flatland }
+		add = 20 #10 #20
+		add = {
+			every_neighbor_location = {
+				limit = { topography = mountains }
+				add = -16.5 #-3
+			}
+			every_neighbor_location = {
+				limit = { topography = hills }
+				add = -11 #-2
+			}
+			every_neighbor_location = {
+				limit = { topography = plateau }
+				add = -13.75 #-2.5
+			}
+			every_neighbor_location = {
+				limit = { topography = wetlands }
+				add = 17.05 #3.1
+			}
+			every_neighbor_location = {
+				limit = { topography = flatland }
+				add = 16.5 #3
+			}
+			divide = scope:num_land_neighbors #cached
+		}
+	}
+	#vegetation checks
+	#if jungle
+	if = {
+		limit = { vegetation = jungle }
+		multiply = 0.3
+	}
+	#if forest
+	else_if = {
+		limit = { vegetation = forest }
+		multiply = 0.7
+	}
+	#if woods
+	else_if = {
+		limit = { vegetation = woods }
+		multiply = 0.9
+	}
+	#if grassland
+	else_if = {
+		limit = { vegetation = grasslands }
+		multiply = 1
+	}
+	#if farmland
+	else_if = {
+		limit = { vegetation = farmland }
+		multiply = 1.1
+	}
+	#if sparse
+	else_if = {
+		limit = { vegetation = sparse }
+		multiply = 1.3
+	}
+	#if desert
+	else = {
+		#limit = { vegetation = desert }
+		multiply = 1.4
+	}
+	#coastal check
+	add = { # This lets you calculate a "sub value" without affecting the main value
+		if = {
+			limit = { is_coastal = yes }
+			every_neighbor_location = {
+				limit = { topography = lakes }
+				add = 1.5 #8.25 #1.5
+				#multiply = 1.05
+			}
+			every_neighbor_location = {
+				limit = { topography = narrows }
+				add = 2 #11 #2
+				#multiply = 1.1
+			}
+			every_neighbor_location = {
+				limit = { topography = inland_sea }
+				add = 3 #16.5 #3
+				#multiply = 1.15
+			}
+			every_neighbor_location = {
+				limit = { topography = coastal_ocean }
+				add = 4 #22 #4
+				#multiply = 1.2
+			}
+		}
+		#none coastal lake check
+		else_if = {
+			limit = { is_coastal = no }
+			every_neighbor_location = {
+				limit = { topography = lakes }
+				add = 1.3 #7.15 #1.3
+				#multiply = 1.05 #1.2 #1.05
+			}
+			every_neighbor_location = {
+				limit = { topography = high_lakes }
+				add = 1.2 #6.6 #1.2
+				#multiply = 1.025 #1.1 #1.025
+			}
+		}
+		divide = scope:num_sea_neighbors #cached
+	}
+}
+
+mdm_wind_topography_base = {
+	value = 0
+	#topography checks
+	#if mountains
+	if = {
+		limit = { topography = mountains }
+		add = 40 #20 #40
+	}
+	#if hills
+	else_if = {
+		limit = { topography = hills }
+		add = 30 #15 #30
+	}
+	#if plateau
+	else_if = {
+		limit = { topography = plateau }
+		add = 25 #12.5 #25
+	}
+	#if wetlands
+	else_if = {
+		limit = { topography = wetlands }
+		add = 15 #7.5 #15
+	}
+	#if flatland
+	else = {
+		#limit = { topography = flatland }
+		add = 20 #10 #20
+	}
+}
+mdm_wind_topography_neighbors = {
+	save_temporary_value_as = {
+		name = num_land_neighbors
+		value = {
+			every_neighbor_location = { limit = { is_land = yes } add = 1 }
+		}
+	}
+	value = 0
+	#topography checks
+	#if mountains
+	if = {
+		limit = { topography = mountains }
+		add = {
+			every_neighbor_location = {
+				limit = { topography = mountains }
+				add = 0
+			}
+			every_neighbor_location = {
+				limit = { topography = hills }
+				add = 5.5 #1
+			}
+			every_neighbor_location = {
+				limit = { topography = plateau }
+				add = 8.25 #1.5
+			}
+			every_neighbor_location = {
+				limit = { topography = wetlands }
+				add = 13.75 #2.5
+			}
+			every_neighbor_location = {
+				limit = { topography = flatland }
+				add = 16.5 #3
+			}
+			#divide = scope:num_land_neighbors #cached
+		}
+	}
+	#if hills
+	else_if = {
+		limit = { topography = hills }
+		add = {
+			every_neighbor_location = {
+				limit = { topography = mountains }
+				add = -11 #-2
+			}
+			every_neighbor_location = {
+				limit = { topography = hills }
+				add = 0 #0
+			}
+			every_neighbor_location = {
+				limit = { topography = plateau }
+				add = 5.5 #1
+			}
+			every_neighbor_location = {
+				limit = { topography = wetlands }
+				add = 11.55 #2.1
+			}
+			every_neighbor_location = {
+				limit = { topography = flatland }
+				add = 11 #2
+			}
+			#divide = scope:num_land_neighbors #cached
+		}
+	}
+	#if plateau
+	else_if = {
+		limit = { topography = plateau }
+		add = {
+			every_neighbor_location = {
+				limit = { topography = mountains }
+				add = -11 #-2
+			}
+			every_neighbor_location = {
+				limit = { topography = hills }
+				add = -5.5 #-1
+			}
+			every_neighbor_location = {
+				limit = { topography = plateau }
+				add = 5.5 #1
+			}
+			every_neighbor_location = {
+				limit = { topography = wetlands }
+				add = 11.55 #2.1
+			}
+			every_neighbor_location = {
+				limit = { topography = flatland }
+				add = 11 #2
+			}
+			#divide = scope:num_land_neighbors #cached
+		}
+	}
+	#if wetlands
+	else_if = {
+		limit = { topography = wetlands }
+		add = { 
+			every_neighbor_location = {
+				limit = { topography = mountains }
+				add = -16.5 #-3
+			}
+			every_neighbor_location = {
+				limit = { topography = hills }
+				add = -11 #-2
+			}
+			every_neighbor_location = {
+				limit = { topography = plateau }
+				add = -13.75 #-2.5
+			}
+			every_neighbor_location = {
+				limit = { topography = wetlands }
+				add = 14.85 #2.7
+			}
+			every_neighbor_location = {
+				limit = { topography = flatland }
+				add = 13.75#2.5
+			}
+			#divide = scope:num_land_neighbors #cached
+		}
+	}
+	#if flatland
+	else = {
+		#limit = { topography = flatland }
+		add = {
+			every_neighbor_location = {
+				limit = { topography = mountains }
+				add = -16.5 #-3
+			}
+			every_neighbor_location = {
+				limit = { topography = hills }
+				add = -11 #-2
+			}
+			every_neighbor_location = {
+				limit = { topography = plateau }
+				add = -13.75 #-2.5
+			}
+			every_neighbor_location = {
+				limit = { topography = wetlands }
+				add = 17.05 #3.1
+			}
+			every_neighbor_location = {
+				limit = { topography = flatland }
+				add = 16.5 #3
+			}
+			#divide = scope:num_land_neighbors #cached
+		}
+	}
+}
+
+mdm_wind_veg = {
+	#vegetation checks
+	#if jungle
+	if = {
+		limit = { vegetation = jungle }
+		value = 0.3
+	}
+	#if forest
+	else_if = {
+		limit = { vegetation = forest }
+		value = 0.7
+	}
+	#if woods
+	else_if = {
+		limit = { vegetation = woods }
+		value = 0.9
+	}
+	#if grassland
+	else_if = {
+		limit = { vegetation = grasslands }
+		value = 1
+	}
+	#if farmland
+	else_if = {
+		limit = { vegetation = farmland }
+		value = 1.1
+	}
+	#if sparse
+	else_if = {
+		limit = { vegetation = sparse }
+		value = 1.3
+	}
+	#if desert
+	else = {
+		#limit = { vegetation = desert }
+		value = 1.4
+	}
+}
+mdm_wind_sea = {
+	save_temporary_value_as = {
+		name = num_sea_neighbors
+		value = {
+			every_neighbor_location = { limit = { is_land = no } add = 1 }
+		}
+	}
+	value = 0
+	#coastal check
+	add = { # This lets you calculate a "sub value" without affecting the main value
+		if = {
+			limit = { is_coastal = yes }
+			every_neighbor_location = {
+				limit = { topography = lakes }
+				add = 1.5 #8.25 #1.5
+				#multiply = 1.05
+			}
+			every_neighbor_location = {
+				limit = { topography = narrows }
+				add = 2 #11 #2
+				#multiply = 1.1
+			}
+			every_neighbor_location = {
+				limit = { topography = inland_sea }
+				add = 3 #16.5 #3
+				#multiply = 1.15
+			}
+			every_neighbor_location = {
+				limit = { topography = coastal_ocean }
+				add = 4 #22 #4
+				#multiply = 1.2
+			}
+		}
+		#none coastal lake check
+		else_if = {
+			limit = { is_coastal = no }
+			every_neighbor_location = {
+				limit = { topography = lakes }
+				add = 1.3 #7.15 #1.3
+				#multiply = 1.05 #1.2 #1.05
+			}
+			every_neighbor_location = {
+				limit = { topography = high_lakes }
+				add = 1.2 #6.6 #1.2
+				#multiply = 1.025 #1.1 #1.025
+			}
+		}
+		divide = scope:num_sea_neighbors #cached
+	}
+}
+mdm_wind_neighbors = {
+	value = {
+		every_neighbor_location = { limit = { is_land = yes } add = 1 }
+	}
+}

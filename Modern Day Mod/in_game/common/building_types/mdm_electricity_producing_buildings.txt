@@ -1,0 +1,124 @@
+﻿mdm_hydroelectric_dam = {
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers
+	
+	employment_size = mdm_default_employment
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	#expensive = yes
+	price = mdm_default_price
+	build_time = mdm_default_built_time
+	
+	forbidden_for_estates = yes
+	
+	location_potential = {
+		has_river = yes
+	}
+
+	unique_production_methods = {
+		mdm_hydroelectric_dam_maintenance = {
+			tools = 0.1
+			category = building_maintenance
+		}
+	}
+
+	construction_demand = mdm_default_construction_demand
+
+	modifier = {
+		local_proximity_source = 5
+		#local_peasants_estate_power = 0.5
+	}
+	
+	
+}
+
+mdm_wind_turbine = {
+	is_foreign = no
+	max_levels = {
+	#value = mdm_wind_turbine_max_building_level
+  	value = var:mdm_local_wind_speed
+  	#other stuff
+	}
+	pop_type = laborers
+	
+	employment_size = mdm_default_employment
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	#expensive = yes
+	price = mdm_default_price
+	build_time = mdm_default_built_time
+	
+	#forbidden_for_estates = yes
+	
+	#location_potential = {
+	#	location_rank = location_rank:rural_settlement
+	#}
+
+	unique_production_methods = {
+		default_input = {
+			tools = 0.1
+			category = building_maintenance
+		}
+	}
+
+	construction_demand = mdm_default_construction_demand
+
+	modifier = {
+		local_proximity_source = 5
+		#local_peasants_estate_power = 0.5
+	}
+	
+	
+}
+
+mdm_solar_panel = {
+	is_foreign = no
+	max_levels = {
+  	value = var:mdm_local_solar_illumination
+	}
+	pop_type = laborers
+	
+	employment_size = mdm_airport_employment
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_default_price
+	build_time = mdm_default_built_time
+
+	unique_production_methods = {
+		mdm_solar_panel_production = {
+			tools = 0.1
+			produced = electricity
+			output = 10 #temporary
+			
+			#debug_max_profit = 0.6
+			category = building_maintenance
+		}
+	}
+
+	construction_demand = mdm_default_construction_demand
+}

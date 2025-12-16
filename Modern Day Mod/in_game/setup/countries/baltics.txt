@@ -1,0 +1,26 @@
+﻿EST = {
+	color = map_osel
+	color2 = rgb { 16 41 202 }
+
+	culture_definition = estonian
+	religion_definition = catholic
+}
+
+LAT = {
+	color = map_riga
+	color2 = rgb { 16 41 202 }
+
+	culture_definition = latvian
+	religion_definition = catholic
+}
+
+LIT = {
+	color = map_LIT
+	color2 = rgb { 154 69 116 }
+
+	culture_definition = aukstaitian
+	religion_definition = catholic
+
+	description_category = military
+	difficulty = 3
+}

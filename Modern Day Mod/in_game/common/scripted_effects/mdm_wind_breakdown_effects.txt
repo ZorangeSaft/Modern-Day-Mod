@@ -1,0 +1,77 @@
+﻿# Run in inspector as:
+# get_wind_breakdown = {
+#  location = geneve
+# }
+get_wind_breakdown = {
+	set_variable = {
+		name = mdm_$location$_wind_speed
+		value = location:$location$.var:mdm_local_wind_speed
+	}
+	set_variable = {
+		name = mdm_$location$_wind_speed_topo_total
+		value = {
+			value = location:$location$.mdm_wind_topography_base
+			add = {
+				value = location:$location$.mdm_wind_topography_neighbors
+				divide = location:$location$.mdm_wind_neighbors
+			}
+		}
+	}
+	set_variable = {
+		name = mdm_$location$_wind_speed_topo_base
+		value = location:$location$.mdm_wind_topography_base
+	}
+	set_variable = {
+		name = mdm_$location$_wind_speed_topo_neighbors
+		value = location:$location$.mdm_wind_topography_neighbors
+	}
+	set_variable = {
+		name = mdm_$location$_wind_speed_veg
+		value = location:$location$.mdm_wind_veg
+	}
+	set_variable = {
+		name = mdm_$location$_wind_speed_water
+		value = location:$location$.mdm_wind_sea
+	}
+	set_variable = {
+		name = mdm_$location$_land_neighbors
+		value = location:$location$.mdm_wind_neighbors
+	}
+}
+
+get_local_wind_breakdown = {
+	set_variable = mdm_local_wind_speed_breakdown
+	set_variable = {
+		name = mdm_local_wind_speed_topo_total
+		value = {
+			value = mdm_wind_topography_base
+			add = {
+				value = mdm_wind_topography_neighbors
+				divide = mdm_wind_neighbors
+			}
+		}
+	}
+	set_variable = {
+		name = mdm_local_wind_speed_topo_base
+		value = mdm_wind_topography_base
+	}
+	set_variable = {
+		name = mdm_local_wind_speed_topo_neighbors
+		value = {
+				value = mdm_wind_topography_neighbors
+				divide = mdm_wind_neighbors
+			}
+	}
+	set_variable = {
+		name = mdm_local_wind_speed_veg
+		value = mdm_wind_veg
+	}
+	set_variable = {
+		name = mdm_local_wind_speed_water
+		value = mdm_wind_sea
+	}
+	set_variable = {
+		name = mdm_local_land_neighbors
+		value = mdm_wind_neighbors
+	}
+}

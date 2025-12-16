@@ -1,0 +1,9 @@
+﻿#mdm modern day mod
+
+
+
+#building cap = location rank
+mdm_location_rank_max_level = {
+	value = 7
+	subtract = rank_index
+}
