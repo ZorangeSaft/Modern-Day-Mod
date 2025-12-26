@@ -2623,24 +2623,10 @@ GUB = { # Gubbio
 
 # GUY TODO
 
-HAB = { # Austria TODO
+HAB = { # mdm modern day mod Austria
 	flag_definition = {
-		coa = HAB
+		coa = mdm_HAB
 		priority = 1
-	}
-	flag_definition = {
-		coa = HAB_emperor
-		priority = 0 # Commented out for now (update to DH if restored)
-		trigger = {
-			coa_def_hre_emperor_trigger = yes
-		}
-	}	
-	flag_definition = {
-		coa = HAB_IMPERIAL
-		priority = 50
-		trigger = {
-			has_variable = hab_imperial_flag # Monarchy, empire rank, revo era
-		}
 	}
 }
 
