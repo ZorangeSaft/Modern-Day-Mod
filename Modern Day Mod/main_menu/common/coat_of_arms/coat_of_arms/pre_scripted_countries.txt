@@ -14078,7 +14078,7 @@ GEO = { # Georgia
 	}
 }
 
-GER_2000 = { # Germany 2000
+mdm_GER = { # mdm modern day mod Germany
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "black"
 	color2 = "red"
