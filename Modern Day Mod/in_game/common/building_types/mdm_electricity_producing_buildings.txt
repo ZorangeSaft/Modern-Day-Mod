@@ -32,12 +32,6 @@
 	}
 
 	construction_demand = mdm_default_construction_demand
-
-	modifier = {
-		local_proximity_source = 5
-		#local_peasants_estate_power = 0.5
-	}
-	
 	
 }
 
@@ -79,12 +73,6 @@ mdm_wind_turbine = {
 	}
 
 	construction_demand = mdm_default_construction_demand
-
-	modifier = {
-		local_proximity_source = 5
-		#local_peasants_estate_power = 0.5
-	}
-	
 	
 }
 

@@ -1,0 +1,64 @@
+﻿mdm_park = {
+    is_foreign = no
+    max_levels = {
+        value = 6
+	    subtract = rank_index
+    }
+    pop_type = laborers
+
+    employment_size = mdm_default_employment
+    category = infrastructure_category
+
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+    village = yes
+
+    price = 60
+    build_time = mdm_default_built_time
+
+    unique_production_methods = {
+        mdm_park_maintenance = {
+            electricity = 10
+        }
+    }
+
+    construction_demand = mdm_default_construction_demand
+
+    modifier = {
+        local_unrest = -0.01 #ideally this would be local estate satisfaction instead but that doesnt exist in game
+	}
+}
+
+mdm_botanical_garden = {
+    is_foreign = no
+    max_levels = mdm_location_rank_max_level_minus_2
+    pop_type = laborers
+
+    employment_size = mdm_default_employment
+    category = infrastructure_category
+
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+
+    price = 60
+    build_time = mdm_default_built_time
+
+    unique_production_methods = {
+        mdm_botanical_garden_maintenance = {
+            electricity = 50
+        }
+    }
+
+    construction_demand = mdm_default_construction_demand
+
+    modifier = {
+		local_max_literacy = 1
+        local_unrest = -0.01 #ideally this would be local estate satisfaction instead but that doesnt exist in game
+	}
+}

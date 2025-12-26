@@ -435,6 +435,13 @@ manganese = {
 	transport_cost = 2
 }
 
+mercury = {
+	category = produced
+	color = goods_steel
+	default_market_price = 5
+	transport_cost = 2
+}
+
 molybdenum = {
 	category = produced
 	color = goods_steel

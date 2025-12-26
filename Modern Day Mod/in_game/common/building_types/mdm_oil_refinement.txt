@@ -1,0 +1,67 @@
+﻿mdm_oil_refinery = {
+	is_foreign = no
+	max_levels = mdm_dev_and_rank_max_level
+	pop_type = laborers
+
+	employment_size = mdm_default_employment
+	category = infrastructure_category
+
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_default_price
+	build_time = mdm_default_built_time
+
+	unique_production_methods = {
+		mdm_oil_refinery_petrogas = {
+			electricity = 0.3
+			fresh_water = 0.05
+			raw_oil = 0.1
+			produced = petrogas
+			output = 0.10
+		}
+		mdm_oil_refinery_gasoline = {
+			electricity = 1.2
+			fresh_water = 0.2
+			raw_oil = 0.4
+			produced = gasoline
+			output = 0.40
+		}
+		mdm_oil_refinery_jet_fuel = {
+			electricity = 0.3
+			fresh_water = 0.05
+			raw_oil = 0.1
+			produced = jet_fuel
+			output = 0.10
+		}
+		mdm_oil_refinery_diesel = {
+			electricity = 0.9
+			fresh_water = 0.15
+			raw_oil = 0.3
+			produced = diesel
+			output = 0.30
+		}
+		mdm_oil_refinery_heavy_oil = {
+			electricity = 0.3
+			fresh_water = 0.05
+			raw_oil = 0.1
+			produced = heavy_oil
+			output = 0.10
+		}
+		mdm_oil_refinery_asphalt = {
+			electricity = 0.15
+			fresh_water = 0.025
+			raw_oil = 0.05
+			produced = asphalt
+			output = 0.05
+		}
+	}
+
+	construction_demand = mdm_default_construction_demand
+}
+

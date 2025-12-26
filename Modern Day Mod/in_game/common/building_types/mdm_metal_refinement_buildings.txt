@@ -1,6 +1,6 @@
 ﻿mdm_blast_furnace = {
     is_foreign = no
-    max_levels = mdm_location_rank_max_level
+    max_levels = mdm_dev_and_rank_max_level
     pop_type = laborers
     
     employment_size = mdm_default_employment
@@ -44,7 +44,7 @@
             coal = 0.5
             limestone = 0.2
             electricity = 8
-            produced = iron
+            produced = steel #no iron, produces steel
             output = 0.85
         }
         mdm_blast_furnace_lead_1 = {
@@ -140,7 +140,7 @@
 
 mdm_acid_leaching_plant = {
     is_foreign = no
-    max_levels = mdm_location_rank_max_level
+    max_levels = mdm_dev_and_rank_max_level
     pop_type = laborers
 
     employment_size = mdm_default_employment
@@ -200,7 +200,7 @@ mdm_acid_leaching_plant = {
 
 mdm_metalothermic_reduction_facility = {
     is_foreign = no
-    max_levels = mdm_location_rank_max_level
+    max_levels = mdm_dev_and_rank_max_level
     pop_type = laborers
     
     employment_size = mdm_default_employment
@@ -270,7 +270,7 @@ mdm_metalothermic_reduction_facility = {
 
 mdm_electrolysis_plant = {
     is_foreign = no
-    max_levels = mdm_location_rank_max_level
+    max_levels = mdm_dev_and_rank_max_level
     pop_type = laborers
     
     employment_size = mdm_default_employment
@@ -337,7 +337,7 @@ mdm_electrolysis_plant = {
 
 mdm_brine_evaporation_plant = {
     is_foreign = no
-    max_levels = mdm_location_rank_max_level
+    max_levels = mdm_dev_and_rank_max_level
     pop_type = laborers
 
     employment_size = mdm_default_employment

@@ -394,7 +394,7 @@ gold_ore = {
 
 }
 
-iron = { #by far the most produced metal, for steel
+iron_ore = { #by far the most produced metal, for steel
 	method = mining
 	category = raw_material
 	color = goods_iron
@@ -405,7 +405,7 @@ iron = { #by far the most produced metal, for steel
 	ai_rgo_expansion_priority = 0.025
 }
 
-lead = {
+lead_ore = {
 	method = mining
 	category = raw_material
 	color = goods_lead
@@ -437,7 +437,7 @@ magnesium_ore = { #dolomite ?, CaMg(CO3)2 (the calcium doesnt get recovered and 
 	transport_cost = 1
 }
 
-manganese_ore = { #used in steel and lithium iron batteries
+manganese_ore = { #used in steel and lithium ion batteries
 	method = mining
 	category = raw_material
 	color = goods_iron
@@ -445,7 +445,7 @@ manganese_ore = { #used in steel and lithium iron batteries
 	transport_cost = 1
 }
 
-mercury = { #not sure if mercury is important enough to be its own good in the modern day
+mercury_ore = { #not sure if mercury is important enough to be its own good in the modern day
 	method = mining
 	category = raw_material
 	color = goods_mercury
@@ -501,7 +501,7 @@ rare_earth_ores = {
 	transport_cost = 1
 }
 
-silver = {
+silver_ore = {
 	method = mining
 	category = raw_material
 	color = goods_silver

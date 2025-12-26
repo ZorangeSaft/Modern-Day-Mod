@@ -389,7 +389,7 @@ early_capital_building_silver_construction = {
 	tools = 2
 	glass = 2
 	fine_cloth = 2
-	silver = 2
+	silver_ore = 2
 	category = building_construction
 }
 

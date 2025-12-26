@@ -7,3 +7,8 @@ mdm_location_rank_max_level = {
 	value = 7
 	subtract = rank_index
 }
+
+mdm_location_rank_max_level_minus_2 = {
+	value = 5
+	subtract = rank_index
+}
