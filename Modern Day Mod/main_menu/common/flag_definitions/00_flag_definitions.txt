@@ -1787,20 +1787,11 @@ CZK = { # Czersk
 	}
 }
 
-DAN = { # Denmark
+DAN = { # mdm modern day mod Denmark
 	flag_definition = {
-		coa = DAN
+		coa = mdm_DAN
 		priority = 1
 	}
-	flag_definition = {
-		coa = DAN_coa
-		priority = 50
-		trigger = {
-			coa_def_absolutism_age_5_trigger = yes
-			coa_def_absolute_monarchy_trigger = yes
-		}
-	}
-	# TODO
 }
 
 DAU = { # Viennois
@@ -4571,46 +4562,11 @@ NOL = { # Northumbria
 	}
 }
 
-NOR = { # Norway
+NOR = { # mdm modern day mod Norway
 	flag_definition = {
-		coa = NOR
-		subject_canton = NOR
+		coa = mdm_NOR
 		priority = 1
 	}
-	flag_definition = {
-		coa = NOR_late
-		subject_canton = NOR_late
-		priority = 2
-		trigger = {
-			coa_def_discovery_age_3_trigger = yes
-		}		
-	}	
-	flag_definition = {
-		coa = NOR_bjalbo
-		subject_canton = NOR
-		priority = 10
-		trigger = {
-			coa_def_bjalbo_dynasty_trigger = yes
-			coa_def_discovery_age_3_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = NOR_cross_lion
-		priority = 100
-		trigger = {
-			coa_def_republic_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = NOR_cross
-		allow_overlord_canton = yes
-		priority = 110
-		trigger = {
-			coa_def_monarchy_trigger = no
-			coa_def_christian_trigger = yes
-			coa_def_absolutism_age_5_trigger = yes
-		}
-	}	
 }
 
 NOV = { # Novgorod
@@ -7488,48 +7444,10 @@ SWB = { # Saxe-Wittemberg
 	# TODO
 }
 
-SWE = { # Sweden
+SWE = { # mdm modern day mod Sweden
 	flag_definition = {
-		coa = SWE
+		coa = mdm_SWE
 		priority = 1
-	}
-	flag_definition = {
-		coa = SWE_quarterly
-		subject_canton = SWE
-		priority = 10
-		trigger = {
-			coa_def_bjalbo_dynasty_trigger = yes
-			coa_def_discovery_age_3_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = SWE_quarterly_late
-		subject_canton = SWE
-		priority = 11
-		trigger = {
-			coa_def_bjalbo_dynasty_trigger = no
-			coa_def_discovery_age_3_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = SWE_quarterly_mecklenburg
-		subject_canton = SWE
-		priority = 12
-		trigger = {
-			coa_def_mecklenburg_dynasty_trigger = yes
-			coa_def_discovery_age_3_trigger = yes
-		}
-	}	
-	flag_definition = {
-		coa = SWE_cross
-		priority = 50
-		trigger = {
-			OR = {
-				coa_def_reformation_age_4_trigger = yes
-				coa_def_republic_trigger = yes
-			}
-			coa_def_absolute_monarchy_trigger = no # keeping quarterly designs for absolute
-		}
 	}
 }
 
