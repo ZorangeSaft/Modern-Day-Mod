@@ -17172,6 +17172,17 @@ IRA = { # Persia / Safavids TODO
 	}				
 }
 
+mdm_IRAN = { # mdm modern day mod Iran
+	pattern = "pattern_tricolor_horizontal_iran.dds"
+	color1 = rgb { 29 160 62 }
+	color2 = "white"
+	color3 = rgb { 219 0 0 }
+
+	colored_emblem = {
+		texture = "ce_iran.dds"
+		color1 = color3
+}
+
 mdm_IRE = { # mdm modern day mod Ireland
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 14 156 98 }

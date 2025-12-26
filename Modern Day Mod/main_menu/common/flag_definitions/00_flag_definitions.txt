@@ -2610,6 +2610,13 @@ INO = { # Inowroclaw
 	}
 }
 
+IRAN = { # mdm modern day mod Iran
+	flag_definition = {
+		coa = mdm_IRAN
+		priority = 1
+	}
+}
+
 IRE = { # mdm modern day mod Ireland
 	flag_definition = {
 		coa = mdm_IRE
