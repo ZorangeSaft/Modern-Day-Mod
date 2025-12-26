@@ -3259,44 +3259,12 @@ BEJ = { # Beja
 	}			
 }
 
-BEL = { # Belgium
-	pattern = "pattern_solid.dds"
+mdm_BEL = { # mdm modern day mod Belgium
+	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = "black"
-	color2 = "yellow"
-	color3 = "red"
+	color2 = rgb { 253 219 32 }
+	color3 = rgb { 239 48 62 }
 
-	colored_emblem = {
-		texture = "ce_tricolor_vertical.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3			
-	}	
-}
-BEL_early = { # Horizontal tricolor
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "black"
-	color3 = "yellow"
-
-	colored_emblem = {
-		texture = "ce_tricolor_horizontal.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3			
-	}	
-}
-BEL_merchant = { # Early merchant tricolor 18th c.
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "yellow_mid"
-
-	colored_emblem = {
-		texture = "ce_tricolor_horizontal.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3			
-	}	
 }
 
 BEN = { # Benin 
@@ -22567,106 +22535,11 @@ LUW = { # Luwu
 	}	
 }
 
-LUX = { # Luxembourg
-	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "blue_light"
-	color3 = "red_secondary"
-	color4 = "yellow_light"
-
-	colored_emblem = {
-		texture = "ce_barry_10.dds"
-		color1 = color1
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
-	}
-	colored_emblem = {
-		texture = "ce_solid.dds" # Eye
-		color1 = color1
-		color2 = color1
-		instance = { position = { 0.47 0.17 } scale = { 0.02 0.025 } }
-	}
-	colored_emblem = {
-		texture = "ce_lion_crowned_wide.dds"
-		color1 = color3
-		color2 = color4
-		color3 = color4
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
-	}
-}
-LUX_tricolor = { # Modern flag
-	pattern = "pattern_solid.dds"
-	color1 = "red_secondary"
+mdm_LUX = { # mdm modern day mod Luxembourg
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 239 48 62 }
 	color2 = "white"
-	color3 = "blue_light"
-
-	colored_emblem = {
-		texture = "ce_tricolor_horizontal.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3
-	}
-}
-LUX_emperor = { # Luxembourg - Imperial eagle & escutcheon variant
-	pattern = "pattern_special_eagle_escutcheon_heart_40.dds"
-	color1 = "yellow"
-	color2 = "black"
-	color3 = "red_secondary"
-	color4 = hsv360 	{	0	0	20	}
-
-	colored_emblem = {
-		texture = "ce_solid.dds"
-		color1 = color1
-		color2 = color1
-	}
-	colored_emblem = {
-		texture = "ce_circle.dds"
-		color1 = hsv360 	{	42	65	60	}
-		color2 = hsv360 	{	42	65	60	}
-		instance = { position = { 0.390 0.147 } scale = { 0.35 0.35 }  }
-		instance = { position = { 0.610 0.147 } scale = { 0.35 0.35 }  }
-	}
-	colored_emblem = {
-		texture = "ce_circle.dds"
-		color1 = "yellow_pale"
-		color2 = "yellow_pale"
-		instance = { position = { 0.390 0.147 } scale = { 0.30 0.30 }  }
-		instance = { position = { 0.610 0.147 } scale = { 0.30 0.30 }  }
-	}
-	colored_emblem = {
-		texture = "ce_eagle_doubleheaded_wide.dds"
-		color1 = color2
-		color2 = color3
-		color3 = "white_secondary"
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
-	}
-	colored_emblem = {
-		texture = "ce_solid.dds"
-		color1 = "yellow_mid"
-		color2 = "yellow"
-		mask = { 2 }
-	}
-	colored_emblem = {
-		texture = "ce_barry_10_shield.dds"
-		color1 = "white"
-		color2 = "blue_mid"
-		instance = { position = { 0.5 0.512 } scale = { 0.40 0.40 } }
-		mask = { 2 }
-	}
-	colored_emblem = {
-		texture = "ce_lion_rampant_crowned_shield.dds"
-		color1 = "red_mid"
-		color2 = "yellow"
-		color3 = "yellow_mid"
-		instance = { position = { 0.5 0.505 } scale = { 0.36 0.36 } }
-		mask = { 2 }
-	}
-	colored_emblem = {
-		texture = "ce_solid.dds"
-		color1 = color4
-		color2 = color4
-		mask = { 3 }
-	}
+	color3 = rgb { 0 165 225 }
 }
 
 LVA = { # Livonia
@@ -26876,66 +26749,12 @@ NED = { # Seven United Provinces/Netherlands - Prinsenvlag
 		color3 = color3
 	}
 }
-NED_republic = { # Netherlands Statenvlag
-	pattern = "pattern_solid.dds"
-	color1 = "red"
+
+mdm_NED = { # mdm modern day mod Netherlands
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 174 28 40 }
 	color2 = "white"
-	color3 = "blue"
-
-	colored_emblem = {
-		texture = "ce_tricolor_horizontal.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3
-	}
-}
-NED_seven_stripes = { # United Provinces - Prinsenvlag variant with seven stripes
-	pattern = "pattern_solid.dds"
-	color1 = "orange"
-	color2 = "white"
-	color3 = "blue"
-
-	colored_emblem = {
-		texture = "ce_tricolor_stripes_horizontal_07_prinsenvlag.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3
-	}
-}
-NED_seven_stripes_republic = { # Red variant
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "blue"
-
-	colored_emblem = {
-		texture = "ce_tricolor_stripes_horizontal_07_prinsenvlag.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3
-	}
-}
-NED_lion = { # United Provinces - 18th c. lion w/ modern tinctures
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-	color3 = "blue"
-
-	textured_emblem = {
-		texture = "te_lion_united_provinces.dds"
-		instance = { position = { 0.495 0.5 } scale = { 0.95 0.95 } }				
-	}	
-}
-NED_lion_holland = { # United Provinces - 16th/17th c. original lion in Gules
-	pattern = "pattern_solid.dds"
-	color1 = "yellow"
-	color2 = "red"
-	color3 = "blue"
-
-	textured_emblem = {
-		texture = "te_lion_united_provinces_holland.dds"
-		instance = { position = { 0.495 0.5 } scale = { 0.95 0.95 } }				
-	}	
+	color3 = rgb { 33 70 139 }
 }
 
 NEG = { # Negroponte

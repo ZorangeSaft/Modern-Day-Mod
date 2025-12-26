@@ -831,20 +831,10 @@ BDE = { # Baden
 	}
 }
 
-BEL = { # Belgium
+BEL = { # mdm modern day mod Belgium
 	flag_definition = {
-		coa = BEL
+		coa = mdm_BEL
 		priority = 1
-	}
-	flag_definition = {
-		coa = BEL_early
-		priority = 2
-		trigger = {
-			OR = {
-				coa_def_revolutionary_republic_trigger = yes
-				coa_def_republic_trigger = yes
-			}
-		}
 	}
 }
 
@@ -3914,26 +3904,11 @@ LUN = { # Luneburg
 	}
 }
 
-LUX = { # Luxembourg
+LUX = { # mdm modern day mod Luxembourg
 	flag_definition = {
-		coa = LUX
+		coa = mdm_LUX
 		priority = 1
 	}
-	flag_definition = {
-		coa = LUX_emperor
-		priority = 0 # Commented out for now (update to DH if restored)
-		trigger = {
-			coa_def_hre_emperor_trigger = yes
-		}
-	}		
-	flag_definition = {
-		coa = LUX_tricolor
-		priority = 200
-		trigger = {
-			coa_def_revolutionary_republic_trigger = yes
-		}
-	}	
-	# TODO
 }
 
 LVA = { # Baltic formable
@@ -4531,70 +4506,11 @@ NAV = { # Navarre
 	}
 }
 
-NED = { # Netherlands
-	# NED - Tricolor Prinsenvlag (Orange version)
-	# NED_republic - Tricolor Prinsenvlag (Red)
-	# NED_seven_stripes - 7 stripes Prinsenvlag
-	# NED_lion_holland - Batavian lion 16th/17th c. colors OG
-	# NED_lion - Same w/ modern tinctures GO
-
-	# Batavian lion (early monarchy)
-	flag_definition = { # Default monarchy
-		coa = NED_lion
+NED = { # mdm modern day mod Netherlands
+	flag_definition = {
+		coa = mdm_NED
 		priority = 1
 	}
-	flag_definition = {
-		coa = NED_lion_holland
-		priority = 10
-		trigger = {
-			OR = {
-				coa_def_NED_hainaut_trigger = yes
-				coa_def_NED_holland_trigger = yes
-				coa_def_NED_zeeland_trigger = yes
-				coa_def_avesnes_dynasty_trigger = yes
-			}
-		}
-	}
-
-	# Prinsenvlag
-	flag_definition = {
-		coa = NED_seven_stripes
-		priority = 20
-		trigger = {
-			coa_def_reformation_age_4_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = NED
-		priority = 21
-		trigger = {
-			coa_def_absolutism_age_5_trigger = yes
-		}
-	}
-
-	# Statenvlag
-	flag_definition = {
-		coa = NED_seven_stripes_republic
-		priority = 100
-		trigger = {
-			coa_def_republic_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = NED_republic
-		priority = 101
-		trigger = {
-			coa_def_republic_trigger = yes
-			coa_def_absolutism_age_5_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = NED_republic
-		priority = 200
-		trigger = {
-			coa_def_revolutionary_republic_trigger = yes # with dutch maiden in canton
-		}
-	}	
 }
 
 NEV = { # Nevers
