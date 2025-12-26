@@ -34629,6 +34629,10 @@ mdm_SPA = { # mdm modern day mod Spain
 	pattern = "pattern_border_top_and_bottom.dds"
 	color1 = rgb { 250 190 0 }
 	color2 = rgb { 175 13 18 }
+
+	textured_emblem = {
+		texture = "mdm_coa_spain.dds"
+	}
 }
 
 SPB = { # Spremberg (Kittlitz)
