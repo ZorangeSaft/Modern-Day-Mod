@@ -1773,6 +1773,13 @@ CYP = { # Cyprus
 	}	
 }
 
+CZEC = { # mdm modern day mod Czech Republic
+	flag_definition = {
+		coa = mdm_CZEC
+		priority = 1
+	}
+}
+
 CZK = { # Czersk
 	flag_definition = {
 		coa = CZK

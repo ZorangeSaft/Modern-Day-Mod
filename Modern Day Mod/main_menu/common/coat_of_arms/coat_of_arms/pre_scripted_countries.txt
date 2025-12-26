@@ -9954,6 +9954,14 @@ CYP_lusignan_armenia = { # With addition of Cilicia
     }
 }
 
+mdm_CZEC = { # mdm modern day mod Czech Republic
+	pattern = "pattern_tricolor_hoist_triangle.dds"
+	color1 = rgb { 8 67 127 }
+	color2 = "white"
+	color3 = rgb { 216 12 19 }
+	}
+}
+
 CZK = { # Czersk
 	pattern = "pattern_solid.dds"
 	color1 = "white"
