@@ -14078,82 +14078,11 @@ GEO = { # Georgia
 	}
 }
 
-GER = { # Germany
-	pattern = "pattern_solid.dds"
+GER_2000 = { # Germany 2000
+	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "black"
 	color2 = "red"
 	color3 = "yellow"
-
-	colored_emblem = {
-		texture = "ce_tricolor_horizontal.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3
-	}
-}
-GER_eagle = { # Kingdom of Germany - Imperial arms
-	pattern = "pattern_solid.dds"
-	color1 = "yellow"
-	color2 = "black"
-	color3 = "red_secondary"
-
-	colored_emblem = {
-		texture = "ce_eagle_wide.dds"
-		color1 = color2
-		color2 = color3
-		color3 = "white_secondary"
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
-	}
-}
-GER_cross = { # Kingdom of Germany - Banner
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-
-	colored_emblem = {
-		texture = "ce_cross.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
-	}
-}
-GER_tricolor_escutcheon = { # Germany - Tricolor with imperial eagle escutcheon in heart
-	pattern = "pattern_solid.dds"
-	color1 = "black"
-	color2 = "red"
-	color3 = "yellow"
-
-	colored_emblem = {
-		texture = "ce_tricolor_horizontal.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3
-	}
-	colored_emblem = {
-		texture = "ce_shield_frame_thin.dds"
-		color1 = color3
-		color2 = color1
-		instance = { position = { 0.5 0.52 } scale = { 0.6 0.6 } }
-	}
-	colored_emblem = {
-		texture = "ce_eagle_shield.dds"
-		color1 = color1
-		color2 = color1
-		color3 = "white"
-		instance = { position = { 0.5 0.505 } scale = { 0.435 0.45 } }
-	}
-}
-GER_tricolor_revolutionary = { # German early tricolor
-	pattern = "pattern_solid.dds"
-	color1 = "red_secondary"
-	color2 = "black"
-
-	colored_emblem = {
-		texture = "ce_tricolor_horizontal.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color1
-	}
 }
 
 GFS = { # Gafsa

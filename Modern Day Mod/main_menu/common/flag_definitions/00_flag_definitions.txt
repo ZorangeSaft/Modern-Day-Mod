@@ -2571,39 +2571,10 @@ GEN = { # Genoa
 	}
 }
 
-GER = { # Germany  
+GER = { # Germany
 	flag_definition = {
-		coa = GER_cross
+		coa = GER_2000
 		priority = 1
-	}	
-	flag_definition = {
-		coa = GER_eagle
-		priority = 2
-		trigger = {
-			coa_def_monarchy_trigger = yes
-		}		
-	}
-	flag_definition = {
-		coa = GER
-		priority = 50
-		trigger = {
-			coa_def_revolutions_age_6_trigger = yes
-		}
-	}	
-	flag_definition = {
-		coa = GER_tricolor_escutcheon
-		priority = 51
-		trigger = {
-			coa_def_revolutions_age_6_trigger = yes
-			coa_def_monarchy_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = GER_tricolor_revolutionary
-		priority = 100
-		trigger = {
-			coa_def_revolutionary_republic_trigger = yes
-		}
 	}
 }
 
