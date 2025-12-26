@@ -2561,19 +2561,11 @@ HUN = { # Hungary
 	}
 }
 
-ICE = { # Iceland
+ICE = { # mdm modern day mod Iceland
 	flag_definition = {
-		coa = ICE
+		coa = mdm_ICE
 		priority = 1
 	}
-	flag_definition = {
-		coa = ICE_lion
-		priority = 10
-		trigger = {
-			coa_def_NOR_ensign_trigger = yes
-		}
-	}
-	# TODO danish vassal stockfish design
 }
 
 IMO = { # Imola

@@ -16753,52 +16753,15 @@ IAS = { # Iasi
 	}				
 }
 
-ICE = { # Iceland
+mdm_ICE = { # mdm modern day mod Iceland
 	pattern = "pattern_solid.dds"
-	color1 = "blue"
-	color2 = "white"
+	color1 = { 0 81 157 }
 	
 	colored_emblem = {
-		texture = "ce_barry_12.dds"
-		color1 = color2
-		color2 = color1				
+		texture = "ce_cross_nordic_fimbriated.dds"
+		color1 = "white"
+		color2 = rgb { 221 24 50 }
 	}
-}
-ICE_lion = { # Iceland - Jarls of Iceland
-	pattern = "pattern_horizontal_split_01.dds"
-	color1 = "blue"
-	color2 = "white"
-	color3 = "yellow"
-	color4 = "red"
-	
-	colored_emblem = {
-		texture = "ce_solid.dds"
-		color1 = color3
-		color2 = color3
-		instance = { position = { 0.5 0.25 } scale = { 1.0 0.5 } }					
-	}
-	colored_emblem = {
-		texture = "ce_barry_08.dds"
-		color1 = color2
-		color2 = color1
-		instance = { position = { 0.5 0.75 } scale = { 1.0 0.5 } }					
-	}	
-	colored_emblem = {
-		texture = "ce_lion_holding_axe_wide.dds"
-		color1 = color4
-		color2 = color1
-		color3 = "white"
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }			
-		mask = { 1 }		
-	}		
-	colored_emblem = {
-		texture = "ce_lion_holding_axe_wide.dds"
-		color1 = color4
-		color2 = color3
-		color3 = color3
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }	
-		mask = { 2 }			
-	}	
 }
 
 ICM = { # Ichma     
