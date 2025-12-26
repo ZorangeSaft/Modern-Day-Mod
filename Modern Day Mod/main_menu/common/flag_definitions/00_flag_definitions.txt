@@ -4411,6 +4411,13 @@ POK = { # Polotsk
 	}	
 }
 
+POL = { # mdm modern day mod Poland
+	flag_definition = {
+		coa = mdm_POL
+		priority = 1
+	}
+}
+
 POR = { # Portugal
 	# POR - 14th c. Portugal : escutcheons ch. roundels in cross AB & border ch. castles GO, both without number
 	# POR_renaissance - 1385 design : same as POR with fleurs de lis V in the border

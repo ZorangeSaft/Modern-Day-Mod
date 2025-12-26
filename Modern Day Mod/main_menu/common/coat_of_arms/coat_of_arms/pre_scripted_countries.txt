@@ -29720,37 +29720,10 @@ POK_jagiellon = { # Jagiellon shield variant
 	}
 }
 
-POL = { # Poland
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "yellow"
-	
-	colored_emblem = {
-		texture = "ce_eagle_crowned_wide.dds"
-		color1 = color2
-		color2 = color3
-		color3 = color3
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }				
-	}		
-	colored_emblem = {
-		texture = "ce_eagle_bones_trefly.dds"
-		color1 = color3
-		color2 = color3
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }				
-	}	
-}
-POL_per_fess = { # Modern Poland
-	pattern = "pattern_solid.dds"
+mdm_POL = { # mdm modern day mod Poland
+	pattern = "pattern_horizontal_split_01.dds"
 	color1 = "white"
-	color2 = "red_mid"
-	
-	colored_emblem = {
-		texture = "ce_per_fess.dds"
-		color1 = color1
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }				
-	}		
+	color2 = rgb { 216 12 19 }
 }
 
 POM = { # Pomerania
