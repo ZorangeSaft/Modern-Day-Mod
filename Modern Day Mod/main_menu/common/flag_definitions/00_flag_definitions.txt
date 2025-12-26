@@ -7451,6 +7451,13 @@ SWE = { # mdm modern day mod Sweden
 	}
 }
 
+SWI = { # mdm modern day mod Switzerland
+	flag_definition = {
+		coa = mdm_SWI
+		priority = 1
+	}
+}
+
 SXM = { # Samogitia
 	flag_definition = {
 		coa = SXM
