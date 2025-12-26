@@ -17887,73 +17887,11 @@ IRA = { # Persia / Safavids TODO
 	}				
 }
 
-IRE = { # Ireland
-	pattern = "pattern_solid.dds"
-	color1 = "blue"
-	color2 = "yellow"
-	color3 = "white"
-
-	colored_emblem = {
-		texture = "ce_harp_ireland.dds"
-		color1 = color2
-		color2 = color3
-	}
-}
-IRE_green = { # Ireland
-	pattern = "pattern_solid.dds"
-	color1 = "green"
-	color2 = "yellow"
-	color3 = "white"
-
-	colored_emblem = {
-		texture = "ce_harp_ireland.dds"
-		color1 = color2
-		color2 = color3
-	}
-}
-IRE_revolutionary_republic = { # Irish tricolor
-	pattern = "pattern_solid.dds"
-	color1 = "green"
+mdm_IRE = { # mdm modern day mod Ireland
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 14 156 98 }
 	color2 = "white"
-	color3 = "orange"
-
-	colored_emblem = {
-		texture = "ce_tricolor_vertical.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3
-	}	
-}
-IRE_revolutionary_republic_protestant = { # Irish tricolor with dominant orange
-	pattern = "pattern_solid.dds"
-	color1 = "orange"
-	color2 = "white"
-	color3 = "green"
-
-	colored_emblem = {
-		texture = "ce_tricolor_vertical.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3
-	}	
-}
-IRE_tressure = { # Ireland with the scottish double tressure
-	pattern = "pattern_solid.dds"
-	color1 = "blue"
-	color2 = "yellow"
-	color3 = "white"
-
-	colored_emblem = {
-		texture = "ce_double_tressure_fleury.dds"
-		color1 = color2
-		color2 = color3
-	}
-	colored_emblem = {
-		texture = "ce_harp_ireland.dds"
-		color1 = color2
-		color2 = color3
-		instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }			
-	}
+	color3 = rgb { 255 137 60 }
 }
 
 IRO = { # Iroquois / Haudenosaunee

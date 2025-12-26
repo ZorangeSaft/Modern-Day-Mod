@@ -3024,56 +3024,10 @@ INO = { # Inowroclaw
 	}
 }
 
-IRE = { # Ireland
+IRE = { # mdm modern day mod Ireland
 	flag_definition = {
-		coa = IRE
-		subject_canton = sub_IRE_saltire
+		coa = mdm_IRE
 		priority = 1
-	}
-	flag_definition = {
-		coa = IRE_tressure
-		subject_canton = sub_IRE_saltire
-		priority = 2
-		trigger = {
-			coa_def_SCO_ensign_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = IRE_green
-		subject_canton = sub_IRE_saltire
-		priority = 10
-		trigger = {
-			coa_def_celtic_group_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = sub_IRE_saltire
-		subject_canton = sub_IRE_saltire
-		priority = 20
-		trigger = {
-			scope:actor ?= {
-				religion ?= { this = religion:anglican }
-			}
-		}
-	}
-	flag_definition = {
-		coa = IRE_revolutionary_republic
-		subject_canton = IRE_revolutionary_republic
-		priority = 200
-		trigger = {
-			coa_def_revolutionary_republic_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = IRE_revolutionary_republic_protestant
-		subject_canton = IRE_revolutionary_republic_protestant		
-		priority = 201
-		trigger = {
-			scope:actor ?= {
-				gfx_culture_applicable = protestant_gfx
-			}
-			coa_def_revolutionary_republic_trigger = yes
-		}
 	}
 }
 
