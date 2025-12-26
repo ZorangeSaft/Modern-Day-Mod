@@ -2009,61 +2009,10 @@ FLO = { # Florence
 	}
 }
 
-FRA = { # France
+FRA = { # mdm modern day mod France
 	flag_definition = {
-		coa = FRA
-		subject_canton = FRA
+		coa = mdm_FRA
 		priority = 1
-	}
-	flag_definition = {
-		coa = FRA_renaissance
-		subject_canton = FRA_renaissance
-		priority = 2
-		trigger = {
-			coa_def_discovery_age_3_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = FRA_white
-		subject_canton = FRA_white
-		priority = 3
-		trigger = {
-			coa_def_absolutism_age_5_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = FRA_absolute_monarchy
-		subject_canton = FRA_white
-		priority = 10
-		trigger = {
-			coa_def_absolutism_age_5_trigger = yes
-			coa_def_absolute_monarchy_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = FRA_merchant
-		subject_canton = FRA_republic
-		priority = 99
-		trigger = {
-			coa_def_republic_trigger = yes
-			# TODO
-		}
-	}	
-	flag_definition = {
-		coa = FRA_republic
-		subject_canton = FRA_republic
-		priority = 100
-		trigger = {
-			coa_def_republic_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = FRA_revolutionary_republic
-		subject_canton = FRA_revolutionary_republic
-		priority = 200
-		trigger = {
-			coa_def_revolutionary_republic_trigger = yes
-		}
 	}
 }
 
@@ -2571,7 +2520,7 @@ GEN = { # Genoa
 	}
 }
 
-GER = { # Germany
+GER = { # mdm modern day mod Germany
 	flag_definition = {
 		coa = mdm_GER
 		priority = 1
