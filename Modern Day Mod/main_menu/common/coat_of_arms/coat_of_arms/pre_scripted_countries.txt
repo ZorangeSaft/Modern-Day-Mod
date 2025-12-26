@@ -17969,103 +17969,12 @@ IRO = { # Iroquois / Haudenosaunee
 	}
 }
 
-ITA = { # Default - Attributed medieval kingdom of Italy adding ghibelline border
-	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "red"
-	color3 = "yellow"
-	color4 = "black"
-		
-	colored_emblem = {
-		texture = "ce_cross_formy_italy_per_pale.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.5 }  scale = { 0.870 0.805 } }					
-	}
-	colored_emblem = {
-		texture = "ce_solid.dds"
-		color1 = color3
-		color2 = color3
-		instance = { position = { 0.75 0.5 }  scale = { 0.5 1.0 } }		
-	}	
-	colored_emblem = {
-		texture = "ce_eagle_long.dds"
-		color1 = color4
-		color2 = "red_secondary"
-		color3 = color1
-		instance = { position = { 0.725 0.5 }  scale = { 0.80 0.83 } }
-	}		
-	colored_emblem = {
-		texture = "ce_divider_per_pale_50.dds"
-		color1 = color4
-		color2 = color4
-	}			
-    sub = {
-        parent = "sub_border_italy_ghibelline"
-		instance = { scale = { 1.0 1.0 } offset = { 0.0 0.0 } }
-    }		
-}
-ITA_guelph = { # Default - Attributed medieval kingdom of Italy adding ghibelline border - Guelph variant without imperial eagle
-	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "red"
-	color3 = "yellow"
-	color4 = "black"
-		
-	colored_emblem = {
-		texture = "ce_cross_formy_italy.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.5 }  scale = { 0.870 0.805 } }				
-	}		
-    sub = {
-        parent = "sub_border_italy_guelph"
-		instance = { scale = { 1.0 1.0 } offset = { 0.0 0.0 } }
-    }		
-}
-ITA_republic_early = { # Italy - Cispadana
-	pattern = "pattern_solid.dds"
-	color1 = "red"
+mdm_ITA = { # mdm modern day mod Italy
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 147 68 }
 	color2 = "white"
-	color3 = "green"
+	color3 = rgb { 207 39 52 }
 
-	colored_emblem = {
-		texture = "ce_tricolor_horizontal.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3
-	}
-}
-ITA_tricolor = { # Italy - 1798 Republican flag
-	pattern = "pattern_solid.dds"
-	color1 = "green"
-	color2 = "white"
-	color3 = "red"
-
-	colored_emblem = {
-		texture = "ce_tricolor_vertical.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3
-	}
-}
-ITA_revolutionary = { # Italy Napoleonic flag
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "green"
-
-	colored_emblem = {
-		texture = "ce_rhombus.dds"
-		color1 = color2
-		color2 = color2
-	}
-	colored_emblem = {
-		texture = "ce_solid.dds"
-		color1 = color3
-		color2 = color3
-		instance = { position = { 0.5 0.5 } scale = { 0.5 0.5 } }
-	}
 }
 
 ITZ = { # Itza
