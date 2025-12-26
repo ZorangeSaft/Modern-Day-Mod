@@ -9959,7 +9959,6 @@ mdm_CZEC = { # mdm modern day mod Czech Republic
 	color1 = rgb { 8 67 127 }
 	color2 = "white"
 	color3 = rgb { 216 12 19 }
-	}
 }
 
 CZK = { # Czersk
