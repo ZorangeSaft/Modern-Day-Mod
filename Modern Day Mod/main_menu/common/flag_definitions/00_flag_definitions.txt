@@ -3360,6 +3360,13 @@ MNI = { # Mong Nai
 	}
 }
 
+MOR = { # mdm modern day mod Morocco
+	flag_definition = {
+		coa = mdm_MOR
+		priority = 1
+	}
+}
+
 MOY = { # Moray
 	flag_definition = {
 		coa = MOY
