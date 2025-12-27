@@ -6874,17 +6874,10 @@ YEH = { # Nara Yehe
 	}
 }
 
-YEM = { # Yemen
+YEM = { # mdm modern day mod Yemen
 	flag_definition = {
-		coa = YEM
+		coa = mdm_YEM
 		priority = 1
-	}
-	flag_definition = {
-		coa = YEM_rasulid
-		priority = 10
-		trigger = {
-			coa_def_rasulid_dynasty_trigger = yes
-		}
 	}
 }
 
