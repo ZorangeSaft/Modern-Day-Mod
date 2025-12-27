@@ -17182,6 +17182,7 @@ mdm_IRAN = { # mdm modern day mod Iran
 		texture = "ce_iran.dds"
 		color1 = color3
 		instance = { scale = { 0.25 0.25 } }
+	}
 }
 
 mdm_IRE = { # mdm modern day mod Ireland
