@@ -9955,7 +9955,7 @@ CYP_lusignan_armenia = { # With addition of Cilicia
 }
 
 mdm_CZEC = { # mdm modern day mod Czech Republic
-	pattern = "pattern_tricolor_hoist_triangle.dds"
+	pattern = "mdm_pattern_tricolor_hoist_triangle.dds"
 	color1 = rgb { 8 67 127 }
 	color2 = "white"
 	color3 = rgb { 216 12 19 }
@@ -17127,13 +17127,13 @@ IRA = { # Persia / Safavids TODO
 }
 
 mdm_IRAN = { # mdm modern day mod Iran
-	pattern = "pattern_tricolor_horizontal_iran.dds"
+	pattern = "mdm_pattern_tricolor_horizontal_iran.dds"
 	color1 = rgb { 29 160 62 }
 	color2 = "white"
 	color3 = rgb { 219 0 0 }
 
 	colored_emblem = {
-		texture = "ce_iran.dds"
+		texture = "mdm_ce_iran.dds"
 		color1 = color3
 		instance = { scale = { 0.25 0.25 } }
 	}
@@ -29737,7 +29737,7 @@ POO = { # Powo
 }
 
 mdm_POR = { # mdm modern day mod Portugal
-	pattern = "pattern_two_fifth_left.dds"
+	pattern = "mdm_pattern_two_fifth_left.dds"
 	color1 = rgb { 0 96 50 }
 	color2 = rgb { 238 22 31 }
 
@@ -34264,7 +34264,7 @@ SOS = { # Sus
 }
 
 mdm_SPA = { # mdm modern day mod Spain
-	pattern = "pattern_border_top_and_bottom.dds"
+	pattern = "mdm_pattern_border_top_and_bottom.dds"
 	color1 = rgb { 250 190 0 }
 	color2 = rgb { 175 13 18 }
 
@@ -35096,7 +35096,7 @@ mdm_SWI = { # mdm modern day mod Switzerland
 	color1 = { 219 36 22 }
 	
 	colored_emblem = {
-		texture = "ce_cross_swiss.dds"
+		texture = "mdm_ce_cross_swiss.dds"
 		color1 = "white"
 	}	
 }
