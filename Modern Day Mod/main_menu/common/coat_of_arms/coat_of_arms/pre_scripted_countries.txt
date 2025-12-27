@@ -34276,6 +34276,7 @@ mdm_SPA = { # mdm modern day mod Spain
 
 	textured_emblem = {
 		texture = "mdm_coa_spain.dds"
+		instance = { position = { 0.333 0.5 } scale = { 0.35 0.35 } }
 	}
 }
 
