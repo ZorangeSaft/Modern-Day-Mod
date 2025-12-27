@@ -838,6 +838,13 @@ BEL = { # mdm modern day mod Belgium
 	}
 }
 
+BELA = { # mdm modern day mod Belarus
+	flag_definition = {
+		coa = mdm_BELA
+		priority = 1
+	}
+}
+
 BER = { # Berry
 	flag_definition = {
 		coa = BER
@@ -1880,6 +1887,13 @@ ERM = { # Warmia
 	}	
 }
 
+ESTO = { # mdm modern day mod Estonia
+	flag_definition = {
+		coa = mdm_ESTO
+		priority = 1
+	}
+}
+
 ETA = { # Etampes
 	flag_definition = {
 		coa = ETA
@@ -2016,6 +2030,13 @@ FCB = { # Palatinate of Burgundy
 			coa_def_hre_emperor_trigger = yes
 		}
 	}		
+}
+
+FIN = { # mdm modern day mod Finland
+	flag_definition = {
+		coa = mdm_FIN
+		priority = 1
+	}
 }
 
 FRM = { # Fermo
@@ -2797,6 +2818,13 @@ KTG = { # Kengtung
 	}
 }
 
+LATV = { # mdm modern day mod Latvia
+	flag_definition = {
+		coa = mdm_LATV
+		priority = 1
+	}
+}
+
 LAU = { # Saxony-Lauenburg
 	flag_definition = {
 		coa = LAU_horse
@@ -2906,21 +2934,10 @@ LIE = { # Liège
 	}
 }
 
-LIT = { # Lithuania
+LIT = { # mdm modern day mod Lithuania
 	flag_definition = {
-		coa = LIT
+		coa = mdm_LIT
 		priority = 1
-	}
-	flag_definition = {
-		coa = LIT_jagiellon
-		priority = 10
-		trigger = {
-			coa_def_gediminid_dynasty_trigger = no
-			OR = {
-				coa_def_christian_trigger = yes
-				coa_def_jagiellon_dynasty_trigger = yes
-			}
-		}
 	}
 }
 
@@ -3080,7 +3097,14 @@ LVA = { # Baltic formable
 			coa_def_revolutionary_republic_trigger = yes
 		}
 	}
-}	
+}
+
+MACE = { # mdm modern day mod North Macedonia
+	flag_definition = {
+		coa = mdm_MACE
+		priority = 1
+	}
+}
 
 MAK = { # Makuria
 	flag_definition = {
@@ -3333,6 +3357,13 @@ MNI = { # Mong Nai
 		trigger = {
 			coa_def_buddhist_trigger = yes
 		}
+	}
+}
+
+MOR = { # mdm modern day mod Morocco
+	flag_definition = {
+		coa = mdm_MOR
+		priority = 1
 	}
 }
 
@@ -5262,6 +5293,13 @@ SLO = { # Slovakia
 	}
 }
 
+SLOV = { # mdm modern day mod Slovenia
+	flag_definition = {
+		coa = mdm_SLOV
+		priority = 1
+	}
+}
+
 SMB = { # Sambas
 	flag_definition = {
 		coa = SMB
@@ -5664,6 +5702,13 @@ UBV = { # Upper Bavaria
 		trigger = {
 			coa_def_hre_emperor_trigger = yes
 		}
+	}
+}
+
+UKR = { # mdm modern day mod Ukraine
+	flag_definition = {
+		coa = mdm_UKR
+		priority = 1
 	}
 }
 
@@ -6836,17 +6881,10 @@ YEH = { # Nara Yehe
 	}
 }
 
-YEM = { # Yemen
+YEM = { # mdm modern day mod Yemen
 	flag_definition = {
-		coa = YEM
+		coa = mdm_YEM
 		priority = 1
-	}
-	flag_definition = {
-		coa = YEM_rasulid
-		priority = 10
-		trigger = {
-			coa_def_rasulid_dynasty_trigger = yes
-		}
 	}
 }
 

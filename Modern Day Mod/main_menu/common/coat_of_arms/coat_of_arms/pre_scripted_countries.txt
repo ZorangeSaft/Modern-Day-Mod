@@ -3267,6 +3267,19 @@ mdm_BEL = { # mdm modern day mod Belgium
 
 }
 
+mdm_BELA = { # mdm modern day mod Belarus
+	pattern = "mdm_pattern_third_bottom.dds"
+	color1 = rgb { 210 39 48 }
+	color2 = rgb { 0 151 57 }
+
+	colored_emblem = {
+		texture = "mdm_ce_ruchnik.dds"
+		color1 = color1
+		color2 = "white"
+	}
+
+}
+
 BEN = { # Benin 
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	352 	80	52	}
@@ -9955,7 +9968,7 @@ CYP_lusignan_armenia = { # With addition of Cilicia
 }
 
 mdm_CZEC = { # mdm modern day mod Czech Republic
-	pattern = "pattern_tricolor_hoist_triangle.dds"
+	pattern = "mdm_pattern_tricolor_hoist_triangle.dds"
 	color1 = rgb { 8 67 127 }
 	color2 = "white"
 	color3 = rgb { 216 12 19 }
@@ -11857,6 +11870,13 @@ ESS = { # Essen
 	}		
 }
 
+mdm_ESTO = { # mdm modern day mod Estonia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 115 207 }
+	color2 = "black"
+	color3 = "white"
+}
+
 ETA = { # Etampes
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
@@ -12569,61 +12589,15 @@ FEZ = { # Fez
 		color1 = color3
 		color2 = color3							
 	}	
-} 
-
-FIN = { # Finland
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-	color3 = "white_secondary"
-
-	colored_emblem = {
-		texture = "ce_rose_simple.dds"
-		color1 = hsv360 	{	0		0		82	}
-		color2 = "grey"
-		color3 = "grey"
-		instance = { position = { 0.08 0.10 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.08 0.36	} scale = { 0.12 0.12 } }
-		instance = { position = { 0.08 0.63 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.08 0.90 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.17 0.22 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.18 0.48	} scale = { 0.12 0.12 } }
-		instance = { position = { 0.17 0.80 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.28 0.90 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.27 0.11 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.27 0.32 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.22 0.66	} scale = { 0.12 0.12 } }
-		instance = { position = { 0.355 0.64 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.92 0.10 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.92 0.36	} scale = { 0.12 0.12 } }
-		instance = { position = { 0.92 0.63 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.92 0.90 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.74 0.11 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.76 0.34 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.77 0.60 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.84 0.22 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.84 0.48 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.84 0.76 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.57 0.79 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.79 0.90 } scale = { 0.12 0.12 } }
-	}
-	colored_emblem = {
-		texture = "ce_lion_rampant_crowned_finland.dds"
-		color1 = color2
-		color2 = color3
-		color3 = color1
-		instance = { position = { 0.505 0.495 } scale = { 0.925 0.925 } }
-	}
 }
-FIN_cross = {
+
+mdm_FIN = { # mdm modern day mod Finland
 	pattern = "pattern_solid.dds"
 	color1 = "white"
-	color2 = "blue"
 
 	colored_emblem = {
 		texture = "ce_cross_scandinavian.dds"
-		color1 = color2
-		color2 = color2
+		color1 = rgb { 0 43 108 }
 	}
 }
 
@@ -17173,14 +17147,16 @@ IRA = { # Persia / Safavids TODO
 }
 
 mdm_IRAN = { # mdm modern day mod Iran
-	pattern = "pattern_tricolor_horizontal_iran.dds"
+	pattern = "mdm_pattern_tricolor_horizontal_iran.dds"
 	color1 = rgb { 29 160 62 }
 	color2 = "white"
 	color3 = rgb { 219 0 0 }
 
 	colored_emblem = {
-		texture = "ce_iran.dds"
+		texture = "mdm_ce_iran.dds"
 		color1 = color3
+		instance = { scale = { 0.25 0.25 } }
+	}
 }
 
 mdm_IRE = { # mdm modern day mod Ireland
@@ -20242,6 +20218,12 @@ LAT = { # Latin Empire
 	}
 }
 
+mdm_LATV = { # mdm modern day mod Latvia
+	pattern = "mdm_pattern_middle_stripe.dds"
+	color1 = rgb { 158 29 50 }
+	color2 = "white"
+}
+
 LAU = { # Saxe-Lauenburg/Engern - Askanier arms 15th c. (Q1-Q4 Saxony, Q2 Palatinate, Q3 Engern)
 	pattern = "pattern_quarterly_flag.dds"
 	color1 = "black"
@@ -20932,37 +20914,11 @@ LIN = { # Laian
 	}			
 } 
 
-LIT = { # Lithuania
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "blue"
-	color4 = "yellow"
-
-	textured_emblem = {
-		texture = "te_knight_lithuania.dds"
-		instance = { position = { 0.51 0.5 } scale = { 1.05 1.05 } }
-	}
-	textured_emblem = {
-		texture = "te_knight_shield_overlay_gediminas.dds"
-		instance = { position = { 0.51 0.5 } scale = { 1.05 1.05 } }
-	}
-}
-LIT_jagiellon = {
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "blue"
-	color4 = "yellow"
-
-	textured_emblem = {
-		texture = "te_knight_lithuania.dds"
-		instance = { position = { 0.51 0.5 } scale = { 1.05 1.05 } }
-	}
-	textured_emblem = {
-		texture = "te_knight_shield_overlay_jogaila.dds"
-		instance = { position = { 0.51 0.5 } scale = { 1.05 1.05 } }
-	}
+mdm_LIT = { # mdm modern day mod Lithuania
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 253 185 19 }
+	color2 = rgb { 0 106 68 }
+	color3 = rgb { 193 39 45 }
 }
 
 LIV = { # Livonian Order
@@ -21829,6 +21785,12 @@ MAC = { # March (Mortimer)
 		color2 = color2
 		color3 = color3		
 	}	
+}
+
+mdm_MACE = { # mdm modern day mod North Macedonia
+	pattern = "mdm_pattern_sun_north_macedonia.dds"
+	color1 = rgb { 217 27 33 }
+	color2 = rgb { 248 234 42 }
 }
 
 MAG = { # Magdeburg
@@ -23973,22 +23935,14 @@ MOP = { # Mopan
 	}					
 }
 
-MOR = { # Morocco
+mdm_MOR = { # mdm modern day mod Morocco
 	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-	color3 = "green"
+	color1 = rgb { 183 49 44 }
 	colored_emblem = {
-		texture = "ce_border_orle_thin.dds"
-		color1 = color2
-		color2 = color2
-	}	
-	colored_emblem = {
-		texture = "ce_star_08_rub_el_hizb.dds"
-		color1 = color2
-		color2 = color2
-		instance = { scale = { 0.85 0.85 } }
-	}	
+		texture = "mdm_ce_star_moroccan.dds"
+		color1 = rgb { 0 99 65 }
+		instance = { scale = { 0.45 0.45 } }
+	}
 }
 
 MOS = { # Muscovy
@@ -29781,12 +29735,13 @@ POO = { # Powo
 }
 
 mdm_POR = { # mdm modern day mod Portugal
-	pattern = "pattern_two_fifth_left.dds"
+	pattern = "mdm_pattern_two_fifth_left.dds"
 	color1 = rgb { 0 96 50 }
 	color2 = rgb { 238 22 31 }
 
 	textured_emblem = {
 		texture = "mdm_coa_portugal.dds"
+		instance = { position = { 0.4 0.5 } scale = { 0.5 0.5 } }
 	}
 }
 
@@ -33786,6 +33741,18 @@ SLO_tricolor = { # Slovakia - tricolor - 20th c.
 	}		
 }
 
+mdm_SLOV = { # mdm modern day mod Slovenia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "white"
+	color2 = rgb { 0 0 255 }
+	color3 = rgb { 255 0 0 }
+
+	textured_emblem = {
+		texture = "mdm_coa_slovenia.dds"
+		instance = { position = { 0.25 0.333 } scale = { 0.333 0.333 } }
+	}
+}
+
 SLP = { # Selaparang
 	pattern = "pattern_solid.dds"
 	color1 = "red"
@@ -34296,12 +34263,13 @@ SOS = { # Sus
 }
 
 mdm_SPA = { # mdm modern day mod Spain
-	pattern = "pattern_border_top_and_bottom.dds"
+	pattern = "mdm_pattern_border_top_and_bottom.dds"
 	color1 = rgb { 250 190 0 }
 	color2 = rgb { 175 13 18 }
 
 	textured_emblem = {
 		texture = "mdm_coa_spain.dds"
+		instance = { position = { 0.333 0.5 } scale = { 0.35 0.35 } }
 	}
 }
 
@@ -35128,7 +35096,7 @@ mdm_SWI = { # mdm modern day mod Switzerland
 	color1 = { 219 36 22 }
 	
 	colored_emblem = {
-		texture = "ce_cross_swiss.dds"
+		texture = "mdm_ce_cross_swiss.dds"
 		color1 = "white"
 	}	
 }
@@ -38603,17 +38571,10 @@ UGW = { # Ungwana
 	}		
 }
 
-UKR = { # Ukraine
-	pattern = "pattern_solid.dds"
-	color1 = "blue"
-	color2 = "yellow"
-	
-	colored_emblem = {
-		texture = "ce_tryzub.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.51 } scale = { 0.95 0.95 } }			
-	}		
+mdm_UKR = { # mdm modern day mod Ukraine
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 0 87 183 }
+	color2 = rgb { 255 215 0 }
 }
 
 ULA = { # Nara Ula
@@ -41320,28 +41281,13 @@ YEH_blue_banner = { # Nara Yehe  - Bordered blue banner
 	}	
 }
 
-YEM = { # Yemen
-	pattern = "pattern_solid.dds"
-	color1 = "red"
+mdm_YEM = { # mdm modern day mod Yemen
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 207 8 33 }
 	color2 = "white"
-
-	colored_emblem = {
-		texture = "ce_sword_arabic.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 } }	
-	}		
-	colored_emblem = {
-		texture = "ce_star_05.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.10 0.15 } scale = { 0.2 0.2 } }	
-		instance = { position = { 0.90 0.15 } scale = { 0.2 0.2 } }	
-		instance = { position = { 0.10 0.85 } scale = { 0.2 0.2 } }	
-		instance = { position = { 0.90 0.85 } scale = { 0.2 0.2 } }	
-		instance = { position = { 0.50 0.30 } scale = { 0.2 0.2 } }			
-	}			
+	color3 = "black"
 }
+
 YEM_rasulid = { # Rasulid - Composition from mosque ornamental paintings
 	pattern = "pattern_solid.dds"
 	color1 = "white"
