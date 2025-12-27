@@ -3267,6 +3267,19 @@ mdm_BEL = { # mdm modern day mod Belgium
 
 }
 
+mdm_BELA = { # mdm modern day mod Belarus
+	pattern = "mdm_pattern_third_bottom.dds"
+	color1 = rgb { 210 39 48 }
+	color2 = rgb { 0 151 57 }
+
+	colored_emblem = {
+		texture = "mdm_ce_ruchnik.dds"
+		color1 = color1
+		color2 = "white"
+	}
+
+}
+
 BEN = { # Benin 
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	352 	80	52	}
@@ -38558,17 +38571,10 @@ UGW = { # Ungwana
 	}		
 }
 
-UKR = { # Ukraine
-	pattern = "pattern_solid.dds"
-	color1 = "blue"
-	color2 = "yellow"
-	
-	colored_emblem = {
-		texture = "ce_tryzub.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.51 } scale = { 0.95 0.95 } }			
-	}		
+mdm_UKR = { # mdm modern day mod Ukraine
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 0 87 183 }
+	color2 = rgb { 255 215 0 }
 }
 
 ULA = { # Nara Ula

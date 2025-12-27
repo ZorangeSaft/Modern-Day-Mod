@@ -838,6 +838,13 @@ BEL = { # mdm modern day mod Belgium
 	}
 }
 
+BELA = { # mdm modern day mod Belarus
+	flag_definition = {
+		coa = mdm_BELA
+		priority = 1
+	}
+}
+
 BER = { # Berry
 	flag_definition = {
 		coa = BER
@@ -5681,6 +5688,13 @@ UBV = { # Upper Bavaria
 		trigger = {
 			coa_def_hre_emperor_trigger = yes
 		}
+	}
+}
+
+UKR = { # mdm modern day mod Ukraine
+	flag_definition = {
+		coa = mdm_UKR
+		priority = 1
 	}
 }
 
