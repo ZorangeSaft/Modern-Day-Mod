@@ -12569,61 +12569,15 @@ FEZ = { # Fez
 		color1 = color3
 		color2 = color3							
 	}	
-} 
-
-FIN = { # Finland
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-	color3 = "white_secondary"
-
-	colored_emblem = {
-		texture = "ce_rose_simple.dds"
-		color1 = hsv360 	{	0		0		82	}
-		color2 = "grey"
-		color3 = "grey"
-		instance = { position = { 0.08 0.10 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.08 0.36	} scale = { 0.12 0.12 } }
-		instance = { position = { 0.08 0.63 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.08 0.90 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.17 0.22 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.18 0.48	} scale = { 0.12 0.12 } }
-		instance = { position = { 0.17 0.80 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.28 0.90 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.27 0.11 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.27 0.32 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.22 0.66	} scale = { 0.12 0.12 } }
-		instance = { position = { 0.355 0.64 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.92 0.10 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.92 0.36	} scale = { 0.12 0.12 } }
-		instance = { position = { 0.92 0.63 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.92 0.90 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.74 0.11 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.76 0.34 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.77 0.60 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.84 0.22 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.84 0.48 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.84 0.76 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.57 0.79 } scale = { 0.12 0.12 } }
-		instance = { position = { 0.79 0.90 } scale = { 0.12 0.12 } }
-	}
-	colored_emblem = {
-		texture = "ce_lion_rampant_crowned_finland.dds"
-		color1 = color2
-		color2 = color3
-		color3 = color1
-		instance = { position = { 0.505 0.495 } scale = { 0.925 0.925 } }
-	}
 }
-FIN_cross = {
+
+mdm_FIN = { # mdm modern day mod Finland
 	pattern = "pattern_solid.dds"
 	color1 = "white"
-	color2 = "blue"
 
 	colored_emblem = {
 		texture = "ce_cross_scandinavian.dds"
-		color1 = color2
-		color2 = color2
+		color1 = rgb { 0 43 108 }
 	}
 }
 
@@ -33786,6 +33740,18 @@ SLO_tricolor = { # Slovakia - tricolor - 20th c.
 		color2 = color2
 		color3 = color3			
 	}		
+}
+
+mdm_SLOV = { # mdm modern day mod Slovenia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "white"
+	color2 = rgb { 0 0 255 }
+	color3 = rgb { 255 0 0 }
+
+	textured_emblem = {
+		texture = "mdm_coa_slovenia.dds"
+		instance = { position = { 0.25 0.333 } scale = { 0.333 0.333 } }
+	}
 }
 
 SLP = { # Selaparang

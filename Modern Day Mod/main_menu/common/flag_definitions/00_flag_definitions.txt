@@ -2018,6 +2018,13 @@ FCB = { # Palatinate of Burgundy
 	}		
 }
 
+FIN = { # mdm modern day mod Finland
+	flag_definition = {
+		coa = mdm_FIN
+		priority = 1
+	}
+}
+
 FRM = { # Fermo
 	flag_definition = {
 		coa = FRM
@@ -5259,6 +5266,13 @@ SLO = { # Slovakia
 		trigger = {
 			coa_def_revolutionary_republic_trigger = yes
 		}
+	}
+}
+
+SLOV = { # mdm modern day mod Slovenia
+	flag_definition = {
+		coa = mdm_SLOV
+		priority = 1
 	}
 }
 
