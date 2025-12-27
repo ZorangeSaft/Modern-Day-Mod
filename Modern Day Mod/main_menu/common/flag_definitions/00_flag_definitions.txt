@@ -3097,7 +3097,14 @@ LVA = { # Baltic formable
 			coa_def_revolutionary_republic_trigger = yes
 		}
 	}
-}	
+}
+
+MACE = { # mdm modern day mod North Macedonia
+	flag_definition = {
+		coa = mdm_MACE
+		priority = 1
+	}
+}
 
 MAK = { # Makuria
 	flag_definition = {
