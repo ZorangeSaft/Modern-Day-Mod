@@ -332,6 +332,14 @@ concrete = {
 	transport_cost = 5 #same as basegame stone
 }
 
+cement = {
+	category = produced
+	color = goods_concrete
+	default_market_price = 1 #same as basegame masonry
+	transport_cost = 5 #same as basegame stone
+}
+
+
 fertilizer = { #synthetic ammonium nitrate fertilizer
 	category = produced
 	color = goods_concrete

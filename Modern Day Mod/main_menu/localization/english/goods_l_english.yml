@@ -1237,10 +1237,17 @@
 
 
 
- #produced goods
+ #construction goods
 
  concrete: "Concrete"
  concrete_desc: "Concrete description."
+
+ cement: "Cement"
+ cement_desc: "Cement description"
+
+
+
+ #produced goods
 
  fertilizer: "Fertilizer"
  fertilizer_desc: "Synthetic Fertilizer"
