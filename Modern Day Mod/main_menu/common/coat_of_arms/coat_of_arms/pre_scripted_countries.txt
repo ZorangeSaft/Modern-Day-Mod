@@ -11857,6 +11857,13 @@ ESS = { # Essen
 	}		
 }
 
+mdm_ESTO = { # mdm modern day mod Estonia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 115 207 }
+	color2 = "black"
+	color3 = "white"
+}
+
 ETA = { # Etampes
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
@@ -20198,6 +20205,12 @@ LAT = { # Latin Empire
 	}
 }
 
+mdm_LATV = { # mdm modern day mod Latvia
+	pattern = "mdm_pattern_middle_stripe.dds"
+	color1 = rgb { 158 29 50 }
+	color2 = "white"
+}
+
 LAU = { # Saxe-Lauenburg/Engern - Askanier arms 15th c. (Q1-Q4 Saxony, Q2 Palatinate, Q3 Engern)
 	pattern = "pattern_quarterly_flag.dds"
 	color1 = "black"
@@ -20888,37 +20901,11 @@ LIN = { # Laian
 	}			
 } 
 
-LIT = { # Lithuania
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "blue"
-	color4 = "yellow"
-
-	textured_emblem = {
-		texture = "te_knight_lithuania.dds"
-		instance = { position = { 0.51 0.5 } scale = { 1.05 1.05 } }
-	}
-	textured_emblem = {
-		texture = "te_knight_shield_overlay_gediminas.dds"
-		instance = { position = { 0.51 0.5 } scale = { 1.05 1.05 } }
-	}
-}
-LIT_jagiellon = {
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "blue"
-	color4 = "yellow"
-
-	textured_emblem = {
-		texture = "te_knight_lithuania.dds"
-		instance = { position = { 0.51 0.5 } scale = { 1.05 1.05 } }
-	}
-	textured_emblem = {
-		texture = "te_knight_shield_overlay_jogaila.dds"
-		instance = { position = { 0.51 0.5 } scale = { 1.05 1.05 } }
-	}
+mdm_LIT = { # mdm modern day mod Lithuania
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 253 185 19 }
+	color2 = rgb { 0 106 68 }
+	color3 = rgb { 193 39 45 }
 }
 
 LIV = { # Livonian Order

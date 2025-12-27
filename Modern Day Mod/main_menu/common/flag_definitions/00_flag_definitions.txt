@@ -1880,6 +1880,13 @@ ERM = { # Warmia
 	}	
 }
 
+ESTO = { # mdm modern day mod Estonia
+	flag_definition = {
+		coa = mdm_ESTO
+		priority = 1
+	}
+}
+
 ETA = { # Etampes
 	flag_definition = {
 		coa = ETA
@@ -2804,6 +2811,13 @@ KTG = { # Kengtung
 	}
 }
 
+LATV = { # mdm modern day mod Latvia
+	flag_definition = {
+		coa = mdm_LATV
+		priority = 1
+	}
+}
+
 LAU = { # Saxony-Lauenburg
 	flag_definition = {
 		coa = LAU_horse
@@ -2913,21 +2927,10 @@ LIE = { # Liège
 	}
 }
 
-LIT = { # Lithuania
+LIT = { # mdm modern day mod Lithuania
 	flag_definition = {
-		coa = LIT
+		coa = mdm_LIT
 		priority = 1
-	}
-	flag_definition = {
-		coa = LIT_jagiellon
-		priority = 10
-		trigger = {
-			coa_def_gediminid_dynasty_trigger = no
-			OR = {
-				coa_def_christian_trigger = yes
-				coa_def_jagiellon_dynasty_trigger = yes
-			}
-		}
 	}
 }
 
