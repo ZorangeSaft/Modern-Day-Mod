@@ -1899,32 +1899,11 @@ ARK = { # Launggyet (Arakan)
 	}
 }
 
-ARM = { # Armenia
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-
-	colored_emblem = {
-		texture = "ce_lion_passant_bagratid_wide.dds"
-		color1 = color2
-		color2 = color2
-		color3 = color1
-		instance = { position = { 0.49 0.5 } scale = { 1.0 1.0 } }				
-	}
-}
-ARM_kingdom = { # Armenia changing to a late composition adding crown & holding the cross patriarchal on model of Cilicia
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "yellow"
-
-	colored_emblem = {
-		texture = "ce_lion_passant_crowned_cross_patriarchal.dds"
-		color1 = color2
-		color2 = color3
-		color3 = color1
-		instance = { position = { 0.5 0.49 } scale = { 1.0 1.0 } }
-	}
+mdm_ARM = { # mdm modern day mod Armenia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 218 0 10 }
+	color2 = rgb { 0 48 161 }
+	color3 = rgb { 242 170 0 }
 }
 
 ARR = { # Riga 14th c. bishopric
@@ -2656,6 +2635,18 @@ AYU = { # Ayutthaya - First Siam design, otherwise plain red
 	}	
 }
 
+mdm_AZER = { # mdm modern day mod Azerbaijan
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 182 227 }
+	color2 = rgb { 239 48 62 }
+	color3 = rgb { 79 159 43 }
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_azeri.dds"
+		color1 = "white"
+		instance = { scale = { 0.3 0.3 } }
+	}	
+}
 AZF = { # Al-Zafir
 	pattern = "pattern_solid.dds"
 	color1 = "white"
@@ -13055,25 +13046,18 @@ GEN_griffin = { # Genoese griffin - Another emblem of the city
 	}
 }
 
-GEO = { # Georgia
-	pattern = "pattern_solid.dds"
+mdm_GEO = { # mdm modern day mod Georgia
+	pattern = "pattern_cross_georgia.dds"
 	color1 = "white"
-	color2 = "red"
+	color2 = rgb { 255 0 0 }
 
 	colored_emblem = {
-		texture = "ce_cross_cantoned.dds"
+		texture = "mdm_ce_cross_georgian.dds"
 		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
-	}
-	colored_emblem = {
-		texture = "ce_cross_patty_wide.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.225 0.225 } scale = { 0.4 0.4 } }
-		instance = { position = { 0.775 0.225 } scale = { 0.4 0.4 } }
-		instance = { position = { 0.225 0.775 } scale = { 0.4 0.4 } }
-		instance = { position = { 0.775 0.775 } scale = { 0.4 0.4 } }
+		instance = { position = { 0.216 0.197 } scale = { 0.205 0.205 } }
+		instance = { position = { 0.784 0.197 } scale = { 0.205 0.205 } }
+		instance = { position = { 0.216 0.803 } scale = { 0.205 0.205 } }
+		instance = { position = { 0.784 0.803 } scale = { 0.205 0.205 } }
 	}
 }
 
@@ -16481,6 +16465,19 @@ mdm_IRAN = { # mdm modern day mod Iran
 		texture = "mdm_ce_iran.dds"
 		color1 = color3
 		instance = { scale = { 0.25 0.25 } }
+	}
+}
+
+mdm_IRAQ = { # mdm modern day mod Iraq
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 206 8 32 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_takbir_iraqi.dds"
+		color1 = rgb { 1 123 61 }
+		instance = { scale = { 0.4 0.4 } }
 	}
 }
 
@@ -37104,58 +37101,13 @@ TUN_morocco = { # Tunis - Morocco variant
 	}
 }
 
-TUR = { # Ottomans
+mdm_TURK = { # mdm modern day mod Türkiye
 	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
+	color1 = rgb { 228 3 16 }
 
 	colored_emblem = {
-		texture = "ce_crescent_decrescent.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 } }	
-	}
-}
-TUR_crescents = { # Ottomans - Three crescents variant
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-	
-	colored_emblem = {
-		texture = "ce_crescent_decrescent.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.400 0.280 } scale = { 0.46 0.46 } }		
-		instance = { position = { 0.400 0.720 } scale = { 0.46 0.46 } }				
-		instance = { position = { 0.645 0.500 } scale = { 0.46 0.46 } }					
-	}
-}
-TUR_crescents_roundel = { # Ottomans (Later variant)
-	pattern = "pattern_solid.dds"
-	color1 = hsv360 	{	358 	85	55	}
-	color2 = "yellow_light"
-	color3 = hsv360 	{	90	80	35	} 
-	
-	colored_emblem = {
-		texture = "ce_crescent_triple_roundel.dds"
-		color1 = color3
-		color2 = color3
-		color3 = color2
-		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 } }				
-	}
-}
-TUR_crescents_roundel_fess = { # Ottomans (Later variant) - Variant with the crescents arranged in fess
-	pattern = "pattern_solid.dds"
-	color1 = hsv360 	{	358 	85	55	}
-	color2 = "yellow_light"
-	color3 = hsv360 	{	90	80	35	} 
-	
-	colored_emblem = {
-		texture = "ce_crescent_triple_roundel_02.dds"
-		color1 = color3
-		color2 = color3
-		color3 = color2
-		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 } }				
+		texture = "ce_turkey_modern_crescent_star.dds"
+		color1 = "white"
 	}
 }
 
