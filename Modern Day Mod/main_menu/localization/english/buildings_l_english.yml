@@ -1141,9 +1141,120 @@
 
 
 
-######
+ ###### mdm modern day mod
 
 
 
-airport: "Airport"
-airport_desc: "airport description"
+ #infrastructure buildings
+
+ mdm_airport: "Airport"
+ mdm_airport_desc: "Airport description"
+
+ mdm_electrical_grid: "Electrical Grid"
+ mdm_electrical_grid_desc: "Electrical grid description"
+
+
+
+ #local road networks
+
+ mdm_local_road_network: "Local Road Network"
+ mdm_local_road_network_desc: "Local road network description"
+
+ mdm_local_dirt_road_network: "Local Dirt Road Network"
+ mdm_local_dirt_road_network_desc: "Local dirt road network description"
+
+
+
+ #train buildings
+
+ mdm_train_station: "Train Station"
+ mdm_train_station_desc: "Train station description"
+
+ mdm_high_speed_rail_network: "High-Speed Rail Network"
+ mdm_high_speed_rail_network_desc: "High-speed rail network description"
+
+ mdm_local_electrified_rail_network: "Local Electrified Rail Network"
+ mdm_local_electrified_rail_network_desc: "Local electrified rail network description"
+
+ mdm_local_rail_network: "Local Rail Network"
+ mdm_local_rail_network_desc: "Local rail network description"
+
+ 
+
+ #cell towers
+
+ mdm_1g_cell_tower: "1G Cell Tower"
+ mdm_1g_cell_tower_desc: "1G Cell Tower description"
+
+ mdm_2g_cell_tower: "2G Cell Tower"
+ mdm_2g_cell_tower_desc: "2G Cell Tower description"
+
+ mdm_3g_cell_tower: "3G Cell Tower"
+ mdm_3g_cell_tower_desc: "3G Cell Tower description"
+
+ mdm_4g_cell_tower: "4G Cell Tower"
+ mdm_4g_cell_tower_desc: "4G Cell Tower description"
+
+ mdm_5g_cell_tower: "5G Cell Tower"
+ mdm_5g_cell_tower_desc: "5G Cell Tower description"
+
+
+
+ #eletricity producing buildings
+
+ mdm_hydroelectric_dam: "Hydroelectric Dam"
+ mdm_hydroelectric_dam_desc: "Hydroelectric dam description"
+
+ mdm_wind_turbine: "Wind Turbine"
+ mdm_wind_turbine_desc: "Wind turbine description"
+
+ mdm_solar_panel: "Solar Panel"
+ mdm_solar_panel_desc: "Solar panel description"
+
+
+
+ #public leisure buildings
+
+ mdm_park: "Park"
+ mdm_park_desc: "Park description"
+
+ mdm_botanical_garden: "Botanical Garden"
+ mdm_botanical_garden_desc: "Botanical garden description"
+
+ mdm_zoo: "Zoo"
+ mdm_zoo_desc: "Zoo description"
+
+ mdm_aquarium: "Aquarium"
+ mdm_aquarium_desc: "Aquarium description"
+
+ mdm_museum: "Museum"
+ mdm_museum_desc: "Museum description"
+
+ mdm_art_gallery: "Art Gallery"
+ mdm_art_gallery_desc: "Art gallery description"
+
+ mdm_amusement_park: "Amusement Park"
+ mdm_amusement_park_desc: "Amusement park description"
+
+ mdm_waterpark: "Waterpark"
+ mdm_waterpark_desc: "Waterpark description"
+
+ mdm_sports_center: "Sports Center"
+ mdm_sports_center_desc: "Sports center description"
+
+ mdm_stadium: "Stadium"
+ mdm_stadium_desc: "Stadium description"
+
+ mdm_convention_center: "Convention Center"
+ mdm_convention_center_desc: "Convention center description"
+
+ mdm_opera_house: "Opera House"
+ mdm_opera_house_desc: "Opera house description"
+
+ mdm_theater: "Theater"
+ mdm_theater_desc: "Theater description"
+
+ mdm_movie_theater: "Movie Theater"
+ mdm_movie_theater_desc: "Movie theater description"
+
+

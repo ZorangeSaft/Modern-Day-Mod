@@ -98,12 +98,14 @@ mdm_default_price = {gold = 1} #default value before specific one is set
 mdm_price_5 = {gold = 5}
 mdm_price_10 = {gold = 10}
 mdm_price_20 = {gold = 20}
+mdm_price_30 = {gold = 30}
 mdm_price_40 = {gold = 40}
 mdm_price_50 = {gold = 50}
 mdm_price_60 = {gold = 60}
 mdm_price_75 = {gold = 75}
 mdm_price_80 = {gold = 80}
 mdm_price_100 = {gold = 100}
+mdm_price_120 = {gold = 120}
 mdm_price_150 = {gold = 150}
 mdm_price_200 = {gold = 200}
 mdm_price_250 = {gold = 250}

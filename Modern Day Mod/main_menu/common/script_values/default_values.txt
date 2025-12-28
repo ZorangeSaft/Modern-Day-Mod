@@ -1076,4 +1076,13 @@ mdm_build_time_900 = 900
 
 mdm_default_employment = 0.001 #default value before specific one is set
 
-mdm_airport_employment = 0.15
+mdm_employment_15 = 0.015
+mdm_employment_40 = 0.04
+mdm_employment_50 = 0.05
+mdm_employment_60 = 0.06
+mdm_employment_80 = 0.08
+mdm_employment_100 = 0.1
+mdm_employment_120 = 0.12
+mdm_employment_150 = 0.15
+mdm_employment_200 = 0.2
+mdm_employment_250 = 0.25

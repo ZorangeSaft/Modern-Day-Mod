@@ -6,7 +6,7 @@
     }
     pop_type = laborers
 
-    employment_size = mdm_default_employment
+    employment_size = mdm_employment_15
     category = infrastructure_category
 
     megalopolis = yes
@@ -37,7 +37,7 @@ mdm_botanical_garden = {
     max_levels = mdm_location_rank_max_level_minus_2
     pop_type = laborers
 
-    employment_size = mdm_default_employment
+    employment_size = mdm_employment_40
     category = infrastructure_category
 
     megalopolis = yes
@@ -68,7 +68,7 @@ mdm_zoo = {
     max_levels = mdm_location_rank_max_level_minus_2
     pop_type = laborers
 
-    employment_size = mdm_default_employment
+    employment_size = mdm_employment_150
     category = infrastructure_category
 
     megalopolis = yes
@@ -99,7 +99,7 @@ mdm_aquarium = {
     max_levels = mdm_location_rank_max_level_minus_2
     pop_type = laborers
 
-    employment_size = mdm_default_employment
+    employment_size = mdm_employment_120
     category = infrastructure_category
 
     megalopolis = yes
@@ -130,7 +130,7 @@ mdm_museum = {
     max_levels = mdm_location_rank_max_level_minus_2
     pop_type = laborers
 
-    employment_size = mdm_default_employment
+    employment_size = mdm_employment_80
     category = infrastructure_category
 
     megalopolis = yes
@@ -161,7 +161,7 @@ mdm_art_gallery = {
     max_levels = mdm_location_rank_max_level_minus_2
     pop_type = laborers
 
-    employment_size = mdm_default_employment
+    employment_size = mdm_employment_60
     category = infrastructure_category
 
     megalopolis = yes
@@ -192,7 +192,7 @@ mdm_amusement_park = {
     max_levels = mdm_location_rank_max_level_minus_2
     pop_type = laborers
 
-    employment_size = mdm_default_employment
+    employment_size = mdm_employment_250
     category = infrastructure_category
 
     megalopolis = yes
@@ -222,7 +222,7 @@ mdm_waterpark = {
     max_levels = mdm_location_rank_max_level_minus_2
     pop_type = laborers
 
-    employment_size = mdm_default_employment
+    employment_size = mdm_employment_120
     category = infrastructure_category
 
     megalopolis = yes
@@ -252,7 +252,7 @@ mdm_sports_center = {
     max_levels = mdm_location_rank_max_level_minus_2
     pop_type = laborers
 
-    employment_size = mdm_default_employment
+    employment_size = mdm_employment_60
     category = infrastructure_category
 
     megalopolis = yes
@@ -282,7 +282,7 @@ mdm_stadium = {
     max_levels = mdm_location_rank_max_level_minus_2
     pop_type = laborers
 
-    employment_size = mdm_default_employment
+    employment_size = mdm_employment_150
     category = infrastructure_category
 
     megalopolis = yes
@@ -312,7 +312,7 @@ mdm_convention_center = {
     max_levels = mdm_location_rank_max_level_minus_2
     pop_type = laborers
 
-    employment_size = mdm_default_employment
+    employment_size = mdm_employment_100
     category = infrastructure_category
 
     megalopolis = yes
@@ -334,6 +334,102 @@ mdm_convention_center = {
 
     modifier = {
         local_max_literacy = 1
+        local_unrest = -0.01
+    }
+}
+
+mdm_opera_house = {
+    is_foreign = no
+    max_levels = mdm_location_rank_max_level_minus_2
+    pop_type = laborers
+
+    employment_size = mdm_employment_200
+    category = infrastructure_category
+
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+
+    price = mdm_price_120
+    build_time = mdm_build_time_720
+
+    unique_production_methods = {
+        mdm_opera_house_maintenance = {
+            electricity = 180
+        }
+    }
+
+    construction_demand = mdm_default_construction_demand
+
+    modifier = {
+        local_cultural_tradition = 1
+        local_cultural_influence = 2
+        local_unrest = -0.01
+    }
+}
+
+mdm_theater = {
+    is_foreign = no
+    max_levels = mdm_location_rank_max_level_minus_2
+    pop_type = laborers
+
+    employment_size = mdm_employment_50
+    category = infrastructure_category
+
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+
+    price = mdm_price_30
+    build_time = mdm_build_time_360
+
+    unique_production_methods = {
+        mdm_theater_maintenance = {
+            electricity = 80
+        }
+    }
+
+    construction_demand = mdm_default_construction_demand
+
+    modifier = {
+        local_cultural_tradition = 1
+        local_cultural_influence = 2
+        local_unrest = -0.01
+    }
+}
+
+mdm_movie_theater = {
+    is_foreign = no
+    max_levels = mdm_location_rank_max_level_minus_2
+    pop_type = laborers
+
+    employment_size = mdm_employment_40
+    category = infrastructure_category
+
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+
+    price = mdm_price_10
+    build_time = mdm_build_time_180
+
+    unique_production_methods = {
+        mdm_movie_theater_maintenance = {
+            electricity = 120
+        }
+    }
+
+    construction_demand = mdm_default_construction_demand
+
+    modifier = {
+        local_cultural_tradition = 2
+        local_cultural_influence = 4 #movies much more popular in modern day than opera and theater
         local_unrest = -0.01
     }
 }

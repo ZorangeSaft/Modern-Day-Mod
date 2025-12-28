@@ -83,7 +83,7 @@ mdm_solar_panel = {
 	}
 	pop_type = laborers
 	
-	employment_size = mdm_airport_employment
+	employment_size = mdm_employment_150
 	category = infrastructure_category
 	
 	megalopolis = yes
