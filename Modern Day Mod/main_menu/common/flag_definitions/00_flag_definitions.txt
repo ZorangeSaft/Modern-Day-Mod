@@ -386,23 +386,10 @@ ADU = { # Al Andalus
 	}	
 }
 
-ALB = { # Albania/Durres
-	# ALB - Kastrioti principality : eagle dh GS & star in chief O
-	# ALB_anjou - Anjou-Durazzo : France, label 3p G, border compony AG
-
+ALB = { # mdm modern day mod Albania
 	flag_definition = {
-		coa = ALB
+		coa = mdm_ALB
 		priority = 1
-	}
-	flag_definition = {
-		coa = ALB_Anjou
-		priority = 100
-		trigger = {
-			OR = {
-				coa_def_capetian_trigger = yes
-				coa_def_angevine_regency_trigger = yes
-			}
-		}
 	}
 }
 
@@ -2177,6 +2164,13 @@ GRA = { # Granada
 			coa_def_christian_trigger = yes
 			coa_def_POR_ensign_trigger = yes
 		}
+	}
+}
+
+GRE = { # mdm modern day mod Greece
+	flag_definition = {
+		coa = mdm_GRE
+		priority = 1
 	}
 }
 

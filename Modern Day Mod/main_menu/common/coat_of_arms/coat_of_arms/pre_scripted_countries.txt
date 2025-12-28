@@ -653,83 +653,15 @@ AJU = { # Ajuuraan
 	}	
 }
 
-ALB = { # Albania - Kastrioti
+mdm_ALB = { # mdm modern day mod Albania
 	pattern = "pattern_solid.dds"
-	color1 = hsv360 	{	358 	70	58	}	
-	color2 = "black"
-	color3 = "yellow"
+	color1 = rgb { 255 0 0 }
 	
 	colored_emblem = {
-		texture = "ce_eagle_doubleheaded_wide.dds"
-		color1 = color2
-		color2 = color2
-		color3 = hsv360 	{	0		0		80	} 
-		instance = { position = { 0.5 0.515 } scale = { 0.95 0.95 } }				
+		texture = "mdm_ce_eagle_albanian.dds"
+		color1 = "black"
+		instance = { scale = { 0.612 0.612 } }
 	}
-	colored_emblem = {
-		texture = "ce_star_06.dds"
-		color1 = color3
-		color2 = color3
-		instance = { position = { 0.5 0.12 } scale = { 0.2 0.2 } }				
-	}		
-}
-
-ALB_Anjou = { # Albania - Angevine Albania (Anjou-Durazzo)
-	pattern = "pattern_solid.dds"
-	color1 = "blue"
-	color2 = "yellow"
-
-	@semis_border = 0.25
-	
-	colored_emblem = {
-		texture = "ce_fleur_de_lis.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.156 0.10 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.328 0.10 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.50 0.10 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.672 0.10 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.844 0.10 } scale = { @semis_border @semis_border } }		
-		instance = { position = { 0.070 0.25 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.242 0.25 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.414 0.25 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.586 0.25 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.758 0.25 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.930 0.25 } scale = { @semis_border @semis_border } }		
-		instance = { position = { 0.156 0.40 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.328 0.40 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.50 0.40 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.672 0.40 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.844 0.40 } scale = { @semis_border @semis_border } }		
-		instance = { position = { 0.070 0.55 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.242 0.55 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.414 0.55 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.586 0.55 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.758 0.55 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.930 0.55 } scale = { @semis_border @semis_border } }		
-		instance = { position = { 0.156 0.70 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.328 0.70 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.50 0.70 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.672 0.70 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.844 0.70 } scale = { @semis_border @semis_border } }		
-		instance = { position = { 0.070 0.85 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.242 0.85 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.414 0.85 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.586 0.85 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.758 0.85 } scale = { @semis_border @semis_border } }
-		instance = { position = { 0.930 0.85 } scale = { @semis_border @semis_border } }
-	}
-	colored_emblem = {
-		texture = "ce_label_03.dds"
-		color1 = "red_mid"
-		color2 = "red_mid"
-		instance = { position = { 0.5 0.69 }  scale = { 0.9 1.0 } }
-	}		
-	colored_emblem = {
-		texture = "ce_border_thin_compony.dds"
-		color1 = "red"
-		color2 = "white"
-	}			
 }
 
 ALE_ancient = { # Alençon Ancient (Bellême)
@@ -13751,24 +13683,10 @@ GRA_border_aragon = { # Granada - Border of Aragon
 	}		
 }
 
-GRE = { # Greece
-	pattern = "pattern_solid.dds"
-	color1 = "blue"
+mdm_GRE = { # mdm modern day mod Greece
+	pattern = "pattern_greece.dds"
+	color1 = rgb { 5 94 176}
 	color2 = "white"
-	color3 = "yellow"
-
-	colored_emblem = {
-		texture = "ce_cross.dds"
-		color1 = color2
-		color2 = color2
-	}
-	colored_emblem = {
-		texture = "ce_crown.dds"
-		color1 = color3
-		color2 = color3
-		color3 = hsv360 	{	0		0		85	} 
-		instance = { position = { 0.5 0.5 } scale = { 0.55 0.55 } }				
-	}	
 }
 
 GRF = { # Grafenau
