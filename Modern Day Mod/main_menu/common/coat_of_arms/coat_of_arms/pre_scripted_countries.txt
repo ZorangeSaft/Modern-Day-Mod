@@ -9285,15 +9285,15 @@ CRN_tricolor = { # Tricolor design
 	}	
 }
 
-CRO = { # Croatia - 16th c. - Before that Dalmatia = three lion's (or leopard's) head & Croatia = dextrochere holding dagger - with Dalmatian arms mostly representing both
-	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "red"
+mdm_CRO  = { # mdm modern day mod Croatia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 255 0 0 }
+	color2 = "white"
+	color3 = rgb { 16 16 151 }
 
-	colored_emblem = {
-		texture = "ce_checky_07.dds"
-		color1 = color2
-		color2 = color1
+	textured_emblem = {
+		texture = "mdm_coa_croatia.dds"
+		instance = { position = { 0.5 0.446 } scale = { 0.625 0.625 } }
 	}
 }
 

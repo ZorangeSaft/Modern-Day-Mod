@@ -1751,6 +1751,13 @@ CRN = { # Cornwall
 	}	
 }
 
+CRO = { # mdm modern day mod Croatia
+	flag_definition = {
+		coa = mdm_CRO
+		priority = 1
+	}
+}
+
 CYP = { # Cyprus
 	flag_definition = {
 		coa = CYP
