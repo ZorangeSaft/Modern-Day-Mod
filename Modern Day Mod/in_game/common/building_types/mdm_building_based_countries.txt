@@ -7,7 +7,7 @@
 	}
 	pop_type = burghers
 	
-	employment_size = mdm_airport_employment
+	employment_size = mdm_employment_150
 	category = infrastructure_category
 	
 	megalopolis = yes
@@ -56,7 +56,7 @@ mdm_eu_capital = {
 	category = trade_category
 	
 	max_levels = 1
-	employment_size = mdm_airport_employment
+	employment_size = mdm_employment_150
 	
 	megalopolis = yes
 	metropolis = yes
