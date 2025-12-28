@@ -961,6 +961,13 @@ BOS = { # Bosnia
 	}
 }
 
+BOSH = { # mdm modern day mod Bosnia
+	flag_definition = {
+		coa = mdm_BOSH
+		priority = 1
+	}
+}
+
 BOU = { # Bourbonnais
 	flag_definition = {
 		coa = BOU_ancient
@@ -2980,17 +2987,10 @@ MFA = { # Montferrat
 	}	
 }
 
-MGE = { # Mongolia
+MGE = { # mdm modern day mod Mongolia
 	flag_definition = {
-		coa = MGE
+		coa = mdm_MGE
 		priority = 1
-	}
-	flag_definition = {
-		coa = MGE_soyombo
-		priority = 100
-		trigger = {
-			coa_def_buddhist_trigger = yes
-		}
 	}
 }
 
@@ -4695,24 +4695,10 @@ SDZ = { # Sieradz
 	}
 }
 
-SER = { # Serbia
+SER = { # mdm modern day mod Serbia
 	flag_definition = {
-		coa = SER
+		coa = mdm_SER
 		priority = 1
-	}
-	flag_definition = {
-		coa = SER_firesteels
-		priority = 10
-		trigger = {
-			coa_def_BYZ_ensign_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = SER_empire
-		priority = 50
-		trigger = {
-			coa_def_empire_trigger = yes
-		}
 	}
 }
 

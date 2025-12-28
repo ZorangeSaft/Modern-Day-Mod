@@ -4481,6 +4481,30 @@ BOS_late = { # Bosnia - Modern tinctures after 1590
 	}	
 }
 
+mdm_BOSH = { # mdm modern day mod Bosnia
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "mdm_ce_triangle_bosnian_herzegovinian.dds"
+		color1 = rgb { 254 204 0 }
+		instance = { position = { 0.515 0.5 } }
+	}
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		instance = { position = { 0.11 -0.011 } scale = { 0.19 0.19 } }
+		instance = { position = { 0.193 0.136 } scale = { 0.19 0.19 } }
+		instance = { position = { 0.275 0.261 } scale = { 0.19 0.19 } }
+		instance = { position = { 0.358 0.386 } scale = { 0.19 0.19 } }
+		instance = { position = { 0.441 0.511 } scale = { 0.19 0.19 } }
+		instance = { position = { 0.523 0.636 } scale = { 0.19 0.19 } }
+		instance = { position = { 0.606 0.761 } scale = { 0.19 0.19 } }
+		instance = { position = { 0.689 0.886 } scale = { 0.19 0.19 } }
+		instance = { position = { 0.771 1.011 } scale = { 0.19 0.19 } }
+	}
+}
+
 BOU_ancient = { # Bourbon Ancient (Dampierre)
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"
@@ -21820,36 +21844,16 @@ MGD = { # Wenduling / Magindanao
 	}	
 }
 
-MGE = { # Mongol Empire
-	pattern = "pattern_solid.dds"
-	color1 = "blue"
-	color2 = "red_mid"
-	color3 = "white"
-	color4 = "yellow"
-	
-	colored_emblem = {
-		texture = "ce_tamgha_mongol_double_bow.dds"
-		color1 = color4
-		color2 = color4
-		instance = { position = { 0.33 0.5 } scale = { 0.7 0.7 } }		
-	}	
-	colored_emblem = {
-		texture = "ce_border_of_3_thin_line_inner.dds"
-		color1 = color3
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }		
-	}	
-}
-MGE_soyombo = { # Mongolia (Bhuddist)
-	pattern = "pattern_fringe.dds"
-	color1 = hsv360 	{	36	80	75	}	
-	color2 = "red_scarlet"
-	color3 = "yellow"
+mdm_MGE = { # mdm modern day mod Mongolia
+	pattern = "pattern_vertical_bar_01.dds"
+	color1 = rgb { 219 26 45 }
+	color2 = rgb { 0 102 179 }
 
-	textured_emblem = {
-		texture = "te_mongol_khanate_soyombo_frame.dds"
-		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 } }			
-	}		
+	colored_emblem = {
+		texture = "mdm_ce_amblem_mongolia.dds"
+		color1 = rgb { 255 212 0 }
+		instance = { position = { 0.167 0.475 } scale = { 0.75 0.75 } }
+	}
 }
 
 MGG = { # Mangyul
@@ -31994,60 +31998,15 @@ SED = { # Sedang/Xo Dang
 	}					
 }
 
-SER = { # Serbia
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "yellow"
-	
-	colored_emblem = {
-		texture = "ce_eagle_doubleheaded_crowned_wide.dds"
-		color1 = color2
-		color2 = color3
-		color3 = color3
-		instance = { position = { 0.5 0.505 } scale = { 0.95 0.95 } }		
-	}
-}
-SER_empire = { # Serbia - Empire
-	pattern = "pattern_solid.dds"
-	color1 = "yellow"
-	color2 = "red"
+mdm_SER = { # mdm modern day mod Serbia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 199 51 57 }
+	color2 = rgb { 4 62 119 }
 	color3 = "white"
-	
-	colored_emblem = {
-		texture = "ce_solid.dds" # Eyes
-		color1 = color3
-		color2 = color3
-		instance = { position = { 0.385 0.157 } scale = { 0.025 0.025 } }			
-		instance = { position = { 0.615 0.157 } scale = { 0.025 0.025 } }					
-	}	
-	colored_emblem = {
-		texture = "ce_eagle_doubleheaded_crowned_wide.dds"
-		color1 = color2
-		color2 = color2
-		color3 = "red_secondary"
-		instance = { position = { 0.5 0.505 } scale = { 0.95 0.95 } }		
-	}
-}
-SER_firesteels = { # Serbia - Variant of byzantine tetragrammatic cross
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	
-	colored_emblem = {
-		texture = "ce_cross_cantoned.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }			
-	}	
-	colored_emblem = {
-		texture = "ce_fire_steel_serbia.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.24 0.22 } scale = { -0.525 0.45 } }
-		instance = { position = { 0.76 0.22 } scale = { 0.525 0.45 } }
-		instance = { position = { 0.24 0.78 } scale = { -0.525 0.45 } }
-		instance = { position = { 0.76 0.78 } scale = { 0.525 0.45 } }		
+
+	textured_emblem = {
+		texture = "mdm_coa_serbia.dds"
+		instance = { position = { 0.357 0.458 } scale = { 0.749 0.749 } }
 	}
 }
 
