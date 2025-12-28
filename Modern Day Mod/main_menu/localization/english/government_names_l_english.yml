@@ -1,16 +1,16 @@
 ﻿l_english:
  country_name_construction_name: "$NAME$"
  country_name_construction_name_map: "$NAME$"
- country_name_construction_prefix_rank_of_name_but_map_is_just_prefix_rank: "$PREFIX$$RANK$ of $ARTICLE$$NAME$"
- country_name_construction_prefix_rank_of_name_but_map_is_just_prefix_rank_map: "$PREFIX$$RANK$"
- country_name_construction_prefix_name_rank: "$PREFIX$$NAME$ $RANK$"
- country_name_construction_prefix_name_rank_map: "$PREFIX$$NAME$ $RANK$"
- country_name_construction_prefix_adjective_rank: "$PREFIX$$ADJ$ $RANK$"
- country_name_construction_prefix_adjective_rank_map: "$PREFIX$$ADJ$ $RANK$"
- country_name_construction_prefix_rank_of_name: "$PREFIX$$RANK$ of $ARTICLE$$NAME$"
+ country_name_construction_prefix_rank_of_name_but_map_is_just_prefix_rank: "$NAME$" #"$PREFIX$$RANK$ of $ARTICLE$$NAME$"
+ country_name_construction_prefix_rank_of_name_but_map_is_just_prefix_rank_map: "$NAME$" #"$PREFIX$$RANK$"
+ country_name_construction_prefix_name_rank: "$NAME$" #"$PREFIX$$NAME$ $RANK$"
+ country_name_construction_prefix_name_rank_map: "$NAME$" #"$PREFIX$$NAME$ $RANK$"
+ country_name_construction_prefix_adjective_rank: "$NAME$" #"$PREFIX$$ADJ$ $RANK$"
+ country_name_construction_prefix_adjective_rank_map: "$NAME$" #"$PREFIX$$ADJ$ $RANK$"
+ country_name_construction_prefix_rank_of_name: "$NAME$" #"$PREFIX$$RANK$ of $ARTICLE$$NAME$"
  country_name_construction_prefix_rank_of_name_map: "$NAME$"
- country_name_construction_prefix_name: "$PREFIX$$NAME$"
- country_name_construction_prefix_name_map: "$PREFIX$$NAME$"
+ country_name_construction_prefix_name: "$NAME$" #"$PREFIX$$NAME$"
+ country_name_construction_prefix_name_map: "$NAME$" #"$PREFIX$$NAME$"
  #
  COUNTRY_NAME_ABBREVIATION: "$NAME$."
  #
@@ -36,7 +36,7 @@
  country_rank_colony_ruler_male: "Governor" 
  country_rank_colony_ruler_female: "Governess" 
  #
- rank_empire: "Empire"
+ rank_empire: "Very Developed"
  rank_empire_ADJ: "imperial"
  rank_empire_ruler_male: "Emperor"
  rank_empire_ruler_female: "Empress"
@@ -245,7 +245,7 @@
  rank_kingdom_bank_ruler_male: "Chairman-King"
  rank_kingdom_bank_ruler_female: "Chairwoman-Queen"
  #
- rank_kingdom: "Kingdom"
+ rank_kingdom: "Developed"
  rank_kingdom_ADJ: "royal"
  rank_kingdom_ruler_male: "King"
  rank_kingdom_ruler_female: "Queen"
@@ -562,7 +562,7 @@
  rank_kingdom_grand_duchy_LIT_ruler_male: "Grand Duke"
  rank_kingdom_grand_duchy_LIT_ruler_female: "Grand Duchess"
  #
- rank_duchy: "Duchy"
+ rank_duchy: "Developing"
  rank_duchy_ADJ: "ducal"
  rank_duchy_ruler_male: "Duke"
  rank_duchy_ruler_female: "Duchess"
@@ -793,7 +793,7 @@
  rank_duchy_thai_ruler_female: "Chao"
  ##############################################################
  #
- rank_county: "County"
+ rank_county: "Least Developed"
  rank_county_ADJ: "comital"
  rank_county_ruler_male: "Count"
  rank_county_ruler_female: "Countess"
@@ -1108,10 +1108,10 @@
  #
  # Ranks
  country_rank_effects_list_title: "[CountryRank.GetNameWithNoTooltip] has the following effects:"
- rank_empire_desc: "This is the highest [country_rank|e] and represents the most prestigious or powerful [countries|e] in the world."
- rank_kingdom_desc: "This is the [country_rank|e] that represents the larger [countries|e]. They have multiple [provinces|e] and can project a fair amount of power."
- rank_duchy_desc: "This [country_rank|e] represents a small- to medium-sized [country|e], usually with a single [province|e], but it is larger or more populous than a $rank_county$."
- rank_county_desc: "This [country_rank|e] represents the smallest [countries|e]. Usually those with only a single [location|e]. A small tribe may usually be represented by this rank as well."
+ rank_empire_desc: "This is the highest [country_rank|e] and represents the pinnacle of civilisation."
+ rank_kingdom_desc: "This [country_rank|e] represents developed countries."
+ rank_duchy_desc: "This [country_rank|e] represents developing countries."
+ rank_county_desc: "This [country_rank|e] represents the least developed countries on earth."
  #
  #
  government_type_list_title: "[GovernmentType.GetNameWithNoTooltip] enables the following:"

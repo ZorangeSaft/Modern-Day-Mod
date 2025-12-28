@@ -236,11 +236,11 @@
 
  #
  # Ranks
- RANK_HOW: "To become a new [COUNTRY_RANK.GetNameWithNoTooltip], the following must be true:\n$HOW$"
+ RANK_HOW: "To upgrade [COUNTRY_RANK.GetNameWithNoTooltip], the following must be true:\n$HOW$"
  RANK_LEVEL_TITLE: "[COUNTRY_RANK.GetNameWithNoTooltip] is a Rank $NUM|Y$ $game_concept_country_rank$."
- COUNTRY_RANK_NO: "It is not possible to become a new [COUNTRY_RANK.GetName] due to:\n$WHY$"
- CHANGE_COUNTRY_RANK_COST: "Changing our Country to become a new [COUNTRY_RANK.GetName] will cost us $COST$"
- CHANGE_COUNTRY_RANK_ALREADY: "@trigger_no! We already have [COUNTRY_RANK.GetName] rank"
+ COUNTRY_RANK_NO: "It is not possible to increase our [COUNTRY_RANK.GetName] due to:\n$WHY$"
+ CHANGE_COUNTRY_RANK_COST: "Changing our Country to increase [COUNTRY_RANK.GetName] will cost us $COST$"
+ CHANGE_COUNTRY_RANK_ALREADY: "@trigger_no! We already have [COUNTRY_RANK.GetName] development level"
  CHANGE_COUNTRY_RANK_NO_DOWNGRADE: "@trigger_no! We cannot downgrade to a lesser Rank. [COUNTRY_RANK.GetName] is a higher Rank than [COUNTRY.GetRank.GetName]"
  CHANGE_COUNTRY_RANK_SUBJECT_RESTRICTED: "@trigger_no! A [SUBJECT_TYPE.GetName] is not allowed to change ranks."
  #

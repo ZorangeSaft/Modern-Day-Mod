@@ -2595,7 +2595,7 @@
  TAX_BASE_OTHER: "And $VAL|+=2$ from $COUNT|Y$ other [locations_with_icon|e]"
  #
  # Formable Countries
- FORM_NEW_COUNTRY: "Form New Country"
+ FORM_NEW_COUNTRY: "Increase Developent Status"
  FORM_IT: "Form it!"
  FORM: "Form"
  WHEN_FORMED: "When Formed:"
