@@ -349,6 +349,52 @@ fertilizer = { #synthetic ammonium nitrate fertilizer
 
 
 
+#oil products
+
+petrogas = {
+	category = produced
+	color = goods_concrete
+	default_market_price = 1
+	transport_cost = 1
+}
+
+gasoline = {
+	category = produced
+	color = goods_concrete
+	default_market_price = 1
+	transport_cost = 1
+}
+
+jet_fuel = {
+	category = produced
+	color = goods_concrete
+	default_market_price = 1
+	transport_cost = 1
+}
+
+diesel = {
+	category = produced
+	color = goods_concrete
+	default_market_price = 1
+	transport_cost = 1
+}
+
+heavy_oil = {
+	category = produced
+	color = goods_concrete
+	default_market_price = 1
+	transport_cost = 1
+}
+
+asphalt = {
+	category = produced
+	color = goods_concrete
+	default_market_price = 1
+	transport_cost = 1
+}
+
+
+
 #expertise goods
 
 electrical_expertise = { #electricians and electrical engineering, so needed for construction and maintenance

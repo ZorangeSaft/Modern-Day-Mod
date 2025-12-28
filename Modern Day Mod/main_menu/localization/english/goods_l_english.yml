@@ -1254,6 +1254,28 @@
 
 
 
+ #oil products goods
+
+ petrogas: "Petrogas"
+ petrogas_desc: "Petrogas description"
+
+ gasoline: "Gasoline"
+ gasoline_desc: "Gasoline description"
+
+ jet_fuel: "Jet Fuel"
+ jet_fuel_desc: "Jet Fuel description"
+
+ diesel: "Diesel"
+ diesel_desc: "Diesel description"
+ 
+ heavy_oil: "Heavy Oil"
+ heavy_oil_desc: "Heavy Oil description"
+
+ asphalt: "Asphalt"
+ asphalt_desc: "Asphalt description"
+
+
+
  #intermediate industrial goods
 
  ferrite_magnet: "Ferrite Magnets" #engines, iron and strontium based
