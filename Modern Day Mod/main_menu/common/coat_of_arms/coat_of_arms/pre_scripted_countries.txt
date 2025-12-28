@@ -21831,7 +21831,7 @@ mdm_MGE = { # mdm modern day mod Mongolia
 	color2 = rgb { 0 102 179 }
 
 	colored_emblem = {
-		texture = "mdm_ce_amblem_mongolia.dds"
+		texture = "mdm_ce_emblem_mongolia.dds"
 		color1 = rgb { 255 212 0 }
 		instance = { position = { 0.167 0.475 } scale = { 0.75 0.75 } }
 	}
