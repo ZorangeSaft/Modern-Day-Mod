@@ -652,18 +652,11 @@ ARB = { # Arborea
 	}
 }
 
-ARM = { # Armenia
+ARM = { # mdm modern day mod Armenia
 	flag_definition = {
-		coa = ARM
+		coa = mdm_ARM
 		priority = 1
 	}
-	flag_definition = {
-		coa = ARM_kingdom
-		priority = 10
-		trigger = {
-			coa_def_kingdom_or_higher_trigger = yes
-		}
-	}	
 }
 
 ARR = { # Riga (Bishopric)
@@ -768,6 +761,13 @@ ATR = { # Astrakhan
 				coa_def_muslim_trigger = yes # although possibly with a slightly different composition
 			}
 		}
+	}
+}
+
+AZER = { # mdm modern day mod Azerbaijan
+	flag_definition = {
+		coa = mdm_AZER
+		priority = 1
 	}
 }
 
@@ -2109,6 +2109,13 @@ GEN = { # Genoa
 	}
 }
 
+GEO = { # mdm modern day mod Georgia
+	flag_definition = {
+		coa = mdm_GEO
+		priority = 1
+	}
+}
+
 GER = { # mdm modern day mod Germany
 	flag_definition = {
 		coa = mdm_GER
@@ -2443,6 +2450,13 @@ INO = { # Inowroclaw
 IRAN = { # mdm modern day mod Iran
 	flag_definition = {
 		coa = mdm_IRAN
+		priority = 1
+	}
+}
+
+IRAQ = { # mdm modern day mod Iraq
+	flag_definition = {
+		coa = mdm_IRAQ
 		priority = 1
 	}
 }
