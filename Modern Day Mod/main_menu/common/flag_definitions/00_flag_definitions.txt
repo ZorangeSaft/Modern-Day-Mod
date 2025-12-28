@@ -4702,24 +4702,10 @@ SDZ = { # Sieradz
 	}
 }
 
-SER = { # Serbia
+SER = { # mdm modern day mod Serbia
 	flag_definition = {
-		coa = SER
+		coa = mdm_SER
 		priority = 1
-	}
-	flag_definition = {
-		coa = SER_firesteels
-		priority = 10
-		trigger = {
-			coa_def_BYZ_ensign_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = SER_empire
-		priority = 50
-		trigger = {
-			coa_def_empire_trigger = yes
-		}
 	}
 }
 
