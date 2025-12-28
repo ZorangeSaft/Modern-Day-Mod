@@ -7614,19 +7614,14 @@ CHI_Yuan = { # Yuán - Mongol crescent-moon-tilaka flag, regular border
 	}		
 }
 
-CHI = { # China - Qing
-	pattern = "pattern_fringe.dds"
-	color1 = "yellow"
-	color2 = "red"
-	color3 = "red_mid"
-	color4 = "pearl"
-	color5 = "orange"
+mdm_CHI = { # mdm modern day mod China
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 239 22 32 }
 
-    sub = {
-        parent = "sub_chinese_dragon"  # TODO Improve
-		instance = { scale = { 0.92 0.88 } offset = { 0.04 0.06 } }	# sub offset for a fringe
-		color1 = "yellow"		
-    }		
+	colored_emblem = {
+		texture = "ce_china_modern_stars.dds"
+		color1 = rgb { 255 255 0 }
+	}
 }
 
 CHI_Ming = { # China - Ming

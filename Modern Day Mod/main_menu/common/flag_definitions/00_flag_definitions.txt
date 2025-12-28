@@ -6400,6 +6400,13 @@ YUA = { # China
 	}
 }
 
+CHI = { # China
+	flag_definition = {
+		coa = mdm_CHI
+		priority = 1
+	}
+}
+
 CHI_Ming = { # Ming China
 	flag_definition = {
 		coa = CHI_Ming
