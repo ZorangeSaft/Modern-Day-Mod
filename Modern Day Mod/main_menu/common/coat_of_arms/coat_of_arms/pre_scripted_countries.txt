@@ -37104,58 +37104,13 @@ TUN_morocco = { # Tunis - Morocco variant
 	}
 }
 
-TUR = { # Ottomans
+mdm_TURK = { # mdm modern day mod Türkiye
 	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
+	color1 = rgb { 228 3 16 }
 
 	colored_emblem = {
-		texture = "ce_crescent_decrescent.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 } }	
-	}
-}
-TUR_crescents = { # Ottomans - Three crescents variant
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-	
-	colored_emblem = {
-		texture = "ce_crescent_decrescent.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.400 0.280 } scale = { 0.46 0.46 } }		
-		instance = { position = { 0.400 0.720 } scale = { 0.46 0.46 } }				
-		instance = { position = { 0.645 0.500 } scale = { 0.46 0.46 } }					
-	}
-}
-TUR_crescents_roundel = { # Ottomans (Later variant)
-	pattern = "pattern_solid.dds"
-	color1 = hsv360 	{	358 	85	55	}
-	color2 = "yellow_light"
-	color3 = hsv360 	{	90	80	35	} 
-	
-	colored_emblem = {
-		texture = "ce_crescent_triple_roundel.dds"
-		color1 = color3
-		color2 = color3
-		color3 = color2
-		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 } }				
-	}
-}
-TUR_crescents_roundel_fess = { # Ottomans (Later variant) - Variant with the crescents arranged in fess
-	pattern = "pattern_solid.dds"
-	color1 = hsv360 	{	358 	85	55	}
-	color2 = "yellow_light"
-	color3 = hsv360 	{	90	80	35	} 
-	
-	colored_emblem = {
-		texture = "ce_crescent_triple_roundel_02.dds"
-		color1 = color3
-		color2 = color3
-		color3 = color2
-		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 } }				
+		texture = "ce_turkey_modern_crescent_star.dds"
+		color1 = "white"
 	}
 }
 

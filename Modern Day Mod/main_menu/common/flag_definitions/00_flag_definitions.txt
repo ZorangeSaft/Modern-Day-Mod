@@ -5139,6 +5139,13 @@ TUR = { # Ottomans
 	}
 }
 
+TURK = { # mdm modern day mod Türkiye
+	flag_definition = {
+		coa = mdm_TURK
+		priority = 1
+	}
+}
+
 TUS = { # Tuscany
 	flag_definition = {
 		coa = TUS_merchant
