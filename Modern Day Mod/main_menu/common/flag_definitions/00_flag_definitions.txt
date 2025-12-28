@@ -2987,17 +2987,10 @@ MFA = { # Montferrat
 	}	
 }
 
-MGE = { # Mongolia
+MGE = { # mdm modern day mod Mongolia
 	flag_definition = {
-		coa = MGE
+		coa = mdm_MGE
 		priority = 1
-	}
-	flag_definition = {
-		coa = MGE_soyombo
-		priority = 100
-		trigger = {
-			coa_def_buddhist_trigger = yes
-		}
 	}
 }
 

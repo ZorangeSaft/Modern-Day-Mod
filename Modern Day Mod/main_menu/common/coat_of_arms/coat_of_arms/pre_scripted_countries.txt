@@ -21844,36 +21844,16 @@ MGD = { # Wenduling / Magindanao
 	}	
 }
 
-MGE = { # Mongol Empire
-	pattern = "pattern_solid.dds"
-	color1 = "blue"
-	color2 = "red_mid"
-	color3 = "white"
-	color4 = "yellow"
-	
-	colored_emblem = {
-		texture = "ce_tamgha_mongol_double_bow.dds"
-		color1 = color4
-		color2 = color4
-		instance = { position = { 0.33 0.5 } scale = { 0.7 0.7 } }		
-	}	
-	colored_emblem = {
-		texture = "ce_border_of_3_thin_line_inner.dds"
-		color1 = color3
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }		
-	}	
-}
-MGE_soyombo = { # Mongolia (Bhuddist)
-	pattern = "pattern_fringe.dds"
-	color1 = hsv360 	{	36	80	75	}	
-	color2 = "red_scarlet"
-	color3 = "yellow"
+mdm_MGE = { # mdm modern day mod Mongolia
+	pattern = "pattern_vertical_bar_01.dds"
+	color1 = rgb { 219 26 45 }
+	color2 = rgb { 0 102 179 }
 
-	textured_emblem = {
-		texture = "te_mongol_khanate_soyombo_frame.dds"
-		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 } }			
-	}		
+	colored_emblem = {
+		texture = "mdm_ce_amblem_mongolia.dds"
+		color1 = rgb { 255 212 0 }
+		instance = { position = { 0.167 0.475 } scale = { 0.75 0.75 } }
+	}
 }
 
 MGG = { # Mangyul
