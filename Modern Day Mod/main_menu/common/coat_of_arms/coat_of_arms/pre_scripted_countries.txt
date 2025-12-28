@@ -5766,36 +5766,11 @@ BUD = { # Budingen
 	}		
 }
 
-BUL = { # Bulgaria
-	pattern = "pattern_solid.dds"
-	color1 = "yellow"
-	color2 = "red"
-	color3 = "blue_light"
-	colored_emblem = {
-		texture = "ce_lion_passant_guardant_long_thin.dds"
-		color1 = color2
-		color2 = color2
-		color3 = "white_secondary"
-		instance = { position = { 0.5 0.20 } scale = { 1.0 0.95 } }
-		instance = { position = { 0.5 0.5 } scale = { 1.0 0.95 } }
-		instance = { position = { 0.5 0.80 } scale = { 1.0 0.95 } }
-	}
-}
-BUL_BYZ = { # Bulgaria with historical canton design
-	pattern = "pattern_solid.dds"
-	color1 = "yellow"
-	color2 = "green"
-
-	colored_emblem = {
-		texture = "ce_barry_10.dds"
-		color1 = color1
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }			
-	}		
-	sub = {
-		parent = "sub_BYZ_annulets"
-		instance = { scale = { 0.5 0.5 } }
-	}	
+mdm_BUL = { # mdm modern day mod Bulgaria
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "white"
+	color2 = rgb { 0 151 110 }
+	color3 = rgb { 215 33 10 }
 }
 
 BUR = { # Burgundy/Bourgogne
@@ -23284,6 +23259,18 @@ MOL = { # Moldavia
 	}			
 }
 
+mdm_MOLD = { # mdm modern day mod Moldova
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 70 174 }
+	color2 = rgb { 255 210 0 }
+	color3 = rgb { 204 9 47 }
+
+	textured_emblem = {
+		texture = "mdm_coa_moldova.dds"
+		instance = { scale = { 0.45 0.45 } }
+	}
+}
+
 MOM = { # Momboares
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	35	65	85	}		
@@ -30774,18 +30761,11 @@ RME = { # City of Rome
 	color2 = "yellow"
 }
 
-RMN = { # Romania
-	pattern = "pattern_solid.dds"
-	color1 = "blue"
-	color2 = "yellow"
-	color3 = "red"
-
-	colored_emblem = {
-		texture = "ce_tricolor_vertical.dds"
-		color1 = color1
-		color2 = color2
-		color3 = color3			
-	}	
+mdm_RMN = { # mdm modern day mod Romania
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 43 127 }
+	color2 = rgb { 252 209 22 }
+	color3 = rgb { 206 17 38 }
 }
 
 RNG = { # Rong
@@ -31045,27 +31025,11 @@ RUP = { # Ruppin
 	}	
 }
 
-RUS = { # Russia - Tsar flag 18th c.
-	pattern = "pattern_solid.dds"
-	color1 = hsv360 	{	42	85	72	}		
-	color2 = "black"
-	
-	textured_emblem = {
-		texture = "te_imperial_eagle_russia.dds"				
-	}	
-	textured_emblem = {
-		texture = "te_imperial_eagle_russia.dds"	# Repeated for a bit more contrast	
-	}		
-	textured_emblem = {
-		texture = "te_coa_muscovy.dds"
-		instance = { position = { 0.5 0.525 } scale = { 0.25 0.28 } }				
-	}		
-}
-RUS_tricolor = { # Russia - Tricolor 18th c.
-	pattern = "pattern_solid.dds"
+mdm_RUS = { # mdm modern day mod Russia
+	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "white"
-	color2 = "blue"
-	color3 = "red_mid"
+	color2 = rgb { 0 50 160 }
+	color3 = rgb { 218 41 28 }
 
 	colored_emblem = {
 		texture = "ce_tricolor_horizontal.dds"
@@ -31074,35 +31038,6 @@ RUS_tricolor = { # Russia - Tricolor 18th c.
 		color3 = color3
 	}
 }
-RUS_tsar = { # Russia - Tsar flag variant 18th c.
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "blue"
-
-	colored_emblem = {
-		texture = "ce_cross_cantoned.dds"
-		color1 = color2
-		color2 = color2
-	}
-	colored_emblem = {
-		texture = "ce_saltire_fimbriated_thin.dds"
-		color1 = color2
-		color2 = color3
-	}	
-}
-RUS_saltire = { # Russia - Naval 18th c.
-	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "blue"
-
-	colored_emblem = {
-		texture = "ce_saltire.dds"
-		color1 = color2
-		color2 = color2
-	}	
-}
-
 
 RVA = { # Ravensburg
 	pattern = "pattern_solid.dds"
