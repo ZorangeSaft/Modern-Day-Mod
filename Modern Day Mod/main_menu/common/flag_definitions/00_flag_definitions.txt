@@ -2462,18 +2462,10 @@ ITA = { # mdm modern day mod Italy
 	}
 }
 
-JAP = { # Japan
+JAP = { # mdm modern day mod Japan
 	flag_definition = {
-		coa = JAP
-		# allow_overlord_canton = yes
+		coa = mdm_JAP
 		priority = 1
-	}
-	flag_definition = {
-		coa = JAP_monarchy
-		priority = 110
-		trigger = {
-			coa_def_monarchy_trigger = yes
-		}
 	}
 }
 
