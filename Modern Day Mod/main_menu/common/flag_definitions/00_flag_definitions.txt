@@ -2619,6 +2619,13 @@ KTG = { # Kengtung
 	}
 }
 
+KYRG = { # mdm modern day mod Kyrgyzstan
+	flag_definition = {
+		coa = mdm_KYRG
+		priority = 1
+	}
+}
+
 LATV = { # mdm modern day mod Latvia
 	flag_definition = {
 		coa = mdm_LATV

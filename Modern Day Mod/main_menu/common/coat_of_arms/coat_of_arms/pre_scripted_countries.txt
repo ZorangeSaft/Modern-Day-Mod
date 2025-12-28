@@ -19359,6 +19359,17 @@ KYK = { # Koryak
 	}		
 }
 
+mdm_KYRG = { # mdm modern day mod Kyrgyzstan
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 255 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_emblem_kyrgyzstan.dds"
+		color1 = rgb { 255 255 0 }
+		instance = { scale = { 0.616 0.616 } }
+	}		
+}
+
 KZK = { # Kozelsk
 	pattern = "pattern_solid.dds"
 	color1 = "white"
