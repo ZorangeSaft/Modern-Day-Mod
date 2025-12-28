@@ -5589,7 +5589,7 @@
  MAPMODE_SIZE: "#T $mapmode_size_name$#!\nShows the size of [locations|e] in terms of how large an area it covers on the map." 
  mapmode_winter_name: "Winter"
  MAPMODE_WINTER: "#T $mapmode_winter_name$#!\n$mapmode_common_start$ how much [winter|e] they currently experience."
- mapmode_country_rank_name: "Country Ranks"
+ mapmode_country_rank_name: "Country Development Level"
  MAPMODE_COUNTRY_RANK: "#T $mapmode_country_rank_name$#!\n$mapmode_common_start$ the [country_rank|e] of their [owners|e]."
  mapmode_disease_name: "Diseases"
  MAPMODE_DISEASE: "#T $mapmode_disease_name$#!\nColors the [locations|e] by [disease|e] prevalence."
