@@ -32,20 +32,20 @@ LBB = {
 	religion_definition = catholic
 }
 
-GER = {
-	color = rgb { 243 201 33 }
-	color2 = rgb { 243 201 33 }
-
-	unit_color0 = rgb {	0 0 128 }
-	unit_color1 = rgb {	255 255 128 }
-	unit_color2 = rgb {	205 74 44 }
-
-	culture_definition = brandenburgish
-	religion_definition = catholic
-
-	description_category = military
-	difficulty = 5
-}
+#GER = {
+#	color = rgb { 243 201 33 }
+#	color2 = rgb { 243 201 33 }
+#
+#	unit_color0 = rgb {	0 0 128 }
+#	unit_color1 = rgb {	255 255 128 }
+#	unit_color2 = rgb {	205 74 44 }
+#
+#	culture_definition = brandenburgish
+#	religion_definition = catholic
+#
+#	description_category = military
+#	difficulty = 5
+#}
 
 ALL = {
 	color = map_ALL

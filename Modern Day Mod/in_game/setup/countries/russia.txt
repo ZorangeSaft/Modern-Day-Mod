@@ -39,20 +39,20 @@ FMB = {
 	religion_definition = orthodox
 }
 
-RUS = {
-	color = map_MOS
-	color2 = { 206 181 97 }	
-	
-	unit_color0 = hsv360 {	358 86 61 }
-	unit_color1 = hsv360 {	160 43 30 }
-	unit_color2 = rgb {	239 239 242 }
-
-	culture_definition = muscovite
-	religion_definition = orthodox
-
-	description_category = military
-	difficulty = 3
-}
+#RUS = {
+#	color = map_MOS
+#	color2 = { 206 181 97 }	
+#	
+#	unit_color0 = hsv360 {	358 86 61 }
+#	unit_color1 = hsv360 {	160 43 30 }
+#	unit_color2 = rgb {	239 239 242 }
+#
+#	culture_definition = muscovite
+#	religion_definition = orthodox
+#
+#	description_category = military
+#	difficulty = 3
+#}
 
 PZL = {
 	color = { 175 65 181 }	

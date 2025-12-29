@@ -1136,20 +1136,20 @@ NZN = {
 	religion_definition = utaki_religion 
 }
 
-CHI = { #China
-	color = map_YUA
-	color2 = rgb { 113 0 0 }
-
-	unit_color0 = rgb {	43 56 107 }
-	unit_color1 = rgb {	142 16 16 }
-	unit_color2 = rgb {	223 175 69 }
-
-	culture_definition = yan_culture
-	religion_definition = sanjiao
-
-	description_category = diplomatic
-	difficulty = 5
-}
+#CHI = { #China
+#	color = map_YUA
+#	color2 = rgb { 113 0 0 }
+#
+#	unit_color0 = rgb {	43 56 107 }
+#	unit_color1 = rgb {	142 16 16 }
+#	unit_color2 = rgb {	223 175 69 }
+#
+#	culture_definition = yan_culture
+#	religion_definition = sanjiao
+#
+#	description_category = diplomatic
+#	difficulty = 5
+#}
 
 YUA = { #Yuán
 	color = rgb { 16 42 202 }	#Will never change its color anyway

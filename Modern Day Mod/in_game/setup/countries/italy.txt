@@ -430,14 +430,14 @@ religion_definition = catholic
 
 }
 
-ITA	= { #Piedmont
-color = rgb { 1 255 177 }
-
-culture_definition = piedmontese
-religion_definition = catholic
-
-
-}
+#ITA	= { #Piedmont
+#color = rgb { 1 255 177 }
+#
+#culture_definition = piedmontese
+#religion_definition = catholic
+#
+#
+#}
 
 PIO	= { #piombino
 color = rgb { 0 153 255 }
