@@ -1144,6 +1144,12 @@
  ###### mdm modern day mod
 
 
+#building based country capital buildings
+
+ mdm_eu_capital: "European Union Capital"
+ mdm_eu_capital_desc: "European Union capital description"
+
+
 
  #infrastructure buildings
 
@@ -1258,3 +1264,27 @@
  mdm_movie_theater_desc: "Movie theater description"
 
 
+
+ #metal refinement buildings
+
+ mdm_blast_furnace: "Blast Furnace"
+ mdm_blast_furnace_desc: "Blast furnace description"
+
+ mdm_electrolysis_plant: "Electrolysis Plant"
+ mdm_electrolysis_plant_desc: "Electrolysis plant description"
+
+ mdm_acid_leaching_plant: "Acid Leaching Plant"
+ mdm_acid_leaching_plant_desc: "Acid leaching plant description"
+
+ mdm_metalothermic_reduction_facility: "Metalothermic Reduction Facility"
+ mdm_metalothermic_reduction_facility_desc: "Metalothermic reduction facility description"
+
+ mdm_brine_evaporation_plant: "Brine Evaporation Plant"
+ mdm_brine_evaporation_plant_desc: "Brine evaporation plant description"
+
+
+
+ #oil refinement buildings
+
+ mdm_oil_refinery: "Oil Refinery"
+ mdm_oil_refinery_desc: "Oil refinery description"
