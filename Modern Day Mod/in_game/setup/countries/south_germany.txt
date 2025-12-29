@@ -181,14 +181,14 @@ SIT = {
 	religion_definition = catholic
 }
 
-SWI = {
-	color = map_SWI
-	color2 = rgb { 153 122 108 }	#Like in EU4
-
-	culture_definition = high_alemannic
-	religion_definition = catholic
-	is_historic = yes
-}
+#SWI = {
+#	color = map_SWI
+#	color2 = rgb { 153 122 108 }	#Like in EU4
+#
+#	culture_definition = high_alemannic
+#	religion_definition = catholic
+#	is_historic = yes
+#}
 
 BRN = {
 	color = rgb { 218 161 113 }

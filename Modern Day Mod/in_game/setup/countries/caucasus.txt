@@ -1,13 +1,13 @@
-﻿GEO = { #Georgia
-	color = map_GEO
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = georgian_culture
-	religion_definition = orthodox
-
-	description_category = military
-	difficulty = 2
-}
+﻿#GEO = { #Georgia
+#	color = map_GEO
+#	color2 = rgb { 16 41 202 }
+#
+#	culture_definition = georgian_culture
+#	religion_definition = orthodox
+#
+#	description_category = military
+#	difficulty = 2
+#}
 
 AAI = { #Alastani
 	color = map_AAI
@@ -57,13 +57,13 @@ TRK = { #Shamkhalate of Tarki
 	religion_definition = sunni
 }
 
-ARM = { #Armenia
-	color = map_ARM
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = armenian_culture
-	religion_definition = miaphysite
-}
+#ARM = { #Armenia
+#	color = map_ARM
+#	color2 = rgb { 16 41 202 }
+#
+#	culture_definition = armenian_culture
+#	religion_definition = miaphysite
+#}
 
 AMB = { #Amberd
 	color = map_AMB

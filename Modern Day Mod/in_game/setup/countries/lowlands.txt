@@ -1,26 +1,26 @@
-﻿NED = {
-	color = map_HOL
-	
-	unit_color0 = rgb {	44 66 96 }
-	unit_color1 = rgb {	179 58 39 }
-	unit_color2 = rgb {	252 248 245 }
-
-	culture_definition = low_franconian
-	religion_definition = catholic
-
-}
-
-BEL = {
-	color = map_BRB
-	color2 = rgb { 118 193 153 }
-
-	culture_definition = low_franconian
-	religion_definition = catholic
-}
-
-LUX = {
-	color = rgb { 53 140 73 }
-
-	culture_definition = moselle_franconian
-	religion_definition = catholic
-}
+﻿#NED = {
+#	color = map_HOL
+#	
+#	unit_color0 = rgb {	44 66 96 }
+#	unit_color1 = rgb {	179 58 39 }
+#	unit_color2 = rgb {	252 248 245 }
+#
+#	culture_definition = low_franconian
+#	religion_definition = catholic
+#
+#}
+#
+#BEL = {
+#	color = map_BRB
+#	color2 = rgb { 118 193 153 }
+#
+#	culture_definition = low_franconian
+#	religion_definition = catholic
+#}
+#
+#LUX = {
+#	color = rgb { 53 140 73 }
+#
+#	culture_definition = moselle_franconian
+#	religion_definition = catholic
+#}

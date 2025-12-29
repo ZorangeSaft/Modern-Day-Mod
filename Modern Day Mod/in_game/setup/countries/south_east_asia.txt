@@ -1,13 +1,13 @@
-﻿KHM = { #Khmer
-	color = map_khmer
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = khmer_culture
-	religion_definition = theravada
-
-	description_category = military
-	difficulty = 3
-}
+﻿#KHM = { #Khmer
+#	color = map_khmer
+#	color2 = rgb { 16 41 202 }
+#
+#	culture_definition = khmer_culture
+#	religion_definition = theravada
+#
+#	description_category = military
+#	difficulty = 3
+#}
 
 CHA = { #Champa
 	color = map_CHA

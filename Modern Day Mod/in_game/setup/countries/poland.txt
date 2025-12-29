@@ -1,17 +1,17 @@
-﻿POL = {
-	color = map_POL
-	color2 = rgb { 197 92 106 }	#Like in EU4
-
-	unit_color0 = rgb {	214 42 30 }
-	unit_color1 = rgb {	252 248 245 }
-	unit_color2 = rgb {	52 137 213 }
-
-	culture_definition = lesser_polish
-	religion_definition = catholic
-
-	description_category = military
-	difficulty = 3
-}
+﻿#POL = {
+#	color = map_POL
+#	color2 = rgb { 197 92 106 }	#Like in EU4
+#
+#	unit_color0 = rgb {	214 42 30 }
+#	unit_color1 = rgb {	252 248 245 }
+#	unit_color2 = rgb {	52 137 213 }
+#
+#	culture_definition = lesser_polish
+#	religion_definition = catholic
+#
+#	description_category = military
+#	difficulty = 3
+#}
 
 SDZ = {
 	color = rgb { 255 190 0 }
@@ -72,15 +72,15 @@ HAL = {
 	difficulty = 4	
 }
 
-UKR = {
-	color = rgb { 81 123 210 }
-
-	culture_definition = ruthenian
-	religion_definition = orthodox
-
-	description_category = military
-	difficulty = 4	
-}
+#UKR = {
+#	color = rgb { 81 123 210 }
+#
+#	culture_definition = ruthenian
+#	religion_definition = orthodox
+#
+#	description_category = military
+#	difficulty = 4	
+#}
 
 POK = {
 	color = rgb { 16 113 155 }

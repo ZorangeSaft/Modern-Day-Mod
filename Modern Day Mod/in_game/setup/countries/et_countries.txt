@@ -18,9 +18,9 @@ ALB = {
 }
 
 
-ALG = {
-	color = rgb { 153 102 51 } #{ 230  225  110 }
-	color2 = rgb { 153 102 51 } #{ 230  225  110 }
+ALG = { #didnt use hoi4 color
+	color = rgb { 230  225  110 } #{ 153 102 51 } #{ 230  225  110 }
+	color2 = rgb { 230  225  110 } #{ 153 102 51 } #{ 230  225  110 }
 	culture_definition = algerian
 	religion_definition = sunni
 	description_category = diplomatic
@@ -38,9 +38,9 @@ ANBR = {
 }
 
 
-ANGO = {
-	color = rgb { 155  135  195 } #{ 189  140  39 }
-	color2 = rgb { 155  135  195 } #{ 189  140  39 }
+ANGO = { #didnt use hoi4 color
+	color = rgb { 189  140  39 } #{ 155  135  195 } #{ 189  140  39 }
+	color2 = rgb { 189  140  39 } #{ 155  135  195 } #{ 189  140  39 }
 	culture_definition = ambundu
 	religion_definition = secularism
 	description_category = diplomatic
@@ -58,9 +58,9 @@ ARGE = {
 }
 
 
-ARM = {
-	color = rgb { 176  102  136 } #{ 233  88  95 }
-	color2 = rgb { 176  102  136 } #{ 233  88  95 }
+ARM = { #went to colorwheel and picked purple
+	color = rgb { 105 10 110 } #{ 176  102  136 } #{ 233  88  95 }
+	color2 = rgb { 105 10 110 } #{ 176  102  136 } #{ 233  88  95 }
 	culture_definition = armenian_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -176,9 +176,9 @@ BEN = {
 }
 
 
-BHUT = {
-	color = rgb { 152  130  191 } #{ 93  180  76 }
-	color2 = rgb { 152  130  191 } #{ 93  180  76 }
+BHUT = { #the color of the orange on their irl flag
+	color = rgb { 255 103 32 } #{ 152  130  191 } #{ 93  180  76 }
+	color2 = rgb { 255 103 32 } #{ 152  130  191 } #{ 93  180  76 }
 	culture_definition = ngalop_culture
 	religion_definition = tibetan_buddhism
 	description_category = diplomatic
@@ -207,8 +207,8 @@ BOSH = {
 
 
 BOTS = {
-	color = rgb { 55  235  95 } #{ 129  129  199 }
-	color2 = rgb { 55  235  95 } #{ 129  129  199 }
+	color = rgb { 129  129  199 } #{ 55  235  95 } #{ 129  129  199 }
+	color2 = rgb { 129  129  199 } #{ 55  235  95 } #{ 129  129  199 }
 	culture_definition = tswana_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -296,9 +296,9 @@ CHAD = {
 }
 
 
-CHI = {
-	color = rgb { 82  2  15 } #{ 255  195  0 }
-	color2 = rgb { 82  2  15 } #{ 255  195  0 }
+CHI = { #color of the red on their irl flag
+	color = rgb { 238 28 37 } #{ 82  2  15 } #{ 255  195  0 }
+	color2 = rgb { 238 28 37 } #{ 82  2  15 } #{ 255  195  0 }
 	culture_definition = yan_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -346,9 +346,9 @@ CONG = { #small congo, idk what this is in hoi4
 }
 
 
-COST = {
-	color = rgb { 152  130  191 } #{ 114  100  192 }
-	color2 = rgb { 152  130  191 } #{ 114  100  192 }
+COST = { #went to color wheel and picked golden yellow
+	color = rgb { 237  165  21 } #{ 152  130  191 } #{ 114  100  192 }
+	color2 = rgb { 237  165  21 } #{ 152  130  191 } #{ 114  100  192 }
 	culture_definition = mexican
 	religion_definition = catholic
 	description_category = diplomatic
@@ -376,9 +376,9 @@ CRO = {
 }
 
 
-CUBA = {
-	color = rgb { 152  130  191 } #{ 19  124  139 }
-	color2 = rgb { 152  130  191 } #{ 19  124  139 }
+CUBA = { #went to color wheel and picked teal
+	color = rgb { 34  224  170 } #{ 152  130  191 } #{ 19  124  139 }
+	color2 = rgb { 34  224  170 } #{ 152  130  191 } #{ 19  124  139 }
 	culture_definition = iberian_caribbean
 	religion_definition = secularism
 	description_category = diplomatic
@@ -446,9 +446,9 @@ DOMI = { #not in hoi4
 }
 
 
-DOMR = {
-	color = rgb { 152  130  191 } #{ 199  124  69 }
-	color2 = rgb { 152  130  191 } #{ 199  124  69 }
+DOMR = { #didnt use hoi4 color here
+	color = rgb { 199  124  69 } #{ 152  130  191 } #{ 199  124  69 }
+	color2 = rgb { 199  124  69 } #{ 152  130  191 } #{ 199  124  69 }
 	culture_definition = iberian_caribbean
 	religion_definition = secularism
 	description_category = diplomatic
@@ -486,9 +486,9 @@ EGY = {
 }
 
 
-ELSA = {
-	color = rgb { 152  130  191 } #{ 134  170  42 }
-	color2 = rgb { 152  130  191 } #{ 134  170  42 }
+ELSA = { #didnt use hoi4 color here
+	color = rgb { 134  170  42 } #{ 152  130  191 } #{ 134  170  42 }
+	color2 = rgb { 134  170  42 } #{ 152  130  191 } #{ 134  170  42 }
 	culture_definition = mexican
 	religion_definition = secularism
 	description_category = diplomatic
@@ -575,9 +575,9 @@ FIN = {
 }
 
 
-FRA = {
-	color = rgb { 57  113  228 } #{ 20  50  210 }
-	color2 = rgb { 57  113  228 } #{ 20  50  210 }
+FRA = { #didnt use hoi4 color here
+	color = rgb { 20  50  210 } #{ 57  113  228 } #{ 20  50  210 }
+	color2 = rgb { 20  50  210 } #{ 57  113  228 } #{ 20  50  210 }
 	culture_definition = french
 	religion_definition = secularism
 	description_category = diplomatic
@@ -595,9 +595,9 @@ GABO = {
 }
 
 
-GAMB = {
-	color = rgb { 153 0 0 } #{ 109  157  48 }
-	color2 = rgb { 153 0 0 } #{ 109  157  48 }
+GAMB = { #didnt use hoi4 color
+	color = rgb { 109  157  48 } #{ 153 0 0 } #{ 109  157  48 }
+	color2 = rgb { 109  157  48 } #{ 153 0 0 } #{ 109  157  48 }
 	culture_definition = wolof
 	religion_definition = secularism
 	description_category = diplomatic
@@ -625,9 +625,9 @@ GBR = {
 }
 
 
-GEO = {
-	color = rgb { 255  204  204 } #{ 190  35  37 }
-	color2 = rgb { 255  204  204 } #{ 190  35  37 }
+GEO = { #didnt use hoi4 color here
+	color = rgb { 190  35  37 } #{ 255  204  204 } #{ 190  35  37 }
+	color2 = rgb { 190  35  37 } #{ 255  204  204 } #{ 190  35  37 }
 	culture_definition = georgian_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -645,9 +645,9 @@ GER = {
 }
 
 
-GHAN = {
-	color = rgb { 102 102 51 } #{ 165  155  105 }
-	color2 = rgb { 102 102 51 } #{ 165  155  105 }
+GHAN = { #didnt use hoi4 color
+	color = rgb { 165  155  105 } #{ 102 102 51 } #{ 165  155  105 }
+	color2 = rgb { 165  155  105 } #{ 102 102 51 } #{ 165  155  105 }
 	culture_definition = akan
 	religion_definition = secularism
 	description_category = diplomatic
@@ -675,9 +675,9 @@ GREN = { #not in hoi4
 }
 
 
-GUAT = {
-	color = rgb { 152  130  191 } #{ 124  120  222 }
-	color2 = rgb { 152  130  191 } #{ 124  120  222 }
+GUAT = { #didnt use hoi4 color here
+	color = rgb { 124  120  222 } #{ 152  130  191 } #{ 124  120  222 }
+	color2 = rgb { 124  120  222 } #{ 152  130  191 } #{ 124  120  222 }
 	culture_definition = mexican
 	religion_definition = secularism
 	description_category = diplomatic
@@ -685,9 +685,9 @@ GUAT = {
 }
 
 
-GUIN = {
-	color = rgb { 102 153 255 } #{ 169  97  48 }
-	color2 = rgb { 102 153 255 } #{ 169  97  48 }
+GUIN = { #didnt use hoi4 color
+	color = rgb { 169  97  48 } #{ 102 153 255 } #{ 169  97  48 }
+	color2 = rgb { 169  97  48 } #{ 102 153 255 } #{ 169  97  48 }
 	culture_definition = fulbe
 	religion_definition = secularism
 	description_category = diplomatic
@@ -715,9 +715,9 @@ HAB = { #austria
 }
 
 
-HAIT = {
-	color = rgb { 152  130  191 } #{ 139  179  207 }
-	color2 = rgb { 152  130  191 } #{ 139  179  207 }
+HAIT = { #didnt use hoi4 color here
+	color = rgb { 139  179  207 } #{ 152  130  191 } #{ 139  179  207 }
+	color2 = rgb { 139  179  207 } #{ 152  130  191 } #{ 139  179  207 }
 	culture_definition = french_caribbean
 	religion_definition = secularism
 	description_category = diplomatic
@@ -805,9 +805,9 @@ IRE = {
 }
 
 
-ISRA = {
-	color = rgb { 152  130  191 } #{ 70  70  160 }
-	color2 = rgb { 152  130  191 } #{ 70  70  160 }
+ISRA = { #picked a light blue with color wheel because i couldnt find the eu4 light blue color
+	color = rgb { 90 195 255 } #{ 211 230 211 } #{ 152  130  191 } #{ 70  70  160 }
+	color2 = rgb { 90 195 255 } #{ 211 230 211 } #{ 152  130  191 } #{ 70  70  160 }
 	culture_definition = samaritan_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -875,9 +875,9 @@ KAZK = {
 }
 
 
-KENY = {
-	color = rgb { 255  57  195 } #{ 151  51  55 }
-	color2 = rgb { 255  57  195 } #{ 151  51  55 }
+KENY = { #didnt use hoi4 color
+	color = rgb { 151  51  55 } #{ 255  57  195 } #{ 151  51  55 }
+	color2 = rgb { 151  51  55 } #{ 255  57  195 } #{ 151  51  55 }
 	culture_definition = maasai_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -914,9 +914,9 @@ KUWA = {
 	difficulty = 2
 }
 
-KHM = { #cambodia
-	color = rgb { 160  71  102 } #{ 127  180  60 }
-	color2 = rgb { 160  71  102 } #{ 127  180  60 }
+KHM = { #cambodia, didnt use hoi4 color here
+	color = rgb { 127  180  60 } #{ 160  71  102 } #{ 127  180  60 } #{ 16 41 202 }
+	color2 = rgb { 127  180  60 } #{ 160  71  102 } #{ 127  180  60 }
 	culture_definition = khmer_culture
 	religion_definition = theravada
 	description_category = diplomatic
@@ -963,7 +963,7 @@ LEBA = {
 }
 
 
-LESO = {
+LESO = { #not in hoi4
 	color = rgb { 49  109  89 }
 	color2 = rgb { 49  109  89 }
 	culture_definition = nguni_culture
@@ -973,9 +973,9 @@ LESO = {
 }
 
 
-LIBE = {
-	color = rgb { 69  147  222 }
-	color2 = rgb { 69  147  222 }
+LIBE = { #didnt use hoi4 color
+	color = rgb { 69  147  222 } #{ 152  130  191 } #{ 69  147  222 }
+	color2 = rgb { 69  147  222 } #{ 152  130  191 } #{ 69  147  222 }
 	culture_definition = mandinka
 	religion_definition = secularism
 	description_category = diplomatic
@@ -983,9 +983,9 @@ LIBE = {
 }
 
 
-LIBY = {
-	color = rgb { 0  180  0 }
-	color2 = rgb { 0  180  0 }
+LIBY = { #didnt use hoi4 color
+	color = rgb { 0  180  0 } #{ 200 180 90 } #{ 0  180  0 }
+	color2 = rgb { 0  180  0 } #{ 200 180 90 } #{ 0  180  0 }
 	culture_definition = tunisian
 	religion_definition = sunni
 	description_category = diplomatic
@@ -994,8 +994,8 @@ LIBY = {
 
 
 LIT = {
-	color = rgb { 154  69  116 }
-	color2 = rgb { 154  69  116 }
+	color = rgb { 219  219  119 } #{ 154  69  116 }
+	color2 = rgb { 219  219  119 } #{ 154  69  116 }
 	culture_definition = aukstaitian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1004,8 +1004,8 @@ LIT = {
 
 
 LUX = {
-	color = rgb { 53  140  73 }
-	color2 = rgb { 53  140  73 }
+	color = rgb { 65  175  179 } #{ 53  140  73 }
+	color2 = rgb { 65  175  179 } #{ 53  140  73 }
 	culture_definition = rhine_franconian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1014,8 +1014,8 @@ LUX = {
 
 
 MACE = {
-	color = rgb { 210  210  10 }
-	color2 = rgb { 210  210  10 }
+	color = rgb { 255 51 51 } #{ 210  210  10 }
+	color2 = rgb { 255 51 51 } #{ 210  210  10 }
 	culture_definition = macedonian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1024,8 +1024,8 @@ MACE = {
 
 
 MADA = {
-	color = rgb { 169  50  129 }
-	color2 = rgb { 169  50  129 }
+	color = rgb { 255 255 153 } #{ 169  50  129 }
+	color2 = rgb { 255 255 153 } #{ 169  50  129 }
 	culture_definition = sakalava_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1033,9 +1033,9 @@ MADA = {
 }
 
 
-MAL = {
-	color = rgb { 255  255  185 }
-	color2 = rgb { 255  255  185 }
+MAL = { #didnt use hoi4 color
+	color = rgb { 255  255  185 } #{ 204 204 255 } #{ 255  255  185 }
+	color2 = rgb { 255  255  185 } #{ 204 204 255 } #{ 255  255  185 }
 	culture_definition = bambara
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1044,8 +1044,8 @@ MAL = {
 
 
 MALA = {
-	color = rgb { 100  146  217 }
-	color2 = rgb { 100  146  217 }
+	color = rgb { 100  96  197 } #{ 100  146  217 }
+	color2 = rgb { 100  96  197 } #{ 100  146  217 }
 	culture_definition = malay_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1054,8 +1054,8 @@ MALA = {
 
 
 MALW = {
-	color = rgb { 59  50  99 }
-	color2 = rgb { 59  50  99 }
+	color = rgb { 153 204 0 } #{ 59  50  99 }
+	color2 = rgb { 153 204 0 } #{ 59  50  99 }
 	culture_definition = sena
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1063,7 +1063,7 @@ MALW = {
 }
 
 
-MARS = {
+MARS = { #not in hoi4
 	color = rgb { 89  17  112 }
 	color2 = rgb { 89  17  112 }
 	culture_definition = kajoor_ri_majel_culture
@@ -1073,7 +1073,7 @@ MARS = {
 }
 
 
-MART = {
+MART = { #not in hoi4
 	color = rgb { 169  217  48 }
 	color2 = rgb { 169  217  48 }
 	culture_definition = magahi
@@ -1083,9 +1083,9 @@ MART = {
 }
 
 
-MAUR = {
-	color = rgb { 69  217  48 }
-	color2 = rgb { 69  217  48 }
+MAUR = { #didnt use hoi4 color
+	color = rgb { 69  217  48 } #{ 255 153 153 } #{ 69  217  48 }
+	color2 = rgb { 69  217  48 } #{ 255 153 153 } #{ 69  217  48 }
 	culture_definition = masmuda
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1104,8 +1104,8 @@ MEX = {
 
 
 MGE = {
-	color = rgb { 130 180 240 }
-	color2 = rgb { 130 180 240 }
+	color = rgb { 161  190  102 } #{ 130 180 240 }
+	color2 = rgb { 161  190  102 } #{ 130 180 240 }
 	culture_definition = mongolian_culture
 	religion_definition = tengri
 	description_category = diplomatic
@@ -1114,8 +1114,8 @@ MGE = {
 
 
 MICR = {
-	color = rgb { 189  117  212 }
-	color2 = rgb { 189  117  212 }
+	color = rgb { 118 179 222 } #{ 189  117  212 }
+	color2 = rgb { 118 179 222 } #{ 189  117  212 }
 	culture_definition = kajoor_ri_majel_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1123,9 +1123,9 @@ MICR = {
 }
 
 
-MOLD = {
-	color = rgb { 131  96  188 }
-	color2 = rgb { 131  96  188 }
+MOLD = { #used the color of walachia
+	color = rgb { 82 160 242 } #{ 131  96  188 } #{ 255 204 204 } #{ 131  96  188 }
+	color2 = rgb { 82 160 242 } #{ 131  96  188 } #{ 255 204 204 } #{ 131  96  188 }
 	culture_definition = wallachian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1134,8 +1134,8 @@ MOLD = {
 
 
 MONT = {
-	color = rgb { 39  108  140 }
-	color2 = rgb { 39  108  140 }
+	color = rgb { 171  107  109 } #{ 39  108  140 }
+	color2 = rgb { 171  107  109 } #{ 39  108  140 }
 	culture_definition = serbian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1143,9 +1143,9 @@ MONT = {
 }
 
 
-MOR = {
-	color = rgb { 191  110  62 }
-	color2 = rgb { 191  110  62 }
+MOR = { #didnt use hoi4 color
+	color = rgb { 191  110  62 } #{ 102 51 0 } #{ 191  110  62 }
+	color2 = rgb { 191  110  62 } #{ 102 51 0 } #{ 191  110  62 }
 	culture_definition = moroccan
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1153,9 +1153,9 @@ MOR = {
 }
 
 
-MOZA = {
-	color = rgb { 129  180  39 }
-	color2 = rgb { 129  180  39 }
+MOZA = { #didnt use hoi4 color after all
+	color = rgb { 129  180  39 } #{ 255  135  195 } #{ 129  180  39 }
+	color2 = rgb { 129  180  39 } #{ 255  135  195 } #{ 129  180  39 }
 	culture_definition = bantu
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1164,8 +1164,8 @@ MOZA = {
 
 
 MYAN = {
-	color = rgb { 185  181  80 }
-	color2 = rgb { 185  181  80 }
+	color = rgb { 76 153 0 } #{ 185  181  80 }
+	color2 = rgb { 76 153 0 } #{ 185  181  80 }
 	culture_definition = burmese_culture
 	religion_definition = theravada
 	description_category = diplomatic
@@ -1173,9 +1173,9 @@ MYAN = {
 }
 
 
-NAMI = {
-	color = rgb { 129  129  29 }
-	color2 = rgb { 129  129  29 }
+NAMI = { #didnt use hoi4 color
+	color = rgb { 129  129  29 } #{ 229 204 255 } #{ 129  129  29 }
+	color2 = rgb { 129  129  29 } #{ 229 204 255 } #{ 129  129  29 }
 	culture_definition = herero
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1184,8 +1184,8 @@ NAMI = {
 
 
 NED = {
-	color = rgb { 220  138  57 }
-	color2 = rgb { 220  138  57 }
+	color = rgb { 203  138  74 } #{ 220  138  57 }
+	color2 = rgb { 203  138  74 } #{ 220  138  57 }
 	culture_definition = low_franconian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1193,9 +1193,9 @@ NED = {
 }
 
 
-NICR = {
-	color = rgb { 174  40  202 }
-	color2 = rgb { 174  40  202 }
+NICR = { #went to color wheel and picked light blue
+	color = rgb { 113 204 235 } #{ 152  130  191 } #{ 174  40  202 }
+	color2 = rgb { 113 204 235 } #{ 152  130  191 } #{ 174  40  202 }
 	culture_definition = mexican
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1204,8 +1204,8 @@ NICR = {
 
 
 NIGE = {
-	color = rgb { 149  117  22 }
-	color2 = rgb { 149  117  22 }
+	color = rgb { 255 153 102 } #{ 149  117  22 }
+	color2 = rgb { 255 153 102 } #{ 149  117  22 }
 	culture_definition = hausa
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1213,9 +1213,9 @@ NIGE = {
 }
 
 
-NIGR = {
-	color = rgb { 49  217  122 }
-	color2 = rgb { 49  217  122 }
+NIGR = { #didnt use hoi4 color here
+	color = rgb { 49  217  122 } #{ 255 204 102 } #{ 49  217  122 }
+	color2 = rgb { 49  217  122 } #{ 255 204 102 } #{ 49  217  122 }
 	culture_definition = hausa
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1223,9 +1223,9 @@ NIGR = {
 }
 
 
-NKOR = {
-	color = rgb { 74  196  123 }
-	color2 = rgb { 74  196  123 }
+NKOR = { #not in hoi4, used chinas hoi4 color as it's very red
+	color = rgb { 82  2  15 } #{ 255  195  0 } #{ 74  196  123 }
+	color2 = rgb { 82  2  15 } #{ 255  195  0 } #{ 74  196  123 }
 	culture_definition = korean_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1234,8 +1234,8 @@ NKOR = {
 
 
 NOR = {
-	color = rgb { 117  165  188 }
-	color2 = rgb { 117  165  188 }
+	color = rgb { 111  71  71 } #{ 117  165  188 }
+	color2 = rgb { 111  71  71 } #{ 117  165  188 }
 	culture_definition = norwegian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1243,9 +1243,9 @@ NOR = {
 }
 
 
-NPL = {
-	color = rgb { 215 12 64 }
-	color2 = rgb { 215 12 64 }
+NPL = { #didnt use hoi4 color
+	color = rgb { 215 12 64 } #{ 152  130  191 } #{ 215 12 64 }
+	color2 = rgb { 215 12 64 } #{ 152  130  191 } #{ 215 12 64 }
 	culture_definition = newar_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1254,8 +1254,8 @@ NPL = {
 
 
 NZEA = {
-	color = rgb { 79  37  128 }
-	color2 = rgb { 79  37  128 }
+	color = rgb { 152  130  191 } #{ 79  37  128 }
+	color2 = rgb { 152  130  191 } #{ 79  37  128 }
 	culture_definition = british_oceanian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1264,8 +1264,8 @@ NZEA = {
 
 
 OMA = {
-	color = rgb { 98  134  153 }
-	color2 = rgb { 98  134  153 }
+	color = rgb { 155  101  107 } #{ 98  134  153 }
+	color2 = rgb { 155  101  107 } #{ 98  134  153 }
 	culture_definition = omani_culture
 	religion_definition = ibadi
 	description_category = diplomatic
@@ -1274,8 +1274,8 @@ OMA = {
 
 
 PAKI = {
-	color = rgb { 10  135  92 }
-	color2 = rgb { 10  135  92 }
+	color = rgb { 0 102 0 } #{ 10  135  92 }
+	color2 = rgb { 0 102 0 } #{ 10  135  92 }
 	culture_definition = punjabi
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1283,9 +1283,9 @@ PAKI = {
 }
 
 
-PALE = {
-	color = rgb { 50  200  160 }
-	color2 = rgb { 50  200  160 }
+PALE = { #used the color of the green on their irl flag
+	color = rgb { 20 153 84 } #{ 170  125  80 } #{ 50  200  160 }
+	color2 = rgb { 20 153 84 } #{ 170  125  80 } #{ 50  200  160 }
 	culture_definition = palestinian
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1294,8 +1294,8 @@ PALE = {
 
 
 PALU = {
-	color = rgb { 89  217  212 }
-	color2 = rgb { 89  217  212 }
+	color = rgb { 151 153 255 } #{ 89  217  212 }
+	color2 = rgb { 151 153 255 } #{ 89  217  212 }
 	culture_definition = kajoor_ri_majel_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1304,8 +1304,8 @@ PALU = {
 
 
 PANA = {
-	color = rgb { 144  140  92 }
-	color2 = rgb { 144  140  92 }
+	color = rgb { 152  130  191 } #{ 144  140  92 }
+	color2 = rgb { 152  130  191 } #{ 144  140  92 }
 	culture_definition = iberian_colombian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1314,8 +1314,8 @@ PANA = {
 
 
 PAPU = {
-	color = rgb { 129  37  28 }
-	color2 = rgb { 129  37  28 }
+	color = rgb { 153 0 76 } #{ 129  37  28 }
+	color2 = rgb { 153 0 76 } #{ 129  37  28 }
 	culture_definition = asmat_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1324,8 +1324,8 @@ PAPU = {
 
 
 PARA = {
-	color = rgb { 75  188  60 }
-	color2 = rgb { 75  188  60 }
+	color = rgb { 57  113  228 } #{ 75  188  60 }
+	color2 = rgb { 57  113  228 } #{ 75  188  60 }
 	culture_definition = ava_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1334,8 +1334,8 @@ PARA = {
 
 
 PERU = {
-	color = rgb { 124  140  162 }
-	color2 = rgb { 124  140  162 }
+	color = rgb { 196  189  204 } #{ 124  140  162 }
+	color2 = rgb { 196  189  204 } #{ 124  140  162 }
 	culture_definition = iberian_peruvian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1344,8 +1344,8 @@ PERU = {
 
 
 PHIL = {
-	color = rgb { 220  116  197 }
-	color2 = rgb { 220  116  197 }
+	color = rgb { 0 40 195 } #{ 220  116  197 }
+	color2 = rgb { 0 40 195 } #{ 220  116  197 }
 	culture_definition = tagalog_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1353,9 +1353,9 @@ PHIL = {
 }
 
 
-POL = {
-	color = rgb { 197  92  106 }
-	color2 = rgb { 197  92  106 }
+POL = { #didnt use hoi4 color here
+	color = rgb { 197  92  106 } #{ 150 23 23 } #{ 197  92  106 }
+	color2 = rgb { 197  92  106 } #{ 150 23 23 } #{ 197  92  106 }
 	culture_definition = lesser_polish
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1364,8 +1364,8 @@ POL = {
 
 
 POR = {
-	color = rgb { 40 110 140 }
-	color2 = rgb { 40 110 140 }
+	color = rgb { 39  116  70 } #{ 40 110 140 }
+	color2 = rgb { 39  116  70 } #{ 40 110 140 }
 	culture_definition = portuguese
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1374,8 +1374,8 @@ POR = {
 
 
 QATA = {
-	color = rgb { 130  100  30 }
-	color2 = rgb { 130  100  30 }
+	color = rgb { 128 0 0 } #{ 130  100  30 }
+	color2 = rgb { 128 0 0 } #{ 130  100  30 }
 	culture_definition = bahrani_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1384,8 +1384,8 @@ QATA = {
 
 
 RMN = {
-	color = rgb { 21  96  178 }
-	color2 = rgb { 21  96  178 }
+	color = rgb { 235  216  92 } #{ 21  96  178 }
+	color2 = rgb { 235  216  92 } #{ 21  96  178 }
 	culture_definition = wallachian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1393,7 +1393,7 @@ RMN = {
 }
 
 
-RUS = {
+RUS = { #didnt use hoi4 { 125  13  24 } here, because that is soviet union red
 	color = rgb { 96  131  80 }
 	color2 = rgb { 96  131  80 }
 	culture_definition = muscovite
@@ -1404,8 +1404,8 @@ RUS = {
 
 
 RWA = {
-	color = rgb { 213 160 18 }
-	color2 = rgb { 213 160 18 }
+	color = rgb { 255 255 102 } #{ 213 160 18 }
+	color2 = rgb { 255 255 102 } #{ 213 160 18 }
 	culture_definition = rwanda_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1413,9 +1413,9 @@ RWA = {
 }
 
 
-SAFR = {
-	color = rgb { 199  124  69 }
-	color2 = rgb { 199  124  69 }
+SAFR = { #didnt use hoi4 color after all
+	color = rgb { 199  124  69 } #{ 152 130 191 } #{ 199  124  69 }
+	color2 = rgb { 199  124  69 } #{ 152 130 191 } #{ 199  124  69 }
 	culture_definition = nguni_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1424,8 +1424,8 @@ SAFR = {
 
 
 SAM = {
-	color = rgb { 100 55 55 }
-	color2 = rgb { 100 55 55 }
+	color = rgb { 205 20 95 } #{ 100 55 55 }
+	color2 = rgb { 205 20 95 } #{ 100 55 55 }
 	culture_definition = maohi_culture
 	religion_definition = lutheran
 	description_category = diplomatic
@@ -1433,9 +1433,9 @@ SAM = {
 }
 
 
-SAUD = {
-	color = rgb { 0  128  53 }
-	color2 = rgb { 0  128  53 }
+SAUD = { #didnt use hoi4 color
+	color = rgb { 0  128  53 } #{ 171  190  152 } #{ 0  128  53 }
+	color2 = rgb { 0  128  53 } #{ 171  190  152 } #{ 0  128  53 }
 	culture_definition = najdi_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1443,9 +1443,9 @@ SAUD = {
 }
 
 
-SENE = {
-	color = rgb { 169  217  48 }
-	color2 = rgb { 169  217  48 }
+SENE = { #didnt use hoi4 color
+	color = rgb { 169  217  48 } #{ 204 51 0 } #{ 169  217  48 }
+	color2 = rgb { 169  217  48 } #{ 204 51 0 } #{ 169  217  48 }
 	culture_definition = wolof
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1454,8 +1454,8 @@ SENE = {
 
 
 SER = {
-	color = rgb { 166  72  57 }
-	color2 = rgb { 166  72  57 }
+	color = rgb { 90 80 110 } #{ 166  72  57 }
+	color2 = rgb { 90 80 110 } #{ 166  72  57 }
 	culture_definition = serbian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1463,7 +1463,7 @@ SER = {
 }
 
 
-SEYC = {
+SEYC = { #not in hoi4
 	color = rgb { 69  217  148 }
 	color2 = rgb { 69  217  148 }
 	culture_definition = french
@@ -1473,9 +1473,9 @@ SEYC = {
 }
 
 
-SIA = {
-	color = rgb { 89 194 221 }
-	color2 = rgb { 89 194 221 }
+SIA = { #didnt use hoi4 color here
+	color = rgb { 89 194 221 } #{ 171  190  152 } #{ 89 194 221 }
+	color2 = rgb { 89 194 221 } #{ 171  190  152 } #{ 89 194 221 }
 	culture_definition = thai_culture
 	religion_definition = theravada
 	description_category = diplomatic
@@ -1483,7 +1483,7 @@ SIA = {
 }
 
 
-SKNE = {
+SKNE = { #not in hoi4
 	color = rgb { 189  74  169 }
 	color2 = rgb { 189  74  169 }
 	culture_definition = british_caribbean
@@ -1493,9 +1493,9 @@ SKNE = {
 }
 
 
-SKOR = {
-	color = rgb { 20  132  232 }
-	color2 = rgb { 20  132  232 }
+SKOR = { #didnt use hoi4 korea color
+	color = rgb { 20  132  232 } #{ 255  240  195 } #{ 20  132  232 }
+	color2 = rgb { 20  132  232 } #{ 255  240  195 } #{ 20  132  232 }
 	culture_definition = korean_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1503,9 +1503,9 @@ SKOR = {
 }
 
 
-SLEO = {
-	color = rgb { 169  197  148 }
-	color2 = rgb { 169  197  148 }
+SLEO = { #didnt use hoi4 color
+	color = rgb { 169  197  148 } #{ 204 102 255 } #{ 169  197  148 }
+	color2 = rgb { 169  197  148 } #{ 204 102 255 } #{ 169  197  148 }
 	culture_definition = wolof
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1513,9 +1513,9 @@ SLEO = {
 }
 
 
-SLOK = {
-	color = rgb { 34 131 193 }
-	color2 = rgb { 34 131 193 }
+SLOK = { #picked a gray blueish color in color wheel as i could not find the value for the hoi4 color
+	color = { 168 179 186 } #{ 54  167  156 } #{ 34 131 193 }
+	color2 = rgb { 168 179 186 } #{ 54  167  156 } #{ 34 131 193 }
 	culture_definition = slovak
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1524,8 +1524,8 @@ SLOK = {
 
 
 SLOV = {
-	color = rgb { 106  12  187 }
-	color2 = rgb { 106  12  187 }
+	color = rgb { 102 178 255 } #{ 106  12  187 }
+	color2 = rgb { 102 178 255 } #{ 106  12  187 }
 	culture_definition = slovene
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1533,7 +1533,7 @@ SLOV = {
 }
 
 
-SLUC = {
+SLUC = { #not in hoi4
 	color = rgb { 109  124  229 }
 	color2 = rgb { 109  124  229 }
 	culture_definition = british_caribbean
@@ -1544,8 +1544,8 @@ SLUC = {
 
 
 SOLO = {
-	color = rgb { 129  137  222 }
-	color2 = rgb { 129  137  222 }
+	color = rgb { 20 20 90 } #{ 129  137  222 }
+	color2 = rgb { 20 20 90 } #{ 129  137  222 }
 	culture_definition = tiri_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1554,8 +1554,8 @@ SOLO = {
 
 
 SOMA = {
-	color = rgb { 206  110  240 }
-	color2 = rgb { 206  110  240 }
+	color = rgb { 51 102 0 } #{ 206  110  240 }
+	color2 = rgb { 51 102 0 } #{ 206  110  240 }
 	culture_definition = somali_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1564,8 +1564,8 @@ SOMA = {
 
 
 SPA = {
-	color = rgb { 231  181  12 }
-	color2 = rgb { 231  181  12 }
+	color = rgb { 242  205  94 } #{ 231  181  12 }
+	color2 = rgb { 242  205  94 } #{ 231  181  12 }
 	culture_definition = castilian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1574,8 +1574,8 @@ SPA = {
 
 
 SRLA = {
-	color = rgb { 80  143  95 }
-	color2 = rgb { 80  143  95 }
+	color = rgb { 204 0 102 } #{ 80  143  95 }
+	color2 = rgb { 204 0 102 } #{ 80  143  95 }
 	culture_definition = sinhalese
 	religion_definition = theravada
 	description_category = diplomatic
@@ -1583,7 +1583,7 @@ SRLA = {
 }
 
 
-SSUD = {
+SSUD = { #not in hoi4
 	color = rgb { 184  130  52 }
 	color2 = rgb { 184  130  52 }
 	culture_definition = dinka_culture
@@ -1593,7 +1593,7 @@ SSUD = {
 }
 
 
-STPR = {
+STPR = { #not in hoi4
 	color = rgb { 29  190  119 }
 	color2 = rgb { 29  190  119 }
 	culture_definition = portuguese
@@ -1604,8 +1604,8 @@ STPR = {
 
 
 SUDA = {
-	color = rgb { 84  180  152 }
-	color2 = rgb { 84  180  152 }
+	color = rgb { 204 102 0 } #{ 84  180  152 }
+	color2 = rgb { 204 102 0 } #{ 84  180  152 }
 	culture_definition = sudanese_arab
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1614,8 +1614,8 @@ SUDA = {
 
 
 SURI = {
-	color = rgb { 194  180  112 }
-	color2 = rgb { 194  180  112 }
+	color = rgb { 255 178 102 } #{ 194  180  112 }
+	color2 = rgb { 255 178 102 } #{ 194  180  112 }
 	culture_definition = germanic_colombian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1623,7 +1623,7 @@ SURI = {
 }
 
 
-SVGR = {
+SVGR = { #not in hoi4
 	color = rgb { 129  174  159 }
 	color2 = rgb { 129  174  159 }
 	culture_definition = british_caribbean
@@ -1634,8 +1634,8 @@ SVGR = {
 
 
 SWE = {
-	color = rgb { 8  82  165 }
-	color2 = rgb { 8  82  165 }
+	color = rgb  { 36  132  247 } #{ 8  82  165 }
+	color2 = rgb { 36  132  247 } #{ 8  82  165 }
 	culture_definition = swedish
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1643,9 +1643,9 @@ SWE = {
 }
 
 
-SWI = {
-	color = rgb { 153  122  108 }
-	color2 = rgb { 153  122  108 }
+SWI = { #the color of the red on their irl flag
+	color = rgb { 218 41 28 } #{ 33 14 19 } #{ 153  122  108 }
+	color2 = rgb { 218 41 28 } #{ 33 14 19 } #{ 153  122  108 }
 	culture_definition = high_alemannic
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1654,8 +1654,8 @@ SWI = {
 
 
 SYRI = {
-	color = rgb { 125  110  225 }
-	color2 = rgb { 125  110  225 }
+	color = rgb { 100  100  150 } #{ 125  110  225 }
+	color2 = rgb { 100  100  150 } #{ 125  110  225 }
 	culture_definition = levantine_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1663,9 +1663,9 @@ SYRI = {
 }
 
 
-TAIW = {
-	color = rgb { 155  35  200 }
-	color2 = rgb { 155  35  200 }
+TAIW = { #hoi4 formosa color
+	color = rgb { 0 128 128 } #{ 155  35  200 }
+	color2 = rgb { 0 128 128 } #{ 155  35  200 }
 	culture_definition = taiwanese
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1674,8 +1674,8 @@ TAIW = {
 
 
 TAJI = {
-	color = rgb { 96  104  49 }
-	color2 = rgb { 96  104  49 }
+	color = rgb { 51 102 0 } #{ 96  104  49 }
+	color2 = rgb { 51 102 0 } #{ 96  104  49 }
 	culture_definition = tajik_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1683,9 +1683,9 @@ TAJI = {
 }
 
 
-TANZ = {
-	color = rgb { 111  181  185 }
-	color2 = rgb { 111  181  185 }
+TANZ = { #didnt use hoi4 color
+	color = rgb { 111  181  185 } #{ 255 204 153 } #{ 111  181  185 }
+	color2 = rgb { 111  181  185 } #{ 255 204 153 } #{ 111  181  185 }
 	culture_definition = nyamwezi_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1693,7 +1693,7 @@ TANZ = {
 }
 
 
-TOG = {
+TOG = { #not in hoi4
 	color = rgb { 225 200 95 }
 	color2 = rgb { 225 200 95 }
 	culture_definition = maohi_culture
@@ -1704,8 +1704,8 @@ TOG = {
 
 
 TOGO = {
-	color = rgb { 99  17  122 }
-	color2 = rgb { 99  17  122 }
+	color = rgb { 0 102 0 } #{ 99  17  122 }
+	color2 = rgb { 0 102 0 } #{ 99  17  122 }
 	culture_definition = yoruba
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1714,8 +1714,8 @@ TOGO = {
 
 
 TRTO = {
-	color = rgb { 169  44  69 }
-	color2 = rgb { 169  44  69 }
+	color = rgb { 96 96 96 } #{ 169  44  69 }
+	color2 = rgb { 96 96 96 } #{ 169  44  69 }
 	culture_definition = british_caribbean
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1724,8 +1724,8 @@ TRTO = {
 
 
 TUKM = {
-	color = rgb { 66  155  75 }
-	color2 = rgb { 66  155  75 }
+	color = rgb { 0 76 153 } #{ 66  155  75 }
+	color2 = rgb { 0 76 153 } #{ 66  155  75 }
 	culture_definition = turkmen_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1733,9 +1733,9 @@ TUKM = {
 }
 
 
-TUN = {
-	color = rgb { 146  134  57 }
-	color2 = rgb { 146  134  57 }
+TUN = { #didnt use hoi4 color
+	color = rgb { 146  134  57 } #{ 153 153 102 } #{ 146  134  57 }
+	color2 = rgb { 146  134  57 } #{ 153 153 102 } #{ 146  134  57 }
 	culture_definition = tunisian
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1744,8 +1744,8 @@ TUN = {
 
 
 TURK = {
-	color = rgb { 166  203  80 }
-	color2 = rgb { 166  203  80 }
+	color = rgb { 171  190  152 } #{ 166  203  80 }
+	color2 = rgb { 171  190  152 } #{ 166  203  80 }
 	culture_definition = turkish_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1753,7 +1753,7 @@ TURK = {
 }
 
 
-TUVL = {
+TUVL = { #not in hoi4
 	color = rgb { 89  147  192 }
 	color2 = rgb { 89  147  192 }
 	culture_definition = maohi_culture
@@ -1764,8 +1764,8 @@ TUVL = {
 
 
 UAEM = {
-	color = rgb { 140  20  170 }
-	color2 = rgb { 140  20  170 }
+	color = rgb { 102 102 0 } #{ 140  20  170 }
+	color2 = rgb { 102 102 0 } #{ 140  20  170 }
 	culture_definition = bahrani_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1774,8 +1774,8 @@ UAEM = {
 
 
 UGAN = {
-	color = rgb { 151  141  55 }
-	color2 = rgb { 151  141  55 }
+	color = rgb { 255 80 80 } #{ 151  141  55 }
+	color2 = rgb { 255 80 80 } #{ 151  141  55 }
 	culture_definition = baganda_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1783,9 +1783,9 @@ UGAN = {
 }
 
 
-UKR = {
-	color = rgb { 124  183  151 }
-	color2 = rgb { 124  183  151 }
+UKR = { #used the color of the blue on their irl flag
+	color = rgb { 0 87 183 } #{ 255  255  95 } #{ 124  183  151 }
+	color2 = rgb { 0 87 183 } #{ 255  255  95 } #{ 124  183  151 }
 	culture_definition = ruthenian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1794,8 +1794,8 @@ UKR = {
 
 
 URUG = {
-	color = rgb { 95  188  250 }
-	color2 = rgb { 95  188  250 }
+	color = rgb { 171  190  152 } #{ 95  188  250 }
+	color2 = rgb { 171  190  152 } #{ 95  188  250 }
 	culture_definition = iberian_la_platan
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1804,8 +1804,8 @@ URUG = {
 
 
 USA = {
-	color = rgb { 69  157  208 }
-	color2 = rgb { 69  157  208 }
+	color = rgb { 67  123  237 } #{ 69  157  208 }
+	color2 = rgb { 67  123  237 } #{ 69  157  208 }
 	culture_definition = american
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1814,8 +1814,8 @@ USA = {
 
 
 UZBE = {
-	color = rgb { 151  98  224 }
-	color2 = rgb { 151  98  224 }
+	color = rgb { 0 102 102 } #{ 151  98  224 }
+	color2 = rgb { 0 102 102 } #{ 151  98  224 }
 	culture_definition = uzbek_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1823,7 +1823,7 @@ UZBE = {
 }
 
 
-VANU = {
+VANU = { #not in hoi4
 	color = rgb { 129  137  122 }
 	color2 = rgb { 129  137  122 }
 	culture_definition = tiri_culture
@@ -1834,8 +1834,8 @@ VANU = {
 
 
 VENE = {
-	color = rgb { 213  82  109 }
-	color2 = rgb { 213  82  109 }
+	color = rgb { 171  190  152 } #{ 213  82  109 }
+	color2 = rgb { 171  190  152 } #{ 213  82  109 }
 	culture_definition = iberian_colombian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1843,9 +1843,9 @@ VENE = {
 }
 
 
-VIET = {
-	color = rgb { 170  187  40 }
-	color2 = rgb { 170  187  40 }
+VIET = { #the color of the yellow on their irl flag
+	color = rgb { 255 205 0 } #{ 230  223  50 } #{ 170  187  40 }
+	color2 = rgb { 255 205 0 } #{ 230  223  50 } #{ 170  187  40 }
 	culture_definition = vietnamese_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1854,8 +1854,8 @@ VIET = {
 
 
 YEM = {
-	color = rgb { 106 38 44 }
-	color2 = rgb { 106 38 44 }
+	color = rgb { 155  101  107 } #{ 106 38 44 }
+	color2 = rgb { 155  101  107 } #{ 106 38 44 }
 	culture_definition = yemeni_culture
 	religion_definition = shia
 	description_category = diplomatic
@@ -1863,9 +1863,9 @@ YEM = {
 }
 
 
-ZAMB = {
-	color = rgb { 29  180  129 }
-	color2 = rgb { 29  180  129 }
+ZAMB = { #didnt use hoi4 color after all
+	color = rgb { 29  180  129 } #{ 102 102 255 } #{ 29  180  129 }
+	color2 = rgb { 29  180  129 } #{ 102 102 255 } #{ 29  180  129 }
 	culture_definition = bemba
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1874,8 +1874,8 @@ ZAMB = {
 
 
 ZMW = {
-	color = rgb { 146  134  78 }
-	color2 = rgb { 146  134  78 }
+	color = rgb { 155  255  195 } #{ 146  134  78 }
+	color2 = rgb { 155  255  195 } #{ 146  134  78 }
 	culture_definition = shona_culture
 	religion_definition = secularism
 	description_category = diplomatic

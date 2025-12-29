@@ -264,16 +264,16 @@ KAB = {
 	religion_definition = nhaala_religion
 }
 
-MAL = {
-	color = map_mali
-	color2 = black
-
-	culture_definition = mandinka
-	religion_definition = sunni
-
-	description_category = diplomatic
-	difficulty = 3
-}
+#MAL = {
+#	color = map_mali
+#	color2 = black
+#
+#	culture_definition = mandinka
+#	religion_definition = sunni
+#
+#	description_category = diplomatic
+#	difficulty = 3
+#}
 
 SGH = {
 	color = map_SGH

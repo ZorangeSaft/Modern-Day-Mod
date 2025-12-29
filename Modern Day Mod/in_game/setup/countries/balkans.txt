@@ -54,12 +54,12 @@ NAX = {
 
 
 
-GRE = {
-	color = map_epirus
-	color2 = rgb { 13 111 189 } #new color
-	culture_definition = greek_culture
-	religion_definition = orthodox
-}
+#GRE = {
+#	color = map_epirus
+#	color2 = rgb { 13 111 189 } #new color
+#	culture_definition = greek_culture
+#	religion_definition = orthodox
+#}
 
 BYZ = {
 	color = map_BYZ
@@ -97,26 +97,26 @@ THS = {
 }
 	
 
-SER = {
-	color = map_serbian
-	color2 = rgb { 83 142 30 } #new color
+#SER = {
+#	color = map_serbian
+#	color2 = rgb { 83 142 30 } #new color
+#
+#	culture_definition = serbian
+#	religion_definition = orthodox
+#
+#	description_category = military
+#	difficulty = 2
+#
+#}
 
-	culture_definition = serbian
-	religion_definition = orthodox
-
-	description_category = military
-	difficulty = 2
-
-}
-
-ALB = {
-	color = map_albanian
-	color2 = rgb { 60 60 60 }
-
-	culture_definition = albanian
-	religion_definition = catholic 
-
-}
+#ALB = {
+#	color = map_albanian
+#	color2 = rgb { 60 60 60 }
+#
+#	culture_definition = albanian
+#	religion_definition = catholic 
+#
+#}
 
 THP = {
 	color = rgb { 83 184 221 }
@@ -154,13 +154,13 @@ MTR = {
 
 }
 
-BOS = {
-	color = map_bosnian
-	color2 = rgb { 163 165 77 } #new color
-
-	culture_definition = bosnian
-	religion_definition = bosnian_church
-}
+#BOS = {
+#	color = map_bosnian
+#	color2 = rgb { 163 165 77 } #new color
+#
+#	culture_definition = bosnian
+#	religion_definition = bosnian_church
+#}
 
 RAG = {
 	color = map_RAG
@@ -170,13 +170,13 @@ RAG = {
 	religion_definition = catholic
 }
 
-BUL = {
-	color = map_bulgarian
-	color2 = rgb { 83 149 105 } #same as in EU4
-
-	culture_definition = bulgarian
-	religion_definition = orthodox
-}
+#BUL = {
+#	color = map_bulgarian
+#	color2 = rgb { 83 149 105 } #same as in EU4
+#
+#	culture_definition = bulgarian
+#	religion_definition = orthodox
+#}
 
 VID = {
 	color = map_VID
