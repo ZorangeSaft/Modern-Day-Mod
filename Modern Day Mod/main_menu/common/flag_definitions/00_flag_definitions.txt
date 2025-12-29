@@ -2619,6 +2619,13 @@ KOL = { # Cologne
 	}		
 }
 
+KOSO = { # mdm modern day mod Kosovo
+	flag_definition = {
+		coa = mdm_KOSO
+		priority = 1
+	}
+}
+
 KTG = { # Kengtung
 	flag_definition = {
 		coa = KTG
@@ -3178,6 +3185,13 @@ MNI = { # Mong Nai
 MOLD = { # mdm modern day mod Moldova
 	flag_definition = {
 		coa = mdm_MOLD
+		priority = 1
+	}
+}
+
+MONT = { # mdm modern day mod Montenegro
+	flag_definition = {
+		coa = mdm_MONT
 		priority = 1
 	}
 }
@@ -4944,6 +4958,13 @@ SXM = { # Samogitia
 			coa_def_teutonic_order_trigger = yes
 		}
 	}		
+}
+
+TAJI = { # mdm modern day mod Tajikistan
+	flag_definition = {
+		coa = mdm_TAJI
+		priority = 1
+	}
 }
 
 TEU = { # Teutonic Order

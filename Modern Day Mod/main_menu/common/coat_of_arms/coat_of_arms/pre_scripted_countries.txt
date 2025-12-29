@@ -18781,7 +18781,23 @@ KOS = { # Kostroma - 18th c arms
 		color2 = "red_secondary"
 		color3 = color2
 		instance = { position = { 0.5 0.21 } scale = { 0.56 0.56 } }		
-	}	
+	}
+}
+
+mdm_KOSO = { # mdm modern day mod Kosovo
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 31 73 166 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stars_kosovar.dds"
+		color1 = "white"
+		instance = { position = { 0.5 0.233 } scale = { 0.564 0.564 } }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_borders_kosovar.dds"
+		color1 = rgb { 209 168 79 }
+		instance = { position = { 0.5 0.583 } scale = { 0.553 0.553 } }
+	}
 }
 
 KOW = { # Chakanbakan/Kowoj
@@ -23199,6 +23215,21 @@ MON = { # Montfort
 		color2 = color2
 		color3 = color1
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }			
+	}
+}
+
+mdm_MONT = { # mdm modern day mod Montenegro
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 228 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_border_montenegrin.dds"
+		color1 = rgb { 255 913 0 }
+	}
+
+	textured_emblem = {
+		texture = "mdm_coa_montenegro.dds"
+		instance = { scale = { 0.667 0.667 } }
 	}
 }
 
@@ -34622,6 +34653,19 @@ TAI = { # Tairona
 		color1 = color2
 		color2 = color2			
 	}		
+}
+
+mdm_TAJI = { # mdm modern day mod Tajikistan
+	pattern = "mdm_pattern_tricolor_horizontal_tadjikistan.dds"
+	color1 = rgb { 205 0 0 }
+	color2 = "white"
+	color3 = rgb { 0 102 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_crown_tajik.dds"
+		color1 = rgb { 248 196 0 }
+		instance = { position = { 0.5 0.5 } scale = { 0.388 0.388 } }
+	}
 }
 
 TAM = { # Tama
