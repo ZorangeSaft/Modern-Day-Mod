@@ -122,7 +122,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = aust_anthony_albanese }
 		country_rank = rank_kingdom
-		capital = yunggai
+		capital = ngarigo
 	}
 
 
@@ -290,7 +290,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = bosh_zeljka_cvijanovic }
 		country_rank = rank_duchy
-		capital = visegrad
+		capital = vrhbosna
 	}
 
 
@@ -394,7 +394,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = can_justin_trudeau }
 		country_rank = rank_kingdom
-		capital = cataraqui
+		capital = kitchissippi
 	}
 
 
@@ -433,7 +433,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = chil_gabriel_boric }
 		country_rank = rank_duchy
-		capital = aconca_hue
+		capital = waykuche
 	}
 
 
@@ -485,7 +485,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = cost_rodrigo_chaves_robles }
 		country_rank = rank_duchy
-		capital = coctu
+		capital = pacaca
 	}
 
 
@@ -628,7 +628,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = drco_felix_tshisekedi }
 		country_rank = rank_county
-		capital = bangui
+		capital = pumbo
 	}
 
 
@@ -670,7 +670,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = elsa_nayib_bukele }
 		country_rank = rank_duchy
-		capital = usulutan
+		capital = kuskatan
 	}
 
 
@@ -763,7 +763,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = fiji_naiqama_lalabalavu }
 		country_rank = rank_duchy
-		capital = burebasaga
+		capital = kubana
 	}
 
 
@@ -818,20 +818,20 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = gamb_adama_barrow }
 		country_rank = rank_county
-		capital = bintang
+		capital = gambia
 	}
 
 
 	GBIS = {
 		own_control_core = {
-			bafata bissau cacheu farim kaabu rio_grande
+			bafata bissau cacheu farim kaabu rio_grande bissagos
 		}
 		starting_technology_level = 3
 		include = "republic"
 		include = "expl_mdm_whole_world"
 		government = {ruler = gbis_umaro_sissoco_embalo }
 		country_rank = rank_county
-		capital = kaabu
+		capital = bissau
 	}
 
 
@@ -928,7 +928,7 @@ countries = {
 
 	GUIN = {
 		own_control_core = {
-			iwol beyla kankan kerouane kouroussa mandiana nounkonkan tabon bissagos boke gueme_sangan iles_de_los kissidougou konkoure labe rio_nunez rio_pongo scarcies seydougou timbo tuba niagassola niani siguiri
+			iwol beyla kankan kerouane kouroussa mandiana nounkonkan tabon boke gueme_sangan iles_de_los kissidougou konkoure labe rio_nunez rio_pongo scarcies seydougou timbo tuba niagassola niani siguiri
 		}
 		starting_technology_level = 3
 		include = "republic"
@@ -974,7 +974,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = hait_leslie_voltaire }
 		country_rank = rank_duchy
-		capital = guacayakima
+		capital = jaragua
 	}
 
 
@@ -1084,17 +1084,17 @@ countries = {
 
 	ISRA = {
 		own_control_core = {
-			acre beersheba gaza jaffa majdal safed sughar umm_rashrash
+			acre beersheba jaffa majdal safed sughar umm_rashrash
 		}
 		control_core = {
-			hebron jerusalem nablus
+			gaza hebron jerusalem nablus
 		}
 		starting_technology_level = 3
 		include = "republic"
 		include = "expl_mdm_whole_world"
 		government = {ruler = isra_isaac_herzog }
 		country_rank = rank_kingdom
-		capital = acre
+		capital = jaffa
 	}
 
 
@@ -1120,7 +1120,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = ivor_alassane_ouattara }
 		country_rank = rank_duchy
-		capital = kong
+		capital = ngokro
 	}
 
 
@@ -1133,7 +1133,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = jama_andrew_holness }
 		country_rank = rank_duchy
-		capital = maynoa
+		capital = yaguabo
 	}
 
 
@@ -1146,7 +1146,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = jap_naruhito_yamato }
 		country_rank = rank_kingdom
-		capital = kyoto
+		capital = toshima_kanto
 	}
 
 
@@ -1198,7 +1198,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = kiri_taneti_maamau }
 		country_rank = rank_duchy
-		capital = butaritari_atoll
+		capital = tarawa_atoll
 	}
 
 
@@ -1236,7 +1236,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = khm_norodom_sihamoni_norodom }
 		country_rank = rank_county
-		capital = vyadhapura
+		capital = phnom_penh
 	}
 
 
@@ -1431,7 +1431,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = mars_hilda_heine }
 		country_rank = rank_duchy
-		capital = jaluit_atoll
+		capital = majuro_atoll
 	}
 
 
@@ -1564,7 +1564,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = myan_myint_swe_1 }
 		country_rank = rank_county
-		capital = nyaungyan
+		capital = pyinmana
 	}
 
 
@@ -1606,7 +1606,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = nicr_daniel_ortega_1 }
 		country_rank = rank_duchy
-		capital = nagarando
+		capital = nequecheri
 	}
 
 
@@ -1644,7 +1644,7 @@ countries = {
 		include = "republic"
 		include = "expl_mdm_whole_world"
 		government = {ruler = nkor_kim_jong_un }
-		country_rank = rank_duchy
+		country_rank = rank_county
 		capital = seogyeong
 	}
 
@@ -1716,7 +1716,7 @@ countries = {
 
 	PALE = {
 		own_core = {
-			hebron jerusalem nablus
+			hebron jerusalem nablus gaza
 		}
 		starting_technology_level = 3
 		include = "republic"
@@ -1761,7 +1761,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = papu_peter_oneill }
 		country_rank = rank_duchy
-		capital = manubara
+		capital = koiali
 	}
 
 
@@ -1787,7 +1787,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = peru_dina_boluarte }
 		country_rank = rank_duchy
-		capital = chiprac
+		capital = rimaq
 	}
 
 
@@ -1904,7 +1904,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = sam_vaaletoa_sualauvi_ii }
 		country_rank = rank_duchy
-		capital = savaii
+		capital = upolu
 	}
 
 
@@ -1969,7 +1969,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = sia_maha_vajiralongkorn_chakri }
 		country_rank = rank_duchy
-		capital = chaisri
+		capital = ayodhya
 	}
 
 
@@ -2008,7 +2008,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = sleo_julius_maada_bio }
 		country_rank = rank_county
-		capital = port_loko
+		capital = banana_islands
 	}
 
 
@@ -2219,7 +2219,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = taiw_lai_ching_te }
 		country_rank = rank_kingdom
-		capital = basai
+		capital = ketagalan
 	}
 
 
@@ -2404,7 +2404,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = usa_donald_trump }
 		country_rank = rank_kingdom
-		capital = nentego
+		capital = anacostia
 	}
 
 
@@ -2482,7 +2482,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = zamb_hakainde_hichilema }
 		country_rank = rank_county
-		capital = kazembe
+		capital = chorumani
 	}
 
 
@@ -2510,7 +2510,7 @@ countries = {
 
         capital = brussels
         #include = "hansa"
-        include = "expl_northern_europe"
+		include = "expl_mdm_whole_world"
         government = {
             type = republic
             #heir_selection = oligarchic_elective

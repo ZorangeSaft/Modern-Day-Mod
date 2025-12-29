@@ -56,13 +56,13 @@ CND = {
 	religion_definition = sunni
 }
 
-CYP = {
-	color = map_cyprus
-	color2 = rgb { 245 200 30 } #same as in EU4
-
-	culture_definition = poitevin
-	religion_definition = catholic
-}
+#CYP = {
+#	color = map_cyprus
+#	color2 = rgb { 245 200 30 } #same as in EU4
+#
+#	culture_definition = poitevin
+#	religion_definition = catholic
+#}
 
 DIL = {
 	color = map_dilmacids

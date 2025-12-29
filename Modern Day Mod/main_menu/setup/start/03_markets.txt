@@ -54,7 +54,7 @@ market_manager = {
 	add_market = xunantunich #belize city, belize, notably not the capital
 	add_market = cuauhtemallan #guatemala city, guatemala
 	add_market = kuskatan #san salvador, el salvador
-	add_market = xoxonal #tegucigalpa, honduras, location might be wrong
+	add_market = tecohtzincalpan #tegucigalpa, honduras, location might be wrong
 	add_market = nequecheri #managua, nicaragua
 	add_market = pacaca #san josé/san jose, costa rica
 	add_market = panama #panama city, panama
@@ -84,7 +84,7 @@ market_manager = {
 
 	#south america
 
-	add_market = boiaca #bogotá/bogota, colombia
+	add_market = chicaquicha #bogotá/bogota, colombia
 	add_market = caracas #caracas, venezuela
 	add_market = essequibo #georgetown, guyana
 	add_market = paramaribo #paramaribo, suriname
@@ -282,6 +282,163 @@ market_manager = {
 	add_market = dagon #yangon, myanmar, largest port and financial capital
 	add_market = wetwin #mandalay, myanmar, second biggest city and transportation hub for the center
 
+
+
+	#extra markets
+	add_market = reunion
 	#
 	#add_market = a
+
+	#israel
+	add_market = jaffa
+
+	#bosnia
+	add_market = vrhbosna
+
+	#sierra leone
+	add_market = banana_islands
+
+	#guinea bissau
+	add_market = bissau
+
+	#the gambia
+	add_market = bintang
+
+	#ivory coast
+	add_market = ngokro
+
+	#dr congo
+	add_market = pumbo
+
+	#zambia
+	add_market = chorumani
+
+	#somaliland
+	add_market = hargeisa
+
+	#south africa
+	add_market = goringhaikona #capetown, south africa
+
+	#ireland
+	add_market = dublin #dublin, ireland
+
+	#italy
+	add_market = rome
+
+	###markets made with ai help
+	add_market = kabul
+	add_market = tirana
+	add_market = algiers
+	add_market = luanda
+	add_market = yerevan
+	add_market = shirvan
+	add_market = manama
+	add_market = bikrampur
+	add_market = brussels
+	add_market = minsk
+	add_market = abomey
+	add_market = thimbu
+	add_market = ntsweng
+	add_market = barsalogho
+	add_market = sredets
+	add_market = mirama
+	add_market = boali
+	add_market = yoko
+	add_market = gaoui
+	add_market = dadu
+	add_market = ngazidja
+	add_market = monsol
+	add_market = santo_antao
+	add_market = zagreb
+	add_market = nicosia_cyp
+	add_market = prague
+	add_market = kobenhavn
+	add_market = male_atoll
+	add_market = tadjoura
+	add_market = cairo
+	add_market = fernando_po
+	add_market = asmara
+	add_market = tallinn
+	add_market = zombodze
+	add_market = barara
+	add_market = helsinge
+	add_market = paris
+	add_market = mpongwe
+	add_market = london
+	add_market = tbilisi
+	add_market = berlin
+	add_market = accra
+	add_market = athens
+	add_market = iles_de_los
+	add_market = demerara
+	add_market = vienna
+	add_market = abrahamtelke
+	add_market = delhi
+	add_market = rey
+	add_market = baghdad
+	add_market = amman
+	add_market = tengiz
+	add_market = omotik
+	add_market = butaritari_atoll
+	add_market = pristina
+	add_market = qurain
+	add_market = balasagun
+	add_market = riga
+	add_market = beirut
+	add_market = thaba_bosiu
+	add_market = mesurado
+	add_market = tripoli
+	add_market = vilnius
+	add_market = luxembourg
+	add_market = skopje
+	add_market = antananarivo
+	add_market = dakadjalan
+	add_market = msinja
+	add_market = mauritius
+	add_market = nouakchott
+	add_market = karakorum
+	add_market = chisinau
+	add_market = podgorica
+	add_market = rabat
+	add_market = maputo
+	add_market = aonin
+	add_market = amsterdam
+	add_market = goudel
+	add_market = lafia
+	add_market = oslo
+	add_market = kathmandu
+	add_market = masqat
+	add_market = chakwal
+	add_market = warsaw
+	add_market = lisbon
+	add_market = al_bidda
+	add_market = targoviste
+	add_market = moscow
+	add_market = buzanga
+	add_market = kweneng
+	add_market = al_hajr
+	add_market = beer_dun
+	add_market = belgrad
+	add_market = seychelles
+	add_market = bratislava
+	add_market = mogadishu
+	add_market = madrid
+	add_market = kotte
+	add_market = rejaf
+	add_market = sao_tome
+	add_market = soba
+	add_market = kulob
+	add_market = sandawe
+	add_market = anecho
+	add_market = faraveh
+	add_market = tunis
+	add_market = ankara
+	add_market = abu_dhabi
+	add_market = buganda
+	add_market = kyiv
+	add_market = chach
+	add_market = valpei
+	add_market = taizz
+	add_market = matanda_aChiwawa
+
 }
