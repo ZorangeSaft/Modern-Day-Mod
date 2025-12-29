@@ -961,7 +961,7 @@ BOS = { # Bosnia
 	}
 }
 
-BOSH = { # mdm modern day mod Bosnia
+BOSH = { # mdm modern day mod Bosnia and Herzegovinia
 	flag_definition = {
 		coa = mdm_BOSH
 		priority = 1
@@ -1190,6 +1190,13 @@ BTN = { # Buton
 		trigger = {
 			coa_def_muslim_trigger = yes
 		}
+	}
+}
+
+BUFA = { # mdm modern day mod Burkina Faso
+	flag_definition = {
+		coa = mdm_BUFA
+		priority = 1
 	}
 }
 
@@ -2619,6 +2626,13 @@ KOL = { # Cologne
 	}		
 }
 
+KOSO = { # mdm modern day mod Kosovo
+	flag_definition = {
+		coa = mdm_KOSO
+		priority = 1
+	}
+}
+
 KTG = { # Kengtung
 	flag_definition = {
 		coa = KTG
@@ -2942,6 +2956,13 @@ MAK = { # Makuria
 	}
 }
 
+MAL = { # mdm modern day mod Mali
+	flag_definition = {
+		coa = mdm_MAL
+		priority = 1
+	}
+}
+
 MAN = { # Mantua
 	flag_definition = {
 		coa = MAN
@@ -2954,6 +2975,13 @@ MAN = { # Mantua
 			# age 3 possibly
 			coa_def_duchy_or_higher_trigger = yes
 		}
+	}
+}
+
+MAUR = { # mdm modern day mod Mauritania
+	flag_definition = {
+		coa = mdm_MAUR
+		priority = 1
 	}
 }
 
@@ -3178,6 +3206,13 @@ MNI = { # Mong Nai
 MOLD = { # mdm modern day mod Moldova
 	flag_definition = {
 		coa = mdm_MOLD
+		priority = 1
+	}
+}
+
+MONT = { # mdm modern day mod Montenegro
+	flag_definition = {
+		coa = mdm_MONT
 		priority = 1
 	}
 }
@@ -4708,6 +4743,13 @@ SDZ = { # Sieradz
 	}
 }
 
+SENE = { # mdm modern day mod Senegal
+	flag_definition = {
+		coa = mdm_SENE
+		priority = 1
+	}
+}
+
 SER = { # mdm modern day mod Serbia
 	flag_definition = {
 		coa = mdm_SER
@@ -4944,6 +4986,13 @@ SXM = { # Samogitia
 			coa_def_teutonic_order_trigger = yes
 		}
 	}		
+}
+
+TAJI = { # mdm modern day mod Tajikistan
+	flag_definition = {
+		coa = mdm_TAJI
+		priority = 1
+	}
 }
 
 TEU = { # Teutonic Order

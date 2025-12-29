@@ -4472,7 +4472,7 @@ BOS_late = { # Bosnia - Modern tinctures after 1590
 	}	
 }
 
-mdm_BOSH = { # mdm modern day mod Bosnia
+mdm_BOSH = { # mdm modern day mod Bosnia and Herzegovinia
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
 
@@ -4482,17 +4482,17 @@ mdm_BOSH = { # mdm modern day mod Bosnia
 		instance = { position = { 0.515 0.5 } }
 	}
 	colored_emblem = {
-		texture = "ce_star_05.dds"
+		texture = "mdm_ce_star_five.dds"
 		color1 = "white"
-		instance = { position = { 0.11 -0.011 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.193 0.136 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.275 0.261 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.358 0.386 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.441 0.511 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.523 0.636 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.606 0.761 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.689 0.886 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.771 1.011 } scale = { 0.19 0.19 } }
+		instance = { position = { 0.11 -0.011 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.193 0.136 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.275 0.261 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.358 0.386 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.441 0.511 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.523 0.636 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.606 0.761 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.689 0.886 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.771 1.011 } scale = { 0.172 0.172 } }
 	}
 }
 
@@ -5711,6 +5711,18 @@ BUD = { # Budingen
 		color1 = color2
 		color2 = color2	
 	}		
+}
+
+mdm_BUFA = { # mdm modern day mod Burkina Faso
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 239 39 41 }
+	color2 = rgb { 0 159 71 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 2522 210 14 }
+		instance = { position = { 0.483 0.5 } scale = { 0.302 0.302 } }
+	}
 }
 
 mdm_BUL = { # mdm modern day mod Bulgaria
@@ -18781,7 +18793,23 @@ KOS = { # Kostroma - 18th c arms
 		color2 = "red_secondary"
 		color3 = color2
 		instance = { position = { 0.5 0.21 } scale = { 0.56 0.56 } }		
-	}	
+	}
+}
+
+mdm_KOSO = { # mdm modern day mod Kosovo
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 31 73 166 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stars_kosovar.dds"
+		color1 = "white"
+		instance = { position = { 0.5 0.233 } scale = { 0.564 0.564 } }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_borders_kosovar.dds"
+		color1 = rgb { 209 168 79 }
+		instance = { position = { 0.5 0.583 } scale = { 0.553 0.553 } }
+	}
 }
 
 KOW = { # Chakanbakan/Kowoj
@@ -21156,17 +21184,12 @@ MAK_cross = { # Makuria - Coptic portolan flag
 	}	
 }
 
-MAL = { # Mali                
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-
-	colored_emblem = {
-		texture = "ce_square.dds"
-		color1 = color2
-		color2 = color2		
-	}
-} 
+mdm_MAL = { # mdm modern day mod Mali
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 20 181 58 }
+	color2 = rgb { 252 209 22 }
+	color3 = rgb { 206 17 38 }
+}
 
 MAM = { # Mamlukes
 	pattern = "pattern_solid.dds"
@@ -21279,6 +21302,18 @@ MAU = { # Mauganj
 		texture = "te_tiger_india.dds"
 		instance = { position = { 0.51 0.515 } scale = { -0.85 0.85 } }			
 	}			
+}
+
+mdm_MAUR = { # mdm modern day mod Mauritania
+	pattern = "mdm_pattern_border_top_and_bottom_mauritania.dds"
+	color1 = rgb { 0 171 92 }
+	color2 = rgb { 209 22 25 }
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_mauritanian.dds"
+		color1 = rgb { 255 216 0 }
+		instance = { scale = { 0.5 0.5 } }
+	}
 }
 
 MAY = { # Maya TODO
@@ -23199,6 +23234,21 @@ MON = { # Montfort
 		color2 = color2
 		color3 = color1
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }			
+	}
+}
+
+mdm_MONT = { # mdm modern day mod Montenegro
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 228 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_border_montenegrin.dds"
+		color1 = rgb { 255 913 0 }
+	}
+
+	textured_emblem = {
+		texture = "mdm_coa_montenegro.dds"
+		instance = { scale = { 0.667 0.667 } }
 	}
 }
 
@@ -31976,6 +32026,19 @@ SED = { # Sedang/Xo Dang
 	}					
 }
 
+mdm_SENE = { # mdm modern day mod Senegal
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 134 61 }
+	color2 = rgb { 253 240 64 }
+	color3 = rgb { 228 20 30 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color1
+		instance = { position = { 0.486 0.5 } scale = { 0.302 0.302 } }
+	}
+}
+
 mdm_SER = { # mdm modern day mod Serbia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 199 51 57 }
@@ -34622,6 +34685,19 @@ TAI = { # Tairona
 		color1 = color2
 		color2 = color2			
 	}		
+}
+
+mdm_TAJI = { # mdm modern day mod Tajikistan
+	pattern = "mdm_pattern_tricolor_horizontal_tadjikistan.dds"
+	color1 = rgb { 205 0 0 }
+	color2 = "white"
+	color3 = rgb { 0 102 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_crown_tajik.dds"
+		color1 = rgb { 248 196 0 }
+		instance = { position = { 0.5 0.5 } scale = { 0.388 0.388 } }
+	}
 }
 
 TAM = { # Tama
