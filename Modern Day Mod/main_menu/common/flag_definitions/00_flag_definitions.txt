@@ -2964,6 +2964,13 @@ MAN = { # Mantua
 	}
 }
 
+MAUR = { # mdm modern day mod Mauritania
+	flag_definition = {
+		coa = mdm_MAUR
+		priority = 1
+	}
+}
+
 MDM = { # Marsan
 	flag_definition = {
 		coa = MDM_red

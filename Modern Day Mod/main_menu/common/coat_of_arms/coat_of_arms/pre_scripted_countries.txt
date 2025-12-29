@@ -21297,6 +21297,18 @@ MAU = { # Mauganj
 	}			
 }
 
+mdm_MAUR = { # mdm modern day mod Mauritania
+	pattern = "mdm_pattern_border_top_and_bottom_mauritania.dds"
+	color1 = rgb { 0 171 92 }
+	color2 = rgb { 209 22 25 }
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_mauritanian.dds"
+		color1 = rgb { 255 216 0 }
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
 MAY = { # Maya TODO
 	pattern = "pattern_diagonal_split_01.dds"
 	color1 = "blue"
