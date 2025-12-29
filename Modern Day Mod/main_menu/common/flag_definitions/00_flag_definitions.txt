@@ -1193,6 +1193,13 @@ BTN = { # Buton
 	}
 }
 
+BUFA = { # mdm modern day mod Burkina Faso
+	flag_definition = {
+		coa = mdm_BUFA
+		priority = 1
+	}
+}
+
 BUL = { # mdm modern day mod Bulgaria
 	flag_definition = {
 		coa = mdm_BUL
@@ -2946,6 +2953,13 @@ MAK = { # Makuria
 		trigger = {
 			coa_def_christian_trigger = yes
 		}
+	}
+}
+
+MAL = { # mdm modern day mod Mali
+	flag_definition = {
+		coa = mdm_MAL
+		priority = 1
 	}
 }
 
