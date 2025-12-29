@@ -961,7 +961,7 @@ BOS = { # Bosnia
 	}
 }
 
-BOSH = { # mdm modern day mod Bosnia
+BOSH = { # mdm modern day mod Bosnia and Herzegovinia
 	flag_definition = {
 		coa = mdm_BOSH
 		priority = 1

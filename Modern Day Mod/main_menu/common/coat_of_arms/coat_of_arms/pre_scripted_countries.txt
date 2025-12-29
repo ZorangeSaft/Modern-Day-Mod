@@ -4472,7 +4472,7 @@ BOS_late = { # Bosnia - Modern tinctures after 1590
 	}	
 }
 
-mdm_BOSH = { # mdm modern day mod Bosnia
+mdm_BOSH = { # mdm modern day mod Bosnia and Herzegovinia
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
 
@@ -4482,17 +4482,17 @@ mdm_BOSH = { # mdm modern day mod Bosnia
 		instance = { position = { 0.515 0.5 } }
 	}
 	colored_emblem = {
-		texture = "ce_star_05.dds"
+		texture = "mdm_ce_star_five.dds"
 		color1 = "white"
-		instance = { position = { 0.11 -0.011 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.193 0.136 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.275 0.261 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.358 0.386 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.441 0.511 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.523 0.636 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.606 0.761 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.689 0.886 } scale = { 0.19 0.19 } }
-		instance = { position = { 0.771 1.011 } scale = { 0.19 0.19 } }
+		instance = { position = { 0.11 -0.011 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.193 0.136 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.275 0.261 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.358 0.386 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.441 0.511 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.523 0.636 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.606 0.761 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.689 0.886 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.771 1.011 } scale = { 0.172 0.172 } }
 	}
 }
 
