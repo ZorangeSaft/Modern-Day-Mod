@@ -4743,6 +4743,13 @@ SDZ = { # Sieradz
 	}
 }
 
+SENE = { # mdm modern day mod Senegal
+	flag_definition = {
+		coa = mdm_SENE
+		priority = 1
+	}
+}
+
 SER = { # mdm modern day mod Serbia
 	flag_definition = {
 		coa = mdm_SER

@@ -32026,6 +32026,19 @@ SED = { # Sedang/Xo Dang
 	}					
 }
 
+mdm_SENE = { # mdm modern day mod Senegal
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 134 61 }
+	color2 = rgb { 253 240 64 }
+	color3 = rgb { 228 20 30 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color1
+		instance = { position = { 0.486 0.5 } scale = { 0.302 0.302 } }
+	}
+}
+
 mdm_SER = { # mdm modern day mod Serbia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 199 51 57 }
