@@ -25508,6 +25508,19 @@ NIE = { # Nienburg
 	}	
 }
 
+mdm_NKOR = { # mdm modern day mod North Korea
+	pattern = "mdm_pattern_north_korea.dds"
+	color1 = rgb { 237 23 32 }
+	color2 = rgb { 0 76 163 }
+	color3 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_starcircle_north_korean.dds"
+		color1 = color3
+		instance = { position = { 0.334 0.5 } scale = { 0.445 0.445 } }
+	}
+}
+
 NLG = { # Anlong
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	260	35	45	}
@@ -32748,7 +32761,20 @@ SKO = { # Sokoto
 		color1 = color2
 		color2 = color1		
 	}
-} 
+}
+
+mdm_SKOR = { # mdm modern day mod South Korea
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_taegeukgi_south_korean.dds"
+		color1 = rgb { 206 42 55 }
+		color2 = rgb { 0 19 161 }
+		color3 = "black"
+		instance = { scale = { 0.808 0.808 }
+	}
+}
 
 SKT = { # Suket
 	pattern = "pattern_horizontal_split_01.dds"

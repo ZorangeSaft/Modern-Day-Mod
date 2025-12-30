@@ -3579,6 +3579,13 @@ NEV = { # Nevers
 	}	
 }
 
+NKOR = { # mdm modern day mod North Korea
+	flag_definition = {
+		coa = mdm_NKOR
+		priority = 1
+	}
+}
+
 NOL = { # Northumbria
 	flag_definition = {
 		coa = NOL_ancient
@@ -4835,6 +4842,13 @@ SIE = { # Siena
 			coa_def_PAP_ensign_trigger = yes
 		}
 	}		
+}
+
+SKOR = { # mdm modern day mod South Korea
+	flag_definition = {
+		coa = mdm_SKOR
+		priority = 1
+	}
 }
 
 SLO = { # Slovakia
