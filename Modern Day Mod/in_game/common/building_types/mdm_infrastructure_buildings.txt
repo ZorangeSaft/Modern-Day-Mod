@@ -515,7 +515,7 @@ mdm_local_rail_network = {
 	}
 
 	modifier = {
-		local_max_control = 3
+		local_max_control = 0.03
 		proximity = 3
 		local_production_efficiency = 0.01
         local_monthly_development_modifier = 0.01
@@ -563,7 +563,7 @@ mdm_local_road_network = {
 	}
 
 	modifier = { #proximity modifier should scale with number of neighboring roads
-		local_max_control = 5
+		local_max_control = 0.05
 		proximity = 5
 		local_production_efficiency = 0.01
         local_monthly_development_modifier = 0.01
@@ -606,7 +606,7 @@ mdm_local_dirt_road_network = {
 	}
 
 	modifier = { #proximity modifier should scale with number of neighboring roads
-		local_max_control = 2
+		local_max_control = 0.02
 		proximity = 2
 		local_production_efficiency = 0.01
         local_monthly_development_modifier = 0.01

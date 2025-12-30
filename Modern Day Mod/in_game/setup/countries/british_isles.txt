@@ -259,13 +259,13 @@ INI = {
 	religion_definition = catholic
 }
 
-IRE = {
-	color = hsv { 0.4 1 0.38 }
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = irish
-	religion_definition = catholic
-}
+#IRE = {
+#	color = hsv { 0.4 1 0.38 }
+#	color2 = rgb { 16 41 202 }
+#
+#	culture_definition = irish
+#	religion_definition = catholic
+#}
 
 TRY = {
 	color = hsv360 { 57 59 80 }

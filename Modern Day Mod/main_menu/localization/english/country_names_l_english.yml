@@ -2698,7 +2698,7 @@
  TRC_ADJ: "Tariaca"
  CBC: "Cabecar"
  CBC_ADJ: "Cabecar"
- USA: "America"
+ USA: "United States" #America USA United States america usa united states
  USA_ADJ: "American"
  USA_abbreviation: "U.S.A."
  MEX: "Mexico"
