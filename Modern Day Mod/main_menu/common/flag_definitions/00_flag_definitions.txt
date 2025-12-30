@@ -6512,6 +6512,13 @@ YUA = { # China
 	}
 }
 
+CHAD = { # mdm modern day mod Chad
+	flag_definition = {
+		coa = mdm_CHAD
+		priority = 1
+	}
+}
+
 CHI = { # China
 	flag_definition = {
 		coa = mdm_CHI
