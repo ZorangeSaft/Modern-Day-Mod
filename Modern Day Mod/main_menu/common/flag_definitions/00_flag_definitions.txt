@@ -2527,6 +2527,13 @@ JUL = { # Juliers
 	}	
 }
 
+KAZK = { # mdm modern day mod Kazakhstan
+	flag_definition = {
+		coa = mdm_KAZK
+		priority = 1
+	}
+}
+
 KHN = { # Kharan
 	flag_definition = {
 		coa = KHN

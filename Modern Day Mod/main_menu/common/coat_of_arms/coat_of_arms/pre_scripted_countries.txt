@@ -17509,6 +17509,22 @@ KAZ_modern = { # Kazakh - Modern attribution for the Kazakh Khans
 	}		
 }
 
+mdm_KAZK = { # mdm modern day mod Kazakhstan
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 173 195 }
+	colored_emblem = {
+		texture = "mdm_ce_sun_eagle_kazakh.dds"
+		color1 = rgb { 255 237 41 }
+		instance = { position = { 0.54 0.42 } scale = { 0.56 0.56 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_koshkar_muiz_kazakh.dds"
+		color1 = rgb { 255 237 41 }
+		instance = { position = { 0.06 0.5 } scale = { 0.89 0.89 } }
+	}
+}
+
 KBD = { # Kubadids
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
