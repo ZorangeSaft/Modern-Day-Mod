@@ -743,16 +743,16 @@ ALE_three_fleurs = { # Alençon - 15th c.
 	}
 }
 
-ALG = { # Algiers
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
+mdm_ALG = { # mdm modern day mod Algeria
+	pattern = "pattern_vertical_split_01.dds"
+	color1 = rgb { 0 102 51 }
+	color2 = "white"
 
 	colored_emblem = {
-		texture = "ce_bars_02.dds"
-		color1 = color2
-		color2 = color2							
-	}					
+		texture = "mdm_ce_crescent_star_algerian.dds"
+		color1 = rgb { 210 16 52 }
+		instance = { scale = { 0.5 0.5 } }
+	}
 } 
 
 ALI = { # Kaili
@@ -20164,6 +20164,19 @@ LIB = { # Libertalia - TODO possibly add legend (for god and liberty) to make it
 		color2 = color2
 		color3 = color1
 		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 } }
+	}	
+}
+
+mdm_LIBY = { # mdm modern day mod Libya
+	pattern = "mdm_pattern_tricolor_horizontal_libya.dds"
+	color1 = rgb { 232 0 11 }
+	color2 = "black"
+	color3 = rgb { 29 159 68 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_libya.dds"
+		color1 = "white"
+		instance = { position = { 0.536 0.5 } scale = { 0.25 0.25 } }
 	}	
 }
 

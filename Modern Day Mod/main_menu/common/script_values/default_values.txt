@@ -1050,7 +1050,7 @@ expensive_build_price_age_of_revolution = 5000
 
 
 
-#mdm modern day mod custom build times
+#custom build times
 
 mdm_default_built_time = 1 #default value before specific one is set
 
@@ -1061,28 +1061,9 @@ mdm_build_time_2_years = 1 #720
 mdm_build_time_5_years = 1 #1800
 mdm_build_time_10_years = 1 #3600 #airport
 
-mdm_build_time_270 = 270
-mdm_build_time_300 = 300
-mdm_build_time_450 = 450
-mdm_build_time_480 = 480
-mdm_build_time_540 = 540
-mdm_build_time_600 = 600
-mdm_build_time_720 = 720
-mdm_build_time_750 = 750
-mdm_build_time_900 = 900
-
 
 #custom employment
 
 mdm_default_employment = 0.001 #default value before specific one is set
 
-mdm_employment_15 = 0.015
-mdm_employment_40 = 0.04
-mdm_employment_50 = 0.05
-mdm_employment_60 = 0.06
-mdm_employment_80 = 0.08
-mdm_employment_100 = 0.1
-mdm_employment_120 = 0.12
-mdm_employment_150 = 0.15
-mdm_employment_200 = 0.2
-mdm_employment_250 = 0.25
+mdm_airport_employment = 0.15

@@ -425,6 +425,13 @@ ALE = { # Alençon
 	}
 }
 
+ALG = { # mdm modern day mod Algeria
+	flag_definition = {
+		coa = mdm_ALG
+		priority = 1
+	}
+}
+
 ANC = { # Ancona
 	# ANC_republic : GO cross - Modern attribution
 	# ANC - City/Rep. : Cross couped/patonce GO - Medieval republic
@@ -2760,6 +2767,13 @@ LCZ = { # Leczyca
 		trigger = {
 			coa_def_teutonic_order_trigger = yes
 		}
+	}
+}
+
+LIBY = { # mdm modern day mod Libya
+	flag_definition = {
+		coa = mdm_LIBY
+		priority = 1
 	}
 }
 

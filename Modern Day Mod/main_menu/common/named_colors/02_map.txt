@@ -3974,9 +3974,9 @@ colors = {
 	# ranks
 
 	color_rank_empire = hsv360 { 259 86 85 }
-	color_rank_kingdom = rgb { 0 187 250 }
-	color_rank_duchy = rgb { 255 179 18 }
-	color_rank_county = rgb { 255 85 43 }
+	color_rank_kingdom = hsv360 { 40 78 75 }
+	color_rank_duchy = hsv360 { 215 35 30 } # Mordor Silver
+	color_rank_county = hsv360 { 9 78 63 }
 
 	
 	#eu4 colors for goods
