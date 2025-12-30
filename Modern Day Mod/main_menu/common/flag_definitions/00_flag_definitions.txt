@@ -3593,6 +3593,13 @@ NEV = { # Nevers
 	}	
 }
 
+NIGE = { # mdm modern day mod Niger
+	flag_definition = {
+		coa = mdm_NIGE
+		priority = 1
+	}
+}
+
 NKOR = { # mdm modern day mod North Korea
 	flag_definition = {
 		coa = mdm_NKOR

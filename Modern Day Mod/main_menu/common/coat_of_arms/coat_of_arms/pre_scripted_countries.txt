@@ -25528,6 +25528,19 @@ NIE = { # Nienburg
 	}	
 }
 
+mdm_NIGE = { # mdm modern day mod Niger
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 225 81 1 }
+	color2 = "white"
+	color3 = rgb { 4 178 39 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1 = color1
+		instance = { scale = { 0.283 0.283 } }
+	}
+}
+
 mdm_NKOR = { # mdm modern day mod North Korea
 	pattern = "mdm_pattern_north_korea.dds"
 	color1 = rgb { 237 23 32 }
