@@ -12907,6 +12907,19 @@ GBH = { # Grubenhagen
 	}
 }
 
+mdm_GBIS = { # mdm modern day mod Guinea-Bissau
+	pattern = "mdm_pattern_left_third_horizontal_split.dds"
+	color1 = rgb { 206 17 38 }
+	color2 = rgb { 252 209 22 }
+	color3 = rgb { 0 148 96 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "black"
+		instance = { position = { 0.167 0.484 } scale = { 0.302 0.302 } }
+	}
+}
+
 mdm_GBR = { # mdm modern day mod Great Britain
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 27 105 }

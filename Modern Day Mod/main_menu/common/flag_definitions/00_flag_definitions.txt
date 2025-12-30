@@ -2088,6 +2088,13 @@ GBH = { # Grubenhagen
 	}	
 }
 
+GBIS = { # mdm modern day mod Guinea-Bissau
+	flag_definition = {
+		coa = mdm_GBIS
+		priority = 1
+	}
+}
+
 GBR = { # mdm modern day mod Great Britain
 	flag_definition = {
 		coa = mdm_GBR
