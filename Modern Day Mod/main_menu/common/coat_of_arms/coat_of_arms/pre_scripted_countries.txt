@@ -37211,57 +37211,14 @@ TUL = { # Toul
 	}		
 }
 
-TUN = { # Tunis
+mdm_TUN = { # mdm modern day mod Tunisia
 	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "black"
-	
-	colored_emblem = {
-		texture = "ce_crescent_decrescent.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.35 0.5 } scale = { 0.85 0.85 } }				
-	}	
-}
-TUN_marinid = { # Tunis - Marinid variant
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
+	color1 = rgb { 231 0 19 }
 
 	colored_emblem = {
-		texture = "ce_star_08_rub_el_hizb.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.35 0.5 }  scale = { 0.85 0.85 } }
-	}
-	colored_emblem = {
-		texture = "ce_border_of_3_fringe.dds"
-		color1 = color2
-		color2 = color2
-	}
-	colored_emblem = {
-		texture = "ce_crescent_decrescent.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.333 0.5 }  scale = { 0.4 0.4 } }
-	}
-}
-TUN_morocco = { # Tunis - Morocco variant
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-
-	colored_emblem = {
-		texture = "ce_crescent_decrescent.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.65 0.50 } scale = { 0.85 0.85 } }
-	}
-	colored_emblem = {
-		texture = "ce_solid.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.15 0.5 } scale = { 0.3 1.0 } }
+		texture = "mdm_ce_crescent_star_tunisian.dds"
+		color1 = "white"
+		instance = { scale = { 0.5 0.5 } }
 	}
 }
 

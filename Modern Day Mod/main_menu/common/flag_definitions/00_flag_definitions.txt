@@ -5209,24 +5209,10 @@ TTE = { # Trieste
 	}
 }
 
-TUN = { # Tunis
+TUN = { # mdm modern day mod Tunisia
 	flag_definition = {
-		coa = TUN
+		coa = mdm_TUN
 		priority = 1
-	}
-	flag_definition = {
-		coa = TUN_morocco
-		priority = 10
-		trigger = {
-			coa_def_MOR_ensign_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = TUN_marinid
-		priority = 20
-		trigger = {
-			coa_def_marinid_dynasty_trigger = yes
-		}
 	}
 }
 
