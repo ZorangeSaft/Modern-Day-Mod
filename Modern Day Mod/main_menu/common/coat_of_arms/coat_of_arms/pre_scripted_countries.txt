@@ -32818,7 +32818,7 @@ mdm_SKOR = { # mdm modern day mod South Korea
 		color1 = rgb { 206 42 55 }
 		color2 = rgb { 0 19 161 }
 		color3 = "black"
-		instance = { scale = { 0.808 0.808 }
+		instance = { scale = { 0.808 0.808 } }
 	}
 }
 
