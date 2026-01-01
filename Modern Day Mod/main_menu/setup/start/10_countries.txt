@@ -1408,6 +1408,17 @@ countries = {
 		capital = klang
 	}
 
+	MALT = {
+		own_control_core = {
+			malta
+		}
+		starting_technology_level = 3
+		include = "republic"
+		include = "expl_mdm_whole_world"
+		government = {ruler = malt_myriam_spiteri_debono }
+		country_rank = rank_kingdom
+		capital = malta
+	}
 
 	MALW = {
 		own_control_core = {
@@ -1972,6 +1983,17 @@ countries = {
 		capital = ayodhya
 	}
 
+	SNG = {
+		own_control_core = {
+			temasek
+		}
+		starting_technology_level = 3
+		include = "indonesia_monarchy"
+		include = "expl_mdm_whole_world"
+		government = {ruler = sng_tharman_shanmugaratnam }
+		country_rank = rank_kingdom
+		capital = temasek
+	}
 
 	SKNE = {
 		own_control_core = {
@@ -2502,7 +2524,12 @@ countries = {
 
 	#####mdm modern day mod
 
+	#land based countries
 
+	TRAN
+
+
+	#building based countries
 
     EUROP = {    #European Union
         type = building
