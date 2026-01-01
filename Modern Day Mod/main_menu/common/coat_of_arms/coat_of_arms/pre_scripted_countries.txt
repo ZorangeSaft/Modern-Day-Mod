@@ -12853,6 +12853,18 @@ GAM = { # Guamares (Penxamu)
 	}			
 }
 
+mdm_GAMB = { # mdm modern day mod Gambia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 207 8 33 }
+	color2 = rgb { 4 22 141 }
+	color3 = rgb { 55 120 35 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bars_gambian.dds"
+		color1 = "white"
+	}
+}
+
 GAR = { # Garabito
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	42		30		90	} 
