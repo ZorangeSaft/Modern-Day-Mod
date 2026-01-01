@@ -2088,6 +2088,13 @@ GBH = { # Grubenhagen
 	}	
 }
 
+GBIS = { # mdm modern day mod Guinea-Bissau
+	flag_definition = {
+		coa = mdm_GBIS
+		priority = 1
+	}
+}
+
 GBR = { # mdm modern day mod Great Britain
 	flag_definition = {
 		coa = mdm_GBR
@@ -3591,6 +3598,13 @@ NEV = { # Nevers
 			coa_def_hre_emperor_trigger = yes
 		}
 	}	
+}
+
+NIGE = { # mdm modern day mod Niger
+	flag_definition = {
+		coa = mdm_NIGE
+		priority = 1
+	}
 }
 
 NKOR = { # mdm modern day mod North Korea
@@ -5195,24 +5209,10 @@ TTE = { # Trieste
 	}
 }
 
-TUN = { # Tunis
+TUN = { # mdm modern day mod Tunisia
 	flag_definition = {
-		coa = TUN
+		coa = mdm_TUN
 		priority = 1
-	}
-	flag_definition = {
-		coa = TUN_morocco
-		priority = 10
-		trigger = {
-			coa_def_MOR_ensign_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = TUN_marinid
-		priority = 20
-		trigger = {
-			coa_def_marinid_dynasty_trigger = yes
-		}
 	}
 }
 
@@ -6509,6 +6509,13 @@ YUA = { # China
 		trigger = {
 			coa_def_mongolian_trigger = yes
 		}
+	}
+}
+
+CHAD = { # mdm modern day mod Chad
+	flag_definition = {
+		coa = mdm_CHAD
+		priority = 1
 	}
 }
 

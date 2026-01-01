@@ -7471,6 +7471,13 @@ CHA = { # Champa
 	}		
 }
 
+mdm_CHAD = { # mdm modern day mod Chad
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 32 91 }
+	color2 = rgb { 252 205 0 }
+	color3 = rgb { 200 16 46 }
+}
+
 CHB = { # Chobanids
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"
@@ -12897,6 +12904,19 @@ GBH = { # Grubenhagen
 		color2 = color2
 		color3 = color1
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }				
+	}
+}
+
+mdm_GBIS = { # mdm modern day mod Guinea-Bissau
+	pattern = "mdm_pattern_left_third_horizontal_split.dds"
+	color1 = rgb { 206 17 38 }
+	color2 = rgb { 252 209 22 }
+	color3 = rgb { 0 148 96 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "black"
+		instance = { position = { 0.167 0.484 } scale = { 0.302 0.302 } }
 	}
 }
 
@@ -25521,6 +25541,19 @@ NIE = { # Nienburg
 	}	
 }
 
+mdm_NIGE = { # mdm modern day mod Niger
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 225 81 1 }
+	color2 = "white"
+	color3 = rgb { 4 178 39 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1 = color1
+		instance = { scale = { 0.283 0.283 } }
+	}
+}
+
 mdm_NKOR = { # mdm modern day mod North Korea
 	pattern = "mdm_pattern_north_korea.dds"
 	color1 = rgb { 237 23 32 }
@@ -32785,7 +32818,7 @@ mdm_SKOR = { # mdm modern day mod South Korea
 		color1 = rgb { 206 42 55 }
 		color2 = rgb { 0 19 161 }
 		color3 = "black"
-		instance = { scale = { 0.808 0.808 }
+		instance = { scale = { 0.808 0.808 } }
 	}
 }
 
@@ -37178,57 +37211,14 @@ TUL = { # Toul
 	}		
 }
 
-TUN = { # Tunis
+mdm_TUN = { # mdm modern day mod Tunisia
 	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "black"
-	
-	colored_emblem = {
-		texture = "ce_crescent_decrescent.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.35 0.5 } scale = { 0.85 0.85 } }				
-	}	
-}
-TUN_marinid = { # Tunis - Marinid variant
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
+	color1 = rgb { 231 0 19 }
 
 	colored_emblem = {
-		texture = "ce_star_08_rub_el_hizb.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.35 0.5 }  scale = { 0.85 0.85 } }
-	}
-	colored_emblem = {
-		texture = "ce_border_of_3_fringe.dds"
-		color1 = color2
-		color2 = color2
-	}
-	colored_emblem = {
-		texture = "ce_crescent_decrescent.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.333 0.5 }  scale = { 0.4 0.4 } }
-	}
-}
-TUN_morocco = { # Tunis - Morocco variant
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-
-	colored_emblem = {
-		texture = "ce_crescent_decrescent.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.65 0.50 } scale = { 0.85 0.85 } }
-	}
-	colored_emblem = {
-		texture = "ce_solid.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.15 0.5 } scale = { 0.3 1.0 } }
+		texture = "mdm_ce_crescent_star_tunisian.dds"
+		color1 = "white"
+		instance = { scale = { 0.5 0.5 } }
 	}
 }
 
