@@ -2629,6 +2629,13 @@ KIE = { # Kiev
 	}		
 }
 
+KHM = { # mdm modern day mod Cambodia
+	flag_definition = {
+		coa = mdm_KHM
+		priority = 1
+	}
+}
+
 KOJ = { # Jerusalem
 	flag_definition = {
 		coa = KOJ
@@ -2706,6 +2713,13 @@ KTG = { # Kengtung
 KYRG = { # mdm modern day mod Kyrgyzstan
 	flag_definition = {
 		coa = mdm_KYRG
+		priority = 1
+	}
+}
+
+LAOS = { # mdm modern day mod Laos
+	flag_definition = {
+		coa = mdm_LAOS
 		priority = 1
 	}
 }
@@ -6319,6 +6333,13 @@ VER = { # Verona
 			coa_def_revolutionary_republic_trigger = yes
 		}		
 	}	
+}
+
+VIET = { # mdm modern day mod Vietnam
+	flag_definition = {
+		coa = mdm_VIET
+		priority = 1
+	}
 }
 
 VLS = { # Valois

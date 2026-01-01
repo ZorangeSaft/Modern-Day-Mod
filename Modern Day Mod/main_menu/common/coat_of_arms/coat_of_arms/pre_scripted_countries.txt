@@ -18458,6 +18458,17 @@ KMG = { # Khamag
 	}
 }
 
+mdm_KHM = { # mdm modern day mod Cambodia
+	pattern = "mdm_pattern_border_top_and_bottom.dds"
+	color1 = rgb { 225 0 32 }
+	color2 = rgb { 0 42 162 }
+
+	textured_emblem = {
+		texture = "mdm_coa_cambodia.dds"
+		instance = { scale = { 0.419 0.419 } }
+	}
+}
+
 KMM = { # Cammin - Cross variant otherwise the same as both Trier & Genoa - So called Kamminer Kreuz is a misattribution (Tzamplakon szlachta)
 	pattern = "pattern_solid.dds"
 	color1 = "white"
@@ -19597,6 +19608,18 @@ LAN = { # Lancaster
 		instance = { position = { 0.790 0.490 }  scale = { 0.16 0.16 } }
 		instance = { position = { 0.790 0.630 }  scale = { 0.16 0.16 } }			
 	}	
+}
+
+mdm_LAOS = { # mdm modern day mod Laos
+	pattern = "mdm_pattern_border_top_and_bottom.dds"
+	color1 = rgb { 0 35 104 }
+	color2 = rgb { 207 8 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1= "white"
+		instance = { scale = { 0.4 0.4 } }
+	}
 }
 
 LAT = { # Latin Empire
@@ -38662,7 +38685,18 @@ VEZ = { # Vezo
 		color2 = color3	
 		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 } }				
 	}
-} 
+}
+
+mdm_VIET = { # mdm modern day mod Vietnam
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 219 32 23 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 255 255 0 }
+		instance = { position = { 0.5 0.471 } scale = { 0.542 0.542 } }
+	}
+}
 
 VIJ = { # Vijaynagar
 	pattern = "pattern_solid.dds"
