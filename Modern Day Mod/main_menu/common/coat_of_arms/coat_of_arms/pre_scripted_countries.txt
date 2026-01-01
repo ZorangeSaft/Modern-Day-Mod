@@ -34467,7 +34467,8 @@ mdm_SWI = { # mdm modern day mod Switzerland
 	colored_emblem = {
 		texture = "mdm_ce_cross_swiss.dds"
 		color1 = "white"
-	}	
+		instance = { scale = { 0.625 0.625 } }
+	}
 }
 
 SWR = { # Schwerin
