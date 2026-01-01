@@ -2,7 +2,7 @@
 
 CAT = {
 	color = { 190 60 2 }
-	color2 = rgb { 16 41 202 }
+	color2 = rgb { 190 60 2 }
 
 	culture_definition = catalan
 	religion_definition = catholic
