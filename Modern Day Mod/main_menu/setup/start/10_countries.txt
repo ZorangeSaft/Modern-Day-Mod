@@ -14,6 +14,23 @@ current_age = age_2_renaissance
 
 countries = {
 	countries = {
+
+	ABKH = {
+		own_control_core = {
+			pitsunda anacopia sukhumi lata_georgia bedia
+		}
+		starting_technology_level = 3
+		include = "republic"
+		include = "expl_mdm_whole_world"
+		government = {
+			type = republic
+			heir_selection = lottery_election
+			ruler = random
+		}
+		country_rank = rank_duchy
+		capital = sukhumi
+	}
+
 	AFGH = {
 		own_control_core = {
 			andarab andkhoy aqca arkhan ashkamesh awbeh baghlan bagram balkh bamyan boyena_qara charikar chiras chishti_sarif dawlat_abad firozkoh ghormach herat istalif jawand kahmard karokh khamyab khulm kishim kunduz kusk_kohneh marv_al_rudh maymana mazar_i_sharif panjshir pushang qaisar qala_kohistan qala_naw qasr_ahnaf samangan sangcharak sar_pol sheberghan taleqan tulak yakawlang zadian shorabak adraskan alishang anardara arghestan azab baghran bahramchah banader bost chak deh_kundi delaram deychopan farah firuzkuh_afghanistan gandamak gardez garmsir gereshk ghazni jalalabad kabul kajran kandahar khanashin khash_sistan khaysar kohi_safi lash_joveyn logar maiwand maruf muqur musa_qala nawah pangvay qalat_ghilji qala_fateh qarnin rudbar_sistan shahr_sabz shindand tarinkot wazakhwa zaranj zarghun_shahr khost urgun asadabad_kunar hajiabad parun araska fayzabad ishkashim jurm kham_bahar qila_panjeh ragh sarhad sar_sang shiveh zebak
@@ -860,7 +877,7 @@ countries = {
 
 	GEO = {
 		own_control_core = {
-			akhalkalaki akhaltsikhe alaverdi anacopia anaklia batumi bedia bodbe dmanisi dusheti gori gremi kasriskari khikhani khornabuji kldekari kutaisi kvenipnevi lata_georgia lentekhi mtskheta ozurgeti pitsunda poti_caucasus rustavi shatili shorapani skande sukhumi tbilisi telavi tmogvi tsageri tsagvli tsalenjikha tsesi ushguli vartsikhe jariekhi omalo
+			akhalkalaki akhaltsikhe alaverdi anaklia batumi bodbe dmanisi dusheti gori gremi kasriskari khikhani khornabuji kldekari kutaisi kvenipnevi lentekhi mtskheta ozurgeti poti_caucasus rustavi shatili shorapani skande tbilisi telavi tmogvi tsageri tsagvli tsalenjikha tsesi ushguli vartsikhe jariekhi omalo
 		}
 		starting_technology_level = 3
 		include = "republic"

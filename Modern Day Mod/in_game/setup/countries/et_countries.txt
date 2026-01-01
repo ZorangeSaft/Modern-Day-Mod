@@ -1,3 +1,13 @@
+ABKH = { #hoi4 color
+	color = rgb { 51 204 51 }
+	color2 = rgb  { 51 204 51 }
+	culture_definition = mingrelian_culture
+	religion_definition = orthodox
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
 AFGH = {
 	color = rgb { 64  160  167 } #{ 102  128  52 }
 	color2 = rgb  { 64  160  167 } #{ 102  128  52 }
