@@ -1369,6 +1369,13 @@ BYZ = { # Byzantium
 	}	
 }
 
+CAME = { # mdm modern day mod Cameroon
+	flag_definition = {
+		coa = mdm_CAME
+		priority = 1
+	}
+}
+
 CAN = { # Canada
 	flag_definition = {
 		coa = CAN
@@ -1672,6 +1679,13 @@ CNN = { # Connacht
 	}
 }
 
+CONG = { # mdm modern day mod Congo
+	flag_definition = {
+		coa = mdm_CONG
+		priority = 1
+	}
+}
+
 COT = { # Cortona    
 	flag_definition = {
 		coa = COT_lion
@@ -1884,6 +1898,13 @@ EPI = { # Epirus
 	}
 }
 
+EQGU = { # mdm modern day mod Equatorial Guinea
+	flag_definition = {
+		coa = mdm_EQGU
+		priority = 1
+	}
+}
+
 ERM = { # Warmia
 	flag_definition = {
 		coa = ERM
@@ -2071,6 +2092,13 @@ FRM = { # Fermo
 		trigger = {
 			coa_def_guelphs_trigger = yes
 		}
+	}
+}
+
+GABO = { # mdm modern day mod Gabon
+	flag_definition = {
+		coa = mdm_GABO
+		priority = 1
 	}
 }
 

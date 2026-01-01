@@ -6443,6 +6443,19 @@ CAM = { # Cambrai (Prince-Bishopric)
 	}	
 }
 
+mdm_CAME =  { # mdm modern day mod Cameroon
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 123 94 }
+	color2 = rgb { 207 8 33 }
+	color3 = rgb { 252 210 14 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color3
+		instance = { position = { 0.487 0.5 } scale = { 0.241 0.241 } }
+	}
+}
+
 CAN = { # Canada
 	pattern = "pattern_solid.dds"
 	color1 = "red"
@@ -8829,6 +8842,13 @@ CON = { # Coinan - Tototlan
 		color3 = "white"
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }				
 	}	
+}
+
+mdm_CONG = { # mdm modern day mod Congo
+	pattern = "mdm_pattern_diagonal_stripe_congo.dds"
+	color1 = rgb { 0 152 54 }
+	color2 = rgb { 255 210 0 }
+	color3 = rgb { 221 31 25 }
 }
 
 COR = { # Corsica
@@ -11625,6 +11645,24 @@ EPI = { # Epirus
 	}
 }
 
+mdm_EQGU = { # mdm modern day mod Equatorial Guinea
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 60 155 0 }
+	color2 = "white"
+	color3 = rgb { 228 27 17 }
+
+	colored_emblem = {
+		texture = "mdm_ce_triangle_equatoguinean.dds"
+		color1 = rgb { 0 116 207 }
+		instance = { position = { 0.125 0.5 } }
+	}
+
+	textured_emblem = {
+		texture = "mdm_coa_equatorial_guinea.dds"
+		instance = { scale = { 0.3 0.3 } }
+	}
+}
+
 ERA = { # Eranshahr/Sasanian Empire
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	320	60	38	}
@@ -12827,6 +12865,13 @@ FZA = { # Fezzan
 		instance = { position = { 0.28 0.64 } scale = { 0.65 -0.65 } }		
 		instance = { position = { 0.72 0.64 } scale = { -0.65 -0.65 } }				
 	}
+}
+
+mdm_GABO = { # mdm modern day mod Gabon
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 158 96 }
+	color2 = rgb { 252 209 22 }
+	color3 = rgb { 58 117 196 }
 }
 
 GAL = { # Gallura
