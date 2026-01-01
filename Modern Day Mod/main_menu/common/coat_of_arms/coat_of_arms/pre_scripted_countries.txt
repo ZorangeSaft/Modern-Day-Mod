@@ -1252,6 +1252,18 @@ ANG_france = { # Angoulême - Orléans-Angoulême
 	}		
 }
 
+mdm_ANGO = { # mdm modern day mod Angola
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 204 9 47 }
+	color2 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_angola.dds"
+		color1 = rgb { 255 203 0 }
+		instance = { position = { 0.516 0.5 } scale = { 0.602 0.602 } }
+	}
+}
+
 ANH = { # Anhalt
 	pattern = "pattern_vertical_split_01.dds"
 	color1 = "white"
@@ -10857,6 +10869,19 @@ DPH = { # Diepholz
 		color3 = "red_light"
 		instance = { position = { 0.5 0.7 } scale = { 0.85 0.875 } }				
 	}				
+}
+
+mdm_DRCO = { # mdm modern day mod Democratic Republic of the Congo
+	pattern = "mdm_pattern_diagonal_stripes_drc.dds"
+	color1 = rgb { 0 128 255 }
+	color2 = rgb { 207 8 27 }
+	color3 = rgb { 247 215 17 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color3
+		instance = { position = { 0.183 0.243 } scale = { 0.367 0.367 } }
+	}
 }
 
 DRD = { # Dalriada
@@ -34902,6 +34927,18 @@ TAI = { # Tairona
 		color1 = color2
 		color2 = color2			
 	}		
+}
+
+mdm_TAIW = { # mdm modern day mod Republic of China
+	pattern = "pattern_canton_01.dds"
+	color1 = rgb { 254 0 0 }
+	color2 = rgb { 0 0 149 }
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_china.dds"
+		color1 = "white"
+		instance = { position = { 0.25 0.25 } scale = { 0.376 0.376 } }
+	}
 }
 
 mdm_TAJI = { # mdm modern day mod Tajikistan

@@ -505,6 +505,13 @@ ANG = { # Angoulême - with the cadency mark if Orléans exists
 	}
 }
 
+ANGO = { # mdm modern day mod Angola
+	flag_definition = {
+		coa = mdm_ANGO
+		priority = 1
+	}
+}
+
 ANJ = { # Anjou
 	flag_definition = {
 		coa = ANJ
@@ -1872,6 +1879,13 @@ DAU = { # Viennois
 			}
 			coa_def_discovery_age_3_trigger = yes
 		}
+	}
+}
+
+DRCO = { # mdm modern day mod Democratic Republic of the Congo
+	flag_definition = {
+		coa = mdm_DRCO
+		priority = 1
 	}
 }
 
@@ -5147,6 +5161,13 @@ SXM = { # Samogitia
 			coa_def_teutonic_order_trigger = yes
 		}
 	}		
+}
+
+TAIW = { # mdm modern day mod Republic of China
+	flag_definition = {
+		coa = mdm_TAIW
+		priority = 1
+	}
 }
 
 TAJI = { # mdm modern day mod Tajikistan
