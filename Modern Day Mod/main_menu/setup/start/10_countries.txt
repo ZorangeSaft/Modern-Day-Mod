@@ -2093,7 +2093,7 @@ countries = {
 
 	SOMA = {
 		own_control_core = {
-			buhoodle el_dhere oodweyne alula amud bandarbeyla barbacadle bargaal berbera bosaso burao el_ayum el_darad el_sheikh erigavo fardawsa garoowe hargeisa haylan las_khorey maduna maydh qandala qardho ras_hafun ruguda siyara xagal zeila afmadow baidoa barawa bardera beledweyne buale buur_hakaba buur_heybe ceeldheer dusmareb el_buur el_hamurre galkayo garacad garbahare haranka harardhere hobyo hudur jilib jowhar kismayo luuq mareeg maxaas merca mogadishu qoryooley warsheikh rasini
+			el_dhere alula bandarbeyla barbacadle bargaal bosaso garoowe haylan qandala qardho ras_hafun afmadow baidoa barawa bardera beledweyne buale buur_hakaba buur_heybe ceeldheer dusmareb el_buur el_hamurre galkayo garacad garbahare haranka harardhere hobyo hudur jilib jowhar kismayo luuq mareeg maxaas merca mogadishu qoryooley warsheikh rasini
 		}
 		starting_technology_level = 3
 		include = "republic"
@@ -2101,6 +2101,19 @@ countries = {
 		government = {ruler = soma_hassan_sheikh_mohamud }
 		country_rank = rank_county
 		capital = mogadishu
+	}
+
+	
+	SOML = {
+		own_control_core = {
+			el_ayum erigavo maduna buhoodle las_khorey maydh ruguda burao oodweyne hargeisa amud zeila el_sheikh berbera fardawsa siyara xagal el_darad
+		}
+		starting_technology_level = 3
+		include = "republic"
+		include = "expl_mdm_whole_world"
+		government = {ruler = soma_hassan_sheikh_mohamud }
+		country_rank = rank_county
+		capital = hargeisa
 	}
 
 

@@ -1573,6 +1573,16 @@ SOMA = {
 }
 
 
+SOML = { #went to color wheel and picked bright green
+	color = rgb { 66 237 66 }
+	color2 = rgb { 66 237 66 }
+	culture_definition = somali_culture
+	religion_definition = sunni
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
 SPA = {
 	color = rgb { 242  205  94 } #{ 231  181  12 }
 	color2 = rgb { 242  205  94 } #{ 231  181  12 }
