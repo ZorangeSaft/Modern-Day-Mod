@@ -1,10 +1,10 @@
-﻿YEM = { #Yemen
-	color = color_culture_yemeni
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = yemeni_culture
-	religion_definition = sunni
-}
+﻿#YEM = { #Yemen
+#	color = color_culture_yemeni
+#	color2 = rgb { 16 41 202 }
+#
+#	culture_definition = yemeni_culture
+#	religion_definition = sunni
+#}
 
 JRW = { #Jarwanids
 	color = map_kaliji
@@ -14,16 +14,16 @@ JRW = { #Jarwanids
 	religion_definition = shia
 }
 
-OMA = { #Oman
-	color = map_omani
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = omani_culture
-	religion_definition = ibadi
-
-	description_category = administrative
-	difficulty = 4
-}
+#OMA = { #Oman
+#	color = map_omani
+#	color2 = rgb { 16 41 202 }
+#
+#	culture_definition = omani_culture
+#	religion_definition = ibadi
+#
+#	description_category = administrative
+#	difficulty = 4
+#}
 
 MEC = { #Mecca
 	color = map_hijazi
