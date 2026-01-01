@@ -11220,16 +11220,16 @@ EGL = { # Egil/Bulduqani
 	}		
 }
 
-EGY = { # Egypt
-	pattern = "pattern_solid.dds"
-	color1 = hsv360 	{	120	75	36	} 
+mdm_EGY = { # mdm modern day mod Egypt
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 200 16 46 }
 	color2 = "white"
+	color3 = "black"
 
 	colored_emblem = {
-		texture = "ce_crescent_decrescent_stars_03.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.45 0.5 } scale = { 0.75 0.75 } }	
+		texture = "mdm_ce_eagle_egyptian.dds"
+		color1 = rgb { 255 205 0 }
+		instance = { scale = { 0.317 0.317 } }
 	}
 }
 

@@ -1889,6 +1889,13 @@ DRCO = { # mdm modern day mod Democratic Republic of the Congo
 	}
 }
 
+EGY = { # mdm modern day mod Egypt
+	flag_definition = {
+		coa = mdm_EGY
+		priority = 1
+	}
+}
+
 EPI = { # Epirus
 	flag_definition = {
 		coa = EPI
