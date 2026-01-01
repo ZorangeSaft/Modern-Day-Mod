@@ -13986,6 +13986,13 @@ GUB_ghibellines = { # Gubbio - Ghibelline variant (plausible, switching to imper
 	}		
 }
 
+mdm_GUIN = { # mdm modern day mod Guinea
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 207 8 33 }
+	color2 = rgb { 252 210 14 }
+	color3 = rgb { 0 149 96 }
+}
+
 GUC = { # Guachichiles
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	350		75		55	} 
@@ -20197,6 +20204,19 @@ LIB = { # Libertalia - TODO possibly add legend (for god and liberty) to make it
 		color3 = color1
 		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 } }
 	}	
+}
+
+mdm_LIBE = { # mdm modern day mod Liberia
+	pattern = "mdm_pattern_liberia.dds"
+	color1 = rgb { 192 3 44 }
+	color2 = "white"
+	color3 = rgb { 0 35 104 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.151 0.214 } scale = { 0.247 0.247 } }
+	}
 }
 
 mdm_LIBY = { # mdm modern day mod Libya
@@ -32925,6 +32945,13 @@ SLE = { # Salé
 		color3 = color1
 		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 } }
 	}	
+}
+
+mdm_SLEO = { # mdm modern day mod Sierra Leone
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 24 182 55 }
+	color2 = "white"
+	color3 = rgb { 0 115 199 }
 }
 
 SLK = { # Selkups

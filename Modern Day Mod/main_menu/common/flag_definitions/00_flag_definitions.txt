@@ -2252,6 +2252,13 @@ GUB = { # Gubbio
 	}
 }
 
+GUIN = { # mdm modern day mod Guinea
+	flag_definition = {
+		coa = mdm_GUIN
+		priority = 1
+	}
+}
+
 # GUY TODO
 
 HAB = { # mdm modern day mod Austria
@@ -2781,6 +2788,13 @@ LCZ = { # Leczyca
 		trigger = {
 			coa_def_teutonic_order_trigger = yes
 		}
+	}
+}
+
+LIBE = { # mdm modern day mod Liberia
+	flag_definition = {
+		coa = mdm_LIBE
+		priority = 1
 	}
 }
 
@@ -4882,6 +4896,13 @@ SIE = { # Siena
 SKOR = { # mdm modern day mod South Korea
 	flag_definition = {
 		coa = mdm_SKOR
+		priority = 1
+	}
+}
+
+SLEO = { # mdm modern day mod Sierra Leone
+	flag_definition = {
+		coa = mdm_SLEO
 		priority = 1
 	}
 }
