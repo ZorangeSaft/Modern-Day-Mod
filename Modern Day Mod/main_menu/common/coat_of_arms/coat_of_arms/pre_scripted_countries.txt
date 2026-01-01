@@ -13094,7 +13094,7 @@ GEN_griffin = { # Genoese griffin - Another emblem of the city
 }
 
 mdm_GEO = { # mdm modern day mod Georgia
-	pattern = "pattern_cross_georgia.dds"
+	pattern = "mdm_pattern_cross_georgia.dds"
 	color1 = "white"
 	color2 = rgb { 255 0 0 }
 
@@ -13747,7 +13747,7 @@ GRA_border_aragon = { # Granada - Border of Aragon
 }
 
 mdm_GRE = { # mdm modern day mod Greece
-	pattern = "pattern_greece.dds"
+	pattern = "mdm_pattern_greece.dds"
 	color1 = rgb { 5 94 176}
 	color2 = "white"
 }
