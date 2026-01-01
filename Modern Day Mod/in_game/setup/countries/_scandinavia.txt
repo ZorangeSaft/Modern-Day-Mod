@@ -100,15 +100,15 @@ SVO = {
 }
 
 
-ICE = {
-	color = map_icelandic
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = icelandic
-	religion_definition = catholic
-
-	
-}
+#ICE = {
+#	color = map_icelandic
+#	color2 = rgb { 16 41 202 }
+#
+#	culture_definition = icelandic
+#	religion_definition = catholic
+#
+#	
+#}
 
 GRL = {
 	color = map_greeland

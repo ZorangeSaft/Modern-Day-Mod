@@ -1,0 +1,33 @@
+﻿#####mdm modern day mod
+
+CAT = {
+	color = { 190 60 2 }
+	color2 = rgb { 16 41 202 }
+
+	culture_definition = catalan
+	religion_definition = catholic
+
+	
+}
+
+
+GLC = {
+	color = { 240 167 130 }
+	color2 = rgb { 240 167 130 }
+
+	culture_definition = galician
+	religion_definition = catholic
+
+	
+}
+
+
+NAV = {
+	color = rgb { 148 143 140 }
+	color2 = rgb { 148 143 140 }
+
+	culture_definition = basque
+	religion_definition = catholic
+
+	
+}
