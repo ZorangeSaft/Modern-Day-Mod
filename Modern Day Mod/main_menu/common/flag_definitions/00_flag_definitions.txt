@@ -2151,6 +2151,13 @@ GER = { # mdm modern day mod Germany
 	}
 }
 
+GHAN = { # mdm modern day mod Ghana
+	flag_definition = {
+		coa = mdm_GHAN
+		priority = 1
+	}
+}
+
 GNV = { # Geneva
 	flag_definition = {
 		coa = GNV
@@ -2507,6 +2514,13 @@ ITA = { # mdm modern day mod Italy
 	# Default
 	flag_definition = {
 		coa = mdm_ITA
+		priority = 1
+	}
+}
+
+IVOR = { # mdm modern day mod Côte d'Ivoire
+	flag_definition = {
+		coa = mdm_IVOR
 		priority = 1
 	}
 }
