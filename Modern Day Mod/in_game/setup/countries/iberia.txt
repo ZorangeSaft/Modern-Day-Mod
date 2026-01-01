@@ -1,22 +1,4 @@
-﻿CAT = {
-	color = map_CAT
-	color2 = rgb { 16 41 202 }
-
-	culture_definition = catalan
-	religion_definition = catholic
-
-	
-}
-
-ANR = {
-	color = map_ANR
-	color2 = rgb { 16 41 202 }
-	
-	culture_definition = catalan
-	religion_definition = catholic
-}
-
-ARA = {
+﻿ARA = {
 	color = map_ARA
 	color2 = rgb { 16 41 202 }
 	

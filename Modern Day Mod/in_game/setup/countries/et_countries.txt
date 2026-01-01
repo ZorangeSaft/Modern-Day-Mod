@@ -1911,3 +1911,11 @@ ZMW = {
 	difficulty = 2
 }
 
+
+ANR = {
+	color = { 104 113 55 }
+	color2 = rgb { 104 113 55 }
+	
+	culture_definition = catalan
+	religion_definition = catholic
+}
