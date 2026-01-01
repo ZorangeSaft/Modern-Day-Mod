@@ -34904,6 +34904,18 @@ TAI = { # Tairona
 	}		
 }
 
+mdm_TAIW = { # mdm modern day mod Republic of China
+	pattern = "pattern_canton_01.dds"
+	color1 = rgb { 254 0 0 }
+	color2 = rgb { 0 0 149 }
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_china.dds"
+		color1 = "white"
+		instance = { position = { 0.25 0.25 } scale = { 0.376 0.376 } }
+	}
+}
+
 mdm_TAJI = { # mdm modern day mod Tajikistan
 	pattern = "mdm_pattern_tricolor_horizontal_tadjikistan.dds"
 	color1 = rgb { 205 0 0 }
