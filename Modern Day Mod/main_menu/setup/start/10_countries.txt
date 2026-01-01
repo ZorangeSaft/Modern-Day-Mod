@@ -1227,6 +1227,7 @@ countries = {
 		capital = qurain
 	}
 
+
 	KHM = {
 		own_control_core = {
 			angkor angkor_borei angkor_knong banlung banon banteay_chhmar battambang beng_mealea damrey_trom doh_kromum indrapura_khmer ishanapura kampong_saom koh_ker koh_kong kracheh longvek lumphat peam phnom_penh phnom_santuk phnom_srok prasat_andet prasat_don_an prasat_don_kau preah_khan_kompong_svay preah_ko preah_vihear pursat sampheak_borak sandan srey_sarchhor stung_treng tboung_khmum vyadhapura
@@ -1408,6 +1409,7 @@ countries = {
 		capital = klang
 	}
 
+
 	MALT = {
 		own_control_core = {
 			malta
@@ -1419,6 +1421,7 @@ countries = {
 		country_rank = rank_kingdom
 		capital = malta
 	}
+
 
 	MALW = {
 		own_control_core = {
@@ -1983,6 +1986,7 @@ countries = {
 		capital = ayodhya
 	}
 
+
 	SNG = {
 		own_control_core = {
 			temasek
@@ -1995,12 +1999,13 @@ countries = {
 		capital = temasek
 	}
 
+
 	SKNE = {
 		own_control_core = {
 			liamuiga
 		}
 		starting_technology_level = 3
-		include = catholic_monarchy
+		include = "catholic_monarchy"
 		include = "expl_mdm_whole_world"
 		government = {ruler = skne_terrence_drew }
 		country_rank = rank_duchy
@@ -2526,7 +2531,7 @@ countries = {
 
 	#land based countries
 
-	TRAN
+	#TRAN
 
 
 	#building based countries

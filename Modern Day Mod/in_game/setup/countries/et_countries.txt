@@ -1093,6 +1093,16 @@ MAUR = { #didnt use hoi4 color
 }
 
 
+MALT = {
+	color = rgb { 255 255 153 } #hoi4 color
+	color2 = rgb { 255 255 153 } #hoi4 color
+	culture_definition = maltese
+	religion_definition = secularism
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
 MEX = {
 	color = rgb { 104  152  83 } #{ 219  124  139 }
 	color2 = rgb { 104  152  83 } #{ 219  124  139 }
