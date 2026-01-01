@@ -2315,6 +2315,19 @@ countries = {
 	}
 
 
+	TRAN = {
+		own_control_core = {
+			karabul iagorlic
+		}
+		starting_technology_level = 3
+		include = "republic"
+		include = "expl_mdm_whole_world"
+		government = {ruler = random }
+		country_rank = rank_duchy
+		capital = iagorlic
+	}
+
+
 	TUKM = {
 		own_control_core = {
 			barkdiz kusk merv pandjih darganata gazanjyk huday_dag kyzyl_su nyzvar orta_kuyu talaikhan_ata temir_baba urgench uzboy vezir akhsisek amol_turkmenabad daya_kathyn firabr kelif kerki khoja_idat_kala navidakh abiward anew dehistan durun faraveh ganlygala konjikala sarlawuk tejend etrek
