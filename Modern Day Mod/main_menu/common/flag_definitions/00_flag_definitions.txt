@@ -839,6 +839,13 @@ BELA = { # mdm modern day mod Belarus
 	}
 }
 
+BEN = { # mdm modern day mod Benin
+	flag_definition = {
+		coa = mdm_BEN
+		priority = 1
+	}
+}
+
 BER = { # Berry
 	flag_definition = {
 		coa = BER
@@ -850,6 +857,13 @@ BER = { # Berry
 		trigger = {
 			coa_def_discovery_age_3_trigger = yes
 		}
+	}
+}
+
+BHUT = { # mdm modern day mod Bhutan
+	flag_definition = {
+		coa = mdm_BHUT
+		priority = 1
 	}
 }
 
@@ -1355,6 +1369,13 @@ BYZ = { # Byzantium
 	}	
 }
 
+CAME = { # mdm modern day mod Cameroon
+	flag_definition = {
+		coa = mdm_CAME
+		priority = 1
+	}
+}
+
 CAN = { # Canada
 	flag_definition = {
 		coa = CAN
@@ -1658,6 +1679,13 @@ CNN = { # Connacht
 	}
 }
 
+CONG = { # mdm modern day mod Congo
+	flag_definition = {
+		coa = mdm_CONG
+		priority = 1
+	}
+}
+
 COT = { # Cortona    
 	flag_definition = {
 		coa = COT_lion
@@ -1870,6 +1898,13 @@ EPI = { # Epirus
 	}
 }
 
+EQGU = { # mdm modern day mod Equatorial Guinea
+	flag_definition = {
+		coa = mdm_EQGU
+		priority = 1
+	}
+}
+
 ERM = { # Warmia
 	flag_definition = {
 		coa = ERM
@@ -2060,6 +2095,13 @@ FRM = { # Fermo
 	}
 }
 
+GABO = { # mdm modern day mod Gabon
+	flag_definition = {
+		coa = mdm_GABO
+		priority = 1
+	}
+}
+
 GAZ = { # Gazaria
 	flag_definition = {
 		coa = GAZ_castle
@@ -2071,6 +2113,13 @@ GAZ = { # Gazaria
 		trigger = {
 			coa_def_christian_trigger = yes
 		}
+	}
+}
+
+GAMB = { # mdm modern day mod Gambia
+	flag_definition = {
+		coa = mdm_GAMB
+		priority = 1
 	}
 }
 
@@ -2140,6 +2189,13 @@ GEO = { # mdm modern day mod Georgia
 GER = { # mdm modern day mod Germany
 	flag_definition = {
 		coa = mdm_GER
+		priority = 1
+	}
+}
+
+GHAN = { # mdm modern day mod Ghana
+	flag_definition = {
+		coa = mdm_GHAN
 		priority = 1
 	}
 }
@@ -2242,6 +2298,13 @@ GUB = { # Gubbio
 		trigger = {
 			coa_def_ghibellines_trigger = yes
 		}
+	}
+}
+
+GUIN = { # mdm modern day mod Guinea
+	flag_definition = {
+		coa = mdm_GUIN
+		priority = 1
 	}
 }
 
@@ -2497,6 +2560,13 @@ ITA = { # mdm modern day mod Italy
 	}
 }
 
+IVOR = { # mdm modern day mod Côte d'Ivoire
+	flag_definition = {
+		coa = mdm_IVOR
+		priority = 1
+	}
+}
+
 JAP = { # mdm modern day mod Japan
 	flag_definition = {
 		coa = mdm_JAP
@@ -2594,6 +2664,13 @@ KIE = { # Kiev
 	}		
 }
 
+KHM = { # mdm modern day mod Cambodia
+	flag_definition = {
+		coa = mdm_KHM
+		priority = 1
+	}
+}
+
 KOJ = { # Jerusalem
 	flag_definition = {
 		coa = KOJ
@@ -2671,6 +2748,13 @@ KTG = { # Kengtung
 KYRG = { # mdm modern day mod Kyrgyzstan
 	flag_definition = {
 		coa = mdm_KYRG
+		priority = 1
+	}
+}
+
+LAOS = { # mdm modern day mod Laos
+	flag_definition = {
+		coa = mdm_LAOS
 		priority = 1
 	}
 }
@@ -2774,6 +2858,13 @@ LCZ = { # Leczyca
 		trigger = {
 			coa_def_teutonic_order_trigger = yes
 		}
+	}
+}
+
+LIBE = { # mdm modern day mod Liberia
+	flag_definition = {
+		coa = mdm_LIBE
+		priority = 1
 	}
 }
 
@@ -3607,6 +3698,13 @@ NIGE = { # mdm modern day mod Niger
 	}
 }
 
+NIGR = { # mdm modern day mod Nigeria
+	flag_definition = {
+		coa = mdm_NIGR
+		priority = 1
+	}
+}
+
 NKOR = { # mdm modern day mod North Korea
 	flag_definition = {
 		coa = mdm_NKOR
@@ -3687,6 +3785,13 @@ NOV = { # Novgorod
 			coa_def_revolutionary_republic_trigger = yes
 		}
 	}	
+}
+
+NPL = { # mdm modern day mod Nepal
+	flag_definition = {
+		coa = mdm_NPL
+		priority = 1
+	}
 }
 
 NRB = { # Narbonne
@@ -4879,6 +4984,13 @@ SKOR = { # mdm modern day mod South Korea
 	}
 }
 
+SLEO = { # mdm modern day mod Sierra Leone
+	flag_definition = {
+		coa = mdm_SLEO
+		priority = 1
+	}
+}
+
 SLO = { # Slovakia
 	flag_definition = {
 		coa = SLO
@@ -5143,6 +5255,13 @@ TIR = { # Tyrol
 			coa_def_revolutionary_republic_trigger = yes
 		}
 	}	
+}
+
+TOGO = { # mdm modern day mod Togo
+	flag_definition = {
+		coa = mdm_TOGO
+		priority = 1
+	}
 }
 
 TRE = { # Trebizond
@@ -6256,6 +6375,13 @@ VER = { # Verona
 			coa_def_revolutionary_republic_trigger = yes
 		}		
 	}	
+}
+
+VIET = { # mdm modern day mod Vietnam
+	flag_definition = {
+		coa = mdm_VIET
+		priority = 1
+	}
 }
 
 VLS = { # Valois

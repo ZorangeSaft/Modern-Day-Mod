@@ -3200,22 +3200,14 @@ mdm_BELA = { # mdm modern day mod Belarus
 		color1 = color1
 		color2 = "white"
 	}
-
 }
 
-BEN = { # Benin 
-	pattern = "pattern_solid.dds"
-	color1 = hsv360 	{	352 	80	52	}
-	color2 = hsv360 	{	30		10		92	}
-
-	colored_emblem = {
-		texture = "ce_edo_swords_crossed.dds"	
-		color1 = color2
-		color2 = color2	
-		color3 = color1
-		instance = { position = { 0.35 0.5 } scale = { 0.85 0.85 } }							
-	}
-} 
+mdm_BEN = { # mdm modern day mod Benin
+	pattern = "mdm_pattern_left_third_horizontal_split.dds"
+	color1 = rgb { 0 136 80 }
+	color2 = rgb { 252 210 15 }
+	color3 = rgb { 233 9 41 }
+}
 
 BER = { # Berry
 	pattern = "pattern_solid.dds"
@@ -3463,6 +3455,17 @@ BHT = { # Bohtan
 		color2 = color2
 		instance = { position = { 0.9 0.5 } scale = { 0.2 1.0 } }				
 	}	
+}
+
+mdm_BHUT = { # mdm modern day mod Bhutan
+	pattern = "pattern_diagonal_split_03.dds"
+	color1 = rgb { 255 206 0 }
+	color2 = rgb { 255 103 25 }
+
+	textured_emblem = {
+		texture = "mdm_coa_bhutan.dds"
+		instance = { position = { 0.498 0.512 } scale = { 0.781 0.781 } }
+	}
 }
 
 BIA = { # Baia - (Simplified St Hubert's deer design from seals)
@@ -6440,6 +6443,19 @@ CAM = { # Cambrai (Prince-Bishopric)
 	}	
 }
 
+mdm_CAME =  { # mdm modern day mod Cameroon
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 123 94 }
+	color2 = rgb { 207 8 33 }
+	color3 = rgb { 252 210 14 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color3
+		instance = { position = { 0.487 0.5 } scale = { 0.241 0.241 } }
+	}
+}
+
 CAN = { # Canada
 	pattern = "pattern_solid.dds"
 	color1 = "red"
@@ -8826,6 +8842,13 @@ CON = { # Coinan - Tototlan
 		color3 = "white"
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }				
 	}	
+}
+
+mdm_CONG = { # mdm modern day mod Congo
+	pattern = "mdm_pattern_diagonal_stripe_congo.dds"
+	color1 = rgb { 0 152 54 }
+	color2 = rgb { 255 210 0 }
+	color3 = rgb { 221 31 25 }
 }
 
 COR = { # Corsica
@@ -11622,6 +11645,24 @@ EPI = { # Epirus
 	}
 }
 
+mdm_EQGU = { # mdm modern day mod Equatorial Guinea
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 60 155 0 }
+	color2 = "white"
+	color3 = rgb { 228 27 17 }
+
+	colored_emblem = {
+		texture = "mdm_ce_triangle_equatoguinean.dds"
+		color1 = rgb { 0 116 207 }
+		instance = { position = { 0.125 0.5 } }
+	}
+
+	textured_emblem = {
+		texture = "mdm_coa_equatorial_guinea.dds"
+		instance = { scale = { 0.3 0.3 } }
+	}
+}
+
 ERA = { # Eranshahr/Sasanian Empire
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	320	60	38	}
@@ -12826,6 +12867,13 @@ FZA = { # Fezzan
 	}
 }
 
+mdm_GABO = { # mdm modern day mod Gabon
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 158 96 }
+	color2 = rgb { 252 209 22 }
+	color3 = rgb { 58 117 196 }
+}
+
 GAL = { # Gallura
 	pattern = "pattern_solid.dds"
 	color1 = "white"
@@ -12851,6 +12899,18 @@ GAM = { # Guamares (Penxamu)
 		texture = "te_glyph_penxamu.dds"
 		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 } }				
 	}			
+}
+
+mdm_GAMB = { # mdm modern day mod Gambia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 207 8 33 }
+	color2 = rgb { 4 22 141 }
+	color3 = rgb { 55 120 35 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bars_gambian.dds"
+		color1 = "white"
+	}
 }
 
 GAR = { # Garabito
@@ -13079,7 +13139,7 @@ GEN_griffin = { # Genoese griffin - Another emblem of the city
 }
 
 mdm_GEO = { # mdm modern day mod Georgia
-	pattern = "pattern_cross_georgia.dds"
+	pattern = "mdm_pattern_cross_georgia.dds"
 	color1 = "white"
 	color2 = rgb { 255 0 0 }
 
@@ -13151,6 +13211,19 @@ GHA = { # Ghana
 		color1 = color2
 		color2 = color2
 		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 } }
+	}
+}
+
+mdm_GHAN = { # mdm modern day mod Ghana
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 207 9 33 }
+	color2 = rgb { 252 210 15 }
+	color3 = rgb { 0 107 61 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "black"
+		instance = { scale = { 0.333 0.333 } }
 	}
 }
 
@@ -13719,7 +13792,7 @@ GRA_border_aragon = { # Granada - Border of Aragon
 }
 
 mdm_GRE = { # mdm modern day mod Greece
-	pattern = "pattern_greece.dds"
+	pattern = "mdm_pattern_greece.dds"
 	color1 = rgb { 5 94 176}
 	color2 = "white"
 }
@@ -13972,6 +14045,13 @@ GUB_ghibellines = { # Gubbio - Ghibelline variant (plausible, switching to imper
 		color2 = color4
 		instance = { position = { 0.5 0.425 } scale = { 1.0 1.0 } }				
 	}		
+}
+
+mdm_GUIN = { # mdm modern day mod Guinea
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 207 8 33 }
+	color2 = rgb { 252 210 14 }
+	color3 = rgb { 0 149 96 }
 }
 
 GUC = { # Guachichiles
@@ -16589,6 +16669,13 @@ IVG = { # Iveagh
 	}	
 }
 
+mdm_IVOR = { # mdm modern day mod Côte d'Ivoire
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 255 131 0 }
+	color2 = "white"
+	color3 = rgb { 0 155 66 }
+}
+
 IXA = { # Iztapan - Ixtapan
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	40		65		85	} 
@@ -18427,6 +18514,17 @@ KMG = { # Khamag
 	}
 }
 
+mdm_KHM = { # mdm modern day mod Cambodia
+	pattern = "mdm_pattern_border_top_and_bottom.dds"
+	color1 = rgb { 225 0 32 }
+	color2 = rgb { 0 42 162 }
+
+	textured_emblem = {
+		texture = "mdm_coa_cambodia.dds"
+		instance = { scale = { 0.419 0.419 } }
+	}
+}
+
 KMM = { # Cammin - Cross variant otherwise the same as both Trier & Genoa - So called Kamminer Kreuz is a misattribution (Tzamplakon szlachta)
 	pattern = "pattern_solid.dds"
 	color1 = "white"
@@ -19568,6 +19666,18 @@ LAN = { # Lancaster
 	}	
 }
 
+mdm_LAOS = { # mdm modern day mod Laos
+	pattern = "mdm_pattern_border_top_and_bottom.dds"
+	color1 = rgb { 0 35 104 }
+	color2 = rgb { 207 8 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1= "white"
+		instance = { scale = { 0.4 0.4 } }
+	}
+}
+
 LAT = { # Latin Empire
 	pattern = "pattern_solid.dds"
 	color1 = "red"
@@ -20185,6 +20295,19 @@ LIB = { # Libertalia - TODO possibly add legend (for god and liberty) to make it
 		color3 = color1
 		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 } }
 	}	
+}
+
+mdm_LIBE = { # mdm modern day mod Liberia
+	pattern = "mdm_pattern_liberia.dds"
+	color1 = rgb { 192 3 44 }
+	color2 = "white"
+	color3 = rgb { 0 35 104 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.151 0.214 } scale = { 0.247 0.247 } }
+	}
 }
 
 mdm_LIBY = { # mdm modern day mod Libya
@@ -25554,6 +25677,12 @@ mdm_NIGE = { # mdm modern day mod Niger
 	}
 }
 
+mdm_NIGR = { # mdm modern day mod Nigeria
+	pattern = "pattern_vertical_bar_01.dds"
+	color1 = rgb { 0 136 80 }
+	color2 = "white"
+}
+
 mdm_NKOR = { # mdm modern day mod North Korea
 	pattern = "mdm_pattern_north_korea.dds"
 	color1 = rgb { 237 23 32 }
@@ -25876,24 +26005,16 @@ NOV_stripe = { # Stripe at hoist flag in Novgorod colours
 	}
 }
 
-NPL = { # Nepal
+mdm_NPL = { # mdm modern day mod Nepal
 	pattern = "pattern_solid.dds"
-	color1 = "red_scarlet"
-	color2 = "green_light"
-	color3 = "white"
+	color1 = rgb { 221 12 57 }
 
 	colored_emblem = {
-		texture = "ce_border_thin.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }			
+		texture = "mdm_ce_nepali.dds"
+		color1 = { 221 12 57 }
+		color2 = { 0 53 148 }
+		color3 = "white"
 	}
-	colored_emblem = {
-		texture = "ce_nepal_sun_moon.dds"
-		color1 = color3
-		color2 = color3
-		instance = { position = { 0.465 0.505 } scale = { 0.8 0.8 } }			
-	}	
 }
 
 NPV = { # New Providence
@@ -32915,6 +33036,13 @@ SLE = { # Salé
 	}	
 }
 
+mdm_SLEO = { # mdm modern day mod Sierra Leone
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 24 182 55 }
+	color2 = "white"
+	color3 = rgb { 0 115 199 }
+}
+
 SLK = { # Selkups
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	97	65	45	} 	
@@ -36317,7 +36445,20 @@ TNZ = { # Tianzhou
 		color3 = color4
 		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 } }				
 	}			
-} 
+}
+
+mdm_TOGO = { # mdm modern day mod Togo
+	pattern = "mdm_pattern_togo.dds"
+	color1 = rgb { 0 106 77 }
+	color2 = rgb { 255 207 0 }
+	color3 = rgb { 211 8 49 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.186 0.282 } scale = { 0.344 0.344 } }
+	}
+}
 
 TOH = { # Tochtepec
 	pattern = "pattern_solid.dds"
@@ -38592,7 +38733,18 @@ VEZ = { # Vezo
 		color2 = color3	
 		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 } }				
 	}
-} 
+}
+
+mdm_VIET = { # mdm modern day mod Vietnam
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 219 32 23 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 255 255 0 }
+		instance = { position = { 0.5 0.471 } scale = { 0.542 0.542 } }
+	}
+}
 
 VIJ = { # Vijaynagar
 	pattern = "pattern_solid.dds"
