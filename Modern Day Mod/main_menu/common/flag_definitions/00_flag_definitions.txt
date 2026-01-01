@@ -860,6 +860,13 @@ BER = { # Berry
 	}
 }
 
+BHUT = { # mdm modern day mod Bhutan
+	flag_definition = {
+		coa = mdm_BHUT
+		priority = 1
+	}
+}
+
 BLG = { # Bologna
 	flag_definition = {
 		coa = BLG
@@ -3750,6 +3757,13 @@ NOV = { # Novgorod
 			coa_def_revolutionary_republic_trigger = yes
 		}
 	}	
+}
+
+NPL = { # mdm modern day mod Nepal
+	flag_definition = {
+		coa = mdm_NPL
+		priority = 1
+	}
 }
 
 NRB = { # Narbonne
