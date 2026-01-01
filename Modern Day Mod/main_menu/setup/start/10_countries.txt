@@ -2111,7 +2111,7 @@ countries = {
 		starting_technology_level = 3
 		include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = soma_hassan_sheikh_mohamud }
+		government = {ruler = random }
 		country_rank = rank_county
 		capital = hargeisa
 	}
