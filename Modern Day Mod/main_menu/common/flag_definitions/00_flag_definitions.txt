@@ -839,6 +839,13 @@ BELA = { # mdm modern day mod Belarus
 	}
 }
 
+BEN = { # mdm modern day mod Benin
+	flag_definition = {
+		coa = mdm_BEN
+		priority = 1
+	}
+}
+
 BER = { # Berry
 	flag_definition = {
 		coa = BER
@@ -3642,6 +3649,13 @@ NIGE = { # mdm modern day mod Niger
 	}
 }
 
+NIGR = { # mdm modern day mod Nigeria
+	flag_definition = {
+		coa = mdm_NIGR
+		priority = 1
+	}
+}
+
 NKOR = { # mdm modern day mod North Korea
 	flag_definition = {
 		coa = mdm_NKOR
@@ -5185,6 +5199,13 @@ TIR = { # Tyrol
 			coa_def_revolutionary_republic_trigger = yes
 		}
 	}	
+}
+
+TOGO = { # mdm modern day mod Togo
+	flag_definition = {
+		coa = mdm_TOGO
+		priority = 1
+	}
 }
 
 TRE = { # Trebizond

@@ -3200,22 +3200,14 @@ mdm_BELA = { # mdm modern day mod Belarus
 		color1 = color1
 		color2 = "white"
 	}
-
 }
 
-BEN = { # Benin 
-	pattern = "pattern_solid.dds"
-	color1 = hsv360 	{	352 	80	52	}
-	color2 = hsv360 	{	30		10		92	}
-
-	colored_emblem = {
-		texture = "ce_edo_swords_crossed.dds"	
-		color1 = color2
-		color2 = color2	
-		color3 = color1
-		instance = { position = { 0.35 0.5 } scale = { 0.85 0.85 } }							
-	}
-} 
+mdm_BEN = { # mdm modern day mod Benin
+	pattern = "mdm_pattern_left_third_horizontal_split.dds"
+	color1 = rgb { 0 136 80 }
+	color2 = rgb { 252 210 15 }
+	color3 = rgb { 233 9 41 }
+}
 
 BER = { # Berry
 	pattern = "pattern_solid.dds"
@@ -25606,6 +25598,12 @@ mdm_NIGE = { # mdm modern day mod Niger
 	}
 }
 
+mdm_NIGR = { # mdm modern day mod Nigeria
+	pattern = "pattern_vertical_bar_01.dds"
+	color1 = rgb { 0 136 80 }
+	color2 = "white"
+}
+
 mdm_NKOR = { # mdm modern day mod North Korea
 	pattern = "mdm_pattern_north_korea.dds"
 	color1 = rgb { 237 23 32 }
@@ -36376,7 +36374,20 @@ TNZ = { # Tianzhou
 		color3 = color4
 		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 } }				
 	}			
-} 
+}
+
+mdm_TOGO = { # mdm modern day mod Togo
+	pattern = "mdm_pattern_togo.dds"
+	color1 = rgb { 0 106 77 }
+	color2 = rgb { 255 207 0 }
+	color3 = rgb { 211 8 49 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.186 0.282 } scale = { 0.344 0.344 } }
+	}
+}
 
 TOH = { # Tochtepec
 	pattern = "pattern_solid.dds"
