@@ -1593,6 +1593,16 @@ SOML = { #went to color wheel and picked bright green
 }
 
 
+SOSE = { #color of the yellow on their flag
+	color = rgb { 255 207 0 }
+	color2 = rgb { 255 207 0 }
+	culture_definition = alan_culture
+	religion_definition = secularism
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
 SPA = {
 	color = rgb { 242  205  94 } #{ 231  181  12 }
 	color2 = rgb { 242  205  94 } #{ 231  181  12 }

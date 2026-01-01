@@ -877,7 +877,10 @@ countries = {
 
 	GEO = {
 		own_control_core = {
-			akhalkalaki akhaltsikhe alaverdi anaklia batumi bodbe dmanisi dusheti gori gremi kasriskari khikhani khornabuji kldekari kutaisi kvenipnevi lentekhi mtskheta ozurgeti poti_caucasus rustavi shatili shorapani skande tbilisi telavi tmogvi tsageri tsagvli tsalenjikha tsesi ushguli vartsikhe jariekhi omalo
+			akhalkalaki akhaltsikhe alaverdi anaklia batumi bodbe dmanisi dusheti gori gremi khikhani khornabuji kldekari kutaisi lentekhi mtskheta ozurgeti poti_caucasus rustavi shatili shorapani skande tbilisi telavi tmogvi tsageri tsalenjikha tsesi ushguli vartsikhe omalo
+		}
+		our_cores_conquered_by_others = {
+			pitsunda anacopia sukhumi lata_georgia bedia kvenipnevi tsagvli jariekhi kasriskari
 		}
 		starting_technology_level = 3
 		include = "republic"
@@ -2141,6 +2144,19 @@ countries = {
 		government = {ruler = random }
 		country_rank = rank_county
 		capital = hargeisa
+	}
+
+
+	SOSE = {
+		own_control_core = {
+			kvenipnevi tsagvli jariekhi kasriskari
+		}
+		starting_technology_level = 3
+		include = "republic"
+		include = "expl_mdm_whole_world"
+		government = {ruler = random }
+		country_rank = rank_duchy
+		capital = kvenipnevi
 	}
 
 
