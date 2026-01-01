@@ -1273,9 +1273,9 @@ NZEA = {
 }
 
 
-OMA = {
-	color = rgb { 155  101  107 } #{ 98  134  153 }
-	color2 = rgb { 155  101  107 } #{ 98  134  153 }
+OMA = { #didnt use hoi4 color
+	color = rgb { 98  134  153 } #{ 155  101  107 } #{ 98  134  153 }
+	color2 = rgb { 98  134  153 } #{ 155  101  107 } #{ 98  134  153 }
 	culture_definition = omani_culture
 	religion_definition = ibadi
 	description_category = diplomatic
@@ -1872,9 +1872,9 @@ VIET = { #the color of the yellow on their irl flag
 }
 
 
-YEM = {
-	color = rgb { 155  101  107 } #{ 106 38 44 }
-	color2 = rgb { 155  101  107 } #{ 106 38 44 }
+YEM = { #didnt use hoi4 color
+	color = rgb { 106 38 44 } #{ 155  101  107 } #{ 106 38 44 }
+	color2 = rgb { 106 38 44 } #{ 155  101  107 } #{ 106 38 44 }
 	culture_definition = yemeni_culture
 	religion_definition = shia
 	description_category = diplomatic
