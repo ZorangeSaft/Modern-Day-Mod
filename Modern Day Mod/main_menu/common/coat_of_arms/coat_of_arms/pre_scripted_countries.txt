@@ -4476,7 +4476,7 @@ mdm_BOSH = { # mdm modern day mod Bosnia and Herzegovinia
 }
 
 mdm_BOTS = { # mdm modern day mod Botswana
-	pattern = "pattern_horizontal_stripes_botswana.dds"
+	pattern = "mdm_pattern_horizontal_stripes_botswana.dds"
 	color1 = rgb { 109 171 211 }
 	color2 = "black"
 	color3 = "white"
@@ -9030,7 +9030,7 @@ CPN = { # Choapan/Tzoapan
 }
 
 mdm_CPVR = { # mdm modern day mod Cabo Verde
-	pattern = "pattern_horizontal_stripes_cabo_verde.dds"
+	pattern = "mdm_pattern_horizontal_stripes_cabo_verde.dds"
 	color1 = rgb { 0 53 148 }
 	color2 = rgb { 208 26 34 }
 	color3 = "white"
