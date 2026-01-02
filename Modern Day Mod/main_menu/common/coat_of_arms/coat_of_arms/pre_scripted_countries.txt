@@ -38005,6 +38005,18 @@ UFF = { # Uffenheim/Hohenlohe
 	}
 }
 
+mdm_UGAN = { # mdm modern day mod Uganda
+	pattern = "mdm_pattern_uganda.dds"
+	color1 = "black"
+	color2 = rgb { 252 221 0}
+	color3 = rgb { 218 0 0 }
+
+	textured_emblem = {
+		texture = "mdm_coa_uganda.dds"
+		instance = { scale = { 0.311 0.311 } }
+	}
+}
+
 UGH = { # Oghan/Ughanid clan
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"

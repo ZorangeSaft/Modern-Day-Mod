@@ -5487,6 +5487,13 @@ UBV = { # Upper Bavaria
 	}
 }
 
+UGAN = { # mdm modern day mod Uganda
+	flag_definition = {
+		coa = mdm_UGAN
+		priority = 1
+	}
+}
+
 UKR = { # mdm modern day mod Ukraine
 	flag_definition = {
 		coa = mdm_UKR
