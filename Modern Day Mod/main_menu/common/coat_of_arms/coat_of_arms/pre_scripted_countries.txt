@@ -4475,6 +4475,13 @@ mdm_BOSH = { # mdm modern day mod Bosnia and Herzegovinia
 	}
 }
 
+mdm_BOTS = { # mdm modern day mod Botswana
+	pattern = "pattern_horizontal_stripes_botswana.dds"
+	color1 = rgb { 109 171 211 }
+	color2 = "black"
+	color3 = "white"
+}
+
 BOU_ancient = { # Bourbon Ancient (Dampierre)
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"
@@ -24789,6 +24796,24 @@ NAM_tricolor = { # Namur - Tricolor per bend
 		color1 = color1
 		color2 = color2
 		color3 = color3
+	}
+}
+
+mdm_NAMI = { # mdm modern day mod Namibia
+	pattern = "pattern_diagonal_split_03.dds"
+	color1 = rgb { 0 43 108 }
+	color2 = rgb { 0 155 66 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_diagonal_namibia.dds"
+		color1 = rgb { 201 8 42 }
+		color2 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_namibia.dds"
+		color1 = rgb { 255 206 0 }
+		instance = { position = { 0.2 0.273 } scale = { 0.33 0.33 } }
 	}
 }
 

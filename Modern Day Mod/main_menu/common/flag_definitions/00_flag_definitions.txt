@@ -1003,6 +1003,13 @@ BOSH = { # mdm modern day mod Bosnia and Herzegovinia
 	}
 }
 
+BOTS = { # mdm modern day mod Botswana
+	flag_definition = {
+		coa = mdm_BOTS
+		priority = 1
+	}
+}
+
 BOU = { # Bourbonnais
 	flag_definition = {
 		coa = BOU_ancient
@@ -3565,6 +3572,13 @@ NAM = { # Namur
 			coa_def_revolutionary_republic_trigger = yes
 		}
 	}	
+}
+
+NAMI = { # mdm modern day mod Namibia
+	flag_definition = {
+		coa = mdm_NAMI
+		priority = 1
+	}
 }
 
 NAP = { # Naples
