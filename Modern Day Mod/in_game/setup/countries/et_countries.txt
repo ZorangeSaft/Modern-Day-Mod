@@ -28,9 +28,9 @@ ALB = {
 }
 
 
-ALG = { #didnt use hoi4 color
-	color = rgb { 230  225  110 } #{ 153 102 51 } #{ 230  225  110 }
-	color2 = rgb { 230  225  110 } #{ 153 102 51 } #{ 230  225  110 }
+ALG = {
+	color = rgb { 0 102 51 } # Algeria flag green
+	color2 = rgb { 0 102 51 }
 	culture_definition = algerian
 	religion_definition = sunni
 	description_category = diplomatic
@@ -48,9 +48,9 @@ ANBR = {
 }
 
 
-ANGO = { #didnt use hoi4 color
-	color = rgb { 189  140  39 } #{ 155  135  195 } #{ 189  140  39 }
-	color2 = rgb { 189  140  39 } #{ 155  135  195 } #{ 189  140  39 }
+ANGO = {
+	color = rgb { 47 47 47 } # Angola flag black (lighted up)
+	color2 = rgb { 47 47 47 }
 	culture_definition = ambundu
 	religion_definition = secularism
 	description_category = diplomatic
@@ -109,8 +109,8 @@ BAHA = {
 
 
 BAHR = {
-	color = rgb { 230 0 0 } #{ 170  80  40 }
-	color2 = rgb { 230 0 0 } #{ 170  80  40 }
+	color = rgb { 218 41 28 } # Bahrain flag color
+	color2 = rgb { 218 41 28 }
 	culture_definition = bahrani_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -217,8 +217,8 @@ BOSH = {
 
 
 BOTS = {
-	color = rgb { 129  129  199 } #{ 55  235  95 } #{ 129  129  199 }
-	color2 = rgb { 129  129  199 } #{ 55  235  95 } #{ 129  129  199 }
+	color = rgb { 109 171 211 } # Botswana flag blue
+	color2 = rgb { 109 171 211 }
 	culture_definition = tswana_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -236,9 +236,9 @@ BRAZ = {
 }
 
 
-BUFA = { #todo: do this later, because it isnt called burkina faso in hoi4
-	color = rgb { 19  147  22 }
-	color2 = rgb { 19  147  22 }
+BUFA = {
+	color = rgb { 0 159 71 } # Burkina Faso flag green
+	color2 = rgb { 0 159 71 }
 	culture_definition = mossi
 	religion_definition = secularism
 	description_category = diplomatic
@@ -257,8 +257,8 @@ BUL = {
 
 
 BUU = {
-	color = rgb { 204 153 0 } #{ 21 191 16 }
-	color2 = rgb { 204 153 0 } #{ 21 191 16 }
+	color = rgb { 201 8 42 } # Burundi flag red
+	color2 = rgb { 201 8 42 }
 	culture_definition = rwanda_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -267,8 +267,8 @@ BUU = {
 
 
 CAFR = {
-	color = rgb { 153 0 0 } #{ 89  7  162 }
-	color2 = rgb { 153 0 0 } #{ 89  7  162 }
+	color = rgb { 255 207 0 } # Central African Republic flag yellow
+	color2 = rgb { 255 207 0 }
 	culture_definition = gbaya_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -277,8 +277,8 @@ CAFR = {
 
 
 CAME = {
-	color = rgb { 255 51 0 } #{ 149  117  62 }
-	color2 = rgb { 255 51 0 } #{ 149  117  62 }
+	color = rgb { 207 8 33 } # Cameroon flag red
+	color2 = rgb { 207 8 33 }
 	culture_definition = bassa_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -297,8 +297,8 @@ CAN = {
 
 
 CHAD = {
-	color = rgb { 204 255 204 } #{ 49  17  162 }
-	color2 = rgb { 204 255 204 } #{ 49  17  162 }
+	color = rgb { 0 32 91 } # Chad flag blue
+	color2 = rgb { 0 32 91 }
 	culture_definition = kanembu_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -336,9 +336,9 @@ COLO = {
 }
 
 
-COMO = { #not a country in hoi4
-	color = rgb { 29  140  199 }
-	color2 = rgb { 29  140  199 }
+COMO = {
+	color = rgb { 239 48 62 } # Comoros flag red
+	color2 = rgb { 239 48 62 }
 	culture_definition = swahili_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -346,9 +346,9 @@ COMO = { #not a country in hoi4
 }
 
 
-CONG = { #small congo, idk what this is in hoi4
-	color = rgb { 189  130  109 }
-	color2 = rgb { 189  130  109 }
+CONG = {
+	color = rgb { 251 223 73 } # Republic of the Congo emblem yellow
+	color2 = rgb { 251 223 73 }
 	culture_definition = kongo
 	religion_definition = secularism
 	description_category = diplomatic
@@ -366,9 +366,9 @@ COST = { #went to color wheel and picked golden yellow
 }
 
 
-CPVR = { #couldnt find in hoi4, come back later (todo)
-	color = rgb { 129  117  175 }
-	color2 = rgb { 129  117  175 }
+CPVR = {
+	color = rgb { 0 53 148 } # Cabo Verde flag blue
+	color2 = rgb { 0 53 148 }
 	culture_definition = portuguese
 	religion_definition = secularism
 	description_category = diplomatic
@@ -397,8 +397,8 @@ CUBA = { #went to color wheel and picked teal
 
 
 CYP = {
-	color = rgb { 255 204 0 } #{ 245 200 30 }
-	color2 = rgb { 255 204 0 } #{ 245 200 30 }
+	color = rgb { 215 122 0 } # Cyprus flag orange
+	color2 = rgb { 215 122 0 }
 	culture_definition = greek_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -437,8 +437,8 @@ DGL = { #the maldives
 
 
 DJIB = {
-	color = rgb { 0 102 153 } #{ 66  140  190 }
-	color2 = rgb { 0 102 153 } #{ 66  140  190 }
+	color = rgb { 106 180 232 } # Djibouti flag blue
+	color2 = rgb { 106 180 232 }
 	culture_definition = somali_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -467,8 +467,8 @@ DOMR = { #didnt use hoi4 color here
 
 
 DRCO = {
-	color = rgb { 155  135  255 } #{ 109  130  189 } #hoi4 "CONG" color, which i think is for the big congo ?
-	color2 = rgb { 155  135  255 } #{ 109  130  189 }
+	color = rgb { 0 128 255 } # Democratic Republic of the Congo flag blue
+	color2 = rgb { 0 128 255 }
 	culture_definition = kongo
 	religion_definition = secularism
 	description_category = diplomatic
@@ -507,8 +507,8 @@ ELSA = { #didnt use hoi4 color here
 
 
 EQGU = {
-	color = rgb { 255 204 0 } #{ 169  17  148 }
-	color2 = rgb { 255 204 0 } #{ 169  17  148 }
+	color = rgb { 255 255 255 } # Equatorial Guinea flag white
+	color2 = rgb { 255 255 255 }
 	culture_definition = castilian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -517,8 +517,8 @@ EQGU = {
 
 
 ERIT = {
-	color = rgb { 153 51 0 } #{ 26  80  151 }
-	color2 = rgb { 153 51 0 } #{ 26  80  151 }
+	color = rgb { 229 0 39 } # Eritrea flag red
+	color2 = rgb { 229 0 39 }
 	culture_definition = tigrinya
 	religion_definition = secularism
 	description_category = diplomatic
@@ -536,9 +536,9 @@ ESTO = {
 }
 
 
-ESWA = { #not in hoi4
-	color = rgb { 149  109  189 }
-	color2 = rgb { 149  109  189 }
+ESWA = {
+	color = rgb { 179 4 4 } # Eswatini flag red
+	color2 = rgb { 179 4 4 }
 	culture_definition = nguni_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -546,8 +546,8 @@ ESWA = { #not in hoi4
 }
 
 ETIM = {
-	color = rgb { 128 0 0 } #{ 160  166  167 }
-	color2 = rgb { 128 0 0 } #{ 160  166  167 }
+	color = rgb { 255 200 4 } # Timor-Leste flag yellow
+	color2 = rgb { 255 200 4 }
 	culture_definition = tetum_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -556,8 +556,8 @@ ETIM = {
 
 
 ETH = {
-	color = rgb { 152  130  191 } #{ 56  120  191 }
-	color2 = rgb { 152  130  191 } #{ 56  120  191 }
+	color = rgb { 252 222 2 } # Ethiopia flag yellow
+	color2 = rgb { 252 222 2 }
 	culture_definition = amhara
 	religion_definition = secularism
 	description_category = diplomatic
@@ -596,8 +596,8 @@ FRA = { #didnt use hoi4 color here
 
 
 GABO = {
-	color = rgb { 51 204 204 } #{ 49  117  92 }
-	color2 = rgb { 51 204 204 } #{ 49  117  92 }
+	color = rgb { 58 117 196 } # Gabon flag blue
+	color2 = rgb { 58 117 196 }
 	culture_definition = fang_gabun
 	religion_definition = secularism
 	description_category = diplomatic
@@ -605,9 +605,9 @@ GABO = {
 }
 
 
-GAMB = { #didnt use hoi4 color
-	color = rgb { 109  157  48 } #{ 153 0 0 } #{ 109  157  48 }
-	color2 = rgb { 109  157  48 } #{ 153 0 0 } #{ 109  157  48 }
+GAMB = {
+	color = rgb { 67 80 170 } # Gambia flag blue (symbolizing the river) mixed 3 to 1 with white
+	color2 = rgb { 67 80 170 }
 	culture_definition = wolof
 	religion_definition = secularism
 	description_category = diplomatic
@@ -616,8 +616,8 @@ GAMB = { #didnt use hoi4 color
 
 
 GBIS = {
-	color = rgb { 153 102 0 } #{ 69  57  48 }
-	color2 = rgb { 153 102 0 } #{ 69  57  48 }
+	color = rgb { 63 63 63 } # Guinea-Bissau flag black (lighted up)
+	color2 = rgb { 63 63 63 }
 	culture_definition = wolof
 	religion_definition = secularism
 	description_category = diplomatic
@@ -655,9 +655,9 @@ GER = {
 }
 
 
-GHAN = { #didnt use hoi4 color
-	color = rgb { 165  155  105 } #{ 102 102 51 } #{ 165  155  105 }
-	color2 = rgb { 165  155  105 } #{ 102 102 51 } #{ 165  155  105 }
+GHAN = {
+	color = rgb { 252 210 14 } # Ghana flag yellow
+	color2 = rgb { 252 210 14 }
 	culture_definition = akan
 	religion_definition = secularism
 	description_category = diplomatic
@@ -836,8 +836,8 @@ ITA = {
 
 
 IVOR = {
-	color = rgb { 255 255 204 } #{ 219  197  22 }
-	color2 = rgb { 255 255 204 } #{ 219  197  22 }
+	color = rgb { 255 131 0 } # Côte d'Ivoire flag orange
+	color2 = rgb { 255 131 0 }
 	culture_definition = akan
 	religion_definition = secularism
 	description_category = diplomatic
@@ -885,9 +885,9 @@ KAZK = {
 }
 
 
-KENY = { #didnt use hoi4 color
-	color = rgb { 151  51  55 } #{ 255  57  195 } #{ 151  51  55 }
-	color2 = rgb { 151  51  55 } #{ 255  57  195 } #{ 151  51  55 }
+KENY = {
+	color = rgb { 188 0 0 }
+	color2 = rgb { 188 0 0 }
 	culture_definition = maasai_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -973,9 +973,9 @@ LEBA = {
 }
 
 
-LESO = { #not in hoi4
-	color = rgb { 49  109  89 }
-	color2 = rgb { 49  109  89 }
+LESO = {
+	color = rgb { 0 155 66 } # Lesotho flag green
+	color2 = rgb { 0 155 66 }
 	culture_definition = nguni_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -983,9 +983,9 @@ LESO = { #not in hoi4
 }
 
 
-LIBE = { #didnt use hoi4 color
-	color = rgb { 69  147  222 } #{ 152  130  191 } #{ 69  147  222 }
-	color2 = rgb { 69  147  222 } #{ 152  130  191 } #{ 69  147  222 }
+LIBE = {
+	color = rgb { 0 35 104 } # Liberia flag blue
+	color2 = rgb { 0 35 104 }
 	culture_definition = mandinka
 	religion_definition = secularism
 	description_category = diplomatic
@@ -993,9 +993,9 @@ LIBE = { #didnt use hoi4 color
 }
 
 
-LIBY = { #didnt use hoi4 color
-	color = rgb { 0  180  0 } #{ 200 180 90 } #{ 0  180  0 }
-	color2 = rgb { 0  180  0 } #{ 200 180 90 } #{ 0  180  0 }
+LIBY = {
+	color = rgb { 39 39 39 } # Libya flag black (lighted up)
+	color2 = rgb { 39 39 39 }
 	culture_definition = tunisian
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1034,8 +1034,8 @@ MACE = {
 
 
 MADA = {
-	color = rgb { 255 255 153 } #{ 169  50  129 }
-	color2 = rgb { 255 255 153 } #{ 169  50  129 }
+	color = rgb { 249 64 55 } # Madagascar flag orange
+	color2 = rgb { 249 64 55 }
 	culture_definition = sakalava_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1043,9 +1043,9 @@ MADA = {
 }
 
 
-MAL = { #didnt use hoi4 color
-	color = rgb { 255  255  185 } #{ 204 204 255 } #{ 255  255  185 }
-	color2 = rgb { 255  255  185 } #{ 204 204 255 } #{ 255  255  185 }
+MAL = {
+	color = rgb { 207 8 33 } # Mali flag red
+	color2 = rgb { 207 8 33 }
 	culture_definition = bambara
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1064,8 +1064,8 @@ MALA = {
 
 
 MALW = {
-	color = rgb { 153 204 0 } #{ 59  50  99 }
-	color2 = rgb { 153 204 0 } #{ 59  50  99 }
+	color = rgb { 207 8 33 } # Malawi flag red
+	color2 = rgb { 207 8 33 }
 	culture_definition = sena
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1093,9 +1093,9 @@ MART = { #not in hoi4
 }
 
 
-MAUR = { #didnt use hoi4 color
-	color = rgb { 69  217  48 } #{ 255 153 153 } #{ 69  217  48 }
-	color2 = rgb { 69  217  48 } #{ 255 153 153 } #{ 69  217  48 }
+MAUR = {
+	color = rgb { 0 135 87 } # Mauritius flag green
+	color2 = rgb { 0 135 87 }
 	culture_definition = masmuda
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1104,8 +1104,8 @@ MAUR = { #didnt use hoi4 color
 
 
 MALT = {
-	color = rgb { 255 255 153 } #hoi4 color
-	color2 = rgb { 255 255 153 } #hoi4 color
+	color = rgb { 208 12 38 } # Malta flag red
+	color2 = rgb { 208 12 38 }
 	culture_definition = maltese
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1143,9 +1143,9 @@ MICR = {
 }
 
 
-MOLD = { #used the color of walachia
-	color = rgb { 82 160 242 } #{ 131  96  188 } #{ 255 204 204 } #{ 131  96  188 }
-	color2 = rgb { 82 160 242 } #{ 131  96  188 } #{ 255 204 204 } #{ 131  96  188 }
+MOLD = {
+	color = rgb { 255 210 0 } # Moldova flag yellow
+	color2 = rgb { 255 210 0 }
 	culture_definition = wallachian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1173,9 +1173,9 @@ MOR = { #didnt use hoi4 color
 }
 
 
-MOZA = { #didnt use hoi4 color after all
-	color = rgb { 129  180  39 } #{ 255  135  195 } #{ 129  180  39 }
-	color2 = rgb { 129  180  39 } #{ 255  135  195 } #{ 129  180  39 }
+MOZA = {
+	color = rgb { 252 225 0 } # Mozambique flag yellow
+	color2 = rgb { 252 225 0 }
 	culture_definition = bantu
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1193,9 +1193,9 @@ MYAN = {
 }
 
 
-NAMI = { #didnt use hoi4 color
-	color = rgb { 129  129  29 } #{ 229 204 255 } #{ 129  129  29 }
-	color2 = rgb { 129  129  29 } #{ 229 204 255 } #{ 129  129  29 }
+NAMI = {
+	color = rgb { 0 155 66 } # Namibia flag green
+	color2 = rgb { 0 155 66 }
 	culture_definition = herero
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1224,8 +1224,8 @@ NICR = { #went to color wheel and picked light blue
 
 
 NIGE = {
-	color = rgb { 255 153 102 } #{ 149  117  22 }
-	color2 = rgb { 255 153 102 } #{ 149  117  22 }
+	color = rgb { 225 81 1 } # Niger flag orange
+	color2 = rgb { 225 81 1 }
 	culture_definition = hausa
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1233,9 +1233,9 @@ NIGE = {
 }
 
 
-NIGR = { #didnt use hoi4 color here
-	color = rgb { 49  217  122 } #{ 255 204 102 } #{ 49  217  122 }
-	color2 = rgb { 49  217  122 } #{ 255 204 102 } #{ 49  217  122 }
+NIGR = {
+	color = rgb { 0 136 80 } # Nigeria flag green
+	color2 = rgb { 0 136 80 }
 	culture_definition = hausa
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1334,8 +1334,8 @@ PANA = {
 
 
 PAPU = {
-	color = rgb { 153 0 76 } #{ 129  37  28 }
-	color2 = rgb { 153 0 76 } #{ 129  37  28 }
+	color = rgb { 31 31 31 } # Papua New Guinea flag black (lighted up)
+	color2 = rgb { 31 31 31 }
 	culture_definition = asmat_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1394,8 +1394,8 @@ POR = {
 
 
 QATA = {
-	color = rgb { 128 0 0 } #{ 130  100  30 }
-	color2 = rgb { 128 0 0 } #{ 130  100  30 }
+	color = rgb { 138 21 56 } # Qatar flag color
+	color2 = rgb { 138 21 56 }
 	culture_definition = bahrani_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1424,8 +1424,8 @@ RUS = { #didnt use hoi4 { 125  13  24 } here, because that is soviet union red
 
 
 RWA = {
-	color = rgb { 255 255 102 } #{ 213 160 18 }
-	color2 = rgb { 255 255 102 } #{ 213 160 18 }
+	color = rgb { 230 191 0 } # Rwanda flag yellow (sun)
+	color2 = rgb { 230 191 0 }
 	culture_definition = rwanda_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1433,9 +1433,9 @@ RWA = {
 }
 
 
-SAFR = { #didnt use hoi4 color after all
-	color = rgb { 199  124  69 } #{ 152 130 191 } #{ 199  124  69 }
-	color2 = rgb { 199  124  69 } #{ 152 130 191 } #{ 199  124  69 }
+SAFR = {
+	color = rgb { 0 12 138 } # South Africa flag blue
+	color2 = rgb { 0 12 138 }
 	culture_definition = nguni_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1463,9 +1463,9 @@ SAUD = { #didnt use hoi4 color
 }
 
 
-SENE = { #didnt use hoi4 color
-	color = rgb { 169  217  48 } #{ 204 51 0 } #{ 169  217  48 }
-	color2 = rgb { 169  217  48 } #{ 204 51 0 } #{ 169  217  48 }
+SENE = {
+	color = rgb { 253 240 64 } # Senegal flag yellow
+	color2 = rgb { 253 240 64 }
 	culture_definition = wolof
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1483,9 +1483,9 @@ SER = {
 }
 
 
-SEYC = { #not in hoi4
-	color = rgb { 69  217  148 }
-	color2 = rgb { 69  217  148 }
+SEYC = {
+	color = rgb { 254 210 63 } # Seychelles flag yellow
+	color2 = rgb { 254 210 63 }
 	culture_definition = french
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1523,9 +1523,9 @@ SKOR = { #didnt use hoi4 korea color
 }
 
 
-SLEO = { #didnt use hoi4 color
-	color = rgb { 169  197  148 } #{ 204 102 255 } #{ 169  197  148 }
-	color2 = rgb { 169  197  148 } #{ 204 102 255 } #{ 169  197  148 }
+SLEO = {
+	color = rgb { 0 115 199 } # Sierra Leone flag blue
+	color2 = rgb { 0 115 199 }
 	culture_definition = wolof
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1564,8 +1564,8 @@ SLUC = { #not in hoi4
 
 
 SOLO = {
-	color = rgb { 20 20 90 } #{ 129  137  222 }
-	color2 = rgb { 20 20 90 } #{ 129  137  222 }
+	color = rgb { 0 81 186 } # Solomon Islands flag blue
+	color2 = rgb { 0 81 186 }
 	culture_definition = tiri_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1574,8 +1574,8 @@ SOLO = {
 
 
 SOMA = {
-	color = rgb { 51 102 0 } #{ 206  110  240 }
-	color2 = rgb { 51 102 0 } #{ 206  110  240 }
+	color = rgb { 63 144 223 } # Somalia flag blue
+	color2 = rgb { 63 144 223 }
 	culture_definition = somali_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1583,9 +1583,9 @@ SOMA = {
 }
 
 
-SOML = { #went to color wheel and picked bright green
-	color = rgb { 66 237 66 }
-	color2 = rgb { 66 237 66 }
+SOML = {
+	color = rgb { 0 109 27 } # Somaliland flag green
+	color2 = rgb { 0 109 27 }
 	culture_definition = somali_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1623,9 +1623,9 @@ SRLA = {
 }
 
 
-SSUD = { #not in hoi4
-	color = rgb { 184  130  52 }
-	color2 = rgb { 184  130  52 }
+SSUD = {
+	color = rgb { 0 183 242 } # South Sudan flag blue
+	color2 = rgb { 0 183 242 }
 	culture_definition = dinka_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1633,9 +1633,9 @@ SSUD = { #not in hoi4
 }
 
 
-STPR = { #not in hoi4
-	color = rgb { 29  190  119 }
-	color2 = rgb { 29  190  119 }
+STPR = {
+	color = rgb { 0 152 54 } # São Tomé and Príncipe flag green
+	color2 = rgb { 0 152 54 }
 	culture_definition = portuguese
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1644,8 +1644,8 @@ STPR = { #not in hoi4
 
 
 SUDA = {
-	color = rgb { 204 102 0 } #{ 84  180  152 }
-	color2 = rgb { 204 102 0 } #{ 84  180  152 }
+	color = rgb { 151 123 55 } # Sudan emblem (gold version) gold
+	color2 = rgb { 151 123 55 }
 	culture_definition = sudanese_arab
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1723,9 +1723,9 @@ TAJI = {
 }
 
 
-TANZ = { #didnt use hoi4 color
-	color = rgb { 111  181  185 } #{ 255 204 153 } #{ 111  181  185 }
-	color2 = rgb { 111  181  185 } #{ 255 204 153 } #{ 111  181  185 }
+TANZ = {
+	color = rgb { 30 181 58 } # Tanzania flag green
+	color2 = rgb { 30 181 58 }
 	culture_definition = nyamwezi_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1744,8 +1744,8 @@ TOG = { #not in hoi4
 
 
 TOGO = {
-	color = rgb { 0 102 0 } #{ 99  17  122 }
-	color2 = rgb { 0 102 0 } #{ 99  17  122 }
+	color = rgb { 211 8 49 } # Togo flag red
+	color2 = rgb { 211 8 49 }
 	culture_definition = yoruba
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1813,8 +1813,8 @@ TUVL = { #not in hoi4
 
 
 UAEM = {
-	color = rgb { 102 102 0 } #{ 140  20  170 }
-	color2 = rgb { 102 102 0 } #{ 140  20  170 }
+	color = rgb {153 126 83 } # Emirates (airline) logo gold
+	color2 = rgb {153 126 83 }
 	culture_definition = bahrani_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1823,8 +1823,8 @@ UAEM = {
 
 
 UGAN = {
-	color = rgb { 255 80 80 } #{ 151  141  55 }
-	color2 = rgb { 255 80 80 } #{ 151  141  55 }
+	color = rgb { 55 55 55 } # Uganda flag black (lighted up)
+	color2 = rgb { 55 55 55 }
 	culture_definition = baganda_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1872,9 +1872,9 @@ UZBE = {
 }
 
 
-VANU = { #not in hoi4
-	color = rgb { 129  137  122 }
-	color2 = rgb { 129  137  122 }
+VANU = {
+	color = rgb { 0 150 65 } # Vanuatu flag green
+	color2 = rgb { 0 150 65 }
 	culture_definition = tiri_culture
 	religion_definition = catholic
 	description_category = diplomatic
@@ -1912,9 +1912,9 @@ YEM = { #didnt use hoi4 color
 }
 
 
-ZAMB = { #didnt use hoi4 color after all
-	color = rgb { 29  180  129 } #{ 102 102 255 } #{ 29  180  129 }
-	color2 = rgb { 29  180  129 } #{ 102 102 255 } #{ 29  180  129 }
+ZAMB = {
+	color = rgb { 249 153 13 } # Zambia flag orange
+	color2 = rgb { 249 153 13 }
 	culture_definition = bemba
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1923,8 +1923,8 @@ ZAMB = { #didnt use hoi4 color after all
 
 
 ZMW = {
-	color = rgb { 155  255  195 } #{ 146  134  78 }
-	color2 = rgb { 155  255  195 } #{ 146  134  78 }
+	color = rgb { 213 0 0 } # Zimbabwe flag red
+	color2 = rgb { 213 0 0 }
 	culture_definition = shona_culture
 	religion_definition = secularism
 	description_category = diplomatic

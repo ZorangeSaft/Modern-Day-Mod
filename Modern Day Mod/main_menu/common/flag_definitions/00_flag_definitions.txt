@@ -558,6 +558,13 @@ ANJ = { # Anjou
 	}
 }
 
+ANR = { # mdm modern day mod Andorra
+	flag_definition = {
+		coa = mdm_ANR
+		priority = 1
+	}
+}
+
 AQN = { # Aquitaine
 	# AQN - GO lion passant guardant
 	# AQN_capetian - Qtly w/ france modern (same principle as Berry-Aquitaine)
@@ -992,6 +999,13 @@ BOS = { # Bosnia
 BOSH = { # mdm modern day mod Bosnia and Herzegovinia
 	flag_definition = {
 		coa = mdm_BOSH
+		priority = 1
+	}
+}
+
+BOTS = { # mdm modern day mod Botswana
+	flag_definition = {
+		coa = mdm_BOTS
 		priority = 1
 	}
 }
@@ -1727,6 +1741,13 @@ COT = { # Cortona
 			coa_def_PAP_ensign_trigger = yes
 		}
 	}		
+}
+
+CPVR = { # mdm modern day mod Cabo Verde
+	flag_definition = {
+		coa = mdm_CPVR
+		priority = 1
+	}
 }
 
 CRI = { # Crimea
@@ -3551,6 +3572,13 @@ NAM = { # Namur
 			coa_def_revolutionary_republic_trigger = yes
 		}
 	}	
+}
+
+NAMI = { # mdm modern day mod Namibia
+	flag_definition = {
+		coa = mdm_NAMI
+		priority = 1
+	}
 }
 
 NAP = { # Naples
@@ -5456,6 +5484,13 @@ UBV = { # Upper Bavaria
 		trigger = {
 			coa_def_hre_emperor_trigger = yes
 		}
+	}
+}
+
+UGAN = { # mdm modern day mod Uganda
+	flag_definition = {
+		coa = mdm_UGAN
+		priority = 1
 	}
 }
 

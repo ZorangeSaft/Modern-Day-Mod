@@ -1408,52 +1408,16 @@ ANN = { # Annaly
 	}
 }
 
-ANR = { # Andorra
-	pattern = "pattern_solid.dds"
-	color1 = "yellow"
-	color2 = "red"
-	color3 = "blue_mid"
-	color4 = "black"
-	color5 = "white"
-	
-	colored_emblem = {
-		texture = "ce_solid.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.25 0.25 } scale = { 0.5 0.5 } }
+mdm_ANR = { # mdm modern day mod Andorra
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 8 1 160 }
+	color2 = rgb { 254 222 0 }
+	color3 = rgb { 214 0 46 }
+
+	textured_emblem = {
+		texture = "mdm_coa_andorra.dds"
+		instance = { scale = { 0.464 0.464 } }
 	}
-	colored_emblem = {
-		texture = "ce_crozier_in_bend.dds"
-		color1 = color1
-		color2 = color1
-		instance = { position = { 0.26 0.25 } rotation = 5 scale = { -0.525 0.525 } }
-	}		
-	colored_emblem = {
-		texture = "ce_mitre.dds"
-		color1 = color1
-		color2 = color1
-		color3 = "yellow_dark"
-		instance = { position = { 0.25 0.26 } scale = { 0.5 0.5 } }
-	}	
-	colored_emblem = { 
-		texture = "ce_cow_long.dds"
-		color1 = color2
-		color2 = color3
-		color3 = color1
-		instance = { position = { 0.745 0.64 } scale = { 0.35 0.35 } }
-		instance = { position = { 0.745 0.86 } scale = { 0.35 0.35 } }		
-	}
-	colored_emblem = {
-		texture = "ce_pales_03.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.75 0.25 } scale = { 0.5 0.5 } }
-		instance = { position = { 0.25 0.75 } scale = { 0.5 0.5 } }
-	}
-	colored_emblem = {
-		texture = "ce_divider_quarterly.dds"
-		color1 = "red_light"
-	}		
 }
 
 ANS = { # Ansbach
@@ -4509,6 +4473,13 @@ mdm_BOSH = { # mdm modern day mod Bosnia and Herzegovinia
 		instance = { position = { 0.689 0.886 } scale = { 0.172 0.172 } }
 		instance = { position = { 0.771 1.011 } scale = { 0.172 0.172 } }
 	}
+}
+
+mdm_BOTS = { # mdm modern day mod Botswana
+	pattern = "mdm_pattern_horizontal_stripes_botswana.dds"
+	color1 = rgb { 109 171 211 }
+	color2 = "black"
+	color3 = "white"
 }
 
 BOU_ancient = { # Bourbon Ancient (Dampierre)
@@ -9056,6 +9027,19 @@ CPN = { # Choapan/Tzoapan
 		texture = "te_glyph_tzoapan.dds"
 		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 } }				
 	}	
+}
+
+mdm_CPVR = { # mdm modern day mod Cabo Verde
+	pattern = "mdm_pattern_horizontal_stripes_cabo_verde.dds"
+	color1 = rgb { 0 53 148 }
+	color2 = rgb { 208 26 34 }
+	color3 = "white"
+	
+	colored_emblem = {
+		texture = "mdm_ce_stars_cabo_verde.dds"
+		color1 = rgb { 247 210 14 }
+		instance = { position = { 0.375 0.621 } scale = { 0.577 0.577 } }
+	}
 }
 
 CRH = { # Carinthia
@@ -24815,6 +24799,24 @@ NAM_tricolor = { # Namur - Tricolor per bend
 	}
 }
 
+mdm_NAMI = { # mdm modern day mod Namibia
+	pattern = "pattern_diagonal_split_03.dds"
+	color1 = rgb { 0 43 108 }
+	color2 = rgb { 0 155 66 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_diagonal_namibia.dds"
+		color1 = rgb { 201 8 42 }
+		color2 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_namibia.dds"
+		color1 = rgb { 255 206 0 }
+		instance = { position = { 0.2 0.273 } scale = { 0.33 0.33 } }
+	}
+}
+
 NAN = { # Nanai
 	pattern = "pattern_solid.dds"
 	color1 = "black"
@@ -38000,6 +38002,18 @@ UFF = { # Uffenheim/Hohenlohe
 		color3 = color1
 		instance = { position = { 0.5 0.275 } scale = { 1.0 1.0 } }
 		instance = { position = { 0.5 0.725 } scale = { 1.0 1.0 } }	
+	}
+}
+
+mdm_UGAN = { # mdm modern day mod Uganda
+	pattern = "mdm_pattern_uganda.dds"
+	color1 = "black"
+	color2 = rgb { 252 221 0}
+	color3 = rgb { 218 0 0 }
+
+	textured_emblem = {
+		texture = "mdm_coa_uganda.dds"
+		instance = { scale = { 0.311 0.311 } }
 	}
 }
 
