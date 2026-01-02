@@ -32,15 +32,15 @@ END = {
 }
 
 #Ethiopia - ETH
-ETH = {
-	color = map_ethiopia
-	color2 = green
-	culture_definition = amhara
-	religion_definition = miaphysite
-
-	description_category = military
-	difficulty = 3
-}
+#ETH = {
+#	color = map_ethiopia
+#	color2 = green
+#	culture_definition = amhara
+#	religion_definition = miaphysite
+#
+#	description_category = military
+#	difficulty = 3
+#}
 
 #Gojjam - GJJ
 GJJ = {
