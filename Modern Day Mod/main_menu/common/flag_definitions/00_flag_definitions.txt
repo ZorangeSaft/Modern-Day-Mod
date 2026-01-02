@@ -558,6 +558,13 @@ ANJ = { # Anjou
 	}
 }
 
+ANR = { # mdm modern day mod Andorra
+	flag_definition = {
+		coa = mdm_ANR
+		priority = 1
+	}
+}
+
 AQN = { # Aquitaine
 	# AQN - GO lion passant guardant
 	# AQN_capetian - Qtly w/ france modern (same principle as Berry-Aquitaine)
@@ -1727,6 +1734,13 @@ COT = { # Cortona
 			coa_def_PAP_ensign_trigger = yes
 		}
 	}		
+}
+
+CPVR = { # mdm modern day mod Cabo Verde
+	flag_definition = {
+		coa = mdm_CPVR
+		priority = 1
+	}
 }
 
 CRI = { # Crimea
