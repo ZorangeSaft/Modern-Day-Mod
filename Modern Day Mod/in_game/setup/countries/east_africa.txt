@@ -209,16 +209,16 @@ QLM = {
 }
 
 #Zimbabwe - ZMW
-ZMW = {
-	color = map_zimbabwe
-	color2 = black
-
-	culture_definition = shona_culture
-	religion_definition = bantu_religion #Belief in Mwari
-
-	description_category = diplomatic
-	difficulty = 4
-}
+#ZMW = {
+#	color = map_zimbabwe
+#	color2 = black
+#
+#	culture_definition = shona_culture
+#	religion_definition = bantu_religion #Belief in Mwari
+#
+#	description_category = diplomatic
+#	difficulty = 4
+#}
 
 #Tonga - TNA (Society of Pops)
 TNA = {
@@ -608,13 +608,13 @@ NKO = {
 }
 
 #Rwanda - RWA (Formable)
-RWA = {
-	color = map_rwanda
-	color2 = black
-
-	culture_definition = rwanda_culture
-	religion_definition = bantu_religion
-}
+#RWA = {
+#	color = map_rwanda
+#	color2 = black
+#
+#	culture_definition = rwanda_culture
+#	religion_definition = bantu_religion
+#}
 
 #Karagwe - KRW (Formable)
 KRW  = {
@@ -635,13 +635,13 @@ UBH = {
 }
 
 #Burundi - BUU (Formable)
-BUU  = {
-	color = map_burundi
-	color2 = black
-
-	culture_definition = rwanda_culture
-	religion_definition = bantu_religion
-}
+#BUU  = {
+#	color = map_burundi
+#	color2 = black
+#
+#	culture_definition = rwanda_culture
+#	religion_definition = bantu_religion
+#}
 
 #Masai - MAA
 MAA  = {
