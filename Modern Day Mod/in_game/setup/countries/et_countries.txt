@@ -49,8 +49,8 @@ ANBR = {
 
 
 ANGO = {
-	color = rgb { 47 47 47 } # Angola flag black (lighted up)
-	color2 = rgb { 47 47 47 }
+	color = rgb { 159 54 27 } # Angola flag average color
+	color2 = rgb { 159 54 27 }
 	culture_definition = ambundu
 	religion_definition = secularism
 	description_category = diplomatic
@@ -237,8 +237,8 @@ BRAZ = {
 
 
 BUFA = {
-	color = rgb { 0 159 71 } # Burkina Faso flag green
-	color2 = rgb { 0 159 71 }
+	color = rgb { 177 124 60 } # Burkina Faso flag average color
+	color2 = rgb { 177 124 60 }
 	culture_definition = mossi
 	religion_definition = secularism
 	description_category = diplomatic
@@ -257,8 +257,8 @@ BUL = {
 
 
 BUU = {
-	color = rgb { 201 8 42 } # Burundi flag red
-	color2 = rgb { 201 8 42 }
+	color = rgb { 219 32 23 } # Burundi C.O.A. orange
+	color2 = rgb { 219 32 23 }
 	culture_definition = rwanda_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -267,8 +267,8 @@ BUU = {
 
 
 CAFR = {
-	color = rgb { 255 207 0 } # Central African Republic flag yellow
-	color2 = rgb { 255 207 0 }
+	color = rgb { 198 166 134 } # Central African Republic flag average color
+	color2 = rgb { 199 166 134 }
 	culture_definition = gbaya_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -277,8 +277,8 @@ CAFR = {
 
 
 CAME = {
-	color = rgb { 207 8 33 } # Cameroon flag red
-	color2 = rgb { 207 8 33 }
+	color = rgb { 187 38 57 } # Cameroon flag red mixed 3 to 1 with grey { 127 127 127 }
+	color2 = rgb { 187 38 57 }
 	culture_definition = bassa_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -527,8 +527,8 @@ EQGU = {
 
 
 ERIT = {
-	color = rgb { 229 0 39 } # Eritrea flag red
-	color2 = rgb { 229 0 39 }
+	color = rgb { 178 64 83 } # Eritrea flag red mixed 1 to 1 with grey { 127 127 127 }
+	color2 = rgb { 178 64 83 }
 	culture_definition = tigrinya
 	religion_definition = secularism
 	description_category = diplomatic
@@ -896,8 +896,8 @@ KAZK = {
 
 
 KENY = {
-	color = rgb { 188 0 0 }
-	color2 = rgb { 188 0 0 }
+	color = rgb { 205 64 64 } # Kenya flag red mixed 3 to 1 with white
+	color2 = rgb { 205 64 64 }
 	culture_definition = maasai_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1054,8 +1054,8 @@ MADA = {
 
 
 MAL = {
-	color = rgb { 207 8 33 } # Mali flag red
-	color2 = rgb { 207 8 33 }
+	color = map_mali # Base game
+	color2 = black
 	culture_definition = bambara
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1074,8 +1074,8 @@ MALA = {
 
 
 MALW = {
-	color = rgb { 207 8 33 } # Malawi flag red
-	color2 = rgb { 207 8 33 }
+	color = rgb { 140 98 35 } # Malawi flag average color
+	color2 = rgb { 140 98 35 } 
 	culture_definition = sena
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1093,9 +1093,9 @@ MARS = { #not in hoi4
 }
 
 
-MART = { #not in hoi4
-	color = rgb { 169  217  48 }
-	color2 = rgb { 169  217  48 }
+MART = {
+	color = rgb { 0 135 87 } # Mauritius flag green
+	color2 = rgb { 0 135 87 }
 	culture_definition = magahi
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1104,8 +1104,8 @@ MART = { #not in hoi4
 
 
 MAUR = {
-	color = rgb { 0 135 87 } # Mauritius flag green
-	color2 = rgb { 0 135 87 }
+	color = rgb { 255 216 0 } # Mauritania flag yellow
+	color2 = rgb { 255 216 0 }
 	culture_definition = masmuda
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1154,8 +1154,8 @@ MICR = {
 
 
 MOLD = {
-	color = rgb { 255 210 0 } # Moldova flag yellow
-	color2 = rgb { 255 210 0 }
+	color = rgb { 192 131 110 } # Moldova flag average color
+	color2 = rgb { 192 131 110 }
 	culture_definition = wallachian
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1184,8 +1184,8 @@ MOR = { #didnt use hoi4 color
 
 
 MOZA = {
-	color = rgb { 252 225 0 } # Mozambique flag yellow
-	color2 = rgb { 252 225 0 }
+	color = map_mozambique # Base game (MOZ)
+	color2 = black
 	culture_definition = bantu
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1444,8 +1444,8 @@ RWA = {
 
 
 SAFR = {
-	color = rgb { 0 12 138 } # South Africa flag blue
-	color2 = rgb { 0 12 138 }
+	color = rgb { 199 124 69 } # Color of unknown origin
+	color2 = rgb { 199 124 69 }
 	culture_definition = nguni_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1474,8 +1474,8 @@ SAUD = { #didnt use hoi4 color
 
 
 SENE = {
-	color = rgb { 253 240 64 } # Senegal flag yellow
-	color2 = rgb { 253 240 64 }
+	color = rgb { 207 45 27 } # Senegal C.O.A orange
+	color2 = rgb { 207 45 27 }
 	culture_definition = wolof
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1754,8 +1754,8 @@ TOG = { #not in hoi4
 
 
 TOGO = {
-	color = rgb { 211 8 49 } # Togo flag red
-	color2 = rgb { 211 8 49 }
+	color = rgb { 188 145 55 } # Togo flag (no star) average color
+	color2 = rgb { 188 145 55 }
 	culture_definition = yoruba
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1833,8 +1833,8 @@ UAEM = {
 
 
 UGAN = {
-	color = rgb { 55 55 55 } # Uganda flag black (lighted up)
-	color2 = rgb { 55 55 55 }
+	color = rgb { 197 126 0 } # Uganda flag (no emblem) average color
+	color2 = rgb { 197 126 0 }
 	culture_definition = baganda_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1933,8 +1933,8 @@ ZAMB = {
 
 
 ZMW = {
-	color = rgb { 213 0 0 } # Zimbabwe flag red
-	color2 = rgb { 213 0 0 }
+	color = rgb { 243 195 0 } # Zimbabwe C.O.A. (Zimbabwe Bird) yellow
+	color2 = rgb { 243 195 0 }
 	culture_definition = shona_culture
 	religion_definition = secularism
 	description_category = diplomatic
