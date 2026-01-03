@@ -26059,7 +26059,7 @@ NOV_stripe = { # Stripe at hoist flag in Novgorod colours
 
 mdm_NPL = { # mdm modern day mod Nepal
 	pattern = "pattern_solid.dds"
-	color1 = rgb { 221 12 57 }
+	color1 = rgb { 0 0 0 }
 
 	colored_emblem = {
 		texture = "mdm_ce_nepali.dds"
