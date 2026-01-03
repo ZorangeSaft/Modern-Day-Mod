@@ -11863,6 +11863,18 @@ mdm_ESTO = { # mdm modern day mod Estonia
 	color3 = "white"
 }
 
+mdm_ESWA = { # mdm modern day mod Eswatini
+	pattern = "mdm_pattern_horizontal_stripes_eswatini.dds"
+	color1 = rgb { 179 4 4 }
+	color2 = rgb { 60 94 186 }
+	color3 = rgb { 255 218 0 }
+
+	textured_emblem = {
+		texture = "mdm_coa_eswatini.dds"
+		instance = { position = { 0.505 0.5 } scale = { 0.811 0.811 } }
+	}
+}
+
 ETA = { # Etampes
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
@@ -20124,6 +20136,19 @@ LEK = { # Lekia
 		color2 = color2
 		instance = { position = { 0.80 0.5 } scale = { 0.1 1.0 } }			
 	}	
+}
+
+mdm_LESO = { # mdm modern day mod Lesotho
+	pattern = "mdm_pattern_tricolor_horizontal_lesotho.dds"
+	color1 = rgb { 0 12 138 }
+	color2 = "white"
+	color3 = rgb { 0 155 66 }
+
+	colored_emblem = {
+		texture = "mdm_ce_mokorotlo.dds"
+		color1 = "black"
+		instance = { scale = { 0.368 0.368 } }
+	}
 }
 
 LEU = { # Leuchtenberg
@@ -31446,6 +31471,20 @@ SAB = { # Baden-Sausenberg - Quarterly, otherwise the same as Mkgf Baden
 		texture = "ce_divider_quarterly.dds"
 		color1 = "black"
 	}		
+}
+
+mdm_SAFR = { # mdm modern day mod South Africa
+	pattern = "mdm_pattern_tricolor_hoist_triangle.dds"
+	color1 = "black"
+	color2 = rgb { 255 57 45}
+	color3 = rgb { 0 12 138 }
+
+	colored_emblem = {
+		texture = "mdm_ce_south_africa.dds"
+		color1 = rgb { 0 120 71 }
+		color2 = "white"
+		color3 = rgb { 255 185 21 }
+	}
 }
 
 SAG = { # Sagaing

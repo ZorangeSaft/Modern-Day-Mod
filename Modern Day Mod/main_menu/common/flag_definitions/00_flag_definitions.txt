@@ -1978,6 +1978,13 @@ ESTO = { # mdm modern day mod Estonia
 	}
 }
 
+ESWA = { # mdm modern day mod Eswatini
+	flag_definition = {
+		coa = mdm_ESWA
+		priority = 1
+	}
+}
+
 ETA = { # Etampes
 	flag_definition = {
 		coa = ETA
@@ -2900,6 +2907,13 @@ LCZ = { # Leczyca
 		trigger = {
 			coa_def_teutonic_order_trigger = yes
 		}
+	}
+}
+
+LESO = {# mdm modern day mod Lesotho 
+	flag_definition = {
+		coa = mdm_LESO
+		priority = 1
 	}
 }
 
@@ -4759,6 +4773,13 @@ RST = { # Rostock
 RUS = { # mdm modern day mod Russia
 	flag_definition = {
 		coa = mdm_RUS
+		priority = 1
+	}
+}
+
+SAFR = { # mdm modern day mod South Africa
+	flag_definition = {
+		coa = mdm_SAFR
 		priority = 1
 	}
 }
