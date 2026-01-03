@@ -49,8 +49,8 @@ ANBR = {
 
 
 ANGO = {
-	color = rgb { 159 54 27 } # Angola flag average color
-	color2 = rgb { 159 54 27 }
+	color = rgb { 206 17 39 } # Angola flag red #{ 159 54 27 } # Angola flag average color
+	color2 = rgb { 206 17 39 }
 	culture_definition = ambundu
 	religion_definition = secularism
 	description_category = diplomatic
@@ -297,8 +297,8 @@ CAN = {
 
 
 CHAD = {
-	color = rgb { 0 32 91 } # Chad flag blue
-	color2 = rgb { 0 32 91 }
+	color = rgb {254 205 8 } # Chad flag yellow #{ 0 32 91 } # Chad flag blue
+	color2 = rgb {254 205 8 }
 	culture_definition = kanembu_culture
 	religion_definition = secularism
 	description_category = diplomatic
@@ -566,8 +566,8 @@ ETIM = {
 
 
 ETH = {
-	color = rgb { 252 222 2 } # Ethiopia flag yellow
-	color2 = rgb { 252 222 2 }
+	color = rgb { 6 69 176 } # Ethiopia flag Blue #{ 252 222 2 } # Ethiopia flag yellow
+	color2 = rgb { 6 69 176 }
 	culture_definition = amhara
 	religion_definition = secularism
 	description_category = diplomatic
@@ -616,8 +616,8 @@ GABO = {
 
 
 GAMB = {
-	color = rgb { 67 80 170 } # Gambia flag blue (symbolizing the river) mixed 3 to 1 with white
-	color2 = rgb { 67 80 170 }
+	color = rgb { 12 28 140 } 	#{ 67 80 170 } # Gambia flag blue (symbolizing the river) mixed 3 to 1 with white
+	color2 = rgb { 12 28 140 }
 	culture_definition = wolof
 	religion_definition = secularism
 	description_category = diplomatic
@@ -626,8 +626,8 @@ GAMB = {
 
 
 GBIS = {
-	color = rgb { 63 63 63 } # Guinea-Bissau flag black (lighted up)
-	color2 = rgb { 63 63 63 }
+	color = rgb { 0 158 73 } #Guinea-Bissau flag green #{ 63 63 63 } # Guinea-Bissau flag black (lighted up)
+	color2 = rgb { 0 158 73 }
 	culture_definition = wolof
 	religion_definition = secularism
 	description_category = diplomatic
@@ -846,8 +846,8 @@ ITA = {
 
 
 IVOR = {
-	color = rgb { 255 131 0 } # Côte d'Ivoire flag orange
-	color2 = rgb { 255 131 0 }
+	color = rgb {240 228 210} # Pantone "Pearled Ivory" color #{ 255 131 0 } # Côte d'Ivoire flag orange
+	color2 = rgb {240 228 210}
 	culture_definition = akan
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1004,8 +1004,8 @@ LIBE = {
 
 
 LIBY = {
-	color = rgb { 39 39 39 } # Libya flag black (lighted up)
-	color2 = rgb { 39 39 39 }
+	color = rgb { 59 158 88 } #10 parts { 0 129 64 } Gadaffi Libya flag green, 2 parts white and 1 part yellow on this https://colordesigner.io/color-mixer, could change to { 39 39 39 } after he dies # Libya flag black (lighted up)
+	color2 = rgb { 59 158 88 }
 	culture_definition = tunisian
 	religion_definition = sunni
 	description_category = diplomatic
@@ -1074,8 +1074,8 @@ MALA = {
 
 
 MALW = {
-	color = rgb { 140 98 35 } # Malawi flag average color
-	color2 = rgb { 140 98 35 } 
+	color = rgb { 207 9 33 } # Malawi flag red #{ 140 98 35 } # Malawi flag average color
+	color2 = rgb { 207 9 33 } 
 	culture_definition = sena
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1184,8 +1184,8 @@ MOR = { #didnt use hoi4 color
 
 
 MOZA = {
-	color = map_mozambique # Base game (MOZ)
-	color2 = black
+	color = rgb { 0 113 104 }  # Mozambique flag green
+	color2 = rgb { 0 113 104 }
 	culture_definition = bantu
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1234,8 +1234,8 @@ NICR = { #went to color wheel and picked light blue
 
 
 NIGE = {
-	color = rgb { 225 81 1 } # Niger flag orange
-	color2 = rgb { 225 81 1 }
+	color = rgb { 225 83 5 } # Niger flag orange
+	color2 = rgb { 225 83 5 }
 	culture_definition = hausa
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1244,8 +1244,8 @@ NIGE = {
 
 
 NIGR = {
-	color = rgb { 0 136 80 } # Nigeria flag green
-	color2 = rgb { 0 136 80 }
+	color = rgb { 1 134 82 }  # Nigeria flag green
+	color2 = rgb { 1 134 82 }
 	culture_definition = hausa
 	religion_definition = secularism
 	description_category = diplomatic
@@ -1833,8 +1833,8 @@ UAEM = {
 
 
 UGAN = {
-	color = rgb { 197 126 0 } # Uganda flag (no emblem) average color
-	color2 = rgb { 197 126 0 }
+	color = rgb { 218 0 1 } # Uganda flag red #{ 197 126 0 } # Uganda flag (no emblem) average color
+	color2 = rgb { 218 0 1 }
 	culture_definition = baganda_culture
 	religion_definition = secularism
 	description_category = diplomatic
