@@ -21335,6 +21335,13 @@ mdm_MACE = { # mdm modern day mod North Macedonia
 	color2 = rgb { 248 234 42 }
 }
 
+mdm_MADA = { # mdm modern day mod Madagascar
+	pattern = "mdm_pattern_left_third_horizontal_split.dds"
+	color1 = "white"
+	color2 = rgb { 249 64 55 }
+	color3 = rgb { 0 133 58 }
+}
+
 MAG = { # Magdeburg
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = "red"
@@ -23587,6 +23594,30 @@ MOZ = { # Mozambique
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }			
 	}		
 }
+
+mdm_MOZA = { # mdm modern day mod Mozambique
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 113 104 }
+	color2 = "black"
+	color3 = rgb { 252 225 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bars_gambian.dds"
+		color1 = "white"
+	}
+	colored_emblem = {
+		texture = "mdm_ce_triangle_mozambican.dds"
+		color1 = rgb { 209 12 41 }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_mozambican.dds"
+		color1 = color3
+		color2 = color2
+		color3 = "white"
+		instance = { position = { 0.145 0.5 } scale = { 0.372 0.372 } }
+	}
+}
+
 
 MPC = { # Mapuche - Lautaro flag inspired (arranged to work in a 3:2 canvas)
 	pattern = "pattern_solid.dds"

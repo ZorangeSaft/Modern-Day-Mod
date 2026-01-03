@@ -3117,6 +3117,13 @@ MACE = { # mdm modern day mod North Macedonia
 	}
 }
 
+MADA = { # mdm modern day mod North Madagascar
+	flag_definition = {
+		coa = mdm_MADA
+		priority = 1
+	}
+}
+
 MAK = { # Makuria
 	flag_definition = {
 		coa = MAK
@@ -3412,6 +3419,13 @@ MOY = { # Moray
 		trigger = {
 			coa_def_SCO_ensign_trigger = yes
 		}
+	}
+}
+
+MOZA = { # mdm modern day mod Mozambique
+	flag_definition = {
+		coa = mdm_MOZA
+		priority = 1
 	}
 }
 
