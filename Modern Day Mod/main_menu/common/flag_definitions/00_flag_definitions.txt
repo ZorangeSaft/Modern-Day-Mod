@@ -3145,6 +3145,13 @@ MAL = { # mdm modern day mod Mali
 	}
 }
 
+MALW = { # mdm modern day mod Malawi
+	flag_definition = {
+		coa = mdm_MALW
+		priority = 1
+	}
+}
+
 MAN = { # Mantua
 	flag_definition = {
 		coa = MAN
@@ -5247,6 +5254,13 @@ TAJI = { # mdm modern day mod Tajikistan
 	}
 }
 
+TANZ = { # mdm modern day mod Tanzania
+	flag_definition = {
+		coa = mdm_TANZ
+		priority = 1
+	}
+}
+
 TEU = { # Teutonic Order
 	flag_definition = {
 		coa = TEU_simple
@@ -6715,6 +6729,13 @@ YEH = { # Nara Yehe
 YEM = { # mdm modern day mod Yemen
 	flag_definition = {
 		coa = mdm_YEM
+		priority = 1
+	}
+}
+
+ZAMB = { # mdm modern day mod Zambia
+	flag_definition = {
+		coa = mdm_ZAMB
 		priority = 1
 	}
 }
