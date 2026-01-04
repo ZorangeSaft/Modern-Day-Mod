@@ -1344,8 +1344,8 @@ PANA = {
 
 
 PAPU = {
-	color = rgb { 31 31 31 } # Papua New Guinea flag black (lighted up)
-	color2 = rgb { 31 31 31 }
+	color = rgb { 149 79 45 } # Papua New Guinea flag average color
+	color2 = rgb { 149 79 45 }
 	culture_definition = asmat_culture
 	religion_definition = secularism
 	description_category = diplomatic
