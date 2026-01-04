@@ -41536,16 +41536,31 @@ ZMR = { # Zamothiri / Kozhikode
 	}		
 }
 
-ZMW = { # Zimbabwe
-	pattern = "pattern_solid.dds"
-	color1 = hsv360 	{	30		10		92	}
-	color2 = "yellow"
-	
-	textured_emblem = {
-		texture = "te_zimbabwe_eagle.dds"
-		instance = { position = { 0.5 0.5 } scale = { 1.05 0.95 } }				
+mdm_ZMW = { # mdm modern day mod Zimbabwe
+	pattern = "mdm_pattern_zimbabwe.dds"
+	color1 = rgb { 213 0 0 }
+	color2 = rgb { 255 211 0 }
+	color3 = rgb { 0 100 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_zimbabwe.dds"
+		color1 = "white"
+		color2 = "black"
 	}
-} 
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color1
+		instance = { position = { 0.19 0.453 } scale = { 0.402 0.402 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_zimbabwe_bird.dds"
+		color1 = rgb { 255 211 0 }
+		color2 = "black"
+		instance = { position = { 0.203 0.47 } scale = { 0.275 0.275 } }
+	}
+}
 
 ZNI = { # Zuni
 	pattern = "pattern_solid.dds"

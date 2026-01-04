@@ -6719,6 +6719,13 @@ YEM = { # mdm modern day mod Yemen
 	}
 }
 
+ZMW = { # mdm modern day mod Zimbabwe
+	flag_definition = {
+		coa = mdm_ZMW
+		priority = 1
+	}
+}
+
 ## China specific
 
 YUA = { # China
