@@ -1273,6 +1273,13 @@ BUR = { # Burgundy
 	}
 }
 
+BUU = { # mdm modern day mod Burundi
+	flag_definition = {
+		coa = mdm_BUU
+		priority = 1
+	}
+}
+
 BYZ = { # Byzantium	
 	flag_definition = {
 		coa = BYZ_eagle
@@ -4794,6 +4801,13 @@ RST = { # Rostock
 RUS = { # mdm modern day mod Russia
 	flag_definition = {
 		coa = mdm_RUS
+		priority = 1
+	}
+}
+
+RWA = { # mdm modern day mod Rwanda
+	flag_definition = {
+		coa = mdm_RWA
 		priority = 1
 	}
 }
