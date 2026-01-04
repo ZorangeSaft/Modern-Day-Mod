@@ -365,7 +365,7 @@ gasoline = {
 	transport_cost = 1
 }
 
-jet_fuel = {
+kerosine = {
 	category = produced
 	color = goods_concrete
 	default_market_price = 1
@@ -440,7 +440,7 @@ limestone = { #used in multiple metal refining
 
 #refined metals
 
-aliminium = { #mostly refined in iceland due to plentyful energy
+aluminium = { #high quality refinement in iceland due to plentiful energy
 	category = produced
 	color = goods_steel
 	default_market_price = 5
@@ -454,6 +454,15 @@ copper = {
 	transport_cost = 2
 }
 
+gold_metal = { #cant just be gold because that is the name the game internally uses for the currency in game
+	category = produced
+	color = gold_ore
+	default_market_price = 10
+	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
+	ai_rgo_expansion_priority = 0.2
+	transport_cost = 2
+}
+
 steel = { #vast majority of mined iron becomes steel
 	category = produced
 	color = goods_steel
@@ -464,6 +473,13 @@ steel = { #vast majority of mined iron becomes steel
 beryllium = {
 	category = produced
 	color = goods_steel
+	default_market_price = 5
+	transport_cost = 2
+}
+
+lead = {
+	category = produced
+	color = goods_lead
 	default_market_price = 5
 	transport_cost = 2
 }
@@ -640,6 +656,16 @@ rhenium = { #jet engines, making high octane high quality fuel, byproduct of cop
 	transport_cost = 1
 }
 
+silver = { #both main product but irl mostly byproduct of gold refining
+	method = mining
+	category = raw_material
+	color = goods_silver
+	default_market_price = 8
+	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
+	ai_rgo_expansion_priority = 0.2
+	transport_cost = 1
+}
+
 
 
 #intermediate industrial goods
@@ -654,6 +680,13 @@ ferrite_magnet = { #engines, iron and strontium based
 rare_earth_magnet = { #neodymium magnets for example
 	category = produced
 	color = goods_iron
+	default_market_price = 1
+	transport_cost = 1
+}
+
+plastic = {
+	category = produced
+	color = goods_steel
 	default_market_price = 1
 	transport_cost = 1
 }

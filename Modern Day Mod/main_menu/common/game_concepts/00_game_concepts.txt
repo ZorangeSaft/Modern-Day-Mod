@@ -3096,3 +3096,8 @@ mdm_average_solar_illumination = {
 	texture = "gfx/interface/icons/modifiers/_default.dds"
 }
 
+mdm_oil_fraction = {
+	alias = { mdm_oil_fractions }
+	texture = "gfx/interface/icons/modifiers/_default.dds"
+}
+

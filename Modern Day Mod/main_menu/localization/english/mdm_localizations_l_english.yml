@@ -25,7 +25,11 @@
 
 
 
- #other localisation
+ #game concepts
  game_concept_deflation: "Deflation"
  game_concept_deflate: "Deflate"
  game_concept_deflation_desc: "Deflation is bad even tho it sounds good at first."
+
+ game_concept_mdm_oil_fraction: "Fraction"
+ game_concept_mdm_oil_fractions: "Fractions"
+ game_concept_mdm_oil_fraction_desc: "When [ShowGoodsName('crude_oil')] is refined in an [ShowBuildingTypeName('mdm_oil_refinery')], it is separated into different parts called '[mdm_oil_fractions|e]' based on their boiling points. \n\nThis goes from lighter fractions like [ShowGoodsName('petrogas')] for home cooking and heating, to heavier fractions like [ShowGoodsName('diesel')] as fuel for Generators or Cars. Even [ShowGoodsName('asphalt')] for Roads gets produced this way as the parts that dont boil at all."

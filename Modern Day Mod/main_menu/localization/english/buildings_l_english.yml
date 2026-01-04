@@ -7,8 +7,8 @@
  defense_category_desc: "These are buildings devoted to the defense of the location and that can affect neighboring ones too."
  government_category: "Government Buildings"
  government_category_desc: "These are buildings that are directly controlled by the government and that make it stronger."
- infrastructure_category: "Infrastructure Buildings"
- infrastructure_category_desc: "These are buildings that improve the value of the location where they are built."
+ metal_refining_category: "Infrastructure Buildings"
+ metal_refining_category_desc: "These are buildings that improve the value of the location where they are built."
  military_category: "Military Buildings"
  military_category_desc: "There are buildings devoted to raising military units in the location."
  naval_category: "Naval Buildings"
@@ -1267,24 +1267,63 @@
 
  #metal refinement buildings
 
- mdm_blast_furnace: "Blast Furnace"
- mdm_blast_furnace_desc: "Blast furnace description"
+ mdm_mixed_metal_blast_furnace: "Mixed Metal Blast Furnace"
+ mdm_mixed_metal_blast_furnace_desc: "For the production of [ShowGoodsName('steel')], [ShowGoodsName('manganese')] and [ShowGoodsName('vanadium')]"
 
- mdm_electrolysis_plant: "Electrolysis Plant"
- mdm_electrolysis_plant_desc: "Electrolysis plant description"
+ mdm_copper_blast_furnace: "Copper Blast Furnace"
+ mdm_copper_blast_furnace_desc: "For the production of [ShowGoodsName('copper')] and its byproducts [ShowGoodsName('silver')] and [ShowGoodsName('gold')]"
+
+ mdm_lead_blast_furnace: "Lead-Bismuth Blast Furnace"
+ mdm_lead_blast_furnace_desc: "For the production of [ShowGoodsName('lead')] and its byproducts [ShowGoodsName('bismuth')] and [ShowGoodsName('silver')]"
+
+ mdm_molybdenum_blast_furnace: "Molybdenum-Rhenium Blast Furnace"
+ mdm_molybdenum_blast_furnace_desc: "For the production of [ShowGoodsName('molybdenum')] and its byproduct of [ShowGoodsName('rhenium')]"
+
+ mdm_nickel_blast_furnace: "Nickel-Cobalt Blast Furnace"
+ mdm_nickel_blast_furnace_desc: "For the production of [ShowGoodsName('nickel')] and its byproduct of [ShowGoodsName('cobalt')]"
+
+ mdm_tin_blast_furnace: "Tin-Bismuth Blast Furnace"
+ mdm_tin_blast_furnace_desc: "For the production of [ShowGoodsName('tin')] and its byproduct of [ShowGoodsName('bismuth')] and [ShowGoodsName('silver')]"
 
  mdm_acid_leaching_plant: "Acid Leaching Plant"
- mdm_acid_leaching_plant_desc: "Acid leaching plant description"
+ mdm_acid_leaching_plant_desc: "For the production of [ShowGoodsName('silver')], [ShowGoodsName('mercury')], [ShowGoodsName('tantalum')], [ShowGoodsName('refined_uranium')], [ShowGoodsName('platinum_group_metals')] and [ShowGoodsName('rare_earth_metals')]"
+
+ mdm_gold_acid_leaching_plant: "Gold-Silver Acid Leaching Plant"
+ mdm_gold_acid_leaching_plant_desc: "For the production of [ShowGoodsName('gold_metal')] and its major byproduct [ShowGoodsName('silver')]"
 
  mdm_metalothermic_reduction_facility: "Metalothermic Reduction Facility"
- mdm_metalothermic_reduction_facility_desc: "Metalothermic reduction facility description"
+ mdm_metalothermic_reduction_facility_desc: "For the production of [ShowGoodsName('magnesium')], [ShowGoodsName('titanium')], [ShowGoodsName('tungsten')], [ShowGoodsName('beryllium')], [ShowGoodsName('niobium')] and [ShowGoodsName('zirconium')]"
+
+ mdm_aluminium_electrolysis_plant: "Aluminium Electrolysis Plant"
+ mdm_aluminium_electrolysis_plant_desc: "For the production of [ShowGoodsName('aluminium')] and its byproduct of [ShowGoodsName('gallium')]"
+
+ mdm_zinc_electrolysis_plant: "Zinc Electrolysis Plant"
+ mdm_zinc_electrolysis_plant_desc: "For the production of [ShowGoodsName('zinc')] and its byproducts of [ShowGoodsName('cadmium')], [ShowGoodsName('indium')] and [ShowGoodsName('silver')]"
 
  mdm_brine_evaporation_plant: "Brine Evaporation Plant"
- mdm_brine_evaporation_plant_desc: "Brine evaporation plant description"
+ mdm_brine_evaporation_plant_desc: "For the production of [ShowGoodsName('lithium')]"
 
 
 
  #oil refinement buildings
 
  mdm_oil_refinery: "Oil Refinery"
- mdm_oil_refinery_desc: "Oil refinery description"
+ mdm_oil_refinery_desc: "Refines [ShowGoodsName('crude_oil')] into [ShowGoodsName('petrogas')], [ShowGoodsName('gasoline')], [ShowGoodsName('kerosine')], [ShowGoodsName('diesel')], [ShowGoodsName('heavy_oil')] and [ShowGoodsName('asphalt')] [mdm_oil_fractions|e]"
+
+ mdm_oil_refinery_slot_0: "[ShowGoodsName('petrogas')] [mdm_oil_fraction|e]"
+ mdm_oil_refinery_petrogas: "Refine into Petrogas"
+
+ mdm_oil_refinery_slot_1: "[ShowGoodsName('gasoline')] [mdm_oil_fraction|e]"
+ mdm_oil_refinery_gasoline: "Refine into Gasoline"
+
+ mdm_oil_refinery_slot_2: "[ShowGoodsName('kerosine')] [mdm_oil_fraction|e]"
+ mdm_oil_refinery_kerosine: "Refine into Kerosine"
+
+ mdm_oil_refinery_slot_3: "[ShowGoodsName('diesel')] [mdm_oil_fraction|e]"
+ mdm_oil_refinery_diesel: "Refine into Diesel"
+
+ mdm_oil_refinery_slot_4: "[ShowGoodsName('heavy_oil')] [mdm_oil_fraction|e]"
+ mdm_oil_refinery_heavy_oil: "Refine into Heavy Oil"
+
+ mdm_oil_refinery_slot_5: "[ShowGoodsName('asphalt')] [mdm_oil_fraction|e]"
+ mdm_oil_refinery_asphalt: "Refine into Asphalt"
