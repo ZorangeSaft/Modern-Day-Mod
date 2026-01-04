@@ -2702,6 +2702,13 @@ KHZ = { # Khuzdar
 	}	
 }
 
+KENY = { # mdm modern day mod Kenya
+	flag_definition = {
+		coa = mdm_KENY
+		priority = 1
+	}
+}
+
 KIE = { # Kiev
 	flag_definition = {
 		coa = KIE
@@ -5009,6 +5016,13 @@ SER = { # mdm modern day mod Serbia
 	}
 }
 
+SEYC = { # mdm modern day mod Seychelles
+	flag_definition = {
+		coa = mdm_SEYC
+		priority = 1
+	}
+}
+
 SGT = { # Siguntur
 	flag_definition = {
 		coa = SGT
@@ -5155,9 +5169,23 @@ SMO = { # Smolensk
 	}		
 }
 
+SOMA = { # mdm modern day mod Somalia
+	flag_definition = {
+		coa = mdm_SOMA
+		priority = 1
+	}
+}
+
 SPA = { # mdm modern day mod Spain
 	flag_definition = {
 		coa = mdm_SPA
+		priority = 1
+	}
+}
+
+SSUD = { # mdm modern day mod South Sudan
+	flag_definition = {
+		coa = mdm_SSUD
 		priority = 1
 	}
 }

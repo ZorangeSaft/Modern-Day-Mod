@@ -17845,6 +17845,26 @@ KEL = { # Kelali
 	}
 }
 
+mdm_KENY = { # mdm modern day mod Kenya
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = rgb { 188 0 0 }
+	color3 = rgb { 0 102 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bars_kenyan.dds"
+		color1 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_kenya.dds"
+		color1 = color2
+		color2 = "white"
+		color3 = color1
+		instance = { position = { 0.5 0.5 } scale = { 0.65 0.65 } }
+	}
+}
+
 KER = { # Zia
 	pattern = "pattern_solid.dds"
 	color1 = "cream"
@@ -32386,6 +32406,36 @@ mdm_SER = { # mdm modern day mod Serbia
 	}
 }
 
+mdm_SEYC = { # mdm modern day mod Seychelles
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_1.dds"
+		color1 = rgb { 0 43 108 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_2.dds"
+		color1 = rgb { 254 210 63 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_3.dds"
+		color1 = rgb { 211 34 44 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_4.dds"
+		color1 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_5.dds"
+		color1 = rgb { 0 123 48 }
+	}
+}
+
 SFA = { # Sofala
 	pattern = "pattern_solid.dds"
 	color1 = "maroon"
@@ -33824,6 +33874,17 @@ SOL = { # Solon Evenk
 	}		
 }
 
+mdm_SOMA = { # mdm modern day mod Somalia
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 63 144 223 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.477 0.5 } scale = { 0.436 0.436 } }
+	}
+}
+
 SON = { # Songhai     
 	pattern = "pattern_solid.dds"
 	color1 = "white"
@@ -34224,6 +34285,29 @@ SSP = { # Sansepolcro
 		color1 = color4
 		color2 = color3
 		instance = { position = { 0.50 0.26 } scale = { 0.75 0.75 } }		
+	}
+}
+
+mdm_SSUD = { # mdm modern day mod South Sudan
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = rgb { 277 26 35 }
+	color3 = rgb { 0 146 75 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bars_kenyan.dds"
+		color1 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_triangle_south_sudanese.dds"
+		color1 = { 0 183 242 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = { 255 230 19 }
+		instance = { position = { 0.216 0.484 } scale = { 0.3 0.3 } }
 	}
 }
 
