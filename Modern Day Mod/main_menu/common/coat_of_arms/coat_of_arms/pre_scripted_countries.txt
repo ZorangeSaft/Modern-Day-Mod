@@ -5794,6 +5794,22 @@ BUS = { # Barus
 	}	
 }
 
+mdm_BUU = { # mdm modern day mod Burundi
+	pattern = "mdm_pattern_burundi.dds"
+	color1 = rgb { 65 178 37 }
+	color2 = rgb { 201 8 42 }
+	color3 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_Star_burundi.dds"
+		color1 = color2
+		color2 = color1
+		instance = { position = { 0.424 0.57 } scale = { 0.133 0.133 } }
+		instance = { position = { 0.576 0.57 } scale = { 0.133 0.133 } }
+		instance = { position = { 0.5 0.353 } scale = { 0.133 0.133 } }
+	}
+}
+
 BVK = { # Bru
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"
@@ -31306,6 +31322,19 @@ RVB = { # Ravensberg
 		color1 = color2
 		color2 = color2
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }		
+	}
+}
+
+mdm_RWA = { # mdm modern day mod Rwanda
+	pattern = "mdm_pattern_tricolor_horizontal_rwanda.dds"
+	color1 = rgb { 0 165 225 }
+	color2 = rgb { 250 211 0 }
+	color3 = rgb { 26 96 58 }
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_rwanda.dds"
+		color1 = rgb { 230 191 0 }
+		instance = { position = { 0.821 0.262 } scale = { 0.323 0.323 } }
 	}
 }
 
