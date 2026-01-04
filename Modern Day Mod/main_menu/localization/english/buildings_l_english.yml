@@ -1302,6 +1302,8 @@
 
  mdm_brine_evaporation_plant: "Brine Evaporation Plant"
  mdm_brine_evaporation_plant_desc: "For the production of [ShowGoodsName('lithium')]"
+ mdm_brine_evaporation_plant_slot_0: "[ShowGoodsName('lithium')] production"
+ mdm_brine_evaporation_plant_lithium: "Produce [ShowGoodsName('lithium')]"
 
 
 
