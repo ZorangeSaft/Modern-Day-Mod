@@ -25,6 +25,9 @@
 			produced = petrogas
 			output = 0.10
 		}
+	}
+
+	unique_production_methods = {
 		mdm_oil_refinery_gasoline = {
 			electricity = 1.2
 			fresh_water = 0.2
@@ -32,6 +35,9 @@
 			produced = gasoline
 			output = 0.40
 		}
+	}
+
+	unique_production_methods = {
 		mdm_oil_refinery_jet_fuel = {
 			electricity = 0.3
 			fresh_water = 0.05
@@ -39,6 +45,9 @@
 			produced = jet_fuel
 			output = 0.10
 		}
+	}
+
+	unique_production_methods = {
 		mdm_oil_refinery_diesel = {
 			electricity = 0.9
 			fresh_water = 0.15
@@ -46,6 +55,9 @@
 			produced = diesel
 			output = 0.30
 		}
+	}
+
+	unique_production_methods = {
 		mdm_oil_refinery_heavy_oil = {
 			electricity = 0.3
 			fresh_water = 0.05
@@ -53,6 +65,9 @@
 			produced = heavy_oil
 			output = 0.10
 		}
+	}
+
+	unique_production_methods = {
 		mdm_oil_refinery_asphalt = {
 			electricity = 0.15
 			fresh_water = 0.025

@@ -953,7 +953,7 @@
 
  game_concept_stored_research: "Stored Research Progress"
  game_concept_stored_research_desc: "Stored $game_concept_research_progress$ is accumulated when there is no [advance|e] selected. Stored Research is instantly applied once [advance|e] is selected."
- game_concept_literacy: "University Attendance" 
+ game_concept_literacy: "Higher Education" 
  game_concept_literacy_desc: "This is how well our [pops|e] can read and write. It is mostly beneficial, as the average literacy in our country impacts our [research_progress|e] positively, but it also increases the impact from the [market_price|e] of their needs on the [pop_satisfaction|e]."
  game_concept_artillery_bonus: "Artillery Bonus" 
  game_concept_artillery_bonus_desc: "Artillery [regiments|e] have the strength to bombard [fortifications|e] with their guns. The strength depends on their [artillery_barrage|e] and the level of the [fort|e]."

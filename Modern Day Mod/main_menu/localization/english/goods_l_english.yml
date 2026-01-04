@@ -1258,22 +1258,25 @@
 
  petrogas: "Petrogas"
  petrogas_desc: "Petrogas description"
+ mdm_oil_refinery_petrogas: "Refine into Petrogas"
 
  gasoline: "Gasoline"
  gasoline_desc: "Gasoline description"
+ mdm_oil_refinery_gasoline: "Refine into Gasoline"
 
  jet_fuel: "Jet Fuel"
  jet_fuel_desc: "Jet Fuel description"
-
+ mdm_oil_refinery_jet_fuel: "Refine into Jet Fuel" 
  diesel: "Diesel"
  diesel_desc: "Diesel description"
+ mdm_oil_refinery_diesel: "Refine into Diesel"
  
  heavy_oil: "Heavy Oil"
  heavy_oil_desc: "Heavy Oil description"
-
+ mdm_oil_refinery_heavy_oil: "Refine into Heavy Oil"
  asphalt: "Asphalt"
  asphalt_desc: "Asphalt description"
-
+ mdm_oil_refinery_asphalt: "Refine into Asphalt"
 
 
  #intermediate industrial goods

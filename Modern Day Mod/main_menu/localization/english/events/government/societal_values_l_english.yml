@@ -1004,7 +1004,7 @@
  societal_values.2028.t: "National Education Drive"
  societal_values.2028.desc: "Our people are of strong body and character, but they have not yet reached the heights of a strong mind. With our society so focused on itself, it is only natural that institutions across the nation are beginning to coordinate in order to assemble a national education drive.\n\nIt is nothing as fancy as a standardized curriculum or any such thing, but rather a simple literacy drive by local and national institutions to bring every member of our society up to speed. The sooner they can read, the sooner they can learn how great we are."
  societal_values.2028.a: "Let us indoctr- teach them!"
- STATIC_MODIFIER_NAME_literacy_drive: "University Attendance Drive"
+ STATIC_MODIFIER_NAME_literacy_drive: "Higher Education Drive"
  societal_values.2028.b: "Perhaps we should focus on foreign teachings instead..."
 
  societal_values.2029.t: "Internal Purge"
