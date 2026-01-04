@@ -32406,6 +32406,36 @@ mdm_SER = { # mdm modern day mod Serbia
 	}
 }
 
+mdm_SEYC = { # mdm modern day mod Seychelles
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_1.dds"
+		color1 = rgb { 0 43 108 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_2.dds"
+		color1 = rgb { 254 210 63 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_3.dds"
+		color1 = rgb { 211 34 44 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_4.dds"
+		color1 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_5.dds"
+		color1 = rgb { 0 123 48 }
+	}
+}
+
 SFA = { # Sofala
 	pattern = "pattern_solid.dds"
 	color1 = "maroon"

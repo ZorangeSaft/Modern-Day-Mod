@@ -5016,6 +5016,13 @@ SER = { # mdm modern day mod Serbia
 	}
 }
 
+SEYC = { # mdm modern day mod Seychelles
+	flag_definition = {
+		coa = mdm_SEYC
+		priority = 1
+	}
+}
+
 SGT = { # Siguntur
 	flag_definition = {
 		coa = SGT
