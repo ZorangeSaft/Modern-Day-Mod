@@ -21444,6 +21444,20 @@ mdm_MADA = { # mdm modern day mod Madagascar
 	color3 = rgb { 0 133 58 }
 }
 
+mdm_MALT = { # mdm modern day mod Malta
+	pattern = "pattern_vertical_split_01.dds"
+	color1 = "white"
+	color2 = rgb { 208 12 39 }
+
+	colored_emblem = {
+		texture = "mdm_ce_malta.dds"
+		color1 = color1
+		color2 = "black"
+		color3 = color2
+		instance = { position = { 0.125 0.188 } scale = { 0.269 0.269 } }
+	}
+}
+
 mdm_MALW = { # mdm modern day mod Malawi
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "black"

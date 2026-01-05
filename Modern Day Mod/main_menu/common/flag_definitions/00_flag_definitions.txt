@@ -3166,6 +3166,13 @@ MADA = { # mdm modern day mod North Madagascar
 	}
 }
 
+MALT = { # mdm modern day mod Malta
+	flag_definition = {
+		coa = mdm_MALT
+		priority = 1
+	}
+}
+
 MAK = { # Makuria
 	flag_definition = {
 		coa = MAK
