@@ -24954,7 +24954,7 @@ mdm_NAMI = { # mdm modern day mod Namibia
 	}
 
 	colored_emblem = {
-		texture = "mdm_ce_star_namibia.dds"
+		texture = "mdm_ce_sun_namibia.dds"
 		color1 = rgb { 255 206 0 }
 		instance = { position = { 0.2 0.273 } scale = { 0.33 0.33 } }
 	}
