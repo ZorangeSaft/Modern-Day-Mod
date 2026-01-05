@@ -11712,9 +11712,8 @@ mdm_EQGU = { # mdm modern day mod Equatorial Guinea
 	color3 = rgb { 228 27 17 }
 
 	colored_emblem = {
-		texture = "mdm_ce_triangle_equatoguinean.dds"
+		texture = "mdm_ce_hoist_triangle_107.dds"
 		color1 = rgb { 0 116 207 }
-		instance = { position = { 0.125 0.5 } }
 	}
 
 	textured_emblem = {
@@ -23693,7 +23692,7 @@ mdm_MOZA = { # mdm modern day mod Mozambique
 		color1 = "white"
 	}
 	colored_emblem = {
-		texture = "mdm_ce_triangle_mozambican.dds"
+		texture = "mdm_ce_hoist_triangle_75.dds"
 		color1 = rgb { 209 12 41 }
 	}
 	colored_emblem = {
@@ -34338,7 +34337,7 @@ mdm_SSUD = { # mdm modern day mod South Sudan
 	}
 
 	colored_emblem = {
-		texture = "mdm_ce_triangle_south_sudanese.dds"
+		texture = "mdm_ce_hoist_triangle_60.dds"
 		color1 = { 0 183 242 }
 	}
 
@@ -34641,7 +34640,7 @@ mdm_STPR = { # mdm modern day mod São Tomé and Príncipe
 	color2 = rgb { 0 152 54 }
 
 	colored_emblem = {
-		texture = "mdm_ce_triangle_sao_tomean.dds"
+		texture = "mdm_ce_hoist_triangle_90.dds"
 		color1 = rgb { 239 48 62 }
 	}
 
@@ -34660,7 +34659,7 @@ mdm_SUDA = { # mdm modern day mod Sudan
 	color3 = "black"
 
 	colored_emblem = {
-		texture = "mdm_ce_triangle_mozambican.dds"
+		texture = "mdm_ce_hoist_triangle_75.dds"
 		color1 = rgb { 0 115 36 }
 	}
 }
