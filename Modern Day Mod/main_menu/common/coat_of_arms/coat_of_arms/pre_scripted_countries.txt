@@ -34635,6 +34635,24 @@ STZ = { # Strzelce - Letter S for difference with other Tesin
 	}			
 }
 
+mdm_STPR = { # mdm modern day mod São Tomé and Príncipe
+	pattern = "mdm_pattern_border_top_and_bottom_sao_tome_and_principe.dds"
+	color1 = rgb { 255 210 0 }
+	color2 = rgb { 0 152 54 }
+
+	colored_emblem = {
+		texture = "mdm_ce_triangle_sao_tomean.dds"
+		color1 = rgb { 239 48 62 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "black"
+		instance = { position = { @half 0.516 } scale = { 0.307 0.307 } }
+		instance = { position = { @three_quarters 0.516 } scale = { 0.307 0.307 } }
+	}
+}
+
 mdm_SUDA = { # mdm modern day mod Sudan
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 211 8 49 }
