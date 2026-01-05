@@ -23688,7 +23688,7 @@ mdm_MOZA = { # mdm modern day mod Mozambique
 	color3 = rgb { 252 225 0 }
 
 	colored_emblem = {
-		texture = "mdm_ce_bars_gambian.dds"
+		texture = "mdm_ce_bars_mozambican.dds"
 		color1 = "white"
 	}
 	colored_emblem = {
