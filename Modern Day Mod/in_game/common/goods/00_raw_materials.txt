@@ -709,7 +709,7 @@ stone = {
 
 #other new raw goods
 
-raw_oil = {
+crude_oil = {
 	method = gathering
 	category = raw_material
 	color = goods_amber

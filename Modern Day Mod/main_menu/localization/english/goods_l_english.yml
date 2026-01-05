@@ -40,18 +40,18 @@
  iron_desc: "Iron represents not just iron, but other ferrous metals. Iron formed the basis of the metallurgical industry and was used extensively in the production of weapons and other military equipment."
  copper_ore: "Copper Ore"
  copper_ore_desc: "Copper has been one of the most important materials since the invention and diffusion of metallurgy thousands of years ago. Its use is very varied, as it can be worked alone, but also in alloys, such as bronze. This makes it especially important for weaponry, being essential in the early production of cannons."
- gold_ore: "Gold"
+ gold_ore: "Gold Ore"
  gold_ore_desc: "Gold has traditionally been the most valued metal, widely used for trade and the accumulation of wealth in the form of coins or various types of prestige objects. Its use as the main currency in bimetallic or trimetallic systems leads to a very high demand, making it an object of desire during the exploration of new territories."
- silver: "Silver"
- silver_desc: "Silver was one of the first metals used as money and the most successful along with gold. Central Europe became the center of silver production during the Middle Ages, although the Columbian Exchange shifted the focus of world production to the Americas, making it the main production center of a newborn global network since the 16th century."
+ silver_ore: "Silver"
+ silver_ore_desc: "Silver was one of the first metals used as money and the most successful along with gold. Central Europe became the center of silver production during the Middle Ages, although the Columbian Exchange shifted the focus of world production to the Americas, making it the main production center of a newborn global network since the 16th century."
  gems: "Gems"
  gems_desc: "Since the earliest times, stones such as rubies, sapphires, diamonds, emeralds, or jade, have been used in jewelry and ceremonial attire. For centuries the only source of diamonds in the world were the fabled mines at Golconda. While not all precious stones are as rare, they are all highly sought-after commodities."
  stone: "Stone"
  stone_desc: "Stone has been one of the main building materials of humanity throughout all its history. Stronger and more durable than other options like clay or wood, it was the go-to material for any construction built to last. Buildings from long ago like the Pyramids have reached our times still standing due to the durability of the stone they were made of."
  tin_ore: "Tin"
  tin__ore_desc: "Tin was used extensively for the first time in metallurgy as part of the alloy to obtain bronze 5000 years ago. Later it has been widely used to coat other metals and alloys, such as iron, lead or steel, to prevent corrosion, as well as to make pewter, very common in tableware."
- lead: "Lead"
- lead_desc: "Lead has been obtained since ancient times as a by-product of silver extraction by burning galena. Lead was then used in a wide range of household and manufactured products, especially by the Romans, whose levels of lead production were not reached until the Industrial Revolution. In the Modern Age, it became the main material for making bullets for firearms."
+ lead_ore: "Lead"
+ lead_ore_desc: "Lead has been obtained since ancient times as a by-product of silver extraction by burning galena. Lead was then used in a wide range of household and manufactured products, especially by the Romans, whose levels of lead production were not reached until the Industrial Revolution. In the Modern Age, it became the main material for making bullets for firearms."
  wool: "Wool"
  wool_desc: "Wool came mostly from sheep that grazed in the more marginal lands not suited to other forms of agriculture. Prior to the use of cotton, it was the major raw material for clothing."
  cotton: "Cotton"
@@ -1062,10 +1062,10 @@
  #electricity and water
 
  electricity: "Electricity"
- electricity_desc: "Electricity description"
+ electricity_desc: "The Lifeblood of modern civilisation. Used to power nearly every [building|e]."
 
  fresh_water: "Fresh Water"
- fresh_water_desc: "Fresh Water description"
+ fresh_water_desc: "Not only for Drinking, but also used in many industrial processes."
 
 
 
@@ -1085,10 +1085,10 @@
  #mined goods
 
  aluminium_ore: "Aluminium Ore"
- aluminium_ore_desc: "Aluminium Ore description."
+ aluminium_ore_desc: "Mostly found in the tropics and subtropics. Commonly reffered to as Bauxite."
 
- beryllium_ore: "Berylium Ore"
- beryllium_ore_desc: "Berylium ore description"
+ beryllium_ore: "Beryllium Ore"
+ beryllium_ore_desc: "Beryllium ore description"
 
  pure_quartz: "Pure Quartz"
  pure_quartz_desc: "High Quality Quartz for semiconductors."
@@ -1145,82 +1145,105 @@
 
  #refined metals
 
- aliminium: "Aluminium"
- aliminium_desc: "Refined Aluminium"
+ aluminium: "Aluminium"
+ aluminium_desc: "Produced in an [ShowBuildingTypeName('mdm_aluminium_electrolysis_plant')] from [ShowGoodsName('aluminium_ore')]."
 
- beryllium: "Berylium"
- beryllium_desc: "Berylium description"
+ beryllium: "Beryllium"
+ beryllium_desc: "Produced in a [ShowBuildingTypeName('mdm_metalothermic_reduction_facility')] from [ShowGoodsName('beryllium_ore')]."
+
+ copper: "Copper"
+ copper_desc: "Produced in a [ShowBuildingTypeName('mdm_copper_blast_furnace')] from [ShowGoodsName('copper_ore')]."
+
+ gold_metal: "Gold"
+ gold_metal_desc: "Produced in a [ShowBuildingTypeName('mdm_gold_acid_leaching_plant')] from [ShowGoodsName('gold_ore')], or as a byproduct in a [ShowBuildingTypeName('mdm_copper_blast_furnace')]."
+
+ iron: "Iron"
+ iron_desc: "Iron description"
+ mdm_iron_blast_furnace_iron: "Smelt into Steel"
+
+ mercury: "Mercury"
+ mercury_desc: "Produced in an [ShowBuildingTypeName('mdm_acid_leaching_plant')] from [ShowGoodsName('mercury_ore')]."
+
+ steel: "Steel"
+ steel_desc: "Produced in a [ShowBuildingTypeName('mdm_mixed_metal_blast_furnace')] from [ShowGoodsName('iron_ore')]."
+
+ lead: "Lead"
+ lead_desc: "Produced in a [ShowBuildingTypeName('mdm_lead_blast_furnace')] from [ShowGoodsName('lead_ore')]."
 
  lithium: "Lithium" #li-ion batteries
- lithium_desc: "Lithium description"
+ lithium_desc: "Produced in a [ShowBuildingTypeName('mdm_brine_evaporation_plant')] from [ShowGoodsName('lithium_brine')]."
 
  magnesium: "Magnesium" #also an iron ore byproduct, magnesium also often gained from seewater
- magnesium_desc: "Magnesium"
+ magnesium_desc: "Produced in a [ShowBuildingTypeName('mdm_metalothermic_reduction_facility')] from [ShowGoodsName('magnesium_ore')]."
 
  manganese: "Manganese" #used in steel and lithium iron batteries
- manganese_desc: "Manganese ore for Steel and lithium ion batteries"
+ manganese_desc: "Produced in a [ShowBuildingTypeName('mdm_mixed_metal_blast_furnace')] from [ShowGoodsName('manganese_ore')]."
 
  molybdenum: "Molybdenum" #also often a byproduct of copper mining
- molybdenum_desc: "Molybdenum description"
+ molybdenum_desc: "Produced in a [ShowBuildingTypeName('mdm_molybdenum_blast_furnace')] from [ShowGoodsName('molybdenum_ore')]."
 
  nickel: "Nickel" #also byproduct of copper and platinum
- nickel_desc: "Nickel description"
+ nickel_desc: "Produced in a [ShowBuildingTypeName('mdm_nickel_blast_furnace')] from [ShowGoodsName('nickel_ore')]."
 
  niobium: "Niobium" #also byproduct of tantalum mining, and tin
- niobium_desc: "Niobium decription"
+ niobium_desc: "Produced in a [ShowBuildingTypeName('mdm_metalothermic_reduction_facility')] from [ShowGoodsName('niobium_ore')]."
 
  platinum_group: "Platinum Group" #catalysts, catalytic converters, also byproduct of nickel and copper mining in some places
- platinum_group: "Platinum group description"
+ platinum_group_desc: "Produced in an [ShowBuildingTypeName('mdm_acid_leaching_plant')] from [ShowGoodsName('platinum_group_ore')]."
 
  rare_earth: "Rare Earths"
- rare_earth_desc: "Rare Earths description"
+ rare_earth_desc: "Produced in an [ShowBuildingTypeName('mdm_acid_leaching_plant')] from [ShowGoodsName('rare_earth_ore')]."
+
+ silver: "Silver"
+ silver_desc: "Produced in an [ShowBuildingTypeName('mdm_acid_leaching_plant')] from [ShowGoodsName('silver_ore')], or as a byproduct in [ShowBuildingTypeName('mdm_copper_blast_furnace')], [ShowBuildingTypeName('mdm_lead_blast_furnace')], [ShowBuildingTypeName('mdm_tin_blast_furnace')], [ShowBuildingTypeName('mdm_gold_acid_leaching_plant')], and [ShowBuildingTypeName('mdm_zinc_electrolysis_plant')]."
 
  strontium: "Strontium" #strontium mostly used in ferrite magnets
  strontium_desc: "Strontium description"
 
  tantalum: "Tantalum" #also more commonly byproduct of tin lithium niobium, so maby better as byproduct
- tantalum_desc: "Tantalum description"
+ tantalum_desc: "Produced in an [ShowBuildingTypeName('mdm_acid_leaching_plant')] from [ShowGoodsName('tantalum_ore')]."
 
  titanium: "Titanium"
- titanium_desc: "Titanium description"
+ titanium_desc: "Produced in a [ShowBuildingTypeName('mdm_metalothermic_reduction_facility')] from [ShowGoodsName('rutile')]."
+
+ tin: "Tin"
+ tin_desc: "Produced in a [ShowBuildingTypeName('mdm_tin_blast_furnace')] from [ShowGoodsName('tin_ore')]."
 
  tungsten: "Tungsten"
- tungsten_desc: "Tungsten description"
+ tungsten_desc: "Produced in a [ShowBuildingTypeName('mdm_metalothermic_reduction_facility')] from [ShowGoodsName('tungsten_ore')]."
 
  uranium: "Uranium"
- uranium_desc: "Uranium description"
+ uranium_desc: "Produced in an [ShowBuildingTypeName('mdm_acid_leaching_plant')] from [ShowGoodsName('uranium_ore')]."
 
  vanadium: "Vanadium" #vanadium is extracted from titaniferous magnetite which is only 1-2% vanadium, so this has to be changed
- vanadium_desc: "Vanadium description"
+ vanadium_desc: "Produced in a [ShowBuildingTypeName('mdm_mixed_metal_blast_furnace')] from [ShowGoodsName('vanadium_ore')]."
 
  zinc: "Zinc" #often found together with lead, silver, copper, gold, and cadmium, so sometimes byproduct
- zinc_desc: "Zinc description"
+ zinc_desc: "Produced in a [ShowBuildingTypeName('mdm_zinc_electrolysis_plant')] from [ShowGoodsName('zinc_ore')]."
 
  zirconium: "Zirconium"
- zirconium_desc: "Zirconium description"
-
+ zirconium_desc: "Produced in a [ShowBuildingTypeName('mdm_metalothermic_reduction_facility')] from [ShowGoodsName('zirconium_ore')]."
 
 
  #refining byproducts
 
  bismuth: "Bismuth" #byproduct of lead, copper, tin, silver, gold refining
- bismuth_desc: "Bismuth description"
+ bismuth_desc: "Produced as a byproduct in a [ShowBuildingTypeName('mdm_lead_blast_furnace')] and [ShowBuildingTypeName('mdm_tin_blast_furnace')]."
 
  cadmium: "Cadmium" #ni-cad batteries, zinc lead and copper refining byproduct
- cadmium_desc: "Cadmium description"
+ cadmium_desc: "Produced as a byproduct in a [ShowBuildingTypeName('mdm_zinc_electrolysis_plant')]."
 
  cobalt: "Cobalt" #li-ion batteries, byproduct of copper and nickel
- cobalt_desc: "Cobalt description"
+ cobalt_desc: "Produced as a byproduct in a [ShowBuildingTypeName('mdm_nickel_blast_furnace')]."
 
  gallium: "Gallium" #byproduct of aluminium and zinc refining
- gallium_desc: "Gallium description"
+ gallium_desc: "Produced as a byproduct in an [ShowBuildingTypeName('mdm_aluminium_electrolysis_plant')]."
 
  indium: "Indium" #touchscreens, byproduct of zinc, sometimes tin refining
- indium_desc: "Indium description"
+ indium_desc: "Produced as a byproduct in a [ShowBuildingTypeName('mdm_zinc_electrolysis_plant')]."
 
  rhenium: "Rhenium" #jet engines, making high octane high quality fuel, byproduct of copper because of molybdenum
- rhenium_desc: "Rhenium description"
-
+ rhenium_desc: "Produced as a byproduct in a [ShowBuildingTypeName('mdm_molybdenum_blast_furnace')]."
 
 
 
@@ -1229,8 +1252,8 @@
  silica_sand: "Silica Sand"
  silica_sand_desc: "Silica Sand for the production of glass"
 
- raw_oil: "Raw Oil"
- raw_oil_desc: "Raw Oil description"
+ crude_oil: "Crude Oil"
+ crude_oil_desc: "Refined in a [ShowBuildingTypeName('mdm_oil_refinery')] into various [mdm_oil_fractions|e]"
 
  helium: "Helium"
  helium_desc: "Helium 3 for fusion reactors"
@@ -1257,26 +1280,22 @@
  #oil products goods
 
  petrogas: "Petrogas"
- petrogas_desc: "Petrogas description"
- mdm_oil_refinery_petrogas: "Refine into Petrogas"
+ petrogas_desc: "Used in heating Homes, gas Cooking, making [ShowGoodsName('fertilizer')], and producing [ShowGoodsName('plastic')]."
 
  gasoline: "Gasoline"
- gasoline_desc: "Gasoline description"
- mdm_oil_refinery_gasoline: "Refine into Gasoline"
+ gasoline_desc: "Used as fuel for combustion engine vehicles like [ShowGoodsName('combustion_cars')] or small [ShowGoodsName('airplanes')], and producing [ShowGoodsName('plastic')]."
 
- jet_fuel: "Jet Fuel"
- jet_fuel_desc: "Jet Fuel description"
- mdm_oil_refinery_jet_fuel: "Refine into Jet Fuel" 
+ kerosine: "Kerosine"
+ kerosine_desc: "Used mainly as Jet Fuel for [ShowGoodsName('airplanes')], but also oil lamps, heating and cooking in poorer regions."
+
  diesel: "Diesel"
- diesel_desc: "Diesel description"
- mdm_oil_refinery_diesel: "Refine into Diesel"
+ diesel_desc: "Used as fuel for a viery of larger combustion engine vehicles like trucks, buses, trains, ships, tractors, construction and military vehicles and some [ShowGoodsName('airplanes')]. Also used in some powerplants and emergency power in Hospitals and Data Centers." #todo: when hospitals and data centers, add them here as hoverable things
  
  heavy_oil: "Heavy Oil"
- heavy_oil_desc: "Heavy Oil description"
- mdm_oil_refinery_heavy_oil: "Refine into Heavy Oil"
+ heavy_oil_desc: "Used in the production of [ShowGoodsName('asphalt')] and fuel for large ships and some powerplants."
+
  asphalt: "Asphalt"
- asphalt_desc: "Asphalt description"
- mdm_oil_refinery_asphalt: "Refine into Asphalt"
+ asphalt_desc: "Used in road construction and roofing, but also less demanding applications like cycle paths or tennis courts."
 
 
  #intermediate industrial goods
@@ -1286,6 +1305,9 @@
  #magnet distinction might be better as production method ?, idk
  rare_earth_magnet: "Rare Earth Magnets" #neodymium magnets for example
  rare_earth_magnet_desc: "Rare Earth Magnets decription"
+
+ plastic: "Plastic"
+ plastic_desc: "Plastic description"
 
 
 

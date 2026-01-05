@@ -1,10 +1,10 @@
-﻿mdm_blast_furnace = {
+﻿mdm_mixed_metal_blast_furnace = {
     is_foreign = no
     max_levels = mdm_dev_and_rank_max_level
     pop_type = laborers
     
     employment_size = mdm_default_employment
-    category = infrastructure_category
+    category = metal_refining_category
     
     megalopolis = yes
     metropolis = yes
@@ -18,27 +18,6 @@
     build_time = mdm_default_built_time
 
     unique_production_methods = {
-        mdm_blast_furnace_copper_1 = {
-            copper_ore = 0.85
-            borax = 0.17
-            electricity = 5.95
-            produced = copper
-            output = 0.85
-        }
-        mdm_blast_furnace_copper_2 = {
-            copper_ore = 0.1
-            borax = 0.02
-            electricity = 0.7
-            produced = silver
-            output = 0.1
-        }
-        mdm_blast_furnace_copper_3 = {
-            copper_ore = 0.02
-            borax = 0.004
-            electricity = 0.14
-            produced = gold
-            output = 0.02
-        }
         mdm_blast_furnace_iron = {
             iron_ore = 1
             coal = 0.5
@@ -47,84 +26,12 @@
             produced = steel #no iron, produces steel
             output = 0.85
         }
-        mdm_blast_furnace_lead_1 = {
-            lead_ore = 0.85
-            limestone = 0.17
-            electricity = 5
-            produced = lead
-            output = 0.85
-        }
-        mdm_blast_furnace_lead_2 = {
-            lead_ore = 0.1
-            limestone = 0.02
-            electricity = 0.5
-            produced = bismuth
-            output = 0.1
-        }
-        mdm_blast_furnace_lead_3 = {
-            lead_ore = 0.02
-            limestone = 0.004
-            electricity = 0.1
-            produced = silver
-            output = 0.02
-        }
         mdm_blast_furnace_manganese = {
             manganese_ore = 1
             coal = 0.5
             electricity = 4.25
             produced = manganese
             output = 0.85
-        }
-        mdm_blast_furnace_molybdenum_1 = {
-            molybdenum_ore = 0.8
-            coal = 0.4
-            electricity = 3.2
-            produced = molybdenum
-            output = 0.8
-        }
-        mdm_blast_furnace_molybdenum_2 = {
-            molybdenum_ore = 0.007
-            coal = 0.0035
-            electricity = 0.028
-            produced = rhenium
-            output = 0.007
-        }
-        mdm_blast_furnace_nickel_1 = {
-            nickel_ore = 0.85
-            coal = 0.425
-            limestone = 0.17
-            electricity = 8.5
-            produced = nickel
-            output = 0.85
-        }
-        mdm_blast_furnace_nickel_2 = {
-            nickel_ore = 0.12
-            coal = 0.06
-            limestone = 0.024
-            electricity = 1.2
-            produced = cobalt
-            output = 0.12
-        }
-        mdm_blast_furnace_tin_1 = {
-            tin_ore = 0.85
-            borax = 0.17
-            electricity = 2.55
-            produced = tin
-            output = 0.85
-        }
-        mdm_blast_furnace_tin_2 = {
-            tin_ore = 0.1
-            borax = 0.02
-            electricity = 0.3
-            produced = bismuth
-            output = 0.1
-        }
-        mdm_blast_furnace_tin_3 = {
-            tin_ore = 0.01
-            borax = 0.002
-            electricity = 0.03
-            produced = silver
-            output = 0.01
         }
         mdm_blast_furnace_vanadium = {
             vanadium_ore = 1
@@ -138,13 +45,247 @@
     construction_demand = mdm_default_construction_demand
 }
 
+mdm_copper_blast_furnace = {
+    is_foreign = no
+    max_levels = mdm_dev_and_rank_max_level
+    pop_type = laborers
+    
+    employment_size = mdm_default_employment
+    category = metal_refining_category
+    
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+    village = yes
+    rural_settlement = yes
+
+    price = mdm_default_price
+    build_time = mdm_default_built_time
+
+    unique_production_methods = {
+        mdm_copper_blast_furnace_copper_main_output = {
+            copper_ore = 0.85
+            borax = 0.17
+            electricity = 5.95
+            produced = copper
+            output = 0.85
+        }
+	}
+    unique_production_methods = {
+        mdm_copper_blast_furnace_silver_byproduct_output = {
+            copper_ore = 0.1
+            borax = 0.02
+            electricity = 0.7
+            produced = silver
+            output = 0.1
+        }
+	}
+    unique_production_methods = {
+        mdm_copper_blast_furnace_gold_byproduct_output = {
+            copper_ore = 0.02
+            borax = 0.004
+            electricity = 0.14
+            produced = gold_metal
+            output = 0.02
+        }
+	}
+
+    construction_demand = mdm_default_construction_demand
+}
+
+mdm_lead_blast_furnace = {
+    is_foreign = no
+    max_levels = mdm_dev_and_rank_max_level
+    pop_type = laborers
+    
+    employment_size = mdm_default_employment
+    category = metal_refining_category
+    
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+    village = yes
+    rural_settlement = yes
+
+    price = mdm_default_price
+    build_time = mdm_default_built_time
+
+    unique_production_methods = {
+        mdm_lead_blast_furnace_lead_main_output = {
+            lead_ore = 0.85
+            limestone = 0.17
+            electricity = 5
+            produced = lead
+            output = 0.85
+        }
+	}
+    unique_production_methods = {
+        mdm_lead_blast_furnace_bismuth_byproduct_output = {
+            lead_ore = 0.1
+            limestone = 0.02
+            electricity = 0.5
+            produced = bismuth
+            output = 0.1
+        }
+	}
+    unique_production_methods = {
+        mdm_lead_blast_furnace_silver_byproduct_output = {
+            lead_ore = 0.02
+            limestone = 0.004
+            electricity = 0.1
+            produced = silver
+            output = 0.02
+        }
+	}
+
+    construction_demand = mdm_default_construction_demand
+}
+
+mdm_molybdenum_blast_furnace = {
+    is_foreign = no
+    max_levels = mdm_dev_and_rank_max_level
+    pop_type = laborers
+    
+    employment_size = mdm_default_employment
+    category = metal_refining_category
+    
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+    village = yes
+    rural_settlement = yes
+
+    price = mdm_default_price
+    build_time = mdm_default_built_time
+
+    unique_production_methods = {
+        mdm_molybdenum_blast_furnace_molybdenum_main_output = {
+            molybdenum_ore = 0.8
+            coal = 0.4
+            electricity = 3.2
+            produced = molybdenum
+            output = 0.8
+        }
+	}
+    unique_production_methods = {
+        mdm_molybdenum_blast_furnace_rhenium_byproduct_output = {
+            molybdenum_ore = 0.007
+            coal = 0.0035
+            electricity = 0.028
+            produced = rhenium
+            output = 0.007
+        }
+	}
+
+    construction_demand = mdm_default_construction_demand
+}
+
+mdm_nickel_blast_furnace = {
+    is_foreign = no
+    max_levels = mdm_dev_and_rank_max_level
+    pop_type = laborers
+    
+    employment_size = mdm_default_employment
+    category = metal_refining_category
+    
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+    village = yes
+    rural_settlement = yes
+
+    price = mdm_default_price
+    build_time = mdm_default_built_time
+
+    unique_production_methods = {
+        mdm_nickel_blast_furnace_nickel_main_output = {
+            nickel_ore = 0.85
+            coal = 0.425
+            limestone = 0.17
+            electricity = 8.5
+            produced = nickel
+            output = 0.85
+        }
+	}
+    unique_production_methods = {
+        mdm_nickel_blast_furnace_cobalt_byproduct_output = {
+            nickel_ore = 0.12
+            coal = 0.06
+            limestone = 0.024
+            electricity = 1.2
+            produced = cobalt
+            output = 0.12
+        }
+	}
+
+    construction_demand = mdm_default_construction_demand
+}
+
+mdm_tin_blast_furnace = {
+    is_foreign = no
+    max_levels = mdm_dev_and_rank_max_level
+    pop_type = laborers
+    
+    employment_size = mdm_default_employment
+    category = metal_refining_category
+    
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+    village = yes
+    rural_settlement = yes
+
+    price = mdm_default_price
+    build_time = mdm_default_built_time
+
+    unique_production_methods = {
+        mdm_tin_blast_furnace_tin_main_output = {
+            tin_ore = 0.85
+            borax = 0.17
+            electricity = 2.55
+            produced = tin
+            output = 0.85
+        }
+	}
+    unique_production_methods = {
+        mdm_tin_blast_furnace_bismuth_byproduct_output = {
+            tin_ore = 0.1
+            borax = 0.02
+            electricity = 0.3
+            produced = bismuth
+            output = 0.1
+        }
+	}
+    unique_production_methods = {
+        mdm_tin_blast_furnace_silver_byproduct_output = {
+            tin_ore = 0.01
+            borax = 0.002
+            electricity = 0.03
+            produced = silver
+            output = 0.01
+        }
+	}
+
+    construction_demand = mdm_default_construction_demand
+}
+
 mdm_acid_leaching_plant = {
     is_foreign = no
     max_levels = mdm_dev_and_rank_max_level
     pop_type = laborers
 
     employment_size = mdm_default_employment
-    category = infrastructure_category
+    category = metal_refining_category
 
     megalopolis = yes
     metropolis = yes
@@ -158,6 +299,13 @@ mdm_acid_leaching_plant = {
     build_time = mdm_default_built_time
 
     unique_production_methods = {
+        mdm_acid_leaching_silver = {
+            silver_ore = 1
+            nitric_acid = 0.5
+            electricity = 2.5
+            produced = silver
+            output = 0.85
+        }
         mdm_acid_leaching_mercury = {
             mercury_ore = 1
             nitric_acid = 0.5
@@ -198,13 +346,54 @@ mdm_acid_leaching_plant = {
     construction_demand = mdm_default_construction_demand
 }
 
+mdm_gold_acid_leaching_plant = {
+    is_foreign = no
+    max_levels = mdm_dev_and_rank_max_level
+    pop_type = laborers
+
+    employment_size = mdm_default_employment
+    category = metal_refining_category
+
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+    village = yes
+    rural_settlement = yes
+
+    price = mdm_default_price
+    build_time = mdm_default_built_time
+
+    unique_production_methods = {
+        mdm_gold_acid_leaching_plant_gold_main_output = {
+            gold_ore = 0.95
+            aqua_regia = 0.45
+            electricity = 2.8
+            produced = gold_metal
+            output = 0.85
+        }
+    }
+    unique_production_methods = {
+        mdm_gold_acid_leaching_plant_silver_byproduct_output = {
+            gold_ore = 0.05
+            aqua_regia = 0.05
+            electricity = 0.2
+            produced = silver
+            output = 0.05
+        }
+    }
+
+    construction_demand = mdm_default_construction_demand
+}
+
 mdm_metalothermic_reduction_facility = {
     is_foreign = no
     max_levels = mdm_dev_and_rank_max_level
     pop_type = laborers
     
     employment_size = mdm_default_employment
-    category = infrastructure_category
+    category = metal_refining_category
     
     megalopolis = yes
     metropolis = yes
@@ -218,13 +407,6 @@ mdm_metalothermic_reduction_facility = {
     build_time = mdm_default_built_time
 
     unique_production_methods = {
-        mdm_metalothermic_reduction_facility_beryllium = {
-            beryllium_ore = 1
-            magnesium = 0.2
-            electricity = 1
-            produced = beryllium
-            output = 0.8
-        }
         mdm_metalothermic_reduction_facility_magnesium = {
             magnesium_ore = 1
             silicon = 0.2
@@ -232,13 +414,6 @@ mdm_metalothermic_reduction_facility = {
             electricity = 6
             produced = magnesium
             output = 0.8
-        }
-        mdm_metalothermic_reduction_facility_niobium = {
-            niobium_ore = 1
-            aluminium = 0.3
-            electricity = 2
-            produced = niobium
-            output = 0.85
         }
         mdm_metalothermic_reduction_facility_titanium = {
             rutile = 1
@@ -255,6 +430,20 @@ mdm_metalothermic_reduction_facility = {
             produced = tungsten
             output = 0.85
         }
+        mdm_metalothermic_reduction_facility_beryllium = {
+            beryllium_ore = 1
+            magnesium = 0.2
+            electricity = 1
+            produced = beryllium
+            output = 0.8
+        }
+        mdm_metalothermic_reduction_facility_niobium = {
+            niobium_ore = 1
+            aluminium = 0.3
+            electricity = 2
+            produced = niobium
+            output = 0.85
+        }
         mdm_metalothermic_reduction_facility_zirconium = {
             zirconium_ore = 1
             manganese = 0.2
@@ -268,13 +457,13 @@ mdm_metalothermic_reduction_facility = {
     construction_demand = mdm_default_construction_demand
 }
 
-mdm_electrolysis_plant = {
+mdm_aluminium_electrolysis_plant = {
     is_foreign = no
     max_levels = mdm_dev_and_rank_max_level
     pop_type = laborers
     
     employment_size = mdm_default_employment
-    category = infrastructure_category
+    category = metal_refining_category
     
     megalopolis = yes
     metropolis = yes
@@ -288,42 +477,75 @@ mdm_electrolysis_plant = {
     build_time = mdm_default_built_time
 
     unique_production_methods = {
-        mdm_electrolysis_plant_aluminium_1 = {
+        mdm_aluminium_electrolysis_plant_aluminium_main_output = {
             aluminium_ore = 0.85
             coal = 0.085
             electricity = 25.5
             produced = aluminium
             output = 0.85
         }
-        mdm_electrolysis_plant_aluminium_2 = {
+	}
+    unique_production_methods = {
+        mdm_aluminium_electrolysis_plant_gallium_byproduct_output = {
             aluminium_ore = 0.015
             coal = 0.0015
             electricity = 0.45
             produced = gallium
             output = 0.015
         }
-        mdm_electrolysis_plant_zinc_1 = {
+    }
+
+    construction_demand = mdm_default_construction_demand
+}
+
+mdm_zinc_electrolysis_plant = {
+    is_foreign = no
+    max_levels = mdm_dev_and_rank_max_level
+    pop_type = laborers
+    
+    employment_size = mdm_default_employment
+    category = metal_refining_category
+    
+    megalopolis = yes
+    metropolis = yes
+    major_city = yes
+    city = yes
+    town = yes
+    village = yes
+    rural_settlement = yes
+
+    price = mdm_default_price
+    build_time = mdm_default_built_time
+
+    unique_production_methods = {
+        mdm_zinc_electrolysis_plant_zinc_main_output = {
             zinc_ore = 0.85
             limestone = 0.425
             electricity = 5.1
             produced = zinc
             output = 0.85
         }
-        mdm_electrolysis_plant_zinc_2 = {
+	}
+    unique_production_methods = {
+        mdm_zinc_electrolysis_plant_cadmium_byproduct_output = {
             zinc_ore = 0.07
             limestone = 0.035
             electricity = 0.42
             produced = cadmium
             output = 0.07
         }
-        mdm_electrolysis_plant_zinc_3 = {
+	}
+    unique_production_methods = {
+        mdm_zinc_electrolysis_plant_indium_byproduct_output = {
             zinc_ore = 0.015
             limestone = 0.0075
             electricity = 0.09
             produced = indium
             output = 0.015
         }
-        mdm_electrolysis_plant_zinc_4 = {
+	}
+    unique_production_methods = {
+        mdm_zinc_electrolysis_plant_silver_byproduct_output = {
             zinc_ore = 0.005
             limestone = 0.0025
             electricity = 0.03
@@ -341,7 +563,7 @@ mdm_brine_evaporation_plant = {
     pop_type = laborers
 
     employment_size = mdm_default_employment
-    category = infrastructure_category
+    category = metal_refining_category
 
     megalopolis = yes
     metropolis = yes
