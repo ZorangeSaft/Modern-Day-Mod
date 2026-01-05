@@ -6411,6 +6411,41 @@ CAD = { # Caddo
 	}	
 }
 
+mdm_CAFR = { # mdm modern day mod Central African Republic
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 211 8 49 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_central_african.dds"
+		color1 = rgb { 0 44 131 }
+		instance = { position = { 0.5 0.125 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_central_african.dds"
+		color1 = "white"
+		instance = { position = { 0.5 0.375 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_central_african.dds"
+		color1 = rgb { 35 152 35 }
+		instance = { position = { 0.5 0.625 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_central_african.dds"
+		color1 = rgb { 255 207 0 }
+		instance = { position = { 0.5 0.875 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 255 207 0 }
+		instance = { position = { 0.167 0.125 } scale = { 0.2 0.2 } }
+	}
+}
+
 CAG = { # Cagliari
 	pattern = "pattern_solid.dds"
 	color1 = "white"
@@ -11971,20 +12006,23 @@ ETA_three_fleurs = { # Etampes
 	}		
 }
 
-ETH = { # Ethiopia - 17th c arms (without the terrace)
-	pattern = "pattern_solid.dds"
-	color1 = "white"
-	color2 = "red"
-	color3 = "yellow_mid"
-	color4 = "green_light"
-		
+mdm_ETH = { # mdm modern day mod Ethiopia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 1 138 44 }
+	color2 = rgb { 252 222 2 }
+	color3 = rgb { 219 10 19 }
+
 	colored_emblem = {
-		texture = "ce_lion_passant_guardant_judah_wide.dds"
+		texture = "mdm_ce_circle.dds"
+		color1 = rgb { 6 69 176 }
+		instance = { scale = { 0.666 0.666 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_ethiopian.dds"
 		color1 = color2
-		color2 = color3
-		color3 = color1
-		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 } }					
-	}			
+		instance = { scale = { 0.532 0.532 } }
+	}
 }
 
 ETH_modern = { # Ethiopia Modern tricolour design
@@ -34595,6 +34633,18 @@ STZ = { # Strzelce - Letter S for difference with other Tesin
 		color3 = hsv360 	{	42	65	50	}	
 		instance = { position = { 0.5 0.46 } scale = { 0.34 0.36 } }				
 	}			
+}
+
+mdm_SUDA = { # mdm modern day mod Sudan
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 211 8 49 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_triangle_mozambican.dds"
+		color1 = rgb { 0 115 36 }
+	}
 }
 
 SUK = { # Sukhothai

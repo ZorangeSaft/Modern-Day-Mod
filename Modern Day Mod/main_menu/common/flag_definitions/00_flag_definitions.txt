@@ -1397,6 +1397,13 @@ BYZ = { # Byzantium
 	}	
 }
 
+CAFR = { # mdm modern day mod Central African Republic
+	flag_definition = {
+		coa = mdm_CAFR
+		priority = 1
+	}
+}
+
 CAME = { # mdm modern day mod Cameroon
 	flag_definition = {
 		coa = mdm_CAME
@@ -2003,6 +2010,13 @@ ETA = { # Etampes
 		trigger = {
 			coa_def_discovery_age_3_trigger = yes
 		}
+	}
+}
+
+ETH = { # mdm modern day mod Ethiopia
+	flag_definition = {
+		coa = mdm_ETH
+		priority = 1
 	}
 }
 
@@ -5219,6 +5233,13 @@ STP = { # Saint-Pol
 		trigger = {
 			coa_def_chatillon_dynasty_trigger = yes
 		}
+	}
+}
+
+SUDA = { # mdm modern day mod Sudan
+	flag_definition = {
+		coa = mdm_SUDA
+		priority = 1
 	}
 }
 
