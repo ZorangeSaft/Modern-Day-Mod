@@ -10663,6 +10663,22 @@ DJE = { # Djerid
 	}
 }
 
+mdm_DJIB = { # mdm modern day mod Djibouti
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 106 180 232 }
+	color2 = rgb { 9 175 39 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_60.dds"
+		color1 = "white"
+	}
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 216 12 19 }
+		instance = { position = { 0.221 0.5 } scale = { 0.248 0.248 } }
+	}
+}
+
 DLH = { # Delhi
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	0		0		80	} 
@@ -11829,6 +11845,19 @@ ERF = { # Erfurt (billety variant)
 		color1 = color2
 		color2 = color2
 		color3 = color1
+	}
+}
+
+mdm_ERIT = { # mdm modern day mod Eritrea
+	pattern = "mdm_pattern_eritrea.dds"
+	color1 = rgb { 229 0 39 }
+	color2 = rgb { 65 178 37 }
+	color3 = rgb { 63 144 223 }
+
+	colored_emblem = {
+		texture = "mdm_ce_eritrea.dds"
+		color1 = rgb { 255 200 40 }
+		instance = { position = { 0.333 0.521 } scale = { 0.5 0.5 } }
 	}
 }
 
@@ -33919,6 +33948,25 @@ mdm_SOMA = { # mdm modern day mod Somalia
 		texture = "mdm_ce_star_five.dds"
 		color1 = "white"
 		instance = { position = { 0.477 0.5 } scale = { 0.436 0.436 } }
+	}
+}
+
+mdm_SOML = { # mdm modern day mod Somaliland
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 109 27 }
+	color2 = "white"
+	color3 = rgb { 224 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_shahada_somaliland.dds"
+		color1 = "white"
+		instance = { position = { 0.5 0.167 } scale = { 0.363 0.363 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "black"
+		instance = { scale = { 0.178 0.178 } }
 	}
 }
 

@@ -1917,6 +1917,13 @@ DAU = { # Viennois
 	}
 }
 
+DJIB = { # mdm modern day mod Djibouti
+	flag_definition = {
+		coa = mdm_DJIB
+		priority = 1
+	}
+}
+
 DRCO = { # mdm modern day mod Democratic Republic of the Congo
 	flag_definition = {
 		coa = mdm_DRCO
@@ -1957,6 +1964,13 @@ EPI = { # Epirus
 EQGU = { # mdm modern day mod Equatorial Guinea
 	flag_definition = {
 		coa = mdm_EQGU
+		priority = 1
+	}
+}
+
+ERIT = { # mdm modern day mod Eritrea
+	flag_definition = {
+		coa = mdm_ERIT
 		priority = 1
 	}
 }
@@ -5186,6 +5200,13 @@ SMO = { # Smolensk
 SOMA = { # mdm modern day mod Somalia
 	flag_definition = {
 		coa = mdm_SOMA
+		priority = 1
+	}
+}
+
+SOML = { # mdm modern day mod Somaliland
+	flag_definition = {
+		coa = mdm_SOML
 		priority = 1
 	}
 }
