@@ -38626,6 +38626,43 @@ UTR_holland = { # Utrecht - Quarterly Holland 15th c. (also had civic arms in he
     }
 }
 
+mdm_UZBE = { # mdm modern day mod Uzbekistan
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 153 204 }
+	color2 = "white"
+	color3 = rgb { 0 204 51 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bars_uzbek.dds"
+		color1 = rgb { 239 14 42 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_uzbek.dds"
+		color1 = "white"
+		instance = { position = { 0.115 0.16 } scale = { 0.24 0.24 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.272 0.064} scale = { 0.048 0.048 } }
+		instance = { position = { 0.32 0.064} scale = { 0.048 0.048 } }
+		instance = { position = { 0.368 0.064} scale = { 0.048 0.048 } }
+
+		instance = { position = { 0.228 0.16} scale = { 0.048 0.048 } }
+		instance = { position = { 0.272 0.16} scale = { 0.048 0.048 } }
+		instance = { position = { 0.32 0.16} scale = { 0.048 0.048 } }
+		instance = { position = { 0.368 0.16} scale = { 0.048 0.048 } }
+
+		instance = { position = { 0.184 0.256} scale = { 0.048 0.048 } }
+		instance = { position = { 0.228 0.256} scale = { 0.048 0.048 } }
+		instance = { position = { 0.272 0.256} scale = { 0.048 0.048 } }
+		instance = { position = { 0.32 0.256} scale = { 0.048 0.048 } }
+		instance = { position = { 0.368 0.256} scale = { 0.048 0.048 } }
+	}
+}
+
 VAL = { # Valencia - Civic arms (arms of the kingdom itself are identical to Aragon)
 	pattern = "pattern_solid.dds"
 	color1 = "blue"

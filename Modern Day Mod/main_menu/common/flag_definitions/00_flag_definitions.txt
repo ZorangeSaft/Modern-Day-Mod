@@ -6487,6 +6487,13 @@ UTR = { # Utrecht
 	}	
 }
 
+UZBE = { # mdm modern day mod Uzbekistan
+	flag_definition = {
+		coa = mdm_UZBE
+		priority = 1
+	}
+}
+
 VBK = { # Vitebsk
 	flag_definition = {
 		coa = VBK
