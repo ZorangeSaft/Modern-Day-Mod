@@ -18609,7 +18609,7 @@ KMG = { # Khamag
 }
 
 mdm_KHM = { # mdm modern day mod Cambodia
-	pattern = "mdm_pattern_border_top_and_bottom.dds"
+	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
 	color1 = rgb { 225 0 32 }
 	color2 = rgb { 0 42 162 }
 
@@ -19761,7 +19761,7 @@ LAN = { # Lancaster
 }
 
 mdm_LAOS = { # mdm modern day mod Laos
-	pattern = "mdm_pattern_border_top_and_bottom.dds"
+	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
 	color1 = rgb { 0 35 104 }
 	color2 = rgb { 207 8 33 }
 
@@ -21604,7 +21604,7 @@ MAU = { # Mauganj
 }
 
 mdm_MAUR = { # mdm modern day mod Mauritania
-	pattern = "mdm_pattern_border_top_and_bottom_mauritania.dds"
+	pattern = "mdm_pattern_border_top_and_bottom_1-3-1.dds"
 	color1 = rgb { 0 171 92 }
 	color2 = rgb { 209 22 25 }
 
@@ -33997,7 +33997,7 @@ SOS = { # Sus
 }
 
 mdm_SPA = { # mdm modern day mod Spain
-	pattern = "mdm_pattern_border_top_and_bottom.dds"
+	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
 	color1 = rgb { 250 190 0 }
 	color2 = rgb { 175 13 18 }
 
@@ -34635,7 +34635,7 @@ STZ = { # Strzelce - Letter S for difference with other Tesin
 }
 
 mdm_STPR = { # mdm modern day mod São Tomé and Príncipe
-	pattern = "mdm_pattern_border_top_and_bottom_sao_tome_and_principe.dds"
+	pattern = "mdm_pattern_border_top_and_bottom_2-3-2.dds"
 	color1 = rgb { 255 210 0 }
 	color2 = rgb { 0 152 54 }
 
