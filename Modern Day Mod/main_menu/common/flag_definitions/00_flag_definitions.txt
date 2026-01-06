@@ -2843,6 +2843,13 @@ KTG = { # Kengtung
 	}
 }
 
+KUWA = { # mdm modern day mod Kuwait
+	flag_definition = {
+		coa = mdm_KUWA
+		priority = 1
+	}
+}
+
 KYRG = { # mdm modern day mod Kyrgyzstan
 	flag_definition = {
 		coa = mdm_KYRG

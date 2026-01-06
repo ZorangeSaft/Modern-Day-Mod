@@ -19569,6 +19569,18 @@ KUT = { # Kutch
 	}		
 }
 
+mdm_KUWA = { # mdm modern day mod Kuwait
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 123 58 }
+	color2 = "white"
+	color3 = rgb { 207 8 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_trapezoid.dds"
+		color1 = "black"
+	}
+}
+
 KUY = { # Kuy People
 	pattern = "pattern_solid.dds"
 	color1 = "green"
