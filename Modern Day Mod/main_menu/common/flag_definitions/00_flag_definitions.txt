@@ -343,6 +343,13 @@ ABA = { # Alba
 	}
 }
 
+ABKH = { # mdm modern day mod Abkhazia
+	flag_definition = {
+		coa = mdm_ABKH
+		priority = 1
+	}
+}
+
 ACH = { # Achaea
 	flag_definition = {
 		coa = ACH
@@ -5218,6 +5225,13 @@ SOML = { # mdm modern day mod Somaliland
 	}
 }
 
+SOSE = { # mdm modern day mod South Ossetia
+	flag_definition = {
+		coa = mdm_SOSE
+		priority = 1
+	}
+}
+
 SPA = { # mdm modern day mod Spain
 	flag_definition = {
 		coa = mdm_SPA
@@ -6922,6 +6936,13 @@ CHE = { # Chen
 		trigger = {
 			coa_def_empire_trigger = yes
 		}
+	}
+}
+
+CHEC = { # mdm modern day mod Chechnya
+	flag_definition = {
+		coa = mdm_CHEC
+		priority = 1
 	}
 }
 

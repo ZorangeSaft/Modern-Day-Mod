@@ -167,6 +167,36 @@ ABA_revolutionary_republic = { # Alba Revolutionnary Republic
 	}	
 }
 
+mdm_ABKH = { # mdm modern day mod Abkhazia
+	pattern = "mdm_pattern_abkhazia.dds"
+	color1 = rgb { 0 154 60 }
+	color2 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 201 45 37 }
+		instance = { position = { 0.254 0.215 } scale = { 0.507 0.429 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_hand_abkhazia.dds"
+		color1 = color2
+		instance = { position = { 0.266 0.252 } scale = { 0.253 0.253 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.079 0.259 } scale = { 0.057 0.057 } }
+		instance = { position = { 0.115 0.158 } scale = { 0.057 0.057 } }
+		instance = { position = { 0.179 0.087 } scale = { 0.057 0.057 } }
+		instance = { position = { 0.253 0.064 } scale = { 0.057 0.057 } }
+		instance = { position = { 0.328 0.087 } scale = { 0.057 0.057 } }
+		instance = { position = { 0.391 0.158 } scale = { 0.057 0.057 } }
+		instance = { position = { 0.428 0.259 } scale = { 0.057 0.057 } }
+	}
+}
+
 ABL = { # Ardabil
 	pattern = "pattern_border_thin.dds"
 	color1 = "green"
@@ -7596,6 +7626,14 @@ CHE_dragon = { # Chen Han - Imperial
 		texture = "te_dragon_flaming_pearl_clouds_red_variant.dds"
 		instance = { position = { 0.5 0.5 } scale = { 0.85 0.8 } }
 	}
+}
+
+mdm_CHEC = { # mdm modern day mod Chechnya
+	pattern = "mdm_pattern_ichkeria.dds"
+	color1 = rgb { 39 116 53 }
+	color2 = "white"
+	color3 = rgb { 219 32 23 }
+	
 }
 
 CHG = { # Chagatai
@@ -34056,6 +34094,13 @@ SOS = { # Sus
 		color3 = color1
 		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 } }			
 	}
+}
+
+mdm_SOSE = { # mdm modern day mod South Ossetia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "white"
+	color2 = rgb { 222 0 0 }
+	color3 = rgb { 255 207 0 }
 }
 
 mdm_SPA = { # mdm modern day mod Spain
