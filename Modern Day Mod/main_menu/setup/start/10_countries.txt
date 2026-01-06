@@ -1747,7 +1747,7 @@ countries = {
 
 	OMA = {
 		own_control_core = {
-			adam al_kamil_wal_wafi al_khaburah as_sib bahla haima ibra ibri izki jalan_buani_buali masirah masqat mirbat_masirah_corridor1 mirbat_masirah_corridor2 mirbat_masirah_corridor3 nakhal nizwa qalhat rustaq saham shinas sinaw suhar sur yanqul al_mazyunah dhufar mirbat raysut thumrait
+			adam al_kamil_wal_wafi al_khaburah as_sib bahla haima ibra ibri izki jalan_buani_buali masirah masqat mirbat_masirah_corridor1 mirbat_masirah_corridor2 mirbat_masirah_corridor3 nakhal nizwa qalhat rustaq saham shinas sinaw suhar sur yanqul al_mazyunah dhufar mirbat raysut thumrait khasab
 		}
 		starting_technology_level = 3
 		include = "muslim_monarchy"
