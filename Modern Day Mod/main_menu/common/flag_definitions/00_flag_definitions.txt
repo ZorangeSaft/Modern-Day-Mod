@@ -4903,6 +4903,13 @@ SAR = { # Sardinia
 	}
 }
 
+SAUD = { # mdm modern day mod Saudi Arabia
+	flag_definition = {
+		coa = mdm_SAUD
+		priority = 1
+	}
+}
+
 SAV = { # Savoy
 	flag_definition = {
 		coa = SAV
