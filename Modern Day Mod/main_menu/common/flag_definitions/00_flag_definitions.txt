@@ -813,6 +813,14 @@ BAC = { # Bacan
 	}
 }
 
+BAHR = { # mdm modern day mod Bahrain
+	flag_definition = {
+		coa = mdm_BAHR
+		priority = 1
+	}
+}
+
+
 BAV = { # Bavaria
 	flag_definition = {
 		coa = BAV
@@ -4110,6 +4118,13 @@ OLD = { # Oldenburg
 	}	
 }
 
+OMA = { # mdm modern day mod Oman
+	flag_definition = {
+		coa = mdm_OMA
+		priority = 1
+	}
+}
+
 OPV = { # Opava/Troppau
 	flag_definition = {
 		coa = OPV
@@ -4708,6 +4723,13 @@ PRU = { # Prussia
 			coa_def_revolutionary_republic_trigger = yes
 		}
 	}	
+}
+
+QATA = { # mdm modern day mod Qatar
+	flag_definition = {
+		coa = mdm_QATA
+		priority = 1
+	}
 }
 
 RAW = { # Rawa
@@ -5624,6 +5646,13 @@ TWS = { # Two Sicilies
 			coa_def_revolutionary_republic_trigger = yes
 		}
 	}	
+}
+
+UAEM = { # mdm modern day mod United Arab Emirates
+	flag_definition = {
+		coa = mdm_UAEM
+		priority = 1
+	}
 }
 
 UBV = { # Upper Bavaria

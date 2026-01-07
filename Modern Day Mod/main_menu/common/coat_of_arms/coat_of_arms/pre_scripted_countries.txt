@@ -2820,6 +2820,12 @@ BAH = { # Bahmani sultanate
 	}
 }
 
+mdm_BAHR = { # mdm modern day mod Bahrain
+	pattern = "mdm_pattern_bahrain.dds"
+	color1 = "white"
+	color2 = rgb { 219 36 22 }
+}
+
 BAI = { # Banggai
 	pattern = "pattern_solid.dds"
 	color1 = "white"
@@ -27502,17 +27508,23 @@ OLD_delmenhorst  = { # Historical Quarterly design as counts of Oldenburg & Delm
     }
 }
 
-OMA = { # Oman
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "green_secondary"	
+mdm_OMA = { # mdm modern day mod Oman
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "white"
+	color2 = rgb { 220 16 20 }
+	color3 = rgb { 0 129 0 }
 
 	colored_emblem = {
-		texture = "ce_border_orle.dds" # Rather than plain red
+		texture = "mdm_ce_box.dds"
 		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }				
-	}	
+		instance = { position = { 0.167 0.5 } scale = { 0.333 1 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_oman.dds"
+		color1 = color1
+		instance = { position = { 0.14 0.192 } scale = { 0.313 0.313 } }
+	}
 }
 
 OMT = { # Ometepec
@@ -30387,6 +30399,12 @@ QAN = { # Qanjobal
 		color1 = color2
 		color2 = hsv360 	{	350		75		55	}  
 	}		
+}
+
+mdm_QATA = { # mdm modern day mod Qatar
+	pattern = "mdm_pattern_qatar.dds"
+	color1 = "white"
+	color2 = rgb { 139 13 53 }
 }
 
 QBY = { # Quimbaya
@@ -38314,6 +38332,19 @@ TZZ = { # Tzapotzingo
 	textured_emblem = {
 		texture = "te_glyph_tzapotzingo.dds"
 		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 } }		
+	}
+}
+
+mdm_UAEM = { # mdm modern day mod United Arab Emirates
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 133 58 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 201 8 42 }
+		instance = { position = { 0.125 0.5 } scale = { 0.25 1 } }
 	}
 }
 
