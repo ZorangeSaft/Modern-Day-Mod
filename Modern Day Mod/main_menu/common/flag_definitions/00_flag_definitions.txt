@@ -1835,33 +1835,11 @@ CRO = { # mdm modern day mod Croatia
 	}
 }
 
-CYP = { # Cyprus
+CYP = { # mdm modern day mod Cyprus
 	flag_definition = {
-		coa = CYP
+		coa = mdm_CYP
 		priority = 1
 	}
-	flag_definition = {
-		coa = CYP_crowned
-		priority = 2
-		trigger = {
-			coa_def_duchy_or_higher_trigger = yes
-		}
-	}	
-	flag_definition = {
-		coa = CYP_lusignan # Starting design (qtly Jerusalem & Poitiers-Lusignan)
-		priority = 10
-		trigger = {
-			coa_def_kingdom_or_higher_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = CYP_lusignan_armenia
-		priority = 11
-		trigger = {
-			coa_def_kingdom_or_higher_trigger = yes
-			coa_def_cilicia_ownership_trigger = yes
-		}
-	}	
 }
 
 CZEC = { # mdm modern day mod Czech Republic

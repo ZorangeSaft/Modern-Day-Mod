@@ -9930,17 +9930,20 @@ CYA = { # Chachapoya
 	}		
 }
 
-CYP = { # Cyprus - Poitiers (also attributed as Richard the Lionheart's arms for Cyprus by heralds)
+mdm_CYP = { # mdm modern day mod Cyprus
 	pattern = "pattern_solid.dds"
 	color1 = "white"
-	color2 = "red"
-	color3 = "yellow"
 
 	colored_emblem = {
-		texture = "ce_lion_wide.dds"
-		color1 = color2
-		color2 = color2
-		color3 = color1
+		texture = "mdm_ce_borders_cypriot.dds"
+		color1 = rgb { 213 120 0 }
+		instance = { position = { 0.533 0.374 } scale = { 0.585 0.585 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_olive_branches_cypriot.dds"
+		color1 = rgb { 78 91 49 }
+		instance = { position = { 0.5 0.774 } scale = { 0.441 0.441 } }
 	}
 }
 CYP_crowned = { # Crowned variant
