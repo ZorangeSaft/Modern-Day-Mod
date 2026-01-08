@@ -5629,6 +5629,13 @@ TTE = { # Trieste
 	}
 }
 
+TUKM = { # mdm modern day mod Turkmenistan
+	flag_definition = {
+		coa = mdm_TUKM
+		priority = 1
+	}
+}
+
 TUN = { # mdm modern day mod Tunisia
 	flag_definition = {
 		coa = mdm_TUN

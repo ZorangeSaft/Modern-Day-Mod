@@ -37905,6 +37905,22 @@ TUJ = { # Tujia people
 	}	
 }
 
+mdm_TUKM = { # mdm modern day mod Turkmenistan
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 133 58 }
+
+	textured_emblem = {
+		texture = "mdm_coa_turkmenistan.dds"
+		instance = { position = { 0.21 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_turkmenistan.dds"
+		color1 = "white"
+		instance = { position = { 0.454 0.222 } scale = { 0.253 0.253 } }
+	}
+}
+
 TUL = { # Toul
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"
