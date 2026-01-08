@@ -1175,7 +1175,7 @@
  mdm_iron_blast_furnace_iron: "Smelt into Steel"
 
  mercury: "Mercury"
- mercury_desc: "Produced in an [ShowBuildingTypeName('mdm_acid_leaching_plant')] from [ShowGoodsName('mercury_ore')]."
+ mercury_desc: "Produced in an [ShowBuildingTypeName('mdm_acid_leaching_plant')] from [ShowGoodsName('helium')]."
 
  steel: "Steel"
  steel_desc: "Produced in a [ShowBuildingTypeName('mdm_mixed_metal_blast_furnace')] from [ShowGoodsName('iron_ore')]."

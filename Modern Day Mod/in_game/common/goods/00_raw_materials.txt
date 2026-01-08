@@ -446,7 +446,7 @@ manganese_ore = { #used in steel and lithium ion batteries
 	transport_cost = 4 #ai
 }
 
-mercury_ore = { #not sure if mercury is important enough to be its own good in the modern day
+helium = { #not sure if mercury is important enough to be its own good in the modern day
 	method = mining
 	category = raw_material
 	color = rgb { 160 140 140 } #ai

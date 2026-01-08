@@ -307,7 +307,7 @@ mdm_acid_leaching_plant = {
             output = 0.85
         }
         mdm_acid_leaching_mercury = {
-            mercury_ore = 1
+            helium = 1
             nitric_acid = 0.5
             electricity = 1.5
             produced = mercury
