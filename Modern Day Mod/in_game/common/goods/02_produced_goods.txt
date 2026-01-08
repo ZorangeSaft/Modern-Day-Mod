@@ -313,38 +313,41 @@ furniture  = {
 
 electricity = {
 	category = produced
-	color = gold_ore
+	color = rgb { 255 255 100 } #ai
 	default_market_price = 1
 	transport_cost = 10
 }
 
 fresh_water = { #for drinking and industrial processes
 	category = produced
-	color = gold_ore
+	color = rgb { 100 180 255 } #ai
 	default_market_price = 1
 	transport_cost = 10
 }
 
+fertilizer = { #synthetic ammonium nitrate fertilizer
+	category = produced
+	color = rgb { 139 115 85 } #ai
+	default_market_price = 1.2 #ai
+	transport_cost = 3 #ai
+}
+
+
+
+#construction goods
+
 concrete = {
 	category = produced
-	color = goods_concrete
-	default_market_price = 1 #same as basegame masonry
-	transport_cost = 5 #same as basegame stone
+	color = rgb { 160 160 160 } #ai
+	default_market_price = 0.5 #ai
+	transport_cost = 8 #ai
 }
 
 cement = {
 	category = produced
-	color = goods_concrete
-	default_market_price = 1 #same as basegame masonry
-	transport_cost = 5 #same as basegame stone
-}
-
-
-fertilizer = { #synthetic ammonium nitrate fertilizer
-	category = produced
-	color = goods_concrete
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 0 100 255 } #ai
+	default_market_price = 0.6 #ai
+	transport_cost = 6 #ai
 }
 
 
@@ -353,44 +356,44 @@ fertilizer = { #synthetic ammonium nitrate fertilizer
 
 petrogas = {
 	category = produced
-	color = goods_concrete
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 230 230 200 } #ai
+	default_market_price = 1.5 #ai
+	transport_cost = 2 #ai
 }
 
 gasoline = {
 	category = produced
-	color = goods_concrete
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 255 200 100 } #ai
+	default_market_price = 2 #ai
+	transport_cost = 2 #ai
 }
 
 kerosine = {
 	category = produced
-	color = goods_concrete
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 200 220 240 } #ai
+	default_market_price = 2.2 #ai
+	transport_cost = 2 #ai
 }
 
 diesel = {
 	category = produced
-	color = goods_concrete
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 220 180 120 } #ai
+	default_market_price = 2.1 #ai
+	transport_cost = 2 #ai
 }
 
 heavy_oil = {
 	category = produced
-	color = goods_concrete
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 60 40 20 } #ai
+	default_market_price = 1.3 #ai
+	transport_cost = 3 #ai
 }
 
 asphalt = {
 	category = produced
-	color = goods_concrete
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 30 30 30 } #ai
+	default_market_price = 0.8 #ai
+	transport_cost = 4 #ai
 }
 
 
@@ -399,21 +402,21 @@ asphalt = {
 
 electrical_expertise = { #electricians and electrical engineering, so needed for construction and maintenance
 	category = produced
-	color = goods_concrete
+	color = rgb { 100 150 255 } #ai
 	default_market_price = 1
 	transport_cost = 1
 }
 
 industrial_expertise = { #industrial engineering, so needed for production
 	category = produced
-	color = goods_concrete
+	color = rgb { 120 120 140 } #ai
 	default_market_price = 1
 	transport_cost = 1
 }
 
 agricultural_expertise = { #advanced farming, so using tractors, fertilisers, etc, everything but basic subsistance
 	category = produced
-	color = goods_concrete
+	color = rgb { 100 150 60 } #ai
 	default_market_price = 1
 	transport_cost = 1
 }
@@ -424,16 +427,16 @@ agricultural_expertise = { #advanced farming, so using tractors, fertilisers, et
 
 borax = { #used in multiple metal refining
 	category = produced
-	color = goods_steel
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 240 240 240 } #ai
+	default_market_price = 1.5 #ai
+	transport_cost = 3 #ai
 }
 
 limestone = { #used in multiple metal refining
 	category = produced
-	color = goods_steel
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 230 220 200 } #ai
+	default_market_price = 0.7 #ai
+	transport_cost = 5 #ai
 }
 
 
@@ -442,16 +445,16 @@ limestone = { #used in multiple metal refining
 
 aluminium = { #high quality refinement in iceland due to plentiful energy
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 200 200 210 } #ai
+	default_market_price = 3.5 #ai
+	transport_cost = 2 #ai
 }
 
 copper = {
 	category = produced
 	color = goods_copper
-	default_market_price = 5
-	transport_cost = 2
+	default_market_price = 4 #ai
+	transport_cost = 3 #ai
 }
 
 gold_metal = { #cant just be gold because that is the name the game internally uses for the currency in game
@@ -465,149 +468,149 @@ gold_metal = { #cant just be gold because that is the name the game internally u
 
 steel = { #vast majority of mined iron becomes steel
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 180 180 190 } #ai
+	default_market_price = 2.5 #ai
+	transport_cost = 4 #ai
 }
 
 beryllium = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 200 210 200 } #ai
+	default_market_price = 7.5 #ai
+	transport_cost = 2 #ai
 }
 
 lead = {
 	category = produced
 	color = goods_lead
-	default_market_price = 5
-	transport_cost = 2
+	default_market_price = 2 #ai
+	transport_cost = 5 #ai
 }
 
 lithium = { #maby should be lithium carbonate instead/refered to as that internally, as that is apparently its most shipped form
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 220 220 230 } #ai
+	default_market_price = 6 #ai
+	transport_cost = 2 #ai
 }
 
 magnesium = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 210 210 210 } #ai
+	default_market_price = 3.5 #ai
+	transport_cost = 3 #ai
 }
 
 manganese = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 170 170 170 } #ai
+	default_market_price = 2.8 #ai
+	transport_cost = 4 #ai
 }
 
 mercury = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 192 192 192 } #ai
+	default_market_price = 4.5 #ai
+	transport_cost = 4 #ai
 }
 
 molybdenum = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 160 160 170 } #ai
+	default_market_price = 5 #ai
+	transport_cost = 2 #ai
 }
 
 nickel = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 200 200 180 } #ai
+	default_market_price = 4.5 #ai
+	transport_cost = 3 #ai
 }
 
 niobium = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 190 190 200 } #ai
+	default_market_price = 6.5 #ai
+	transport_cost = 2 #ai
 }
 
 platinum_group_metals = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 210 210 220 } #ai
+	default_market_price = 12 #ai
+	transport_cost = 1 #ai
 }
 
 rare_earth_metals = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 180 190 200 } #ai
+	default_market_price = 7 #ai
+	transport_cost = 2 #ai
 }
 
 strontium = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 220 220 220 } #ai
+	default_market_price = 3 #ai
+	transport_cost = 3 #ai
 }
 
 tantalum = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 170 180 190 } #ai
+	default_market_price = 8 #ai
+	transport_cost = 2 #ai
 }
 
 tin = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 190 190 200 } #ai
+	default_market_price = 3.5 #ai
+	transport_cost = 3 #ai
 }
 
 titanium = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 200 200 210 } #ai
+	default_market_price = 6.5 #ai
+	transport_cost = 2 #ai
 }
 
 tungsten = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 150 150 150 } #ai
+	default_market_price = 5.5 #ai
+	transport_cost = 3 #ai
 }
 
 uranium = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 100 140 100 } #ai
+	default_market_price = 6 #ai
+	transport_cost = 5 #ai
 }
 
 vanadium = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 180 180 190 } #ai
+	default_market_price = 5 #ai
+	transport_cost = 2 #ai
 }
 
 zinc = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 190 200 210 } #ai
+	default_market_price = 3 #ai
+	transport_cost = 3 #ai
 }
 
 zirconium = {
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 200 210 210 } #ai
+	default_market_price = 5.5 #ai
+	transport_cost = 2 #ai
 }
 
 
@@ -616,44 +619,44 @@ zirconium = {
 
 bismuth = { #byproduct of lead, copper, tin, silver, gold refining
 	category = produced
-	color = goods_steel
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 210 180 200 } #ai
+	default_market_price = 4 #ai
+	transport_cost = 3 #ai
 }
 
 cadmium = { #ni-cad batteries, zinc lead and copper refining byproduct
 	category = produced
-	color = goods_copper
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 200 200 210 } #ai
+	default_market_price = 3.5 #ai
+	transport_cost = 3 #ai
 }
 
 cobalt = { #li-ion batteries, byproduct of copper and nickel
 	category = produced
-	color = goods_copper
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 120 140 180 } #ai
+	default_market_price = 6 #ai
+	transport_cost = 2 #ai
 }
 
 gallium = { #byproduct of aluminium and zinc refining
 	category = produced
-	color = goods_steel
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 210 210 220 } #ai
+	default_market_price = 7 #ai
+	transport_cost = 2 #ai
 }
 
 indium = { #touchscreens, byproduct of zinc, sometimes tin refining
 	category = produced
-	color = goods_lead
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 190 190 200 } #ai
+	default_market_price = 7.5 #ai
+	transport_cost = 2 #ai
 }
 
 rhenium = { #jet engines, making high octane high quality fuel, byproduct of copper because of molybdenum
 	category = produced
-	color = goods_iron
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 200 200 210 } #ai
+	default_market_price = 9 #ai
+	transport_cost = 1 #ai
 }
 
 silver = { #both main product but irl mostly byproduct of gold refining
@@ -668,27 +671,77 @@ silver = { #both main product but irl mostly byproduct of gold refining
 
 
 
+#industrial goods
+
+chlorine = {
+	category = produced
+	color = rgb { 200 240 150 } #ai
+	default_market_price = 1.2 #ai
+	transport_cost = 3 #ai
+}
+
+
+
+#acids
+
+sulfuric_acid = {
+	category = produced
+	color = rgb { 220 220 180 } #ai
+	default_market_price = 0.8 #ai
+	transport_cost = 4 #ai
+}
+
+nitric_acid = {
+	category = produced
+	color = rgb { 240 240 200 } #ai
+	default_market_price = 1.5 #ai
+	transport_cost = 4 #ai
+}
+
+hydrofluoric_acid = {
+	category = produced
+	color = rgb { 230 240 240 } #ai
+	default_market_price = 2 #ai
+	transport_cost = 5 #ai
+}
+
+hydrochloric_acid = {
+	category = produced
+	color = rgb { 230 240 230 } #ai
+	default_market_price = 0.9 #ai
+	transport_cost = 4 #ai
+}
+
+phosphoric_acid = {
+	category = produced
+	color = rgb { 235 235 210 } #ai
+	default_market_price = 1.3 #ai
+	transport_cost = 4 #ai
+}
+
+
+
 #intermediate industrial goods
 
 ferrite_magnet = { #engines, iron and strontium based
 	category = produced
-	color = goods_iron
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 80 80 80 } #ai
+	default_market_price = 2.5 #ai
+	transport_cost = 3 #ai
 }
 
 rare_earth_magnet = { #neodymium magnets for example
 	category = produced
-	color = goods_iron
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 140 140 150 } #ai
+	default_market_price = 8 #ai
+	transport_cost = 2 #ai
 }
 
 plastic = {
 	category = produced
-	color = goods_steel
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 240 240 240 } #ai
+	default_market_price = 2 #ai
+	transport_cost = 2 #ai
 }
 
 
@@ -697,35 +750,35 @@ plastic = {
 
 combustion_cars = { #all combustion vehicles, will be mostly replaced over the course of the game except for rural and very cold places
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 160 160 180 } #ai
+	default_market_price = 15 #ai
+	transport_cost = 4 #ai
 }
 
 electric_cars = { #all electric vehicles, will be more and more common over the course of the game
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 120 180 220 } #ai
+	default_market_price = 18 #ai
+	transport_cost = 4 #ai
 }
 
 household_appliances = { #fridge, microwave, dishwasher, toaster, etc
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 200 200 200 } #ai
+	default_market_price = 8 #ai
+	transport_cost = 3 #ai
 }
 
 smartphones = { #any type of phones, also tablets for simplicities sake
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 50 50 60 } #ai
+	default_market_price = 12 #ai
+	transport_cost = 1 #ai
 }
 
 airplanes = { #any type of airplane, big and small
 	category = produced
-	color = goods_steel
-	default_market_price = 5
-	transport_cost = 2
+	color = rgb { 220 220 230 } #ai
+	default_market_price = 25 #ai
+	transport_cost = 6 #ai
 }

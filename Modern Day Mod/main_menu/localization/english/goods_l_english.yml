@@ -1059,13 +1059,26 @@
 
 
 
- #electricity and water
+ #general goods
 
  electricity: "Electricity"
  electricity_desc: "The Lifeblood of modern civilisation. Used to power nearly every [building|e]."
 
  fresh_water: "Fresh Water"
  fresh_water_desc: "Not only for Drinking, but also used in many industrial processes."
+
+ fertilizer: "Fertilizer"
+ fertilizer_desc: "Synthetic Fertilizer"
+
+
+
+ #construction goods
+
+ concrete: "Concrete"
+ concrete_desc: "Concrete description."
+
+ cement: "Cement"
+ cement_desc: "Cement description"
 
 
 
@@ -1247,6 +1260,32 @@
 
 
 
+ #industrial goods
+
+ chlorine: "Chlorine"
+ chlorine_desc: "Chlorine description"
+
+
+
+ #acids
+
+ sulfuric_acid: "Sulfuric Acid"
+ sulfuric_acid_desc: "Sulfuric acid description"
+
+ nitric_acid: "Nitric Acid"
+ nitric_acid_desc: "Nitric acid description"
+
+ hydrofluoric_acid: "Hydrofluoric Acid"
+ hydrofluoric_acid_desc: "Hydrofluoric acid description"
+
+ hydrochloric_acid: "Hydrochloric Acid"
+ hydrochloric_acid_desc: "Hydrochloric acid description"
+
+ phosphoric_acid: "Phosphoric Acid"
+ phosphoric_acid_desc: "Phosphoric acid description"
+
+
+
  #gathered goods
 
  silica_sand: "Silica Sand"
@@ -1257,23 +1296,6 @@
 
  helium: "Helium"
  helium_desc: "Helium 3 for fusion reactors"
-
-
-
- #construction goods
-
- concrete: "Concrete"
- concrete_desc: "Concrete description."
-
- cement: "Cement"
- cement_desc: "Cement description"
-
-
-
- #produced goods
-
- fertilizer: "Fertilizer"
- fertilizer_desc: "Synthetic Fertilizer"
 
 
 

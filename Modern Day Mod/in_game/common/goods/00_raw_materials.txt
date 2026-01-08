@@ -377,7 +377,7 @@ copper_ore = {
 gold_ore = {
 	method = mining
 	category = raw_material
-	color = gold_ore
+	color = { 0 187 250 } #gold_ore
 	default_market_price = 10
 
 	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
