@@ -820,6 +820,13 @@ BAHR = { # mdm modern day mod Bahrain
 	}
 }
 
+BANG = { # mdm modern day mod Bangladesh
+	flag_definition = {
+		coa = mdm_BANG
+		priority = 1
+	}
+}
+
 
 BAV = { # Bavaria
 	flag_definition = {

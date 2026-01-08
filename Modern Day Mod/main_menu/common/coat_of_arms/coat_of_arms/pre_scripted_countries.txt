@@ -2904,6 +2904,17 @@ BAN = { # Banten
 	}	
 }
 
+mdm_BANG = { # mdm modern day mod Bangladesh
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 103 69 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1 = rgb { 219 36 22 }
+		instance = { position = { 0.45 0.5 } scale = { 0.667 0.667 } }
+	}	
+}
+
 BAR = { # Bar
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
