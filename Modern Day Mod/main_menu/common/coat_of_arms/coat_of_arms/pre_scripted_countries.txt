@@ -2826,6 +2826,18 @@ mdm_BAHR = { # mdm modern day mod Bahrain
 	color2 = rgb { 219 36 22 }
 }
 
+mdm_ISRA = { # mdm modern day mod Israel
+	pattern = "mdm_pattern_horizontal_stripes_israel.dds"
+	color1 = "white"
+	color2 = rgb { 0 53 185 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_of_david.dds"
+		color1 = color2
+		instance = { scale = { 0.431 0.431 } }
+	}
+}
+
 BAI = { # Banggai
 	pattern = "pattern_solid.dds"
 	color1 = "white"
@@ -20265,6 +20277,18 @@ LDB = { # Landsberg
 	}
 }
 
+mdm_LEBA = { # mdm modern day mod Lebanon
+	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
+	color1 = "white"
+	color2 = rgb { 212 14 31 }
+
+	colored_emblem = {
+		texture = "mdm_ce_cedar_lebanon.dds"
+		color1 = rgb { 0 141 60 }
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
 LEI = { # Leinster
 	pattern = "pattern_solid.dds"
 	color1 = "red"
@@ -28172,6 +28196,18 @@ PAL_emperor = { # Palatinate - Imperial eagle & escutcheon variant
 		color1 = "yellow_dark"
 		color2 = "yellow_dark"
 		mask = { 3 }
+	}
+}
+
+mdm_PALE = { # mdm modern day mod Palestine
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = "white"
+	color3 = rgb { 0 151 54 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_75.dds"
+		color1 = rgb { 238 42 53 }
 	}
 }
 

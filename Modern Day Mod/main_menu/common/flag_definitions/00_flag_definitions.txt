@@ -2629,6 +2629,13 @@ IRE = { # mdm modern day mod Ireland
 	}
 }
 
+ISRA = { # mdm modern day mod Israel
+	flag_definition = {
+		coa = mdm_ISRA
+		priority = 1
+	}
+}
+
 ITA = { # mdm modern day mod Italy
 	# Default
 	flag_definition = {
@@ -2949,6 +2956,13 @@ LCZ = { # Leczyca
 		trigger = {
 			coa_def_teutonic_order_trigger = yes
 		}
+	}
+}
+
+LEBA = { # mdm modern day mod Lebanon
+	flag_definition = {
+		coa = mdm_LEBA
+		priority = 1
 	}
 }
 
@@ -4194,6 +4208,13 @@ PAL = { # Palatinate of the Rhine
 			coa_def_hre_emperor_trigger = yes
 		}
 	}		
+}
+
+PALE = { # mdm modern day mod Palestine
+	flag_definition = {
+		coa = mdm_PALE
+		priority = 1
+	}
 }
 
 PAP = { # Rome/Papal States
