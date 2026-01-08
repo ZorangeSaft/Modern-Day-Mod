@@ -6344,10 +6344,10 @@ america = {
 		east_coast_region = {
 			massachusetts_area = {
 				massachusetts_province = {
-					shawmut naumkeag assabet quinsigamond weshacum
+					boston_ma naumkeag assabet quinsigamond weshacum
 				}
 				nauset_province = {
-					patuxet assonet nauset nantucket
+					plymouth_ma assonet nauset nantucket
 				}
 				agawam_province = {
 					agawam pocumtuck mahaiwe pontoosuck
@@ -6408,7 +6408,7 @@ america = {
 			}
 			hudson_area = {
 				manhattan_province = {
-					manhattan tappan nochpeem
+					new_york_city tappan nochpeem
 				}
 				montauk_province = {
 					montauk unquachog massapequa
@@ -6462,7 +6462,7 @@ america = {
 
 			pennsylvania_area = {
 				shackamaxon_province = {
-					shackamaxon wawassan wyomissing
+					philadelphia wawassan wyomissing
 				}
 				paxtang_province = {
 					paxtang connatachequa conewago
@@ -6502,10 +6502,10 @@ america = {
 					wicomico chicamacomico matapeake
 				}
 				patapsco_province = {
-					patapsco wicontiss nentego patuxent
+					baltimore wicontiss nentego patuxent
 				}
 				potomac_province = {
-					anacostia monocacy potapoco catoctin
+					washington_dc monocacy potapoco catoctin
 				}
 				wapocomo_province = {
 					antietam cacapon opequon wapocomo 
@@ -6520,7 +6520,7 @@ america = {
 					kiskiack accomac nansemond chesapeake weyanock
 				}
 				powhatan_province = {
-					powhatan appamatuck cheroenhaka waqua pamunkey
+					powhatan appamatuck cheroenhaka waqua richmond_va
 				}
 				doeg_province = {
 					doeg manassas tegninateo
@@ -6639,7 +6639,7 @@ america = {
 					tybee ossabaw sapelo canoochee
 				}
 				coweta_province = {
-					coweta kealedji pakanahuili tussahaw
+					coweta kealedji atlanta tussahaw
 				}
 				tuckabutche_province = {
 					tuckabutche tescuntee chatahoochee
@@ -6658,7 +6658,7 @@ america = {
 					harris_lake apopka_lake
 				}
 				mayaimi_province = {
-					mayaimi ais guacata tequesta guarungube
+					miami ais guacata tequesta guarungube
 				}
 				okeechobee_province = {
 					tequemapo okeechobee caloosahatchee uriparacoxi
@@ -6692,10 +6692,10 @@ america = {
 					cohutta_mountains
 				}
 				aniyutsi_province = {
-					daguwanalahi aniyutsi shawanoe spithota
+					daguwanalahi aniyutsi shawanoe nashville
 				}
 				chucalissa_province = {
-					chucalissa hatchie obion chewalla
+					memphis hatchie obion chewalla
 				}
 				kaskinampo_province = {
 					tombigby kaskinampo cussate chuwalee tullahoma choate tsoyaha
@@ -6728,13 +6728,13 @@ america = {
 					muskingum captina conotton
 				}
 				scioto_province = {
-					olentangy chianouske scioto ethapetha hocking kokosing
+					columbus chianouske scioto ethapetha hocking kokosing
 				}
 				sandusky_province = {
 					sandusky maumee qusquasrundee shapoquate
 				}
 				mineami_province = {
-					assereniet mameiwasipi mineami pickawillany
+					cincinnati mameiwasipi mineami pickawillany
 				}
 			}
 			indiana_area = {
@@ -6778,8 +6778,8 @@ america = {
 				}
 			}
 			illinois_area = {
-				checagou_province = {
-					checagou tiatiki pisticoui
+				chicagoland_province = {
+					chicago tiatiki pisticoui
 				}
 				kishwaukee_province = {
 					kishwaukee ahsenisiipi pecatonica peewareewa
@@ -6890,7 +6890,7 @@ america = {
 		great_plains_region = {
 			louisiana_area = {
 				bulbancha_province = {
-					bulbancha bogue_chitto tangipahoa itihumma
+					new_orleans_la bogue_chitto tangipahoa itihumma
 					lake_pontchartrain allemands_lake maurepas_lake
 				}
 				chawasha_province = {
@@ -6918,7 +6918,7 @@ america = {
 				tamaroa_province = { tamaroa wyaconda oahaha emasulia chariton }
 				meramec_province = { meramec pahatsi tanwakanwakaghe utsehta nikhdhintanwan intapushe ni_okaska }
 				towosaghy_province = { towosaghy chepoussa cholohollay st_francois_mts }
-				nodaway_province = { nodaway nudarcha wimihsoorita }
+				nodaway_province = { nodaway kansas_city wimihsoorita }
 			}
 			iowa_area = {
  				hokah_province = { hokah wapkawazioju owatonna hahawakpa lahontan }
@@ -6935,7 +6935,7 @@ america = {
 				nishnabotna_province = { nishnabotna monona tchankasndata }
 			}
 			superior_area = {
-				mathoskabde_province = { mathoskabde ginebig misi_zaaga_igan minnewawa mille_lacs_lake }
+				mathoskabde_province = { minneapolis ginebig misi_zaaga_igan minnewawa mille_lacs_lake }
 				nemadji_province = { nemadji wissakode makoua kitchigumi }
 				koochiching_province = { koochiching miskwaagamiiwi mesabi neemannee kawishiwi red_lake vermillion_lake }
 			}
@@ -6946,7 +6946,7 @@ america = {
 				shanha_province = { shanha mistaiyohe he_sapa awaxaawi_ishiibisha }
 				histayaho_province = { histahayo neesihushaanu skahuukaawiat iyawakagapi matootonha nd_badlands }
 				chakadee_wakpa_province = { chakadee_wakpa wahasah badlands_mt waahukaahaanu wit_anowi_yohe moehe_yoe }
-				ihkowom_iyo_he_province = { ihkowom_iyo_he ksai_yohe mitsiadazi skaapirox buaxaxxaashe aahkawirahkata aashbiliihkupe iichiilikaaashaashe little_belt_mountains }
+				ihkowom_iyo_he_province = { ihkowom_iyo_he billings mitsiadazi skaapirox buaxaxxaashe aahkawirahkata aashbiliihkupe iichiilikaaashaashe little_belt_mountains }
 				itkanaahtuusu_province = { itkanaahtuusu e_ometaeso heviksnipahis mo_ohta_vo_honaaeva notameohmeshehse }
 				iisaxpuatahcheeaashe_province = { iisaxpuatahcheeaashe aashbikkaashee ishpiialawaache bighorn_mountains }
 			}
@@ -6977,7 +6977,7 @@ america = {
 			high_plains_area = {
 				hehvaitaneo_province = { hehvaitaneo laramie_range meneeohe medicine_bow }
 				wotapio_province = { wotapio so_taeo_o oevemanaho ohktouna hisse_yoyi_yoe hisiometaneo paiyo_he }
-				niineniiniicie_province = { niineniiniicie neenowuxoote_i ce_eiinox nih_iitkotousi_l }
+				niineniiniicie_province = { denver neenowuxoote_i ce_eiinox nih_iitkotousi_l }
 				phankeska_wakpa_province = { phankeska_wakpa ononio_he wasin_wakpa veoneohe mano_iyo_he }
 				heeyoteeyo_province = { mutsisooni_yohe heeyoteyoo ponoeohe }
 				wishkahuunu_province = { wishkahuunu mahohevahoe beesowuunenno minii_yohe }
@@ -7511,7 +7511,7 @@ america = {
 					melenudo waco nokoni
 				}
 				kitaish_province = {
-					tanimuu kitsai taovaya tawakoni aays yscani
+					dallas kitsai taovaya tawakoni aays yscani
 				}
 				tchokana_province = {
 					tses_tsembai tenawa tchokana penatuka kwaaru
@@ -7546,7 +7546,7 @@ america = {
 			shiewhibak_area = {
 				shiewhibak_province = {
 					tih_go_tel teypana shiewhibak aaku halona_idiwana
-					tsiya tuf_shur_tia than_u_ge ohkweeo_owingeh ialophaybo
+					tsiya albuquerque_nm than_u_ge ohkweeo_owingeh ialophaybo
 					dinetah nde_nda_i
 				}
 				orayvi_province = {
@@ -7563,7 +7563,7 @@ america = {
 					dzil_ligai_mountains
 				}
 				guwevkabaya_province = {
-					guwevkabaya dolkabaya liinabaha nadah_dogalnine yavpe
+					phoenix dolkabaya liinabaha nadah_dogalnine yavpe
 					wipukba dzil_taadn dilzhee
 				}
 			}
@@ -7664,7 +7664,7 @@ america = {
 			}
 			alaxsxaq_area = {
 				dena_ina_province = {
-					kachemak kenai dgheyaytnu k_enakatnu tyonek iliamna susitna dena_ina_uplands
+					kachemak kenai anchorage k_enakatnu tyonek iliamna susitna dena_ina_uplands
 				}
 				deg_xitan_province = {
 					chuathbaluk qipcarpak tovisq_ol digenegh deloy_ges deloy_chet deg_xit_an_forest
@@ -7833,10 +7833,10 @@ america = {
 		west_coast_region = {
 			california_area = {
 				chumash_province = {
-					payomkawichum kukamonga yaanga ventureno ineseno pimuu_nga channel_islands chumash_ranges
+					payomkawichum kukamonga los_angeles ventureno ineseno pimuu_nga channel_islands chumash_ranges
 				}
 				aacistak_province = {
-					tepotahal mutsun awaswas chochenyo
+					tepotahal mutsun san_francisco san_jose
 				}
 				northern_yokut_province = {
 					tawalimni chawchila yashikumne noptinte gashowu
@@ -7889,7 +7889,7 @@ america = {
 					parrusit uinkaret kaibab quitchupah kaiparowit nuwuvi_wasteland
 				}
 				kusiutta_province = {
-					koosharem pierruiat tooele unkagarit pio_gwut seuhubeogoi pagayuat
+					koosharem pierruiat tooele unkagarit salt_lake_city seuhubeogoi pagayuat
 					salt_lake
 				}
 				nye_province = {
@@ -7911,7 +7911,7 @@ america = {
 					tsitsiadi gidi_tika malheur wadadokado tagotoka moadokado
 				}
 				idaho_province = {
-					yakwahnim_paa panati tipanuk king_hill yahandeka toponisw
+					yakwahnim_paa panati tipanuk king_hill boise toponisw
 				}
 				northeast_numu_province = {
 					seneca arock juntura nyssa payette yam_pah_pa
@@ -7999,7 +7999,7 @@ america = {
 					akinka_nup aqyam_nup ainu_nik ktunwakanmituk aknuq_uk yakyu_ki ne_ktunaxa_ranges nc_ktunaxa_ranges cw_ktunaxa_ranges #nw_ktunaxa_ranges
 				}
 				cascadia_province = {
-					puyallup kittikas duwamish snohomish skagit nisqually
+					seattle kittikas duwamish snohomish skagit nisqually
 				}
 				halkomelem_province = {
 					nooksack lhaq_temish sto_lo sts_ailes whonnock katzie
@@ -9380,7 +9380,7 @@ oceania = {
 					mauna_loa
 				}
 				maui_province = {
-					maui lahaina moloka_i o_ahu kaua_i
+					maui lahaina moloka_i honolulu kaua_i
 				}
 			}
 			papahanaumokuakea_area = { #https://en.wikipedia.org/wiki/Papah%C4%81naumoku%C4%81kea_Marine_National_Monument
@@ -9787,7 +9787,7 @@ oceania = {
 			}
 			marianas_area = {#https://en.wikipedia.org/wiki/Mariana_Islands
 				guahan_province = {
-					guahan guahan_atoll rota saipan
+					hagatna guahan_atoll rota saipan
 				}
 				northern_islands_province = {
 					noos anatahan alamagan pagan_island agrihan maug uracas

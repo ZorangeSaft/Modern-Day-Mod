@@ -20982,12 +20982,12 @@ grenada_coast = { topography = inland_sea climate = tropical}
 western_atlantic_high_sea16 = { topography = ocean climate = tropical}
 caribe_sea14 = { topography = inland_sea climate = tropical}
 caribe_sea15 = { topography = inland_sea climate = tropical}
-shawmut = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = massachusett_culture raw_material = stone natural_harbor_suitability = 1.00}
+boston_ma = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = massachusett_culture raw_material = stone natural_harbor_suitability = 1.00}
 naumkeag = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = massachusett_culture raw_material = iron_ore natural_harbor_suitability = 0.00}
 assabet = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = massachusett_culture raw_material = wild_game}
 quinsigamond = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = pequot_culture raw_material = medicaments}
 weshacum = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = pocumtuck_culture raw_material = lumber}
-patuxet = { topography = wetlands vegetation = woods climate = continental religion = midewiwin_religion culture = wampanoag_culture raw_material = fish natural_harbor_suitability = 0.25}
+plymouth_ma = { topography = wetlands vegetation = woods climate = continental religion = midewiwin_religion culture = wampanoag_culture raw_material = fish natural_harbor_suitability = 0.25}
 assonet = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = wampanoag_culture raw_material = stone natural_harbor_suitability = 1.00}
 nauset = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = wampanoag_culture raw_material = fish natural_harbor_suitability = 0.00}
 nantucket = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = wampanoag_culture raw_material = fish natural_harbor_suitability = 0.00}
@@ -21059,7 +21059,7 @@ passamaquoddy = { topography = flatland vegetation = forest climate = continenta
 machias = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = passamaquoddy_culture raw_material = lumber natural_harbor_suitability = 0.00}
 nicatous = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = passamaquoddy_culture raw_material = wild_game}
 maatawamkeag = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = wolastoqiyik_culture raw_material = lumber}
-manhattan = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = munsee_culture raw_material = legumes natural_harbor_suitability = 1.00}
+new_york_city = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = munsee_culture raw_material = legumes natural_harbor_suitability = 1.00}
 tappan = { topography = hills vegetation = forest climate = continental religion = midewiwin_religion culture = munsee_culture raw_material = marble}
 nochpeem = { topography = hills vegetation = forest climate = continental religion = midewiwin_religion culture = munsee_culture raw_material = maize}
 montauk = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = quiripi_culture raw_material = fish natural_harbor_suitability = 0.00}
@@ -21127,7 +21127,7 @@ amintonck = { topography = flatland vegetation = woods climate = subtropical rel
 assunpink = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = unami_culture raw_material = legumes}
 muscotnetcong = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = unami_culture raw_material = legumes}
 hopatcong = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = munsee_culture raw_material = iron_ore}
-shackamaxon = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = unami_culture raw_material = fiber_crops natural_harbor_suitability = 0.50}
+philadelphia = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = unami_culture raw_material = fiber_crops natural_harbor_suitability = 0.50}
 wawassan = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = unami_culture raw_material = clay}
 wyomissing = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = unami_culture raw_material = legumes}
 paxtang = { topography = flatland vegetation = woods climate = continental religion = iroquoian_totemism culture = atrakwaye_culture raw_material = iron_ore}
@@ -21176,11 +21176,11 @@ punxsutawney = { topography = hills vegetation = forest climate = continental re
 wicomico = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = accomac_culture raw_material = fish natural_harbor_suitability = 0.00}
 chicamacomico = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = nanticoke_culture raw_material = lumber natural_harbor_suitability = 0.00}
 matapeake = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = nanticoke_culture raw_material = fish natural_harbor_suitability = 0.00}
-patapsco = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = nanticoke_culture raw_material = fiber_crops natural_harbor_suitability = 1.00}
+baltimore = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = nanticoke_culture raw_material = fiber_crops natural_harbor_suitability = 1.00}
 wicontiss = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = nanticoke_culture raw_material = tobacco natural_harbor_suitability = 0.75}
 nentego = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = piscataway_culture raw_material = maize natural_harbor_suitability = 0.75}
 patuxent = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = piscataway_culture raw_material = iron_ore natural_harbor_suitability = 0.00}
-anacostia = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = piscataway_culture raw_material = tobacco}
+washington_dc = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = piscataway_culture raw_material = tobacco}
 monocacy = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = doeg_culture raw_material = tobacco}
 potapoco = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = piscataway_culture raw_material = salt natural_harbor_suitability = 0.00}
 catoctin = { topography = flatland vegetation = woods climate = continental religion = iroquoian_totemism culture = atrakwaye_culture raw_material = lumber}
@@ -21202,7 +21202,7 @@ powhatan = { topography = flatland vegetation = forest climate = subtropical rel
 appamatuck = { topography = flatland vegetation = forest climate = subtropical religion = midewiwin_religion culture = powhatan_culture raw_material = maize}
 cheroenhaka = { topography = flatland vegetation = forest climate = subtropical religion = iroquoian_totemism culture = nottoway_culture raw_material = medicaments}
 waqua = { topography = flatland vegetation = forest climate = subtropical religion = iroquoian_totemism culture = nottoway_culture raw_material = tobacco}
-pamunkey = { topography = flatland vegetation = forest climate = subtropical religion = midewiwin_religion culture = powhatan_culture raw_material = maize}
+richmond_va = { topography = flatland vegetation = forest climate = subtropical religion = midewiwin_religion culture = powhatan_culture raw_material = maize}
 doeg = { topography = flatland vegetation = woods climate = subtropical religion = midewiwin_religion culture = doeg_culture raw_material = stone}
 manassas = { topography = flatland vegetation = forest climate = subtropical religion = midewiwin_religion culture = doeg_culture raw_material = stone}
 tegninateo = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = monacan_culture raw_material = stone}
@@ -21374,7 +21374,7 @@ sapelo = { topography = wetlands vegetation = forest climate = subtropical relig
 canoochee = { topography = flatland vegetation = woods climate = subtropical religion = mississippian_ceremonial culture = guale_culture raw_material = medicaments}
 coweta = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = coweta_culture raw_material = lumber}
 kealedji = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = coweta_culture raw_material = clay}
-pakanahuili = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = coweta_culture raw_material = legumes}
+atlanta = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = coweta_culture raw_material = legumes}
 tussahaw = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = coweta_culture raw_material = maize}
 tuckabutche = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = tuckabatchee_culture raw_material = maize}
 tescuntee = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = tuckabatchee_culture raw_material = maize}
@@ -21394,7 +21394,7 @@ surruque = { topography = wetlands vegetation = woods climate = subtropical reli
 ho_bay = { topography = wetlands vegetation = woods climate = subtropical religion = mississippian_ceremonial culture = ais_culture raw_material = fiber_crops natural_harbor_suitability = 0.00}
 harris_lake = { topography = lakes climate = subtropical}
 apopka_lake = { topography = lakes climate = subtropical}
-mayaimi = { topography = wetlands vegetation = woods climate = tropical religion = mississippian_ceremonial culture = calusa_culture raw_material = legumes natural_harbor_suitability = 0.00}
+miami = { topography = wetlands vegetation = woods climate = tropical religion = mississippian_ceremonial culture = calusa_culture raw_material = legumes natural_harbor_suitability = 0.00}
 ais = { topography = wetlands vegetation = woods climate = subtropical religion = mississippian_ceremonial culture = ais_culture raw_material = fish natural_harbor_suitability = 0.00}
 guacata = { topography = wetlands vegetation = woods climate = tropical religion = mississippian_ceremonial culture = calusa_culture raw_material = lumber natural_harbor_suitability = 0.00}
 tequesta = { topography = wetlands vegetation = woods climate = tropical religion = mississippian_ceremonial culture = calusa_culture raw_material = fish natural_harbor_suitability = 0.00}
@@ -21443,8 +21443,8 @@ cohutta_mountains = { topography = hills_wasteland vegetation = forest climate =
 daguwanalahi = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = kaskinampo_culture raw_material = fiber_crops}
 aniyutsi = { topography = hills vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = kaskinampo_culture raw_material = fur}
 shawanoe = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = osage_culture raw_material = tobacco}
-spithota = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = kaskinampo_culture raw_material = maize}
-chucalissa = { topography = flatland vegetation = woods climate = subtropical religion = mississippian_ceremonial culture = chakchiuma_culture raw_material = clay}
+nashville = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = kaskinampo_culture raw_material = maize}
+memphis = { topography = flatland vegetation = woods climate = subtropical religion = mississippian_ceremonial culture = chakchiuma_culture raw_material = clay}
 hatchie = { topography = flatland vegetation = woods climate = subtropical religion = mississippian_ceremonial culture = quapaw_culture raw_material = fruit}
 obion = { topography = flatland vegetation = woods climate = subtropical religion = mississippian_ceremonial culture = quapaw_culture raw_material = legumes}
 chewalla = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = quapaw_culture raw_material = cotton}
@@ -21481,7 +21481,7 @@ tuscarawas = { topography = flatland vegetation = woods climate = continental re
 muskingum = { topography = flatland vegetation = forest climate = continental religion = mississippian_ceremonial culture = mekoche_culture raw_material = coal}
 captina = { topography = flatland vegetation = forest climate = continental religion = mississippian_ceremonial culture = kispoko_culture raw_material = coal}
 conotton = { topography = flatland vegetation = forest climate = continental religion = mississippian_ceremonial culture = kispoko_culture raw_material = fur}
-olentangy = { topography = flatland vegetation = woods climate = continental religion = mississippian_ceremonial culture = ofo_culture raw_material = fur}
+columbus = { topography = flatland vegetation = woods climate = continental religion = mississippian_ceremonial culture = ofo_culture raw_material = fur}
 chianouske = { topography = flatland vegetation = woods climate = continental religion = mississippian_ceremonial culture = ofo_culture raw_material = legumes}
 scioto = { topography = hills vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = ofo_culture raw_material = fiber_crops}
 ethapetha = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = ofo_culture raw_material = medicaments}
@@ -21491,7 +21491,7 @@ sandusky = { topography = flatland vegetation = woods climate = continental reli
 maumee = { topography = wetlands vegetation = woods climate = continental religion = midewiwin_religion culture = kiwigapawa_culture raw_material = clay natural_harbor_suitability = 0.00}
 qusquasrundee = { topography = wetlands vegetation = woods climate = continental religion = midewiwin_religion culture = kiwigapawa_culture raw_material = maize}
 shapoquate = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = kiwigapawa_culture raw_material = fiber_crops}
-assereniet = { topography = flatland vegetation = woods climate = continental religion = mississippian_ceremonial culture = taneks_culture raw_material = maize}
+cincinnati = { topography = flatland vegetation = woods climate = continental religion = mississippian_ceremonial culture = taneks_culture raw_material = maize}
 mameiwasipi = { topography = flatland vegetation = woods climate = continental religion = mississippian_ceremonial culture = atchakangouen_culture raw_material = wild_game}
 mineami = { topography = flatland vegetation = woods climate = continental religion = mississippian_ceremonial culture = ofo_culture raw_material = fruit}
 pickawillany = { topography = flatland vegetation = woods climate = continental religion = mississippian_ceremonial culture = ofo_culture raw_material = legumes}
@@ -21539,7 +21539,7 @@ menominee = { topography = flatland vegetation = forest climate = continental re
 keweenaw = { topography = hills vegetation = forest climate = continental religion = midewiwin_religion culture = ojibwe_culture raw_material = copper_ore natural_harbor_suitability = 0.75}
 chicagon = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = mamaceqtaw_culture raw_material = fur}
 ontonagon = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = ojibwe_culture raw_material = iron_ore natural_harbor_suitability = 0.00}
-checagou = { topography = flatland vegetation = grasslands climate = continental religion = mississippian_ceremonial culture = peewareewa_culture raw_material = sand natural_harbor_suitability = 0.00}
+chicago = { topography = flatland vegetation = grasslands climate = continental religion = mississippian_ceremonial culture = peewareewa_culture raw_material = sand natural_harbor_suitability = 0.00}
 tiatiki = { topography = flatland vegetation = grasslands climate = continental religion = mississippian_ceremonial culture = peewareewa_culture raw_material = wild_game}
 pisticoui = { topography = flatland vegetation = grasslands climate = continental religion = mississippian_ceremonial culture = inoka_culture raw_material = fur}
 kishwaukee = { topography = flatland vegetation = grasslands climate = continental religion = mississippian_ceremonial culture = niuachi_culture raw_material = wild_game}
@@ -21686,7 +21686,7 @@ casco_bay = { topography = coastal_ocean climate = continental}
 penobscot_bay = { topography = coastal_ocean climate = continental}
 schoodic_ridge = { topography = coastal_ocean climate = continental}
 canada_high_sea22 = { topography = ocean climate = continental}
-bulbancha = { topography = wetlands vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = chitimacha_culture raw_material = legumes natural_harbor_suitability = 0.40}
+new_orleans_la = { topography = wetlands vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = chitimacha_culture raw_material = legumes natural_harbor_suitability = 0.40}
 bogue_chitto = { topography = wetlands vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = bayagoula_culture raw_material = legumes natural_harbor_suitability = 0.00}
 tangipahoa = { topography = wetlands vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = bayagoula_culture raw_material = wild_game}
 itihumma = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = bayagoula_culture raw_material = lumber}
@@ -21758,7 +21758,7 @@ chepoussa = { topography = hills vegetation = forest climate = subtropical relig
 cholohollay = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = osage_culture raw_material = lead_ore}
 st_francois_mts = { topography = mountains vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = ponca_culture raw_material = stone}
 nodaway = { topography = flatland vegetation = woods climate = continental religion = great_plains_shamanism culture = tsawi_culture raw_material = medicaments}
-nudarcha = { topography = flatland vegetation = woods climate = continental religion = great_plains_shamanism culture = tsawi_culture raw_material = fiber_crops}
+kansas_city = { topography = flatland vegetation = woods climate = continental religion = great_plains_shamanism culture = tsawi_culture raw_material = fiber_crops}
 wimihsoorita = { topography = flatland vegetation = woods climate = continental religion = great_plains_shamanism culture = tsawi_culture raw_material = coal}
 hokah = { topography = flatland vegetation = grasslands climate = continental religion = mississippian_ceremonial culture = wahpetunwan_culture raw_material = legumes}
 wapkawazioju = { topography = flatland vegetation = grasslands climate = continental religion = mississippian_ceremonial culture = wahpekhute_culture raw_material = sand}
@@ -21806,7 +21806,7 @@ pahotcha = { topography = flatland vegetation = grasslands climate = continental
 nishnabotna = { topography = flatland vegetation = grasslands climate = continental religion = great_plains_shamanism culture = tsawi_culture raw_material = maize}
 monona = { topography = flatland vegetation = grasslands climate = continental religion = great_plains_shamanism culture = lahkota_culture raw_material = legumes}
 tchankasndata = { topography = flatland vegetation = grasslands climate = continental religion = great_plains_shamanism culture = lahkota_culture raw_material = legumes}
-mathoskabde = { topography = flatland vegetation = woods climate = continental religion = mississippian_ceremonial culture = sisithunwan_culture raw_material = fur}
+minneapolis = { topography = flatland vegetation = woods climate = continental religion = mississippian_ceremonial culture = sisithunwan_culture raw_material = fur}
 ginebig = { topography = flatland vegetation = forest climate = continental religion = mississippian_ceremonial culture = bdewekhantunwan_culture raw_material = fur}
 misi_zaaga_igan = { topography = flatland vegetation = woods climate = continental religion = mississippian_ceremonial culture = bdewekhantunwan_culture raw_material = wild_game}
 minnewawa = { topography = flatland vegetation = forest climate = continental religion = mississippian_ceremonial culture = bdewekhantunwan_culture raw_material = lumber}
@@ -21848,7 +21848,7 @@ waahukaahaanu = { topography = plateau vegetation = sparse climate = cold_arid r
 wit_anowi_yohe = { topography = plateau vegetation = sparse climate = cold_arid religion = great_plains_shamanism culture = kaigwu_culture raw_material = wild_game}
 moehe_yoe = { topography = plateau vegetation = sparse climate = cold_arid religion = great_plains_shamanism culture = ashalaho_culture raw_material = wild_game}
 ihkowom_iyo_he = { topography = plateau vegetation = sparse climate = cold_arid religion = great_plains_shamanism culture = ashalaho_culture raw_material = wild_game}
-ksai_yohe = { topography = plateau vegetation = sparse climate = cold_arid religion = great_plains_shamanism culture = kaigwu_culture raw_material = wild_game}
+billings = { topography = plateau vegetation = sparse climate = cold_arid religion = great_plains_shamanism culture = kaigwu_culture raw_material = wild_game}
 mitsiadazi = { topography = plateau vegetation = sparse climate = cold_arid religion = great_plains_shamanism culture = ashalaho_culture raw_material = wild_game}
 skaapirox = { topography = plateau vegetation = sparse climate = cold_arid religion = great_plains_shamanism culture = kaigwu_culture raw_material = wild_game}
 buaxaxxaashe = { topography = hills vegetation = sparse climate = arctic religion = paiute_shamanism culture = yapahruka_culture raw_material = wild_game}
@@ -21965,7 +21965,7 @@ ohktouna = { topography = plateau vegetation = sparse climate = cold_arid religi
 hisse_yoyi_yoe = { topography = plateau vegetation = sparse climate = cold_arid religion = great_plains_shamanism culture = yattinde_culture raw_material = wild_game}
 hisiometaneo = { topography = plateau vegetation = sparse climate = cold_arid religion = midewiwin_religion culture = nanwuinenan_culture raw_material = wild_game}
 paiyo_he = { topography = plateau vegetation = sparse climate = cold_arid religion = great_plains_shamanism culture = yattinde_culture raw_material = wild_game}
-niineniiniicie = { topography = plateau vegetation = sparse climate = cold_arid religion = dene_totemism culture = hende_culture raw_material = silver_ore}
+denver = { topography = plateau vegetation = sparse climate = cold_arid religion = dene_totemism culture = hende_culture raw_material = silver_ore}
 neenowuxoote_i = { topography = plateau vegetation = sparse climate = cold_arid religion = dene_totemism culture = hende_culture raw_material = stone}
 ce_eiinox = { topography = hills vegetation = sparse climate = cold_arid religion = dene_totemism culture = hende_culture raw_material = stone}
 nih_iitkotousi_l = { topography = plateau vegetation = sparse climate = cold_arid religion = dene_totemism culture = hende_culture raw_material = wild_game}
@@ -22975,7 +22975,7 @@ mashgalende = { topography = plateau vegetation = grasslands climate = cold_arid
 melenudo = { topography = flatland vegetation = forest climate = subtropical religion = coahuilteco_religion culture = coahuilteco_culture raw_material = beeswax}
 waco = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = kitsai_culture raw_material = cotton}
 nokoni = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = kitsai_culture raw_material = maize}
-tanimuu = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = kitsai_culture raw_material = fruit}
+dallas = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = kitsai_culture raw_material = fruit}
 kitsai = { topography = flatland vegetation = woods climate = subtropical religion = mississippian_ceremonial culture = kitsai_culture raw_material = wild_game}
 taovaya = { topography = flatland vegetation = woods climate = subtropical religion = mississippian_ceremonial culture = kitsai_culture raw_material = lumber}
 tawakoni = { topography = flatland vegetation = forest climate = subtropical religion = mississippian_ceremonial culture = kitsai_culture raw_material = fiber_crops}
@@ -23031,7 +23031,7 @@ shiewhibak = { topography = plateau vegetation = grasslands climate = cold_arid 
 aaku = { topography = hills vegetation = grasslands climate = cold_arid religion = kachina_religion culture = keres_culture raw_material = maize}
 halona_idiwana = { topography = hills vegetation = sparse climate = cold_arid religion = kachina_religion culture = zuni_culture raw_material = stone}
 tsiya = { topography = hills vegetation = sparse climate = cold_arid religion = kachina_religion culture = keres_culture raw_material = gems}
-tuf_shur_tia = { topography = plateau vegetation = grasslands climate = cold_arid religion = kachina_religion culture = tanoan_culture raw_material = maize}
+albuquerque_nm = { topography = plateau vegetation = grasslands climate = cold_arid religion = kachina_religion culture = tanoan_culture raw_material = maize}
 than_u_ge = { topography = mountains vegetation = sparse climate = cold_arid religion = kachina_religion culture = tanoan_culture raw_material = maize}
 ohkweeo_owingeh = { topography = mountains vegetation = grasslands climate = cold_arid religion = kachina_religion culture = tanoan_culture raw_material = legumes}
 ialophaybo = { topography = plateau vegetation = sparse climate = cold_arid religion = kachina_religion culture = tanoan_culture raw_material = copper_ore}
@@ -23064,7 +23064,7 @@ tse_binestie = { topography = hills vegetation = sparse climate = cold_arid reli
 totokwan = { topography = plateau vegetation = sparse climate = arid religion = cahita_religion culture = pima_culture raw_material = wild_game}
 kohatk = { topography = flatland vegetation = sparse climate = arid religion = cahita_religion culture = pima_culture raw_material = wild_game}
 dzil_ligai_mountains = { topography = mountain_wasteland vegetation = sparse climate = continental}
-guwevkabaya = { topography = hills vegetation = sparse climate = arid religion = cahita_religion culture = hohokam_culture raw_material = maize}
+phoenix = { topography = hills vegetation = sparse climate = arid religion = cahita_religion culture = hohokam_culture raw_material = maize}
 dolkabaya = { topography = hills vegetation = sparse climate = arid religion = yuman_religion culture = yavapai_culture raw_material = wild_game}
 liinabaha = { topography = hills vegetation = woods climate = cold_arid religion = cahita_religion culture = hohokam_culture raw_material = lumber}
 nadah_dogalnine = { topography = mountains vegetation = sparse climate = cold_arid religion = cahita_religion culture = hohokam_culture raw_material = medicaments}
@@ -23260,7 +23260,7 @@ imuruk_basin = { topography = lakes climate = arctic}
 imuruk_lake = { topography = lakes climate = arctic}
 kachemak = { topography = flatland vegetation = grasslands climate = arctic religion = dene_shamanism culture = tanaina_culture raw_material = coal natural_harbor_suitability = 0.50}
 kenai = { topography = flatland vegetation = grasslands climate = arctic religion = dene_shamanism culture = tanaina_culture raw_material = wild_game natural_harbor_suitability = 0.40}
-dgheyaytnu = { topography = mountains vegetation = grasslands climate = arctic religion = dene_shamanism culture = tanaina_culture raw_material = fish natural_harbor_suitability = 0.60}
+anchorage = { topography = mountains vegetation = grasslands climate = arctic religion = dene_shamanism culture = tanaina_culture raw_material = fish natural_harbor_suitability = 0.60}
 k_enakatnu = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = tanaina_culture raw_material = wild_game natural_harbor_suitability = 0.40}
 tyonek = { topography = flatland vegetation = grasslands climate = arctic religion = dene_shamanism culture = tanaina_culture raw_material = fish natural_harbor_suitability = 0.00}
 iliamna = { topography = mountains vegetation = grasslands climate = arctic religion = dene_shamanism culture = tanaina_culture raw_material = wild_game natural_harbor_suitability = 0.00}
@@ -23585,7 +23585,7 @@ north_pacific_high_sea50 = { topography = ocean climate = arctic}
 north_pacific_high_sea55 = { topography = ocean climate = arctic}
 payomkawichum = { topography = hills vegetation = sparse climate = mediterranean religion = pomo_shamanism culture = chumash_culture raw_material = fish natural_harbor_suitability = 0.00}
 kukamonga = { topography = flatland vegetation = sparse climate = mediterranean religion = pomo_shamanism culture = chumash_culture raw_material = fish natural_harbor_suitability = 0.00}
-yaanga = { topography = flatland vegetation = sparse climate = mediterranean religion = pomo_shamanism culture = chumash_culture raw_material = fish natural_harbor_suitability = 0.20}
+los_angeles = { topography = flatland vegetation = sparse climate = mediterranean religion = pomo_shamanism culture = chumash_culture raw_material = fish natural_harbor_suitability = 0.20}
 ventureno = { topography = hills vegetation = sparse climate = mediterranean religion = pomo_shamanism culture = chumash_culture raw_material = fiber_crops natural_harbor_suitability = 0.00}
 ineseno = { topography = hills vegetation = grasslands climate = oceanic religion = pomo_shamanism culture = chumash_culture raw_material = fish natural_harbor_suitability = 0.00}
 pimuu_nga = { topography = hills vegetation = woods climate = oceanic religion = pomo_shamanism culture = chumash_culture raw_material = fish natural_harbor_suitability = 0.00}
@@ -23593,8 +23593,8 @@ channel_islands = { topography = hills vegetation = woods climate = oceanic}
 chumash_ranges = { topography = mountain_wasteland vegetation = woods climate = mediterranean}
 tepotahal = { topography = hills vegetation = grasslands climate = oceanic religion = pomo_shamanism culture = salinan_culture raw_material = fish natural_harbor_suitability = 0.00}
 mutsun = { topography = hills vegetation = grasslands climate = oceanic religion = pomo_shamanism culture = ohlone_culture raw_material = fish natural_harbor_suitability = 0.20}
-awaswas = { topography = hills vegetation = forest climate = oceanic religion = pomo_shamanism culture = ohlone_culture raw_material = sand natural_harbor_suitability = 1.00}
-chochenyo = { topography = hills vegetation = grasslands climate = oceanic religion = pomo_shamanism culture = ohlone_culture raw_material = mercury_ore natural_harbor_suitability = 1.00}
+san_francisco = { topography = hills vegetation = forest climate = oceanic religion = pomo_shamanism culture = ohlone_culture raw_material = sand natural_harbor_suitability = 1.00}
+san_jose = { topography = hills vegetation = grasslands climate = oceanic religion = pomo_shamanism culture = ohlone_culture raw_material = mercury_ore natural_harbor_suitability = 1.00}
 tawalimni = { topography = flatland vegetation = grasslands climate = mediterranean religion = pomo_shamanism culture = north_valley_yokut_culture raw_material = wild_game}
 chawchila = { topography = flatland vegetation = grasslands climate = cold_arid religion = pomo_shamanism culture = north_valley_yokut_culture raw_material = fruit}
 yashikumne = { topography = flatland vegetation = grasslands climate = cold_arid religion = pomo_shamanism culture = north_valley_yokut_culture raw_material = maize}
@@ -23692,7 +23692,7 @@ koosharem = { topography = plateau vegetation = woods climate = cold_arid religi
 pierruiat = { topography = plateau vegetation = desert climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = wild_game}
 tooele = { topography = plateau vegetation = desert climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = wild_game}
 unkagarit = { topography = plateau vegetation = woods climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = lumber}
-pio_gwut = { topography = plateau vegetation = woods climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = lumber}
+salt_lake_city = { topography = plateau vegetation = woods climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = lumber}
 seuhubeogoi = { topography = plateau vegetation = desert climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = wild_game}
 pagayuat = { topography = flatland_wasteland vegetation = desert climate = cold_arid}
 salt_lake = { topography = lakes climate = cold_arid}
@@ -23735,7 +23735,7 @@ yakwahnim_paa = { topography = plateau vegetation = sparse climate = cold_arid r
 panati = { topography = hills vegetation = sparse climate = cold_arid religion = paiute_shamanism culture = penkwitikka_culture raw_material = salt}
 tipanuk = { topography = plateau vegetation = sparse climate = cold_arid religion = paiute_shamanism culture = penkwitikka_culture raw_material = wild_game}
 king_hill = { topography = plateau vegetation = sparse climate = cold_arid religion = paiute_shamanism culture = penkwitikka_culture raw_material = fiber_crops}
-yahandeka = { topography = plateau vegetation = woods climate = cold_arid religion = paiute_shamanism culture = penkwitikka_culture raw_material = maize}
+boise = { topography = plateau vegetation = woods climate = cold_arid religion = paiute_shamanism culture = penkwitikka_culture raw_material = maize}
 toponisw = { topography = hills vegetation = woods climate = continental religion = paiute_shamanism culture = penkwitikka_culture raw_material = maize}
 seneca = { topography = mountains vegetation = woods climate = cold_arid religion = paiute_shamanism culture = numu_culture raw_material = lumber}
 arock = { topography = hills vegetation = sparse climate = cold_arid religion = paiute_shamanism culture = numu_culture raw_material = wild_game}
@@ -23915,7 +23915,7 @@ yakyu_ki = { topography = mountains vegetation = forest climate = arctic religio
 ne_ktunaxa_ranges = { topography = mountain_wasteland vegetation = sparse climate = arctic}
 nc_ktunaxa_ranges = { topography = mountain_wasteland vegetation = desert climate = arctic}
 cw_ktunaxa_ranges = { topography = mountain_wasteland vegetation = sparse climate = arctic}
-puyallup = { topography = flatland vegetation = forest climate = oceanic religion = salishan_totemism culture = lushootseed_culture raw_material = fish natural_harbor_suitability = 1.00}
+seattle = { topography = flatland vegetation = forest climate = oceanic religion = salishan_totemism culture = lushootseed_culture raw_material = fish natural_harbor_suitability = 1.00}
 kittikas = { topography = mountains vegetation = forest climate = continental religion = salishan_totemism culture = yakama_culture raw_material = lumber}
 duwamish = { topography = flatland vegetation = forest climate = oceanic religion = salishan_totemism culture = lushootseed_culture raw_material = fish natural_harbor_suitability = 0.75}
 snohomish = { topography = flatland vegetation = forest climate = oceanic religion = salishan_totemism culture = lushootseed_culture raw_material = clay natural_harbor_suitability = 0.60}
@@ -26772,7 +26772,7 @@ mauna_loa = { topography = mountain_wasteland vegetation = desert climate = ocea
 maui = { topography = hills vegetation = forest climate = tropical religion = tapu_religion culture = kanaka_maoli_culture raw_material = fiber_crops natural_harbor_suitability = 0.00}
 lahaina = { topography = hills vegetation = woods climate = tropical religion = tapu_religion culture = kanaka_maoli_culture raw_material = fish natural_harbor_suitability = 0.00}
 moloka_i = { topography = hills vegetation = woods climate = tropical religion = tapu_religion culture = kanaka_maoli_culture raw_material = legumes natural_harbor_suitability = 0.00}
-o_ahu = { topography = hills vegetation = woods climate = tropical religion = tapu_religion culture = kanaka_maoli_culture raw_material = fish natural_harbor_suitability = 1.00}
+honolulu = { topography = hills vegetation = woods climate = tropical religion = tapu_religion culture = kanaka_maoli_culture raw_material = fish natural_harbor_suitability = 1.00}
 kaua_i = { topography = hills vegetation = forest climate = tropical religion = tapu_religion culture = kanaka_maoli_culture raw_material = fruit natural_harbor_suitability = 0.00}
 nihoa = { topography = atoll vegetation = forest climate = oceanic}
 mokumanamana = { topography = atoll vegetation = desert climate = oceanic}
@@ -27374,7 +27374,7 @@ woleai_atoll = { topography = atoll vegetation = forest climate = tropical relig
 ulithi_atoll = { topography = atoll vegetation = forest climate = tropical religion = yanolop_religion culture = yap_culture raw_material = fish natural_harbor_suitability = 0.00}
 yap = { topography = flatland vegetation = forest climate = tropical religion = yanolop_religion culture = yap_culture raw_material = stone natural_harbor_suitability = 0.25}
 ngulu_atoll = { topography = atoll vegetation = desert climate = tropical}
-guahan = { topography = flatland vegetation = woods climate = tropical religion = puntan_religion culture = chamoru_culture raw_material = fruit natural_harbor_suitability = 0.25}
+hagatna = { topography = flatland vegetation = woods climate = tropical religion = puntan_religion culture = chamoru_culture raw_material = fruit natural_harbor_suitability = 0.25}
 guahan_atoll = { topography = atoll vegetation = desert climate = tropical}
 rota = { topography = flatland vegetation = woods climate = tropical}
 saipan = { topography = flatland vegetation = forest climate = tropical religion = puntan_religion culture = chamoru_culture raw_material = lumber natural_harbor_suitability = 0.00}

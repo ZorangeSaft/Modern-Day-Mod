@@ -84942,7 +84942,7 @@ caribe_sea14 = {
 }
 caribe_sea15 = {
 }
-shawmut = {
+boston_ma = {
 	define_pop = {	type = tribesmen	size = 8.024	culture = massachusett_culture	religion = midewiwin_religion }
 }
 naumkeag = {
@@ -84957,7 +84957,7 @@ quinsigamond = {
 weshacum = {
 	define_pop = {	type = tribesmen	size = 3.815	culture = pocumtuck_culture	religion = midewiwin_religion }
 }
-patuxet = {
+plymouth_ma = {
 	define_pop = {	type = tribesmen	size = 2.413	culture = wampanoag_culture	religion = midewiwin_religion }
 }
 assonet = {
@@ -85170,7 +85170,7 @@ nicatous = {
 maatawamkeag = {
 	define_pop = {	type = tribesmen	size = 0.982	culture = wolastoqiyik_culture	religion = midewiwin_religion }
 }
-manhattan = {
+new_york_city = {
 	define_pop = {	type = tribesmen	size = 3.675	culture = munsee_culture	religion = midewiwin_religion }
 }
 tappan = {
@@ -85396,7 +85396,7 @@ muscotnetcong = {
 hopatcong = {
 	define_pop = {	type = tribesmen	size = 1.851	culture = munsee_culture	religion = midewiwin_religion }
 }
-shackamaxon = {
+philadelphia = {
 	define_pop = {	type = tribesmen	size = 3.535	culture = unami_culture	religion = midewiwin_religion }
 }
 wawassan = {
@@ -85541,7 +85541,7 @@ chicamacomico = {
 matapeake = {
 	define_pop = {	type = tribesmen	size = 4.517	culture = nanticoke_culture	religion = midewiwin_religion }
 }
-patapsco = {
+baltimore = {
 	define_pop = {	type = tribesmen	size = 3.395	culture = nanticoke_culture	religion = midewiwin_religion }
 }
 wicontiss = {
@@ -85553,7 +85553,7 @@ nentego = {
 patuxent = {
 	define_pop = {	type = tribesmen	size = 3.254	culture = piscataway_culture	religion = midewiwin_religion }
 }
-anacostia = {
+washington_dc = {
 	define_pop = {	type = tribesmen	size = 3.815	culture = piscataway_culture	religion = midewiwin_religion }
 }
 monocacy = {
@@ -85623,7 +85623,7 @@ cheroenhaka = {
 waqua = {
 	define_pop = {	type = tribesmen	size = 3.395	culture = nottoway_culture	religion = iroquoian_totemism }
 }
-pamunkey = {
+richmond_va = {
 	define_pop = {	type = clergy	size = 0.016	culture = powhatan_culture	religion = midewiwin_religion }
 	define_pop = {	type = tribesmen	size = 4.946	culture = powhatan_culture	religion = midewiwin_religion }
 }
@@ -86220,7 +86220,7 @@ kealedji = {
 	define_pop = {	type = clergy	size = 0.016	culture = coweta_culture	religion = mississippian_ceremonial }
 	define_pop = {	type = tribesmen	size = 1.442	culture = coweta_culture	religion = mississippian_ceremonial }
 }
-pakanahuili = {
+atlanta = {
 	define_pop = {	type = clergy	size = 0.016	culture = coweta_culture	religion = mississippian_ceremonial }
 	define_pop = {	type = tribesmen	size = 1.442	culture = coweta_culture	religion = mississippian_ceremonial }
 }
@@ -86281,7 +86281,7 @@ harris_lake = {
 }
 apopka_lake = {
 }
-mayaimi = {
+miami = {
 	define_pop = {	type = tribesmen	size = 0.561	culture = calusa_culture	religion = mississippian_ceremonial }
 }
 ais = {
@@ -86448,11 +86448,11 @@ shawanoe = {
 	define_pop = {	type = clergy	size = 0.016	culture = osage_culture	religion = mississippian_ceremonial }
 	define_pop = {	type = tribesmen	size = 2.985	culture = osage_culture	religion = mississippian_ceremonial }
 }
-spithota = {
+nashville = {
 	define_pop = {	type = clergy	size = 0.016	culture = kaskinampo_culture	religion = mississippian_ceremonial }
 	define_pop = {	type = tribesmen	size = 1.442	culture = kaskinampo_culture	religion = mississippian_ceremonial }
 }
-chucalissa = {
+memphis = {
 	define_pop = {	type = nobles	size = 0.014	culture = chakchiuma_culture	religion = mississippian_ceremonial }
 	define_pop = {	type = clergy	size = 0.030	culture = chakchiuma_culture	religion = mississippian_ceremonial }
 	define_pop = {	type = tribesmen	size = 21.080	culture = chakchiuma_culture	religion = mississippian_ceremonial }
@@ -86586,7 +86586,7 @@ captina = {
 conotton = {
 	define_pop = {	type = tribesmen	size = 2.132	culture = kispoko_culture	religion = mississippian_ceremonial }
 }
-olentangy = {
+columbus = {
 	define_pop = {	type = tribesmen	size = 1.430	culture = ofo_culture	religion = mississippian_ceremonial }
 }
 chianouske = {
@@ -86616,7 +86616,7 @@ qusquasrundee = {
 shapoquate = {
 	define_pop = {	type = tribesmen	size = 0.701	culture = kiwigapawa_culture	religion = midewiwin_religion }
 }
-assereniet = {
+cincinnati = {
 	define_pop = {	type = tribesmen	size = 1.851	culture = taneks_culture	religion = mississippian_ceremonial }
 }
 mameiwasipi = {
@@ -86763,7 +86763,7 @@ chicagon = {
 ontonagon = {
 	define_pop = {	type = tribesmen	size = 0.420	culture = ojibwe_culture	religion = midewiwin_religion }
 }
-checagou = {
+chicago = {
 	define_pop = {	type = tribesmen	size = 2.974	culture = peewareewa_culture	religion = mississippian_ceremonial }
 }
 tiatiki = {
@@ -87275,7 +87275,7 @@ schoodic_ridge = {
 }
 canada_high_sea22 = {
 }
-bulbancha = {
+new_orleans_la = {
 	define_pop = {	type = tribesmen	size = 0.561	culture = chitimacha_culture	religion = mississippian_ceremonial }
 }
 bogue_chitto = {
@@ -87537,7 +87537,7 @@ nodaway = {
 	define_pop = {	type = tribesmen	size = 0.115	culture = cahokia_culture	religion = mississippian_ceremonial }
 	define_pop = {	type = tribesmen	size = 0.186	culture = tsawi_culture	religion = great_plains_shamanism }
 }
-nudarcha = {
+kansas_city = {
 	define_pop = {	type = peasants	size = 0.050	culture = cahokia_culture	religion = mississippian_ceremonial }
 	define_pop = {	type = peasants	size = 0.106	culture = tsawi_culture	religion = great_plains_shamanism }
 	define_pop = {	type = tribesmen	size = 0.066	culture = cahokia_culture	religion = mississippian_ceremonial }
@@ -87695,7 +87695,7 @@ monona = {
 tchankasndata = {
 	define_pop = {	type = tribesmen	size = 0.420	culture = lahkota_culture	religion = great_plains_shamanism }
 }
-mathoskabde = {
+minneapolis = {
 	define_pop = {	type = tribesmen	size = 0.701	culture = sisithunwan_culture	religion = mississippian_ceremonial }
 }
 ginebig = {
@@ -87815,7 +87815,7 @@ moehe_yoe = {
 ihkowom_iyo_he = {
 	define_pop = {	type = tribesmen	size = 0.280	culture = ashalaho_culture	religion = great_plains_shamanism }
 }
-ksai_yohe = {
+billings = {
 	define_pop = {	type = tribesmen	size = 0.420	culture = kaigwu_culture	religion = great_plains_shamanism }
 }
 mitsiadazi = {
@@ -88160,7 +88160,7 @@ hisiometaneo = {
 paiyo_he = {
 	define_pop = {	type = tribesmen	size = 0.420	culture = yattinde_culture	religion = great_plains_shamanism }
 }
-niineniiniicie = {
+denver = {
 	define_pop = {	type = tribesmen	size = 0.420	culture = hende_culture	religion = dene_shamanism }
 }
 neenowuxoote_i = {
@@ -91929,7 +91929,7 @@ waco = {
 nokoni = {
 	define_pop = {	type = tribesmen	size = 0.970	culture = tawakoni_culture	religion = mississippian_ceremonial }
 }
-tanimuu = {
+dallas = {
 	define_pop = {	type = tribesmen	size = 0.277	culture = kitsai_culture	religion = mississippian_ceremonial }
 }
 kitsai = {
@@ -92118,7 +92118,7 @@ tsiya = {
 	define_pop = {	type = peasants	size = 0.414	culture = keres_culture	religion = kachina_religion }
 	define_pop = {	type = tribesmen	size = 0.470	culture = keres_culture	religion = kachina_religion }
 }
-tuf_shur_tia = {
+albuquerque_nm = {
 	define_pop = {	type = nobles	size = 0.014	culture = tanoan_culture	religion = kachina_religion }
 	define_pop = {	type = clergy	size = 0.030	culture = tanoan_culture	religion = kachina_religion }
 	define_pop = {	type = peasants	size = 0.282	culture = tanoan_culture	religion = kachina_religion }
@@ -92244,7 +92244,7 @@ kohatk = {
 }
 dzil_ligai_mountains = {
 }
-guwevkabaya = {
+phoenix = {
 	define_pop = {	type = tribesmen	size = 0.180	culture = hohokam_culture	religion = cahita_religion }
 }
 dolkabaya = {
@@ -93576,7 +93576,7 @@ payomkawichum = {
 kukamonga = {
 	define_pop = {	type = tribesmen	size = 0.701	culture = tongva_culture	religion = pomo_shamanism }
 }
-yaanga = {
+los_angeles = {
 	define_pop = {	type = tribesmen	size = 0.701	culture = tongva_culture	religion = pomo_shamanism }
 }
 ventureno = {
@@ -93598,10 +93598,10 @@ tepotahal = {
 mutsun = {
 	define_pop = {	type = tribesmen	size = 0.701	culture = ohlone_culture	religion = pomo_shamanism }
 }
-awaswas = {
+san_francisco = {
 	define_pop = {	type = tribesmen	size = 0.701	culture = ohlone_culture	religion = pomo_shamanism }
 }
-chochenyo = {
+san_jose = {
 	define_pop = {	type = tribesmen	size = 0.701	culture = ohlone_culture	religion = pomo_shamanism }
 }
 tawalimni = {
@@ -94008,7 +94008,7 @@ tipanuk = {
 king_hill = {
 	define_pop = {	type = tribesmen	size = 0.701	culture = penkwitikka_culture	religion = paiute_shamanism }
 }
-yahandeka = {
+boise = {
 	define_pop = {	type = tribesmen	size = 0.701	culture = penkwitikka_culture	religion = paiute_shamanism }
 }
 toponisw = {
@@ -94524,7 +94524,7 @@ nc_ktunaxa_ranges = {
 }
 cw_ktunaxa_ranges = {
 }
-puyallup = {
+seattle = {
 	define_pop = {	type = tribesmen	size = 0.701	culture = lushootseed_culture	religion = salishan_totemism }
 }
 kittikas = {
@@ -102520,7 +102520,7 @@ lahaina = {
 moloka_i = {
 	define_pop = {	type = tribesmen	size = 13.719	culture = kanaka_maoli_culture	religion = tapu_religion }
 }
-o_ahu = {
+honolulu = {
 	define_pop = {	type = tribesmen	size = 34.047	culture = kanaka_maoli_culture	religion = tapu_religion }
 }
 kaua_i = {
@@ -103794,7 +103794,7 @@ yap = {
 }
 ngulu_atoll = {
 }
-guahan = {
+hagatna = {
 	define_pop = {	type = tribesmen	size = 32.473	culture = chamoru_culture	religion = puntan_religion }
 }
 guahan_atoll = {

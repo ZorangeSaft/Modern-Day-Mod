@@ -1169,7 +1169,7 @@ locations={
 
 	#Isolated Island Markets
 	# tongatapu
-	# o_ahu
+	# honolulu
 	# gardr
 }
 

@@ -3163,9 +3163,9 @@ youloumain;the_grenadines;4910;4076;x
 buriari;bonaire_coast;4585;4025;x
 curacaute;cumarebo_coast;4551;4016;x
 arubeira;aruba_coast;4516;4044;x
-shawmut;massachusetts_bay;4460;5785;x
+boston_ma;massachusetts_bay;4460;5785;x
 naumkeag;massachusetts_bay;4466;5799;x
-patuxet;cape_cod_bay;4475;5765;x
+plymouth_ma;cape_cod_bay;4475;5765;x
 assonet;narragansett_bay;4465;5741;x
 nauset;pleasant_bay;4509;5752;x
 nantucket;nantucket_shoals;4481;5729;x
@@ -3184,7 +3184,7 @@ passagassawkeag;penobscot_bay;4548;5905;x
 pemetic;schoodic_ridge;4585;5908;x
 passamaquoddy;grand_manan_basin;4638;5937;x
 machias;schoodic_ridge;4606;5926;x
-manhattan;raritan_bay;4324;5683;x
+new_york_city;raritan_bay;4324;5683;x
 montauk;block_channel;4405;5698;x
 unquachog;long_island_coast_us;4377;5684;x
 massapequa;raritan_bay;4335;5675;x
@@ -3204,7 +3204,7 @@ tetamekanch;delaware_bay;4252;5613;x
 kechemeche;cape_may;4294;5588;x
 cohansey;delaware_bay;4262;5596;x
 amintonck;cape_may;4305;5609;x
-shackamaxon;delaware_bay;4260;5629;x
+philadelphia;delaware_bay;4260;5629;x
 minguannan;delaware_bay;4255;5600;x
 tappahanna;delaware_bay;4260;5583;x
 assawoman;delaware_bay;4275;5566;x
@@ -3212,7 +3212,7 @@ erie;eastern_erie_basin;4039;5770;x
 wicomico;chincoteague_bay;4266;5527;x
 chicamacomico;upper_chesapeake_bay;4222;5556;x
 matapeake;upper_chesapeake_bay;4224;5582;x
-patapsco;upper_chesapeake_bay;4214;5595;x
+baltimore;upper_chesapeake_bay;4214;5595;x
 wicontiss;upper_chesapeake_bay;4229;5611;x
 nentego;upper_chesapeake_bay;4209;5569;x
 patuxent;upper_chesapeake_bay;4214;5530;x
@@ -3254,7 +3254,7 @@ mayaca;st_augustine_inlet;3993;5020;x
 jororo;st_augustine_inlet;4004;4992;x
 surruque;cape_canaveral;4015;4952;x
 ho_bay;cape_canaveral;4023;4921;x
-mayaimi;biscayne_bay;4045;4798;x
+miami;biscayne_bay;4045;4798;x
 ais;palm_beach;4037;4881;x
 guacata;palm_beach;4049;4848;x
 tequesta;florida_bay;4023;4756;x
@@ -3297,7 +3297,7 @@ ishpeming;keweenaw_bay;3716;6054;x
 menominee;green_bay;3730;6006;x
 keweenaw;copper_harbor;3682;6118;x
 ontonagon;keweenaw_coast;3636;6088;x
-checagou;south_lake_michigan;3694;5781;x
+chicago;south_lake_michigan;3694;5781;x
 millioke;wind_point;3690;5842;x
 kenosha;wind_point;3695;5804;x
 sheboygan;middle_lake_michigan;3700;5871;x
@@ -3309,7 +3309,7 @@ chequamegon;chequamegon_bay;3558;6061;x
 mobile;mobile_bay;3682;5065;x
 biloxi;biloxi_bay;3624;5050;x
 pascagoula;biloxi_bay;3657;5055;x
-bulbancha;chandeleur_sound;3620;5021;x
+new_orleans_la;chandeleur_sound;3620;5021;x
 bogue_chitto;biloxi_bay;3613;5042;x
 chawasha;barataria_bay;3587;5006;x
 atchafalaya;atchafalaya_bay;3538;4999;x
@@ -3602,7 +3602,7 @@ kigluaik;clarence_gulf;110;7374;x
 anakovik;shishmarev_inlet;84;7428;x
 kachemak;ursus_cove;816;6966;x
 kenai;ursus_cove;854;7053;x
-dgheyaytnu;ursus_cove;872;7059;x
+anchorage;ursus_cove;872;7059;x
 k_enakatnu;ursus_cove;881;7091;x
 tyonek;ursus_cove;787;7047;x
 iliamna;ursus_cove;720;6972;x
@@ -3614,14 +3614,14 @@ kali;wevok_point;250;7693;x
 k_alii_xkalaan;lax_kw_alaams;1771;6684;x
 payomkawichum;orange_cove;2345;5229;x
 kukamonga;orange_cove;2335;5239;x
-yaanga;los_angeles_bay;2298;5271;x
+los_angeles;los_angeles_bay;2298;5271;x
 ventureno;los_angeles_bay;2260;5287;x
 ineseno;santa_barbara_coast;2205;5304;x
 pimuu_nga;san_catalina_island;2220;5267;x
 tepotahal;monterey_coast;2177;5370;x
 mutsun;santa_cruz_cove;2141;5415;x
-awaswas;elkhorn_bay;2141;5451;x
-chochenyo;san_francisco_bay;2132;5493;x
+san_francisco;elkhorn_bay;2141;5451;x
+san_jose;san_francisco_bay;2132;5493;x
 mewuk;marin_coast;2091;5531;x
 kashaya;sonoma_coast;2064;5567;x
 kulanapan;sonoma_coast;2057;5590;x
@@ -3642,7 +3642,7 @@ chala_at;grays_harbour;2035;6101;x
 sklallam;fuca_strait;2067;6161;x
 twana;kitsap_bay;2108;6146;x
 makah;olympic_coast;2015;6156;x
-puyallup;kitsap_bay;2121;6108;x
+seattle;kitsap_bay;2121;6108;x
 duwamish;kitsap_bay;2121;6138;x
 snohomish;kitsap_bay;2107;6155;x
 skagit;oyster_bay;2115;6183;x
@@ -4157,7 +4157,7 @@ hilo;kumukahi_cape;642;4423;x
 maui;maui_coast;584;4510;x
 lahaina;keahole_point;566;4502;x
 moloka_i;kahului_bay;548;4524;x
-o_ahu;maalaea_bay;501;4532;x
+honolulu;maalaea_bay;501;4532;x
 kaua_i;makahuena_point;424;4567;x
 kiritimati;kiritimati_coast;532;3450;x
 tabuaeran;tabuaeran_coast;442;3563;x
@@ -4233,7 +4233,7 @@ belau;namai_bay;13820;3761;x
 woleai_atoll;faraulep_coast_2;14270;3757;x
 ulithi_atoll;soliep_coast;14051;3896;x
 yap;gagil_coast;13979;3869;x
-guahan;pago_bay;14282;4087;x
+hagatna;pago_bay;14282;4087;x
 saipan;noos_coast;14327;4184;x
 chuuk;pulap_coast_2;14589;3752;x
 satawan_atoll;moch_coast;14684;3653;x
