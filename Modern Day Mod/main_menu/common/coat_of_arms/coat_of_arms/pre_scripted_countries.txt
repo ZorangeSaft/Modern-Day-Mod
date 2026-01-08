@@ -16581,6 +16581,19 @@ INC = { # Inca Empire
 	}			
 }
 
+mdm_INDI = { # mdm modern day mod India
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 255 104 26 }
+	color2 = "white"
+	color3 = rgb { 0 106 53 }
+
+	colored_emblem = {
+		texture = "mdm_ce_ashoka_chakra_india.dds"
+		color1 = rgb { 1 0 142 }
+		instance = { scale = { 0.309 0.309 } }
+	}
+}
+
 INH = { # Inhambane
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	30		10		92	}

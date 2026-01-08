@@ -2601,6 +2601,13 @@ IMO = { # Imola
 	}	
 }
 
+INDI = { # mdm modern day mod India
+	flag_definition = {
+		coa = mdm_INDI
+		priority = 1
+	}
+}
+
 INO = { # Inowroclaw
 	flag_definition = {
 		coa = INO
