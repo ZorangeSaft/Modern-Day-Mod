@@ -28205,6 +28205,23 @@ PAD_ghibellines = { # Padova - Ghibelline variant (plausible, tinctures inversio
 	}				
 }
 
+mdm_PAKI = { # mdm modern day mod Pakistan
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 63 22 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = "white"
+		instance = { position = { 0.125 0.5 } scale = { 0.25 1.0 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_pakistan.dds"
+		color1 = "white"
+		instance = { position = { 0.723 0.508 } scale = { 0.584 0.584 } }
+	}
+}
+
 PAH = { # Pahang
 	pattern = "pattern_solid.dds"
 	color1 = "black"

@@ -4238,6 +4238,13 @@ PAD = { # Padua
 	}
 }
 
+PAKI = { # mdm modern day mod Pakistan
+	flag_definition = {
+		coa = mdm_PAKI
+		priority = 1
+	}
+}
+
 PAL = { # Palatinate of the Rhine
 	flag_definition = {
 		coa = PAL
