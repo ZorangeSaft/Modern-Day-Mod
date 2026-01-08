@@ -393,6 +393,13 @@ ADU = { # Al Andalus
 	}	
 }
 
+AFGH = { # mdm modern day mod Afghanistan
+	flag_definition = {
+		coa = mdm_AFGH
+		priority = 1
+	}
+}
+
 ALB = { # mdm modern day mod Albania
 	flag_definition = {
 		coa = mdm_ALB
