@@ -7600,7 +7600,7 @@ tadmur = { topography = flatland vegetation = desert climate = cold_arid religio
 arak = { topography = flatland vegetation = desert climate = arid religion = sunni culture = levantine_culture raw_material = legumes}
 huwwarin = { topography = plateau vegetation = sparse climate = cold_arid religion = sunni culture = levantine_culture raw_material = horses}
 qaryatayn = { topography = plateau vegetation = desert climate = cold_arid religion = sunni culture = levantine_culture raw_material = fruit}
-al_ahsa = { topography = flatland vegetation = desert climate = arid religion = shia culture = kaliji_culture raw_material = rice}
+al_ahsa = { topography = flatland vegetation = desert climate = arid religion = shia culture = kaliji_culture raw_material = crude_oil}
 al_jubayl = { topography = flatland vegetation = desert climate = arid religion = shia culture = kaliji_culture raw_material = fish natural_harbor_suitability = 0.00}
 al_qatif = { topography = flatland vegetation = desert climate = arid religion = shia culture = kaliji_culture raw_material = pearls natural_harbor_suitability = 0.00}
 al_uqayr = { topography = flatland vegetation = desert climate = arid religion = shia culture = kaliji_culture raw_material = fish natural_harbor_suitability = 0.00}

@@ -345,7 +345,7 @@ chili = {
 
 
 
-#####
+#####mdm modern day mod
 
 
 #metals
@@ -353,32 +353,33 @@ chili = {
 aluminium_ore = {
 	method = mining
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 180 160 150 } #ai
+	default_market_price = 1.5 #ai
+	transport_cost = 3 #ai
 }
 
 beryllium_ore = {
 	method = mining
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 160 170 160 } #ai
+	default_market_price = 3 #ai
+	transport_cost = 2 #ai
 }
 
 copper_ore = {
 	method = mining
 	category = raw_material
-	color = goods_copper
-	default_market_price = 3
-	transport_cost = 2
+	color = rgb { 140 100 70 } #ai
+	default_market_price = 1.8 #ai
+	transport_cost = 3 #ai
 }
 
 gold_ore = {
 	method = mining
 	category = raw_material
-	color = { 0 187 250 } #gold_ore
-	default_market_price = 10
+	color = rgb { 180 140 60 } #ai
+	default_market_price = 10 #ai
+	transport_cost = 2 #ai
 
 	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
 	
@@ -397,9 +398,9 @@ gold_ore = {
 iron_ore = { #by far the most produced metal, for steel
 	method = mining
 	category = raw_material
-	color = goods_iron
-	default_market_price = 3
-	transport_cost = 1
+	color = rgb { 120 100 90 } #ai
+	default_market_price = 1.2 #ai
+	transport_cost = 4 #ai
 	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
 	
 	ai_rgo_expansion_priority = 0.025
@@ -408,48 +409,49 @@ iron_ore = { #by far the most produced metal, for steel
 lead_ore = {
 	method = mining
 	category = raw_material
-	color = goods_lead
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 100 100 110 } #ai
+	default_market_price = 1 #ai
+	transport_cost = 5 #ai
 }
 
 lithium_brine = { #most common source of lithium
 	method = mining
 	category = raw_material
-	color = goods_lead
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 200 220 230 } #ai
+	default_market_price = 2.5 #ai
+	transport_cost = 2 #ai
 }
 
 lithium_ore = { #li-ion batteries
 	method = mining
 	category = raw_material
-	color = goods_lead
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 180 180 190 } #ai
+	default_market_price = 2.8 #ai
+	transport_cost = 2 #ai
 }
 
 magnesium_ore = { #dolomite ?, CaMg(CO3)2 (the calcium doesnt get recovered and remains as slag)
 	method = mining
 	category = raw_material
-	color = goods_iron
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 170 160 150 } #ai
+	default_market_price = 1.5 #ai
+	transport_cost = 3 #ai
 }
 
 manganese_ore = { #used in steel and lithium ion batteries
 	method = mining
 	category = raw_material
-	color = goods_iron
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 110 100 100 } #ai
+	default_market_price = 1.2 #ai
+	transport_cost = 4 #ai
 }
 
 mercury_ore = { #not sure if mercury is important enough to be its own good in the modern day
 	method = mining
 	category = raw_material
-	color = goods_mercury
-	default_market_price = 3
+	color = rgb { 160 140 140 } #ai
+	default_market_price = 2 #ai
+	transport_cost = 4 #ai
 	
 
 	demand_add = {
@@ -464,48 +466,49 @@ mercury_ore = { #not sure if mercury is important enough to be its own good in t
 molybdenum_ore = { #also often byproduct of copper or tungesten mining
 	method = mining
 	category = raw_material
-	color = goods_iron
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 130 130 140 } #ai
+	default_market_price = 2.2 #ai
+	transport_cost = 2 #ai
 }
 
 nickel_ore = { #also byproduct of copper and platinum
 	method = mining
 	category = raw_material
-	color = goods_iron
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 150 140 120 } #ai
+	default_market_price = 2 #ai
+	transport_cost = 3 #ai
 }
 
 niobium_ore = { #also byproduct of tantalum mining, and tin
 	method = mining
 	category = raw_material
-	color = goods_iron
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 150 150 160 } #ai
+	default_market_price = 2.8 #ai
+	transport_cost = 2 #ai
 }
 
 platinum_group_ores = { #catalysts, catalytic converters, also byproduct of nickel and copper mining in some places
 	method = mining
 	category = raw_material
-	color = goods_iron
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 170 170 180 } #ai
+	default_market_price = 5 #ai
+	transport_cost = 1 #ai
 }
 
 rare_earth_ores = {
 	method = mining
 	category = raw_material
-	color = goods_iron
-	default_market_price = 1
-	transport_cost = 1
+	color = rgb { 140 150 160 } #ai
+	default_market_price = 3 #ai
+	transport_cost = 2 #ai
 }
 
 silver_ore = {
 	method = mining
 	category = raw_material
-	color = goods_silver
-	default_market_price = 8
+	color = rgb { 180 180 190 } #ai
+	default_market_price = 8 #ai
+	transport_cost = 1 #ai
 	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
 	
 	ai_rgo_expansion_priority = 0.2
@@ -522,73 +525,73 @@ silver_ore = {
 strontium_ore = { #strontium mostly used in ferrite magnets
 	method = mining
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 180 180 180 } #ai
+	default_market_price = 1.3 #ai
+	transport_cost = 3 #ai
 }
 
 tantalum_ore = {
 	method = mining
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 130 140 150 } #ai
+	default_market_price = 3.5 #ai
+	transport_cost = 2 #ai
 }
 
 tin_ore = {
 	method = mining
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 160 160 170 } #ai
+	default_market_price = 1.5 #ai
+	transport_cost = 3 #ai
 }
 
 titanium_ore = {
 	method = mining
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 160 160 170 } #ai
+	default_market_price = 2.8 #ai
+	transport_cost = 2 #ai
 }
 
 tungsten_ore = {
 	method = mining
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 120 120 120 } #ai
+	default_market_price = 2.4 #ai
+	transport_cost = 3 #ai
 }
 
 uranium_ore = {
 	method = mining
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 80 110 80 } #ai
+	default_market_price = 2.5 #ai
+	transport_cost = 5 #ai
 }
 
 vanadium_ore = { #vanadium is extracted from titaniferous magnetite which is only 1-2% vanadium, so this has to be changed
 	method = mining
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 140 140 150 } #ai
+	default_market_price = 2.2 #ai
+	transport_cost = 2 #ai
 }
 
 zinc_ore = {
 	method = mining
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 160 170 180 } #ai
+	default_market_price = 1.3 #ai
+	transport_cost = 3 #ai
 }
 
 zirconium_ore = {
 	method = mining
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 160 170 170 } #ai
+	default_market_price = 2.4 #ai
+	transport_cost = 2 #ai
 }
 
 #end of metals
@@ -661,9 +664,9 @@ marble = {
 pure_quartz = { #for semiconductors https://en.wikipedia.org/wiki/Spruce_Pine_Mining_District
 	method = mining
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 240 240 250 } #ai
+	default_market_price = 3 #ai
+	transport_cost = 2 #ai
 }
 
 salt = {
@@ -690,8 +693,9 @@ sand = {
 silica_sand = {
 	method = gathering
 	category = raw_material
-	color = goods_sand
-	default_market_price = 1
+	color = rgb { 230 220 200 } #ai
+	default_market_price = 0.8 #ai
+	transport_cost = 4 #ai
 }
 
 stone = {
@@ -707,14 +711,14 @@ stone = {
 
 
 
-#other new raw goods
+#oil and gas
 
 crude_oil = {
 	method = gathering
 	category = raw_material
-	color = goods_amber
-	default_market_price = 4
-	transport_cost = 5
+	color = rgb { 40 35 25 } #ai
+	default_market_price = 4 #ai
+	transport_cost = 5 #ai
 	ai_rgo_expansion_priority = 0.025
 }
 
@@ -725,7 +729,7 @@ crude_oil = {
 helium = { #also on earth obviously but moon mining for fusion reactors would be cool, would mostly be for the moon at first and powering fusion there, maby by lategame you could export it to earth
 	method = gathering
 	category = raw_material
-	color = goods_tin
-	default_market_price = 2
-	transport_cost = 2
+	color = rgb { 255 240 200 } #ai
+	default_market_price = 3.5 #ai
+	transport_cost = 1 #ai
 }
