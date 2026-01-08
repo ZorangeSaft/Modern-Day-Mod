@@ -2658,6 +2658,13 @@ JAP = { # mdm modern day mod Japan
 	}
 }
 
+JORD = { # mdm modern day mod Jordan
+	flag_definition = {
+		coa = mdm_JORD
+		priority = 1
+	}
+}
+
 JUL = { # Juliers
 	flag_definition = {
 		coa = JUL
@@ -5385,6 +5392,13 @@ SXM = { # Samogitia
 			coa_def_teutonic_order_trigger = yes
 		}
 	}		
+}
+
+SYRI = { # mdm modern day mod Syria
+	flag_definition = {
+		coa = mdm_SYRI
+		priority = 1
+	}
 }
 
 TAIW = { # mdm modern day mod Republic of China

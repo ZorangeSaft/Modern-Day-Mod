@@ -17334,7 +17334,25 @@ JOL = { # Jolof
 		color2 = color3	
 		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 } }					
 	}
-} 
+}
+
+mdm_JORD = { # mdm modern day mod Jordan
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = "white"
+	color3 = rgb { 0 123 58 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_80.dds"
+		color1 = rgb { 207 8 33 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_jordan.dds"
+		color1 = "white"
+		instance = { position = { 0.154 0.496 } scale = { 0.135 0.135 } }
+	}
+}
 
 JPO = { # Jeypore / Nandapur / Suryavamsa
 	pattern = "pattern_solid.dds"
@@ -35228,6 +35246,21 @@ SYN = { # Sayn
 		color2 = color3
 		color3 = color1
 		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }			
+	}
+}
+
+mdm_SYRI = { # mdm modern day mod Syria
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 123 58 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 207 8 33 }
+		instance = { position = { @three_quarters @half } scale = { 0.247 0.247 } }
+		instance = { position = { @half @half } scale = { 0.247 0.247 } }
+		instance = { position = { @quarter @half } scale = { 0.247 0.247 } }
 	}
 }
 
