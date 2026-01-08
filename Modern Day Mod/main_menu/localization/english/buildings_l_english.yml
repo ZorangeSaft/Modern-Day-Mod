@@ -1286,7 +1286,7 @@
  mdm_tin_blast_furnace_desc: "For the production of [ShowGoodsName('tin')] and its byproduct of [ShowGoodsName('bismuth')] and [ShowGoodsName('silver')]"
 
  mdm_acid_leaching_plant: "Acid Leaching Plant"
- mdm_acid_leaching_plant_desc: "For the production of [ShowGoodsName('silver')], [ShowGoodsName('mercury')], [ShowGoodsName('tantalum')], [ShowGoodsName('refined_uranium')], [ShowGoodsName('platinum_group_metals')] and [ShowGoodsName('rare_earth_metals')]"
+ mdm_acid_leaching_plant_desc: "For the production of [ShowGoodsName('silver')], [ShowGoodsName('mercury')], [ShowGoodsName('tantalum')], [ShowGoodsName('uranium')], [ShowGoodsName('platinum_group_metals_metals')] and [ShowGoodsName('rare_earth_metals')]"
 
  mdm_gold_acid_leaching_plant: "Gold-Silver Acid Leaching Plant"
  mdm_gold_acid_leaching_plant_desc: "For the production of [ShowGoodsName('gold_metal')] and its major byproduct [ShowGoodsName('silver')]"

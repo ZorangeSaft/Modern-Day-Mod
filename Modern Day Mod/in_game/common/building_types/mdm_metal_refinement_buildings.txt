@@ -313,15 +313,15 @@ mdm_acid_leaching_plant = {
             produced = mercury
             output = 0.85
         }
-        mdm_acid_leaching_platinum_group = {
-            platinum_group_ore = 1
+        mdm_acid_leaching_platinum_group_metals = {
+            platinum_group_ores = 1
             aqua_regia = 0.5
             electricity = 2
             produced = platinum_group_metals
             output = 0.8
         }
-        mdm_acid_leaching_rare_earths = {
-            rare_earth_ore = 1
+        mdm_acid_leaching_rare_earth_ores = {
+            rare_earth_ores = 1
             sulfuric_acid = 0.5
             electricity = 2
             produced = rare_earth_metals
@@ -338,7 +338,7 @@ mdm_acid_leaching_plant = {
             uranium_ore = 1
             sulfuric_acid = 0.5
             electricity = 2
-            produced = refined_uranium
+            produced = uranium
             output = 0.8
         }
     }

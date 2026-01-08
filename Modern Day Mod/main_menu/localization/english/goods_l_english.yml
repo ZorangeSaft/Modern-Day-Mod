@@ -48,7 +48,7 @@
  gems_desc: "Since the earliest times, stones such as rubies, sapphires, diamonds, emeralds, or jade, have been used in jewelry and ceremonial attire. For centuries the only source of diamonds in the world were the fabled mines at Golconda. While not all precious stones are as rare, they are all highly sought-after commodities."
  stone: "Stone"
  stone_desc: "Stone has been one of the main building materials of humanity throughout all its history. Stronger and more durable than other options like clay or wood, it was the go-to material for any construction built to last. Buildings from long ago like the Pyramids have reached our times still standing due to the durability of the stone they were made of."
- tin_ore: "Tin"
+ tin_ore: "Tin Ore"
  tin__ore_desc: "Tin was used extensively for the first time in metallurgy as part of the alloy to obtain bronze 5000 years ago. Later it has been widely used to coat other metals and alloys, such as iron, lead or steel, to prevent corrosion, as well as to make pewter, very common in tableware."
  lead_ore: "Lead"
  lead_ore_desc: "Lead has been obtained since ancient times as a by-product of silver extraction by burning galena. Lead was then used in a wide range of household and manufactured products, especially by the Romans, whose levels of lead production were not reached until the Industrial Revolution. In the Modern Age, it became the main material for making bullets for firearms."
@@ -1188,10 +1188,10 @@
  niobium: "Niobium" #also byproduct of tantalum mining, and tin
  niobium_desc: "Produced in a [ShowBuildingTypeName('mdm_metalothermic_reduction_facility')] from [ShowGoodsName('niobium_ore')]."
 
- platinum_group: "Platinum Group" #catalysts, catalytic converters, also byproduct of nickel and copper mining in some places
- platinum_group_desc: "Produced in an [ShowBuildingTypeName('mdm_acid_leaching_plant')] from [ShowGoodsName('platinum_group_ore')]."
+ platinum_group_metals: "Platinum Group" #catalysts, catalytic converters, also byproduct of nickel and copper mining in some places
+ platinum_group_metals_desc: "Produced in an [ShowBuildingTypeName('mdm_acid_leaching_plant')] from [ShowGoodsName('platinum_group_metals_ore')]."
 
- rare_earth: "Rare Earths"
+ rare_earth_metals: "Rare Earth Metals"
  rare_earth_desc: "Produced in an [ShowBuildingTypeName('mdm_acid_leaching_plant')] from [ShowGoodsName('rare_earth_ore')]."
 
  silver: "Silver"

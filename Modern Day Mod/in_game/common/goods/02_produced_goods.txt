@@ -533,14 +533,14 @@ niobium = {
 	transport_cost = 2
 }
 
-platinum_group = {
+platinum_group_metals = {
 	category = produced
 	color = goods_steel
 	default_market_price = 5
 	transport_cost = 2
 }
 
-rare_earth = {
+rare_earth_metals = {
 	category = produced
 	color = goods_steel
 	default_market_price = 5
