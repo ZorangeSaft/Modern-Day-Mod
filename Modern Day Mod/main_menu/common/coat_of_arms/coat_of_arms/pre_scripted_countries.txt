@@ -17354,7 +17354,7 @@ mdm_JORD = { # mdm modern day mod Jordan
 	color3 = rgb { 0 123 58 }
 
 	colored_emblem = {
-		texture = "mdm_ce_hoist_triangle_80.dds"
+		texture = "mdm_ce_hoist_triangle_53.dds"
 		color1 = rgb { 207 8 33 }
 	}
 
