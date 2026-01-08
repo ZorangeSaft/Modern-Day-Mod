@@ -3208,6 +3208,13 @@ MAK = { # Makuria
 	}
 }
 
+MART = { # mdm modern day mod Mauritius
+	flag_definition = {
+		coa = mdm_MART
+		priority = 1
+	}
+}
+
 MAL = { # mdm modern day mod Mali
 	flag_definition = {
 		coa = mdm_MAL

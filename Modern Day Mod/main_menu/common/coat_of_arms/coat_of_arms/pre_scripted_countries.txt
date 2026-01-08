@@ -21724,6 +21724,29 @@ MAR = { # Maryul
 	}	
 }
 
+mdm_MART = { # mdm modern day mod Mauritius
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 209 22 25 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 41 48 89 }
+		instance = { position = { 0.5 0.375 } scale = { 1 @quarter } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 247 184 17 }
+		instance = { position = { 0.5 0.625 } scale = { 1 @quarter } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 135 87 }
+		instance = { position = { 0.5 0.875 } scale = { 1 @quarter } }
+	}
+}
+
 MAT = { # Tollohcan/Toluca/Matlatzinco
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	40		65		85	} 
