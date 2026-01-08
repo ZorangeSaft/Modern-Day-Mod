@@ -1292,7 +1292,7 @@
  silica_sand_desc: "Silica Sand for the production of glass"
 
  crude_oil: "Crude Oil"
- crude_oil_desc: "Refined in a [ShowBuildingTypeName('mdm_oil_refinery')] into various [mdm_oil_fractions|e]"
+ crude_oil_desc: "Refined in an [ShowBuildingTypeName('mdm_oil_refinery')] into various [mdm_oil_fractions|e]"
 
  helium: "Helium"
  helium_desc: "Helium 3 for fusion reactors"

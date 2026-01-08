@@ -23690,7 +23690,7 @@ kaiparowit = { topography = mountains vegetation = sparse climate = cold_arid re
 nuwuvi_wasteland = { topography = mountain_wasteland vegetation = woods climate = arctic}
 koosharem = { topography = plateau vegetation = woods climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = legumes}
 pierruiat = { topography = plateau vegetation = desert climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = wild_game}
-tooele = { topography = plateau vegetation = desert climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = wild_game}
+tooele = { topography = plateau vegetation = desert climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = beryllium_ore} #worlds largest beryllium mine
 unkagarit = { topography = plateau vegetation = woods climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = lumber}
 salt_lake_city = { topography = plateau vegetation = woods climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = lumber}
 seuhubeogoi = { topography = plateau vegetation = desert climate = cold_arid religion = paiute_shamanism culture = kusiutta_culture raw_material = wild_game}
