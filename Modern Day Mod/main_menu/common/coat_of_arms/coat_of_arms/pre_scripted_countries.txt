@@ -24820,6 +24820,19 @@ MYA = { # Mong Yang
 	}	
 }
 
+mdm_MYAN = { # mdm modern day mod Myanmar
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 254 204 0 }
+	color2 = rgb { 49 180 48 }
+	color3 = rgb { 235 35 54 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { scale = { 0.663 0.663 } }
+	}
+}
+
 MYI = { # Ma-i
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	10 	85	60	} 
@@ -32962,26 +32975,11 @@ SHP = { # Sahipatids
 	}	
 }
 
-SIA = { # Siam
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-	color3 = "white"
-	
-	colored_emblem = {
-		texture = "ce_chakra_siam_large.dds"
-		color1 = color2
-		color2 = color3
-		color3 = color1
-		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 } }
-	}		
-	colored_emblem = {
-		texture = "ce_elephant_asian.dds"
-		color1 = color3
-		color2 = hsv360 	{	0		0		80	} 
-		color3 = color1
-		instance = { position = { 0.498 0.485 } scale = { 0.34 0.35 } }
-	}		
+mdm_SIA = { # mdm modern day mod Thailand
+	pattern = "mdm_pattern_thailand.dds"
+	color1 = rgb { 45 42 74 }
+	color2 = rgb { 244 245 248 }
+	color3 = rgb { 165 25 49 }
 }
 
 SIC_ancient = { # Sicily

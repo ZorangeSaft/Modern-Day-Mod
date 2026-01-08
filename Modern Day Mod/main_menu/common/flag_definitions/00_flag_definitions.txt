@@ -3637,6 +3637,13 @@ MSV = { # Mstislavl
 	}	
 }
 
+MYAN = { # mdm modern day mod Myanmar
+	flag_definition = {
+		coa = mdm_MYAN
+		priority = 1
+	}
+}
+
 MZB = { # Mzab
 	flag_definition = {
 		coa = MZB
@@ -5125,6 +5132,13 @@ SGT = { # Siguntur
 		trigger = {
 			coa_def_muslim_trigger = yes # TODO
 		}
+	}
+}
+
+SIA = { # mdm modern day mod Thailand
+	flag_definition = {
+		coa = mdm_SIA
+		priority = 1
 	}
 }
 
