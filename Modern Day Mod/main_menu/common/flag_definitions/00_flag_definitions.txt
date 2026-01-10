@@ -3201,7 +3201,7 @@ MACE = { # mdm modern day mod North Macedonia
 	}
 }
 
-MADA = { # mdm modern day mod North Madagascar
+MADA = { # mdm modern day mod Madagascar
 	flag_definition = {
 		coa = mdm_MADA
 		priority = 1
