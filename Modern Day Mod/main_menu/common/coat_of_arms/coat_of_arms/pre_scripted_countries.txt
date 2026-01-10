@@ -21580,6 +21580,24 @@ mdm_MADA = { # mdm modern day mod Madagascar
 	color3 = rgb { 0 133 58 }
 }
 
+mdm_MALA = { # mdm modern day mod Malaysia
+	pattern = "mdm_pattern_horizontal_stripes_14.dds"
+	color1 = rgb { 205 0 0 }
+	color2 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 0 102 }
+		instance = { position = { 0.25 0.285 } scale = { 0.5 0.57 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_malaysia.dds"
+		color1 = rgb { 255 205 0 }
+		instance = { position = { 0.249 0.286 } scale = { 0.428 0.428 } }
+	}
+}
+
 mdm_MALT = { # mdm modern day mod Malta
 	pattern = "pattern_vertical_split_01.dds"
 	color1 = "white"

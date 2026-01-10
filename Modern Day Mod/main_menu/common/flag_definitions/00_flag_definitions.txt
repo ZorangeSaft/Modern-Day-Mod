@@ -3208,6 +3208,13 @@ MADA = { # mdm modern day mod Madagascar
 	}
 }
 
+MALA = { # mdm modern day mod Malaysia
+	flag_definition = {
+		coa = mdm_MALA
+		priority = 1
+	}
+}
+
 MALT = { # mdm modern day mod Malta
 	flag_definition = {
 		coa = mdm_MALT
