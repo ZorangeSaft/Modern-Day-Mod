@@ -868,6 +868,13 @@ BDE = { # Baden
 	}
 }
 
+BEI = { # mdm modern day mod Brunei
+	flag_definition = {
+		coa = mdm_BEI
+		priority = 1
+	}
+}
+
 BEL = { # mdm modern day mod Belgium
 	flag_definition = {
 		coa = mdm_BEL

@@ -3209,9 +3209,18 @@ BEA = { # Beare
 	}
 }
 
-BEI = { #Brunei
-	pattern = "pattern_solid.dds"
-	color1 = yellow
+mdm_BEI = { # mdm modern day mod Brunei
+	pattern = "mdm_pattern_brunei.dds"
+	color1 = rgb { 247 225 16 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_brunei.dds"
+		color1 = rgb { 208 8 33 }
+		color2 = color1
+		instance = { scale = { 0.586 0.586 } }
+	}
 }
 
 BEJ = { # Beja
