@@ -1924,6 +1924,13 @@ DAU = { # Viennois
 	}
 }
 
+DGL = { # mdm modern day mod Maldives
+	flag_definition = {
+		coa = mdm_DGL
+		priority = 1
+	}
+}
+
 DJIB = { # mdm modern day mod Djibouti
 	flag_definition = {
 		coa = mdm_DJIB

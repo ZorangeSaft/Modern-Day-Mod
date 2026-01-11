@@ -10498,17 +10498,20 @@ DGE = { # Doger
 	}			
 }
 
-DGL = { # Maldives (Modern stripe, otherwise it's another plain red flag)
+mdm_DGL = { # mdm modern day mod Maldives
 	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "black"
+	color1 = rgb { 211 8 49 }
 
 	colored_emblem = {
-		texture = "ce_stripe_hoist_bendy.dds"
-		color1 = color3
-		color2 = color2
-		instance = { position = { 0.33 0.5 } scale = { 0.66 1.0 } }				
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 127 55 }
+		instance = { scale = { 0.667 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_maldives.dds"
+		color1 = "white"
+		instance = { position = { 0.495 0.5 } scale = { 0.333 0.333 } }
 	}
 }
 
