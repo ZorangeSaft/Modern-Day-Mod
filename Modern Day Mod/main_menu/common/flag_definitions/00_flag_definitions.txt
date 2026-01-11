@@ -2615,6 +2615,13 @@ INDI = { # mdm modern day mod India
 	}
 }
 
+INDN = { # mdm modern day mod Indonesia
+	flag_definition = {
+		coa = mdm_INDN
+		priority = 1
+	}
+}
+
 INO = { # Inowroclaw
 	flag_definition = {
 		coa = INO

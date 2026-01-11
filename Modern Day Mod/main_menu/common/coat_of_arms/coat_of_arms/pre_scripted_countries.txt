@@ -16605,6 +16605,12 @@ mdm_INDI = { # mdm modern day mod India
 	}
 }
 
+mdm_INDN = { # mdm modern day mod Indonesia
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 255 0 0 }
+	color2 = "white"
+}
+
 INH = { # Inhambane
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	30		10		92	}
