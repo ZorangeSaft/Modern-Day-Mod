@@ -2055,6 +2055,13 @@ ETH = { # mdm modern day mod Ethiopia
 	}
 }
 
+ETIM = { # mdm modern day mod Timor-Leste
+	flag_definition = {
+		coa = mdm_ETIM
+		priority = 1
+	}
+}
+
 EVR = { # Evreux
 	# EVR_ancient - AG pilly-barry (Montfort)
 	# EVR - France & bend compony AG
@@ -4319,6 +4326,13 @@ PAP = { # Rome/Papal States
 		trigger = {
 			coa_def_revolutionary_republic_trigger = yes
 		}
+	}
+}
+
+PAPU = { # mdm modern day mod Papua New Guinea
+	flag_definition = {
+		coa = mdm_PAPU
+		priority = 1
 	}
 }
 

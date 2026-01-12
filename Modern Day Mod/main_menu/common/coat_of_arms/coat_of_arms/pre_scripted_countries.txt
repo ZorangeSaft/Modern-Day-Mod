@@ -12204,7 +12204,28 @@ ETH_modern = { # Ethiopia Modern tricolour design
 		color3 = hsv360 	{	42	75	90	}		
 		instance = { position = { 0.5 0.475 } scale = { 0.75 0.75 } }					
 	}			
-} 
+}
+
+mdm_ETIM = { # mdm modern day mod Timor-Leste
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 219 36 22 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_53.dds"
+		color1 = rgb { 255 200 40 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_75.dds"
+		color1 = "black"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five_timor_leste.dds"
+		color1 = "white"
+		instance = { position = { 0.106 0.5 } scale = { 0.313 0.313 } }
+	}
+}
 
 ETZ = { # Etzatlan/Eztatlan
 	pattern = "pattern_solid.dds"
@@ -28491,6 +28512,28 @@ PAP_bicolor = { # Papal States - Traditional bicolor
 		texture = "ce_per_pale.dds"
 		color1 = color1
 		color2 = color2
+	}
+}
+
+mdm_PAPU = { # mdm modern day mod Papua New Guinea
+	pattern = "pattern_diagonal_split_01.dds"
+	color1 = rgb { 201 8 42 }
+	color2 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.25 0.375 } scale = { 0.141 0.141 } }
+		instance = { position = { 0.365 0.556 } scale = { 0.141 0.141 } }
+		instance = { position = { 0.135 0.569 } scale = { 0.141 0.141 } }
+		instance = { position = { 0.302 0.694 } scale = { 0.07 0.07 } }
+		instance = { position = { 0.25 0.833 } scale = { 0.141 0.141 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_papua_new_guinea_birds_of_paradise.dds"
+		color1 = rgb { 255 206 0 }
+		instance = { position = { 0.674 0.357 } scale = { 0.5 0.5 } }
 	}
 }
 
