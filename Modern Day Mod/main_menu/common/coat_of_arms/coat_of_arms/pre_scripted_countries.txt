@@ -10524,6 +10524,43 @@ mdm_DGL = { # mdm modern day mod Maldives
 	}
 }
 
+mdm_SRLA = { # mdm modern day mod Sri Lanka
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 247 183 24 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 95 86 }
+		instance = { position = { 0.28 0.5 } scale = { 0.16 0.84 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 223 117 0 }
+		instance = { position = { 0.12 0.5 } scale = { 0.16 0.84 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 148 30 50 }
+		instance = { position = { 0.68 0.5 } scale = { 0.56 0.84 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sri_lanka.dds"
+		color1 = color1
+		color2 = "black"
+		instance = { position = { 0.68 0.5 } scale = { 0.56 0.56 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sri_lanka_bo_leaves.dds"
+		color1 = color1
+		color2 = "black"
+		instance = { position = { 0.68 0.5 } scale = { 0.68 0.68 } } # TODO: Just for a 2:3 approximation
+	}
+}
+
 DGR = { # Bagar (Dungarpur)
 	pattern = "pattern_solid.dds"
 	color1 = "saffron"

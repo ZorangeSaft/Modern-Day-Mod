@@ -5358,6 +5358,13 @@ SPA = { # mdm modern day mod Spain
 	}
 }
 
+SRLA = { # mdm modern day mod Sri Lanka
+	flag_definition = {
+		coa = mdm_SRLA
+		priority = 1
+	}
+}
+
 SSUD = { # mdm modern day mod South Sudan
 	flag_definition = {
 		coa = mdm_SSUD
