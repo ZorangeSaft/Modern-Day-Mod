@@ -905,9 +905,9 @@ KENY = {
 }
 
 
-KIRI = { #not in hoi4
-	color = rgb { 189  117  112 }
-	color2 = rgb { 189  117  112 }
+KIRI = {
+	color = rgb { 201 8 8 } # Kiribati flag red
+	color2 = rgb { 201 8 8 }
 	culture_definition = maohi_culture
 	religion_definition = lutheran
 	description_category = diplomatic
