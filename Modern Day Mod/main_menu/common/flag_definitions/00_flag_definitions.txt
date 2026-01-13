@@ -4301,6 +4301,13 @@ PALE = { # mdm modern day mod Palestine
 	}
 }
 
+PALU = { # mdm modern day mod Palau
+	flag_definition = {
+		coa = mdm_PALU
+		priority = 1
+	}
+}
+
 PAP = { # Rome/Papal States
 	flag_definition = {
 		coa = PAP

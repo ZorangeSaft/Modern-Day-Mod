@@ -28411,6 +28411,17 @@ mdm_PALE = { # mdm modern day mod Palestine
 	}
 }
 
+mdm_PALU = { # mdm modern day mod Palau
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 154 255 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1 = rgb { 255 255 0 }
+		instance = { position = { 0.438 0.5 } scale = { 0.6 0.6 } }
+	}
+}
+
 PAM = { # Pame/Xi'oi (Irapuato/Jiricuato)
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	108		45		35	} 
