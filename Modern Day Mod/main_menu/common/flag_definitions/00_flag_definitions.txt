@@ -5635,6 +5635,13 @@ TOGO = { # mdm modern day mod Togo
 	}
 }
 
+TOG = { # mdm modern day mod Tonga
+	flag_definition = {
+		coa = mdm_TOG
+		priority = 1
+	}
+}
+
 TRE = { # Trebizond
 	flag_definition = {
 		coa = TRE
@@ -6700,6 +6707,13 @@ UTR = { # Utrecht
 UZBE = { # mdm modern day mod Uzbekistan
 	flag_definition = {
 		coa = mdm_UZBE
+		priority = 1
+	}
+}
+
+VANU = { # mdm modern day mod Vanuatu
+	flag_definition = {
+		coa = mdm_VANU
 		priority = 1
 	}
 }

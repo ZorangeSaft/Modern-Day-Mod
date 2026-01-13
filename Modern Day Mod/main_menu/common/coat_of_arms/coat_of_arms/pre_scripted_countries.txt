@@ -37194,6 +37194,23 @@ mdm_TOGO = { # mdm modern day mod Togo
 	}
 }
 
+mdm_TOG = { # mdm modern day mod Tonga
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 194 0 0 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = "white"
+		instance = { position = { 0.208 0.25 } scale = { 0.417 0.5 } }
+	}
+	
+	colored_emblem = {
+		texture = "mdm_ce_cross_tonga.dds"
+		color1 = color1
+		instance = { position = { 0.208 0.25 } scale = { 0.375 0.375 } }
+	}
+}
+
 TOH = { # Tochtepec
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	40		65		85	} 
@@ -39123,6 +39140,24 @@ VAL = { # Valencia - Civic arms (arms of the kingdom itself are identical to Ara
 		color1 = color2
 		color2 = color2
 		color3 = color1
+	}
+}
+
+mdm_VANU = { # mdm modern day mod Vanuatu
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 211 8 49 }
+	color2 = rgb { 0 150 65 }
+
+	colored_emblem = {
+		texture = "mdm_ce_vanuatu.dds"
+		color1 = "black"
+		color2 = rgb { 253 207 10 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_tusk and_cycad_frond_vanuatu.dds"
+		color1 = rgb { 253 207 10 }
+		instance = { position = { 0.18 0.504 } scale = { 0.294 0.294 } }
 	}
 }
 
