@@ -347,8 +347,8 @@ COLO = {
 
 
 COMO = {
-	color = rgb { 239 48 62 } # Comoros flag red
-	color2 = rgb { 239 48 62 }
+	color = rgb { 0 59 166 } # Comoros flag blue
+	color2 = rgb { 0 59 166 }
 	culture_definition = swahili_culture
 	religion_definition = sunni
 	description_category = diplomatic
