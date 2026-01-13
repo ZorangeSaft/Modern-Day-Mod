@@ -616,8 +616,8 @@ GABO = {
 
 
 GAMB = {
-	color = rgb { 12 28 140 } 	#{ 67 80 170 } # Gambia flag blue (symbolizing the river) mixed 3 to 1 with white
-	color2 = rgb { 12 28 140 }
+	color = rgb { 67 80 170 } # Gambia flag blue (symbolizing the river) mixed 3 to 1 with white
+	color2 = rgb { 67 80 170 }
 	culture_definition = wolof
 	religion_definition = secularism
 	description_category = diplomatic
