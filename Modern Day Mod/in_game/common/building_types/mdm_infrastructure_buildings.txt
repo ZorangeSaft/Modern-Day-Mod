@@ -321,301 +321,301 @@ mdm_1g_cell_tower = {
 
 ###local rail networks
 
-mdm_train_station = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = laborers
-	
-	employment_size = mdm_default_employment
-	category = metal_refining_category
-
-	obsolete = mdm_local_rail_network
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	#not buildable in rural
-
-	price = mdm_default_price
-	build_time = mdm_default_built_time
-
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_train_station_maintenance = { #should have high maintenance
-			electricity = 10
-			electrical_expertise = 0.1
-			industrial_expertise = 0.05
-			category = building_maintenance
-		}
-	}
-
-	modifier = {
-		local_max_control = 5
-		proximity = 5
-		local_production_efficiency = 0.01
-        local_monthly_development_modifier = 0.01
-		local_peasants_estate_power = 0.01
-		local_burghers_estate_power = 0.01
-		local_clergy_estate_power = 0.01
-		local_nobles_estate_power = 0.01
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_high_speed_rail_network = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = laborers
-	
-	employment_size = mdm_default_employment
-	category = metal_refining_category
-
-	obsolete = mdm_local_rail_network
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_default_price
-	build_time = mdm_default_built_time
-
-	location_potential = {
-		any_neighbor_location = {
-			OR = {
-				has_building = building_type:mdm_train_station
-				has_building = building_type:mdm_high_speed_rail_network
-			}
-		}
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_high_speed_rail_network_maintenance = { #should have high maintenance
-			electricity = 1
-			electrical_expertise = 0.05
-			industrial_expertise = 0.03
-			category = building_maintenance
-		}
-	}
-
-	modifier = {
-		local_max_control = 5
-		proximity = 5
-		local_production_efficiency = 0.01
-        local_monthly_development_modifier = 0.01
-		local_peasants_estate_power = 0.01
-		local_burghers_estate_power = 0.01
-		local_clergy_estate_power = 0.01
-		local_nobles_estate_power = 0.01
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_local_electrified_rail_network = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = laborers
-	
-	employment_size = mdm_default_employment
-	category = metal_refining_category
-
-	obsolete = mdm_local_rail_network
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_default_price
-	build_time = mdm_default_built_time
-
-	location_potential = {
-		any_neighbor_location = {
-			OR = {
-				has_building = building_type:mdm_train_station
-				has_building = building_type:mdm_high_speed_rail_network
-				has_building = building_type:mdm_local_electrified_rail_network
-			}
-		}
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_local_electrified_rail_network_maintenance = { #should have higher maintenance
-			electricity = 1
-			electrical_expertise = 0.05
-			industrial_expertise = 0.03
-			category = building_maintenance
-		}
-	}
-
-	modifier = {
-		local_max_control = 5
-		proximity = 5
-		local_production_efficiency = 0.01
-        local_monthly_development_modifier = 0.01
-		local_peasants_estate_power = 0.01
-		local_burghers_estate_power = 0.01
-		local_clergy_estate_power = 0.01
-		local_nobles_estate_power = 0.01
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_local_rail_network = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = laborers
-	
-	employment_size = mdm_default_employment
-	category = metal_refining_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_default_price
-	build_time = mdm_default_built_time
-
-	location_potential = {
-		any_neighbor_location = {
-			OR = {
-				has_building = building_type:mdm_train_station
-				has_building = building_type:mdm_local_rail_network
-			}
-		}
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_local_rail_network_maintenance = {
-			industrial_expertise = 0.03
-			category = building_maintenance
-		}
-	}
-
-	modifier = {
-		local_max_control = 0.03
-		proximity = 3
-		local_production_efficiency = 0.01
-        local_monthly_development_modifier = 0.01
-		local_peasants_estate_power = 0.01
-		local_burghers_estate_power = 0.01
-		local_clergy_estate_power = 0.01
-		local_nobles_estate_power = 0.01
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-
-
-###local road networks
-
-mdm_local_road_network = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = laborers
-	
-	employment_size = mdm_default_employment
-	category = metal_refining_category
-
-	obsolete = mdm_local_dirt_road_network
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_default_price
-	build_time = mdm_default_built_time
-
-	unique_production_methods = {
-		mdm_local_road_network_maintenance = { #should have higher maintenance in colder climates
-			electricity = 1
-			electrical_expertise = 0.01
-			industrial_expertise = 0.01
-			category = building_maintenance
-		}
-	}
-
-	modifier = { #proximity modifier should scale with number of neighboring roads
-		local_max_control = 0.05
-		proximity = 5
-		local_production_efficiency = 0.01
-        local_monthly_development_modifier = 0.01
-		local_peasants_estate_power = 0.01
-		local_burghers_estate_power = 0.01
-		local_clergy_estate_power = 0.01
-		local_nobles_estate_power = 0.01
-		local_build_buildings_cost = -0.1 #easier to transport things
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_local_dirt_road_network = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = laborers
-	
-	employment_size = mdm_default_employment
-	category = metal_refining_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_default_price
-	build_time = mdm_default_built_time
-
-	unique_production_methods = {
-		mdm_1g_cell_tower_maintenance = {
-			electricity = 1
-			electrical_expertise = 0.01
-			industrial_expertise = 0.01
-			category = building_maintenance
-		}
-	}
-
-	modifier = { #proximity modifier should scale with number of neighboring roads
-		local_max_control = 0.02
-		proximity = 2
-		local_production_efficiency = 0.01
-        local_monthly_development_modifier = 0.01
-		local_peasants_estate_power = 0.01
-		local_burghers_estate_power = 0.01
-		local_clergy_estate_power = 0.01
-		local_nobles_estate_power = 0.01
-		local_build_buildings_cost = -0.05 #easier to transport things
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
+#mdm_train_station = {
+#	is_foreign = no
+#	max_levels = mdm_location_rank_max_level
+#	pop_type = laborers
+#	
+#	employment_size = mdm_default_employment
+#	category = metal_refining_category
+#
+#	obsolete = mdm_local_rail_network
+#	
+#	megalopolis = yes
+#	metropolis = yes
+#	major_city = yes
+#	city = yes
+#	town = yes
+#	village = yes
+#	#not buildable in rural
+#
+#	price = mdm_default_price
+#	build_time = mdm_default_built_time
+#
+#	location_potential = {
+#		has_building = building_type:mdm_electrical_grid
+#	}
+#
+#	unique_production_methods = {
+#		mdm_train_station_maintenance = { #should have high maintenance
+#			electricity = 10
+#			electrical_expertise = 0.1
+#			industrial_expertise = 0.05
+#			category = building_maintenance
+#		}
+#	}
+#
+#	modifier = {
+#		local_max_control = 5
+#		proximity = 5
+#		local_production_efficiency = 0.01
+#        local_monthly_development_modifier = 0.01
+#		local_peasants_estate_power = 0.01
+#		local_burghers_estate_power = 0.01
+#		local_clergy_estate_power = 0.01
+#		local_nobles_estate_power = 0.01
+#	}
+#
+#	construction_demand = mdm_default_construction_demand
+#}
+#
+#mdm_high_speed_rail_network = {
+#	is_foreign = no
+#	max_levels = mdm_location_rank_max_level
+#	pop_type = laborers
+#	
+#	employment_size = mdm_default_employment
+#	category = metal_refining_category
+#
+#	obsolete = mdm_local_rail_network
+#	
+#	megalopolis = yes
+#	metropolis = yes
+#	major_city = yes
+#	city = yes
+#	town = yes
+#	village = yes
+#	rural_settlement = yes
+#
+#	price = mdm_default_price
+#	build_time = mdm_default_built_time
+#
+#	location_potential = {
+#		any_neighbor_location = {
+#			OR = {
+#				has_building = building_type:mdm_train_station
+#				has_building = building_type:mdm_high_speed_rail_network
+#			}
+#		}
+#		has_building = building_type:mdm_electrical_grid
+#	}
+#
+#	unique_production_methods = {
+#		mdm_high_speed_rail_network_maintenance = { #should have high maintenance
+#			electricity = 1
+#			electrical_expertise = 0.05
+#			industrial_expertise = 0.03
+#			category = building_maintenance
+#		}
+#	}
+#
+#	modifier = {
+#		local_max_control = 5
+#		proximity = 5
+#		local_production_efficiency = 0.01
+#        local_monthly_development_modifier = 0.01
+#		local_peasants_estate_power = 0.01
+#		local_burghers_estate_power = 0.01
+#		local_clergy_estate_power = 0.01
+#		local_nobles_estate_power = 0.01
+#	}
+#
+#	construction_demand = mdm_default_construction_demand
+#}
+#
+#mdm_local_electrified_rail_network = {
+#	is_foreign = no
+#	max_levels = mdm_location_rank_max_level
+#	pop_type = laborers
+#	
+#	employment_size = mdm_default_employment
+#	category = metal_refining_category
+#
+#	obsolete = mdm_local_rail_network
+#	
+#	megalopolis = yes
+#	metropolis = yes
+#	major_city = yes
+#	city = yes
+#	town = yes
+#	village = yes
+#	rural_settlement = yes
+#
+#	price = mdm_default_price
+#	build_time = mdm_default_built_time
+#
+#	location_potential = {
+#		any_neighbor_location = {
+#			OR = {
+#				has_building = building_type:mdm_train_station
+#				has_building = building_type:mdm_high_speed_rail_network
+#				has_building = building_type:mdm_local_electrified_rail_network
+#			}
+#		}
+#		has_building = building_type:mdm_electrical_grid
+#	}
+#
+#	unique_production_methods = {
+#		mdm_local_electrified_rail_network_maintenance = { #should have higher maintenance
+#			electricity = 1
+#			electrical_expertise = 0.05
+#			industrial_expertise = 0.03
+#			category = building_maintenance
+#		}
+#	}
+#
+#	modifier = {
+#		local_max_control = 5
+#		proximity = 5
+#		local_production_efficiency = 0.01
+#        local_monthly_development_modifier = 0.01
+#		local_peasants_estate_power = 0.01
+#		local_burghers_estate_power = 0.01
+#		local_clergy_estate_power = 0.01
+#		local_nobles_estate_power = 0.01
+#	}
+#
+#	construction_demand = mdm_default_construction_demand
+#}
+#
+#mdm_local_rail_network = {
+#	is_foreign = no
+#	max_levels = mdm_location_rank_max_level
+#	pop_type = laborers
+#	
+#	employment_size = mdm_default_employment
+#	category = metal_refining_category
+#	
+#	megalopolis = yes
+#	metropolis = yes
+#	major_city = yes
+#	city = yes
+#	town = yes
+#	village = yes
+#	rural_settlement = yes
+#
+#	price = mdm_default_price
+#	build_time = mdm_default_built_time
+#
+#	location_potential = {
+#		any_neighbor_location = {
+#			OR = {
+#				has_building = building_type:mdm_train_station
+#				has_building = building_type:mdm_local_rail_network
+#			}
+#		}
+#		has_building = building_type:mdm_electrical_grid
+#	}
+#
+#	unique_production_methods = {
+#		mdm_local_rail_network_maintenance = {
+#			industrial_expertise = 0.03
+#			category = building_maintenance
+#		}
+#	}
+#
+#	modifier = {
+#		local_max_control = 0.03
+#		proximity = 3
+#		local_production_efficiency = 0.01
+#        local_monthly_development_modifier = 0.01
+#		local_peasants_estate_power = 0.01
+#		local_burghers_estate_power = 0.01
+#		local_clergy_estate_power = 0.01
+#		local_nobles_estate_power = 0.01
+#	}
+#
+#	construction_demand = mdm_default_construction_demand
+#}
+#
+#
+#
+####local road networks
+#
+#mdm_local_road_network = {
+#	is_foreign = no
+#	max_levels = mdm_location_rank_max_level
+#	pop_type = laborers
+#	
+#	employment_size = mdm_default_employment
+#	category = metal_refining_category
+#
+#	obsolete = mdm_local_dirt_road_network
+#	
+#	megalopolis = yes
+#	metropolis = yes
+#	major_city = yes
+#	city = yes
+#	town = yes
+#	village = yes
+#	rural_settlement = yes
+#
+#	price = mdm_default_price
+#	build_time = mdm_default_built_time
+#
+#	unique_production_methods = {
+#		mdm_local_road_network_maintenance = { #should have higher maintenance in colder climates
+#			electricity = 1
+#			electrical_expertise = 0.01
+#			industrial_expertise = 0.01
+#			category = building_maintenance
+#		}
+#	}
+#
+#	modifier = { #proximity modifier should scale with number of neighboring roads
+#		local_max_control = 0.05
+#		proximity = 5
+#		local_production_efficiency = 0.01
+#        local_monthly_development_modifier = 0.01
+#		local_peasants_estate_power = 0.01
+#		local_burghers_estate_power = 0.01
+#		local_clergy_estate_power = 0.01
+#		local_nobles_estate_power = 0.01
+#		local_build_buildings_cost = -0.1 #easier to transport things
+#	}
+#
+#	construction_demand = mdm_default_construction_demand
+#}
+#
+#mdm_local_dirt_road_network = {
+#	is_foreign = no
+#	max_levels = mdm_location_rank_max_level
+#	pop_type = laborers
+#	
+#	employment_size = mdm_default_employment
+#	category = metal_refining_category
+#	
+#	megalopolis = yes
+#	metropolis = yes
+#	major_city = yes
+#	city = yes
+#	town = yes
+#	village = yes
+#	rural_settlement = yes
+#
+#	price = mdm_default_price
+#	build_time = mdm_default_built_time
+#
+#	unique_production_methods = {
+#		mdm_1g_cell_tower_maintenance = {
+#			electricity = 1
+#			electrical_expertise = 0.01
+#			industrial_expertise = 0.01
+#			category = building_maintenance
+#		}
+#	}
+#
+#	modifier = { #proximity modifier should scale with number of neighboring roads
+#		local_max_control = 0.02
+#		proximity = 2
+#		local_production_efficiency = 0.01
+#        local_monthly_development_modifier = 0.01
+#		local_peasants_estate_power = 0.01
+#		local_burghers_estate_power = 0.01
+#		local_clergy_estate_power = 0.01
+#		local_nobles_estate_power = 0.01
+#		local_build_buildings_cost = -0.05 #easier to transport things
+#	}
+#
+#	construction_demand = mdm_default_construction_demand
+#}
