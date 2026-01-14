@@ -5351,6 +5351,13 @@ SMO = { # Smolensk
 	}		
 }
 
+SOLO = { # mdm modern day mod Solomon Islands
+	flag_definition = {
+		coa = mdm_SOLO
+		priority = 1
+	}
+}
+
 SOMA = { # mdm modern day mod Somalia
 	flag_definition = {
 		coa = mdm_SOMA

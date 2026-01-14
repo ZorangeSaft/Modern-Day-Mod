@@ -34290,6 +34290,23 @@ SOL = { # Solon Evenk
 	}		
 }
 
+mdm_SOLO = { # mdm modern day mod Solomon Islands
+	pattern = "mdm_pattern_diagonal_stripe_solomon_islands.dds"
+	color1 = rgb { 0 80 187 }
+	color2 = rgb { 252 210 14 }
+	color3 = rgb { 27 91 48 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.076 0.121 } scale = { 0.18 0.18 } }
+		instance = { position = { 0.274 0.121 } scale = { 0.18 0.18 } }
+		instance = { position = { 0.175 0.29 } scale = { 0.18 0.18 } }
+		instance = { position = { 0.076 0.459 } scale = { 0.18 0.18 } }
+		instance = { position = { 0.274 0.459 } scale = { 0.18 0.18 } }
+	}
+}
+
 mdm_SOMA = { # mdm modern day mod Somalia
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 63 144 223 }
