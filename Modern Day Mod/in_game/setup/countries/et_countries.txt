@@ -347,8 +347,8 @@ COLO = {
 
 
 COMO = {
-	color = rgb { 239 48 62 } # Comoros flag red
-	color2 = rgb { 239 48 62 }
+	color = rgb { 0 59 166 } # Comoros flag blue
+	color2 = rgb { 0 59 166 }
 	culture_definition = swahili_culture
 	religion_definition = sunni
 	description_category = diplomatic
@@ -616,8 +616,8 @@ GABO = {
 
 
 GAMB = {
-	color = rgb { 12 28 140 } 	#{ 67 80 170 } # Gambia flag blue (symbolizing the river) mixed 3 to 1 with white
-	color2 = rgb { 12 28 140 }
+	color = rgb { 67 80 170 } # Gambia flag blue (symbolizing the river) mixed 3 to 1 with white
+	color2 = rgb { 67 80 170 }
 	culture_definition = wolof
 	religion_definition = secularism
 	description_category = diplomatic
@@ -905,9 +905,9 @@ KENY = {
 }
 
 
-KIRI = { #not in hoi4
-	color = rgb { 189  117  112 }
-	color2 = rgb { 189  117  112 }
+KIRI = {
+	color = rgb { 201 8 8 } # Kiribati flag red
+	color2 = rgb { 201 8 8 }
 	culture_definition = maohi_culture
 	religion_definition = lutheran
 	description_category = diplomatic

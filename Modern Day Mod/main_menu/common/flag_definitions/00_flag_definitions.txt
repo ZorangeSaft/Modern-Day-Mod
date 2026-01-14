@@ -393,6 +393,13 @@ ADU = { # Al Andalus
 	}	
 }
 
+AFGH = { # mdm modern day mod Afghanistan
+	flag_definition = {
+		coa = mdm_AFGH
+		priority = 1
+	}
+}
+
 ALB = { # mdm modern day mod Albania
 	flag_definition = {
 		coa = mdm_ALB
@@ -820,6 +827,13 @@ BAHR = { # mdm modern day mod Bahrain
 	}
 }
 
+BANG = { # mdm modern day mod Bangladesh
+	flag_definition = {
+		coa = mdm_BANG
+		priority = 1
+	}
+}
+
 
 BAV = { # Bavaria
 	flag_definition = {
@@ -851,6 +865,13 @@ BDE = { # Baden
 		trigger = {
 			coa_def_revolutionary_republic_trigger = yes
 		}
+	}
+}
+
+BEI = { # mdm modern day mod Brunei
+	flag_definition = {
+		coa = mdm_BEI
+		priority = 1
 	}
 }
 
@@ -1910,6 +1931,13 @@ DAU = { # Viennois
 	}
 }
 
+DGL = { # mdm modern day mod Maldives
+	flag_definition = {
+		coa = mdm_DGL
+		priority = 1
+	}
+}
+
 DJIB = { # mdm modern day mod Djibouti
 	flag_definition = {
 		coa = mdm_DJIB
@@ -2023,6 +2051,13 @@ ETA = { # Etampes
 ETH = { # mdm modern day mod Ethiopia
 	flag_definition = {
 		coa = mdm_ETH
+		priority = 1
+	}
+}
+
+ETIM = { # mdm modern day mod Timor-Leste
+	flag_definition = {
+		coa = mdm_ETIM
 		priority = 1
 	}
 }
@@ -2594,6 +2629,20 @@ IMO = { # Imola
 	}	
 }
 
+INDI = { # mdm modern day mod India
+	flag_definition = {
+		coa = mdm_INDI
+		priority = 1
+	}
+}
+
+INDN = { # mdm modern day mod Indonesia
+	flag_definition = {
+		coa = mdm_INDN
+		priority = 1
+	}
+}
+
 INO = { # Inowroclaw
 	flag_definition = {
 		coa = INO
@@ -2629,6 +2678,13 @@ IRE = { # mdm modern day mod Ireland
 	}
 }
 
+ISRA = { # mdm modern day mod Israel
+	flag_definition = {
+		coa = mdm_ISRA
+		priority = 1
+	}
+}
+
 ITA = { # mdm modern day mod Italy
 	# Default
 	flag_definition = {
@@ -2647,6 +2703,13 @@ IVOR = { # mdm modern day mod Côte d'Ivoire
 JAP = { # mdm modern day mod Japan
 	flag_definition = {
 		coa = mdm_JAP
+		priority = 1
+	}
+}
+
+JORD = { # mdm modern day mod Jordan
+	flag_definition = {
+		coa = mdm_JORD
 		priority = 1
 	}
 }
@@ -2952,6 +3015,13 @@ LCZ = { # Leczyca
 	}
 }
 
+LEBA = { # mdm modern day mod Lebanon
+	flag_definition = {
+		coa = mdm_LEBA
+		priority = 1
+	}
+}
+
 LESO = {# mdm modern day mod Lesotho 
 	flag_definition = {
 		coa = mdm_LESO
@@ -3159,9 +3229,16 @@ MACE = { # mdm modern day mod North Macedonia
 	}
 }
 
-MADA = { # mdm modern day mod North Madagascar
+MADA = { # mdm modern day mod Madagascar
 	flag_definition = {
 		coa = mdm_MADA
+		priority = 1
+	}
+}
+
+MALA = { # mdm modern day mod Malaysia
+	flag_definition = {
+		coa = mdm_MALA
 		priority = 1
 	}
 }
@@ -3184,6 +3261,13 @@ MAK = { # Makuria
 		trigger = {
 			coa_def_christian_trigger = yes
 		}
+	}
+}
+
+MART = { # mdm modern day mod Mauritius
+	flag_definition = {
+		coa = mdm_MART
+		priority = 1
 	}
 }
 
@@ -3607,6 +3691,13 @@ MSV = { # Mstislavl
 			coa_def_gediminid_dynasty_trigger = yes
 		}
 	}	
+}
+
+MYAN = { # mdm modern day mod Myanmar
+	flag_definition = {
+		coa = mdm_MYAN
+		priority = 1
+	}
 }
 
 MZB = { # Mzab
@@ -4182,6 +4273,13 @@ PAD = { # Padua
 	}
 }
 
+PAKI = { # mdm modern day mod Pakistan
+	flag_definition = {
+		coa = mdm_PAKI
+		priority = 1
+	}
+}
+
 PAL = { # Palatinate of the Rhine
 	flag_definition = {
 		coa = PAL
@@ -4194,6 +4292,20 @@ PAL = { # Palatinate of the Rhine
 			coa_def_hre_emperor_trigger = yes
 		}
 	}		
+}
+
+PALE = { # mdm modern day mod Palestine
+	flag_definition = {
+		coa = mdm_PALE
+		priority = 1
+	}
+}
+
+PALU = { # mdm modern day mod Palau
+	flag_definition = {
+		coa = mdm_PALU
+		priority = 1
+	}
 }
 
 PAP = { # Rome/Papal States
@@ -4221,6 +4333,13 @@ PAP = { # Rome/Papal States
 		trigger = {
 			coa_def_revolutionary_republic_trigger = yes
 		}
+	}
+}
+
+PAPU = { # mdm modern day mod Papua New Guinea
+	flag_definition = {
+		coa = mdm_PAPU
+		priority = 1
 	}
 }
 
@@ -5093,6 +5212,13 @@ SGT = { # Siguntur
 	}
 }
 
+SIA = { # mdm modern day mod Thailand
+	flag_definition = {
+		coa = mdm_SIA
+		priority = 1
+	}
+}
+
 SIC = { # Sicily
 	# SIC_ancient : Hohenstaufen eagle
 	# SIC : Aragon-Sicily per saltire of Aragon & Sicily (eagle)
@@ -5253,6 +5379,13 @@ SPA = { # mdm modern day mod Spain
 	}
 }
 
+SRLA = { # mdm modern day mod Sri Lanka
+	flag_definition = {
+		coa = mdm_SRLA
+		priority = 1
+	}
+}
+
 SSUD = { # mdm modern day mod South Sudan
 	flag_definition = {
 		coa = mdm_SSUD
@@ -5364,6 +5497,13 @@ SXM = { # Samogitia
 			coa_def_teutonic_order_trigger = yes
 		}
 	}		
+}
+
+SYRI = { # mdm modern day mod Syria
+	flag_definition = {
+		coa = mdm_SYRI
+		priority = 1
+	}
 }
 
 TAIW = { # mdm modern day mod Republic of China
@@ -5495,6 +5635,13 @@ TOGO = { # mdm modern day mod Togo
 	}
 }
 
+TOG = { # mdm modern day mod Tonga
+	flag_definition = {
+		coa = mdm_TOG
+		priority = 1
+	}
+}
+
 TRE = { # Trebizond
 	flag_definition = {
 		coa = TRE
@@ -5556,6 +5703,13 @@ TTE = { # Trieste
 		trigger = {
 			coa_def_hre_free_imperial_city_trigger = yes
 		}
+	}
+}
+
+TUKM = { # mdm modern day mod Turkmenistan
+	flag_definition = {
+		coa = mdm_TUKM
+		priority = 1
 	}
 }
 
@@ -6553,6 +6707,13 @@ UTR = { # Utrecht
 UZBE = { # mdm modern day mod Uzbekistan
 	flag_definition = {
 		coa = mdm_UZBE
+		priority = 1
+	}
+}
+
+VANU = { # mdm modern day mod Vanuatu
+	flag_definition = {
+		coa = mdm_VANU
 		priority = 1
 	}
 }

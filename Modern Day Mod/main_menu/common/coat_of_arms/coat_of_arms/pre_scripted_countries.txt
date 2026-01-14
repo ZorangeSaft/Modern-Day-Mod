@@ -511,6 +511,17 @@ AFA= { # Afar
 	}	
 }
 
+mdm_AFGH = { # mdm modern day mod Afghanistan
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_shahada_afghanistan.dds"
+		color1 = "black"
+		instance = { scale = { 0.698 0.698 } }
+	}	
+}
+
 AGC = { # Augsburg (Town)
 	pattern = "pattern_vertical_split_01.dds"
 	color1 = "red"
@@ -2826,6 +2837,18 @@ mdm_BAHR = { # mdm modern day mod Bahrain
 	color2 = rgb { 219 36 22 }
 }
 
+mdm_ISRA = { # mdm modern day mod Israel
+	pattern = "mdm_pattern_horizontal_stripes_israel.dds"
+	color1 = "white"
+	color2 = rgb { 0 53 185 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_of_david.dds"
+		color1 = color2
+		instance = { scale = { 0.431 0.431 } }
+	}
+}
+
 BAI = { # Banggai
 	pattern = "pattern_solid.dds"
 	color1 = "white"
@@ -2889,6 +2912,17 @@ BAN = { # Banten
 		color1 = color2
 		color2 = color2
 		instance = { position = { 0.5 0.5 } scale = { 0.65 0.65 } }
+	}	
+}
+
+mdm_BANG = { # mdm modern day mod Bangladesh
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 103 69 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1 = rgb { 219 36 22 }
+		instance = { position = { 0.45 0.5 } scale = { 0.667 0.667 } }
 	}	
 }
 
@@ -3175,9 +3209,18 @@ BEA = { # Beare
 	}
 }
 
-BEI = { #Brunei
-	pattern = "pattern_solid.dds"
-	color1 = yellow
+mdm_BEI = { # mdm modern day mod Brunei
+	pattern = "mdm_pattern_brunei.dds"
+	color1 = rgb { 247 225 16 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_brunei.dds"
+		color1 = rgb { 208 8 33 }
+		color2 = color1
+		instance = { scale = { 0.586 0.586 } }
+	}
 }
 
 BEJ = { # Beja
@@ -10464,17 +10507,57 @@ DGE = { # Doger
 	}			
 }
 
-DGL = { # Maldives (Modern stripe, otherwise it's another plain red flag)
+mdm_DGL = { # mdm modern day mod Maldives
 	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "black"
+	color1 = rgb { 211 8 49 }
 
 	colored_emblem = {
-		texture = "ce_stripe_hoist_bendy.dds"
-		color1 = color3
-		color2 = color2
-		instance = { position = { 0.33 0.5 } scale = { 0.66 1.0 } }				
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 127 55 }
+		instance = { scale = { 0.667 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_maldives.dds"
+		color1 = "white"
+		instance = { position = { 0.495 0.5 } scale = { 0.333 0.333 } }
+	}
+}
+
+mdm_SRLA = { # mdm modern day mod Sri Lanka
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 247 183 24 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 95 86 }
+		instance = { position = { 0.28 0.5 } scale = { 0.16 0.84 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 223 117 0 }
+		instance = { position = { 0.12 0.5 } scale = { 0.16 0.84 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 148 30 50 }
+		instance = { position = { 0.68 0.5 } scale = { 0.56 0.84 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sri_lanka.dds"
+		color1 = color1
+		color2 = "black"
+		instance = { position = { 0.68 0.5 } scale = { 0.56 0.56 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sri_lanka_bo_leaves.dds"
+		color1 = color1
+		color2 = "black"
+		instance = { position = { 0.68 0.5 } scale = { 0.68 0.68 } } # TODO: Just for a 2:3 approximation
 	}
 }
 
@@ -12121,7 +12204,28 @@ ETH_modern = { # Ethiopia Modern tricolour design
 		color3 = hsv360 	{	42	75	90	}		
 		instance = { position = { 0.5 0.475 } scale = { 0.75 0.75 } }					
 	}			
-} 
+}
+
+mdm_ETIM = { # mdm modern day mod Timor-Leste
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 219 36 22 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_53.dds"
+		color1 = rgb { 255 200 40 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_75.dds"
+		color1 = "black"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five_timor_leste.dds"
+		color1 = "white"
+		instance = { position = { 0.106 0.5 } scale = { 0.313 0.313 } }
+	}
+}
 
 ETZ = { # Etzatlan/Eztatlan
 	pattern = "pattern_solid.dds"
@@ -16558,6 +16662,25 @@ INC = { # Inca Empire
 	}			
 }
 
+mdm_INDI = { # mdm modern day mod India
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 255 104 26 }
+	color2 = "white"
+	color3 = rgb { 0 106 53 }
+
+	colored_emblem = {
+		texture = "mdm_ce_ashoka_chakra_india.dds"
+		color1 = rgb { 1 0 142 }
+		instance = { scale = { 0.309 0.309 } }
+	}
+}
+
+mdm_INDN = { # mdm modern day mod Indonesia
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 255 0 0 }
+	color2 = "white"
+}
+
 INH = { # Inhambane
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	30		10		92	}
@@ -17322,7 +17445,25 @@ JOL = { # Jolof
 		color2 = color3	
 		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 } }					
 	}
-} 
+}
+
+mdm_JORD = { # mdm modern day mod Jordan
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = "white"
+	color3 = rgb { 0 123 58 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_53.dds"
+		color1 = rgb { 207 8 33 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_jordan.dds"
+		color1 = "white"
+		instance = { position = { 0.154 0.496 } scale = { 0.135 0.135 } }
+	}
+}
 
 JPO = { # Jeypore / Nandapur / Suryavamsa
 	pattern = "pattern_solid.dds"
@@ -20265,6 +20406,18 @@ LDB = { # Landsberg
 	}
 }
 
+mdm_LEBA = { # mdm modern day mod Lebanon
+	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
+	color1 = "white"
+	color2 = rgb { 212 14 31 }
+
+	colored_emblem = {
+		texture = "mdm_ce_cedar_lebanon.dds"
+		color1 = rgb { 0 141 60 }
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
 LEI = { # Leinster
 	pattern = "pattern_solid.dds"
 	color1 = "red"
@@ -21503,6 +21656,24 @@ mdm_MADA = { # mdm modern day mod Madagascar
 	color3 = rgb { 0 133 58 }
 }
 
+mdm_MALA = { # mdm modern day mod Malaysia
+	pattern = "mdm_pattern_horizontal_stripes_14.dds"
+	color1 = rgb { 205 0 0 }
+	color2 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 0 102 }
+		instance = { position = { 0.25 0.285 } scale = { 0.5 0.57 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_malaysia.dds"
+		color1 = rgb { 255 205 0 }
+		instance = { position = { 0.249 0.286 } scale = { 0.428 0.428 } }
+	}
+}
+
 mdm_MALT = { # mdm modern day mod Malta
 	pattern = "pattern_vertical_split_01.dds"
 	color1 = "white"
@@ -21680,6 +21851,29 @@ MAR = { # Maryul
 		color3 = color4
 		instance = { position = { 0.505 0.5 } scale = { 0.95 0.95 } }		
 	}	
+}
+
+mdm_MART = { # mdm modern day mod Mauritius
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 209 22 25 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 41 48 89 }
+		instance = { position = { 0.5 0.375 } scale = { 1 @quarter } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 247 184 17 }
+		instance = { position = { 0.5 0.625 } scale = { 1 @quarter } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 135 87 }
+		instance = { position = { 0.5 0.875 } scale = { 1 @quarter } }
+	}
 }
 
 MAT = { # Tollohcan/Toluca/Matlatzinco
@@ -24753,6 +24947,19 @@ MYA = { # Mong Yang
 		color2 = color2
 		instance = { position = { 0.5 0.5 } scale = { 0.575 0.575 } }		
 	}	
+}
+
+mdm_MYAN = { # mdm modern day mod Myanmar
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 254 204 0 }
+	color2 = rgb { 49 180 48 }
+	color3 = rgb { 235 35 54 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { scale = { 0.663 0.663 } }
+	}
 }
 
 MYI = { # Ma-i
@@ -28092,6 +28299,23 @@ PAD_ghibellines = { # Padova - Ghibelline variant (plausible, tinctures inversio
 	}				
 }
 
+mdm_PAKI = { # mdm modern day mod Pakistan
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 63 22 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = "white"
+		instance = { position = { 0.125 0.5 } scale = { 0.25 1.0 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_pakistan.dds"
+		color1 = "white"
+		instance = { position = { 0.723 0.508 } scale = { 0.584 0.584 } }
+	}
+}
+
 PAH = { # Pahang
 	pattern = "pattern_solid.dds"
 	color1 = "black"
@@ -28172,6 +28396,29 @@ PAL_emperor = { # Palatinate - Imperial eagle & escutcheon variant
 		color1 = "yellow_dark"
 		color2 = "yellow_dark"
 		mask = { 3 }
+	}
+}
+
+mdm_PALE = { # mdm modern day mod Palestine
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = "white"
+	color3 = rgb { 0 151 54 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_75.dds"
+		color1 = rgb { 238 42 53 }
+	}
+}
+
+mdm_PALU = { # mdm modern day mod Palau
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 154 255 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1 = rgb { 255 255 0 }
+		instance = { position = { 0.438 0.5 } scale = { 0.6 0.6 } }
 	}
 }
 
@@ -28276,6 +28523,28 @@ PAP_bicolor = { # Papal States - Traditional bicolor
 		texture = "ce_per_pale.dds"
 		color1 = color1
 		color2 = color2
+	}
+}
+
+mdm_PAPU = { # mdm modern day mod Papua New Guinea
+	pattern = "pattern_diagonal_split_01.dds"
+	color1 = rgb { 201 8 42 }
+	color2 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.25 0.375 } scale = { 0.141 0.141 } }
+		instance = { position = { 0.365 0.556 } scale = { 0.141 0.141 } }
+		instance = { position = { 0.135 0.569 } scale = { 0.141 0.141 } }
+		instance = { position = { 0.302 0.694 } scale = { 0.07 0.07 } }
+		instance = { position = { 0.25 0.833 } scale = { 0.141 0.141 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_papua_new_guinea_birds_of_paradise.dds"
+		color1 = rgb { 255 206 0 }
+		instance = { position = { 0.674 0.357 } scale = { 0.5 0.5 } }
 	}
 }
 
@@ -32885,26 +33154,11 @@ SHP = { # Sahipatids
 	}	
 }
 
-SIA = { # Siam
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-	color3 = "white"
-	
-	colored_emblem = {
-		texture = "ce_chakra_siam_large.dds"
-		color1 = color2
-		color2 = color3
-		color3 = color1
-		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 } }
-	}		
-	colored_emblem = {
-		texture = "ce_elephant_asian.dds"
-		color1 = color3
-		color2 = hsv360 	{	0		0		80	} 
-		color3 = color1
-		instance = { position = { 0.498 0.485 } scale = { 0.34 0.35 } }
-	}		
+mdm_SIA = { # mdm modern day mod Thailand
+	pattern = "mdm_pattern_thailand.dds"
+	color1 = rgb { 45 42 74 }
+	color2 = rgb { 244 245 248 }
+	color3 = rgb { 165 25 49 }
 }
 
 SIC_ancient = { # Sicily
@@ -35195,6 +35449,21 @@ SYN = { # Sayn
 	}
 }
 
+mdm_SYRI = { # mdm modern day mod Syria
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 123 58 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 207 8 33 }
+		instance = { position = { @three_quarters @half } scale = { 0.247 0.247 } }
+		instance = { position = { @half @half } scale = { 0.247 0.247 } }
+		instance = { position = { @quarter @half } scale = { 0.247 0.247 } }
+	}
+}
+
 SYU = { # Syunik
 	pattern = "pattern_solid.dds"
 	color1 = "red"
@@ -36925,6 +37194,23 @@ mdm_TOGO = { # mdm modern day mod Togo
 	}
 }
 
+mdm_TOG = { # mdm modern day mod Tonga
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 194 0 0 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = "white"
+		instance = { position = { 0.208 0.25 } scale = { 0.417 0.5 } }
+	}
+	
+	colored_emblem = {
+		texture = "mdm_ce_cross_tonga.dds"
+		color1 = color1
+		instance = { position = { 0.208 0.25 } scale = { 0.375 0.375 } }
+	}
+}
+
 TOH = { # Tochtepec
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	40		65		85	} 
@@ -37789,6 +38075,22 @@ TUJ = { # Tujia people
 		color3 = color1
 		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 } }
 	}	
+}
+
+mdm_TUKM = { # mdm modern day mod Turkmenistan
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 133 58 }
+
+	textured_emblem = {
+		texture = "mdm_coa_turkmenistan.dds"
+		instance = { position = { 0.21 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_turkmenistan.dds"
+		color1 = "white"
+		instance = { position = { 0.454 0.222 } scale = { 0.253 0.253 } }
+	}
 }
 
 TUL = { # Toul
@@ -38838,6 +39140,24 @@ VAL = { # Valencia - Civic arms (arms of the kingdom itself are identical to Ara
 		color1 = color2
 		color2 = color2
 		color3 = color1
+	}
+}
+
+mdm_VANU = { # mdm modern day mod Vanuatu
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 211 8 49 }
+	color2 = rgb { 0 150 65 }
+
+	colored_emblem = {
+		texture = "mdm_ce_vanuatu.dds"
+		color1 = "black"
+		color2 = rgb { 253 207 10 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_tusk and_cycad_frond_vanuatu.dds"
+		color1 = rgb { 253 207 10 }
+		instance = { position = { 0.18 0.504 } scale = { 0.294 0.294 } }
 	}
 }
 
