@@ -3,7 +3,7 @@
 	max_levels = mdm_location_rank_max_level
 	pop_type = burghers
 	
-	employment_size = mdm_employment_150
+	employment_size = mdm_default_employment
 	category = infrastructure_category
 	
 	megalopolis = yes

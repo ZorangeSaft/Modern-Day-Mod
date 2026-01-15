@@ -3,24 +3,33 @@
 
 
 #building cap = location rank
-mdm_dev_and_rank_max_level = {
+mdm_dev_and_rank_max_level = { #mostly basegame manufactory_max_level
 	add = {
 		desc = "BUILDING_LEVEL_BASE"
-		value = 2
+		value = 5
 	}
 	add = {
 		desc = "BUILDING_LEVEL_DEVELOPMENT"
 		value = development
-		multiply = 0.2
+		multiply = 0.5
 	}
-	#add = {
-	#	desc = "BUILDING_LEVEL_POPULATION"
-	#	value = population
-	#	multiply = 0.25
-	#}
+	add = {
+		desc = "BUILDING_LEVEL_POPULATION"
+		value = population
+		multiply = 0.1
+	}
+	if = {
+		limit = {
+			location_rank = location_rank:city
+		}
+		add = {
+			desc = "BUILDING_LEVEL_IS_CITY"
+			value = 20
+		}
+	}
 	add = {
 		desc = "MDM_LOCATION_RANK_MAX_LEVEL"
 		value = mdm_location_rank_max_level
-		multiply = 2
+		multiply = 5
 	}
 }
