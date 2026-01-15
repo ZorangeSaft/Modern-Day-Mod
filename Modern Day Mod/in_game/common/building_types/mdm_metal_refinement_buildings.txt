@@ -15,7 +15,7 @@
     rural_settlement = yes
 
     price = mdm_default_price
-    build_time = mdm_default_built_time
+    build_time = mdm_default_build_time
 
     unique_production_methods = {
         mdm_blast_furnace_iron = {
@@ -62,7 +62,7 @@ mdm_copper_blast_furnace = {
     rural_settlement = yes
 
     price = mdm_default_price
-    build_time = mdm_default_built_time
+    build_time = mdm_default_build_time
 
     unique_production_methods = {
         mdm_copper_blast_furnace_copper_main_output = {
@@ -112,7 +112,7 @@ mdm_lead_blast_furnace = {
     rural_settlement = yes
 
     price = mdm_default_price
-    build_time = mdm_default_built_time
+    build_time = mdm_default_build_time
 
     unique_production_methods = {
         mdm_lead_blast_furnace_lead_main_output = {
@@ -162,7 +162,7 @@ mdm_molybdenum_blast_furnace = {
     rural_settlement = yes
 
     price = mdm_default_price
-    build_time = mdm_default_built_time
+    build_time = mdm_default_build_time
 
     unique_production_methods = {
         mdm_molybdenum_blast_furnace_molybdenum_main_output = {
@@ -203,7 +203,7 @@ mdm_nickel_blast_furnace = {
     rural_settlement = yes
 
     price = mdm_default_price
-    build_time = mdm_default_built_time
+    build_time = mdm_default_build_time
 
     unique_production_methods = {
         mdm_nickel_blast_furnace_nickel_main_output = {
@@ -246,7 +246,7 @@ mdm_tin_blast_furnace = {
     rural_settlement = yes
 
     price = mdm_default_price
-    build_time = mdm_default_built_time
+    build_time = mdm_default_build_time
 
     unique_production_methods = {
         mdm_tin_blast_furnace_tin_main_output = {
@@ -296,7 +296,7 @@ mdm_acid_leaching_plant = {
     rural_settlement = yes
 
     price = mdm_default_price
-    build_time = mdm_default_built_time
+    build_time = mdm_default_build_time
 
     unique_production_methods = {
         mdm_acid_leaching_silver = {
@@ -363,7 +363,7 @@ mdm_gold_acid_leaching_plant = {
     rural_settlement = yes
 
     price = mdm_default_price
-    build_time = mdm_default_built_time
+    build_time = mdm_default_build_time
 
     unique_production_methods = {
         mdm_gold_acid_leaching_plant_gold_main_output = {
@@ -404,7 +404,7 @@ mdm_metalothermic_reduction_facility = {
     rural_settlement = yes
 
     price = mdm_default_price
-    build_time = mdm_default_built_time
+    build_time = mdm_default_build_time
 
     unique_production_methods = {
         mdm_metalothermic_reduction_facility_magnesium = {
@@ -474,7 +474,7 @@ mdm_aluminium_electrolysis_plant = {
     rural_settlement = yes
 
     price = mdm_default_price
-    build_time = mdm_default_built_time
+    build_time = mdm_default_build_time
 
     unique_production_methods = {
         mdm_aluminium_electrolysis_plant_aluminium_main_output = {
@@ -515,7 +515,7 @@ mdm_zinc_electrolysis_plant = {
     rural_settlement = yes
 
     price = mdm_default_price
-    build_time = mdm_default_built_time
+    build_time = mdm_default_build_time
 
     unique_production_methods = {
         mdm_zinc_electrolysis_plant_zinc_main_output = {
@@ -574,7 +574,7 @@ mdm_brine_evaporation_plant = {
     rural_settlement = yes
 
     price = mdm_default_price
-    build_time = mdm_default_built_time
+    build_time = mdm_default_build_time
 
     unique_production_methods = {
         mdm_brine_evaporation_plant_lithium = {

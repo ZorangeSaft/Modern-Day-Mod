@@ -15,7 +15,7 @@
 	rural_settlement = yes
 
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 
 	unique_production_methods = {
 		mdm_oil_refinery_petrogas = {

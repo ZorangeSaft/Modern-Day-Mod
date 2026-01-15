@@ -20,7 +20,7 @@
 
 	#expensive = yes
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 	
 	forbidden_for_estates = yes
 	

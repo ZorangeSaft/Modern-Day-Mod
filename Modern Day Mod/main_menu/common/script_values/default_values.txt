@@ -1052,7 +1052,7 @@ expensive_build_price_age_of_revolution = 5000
 
 #custom build times
 
-mdm_default_built_time = 1 #default value before specific one is set
+mdm_default_build_time = 1 #default value before specific one is set
 
 mdm_build_time_1_week = 1 #7 #crude military airport
 mdm_build_time_1_month = 1 #30

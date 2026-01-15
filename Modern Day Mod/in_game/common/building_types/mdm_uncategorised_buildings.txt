@@ -15,8 +15,8 @@
 	rural_settlement = yes
 
 	#expensive = yes
-	price = mdm_price_200 #standard western price, should cost half as much in china
-	build_time = mdm_build_time_10_years #standard western time, should take half the time in china
+	price = mdm_default_price
+	build_time = mdm_default_build_time
 	
 	forbidden_for_estates = yes
 	
@@ -61,7 +61,7 @@ mdm_electrical_grid = {
 	rural_settlement = yes
 
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 
 	unique_production_methods = {
 		mdm_electrical_grid_maintenance = {
@@ -98,7 +98,7 @@ mdm_5g_cell_tower = {
 	rural_settlement = yes
 
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 
 	location_potential = {
 		has_building = building_type:mdm_electrical_grid

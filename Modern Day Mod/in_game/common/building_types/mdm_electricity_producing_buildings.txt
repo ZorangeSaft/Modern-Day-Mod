@@ -16,7 +16,7 @@
 
 	#expensive = yes
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 	
 	forbidden_for_estates = yes
 	
@@ -57,7 +57,7 @@ mdm_wind_turbine = {
 
 	#expensive = yes
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 	
 	#forbidden_for_estates = yes
 	
@@ -95,7 +95,7 @@ mdm_solar_panel = {
 	rural_settlement = yes
 
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 
 	unique_production_methods = {
 		mdm_solar_panel_production = {

@@ -61,7 +61,7 @@ mdm_electrical_grid = {
 	rural_settlement = yes
 
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 
 	unique_production_methods = {
 		mdm_electrical_grid_maintenance = {
@@ -98,7 +98,7 @@ mdm_5g_cell_tower = {
 	rural_settlement = yes
 
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 
 	location_potential = {
 		has_building = building_type:mdm_electrical_grid
@@ -146,7 +146,7 @@ mdm_4g_cell_tower = {
 	rural_settlement = yes
 
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 
 	location_potential = {
 		has_building = building_type:mdm_electrical_grid
@@ -194,7 +194,7 @@ mdm_3g_cell_tower = {
 	rural_settlement = yes
 
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 
 	location_potential = {
 		has_building = building_type:mdm_electrical_grid
@@ -242,7 +242,7 @@ mdm_2g_cell_tower = {
 	rural_settlement = yes
 
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 
 	location_potential = {
 		has_building = building_type:mdm_electrical_grid
@@ -288,7 +288,7 @@ mdm_1g_cell_tower = {
 	rural_settlement = yes
 
 	price = mdm_default_price
-	build_time = mdm_default_built_time
+	build_time = mdm_default_build_time
 
 	location_potential = {
 		has_building = building_type:mdm_electrical_grid
@@ -340,7 +340,7 @@ mdm_1g_cell_tower = {
 #	#not buildable in rural
 #
 #	price = mdm_default_price
-#	build_time = mdm_default_built_time
+#	build_time = mdm_default_build_time
 #
 #	location_potential = {
 #		has_building = building_type:mdm_electrical_grid
@@ -388,7 +388,7 @@ mdm_1g_cell_tower = {
 #	rural_settlement = yes
 #
 #	price = mdm_default_price
-#	build_time = mdm_default_built_time
+#	build_time = mdm_default_build_time
 #
 #	location_potential = {
 #		any_neighbor_location = {
@@ -442,7 +442,7 @@ mdm_1g_cell_tower = {
 #	rural_settlement = yes
 #
 #	price = mdm_default_price
-#	build_time = mdm_default_built_time
+#	build_time = mdm_default_build_time
 #
 #	location_potential = {
 #		any_neighbor_location = {
@@ -495,7 +495,7 @@ mdm_1g_cell_tower = {
 #	rural_settlement = yes
 #
 #	price = mdm_default_price
-#	build_time = mdm_default_built_time
+#	build_time = mdm_default_build_time
 #
 #	location_potential = {
 #		any_neighbor_location = {
@@ -551,7 +551,7 @@ mdm_1g_cell_tower = {
 #	rural_settlement = yes
 #
 #	price = mdm_default_price
-#	build_time = mdm_default_built_time
+#	build_time = mdm_default_build_time
 #
 #	unique_production_methods = {
 #		mdm_local_road_network_maintenance = { #should have higher maintenance in colder climates
@@ -594,7 +594,7 @@ mdm_1g_cell_tower = {
 #	rural_settlement = yes
 #
 #	price = mdm_default_price
-#	build_time = mdm_default_built_time
+#	build_time = mdm_default_build_time
 #
 #	unique_production_methods = {
 #		mdm_1g_cell_tower_maintenance = {

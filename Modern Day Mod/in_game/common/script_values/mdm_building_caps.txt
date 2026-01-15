@@ -18,18 +18,9 @@ mdm_dev_and_rank_max_level = { #mostly basegame manufactory_max_level
 		value = population
 		multiply = 0.1
 	}
-	if = {
-		limit = {
-			location_rank = location_rank:city
-		}
-		add = {
-			desc = "BUILDING_LEVEL_IS_CITY"
-			value = 20
-		}
-	}
 	add = {
 		desc = "MDM_LOCATION_RANK_MAX_LEVEL"
 		value = mdm_location_rank_max_level
-		multiply = 5
+		multiply = 2
 	}
 }
