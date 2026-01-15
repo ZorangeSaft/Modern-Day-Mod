@@ -18,7 +18,7 @@
 	price = mdm_default_price
 	build_time = mdm_default_build_time
 	
-	forbidden_for_estates = yes
+	forbidden_for_estates = yes #usually built by the state
 	
 	location_potential = {
 		has_river = yes
@@ -59,11 +59,9 @@ mdm_wind_turbine = {
 	price = mdm_default_price
 	build_time = mdm_default_build_time
 	
-	#forbidden_for_estates = yes
-	
-	#location_potential = {
-	#	location_rank = location_rank:rural_settlement
-	#}
+	location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
 	unique_production_methods = {
 		default_input = {
@@ -96,6 +94,10 @@ mdm_solar_panel = {
 
 	price = mdm_default_price
 	build_time = mdm_default_build_time
+
+	location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
 	unique_production_methods = {
 		mdm_solar_panel_production = {

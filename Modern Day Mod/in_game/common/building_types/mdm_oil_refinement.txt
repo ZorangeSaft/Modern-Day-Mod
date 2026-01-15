@@ -17,6 +17,10 @@
 	price = mdm_default_price
 	build_time = mdm_default_build_time
 
+	location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
 	unique_production_methods = {
 		mdm_oil_refinery_petrogas = {
 			electricity = 0.3

@@ -17,6 +17,10 @@
     price = mdm_default_price
     build_time = mdm_default_build_time
 
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
     unique_production_methods = {
         mdm_blast_furnace_iron = {
             iron_ore = 1
@@ -63,6 +67,10 @@ mdm_copper_blast_furnace = {
 
     price = mdm_default_price
     build_time = mdm_default_build_time
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_copper_blast_furnace_copper_main_output = {
@@ -114,6 +122,10 @@ mdm_lead_blast_furnace = {
     price = mdm_default_price
     build_time = mdm_default_build_time
 
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
     unique_production_methods = {
         mdm_lead_blast_furnace_lead_main_output = {
             lead_ore = 0.85
@@ -164,6 +176,10 @@ mdm_molybdenum_blast_furnace = {
     price = mdm_default_price
     build_time = mdm_default_build_time
 
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
     unique_production_methods = {
         mdm_molybdenum_blast_furnace_molybdenum_main_output = {
             molybdenum_ore = 0.8
@@ -204,6 +220,10 @@ mdm_nickel_blast_furnace = {
 
     price = mdm_default_price
     build_time = mdm_default_build_time
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_nickel_blast_furnace_nickel_main_output = {
@@ -247,6 +267,10 @@ mdm_tin_blast_furnace = {
 
     price = mdm_default_price
     build_time = mdm_default_build_time
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_tin_blast_furnace_tin_main_output = {
@@ -297,6 +321,10 @@ mdm_acid_leaching_plant = {
 
     price = mdm_default_price
     build_time = mdm_default_build_time
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_acid_leaching_silver = {
@@ -365,6 +393,10 @@ mdm_gold_acid_leaching_plant = {
     price = mdm_default_price
     build_time = mdm_default_build_time
 
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
     unique_production_methods = {
         mdm_gold_acid_leaching_plant_gold_main_output = {
             gold_ore = 0.95
@@ -405,6 +437,10 @@ mdm_metalothermic_reduction_facility = {
 
     price = mdm_default_price
     build_time = mdm_default_build_time
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_metalothermic_reduction_facility_magnesium = {
@@ -464,6 +500,10 @@ mdm_aluminium_electrolysis_plant = {
     
     employment_size = mdm_default_employment
     category = mdm_metal_refining_category
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
     
     megalopolis = yes
     metropolis = yes
@@ -516,6 +556,10 @@ mdm_zinc_electrolysis_plant = {
 
     price = mdm_default_price
     build_time = mdm_default_build_time
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_zinc_electrolysis_plant_zinc_main_output = {
@@ -575,6 +619,10 @@ mdm_brine_evaporation_plant = {
 
     price = mdm_default_price
     build_time = mdm_default_build_time
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_brine_evaporation_plant_lithium = {

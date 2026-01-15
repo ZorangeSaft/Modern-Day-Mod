@@ -57,8 +57,6 @@ mdm_middle_management_office = { #increases building cap, partially in the game 
 	price = mdm_price_25
 	build_time = mdm_build_time_360
 	
-	forbidden_for_estates = yes
-	
 	location_potential = {
 		has_building = building_type:mdm_electrical_grid
 	}
@@ -98,8 +96,6 @@ mdm_upper_management_office = { #increases middle management building cap, parti
 
 	price = mdm_price_40
 	build_time = mdm_build_time_450
-	
-	forbidden_for_estates = yes
 	
 	location_potential = {
 		has_building = building_type:mdm_electrical_grid
