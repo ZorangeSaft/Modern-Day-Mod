@@ -32078,6 +32078,22 @@ SAL_civic = { # Saluzzo - Civic arms (overall variant)
 	}
 }
 
+mdm_SAM = { # mdm modern day mod Samoa
+	pattern = "pattern_canton_01.dds"
+	color1 = rgb { 207 8 33 }
+	color2 = rgb { 0 39 128 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.25 0.071 } scale = { 0.103 0.103 } }
+		instance = { position = { 0.328 0.175 } scale = { 0.096 0.096 } }
+		instance = { position = { 0.173 0.199 } scale = { 0.103 0.103 } }
+		instance = { position = { 0.274 0.287 } scale = { 0.064 0.064 } }
+		instance = { position = { 0.25 0.413 } scale = { 0.13 0.13 } }
+	}
+}
+
 SAN = { # Sancerre
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
