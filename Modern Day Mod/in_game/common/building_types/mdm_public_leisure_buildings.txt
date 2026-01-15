@@ -19,6 +19,10 @@
     price = mdm_price_10
     build_time = mdm_build_time_270
 
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
     unique_production_methods = {
         mdm_park_maintenance = {
             electricity = 10
@@ -48,6 +52,10 @@ mdm_botanical_garden = {
 
     price = mdm_price_20
     build_time = mdm_build_time_450
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_botanical_garden_maintenance = {
@@ -80,6 +88,10 @@ mdm_zoo = {
     price = mdm_price_50
     build_time = mdm_build_time_720
 
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
     unique_production_methods = {
         mdm_zoo_maintenance = {
             electricity = 200
@@ -110,6 +122,10 @@ mdm_aquarium = {
 
     price = mdm_price_60
     build_time = mdm_build_time_750
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_aquarium_maintenance = {
@@ -142,6 +158,10 @@ mdm_museum = {
     price = mdm_price_40
     build_time = mdm_build_time_540
 
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
     unique_production_methods = {
         mdm_museum_maintenance = {
             electricity = 150
@@ -172,6 +192,10 @@ mdm_art_gallery = {
 
     price = mdm_price_50
     build_time = mdm_build_time_480
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_art_gallery_maintenance = {
@@ -204,6 +228,10 @@ mdm_amusement_park = {
     price = mdm_price_150
     build_time = mdm_build_time_720
 
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
     unique_production_methods = {
         mdm_amusement_park_maintenance = {
             electricity = 350
@@ -233,6 +261,10 @@ mdm_waterpark = {
 
     price = mdm_price_80
     build_time = mdm_build_time_540
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_waterpark_maintenance = {
@@ -264,6 +296,10 @@ mdm_sports_center = {
     price = mdm_price_50
     build_time = mdm_build_time_300
 
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
     unique_production_methods = {
         mdm_sports_center_maintenance = {
             electricity = 200
@@ -293,6 +329,10 @@ mdm_stadium = {
 
     price = mdm_price_200
     build_time = mdm_build_time_900
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_stadium_maintenance = {
@@ -324,6 +364,10 @@ mdm_convention_center = {
     price = mdm_price_75
     build_time = mdm_build_time_600
 
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
     unique_production_methods = {
         mdm_convention_center_maintenance = {
             electricity = 300
@@ -354,6 +398,10 @@ mdm_opera_house = {
 
     price = mdm_price_120
     build_time = mdm_build_time_720
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_opera_house_maintenance = {
@@ -387,6 +435,10 @@ mdm_theater = {
     price = mdm_price_30
     build_time = mdm_build_time_360
 
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
     unique_production_methods = {
         mdm_theater_maintenance = {
             electricity = 80
@@ -418,6 +470,10 @@ mdm_movie_theater = {
 
     price = mdm_price_10
     build_time = mdm_build_time_180
+
+    location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
 
     unique_production_methods = {
         mdm_movie_theater_maintenance = {
