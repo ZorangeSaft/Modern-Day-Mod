@@ -776,6 +776,13 @@ smartphones = { #any type of phones, also tablets for simplicities sake
 	transport_cost = 1 #ai
 }
 
+computers = { #desktops, laptops, and servers
+	category = produced
+	color = rgb { 80 80 90 } #ai
+	default_market_price = 14 #ai
+	transport_cost = 2 #ai
+}
+
 airplanes = { #any type of airplane, big and small
 	category = produced
 	color = rgb { 220 220 230 } #ai
