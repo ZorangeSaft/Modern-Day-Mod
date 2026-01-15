@@ -807,7 +807,7 @@ mdm_south_florida_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_us_caribean_group mdm_floridian_group
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_us_caribbean_group mdm_floridian_group
 	}
 }
 
@@ -823,7 +823,7 @@ mdm_puerto_rican_culture = { #also spanish speakers on virgin islands
 	}
 
 	culture_groups = { #removed anglo american, idk if that is accurate or not
-		mdm_american_group mdm_us_caribean_group
+		mdm_american_group mdm_us_caribbean_group
 	}
 }
 
