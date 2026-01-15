@@ -25,7 +25,7 @@
 
 	unique_production_methods = {
 		mdm_temporary_maintenance = {
-			lumber = 0.1
+			electricity = 0.1
 			category = building_maintenance
 		}
 	}
@@ -44,7 +44,7 @@ mdm_middle_management_office = {
 	max_levels = mdm_location_rank_max_level
 	pop_type = burghers
 	
-	employment_size = mdm_default_employment
+	employment_size = mdm_employment_200
 	category = infrastructure_category
 	
 	megalopolis = yes
@@ -55,8 +55,8 @@ mdm_middle_management_office = {
 	village = yes
 	rural_settlement = yes
 
-	price = mdm_default_price
-	build_time = mdm_default_build_time
+	price = mdm_price_25
+	build_time = mdm_build_time_360
 	
 	forbidden_for_estates = yes
 	
@@ -66,7 +66,51 @@ mdm_middle_management_office = {
 
 	unique_production_methods = {
 		mdm_temporary_maintenance = {
-			lumber = 0.1
+			electricity = 90
+			paper = 0.1
+			computers = 0.05
+			category = building_maintenance
+		}
+	}
+
+	construction_demand = mdm_default_construction_demand
+
+	modifier = {
+		free_building_levels = 10
+	}
+	
+}
+
+mdm_upper_management_office = {
+	is_foreign = no
+	max_levels = mdm_location_rank_max_level
+	pop_type = burghers
+	
+	employment_size = mdm_employment_120
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_price_40
+	build_time = mdm_build_time_450
+	
+	forbidden_for_estates = yes
+	
+	location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
+	unique_production_methods = {
+		mdm_temporary_maintenance = {
+			electricity = 120
+			paper = 0.1
+			computers = 0.05
 			category = building_maintenance
 		}
 	}
