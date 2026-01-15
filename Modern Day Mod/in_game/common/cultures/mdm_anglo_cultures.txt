@@ -1,0 +1,996 @@
+﻿#####mdm modern day mod
+
+english = { #england english
+	language = english_dialect
+	
+	color = map_ENG
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	country_modifier = {
+	}
+	character_modifier = {
+	}
+	location_modifier = {
+	}
+
+	opinions = {
+		irish = enemy
+		highland = negative
+		norse_gael = negative
+		welsh = negative
+		cornish = negative
+		anglo_irish = kindred
+		norman = positive
+		northumbrian = kindred
+	}
+
+	culture_groups = {
+		british_group
+	}
+	
+	noun_keys = {
+		adder
+		falcon
+		baron
+	}
+	
+	adjective_keys = {
+		black
+		red
+		yellow
+	}
+}
+
+northumbrian = { #northern english
+	language = northumbrian_dialect
+	
+	color = map_NOL
+	
+	tags = { english_gfx north_british_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		english = kindred 
+		scottish = positive
+		anglo_irish = positive
+		norman = enemy
+	}
+
+	culture_groups = {
+		british_group
+	}
+}
+
+scottish = {
+	language = scots_dialect
+	
+	color = map_SCO
+	
+	tags = { scottish_lowland_gfx scottish_gfx north_british_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		highland = positive
+		northumbrian = positive
+	}
+
+	culture_groups = {
+		scottish_group
+		british_group
+	}
+}
+
+irish = { #celtic speaking irish
+	language = irish_dialect
+	
+	color = map_IRE
+	
+	tags = { irish_gfx gaelic_gfx celtic_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		highland = kindred
+		norse_gael = positive
+		english = enemy
+		anglo_irish = negative
+	}
+
+	culture_groups = {
+		celtic_group
+		hibernian_group
+	}
+
+	use_patronym = yes
+
+	dynasty_name_type = descendant
+}
+
+welsh = {
+	language = welsh_dialect
+	
+	color = map_WLS
+	
+	tags = { welsh_gfx celtic_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		cornish = kindred
+		english = negative
+		breton = positive
+	}
+
+	culture_groups = {
+		celtic_group
+		british_group
+	}
+
+	use_patronym = yes
+}
+
+cornish = { #maby remove this one (basically dead, but perhaps could be revived)
+	language = breton_dialect
+	
+	color = map_cornish
+	
+	tags = { cornish_gfx welsh_gfx celtic_gfx british_gfx western_european_gfx european_gfx }
+
+	culture_groups = {
+		celtic_group
+		british_group
+	}
+	
+	opinions = {
+		welsh = kindred
+		breton = kindred
+	}
+}
+
+highland = {
+	language = scottish_gaelic_dialect
+	
+	color = map_highland
+	
+	tags = { scottish_highland_gfx gaelic_gfx scottish_gfx celtic_gfx north_british_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		irish = kindred
+		norse_gael = positive
+		scottish = positive
+		english = negative
+	}
+
+	culture_groups = {
+		celtic_group
+		scottish_group
+		british_group
+	}
+
+	use_patronym = yes
+
+	dynasty_name_type = patronym
+}
+
+norse_gael = { #todo: probably remove this one
+	language = scottish_gaelic_dialect
+	
+	color = map_norse_gael
+	
+	tags = { scottish_highland_gfx gaelic_gfx scottish_gfx north_british_gfx celtic_gfx british_gfx western_european_gfx european_gfx }
+
+	culture_groups = {
+		celtic_group
+		scottish_group
+		british_group
+		scandinavian_group
+	}
+	
+	opinions = {
+		irish = positive
+		highland = positive
+		norn_culture = kindred
+		norwegian = positive
+		icelandic = positive
+		english = negative
+	}
+
+	use_patronym = yes
+
+	dynasty_name_type = patronym
+}
+
+anglo_irish = { #english speaking irish
+	language = hiberno_english_dialect
+	
+	color = map_PLE
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	culture_groups = {
+		hibernian_group
+		british_group
+	}
+
+	opinions = {
+		irish = negative
+		english = kindred
+		norman = positive
+	}
+}
+
+
+
+#####mdm modern day mod
+
+#us cultures based on https://matadornetwork.com/read/americas-cultural-regions-mapped/ (looks about right, no map will ever be perfect tho obviously)
+#more updated version: https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fy4pxyq5eslh51.png
+
+#canadian cultures based on https://www.reddit.com/r/MapPorn/comments/mk5kuj/oc_cultural_regions_of_canada/, couldnt find a better one, but looks about right
+
+#all the colors are temporary and from the top 2 maps, should later be changed to more represent the actual places (while still looking good on map and being disticng from neighbors)
+
+
+#us usa america
+
+#alaska
+
+mdm_alaskan_culture = {
+	language = mdm_alaskan_dialect
+	
+	color = rgb {89 140 123}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_cascadian_group
+	}
+}
+
+
+#pacific northwest
+
+mdm_cascadian_culture = {
+	language = mdm_cascadian_dialect
+	
+	color = rgb {13 33 13} #cascadia flag green
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_cascadian_group
+	}
+}
+
+
+#california
+
+mdm_norcal_culture = {
+	language = mdm_californian_dialect
+	
+	color = rgb {144 193 135}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
+	}
+}
+
+mdm_bay_area_culture = {
+	language = mdm_californian_dialect
+	
+	color = rgb {124 231 98}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
+	}
+}
+
+mdm_central_valley_culture = {
+	language = mdm_californian_dialect
+	
+	color = rgb {88 107 85}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
+	}
+}
+
+mdm_socal_culture = {
+	language = mdm_californian_dialect
+	
+	color = rgb {197 232 190}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
+	}
+}
+
+
+#great basin/frontier
+
+mdm_columbia_plateau_culture = {
+	language = mdm_western_us_dialect
+	
+	color = rgb {215 190 160}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
+	}
+}
+
+mdm_great_basin_culture = {
+	language = mdm_western_us_dialect
+	
+	color = rgb {181 99 64}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
+	}
+}
+
+mdm_southwest_culture = {
+	language = mdm_western_us_dialect
+	
+	color = rgb {171 136 106}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
+	}
+}
+
+mdm_rocky_mountains_culture = {
+	language = mdm_western_us_dialect
+	
+	color = rgb {189 168 151}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
+	}
+}
+
+mdm_mormon_culture = {
+	language = mdm_western_us_dialect
+	
+	color = rgb {173 161 111}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
+	}
+}
+
+mdm_northern_great_plains_culture = {
+	language = mdm_west_northern_dialect
+	
+	color = rgb {233 161 110}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_great_plains_group
+	}
+}
+
+mdm_southern_great_plains_culture = {
+	language = mdm_midland_dialect #doesnt fit exactly
+	
+	color = rgb {201 153 113}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_great_plains_group
+	}
+}
+
+
+#midwest
+
+mdm_upper_midwest_culture = {
+	language = mdm_west_northern_dialect
+	
+	color = rgb {235 211 121}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_plains_group
+	}
+}
+
+mdm_lower_midwest_culture = {
+	language = mdm_midland_dialect
+	
+	color = rgb {243 223 92}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_plains_group
+	}
+}
+
+mdm_northwoods_culture = {
+	language = mdm_west_northern_dialect
+	
+	color = rgb {222 182 94}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_lakes_group
+	}
+}
+
+mdm_great_lakes_culture = {
+	language = mdm_northern_dialect
+	
+	color = rgb {221 200 144}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_lakes_group
+	}
+}
+
+mdm_lower_rust_belt_culture = {
+	language = mdm_midland_dialect
+	
+	color = rgb {197 165 90}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group
+	}
+}
+
+
+#northeast
+
+mdm_new_england_culture = {
+	language = mdm_new_england_dialect
+	
+	color = rgb {111 117 231}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group
+	}
+}
+
+mdm_upstate_new_york_culture = {
+	language = mdm_northern_dialect
+	
+	color = rgb {147 148 212}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group
+	}
+}
+
+mdm_new_york_culture = {
+	language = mdm_new_york_dialect
+	
+	color = rgb {15 50 239}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group
+	}
+}
+
+mdm_northern_appalachia_culture = {
+	language = mdm_midland_dialect
+	
+	color = rgb {181 183 242}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_appalachian_group
+	}
+}
+
+mdm_mid_atlantic_culture = {
+	language = mdm_mid_atlantic_dialect
+	
+	color = rgb {100 108 240}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group
+	}
+}
+
+mdm_chesapeake_culture = {
+	language = mdm_southern_dialect
+	
+	color = rgb {179 184 196}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group
+	}
+}
+
+
+#south
+
+mdm_ozark_culture = {
+	language = mdm_inland_southern_dialect
+	
+	color = rgb {234 170 168}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+	}
+}
+
+mdm_upper_south_culture = {
+	language = mdm_inland_southern_dialect
+	
+	color = rgb {226 132 132}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+	}
+}
+
+mdm_southern_appalachian_culture = {
+	language = mdm_inland_southern_dialect
+	
+	color = rgb {227 179 177}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_appalachian_group
+	}
+}
+
+mdm_atlantic_southern_culture = {
+	language = mdm_southern_dialect
+	
+	color = rgb {223 122 118}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+	}
+}
+
+mdm_deep_south_culture = {
+	language = mdm_southern_dialect
+	
+	color = rgb {227 80 73}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+	}
+}
+
+mdm_central_florida_culture = {
+	language = mdm_floridian_dialect
+	
+	color = rgb {198 169 171}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_floridian_group
+	}
+}
+
+mdm_gulf_coast_culture = {
+	language = mdm_southern_dialect
+	
+	color = rgb {155 99 96}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+	}
+}
+
+mdm_cajun_culture = {
+	language = mdm_southern_dialect
+	
+	color = rgb {234 191 185}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+	}
+}
+
+mdm_texan_culture = {
+	language = mdm_southern_dialect
+	
+	color = rgb {218 133 113}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+	}
+}
+
+mdm_rio_grande_culture = {
+	language = mdm_southern_dialect #should maby be inland southern, or even spanish
+	
+	color = rgb {206 158 148}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+	}
+}
+
+
+#us caribean
+
+mdm_south_florida_culture = {
+	language = mdm_floridian_dialect
+	
+	color = rgb {118 230 240}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_us_caribean_group mdm_floridian_group
+	}
+}
+
+mdm_puerto_rican_culture = { #also spanish speakers on virgin islands
+	language = castilian_dialect #todo: eventually change to newly made spanish dialect
+	
+	color = rgb {87 182 192}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx english_gfx british_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = { #removed anglo american, idk if that is accurate or not
+		mdm_american_group mdm_us_caribean_group
+	}
+}
+
+
+#us pacific
+
+mdm_hawaiian_culture = { #for american hawaiian things, there should possibly be a seperate culture for native hawaiians
+	language = mdm_floridian_dialect
+	
+	color = rgb {118 230 240}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_us_pacific_group
+	}
+}
+
+#idk what to make the other us pacific islands, if they should be generic "us pacific islander", or if some like guam their a unique one
+
+
+#canada
+
+mdm_british_columbian_culture = { #temporary name
+	language = mdm_canadian_dialect
+	
+	color = rgb {103 205 54}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group mdm_west_coast_group mdm_cascadian_group 
+	}
+}
+
+mdm_interior_culture = { #temporary name
+	language = mdm_canadian_dialect
+	
+	color = rgb {103 51 1}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group mdm_rocky_mountains_group
+	}
+}
+
+mdm_praire_culture = { #temporary name
+	language = mdm_canadian_dialect
+	
+	color = rgb {207 203 52}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group mdm_great_plains_group
+	}
+}
+
+mdm_boreal_culture = { #temporary name
+	language = mdm_canadian_dialect
+	
+	color = rgb {52 101 53}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group
+	}
+}
+
+mdm_ontario_culture = { #temporary name
+	language = mdm_canadian_dialect
+	
+	color = rgb {255 103 105}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group mdm_great_lakes_group
+	}
+}
+
+mdm_quebec_culture = {
+	language = french_language #todo: add quebec dialect (neccesary)
+	
+	color = rgb {44 44 149}
+	
+	tags = { western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_canadian_group mdm_francophone_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
+	}
+}
+
+mdm_acadian_culture = {
+	language = french_language #todo: add quebec dialect (neccesary)
+	
+	color = rgb {57 158 214}
+	
+	tags = { western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_canadian_group mdm_francophone_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
+	}
+}
+
+mdm_maritimes_culture = { #temporary name
+	language = mdm_canadian_dialect
+	
+	color = rgb {0 104 97}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group
+	}
+}
+
+mdm_new_foundland_and_labrador_culture = { #temporary name
+	language = mdm_canadian_dialect
+	
+	color = rgb {204 50 52}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group
+	}
+}

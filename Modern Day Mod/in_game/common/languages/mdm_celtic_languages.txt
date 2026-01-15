@@ -1,0 +1,178 @@
+﻿
+brythonic_language = {
+
+	color = map_WLS
+
+	family = celtic_language_family
+
+	male_names = {
+		#Welsh
+		name_adam
+		name_david
+		name_ennius 
+		name_ednevet name_john
+		name_goronwy name_godfrey name_griffith name_walter name_william name_wynn
+		name_henry name_hugh name_howell
+		name_edward name_ithel name_ivor
+		name_louis name_lloyd
+		name_madog name_meredith name_melior name_maurice name_morgan
+		name_eugene
+		name_philip
+		name_reginald name_rhirid name_roderick name_rhys
+		name_tegwared name_thomas name_theodore
+	}
+	female_names = {
+		# Welsh
+		Angharad
+		Dyddgu
+		name_helen name_eleanor
+		Gwallaten Gwen name_jennifer Gwenllian Gweirfyl
+		name_catherine
+		name_lucia # Lucy 
+		Lowri
+		name_mary Mallt Marged Morfydd
+		Nesta name_neve
+	}
+	
+	dynasty_names = {
+		aberavon aberkenfig abergavenny
+		bridgend
+		cwmgwrach
+		dinevor dwyfor
+		emlyn
+		brogyntyn
+		gower gwerclas
+		hendwr
+		llanddewi_brefi
+		merioneth
+		neath
+		pontypandy
+		rhuddlan ruthin
+		snowdon 
+	}
+
+	ship_names = {
+		anfarwol
+		ardderchog
+		brwd
+		brwdfrydig
+		cadarn
+		cain
+		cawr
+		cerddgar
+		clyd
+		cyfareddol
+		cymreig
+		cywir
+		cywirdeb
+		direidus
+		dirgel
+		dirgelwch
+		eglurhaol
+		eithriadol
+		euraid
+		fflamgoch
+		galwadwy
+		garw
+		gloyw
+		gorfoledd
+		gorlif
+		gwyntog
+		haerllug
+		heddwen
+		heddychlon
+		helyg
+		hirfelyn
+		hirionedd
+		hudolus
+		hynod
+		iaithlawn
+		iraidd
+		lleddf
+		llongyfarch
+		lluddias
+		llwyd
+		llyfn
+		llygadwyllt
+		llygaid-wen
+		lysieuol
+		mawreddog
+		medrus
+		melyngoch
+		mewnfwyafn
+		morol
+		nawddgar
+		noddfa
+		oerfel
+		olau
+		parhadol
+		poblogaidd
+		rhamantus
+		sefyllfa
+		seren
+		talgarth
+		taranau
+		tosturiol
+		uchelgeisiol
+		unben
+		wawddeg
+		ymylchgrawn
+		ynfydgar
+	}
+	
+	dynasty_template_keys = {
+		SOMEONE_OF_SOMEWHERE
+		SOMEONE_FROM_SOMEWHERE
+		SOMEONE_THE_SOMETHING_OF_SOMEWHERE__TYPE
+		SOMEONE_THE_SOMEDESC_SOMETHING__ADJ_TYPE
+		SOMEONE_THE_SOMELOCALITY_SOMETHING__TYPE
+		SOMEONE_THE_SOMENATIONALITY_SOMETHING__TYPE
+	}
+	
+	lowborn = {
+		# Welsh
+		name_john # ap Ioan, Jones Johnson Jenkins
+		ap_Dafydd #Davies
+		ap_Gwilym #Williams Wilson
+		ab_Ifan # Evans Bevan
+		ap_Tomos # Thomas
+		ap_Robert # Roberts Hopkins
+		ap_Llywelyn # Lewis
+		ap_Huw # Hughes Pugh
+		ap_Morgan # Morgan
+		ap_Gruffydd # Griffiths
+		ap_Iorwerth # Edwards
+		# Smith
+		# name_james
+		ap_Rees # Rees, Rhys, Price
+		ap_Morris # Morris
+		ap_Phillip # Phillips
+		name_richard # Richards, Pritchard
+		ap_Lloyd # Lloyds
+		ap_Harri # Harris, Parry
+		# Taylor
+		ap_Hywel # Howell Howells
+		# Brown
+		#Watkins Walters
+		ap_Roger # Rogers
+		# Hill
+		# Ellis
+		# Matthews
+		ab_Owain #Bowen, Owen, Owens
+		ap_Gwyn # Wynn
+	}
+
+	patronym_prefix_son = "patronym_prefix_welsh_son"
+	patronym_prefix_son_vowel = "patronym_prefix_welsh_son_vowel"
+	patronym_prefix_daughter = "patronym_prefix_welsh_daughter"
+
+	dialects = {
+		welsh_dialect = {
+
+		}
+
+		breton_dialect = {
+			
+		}
+	}
+}

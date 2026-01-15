@@ -555,14 +555,80 @@ zuni_group = {
 
 
 
+#internationalism culture groups
+
 mdm_internationalism_group = { #internationalist cultures like UN and EU ?
 }
+
+
+#regional culture groups
 
 mdm_european_group = { #all european cultures
 }
 
+mdm_caribbean_group = {
+}
+
+
+
+#anglo culture groups
+
 mdm_anglo_group = { #all british colonial cultures
 }
+
+mdm_anglo_american_group = { #us and canada
+}
+
+mdm_canadian_group = { #canada
+}
+
+mdm_american_group = { #us usa america
+}
+
+mdm_west_coast_group = { #us west coast
+}
+
+mdm_californian_group = { #california
+}
+
+mdm_cascadian_group = { #pacific northwest
+}
+
+mdm_frontier_group = { #us frontier
+}
+
+mdm_rocky_mountains_group = { #rockies, also into canada
+}
+
+mdm_great_plains_group = { #great plains, also into canada
+}
+
+mdm_midwest_group = { #us midwest
+}
+
+mdm_great_lakes_group = { #so ontario and parts of midwest can have shared group
+}
+
+mdm_northeast_group = { #us northeast
+}
+
+mdm_southern_group = { #us south
+}
+
+mdm_appalachian_group = { #appalachia, not on original map, but i think it makes sense, since groups can overlap
+}
+
+mdm_floridian_group = { #florida
+}
+
+mdm_us_caribbean_group = { #miami, puerto rico, us virgin islands
+}
+
+mdm_us_pacific_group = { #hawaii and other pacific islands like guam
+}
+
+
+#colonial culture groups
 
 mdm_hispanic_group = { #spain and former spanish colonies
 }
