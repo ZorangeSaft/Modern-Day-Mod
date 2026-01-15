@@ -47,7 +47,7 @@ mdm_middle_management_max_level = {
 	}
 	add = {
 		desc = "MDM_UPPER_MANAGEMENT_LEVELS"
-		location_building_level = {
+		location_building_level = { #didnt test this yet, probably doesnt exactly work but goes in the right direction
 			building_type = building_type:mdm_upper_management_office
 			multiply = 1.5
 		}

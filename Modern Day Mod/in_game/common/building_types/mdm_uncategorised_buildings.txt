@@ -38,8 +38,7 @@
 	
 }
 
-
-mdm_middle_management_office = {
+mdm_middle_management_office = { #increases building cap, partially in the game so burghers have somewhere to work
 	is_foreign = no
 	max_levels = mdm_location_rank_max_level
 	pop_type = burghers
@@ -65,7 +64,7 @@ mdm_middle_management_office = {
 	}
 
 	unique_production_methods = {
-		mdm_temporary_maintenance = {
+		mdm_middle_management_office_maintenance = {
 			electricity = 90
 			paper = 0.1
 			computers = 0.05
@@ -81,7 +80,7 @@ mdm_middle_management_office = {
 	
 }
 
-mdm_upper_management_office = {
+mdm_upper_management_office = { #increases middle management building cap, partially in the game so clergy has somewhere to work
 	is_foreign = no
 	max_levels = mdm_location_rank_max_level
 	pop_type = burghers
@@ -107,7 +106,7 @@ mdm_upper_management_office = {
 	}
 
 	unique_production_methods = {
-		mdm_temporary_maintenance = {
+		mdm_upper_management_office_maintenance = {
 			electricity = 120
 			paper = 0.1
 			computers = 0.05
@@ -116,9 +115,4 @@ mdm_upper_management_office = {
 	}
 
 	construction_demand = mdm_default_construction_demand
-
-	modifier = {
-		free_building_levels = 10
-	}
-	
 }
