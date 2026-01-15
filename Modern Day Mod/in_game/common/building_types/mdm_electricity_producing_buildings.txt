@@ -4,7 +4,7 @@
 	pop_type = laborers
 	
 	employment_size = mdm_default_employment
-	category = metal_refining_category
+	category = infrastructure_category
 	
 	megalopolis = yes
 	metropolis = yes
@@ -45,7 +45,7 @@ mdm_wind_turbine = {
 	pop_type = laborers
 	
 	employment_size = mdm_default_employment
-	category = metal_refining_category
+	category = infrastructure_category
 	
 	megalopolis = yes
 	metropolis = yes
@@ -84,7 +84,7 @@ mdm_solar_panel = {
 	pop_type = laborers
 	
 	employment_size = mdm_employment_150
-	category = metal_refining_category
+	category = infrastructure_category
 	
 	megalopolis = yes
 	metropolis = yes

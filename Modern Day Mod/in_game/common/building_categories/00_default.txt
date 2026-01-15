@@ -15,6 +15,9 @@ consumer_goods_category = {
 government_category = {
 }
 
+infrastructure_category = {
+}
+
 religious_category = {
 }
 
@@ -50,5 +53,8 @@ estate_category = {
 
 #####mdm modern day mod
 
-metal_refining_category = {
+mdm_metal_refining_category = {
+}
+
+mdm_no_category = {
 }

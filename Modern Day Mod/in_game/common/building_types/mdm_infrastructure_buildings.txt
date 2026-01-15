@@ -4,7 +4,7 @@
 	pop_type = burghers
 	
 	employment_size = mdm_employment_150
-	category = metal_refining_category
+	category = infrastructure_category
 	
 	megalopolis = yes
 	metropolis = yes
@@ -50,7 +50,7 @@ mdm_electrical_grid = {
 	pop_type = laborers
 	
 	employment_size = mdm_default_employment
-	category = metal_refining_category
+	category = infrastructure_category
 	
 	megalopolis = yes
 	metropolis = yes
@@ -85,7 +85,7 @@ mdm_5g_cell_tower = {
 	pop_type = laborers
 	
 	employment_size = mdm_default_employment
-	category = metal_refining_category
+	category = infrastructure_category
 
 	obsolete = mdm_4g_cell_tower
 	
@@ -133,7 +133,7 @@ mdm_4g_cell_tower = {
 	pop_type = laborers
 	
 	employment_size = mdm_default_employment
-	category = metal_refining_category
+	category = infrastructure_category
 
 	obsolete = mdm_3g_cell_tower
 	
@@ -181,7 +181,7 @@ mdm_3g_cell_tower = {
 	pop_type = laborers
 	
 	employment_size = mdm_default_employment
-	category = metal_refining_category
+	category = infrastructure_category
 
 	obsolete = mdm_2g_cell_tower
 	
@@ -231,7 +231,7 @@ mdm_2g_cell_tower = {
 	obsolete = mdm_1g_cell_tower
 	
 	employment_size = mdm_default_employment
-	category = metal_refining_category
+	category = infrastructure_category
 	
 	megalopolis = yes
 	metropolis = yes
@@ -277,7 +277,7 @@ mdm_1g_cell_tower = {
 	pop_type = laborers
 	
 	employment_size = mdm_default_employment
-	category = metal_refining_category
+	category = infrastructure_category
 	
 	megalopolis = yes
 	metropolis = yes
@@ -327,7 +327,7 @@ mdm_1g_cell_tower = {
 #	pop_type = laborers
 #	
 #	employment_size = mdm_default_employment
-#	category = metal_refining_category
+#	category = infrastructure_category
 #
 #	obsolete = mdm_local_rail_network
 #	
@@ -375,7 +375,7 @@ mdm_1g_cell_tower = {
 #	pop_type = laborers
 #	
 #	employment_size = mdm_default_employment
-#	category = metal_refining_category
+#	category = infrastructure_category
 #
 #	obsolete = mdm_local_rail_network
 #	
@@ -429,7 +429,7 @@ mdm_1g_cell_tower = {
 #	pop_type = laborers
 #	
 #	employment_size = mdm_default_employment
-#	category = metal_refining_category
+#	category = infrastructure_category
 #
 #	obsolete = mdm_local_rail_network
 #	
@@ -484,7 +484,7 @@ mdm_1g_cell_tower = {
 #	pop_type = laborers
 #	
 #	employment_size = mdm_default_employment
-#	category = metal_refining_category
+#	category = infrastructure_category
 #	
 #	megalopolis = yes
 #	metropolis = yes
@@ -538,7 +538,7 @@ mdm_1g_cell_tower = {
 #	pop_type = laborers
 #	
 #	employment_size = mdm_default_employment
-#	category = metal_refining_category
+#	category = infrastructure_category
 #
 #	obsolete = mdm_local_dirt_road_network
 #	
@@ -583,7 +583,7 @@ mdm_1g_cell_tower = {
 #	pop_type = laborers
 #	
 #	employment_size = mdm_default_employment
-#	category = metal_refining_category
+#	category = 
 #	
 #	megalopolis = yes
 #	metropolis = yes

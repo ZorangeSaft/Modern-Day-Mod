@@ -4,7 +4,7 @@
     pop_type = laborers
     
     employment_size = mdm_default_employment
-    category = metal_refining_category
+    category = mdm_metal_refining_category
     
     megalopolis = yes
     metropolis = yes
@@ -51,7 +51,7 @@ mdm_copper_blast_furnace = {
     pop_type = laborers
     
     employment_size = mdm_default_employment
-    category = metal_refining_category
+    category = mdm_metal_refining_category
     
     megalopolis = yes
     metropolis = yes
@@ -101,7 +101,7 @@ mdm_lead_blast_furnace = {
     pop_type = laborers
     
     employment_size = mdm_default_employment
-    category = metal_refining_category
+    category = mdm_metal_refining_category
     
     megalopolis = yes
     metropolis = yes
@@ -151,7 +151,7 @@ mdm_molybdenum_blast_furnace = {
     pop_type = laborers
     
     employment_size = mdm_default_employment
-    category = metal_refining_category
+    category = mdm_metal_refining_category
     
     megalopolis = yes
     metropolis = yes
@@ -192,7 +192,7 @@ mdm_nickel_blast_furnace = {
     pop_type = laborers
     
     employment_size = mdm_default_employment
-    category = metal_refining_category
+    category = mdm_metal_refining_category
     
     megalopolis = yes
     metropolis = yes
@@ -235,7 +235,7 @@ mdm_tin_blast_furnace = {
     pop_type = laborers
     
     employment_size = mdm_default_employment
-    category = metal_refining_category
+    category = mdm_metal_refining_category
     
     megalopolis = yes
     metropolis = yes
@@ -285,7 +285,7 @@ mdm_acid_leaching_plant = {
     pop_type = laborers
 
     employment_size = mdm_default_employment
-    category = metal_refining_category
+    category = mdm_metal_refining_category
 
     megalopolis = yes
     metropolis = yes
@@ -352,7 +352,7 @@ mdm_gold_acid_leaching_plant = {
     pop_type = laborers
 
     employment_size = mdm_default_employment
-    category = metal_refining_category
+    category = mdm_metal_refining_category
 
     megalopolis = yes
     metropolis = yes
@@ -393,7 +393,7 @@ mdm_metalothermic_reduction_facility = {
     pop_type = laborers
     
     employment_size = mdm_default_employment
-    category = metal_refining_category
+    category = mdm_metal_refining_category
     
     megalopolis = yes
     metropolis = yes
@@ -463,7 +463,7 @@ mdm_aluminium_electrolysis_plant = {
     pop_type = laborers
     
     employment_size = mdm_default_employment
-    category = metal_refining_category
+    category = mdm_metal_refining_category
     
     megalopolis = yes
     metropolis = yes
@@ -504,7 +504,7 @@ mdm_zinc_electrolysis_plant = {
     pop_type = laborers
     
     employment_size = mdm_default_employment
-    category = metal_refining_category
+    category = mdm_metal_refining_category
     
     megalopolis = yes
     metropolis = yes
@@ -563,7 +563,7 @@ mdm_brine_evaporation_plant = {
     pop_type = laborers
 
     employment_size = mdm_default_employment
-    category = metal_refining_category
+    category = mdm_metal_refining_category
 
     megalopolis = yes
     metropolis = yes

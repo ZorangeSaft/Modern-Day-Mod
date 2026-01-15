@@ -1,0 +1,128 @@
+﻿mdm_middle_management_office = {
+	is_foreign = no
+	max_levels = mdm_location_rank_max_level
+	pop_type = burghers
+	
+	employment_size = mdm_employment_150
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	#expensive = yes
+	price = mdm_price_200 #standard western price, should cost half as much in china
+	build_time = mdm_build_time_10_years #standard western time, should take half the time in china
+	
+	forbidden_for_estates = yes
+	
+	location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
+	unique_production_methods = {
+		mdm_airport_maintenance = {
+			glass = 0.1
+			tools = 0.05
+			weaponry = 0.2
+			stone = 0.1
+			category = building_maintenance
+		}
+	}
+
+	construction_demand = mdm_default_construction_demand
+
+	modifier = {
+		local_proximity_source = 5
+		#local_peasants_estate_power = 0.5
+	}
+	
+	
+}
+
+mdm_electrical_grid = {
+	is_foreign = no
+	max_levels = mdm_location_rank_max_level #maby should just be 1 level ?
+	pop_type = laborers
+	
+	employment_size = mdm_default_employment
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_default_price
+	build_time = mdm_default_built_time
+
+	unique_production_methods = {
+		mdm_electrical_grid_maintenance = {
+			lumber = 0.01
+			#electricity = 0.1 ?
+			#industrial expertise = 1 ?
+			category = building_maintenance
+		}
+	}
+
+	construction_demand = mdm_default_construction_demand
+}
+
+
+
+###cell towers
+
+mdm_5g_cell_tower = {
+	is_foreign = no
+	max_levels = mdm_location_rank_max_level
+	pop_type = laborers
+	
+	employment_size = mdm_default_employment
+	category = infrastructure_category
+
+	obsolete = mdm_4g_cell_tower
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_default_price
+	build_time = mdm_default_built_time
+
+	location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
+	unique_production_methods = {
+		mdm_5g_cell_tower_maintenance = {
+			electricity = 1
+			electrical_expertise = 0.05
+			industrial_expertise = 0.01
+			category = building_maintenance
+		}
+	}
+
+	modifier = {
+		local_proximity_source = 5
+		local_max_control = 5
+		local_production_efficiency = 0.05
+        local_monthly_development_modifier = 0.05
+		local_peasants_estate_power = 0.05
+		local_burghers_estate_power = 0.04
+		local_clergy_estate_power = 0.03
+		local_nobles_estate_power = 0.01
+	}
+
+	construction_demand = mdm_default_construction_demand
+}

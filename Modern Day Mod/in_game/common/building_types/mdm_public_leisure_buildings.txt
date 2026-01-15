@@ -7,7 +7,7 @@
     pop_type = laborers
 
     employment_size = mdm_employment_15
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -38,7 +38,7 @@ mdm_botanical_garden = {
     pop_type = laborers
 
     employment_size = mdm_employment_40
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -69,7 +69,7 @@ mdm_zoo = {
     pop_type = laborers
 
     employment_size = mdm_employment_150
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -100,7 +100,7 @@ mdm_aquarium = {
     pop_type = laborers
 
     employment_size = mdm_employment_120
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -131,7 +131,7 @@ mdm_museum = {
     pop_type = laborers
 
     employment_size = mdm_employment_80
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -162,7 +162,7 @@ mdm_art_gallery = {
     pop_type = laborers
 
     employment_size = mdm_employment_60
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -193,7 +193,7 @@ mdm_amusement_park = {
     pop_type = laborers
 
     employment_size = mdm_employment_250
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -223,7 +223,7 @@ mdm_waterpark = {
     pop_type = laborers
 
     employment_size = mdm_employment_120
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -253,7 +253,7 @@ mdm_sports_center = {
     pop_type = laborers
 
     employment_size = mdm_employment_60
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -283,7 +283,7 @@ mdm_stadium = {
     pop_type = laborers
 
     employment_size = mdm_employment_150
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -313,7 +313,7 @@ mdm_convention_center = {
     pop_type = laborers
 
     employment_size = mdm_employment_100
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -344,7 +344,7 @@ mdm_opera_house = {
     pop_type = laborers
 
     employment_size = mdm_employment_200
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -376,7 +376,7 @@ mdm_theater = {
     pop_type = laborers
 
     employment_size = mdm_employment_50
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes
@@ -408,7 +408,7 @@ mdm_movie_theater = {
     pop_type = laborers
 
     employment_size = mdm_employment_40
-    category = metal_refining_category
+    category = infrastructure_category
 
     megalopolis = yes
     metropolis = yes

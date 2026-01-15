@@ -8,7 +8,7 @@
 	pop_type = burghers
 	
 	employment_size = mdm_employment_150
-	category = metal_refining_category
+	category = infrastructure_category
 	
 	megalopolis = yes
 	metropolis = yes

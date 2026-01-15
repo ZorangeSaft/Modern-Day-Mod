@@ -655,13 +655,13 @@
  ROAD_MOVEMENT_COST: "[ShowModifierTypeName('movement_cost')]: $VAL|2-=%$"
  ROAD_MARKET_ACCESS: "[market_access|e] Cost: $VAL|2-=%$"
  ROAD_PROXIMITY_IMPACT: "[proximity|e] Cost: $VAL|2-=$"
- gravel_road: "Paved Road"
+ gravel_road: "Paved Road" #mdm modern day mod
  gravel_road_desc: "A simple paved [road|e], usually using asphalt or concrete."
- paved_road: "Highway"
+ paved_road: "Highway" #mdm modern day mod
  paved_road_desc: "A limited acces [road|e], usually of better quality than normal [road|e], often with multiple lanes."
- modern_road: "High Speed Rail"
+ modern_road: "High Speed Rail" #mdm modern day mod
  modern_road_desc: "An electrified rail line with intentionally less tight curves, to facilitate higher speeds of usually up to 300 km/h."
- railroad: "Maglev"
+ railroad: "Maglev" #mdm modern day mod
  railroad_desc: "A train hovering above the tracks using magnetic levitation with an air cushing between it and the track, allowing for extremely high speeds of up to 600 km/h."
 
  equality: "Equality"
