@@ -6,7 +6,7 @@ mdm_eu_capital = {
 	
 	pop_type = nobles
 	
-	category = trade_category
+	category = government_category
 	
 	max_levels = 1
 	employment_size = mdm_employment_150
@@ -18,11 +18,6 @@ mdm_eu_capital = {
 	town = yes
 	village = yes
 	rural_settlement = yes
-	
-	increase_per_level_cost = 0.5
-	
-	
-	expensive = yes
 	
 	location_potential = {
 		this = c:EUROP.capital
