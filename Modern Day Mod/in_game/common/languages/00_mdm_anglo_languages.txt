@@ -341,7 +341,22 @@ english_language = {
 		}
 
 		
-		#mdm modern day mod
+		#mdm modern day 
+		
+
+
+		#general english dialects
+
+		mdm_corporate_english_dialect = {
+			patronym_suffix_son = "patronym_suffix_english_son"
+			patronym_suffix_daughter = "patronym_suffix_english_son"
+		}
+
+		mdm_scientific_english_dialect = {
+			patronym_suffix_son = "patronym_suffix_english_son"
+			patronym_suffix_daughter = "patronym_suffix_english_son"
+		}
+
 
 		#north american english dialects
 		#NA dialects based on https://aschmann.net/AmEng/#SmallMapCanada https://aschmann.net/AmEng/index_collection/AmericanEnglishDialects.png

@@ -2815,6 +2815,13 @@
 #####mdm modern day mod
 
 
+
+ #general english dialects
+
+ mdm_corporate_english_dialect: "Corporate English"
+ mdm_scientific_english_dialect: "Scientific English"
+
+
  #us and canada cultures
 
  mdm_alaskan_culture: "Alaskan"
