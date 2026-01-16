@@ -252383,7 +252383,7 @@ locations = {
    }
    quetico = {
       define_pop = {
-         culture = mdm_northwoods_culture
+         culture = mdm_northerner_culture
          religion = catholic
          size = 0.212
          type = tribesmen
@@ -252391,7 +252391,7 @@ locations = {
    }
    namakan = {
       define_pop = {
-         culture = mdm_northwoods_culture
+         culture = mdm_northerner_culture
          religion = catholic
          size = 0.318
          type = tribesmen
@@ -252399,7 +252399,7 @@ locations = {
    }
    gojijin = {
       define_pop = {
-         culture = mdm_northwoods_culture
+         culture = mdm_northerner_culture
          religion = catholic
          size = 0.425
          type = tribesmen
@@ -252407,7 +252407,7 @@ locations = {
    }
    kakagi = {
       define_pop = {
-         culture = mdm_northwoods_culture
+         culture = mdm_northerner_culture
          religion = catholic
          size = 0.425
          type = tribesmen
@@ -253259,7 +253259,7 @@ locations = {
    }
    rippowam = {
       define_pop = {
-         culture = mdm_new_england_culture
+         culture = mdm_new_york_culture
          religion = catholic
          size = 3.535
          type = tribesmen
@@ -255265,7 +255265,7 @@ locations = {
    }
    pamlico = {
       define_pop = {
-         culture = pamlico_culture
+         culture = mdm_atlantic_southern_culture
          religion = catholic
          size = 0.701
          type = tribesmen

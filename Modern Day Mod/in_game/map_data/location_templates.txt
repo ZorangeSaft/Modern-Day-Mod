@@ -20361,10 +20361,10 @@ croix_lake = { topography = lakes climate = continental}
 basswood_lake = { topography = lakes climate = continental}
 atikwa = { climate = continental culture = mdm_northerner_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
 saganaga = { climate = continental culture = mdm_northerner_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = forest }
-quetico = { climate = continental culture = mdm_northwoods_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
-namakan = { climate = continental culture = mdm_northwoods_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
-gojijin = { climate = continental culture = mdm_northwoods_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
-kakagi = { climate = continental culture = mdm_northwoods_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+quetico = { climate = continental culture = mdm_northerner_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+namakan = { climate = continental culture = mdm_northerner_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
+gojijin = { climate = continental culture = mdm_northerner_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
+kakagi = { climate = continental culture = mdm_northerner_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 wabaseemong = { climate = continental culture = mdm_northerner_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 winnange = { climate = continental culture = mdm_northerner_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = forest }
 wabigoon = { climate = continental culture = mdm_northerner_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
@@ -21003,7 +21003,7 @@ siccanemos = { climate = continental culture = mdm_new_england_culture natural_h
 willimantic = { climate = continental culture = mdm_new_england_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
 nehantuck = { climate = continental culture = mdm_new_england_culture raw_material = stone religion = midewiwin_religion topography = wetlands vegetation = forest }
 quinnipiac = { climate = continental culture = mdm_new_england_culture natural_harbor_suitability = 0.25 raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
-rippowam = { climate = continental culture = mdm_new_england_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+rippowam = { climate = continental culture = mdm_new_york_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
 scatacook = { climate = continental culture = mdm_new_england_culture raw_material = fruit religion = midewiwin_religion topography = hills vegetation = forest }
 winooski = { climate = continental culture = mdm_new_england_culture raw_material = stone religion = midewiwin_religion topography = hills vegetation = forest }
 gwenaska = { climate = continental culture = mdm_new_england_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
@@ -21262,7 +21262,7 @@ pocosin = { climate = subtropical culture = mdm_atlantic_southern_culture raw_ma
 wiccacon = { climate = subtropical culture = mdm_atlantic_southern_culture raw_material = lumber religion = iroquoian_totemism topography = flatland vegetation = forest }
 mattamuskeet_lake = { topography = lakes climate = subtropical}
 phelps_lake = { topography = lakes climate = subtropical}
-pamlico = { topography = wetlands vegetation = forest climate = subtropical religion = midewiwin_religion culture = pamlico_culture raw_material = fish natural_harbor_suitability = 0.00}
+pamlico = { climate = subtropical culture = mdm_atlantic_southern_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = forest }
 coree = { climate = subtropical culture = mdm_atlantic_southern_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = forest }
 corani = { climate = subtropical culture = mdm_atlantic_southern_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = forest }
 neuse = { climate = subtropical culture = mdm_atlantic_southern_culture raw_material = cotton religion = midewiwin_religion topography = wetlands vegetation = forest }

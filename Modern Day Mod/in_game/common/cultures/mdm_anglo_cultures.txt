@@ -242,7 +242,7 @@ mdm_alaskan_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_cascadian_group
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group
 	}
 }
 
@@ -980,7 +980,7 @@ mdm_acadian_culture = {
 }
 
 mdm_maritimes_culture = { #temporary name
-	language = mdm_canadian_dialect
+	language = mdm_maritimes_dialect
 	
 	color = rgb {0 104 97}
 	
@@ -996,7 +996,7 @@ mdm_maritimes_culture = { #temporary name
 }
 
 mdm_new_foundland_and_labrador_culture = { #temporary name
-	language = mdm_canadian_dialect
+	language = mdm_maritimes_dialect
 	
 	color = rgb {204 50 52}
 	
