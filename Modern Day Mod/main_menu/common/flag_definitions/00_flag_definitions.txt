@@ -3264,6 +3264,13 @@ MAK = { # Makuria
 	}
 }
 
+MARS = { # mdm modern day mod Marshall Islands
+	flag_definition = {
+		coa = mdm_MARS
+		priority = 1
+	}
+}
+
 MART = { # mdm modern day mod Mauritius
 	flag_definition = {
 		coa = mdm_MART
