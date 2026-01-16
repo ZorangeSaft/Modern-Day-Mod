@@ -2811,6 +2811,13 @@ KIE = { # Kiev
 	}		
 }
 
+KIRI = { # mdm modern day mod Kiribati
+	flag_definition = {
+		coa = mdm_KIRI
+		priority = 1
+	}
+}
+
 KHM = { # mdm modern day mod Cambodia
 	flag_definition = {
 		coa = mdm_KHM
