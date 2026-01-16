@@ -5008,6 +5008,13 @@ SAL = { # Saluzzo
 	}
 }
 
+SAM = { # mdm modern day mod Samoa
+	flag_definition = {
+		coa = mdm_SAM
+		priority = 1
+	}
+}
+
 SAR = { # Sardinia
 	flag_definition = {
 		coa = SAR
