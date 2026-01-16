@@ -947,6 +947,22 @@ mdm_quebec_culture = {
 	}
 }
 
+mdm_quebec_boreal_culture = {
+	language = french_language #todo: add quebec dialect (neccesary)
+	
+	color = rgb {49 78 91} #2 parts quebec blue, 3 parts boreal green
+	
+	tags = { western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_canadian_group mdm_francophone_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
+	}
+}
+
 mdm_acadian_culture = {
 	language = french_language #todo: add quebec dialect (neccesary)
 	

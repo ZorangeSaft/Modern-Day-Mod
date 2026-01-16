@@ -51,11 +51,11 @@ ikela = { topography = flatland vegetation = jungle climate = tropical religion 
 walikale = { topography = flatland vegetation = jungle climate = tropical religion = ngbandi_religion culture = ngbandi_culture raw_material = gold_ore}
 tsabong = { topography = hills vegetation = grasslands climate = arid religion = kaggen_religion culture = n_ng_culture raw_material = gems}
 werda = { topography = hills vegetation = grasslands climate = arid religion = kaggen_religion culture = n_ng_culture raw_material = sand}
-qamanituaq = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = gold_ore}
+qamanituaq = { climate = arctic culture = mdm_boreal_culture raw_material = gold_ore religion = inuit_religion topography = flatland vegetation = sparse }
 sagvaaniqtuuq = { climate = arctic culture = mdm_alaskan_culture raw_material = fish religion = inuit_religion topography = flatland vegetation = sparse }
 ulguniq = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inupiaq_culture raw_material = fish natural_harbor_suitability = 0.00}
 utqiagvik_et = { topography = wetlands vegetation = sparse climate = arctic religion = inuit_religion culture = inupiaq_culture raw_material = fish natural_harbor_suitability = 0.00}
-iqaluktuuttiaq = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuinnait_culture raw_material = fish natural_harbor_suitability = 0.00}
+iqaluktuuttiaq = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = inuit_religion topography = flatland vegetation = sparse }
 ox_te_tuun = { topography = plateau vegetation = jungle climate = tropical religion = mayan culture = kowoj_culture raw_material = dyes}
 siaan_kaan = { topography = plateau vegetation = jungle climate = tropical religion = mayan culture = itza_culture raw_material = lumber}
 atabapo = { topography = wetlands vegetation = jungle climate = tropical religion = yopo_religion culture = guahibo_culture raw_material = medicaments}#rubber
@@ -19819,9 +19819,9 @@ mingan = { climate = continental culture = mdm_quebec_culture raw_material = fis
 pigou = { climate = arctic culture = mdm_quebec_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
 aguanish = { climate = continental culture = mdm_quebec_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
 natashquan = { climate = continental culture = mdm_quebec_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
-manapakuaniskau = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = wild_game}
-uanaman = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = lumber}
-upuahpukau = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = wild_game}
+manapakuaniskau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+uanaman = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
+upuahpukau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = forest }
 magpie_massif = { topography = hills vegetation = forest climate = arctic}
 notiskuan = { climate = continental culture = mdm_quebec_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 anticosti = { climate = arctic culture = mdm_quebec_culture raw_material = fish religion = midewiwin_religion topography = flatland vegetation = forest }
@@ -19832,48 +19832,48 @@ coacoachou = { climate = arctic culture = mdm_new_foundland_and_labrador_culture
 napetipi = { climate = arctic culture = mdm_new_foundland_and_labrador_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
 mecatina_hills = { topography = hills_wasteland vegetation = forest climate = arctic}
 uashat = { climate = arctic culture = mdm_quebec_culture natural_harbor_suitability = 1.00 raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
-nipisso = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = wild_game}
-nipissis = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = lumber}
-caopacho = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = wild_game}
-opocopa = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = lumber}
+nipisso = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = hills vegetation = forest }
+nipissis = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
+caopacho = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = forest }
+opocopa = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = forest }
 mistecapiu = { climate = arctic culture = mdm_quebec_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
 sainte_marguerite_plateau = { topography = hills_wasteland vegetation = forest climate = arctic}
 ouiauirabugu = { climate = arctic culture = mdm_quebec_culture raw_material = fish religion = midewiwin_religion topography = hills vegetation = forest }
-toulnustouc = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = lumber}
-capotigamau = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = wild_game}
-manicouagan = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = lumber}
-mouchalagane = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = fur}
-kapuameut = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = fur}
+toulnustouc = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
+capotigamau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = hills vegetation = forest }
+manicouagan = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
+mouchalagane = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = hills vegetation = forest }
+kapuameut = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = forest }
 piletisipuk = { climate = continental culture = mdm_quebec_culture raw_material = fur religion = midewiwin_religion topography = hills vegetation = forest }
 manicouagan_plateau = { topography = hills_wasteland vegetation = forest climate = arctic}
 manicouagan_depression = { topography = hills_wasteland vegetation = forest climate = arctic}
 lake_manicouagan = { topography = lakes climate = arctic}
 lake_mouchalagane = { topography = lakes climate = arctic}
 pessamit = { climate = continental culture = mdm_quebec_culture raw_material = fur religion = midewiwin_religion topography = hills vegetation = forest }
-betsiamites = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = wild_game}
-pipmuacan = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = lumber}
-itomamo = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = fur}
-kitchesatsiou = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = wild_game}
-manouanis = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = lumber}
-tetepisca = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = wild_game}
+betsiamites = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = hills vegetation = forest }
+pipmuacan = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
+itomamo = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = forest }
+kitchesatsiou = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = forest }
+manouanis = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
+tetepisca = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = hills vegetation = forest }
 essipit = { climate = continental culture = mdm_quebec_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
-manouane = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = medicaments}
+manouane = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = medicaments religion = midewiwin_religion topography = plateau vegetation = forest }
 manouanis_massif = { topography = hills_wasteland vegetation = forest climate = arctic}
 lake_pipmuacan = { topography = lakes climate = arctic}
-chicoutimi = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilnu_culture raw_material = fur}
-shipshaw = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = maisouna_culture raw_material = medicaments}
-onatchiway = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = fur}
+chicoutimi = { climate = continental culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+shipshaw = { climate = continental culture = mdm_quebec_boreal_culture raw_material = medicaments religion = midewiwin_religion topography = flatland vegetation = forest }
+onatchiway = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = forest }
 outapimiskou = { climate = continental culture = mdm_quebec_culture raw_material = wild_game religion = midewiwin_religion topography = hills vegetation = forest }
-metabetchouane = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilnu_culture raw_material = fur}
+metabetchouane = { climate = continental culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 valin_mountains = { topography = hills_wasteland vegetation = forest climate = arctic}
 tadoussac = { climate = continental culture = mdm_quebec_culture raw_material = fish religion = midewiwin_religion topography = hills vegetation = forest }
-opiticiwan = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = atikamekw_culture raw_material = fur}
-oskelaneo = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = atikamekw_culture raw_material = lumber}
-minkaniciciw = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = atikamekw_culture raw_material = fur}
-wemotaci = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = atikamekw_culture raw_material = fur}
-maskotci = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = atikamekw_culture raw_material = lumber}
+opiticiwan = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+oskelaneo = { climate = continental culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+minkaniciciw = { climate = continental culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = forest }
+wemotaci = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = forest }
+maskotci = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = forest }
 metabeskega = { climate = continental culture = mdm_quebec_culture raw_material = medicaments religion = midewiwin_religion topography = plateau vegetation = forest }
-kokokachi = { topography = hills vegetation = forest climate = continental religion = midewiwin_religion culture = atikamekw_culture raw_material = fur}
+kokokachi = { climate = continental culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = hills vegetation = forest }
 cikakw_sipi = { climate = continental culture = mdm_quebec_culture raw_material = wild_game religion = midewiwin_religion topography = hills vegetation = forest }
 kiskissink = { climate = continental culture = mdm_quebec_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
 wayagamac = { climate = continental culture = mdm_quebec_culture raw_material = fur religion = midewiwin_religion topography = hills vegetation = forest }
@@ -19890,8 +19890,8 @@ temiscamingue = { climate = continental culture = mdm_quebec_culture raw_materia
 maganasipi = { climate = continental culture = mdm_quebec_culture raw_material = fur religion = midewiwin_religion topography = hills vegetation = forest }
 kippawa = { climate = continental culture = mdm_quebec_culture raw_material = wild_game religion = midewiwin_religion topography = hills vegetation = forest }
 winneway = { climate = continental culture = mdm_quebec_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
-kinojevis = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = abitibi_culture raw_material = fur}
-osisko = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = abitibi_culture raw_material = medicaments}
+kinojevis = { climate = continental culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+osisko = { climate = continental culture = mdm_quebec_boreal_culture raw_material = medicaments religion = midewiwin_religion topography = flatland vegetation = forest }
 kitcisakik = { climate = continental culture = mdm_quebec_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
 kakibonga = { climate = continental culture = mdm_quebec_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 cawassiemica = { climate = continental culture = mdm_quebec_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
@@ -19901,21 +19901,21 @@ dumoine_plateau = { topography = plateau_wasteland vegetation = forest climate =
 lake_temiscamingue = { topography = lakes climate = continental}
 quinze_lake = { topography = lakes climate = continental}
 preissac_lake = { topography = lakes climate = continental}
-mistassibi = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = ilnu_culture raw_material = wild_game}
-samaqua = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = fur}
-ouasimesca = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = wild_game}
-nestaocano = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = wild_game}
-tchitogama = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = lumber}
-peribonka = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = wild_game}
-onistagane = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = lumber}
-machisque = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = wild_game}
+mistassibi = { climate = continental culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
+samaqua = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+ouasimesca = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+nestaocano = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+tchitogama = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
+peribonka = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = forest }
+onistagane = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = forest }
+machisque = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = forest }
 eastern_peribonka_hills = { topography = hills_wasteland vegetation = forest climate = arctic}
 peribonka_hills = { topography = hills_wasteland vegetation = forest climate = arctic}
-ashuapmushuan = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilnu_culture raw_material = wild_game}
-kanishushteu = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = lumber}
-chigoubiche = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = wild_game}
-nicabau = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = ilnu_culture raw_material = wild_game}
-ouiatchouaniche = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilnu_culture raw_material = wild_game}
+ashuapmushuan = { climate = continental culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+kanishushteu = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+chigoubiche = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+nicabau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+ouiatchouaniche = { climate = continental culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
 ashuapmushuan_hills = { topography = hills_wasteland vegetation = forest climate = arctic}
 lake_saint_jean = { topography = lakes climate = continental}
 wigwomadensis = { climate = continental culture = mdm_quebec_culture raw_material = wild_game religion = iroquoian_totemism topography = flatland vegetation = woods }
@@ -19959,82 +19959,82 @@ okaisipi = { climate = continental culture = mdm_quebec_culture raw_material = f
 quyon = { climate = continental culture = mdm_quebec_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 nichabau = { climate = continental culture = mdm_quebec_culture raw_material = fur religion = midewiwin_religion topography = hills vegetation = forest }
 malartic_lake = { topography = lakes climate = continental}
-malartic = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = abitibi_culture raw_material = wild_game}
-wasakin = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = abitibi_culture raw_material = wild_game}
-chicobi = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = abitibi_culture raw_material = wild_game}
-harricana = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = abitibi_culture raw_material = wild_game}
-obaska = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = abitibi_culture raw_material = lumber}
-megiscane = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = abitibi_culture raw_material = wild_game}
+malartic = { climate = continental culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+wasakin = { climate = continental culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+chicobi = { climate = continental culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+harricana = { climate = continental culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+obaska = { climate = continental culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+megiscane = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
 matagami_depression = { topography = flatland_wasteland vegetation = forest climate = arctic}
 matagami_lake = { topography = lakes climate = arctic}
 waswanipi_lake = { topography = lakes climate = arctic}
 poncheville_lake = { topography = lakes climate = arctic}
-opawica = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = lumber}
-opemisca = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = fur}
-waswanipi = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = fur}
-maicasagi = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = lumber}
-soscumica = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = wild_game}
-nottaway = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = wild_game}
-missicabi = { topography = wetlands vegetation = sparse climate = continental religion = midewiwin_religion culture = iyiniyu_culture raw_material = wild_game natural_harbor_suitability = 0.00}
-waskaganish = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = fur natural_harbor_suitability = 0.00}
-kaipeshimushich = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = wild_game}
-nemasca = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = fur}
-kapitukamach = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = wild_game}
-kauakiekamatsh = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = medicaments}
-natastan = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = wild_game}
-nistam = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = lumber}
-kamashikamach = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = wild_game}
-ouagama = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = fur}
+opawica = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+opemisca = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+waswanipi = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+maicasagi = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+soscumica = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+nottaway = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
+missicabi = { climate = continental culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = sparse }
+waskaganish = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = sparse }
+kaipeshimushich = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
+nemasca = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+kapitukamach = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+kauakiekamatsh = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = medicaments religion = midewiwin_religion topography = flatland vegetation = forest }
+natastan = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+nistam = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
+kamashikamach = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+ouagama = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 rupert_plateau = { topography = flatland vegetation = forest climate = arctic}
 lake_evans = { topography = lakes climate = arctic}
-mistissini = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = fur}
-cawachagamite = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = wild_game}
-shipastouk = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = lumber}
-mistassiniish = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = fur}
-chibougamau = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = fur}
-temiscamie = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = lumber}
+mistissini = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+cawachagamite = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+shipastouk = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+mistassiniish = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+chibougamau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+temiscamie = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = forest }
 mistassini_hills = { topography = hills_wasteland vegetation = forest climate = arctic}
 lake_chibougamau = { topography = lakes climate = arctic}
 lake_mistassini = { topography = lakes climate = arctic}
 lake_albanel = { topography = lakes climate = arctic}
-pitchibourenik = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = fur natural_harbor_suitability = 0.00}
-caisaboscai = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = lumber}
-chistamikap = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = wild_game}
-nasacauso = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = lumber}
-neoskweskau = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = fur}
-cauouatstacau = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = lumber}
+pitchibourenik = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = sparse }
+caisaboscai = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+chistamikap = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+nasacauso = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+neoskweskau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+cauouatstacau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
 eastmain_hills = { topography = hills_wasteland vegetation = forest climate = arctic}
-mistimakan = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = fish natural_harbor_suitability = 0.00}
-chisasibi = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = fur natural_harbor_suitability = 0.00}
-maquatua = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = wild_game natural_harbor_suitability = 0.00}
-atikuan = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = fish natural_harbor_suitability = 0.00}
+mistimakan = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = midewiwin_religion topography = flatland vegetation = sparse }
+chisasibi = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = sparse }
+maquatua = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = sparse }
+atikuan = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = midewiwin_religion topography = flatland vegetation = sparse }
 la_grande_hills = { topography = hills_wasteland vegetation = sparse climate = arctic}
 lake_sakami = { topography = lakes climate = arctic}
-nichicun = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = wild_game}
-misask = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = wild_game}
-wahemen = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = lumber}
-naococane = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = wild_game}
+nichicun = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = forest }
+misask = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+wahemen = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = forest }
+naococane = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = forest }
 otish_mountains = { topography = hills_wasteland vegetation = forest climate = arctic}
 lake_nichicun = { topography = lakes climate = arctic}
 lake_naococane = { topography = lakes climate = arctic}
-kuujjuarapik = { topography = flatland vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = wild_game natural_harbor_suitability = 0.00}
-qingaaluk = { topography = hills vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fur natural_harbor_suitability = 0.00}
-tupialuviniq = { topography = flatland vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fur natural_harbor_suitability = 0.00}
-wiyashakimi = { topography = wetlands vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = wild_game}
-nastapoka = { topography = wetlands vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = wild_game}
+kuujjuarapik = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = totemism topography = flatland vegetation = sparse }
+qingaaluk = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = totemism topography = hills vegetation = sparse }
+tupialuviniq = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = totemism topography = flatland vegetation = sparse }
+wiyashakimi = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = totemism topography = wetlands vegetation = sparse }
+nastapoka = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = totemism topography = wetlands vegetation = sparse }
 great_whale_plateau = { topography = plateau_wasteland vegetation = sparse climate = arctic}
 lake_bienville = { topography = lakes climate = arctic}
 lake_tasiujaq = { topography = lakes climate = arctic}
 lake_wiyashakami = { topography = lakes climate = arctic}
 seal_lake = { topography = lakes climate = arctic}
-kuujjuaq = { topography = flatland vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fish natural_harbor_suitability = 0.00}
-kuuvik = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-natuak = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-kasuswapaskau = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-koskoak = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = fur}
+kuujjuaq = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = totemism topography = flatland vegetation = sparse }
+kuuvik = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = sparse }
+natuak = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = sparse }
+kasuswapaskau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = sparse }
+koskoak = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = sparse }
 ungava_peninsula = { topography = plateau_wasteland vegetation = sparse climate = arctic}
 larch_plateau = { topography = plateau_wasteland vegetation = sparse climate = arctic}
-sanikiluaq = { topography = wetlands vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fish natural_harbor_suitability = 0.00}
+sanikiluaq = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = totemism topography = wetlands vegetation = sparse }
 southampton_island = { topography = plateau_wasteland vegetation = sparse climate = arctic}
 amadjuak_lake = { topography = lakes climate = arctic}
 lake_minto = { topography = lakes climate = arctic}
@@ -20046,49 +20046,49 @@ kimmirut = { topography = flatland vegetation = sparse climate = arctic religion
 amadjuak = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = fish natural_harbor_suitability = 0.00}
 kinngait = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = fish natural_harbor_suitability = 0.00}
 baffin_island = { topography = plateau_wasteland vegetation = sparse climate = arctic}
-caniapiscau = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = fur}
-kasakaupuyau = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-wayustikw = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-mistanipi = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-chipisipi = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-katataskatikw = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-misinichikw = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-otelnuk = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = fur}
-kawachisakau = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = fur}
-kawachikamasu = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = fur}
-enchukamao = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = lumber}
+caniapiscau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = sparse }
+kasakaupuyau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = sparse }
+wayustikw = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = sparse }
+mistanipi = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = sparse }
+chipisipi = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = sparse }
+katataskatikw = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = sparse }
+misinichikw = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = sparse }
+otelnuk = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = sparse }
+kawachisakau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = sparse }
+kawachikamasu = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = sparse }
+enchukamao = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = forest }
 caniapiscau_plateau = { topography = hills_wasteland vegetation = sparse climate = arctic}
 opiscoteo_hills = { topography = hills_wasteland vegetation = forest climate = arctic}
 lake_caniapiscau = { topography = lakes climate = arctic}
-qikirtajuaq = { topography = flatland vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fish natural_harbor_suitability = 0.00}
-kamusawawasich = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-kawawasukutisich = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-kaypikupau = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-mistinatwayasu = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-kamiskayachuuch = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-qurlutuq = { topography = flatland vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fish natural_harbor_suitability = 0.00}
+qikirtajuaq = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = totemism topography = flatland vegetation = sparse }
+kamusawawasich = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = sparse }
+kawawasukutisich = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = sparse }
+kaypikupau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = sparse }
+mistinatwayasu = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = sparse }
+kamiskayachuuch = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = sparse }
+qurlutuq = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = totemism topography = flatland vegetation = sparse }
 labrador_hills = { topography = plateau_wasteland vegetation = sparse climate = arctic}
 whale_lowlands = { topography = plateau_wasteland vegetation = sparse climate = arctic}
-kangiqsualujjuaq = { topography = flatland vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fur natural_harbor_suitability = 0.00}
-imaapik = { topography = hills vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-siimitalik = { topography = hills vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-uashekanau = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = fur}
-mistinatuakamau = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = fur}
-mushuau = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-kausseskait = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-tupirvialuit = { topography = hills vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fish natural_harbor_suitability = 0.00}
-koroc = { topography = mountains vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = wild_game}
+kangiqsualujjuaq = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = totemism topography = flatland vegetation = sparse }
+imaapik = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = hills vegetation = sparse }
+siimitalik = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = hills vegetation = sparse }
+uashekanau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = sparse }
+mistinatuakamau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = sparse }
+mushuau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = sparse }
+kausseskait = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = sparse }
+tupirvialuit = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = totemism topography = hills vegetation = sparse }
+koroc = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = totemism topography = mountains vegetation = sparse }
 quebec_torngats = { topography = mountain_wasteland vegetation = sparse climate = arctic}
 george_river_plateau = { topography = plateau_wasteland vegetation = sparse climate = arctic}
-nunainguk = { topography = hills vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fish natural_harbor_suitability = 0.00}
-navchak = { topography = mountains vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fish natural_harbor_suitability = 0.00}
-kingmirtok = { topography = hills vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fish natural_harbor_suitability = 0.00}
-napaktok = { topography = hills vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = wild_game natural_harbor_suitability = 0.00}
-okak = { topography = hills vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fish natural_harbor_suitability = 0.00}
-aulatsivik = { topography = hills vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fish natural_harbor_suitability = 0.00}
-ukasikalik = { topography = hills vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = wild_game natural_harbor_suitability = 0.00}
-agvituk = { topography = flatland vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = fish natural_harbor_suitability = 0.00}
-kaipokok = { topography = flatland vegetation = sparse climate = arctic religion = totemism culture = dorset_culture raw_material = wild_game natural_harbor_suitability = 0.00}
+nunainguk = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = totemism topography = hills vegetation = sparse }
+navchak = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = totemism topography = mountains vegetation = sparse }
+kingmirtok = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = totemism topography = hills vegetation = sparse }
+napaktok = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = totemism topography = hills vegetation = sparse }
+okak = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = totemism topography = hills vegetation = sparse }
+aulatsivik = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = totemism topography = hills vegetation = sparse }
+ukasikalik = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = totemism topography = hills vegetation = sparse }
+agvituk = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = totemism topography = flatland vegetation = sparse }
+kaipokok = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = totemism topography = flatland vegetation = sparse }
 aillik = { climate = arctic culture = mdm_new_foundland_and_labrador_culture raw_material = fur religion = totemism topography = hills vegetation = sparse }
 tessuialluk = { climate = arctic culture = mdm_new_foundland_and_labrador_culture raw_material = fur religion = totemism topography = flatland vegetation = forest }
 torngat_mountains = { topography = mountain_wasteland vegetation = sparse climate = arctic}
@@ -20097,27 +20097,27 @@ tikigaksuagusik = { climate = arctic culture = mdm_new_foundland_and_labrador_cu
 aivitok = { climate = arctic culture = mdm_new_foundland_and_labrador_culture raw_material = fish religion = midewiwin_religion topography = hills vegetation = forest }
 kenamu = { climate = arctic culture = mdm_new_foundland_and_labrador_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
 sheshatshiu = { climate = arctic culture = mdm_new_foundland_and_labrador_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
-kauipushkakamat = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = lumber}
-kamassekutinat = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = wild_game}
+kauipushkakamat = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+kamassekutinat = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = hills vegetation = forest }
 labrador_highlands = { topography = hills_wasteland vegetation = sparse climate = arctic}
 hamilton_inlet = { topography = lakes climate = arctic}
 grand_lake = { topography = lakes climate = arctic}
-shabogamo = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = fur}
-ashuanipi = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = fur}
-kepimits = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = wild_game}
-muhaukamau = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = medicaments}
-atikonak = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = lumber}
-kamassekuakamat = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = wild_game}
-nipissu = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = wild_game}
-winokapau = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = fur}
+shabogamo = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = forest }
+ashuanipi = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
+kepimits = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
+muhaukamau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = medicaments religion = midewiwin_religion topography = plateau vegetation = forest }
+atikonak = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = forest }
+kamassekuakamat = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = forest }
+nipissu = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+winokapau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 mecatina_plateau = { topography = hills_wasteland vegetation = forest climate = arctic}
 ashuanipi_lake = { topography = lakes climate = arctic}
 shabogamo_lake = { topography = lakes climate = arctic}
-mishikamau = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = fur}
-menutinau = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = innu_culture raw_material = fur}
-ushkau_nipi = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
-attikamagen = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = fur}
-petitsikapau = { topography = plateau vegetation = sparse climate = arctic religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
+mishikamau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = sparse }
+menutinau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = sparse }
+ushkau_nipi = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = sparse }
+attikamagen = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = sparse }
+petitsikapau = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = sparse }
 hamilton_highlands = { topography = hills_wasteland vegetation = forest climate = arctic}
 attikamagen_lake = { topography = lakes climate = arctic}
 lake_petitsikapau = { topography = lakes climate = arctic}
@@ -20294,144 +20294,144 @@ cognashene = { climate = continental culture = mdm_ontario_culture raw_material 
 kahshe = { climate = continental culture = mdm_ontario_culture raw_material = fur religion = iroquoian_totemism topography = flatland vegetation = forest }
 magnetawan = { climate = continental culture = mdm_ontario_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
 opeongo_hills = { topography = hills_wasteland vegetation = forest climate = continental}
-nosbonsing = { topography = hills vegetation = forest climate = continental religion = midewiwin_religion culture = nipissing_culture raw_material = fur}
-nipissing = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = nipissing_culture raw_material = fur}
+nosbonsing = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = hills vegetation = forest }
+nipissing = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 powassan = { climate = continental culture = mdm_ontario_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
 memesagamesing = { climate = continental culture = mdm_ontario_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
-nemag = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = nipissing_culture raw_material = wild_game}
+nemag = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
 lake_nipissing = { topography = lakes climate = continental}
-wanapitei = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = nipissing_culture raw_material = fur}
-onaping = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = nipissing_culture raw_material = wild_game}
-pogamasing = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = ojibwe_culture raw_material = lumber}
-temagami = { topography = hills vegetation = forest climate = continental religion = midewiwin_religion culture = nipissing_culture raw_material = lumber}
+wanapitei = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+onaping = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = forest }
+pogamasing = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = forest }
+temagami = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
 ishpatina_ridge = { topography = plateau_wasteland vegetation = forest climate = continental}
 wanapitei_lake = { topography = lakes climate = continental}
-manitoulin = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = odawa_culture raw_material = fish natural_harbor_suitability = 0.00}
-wemitigoj = { topography = hills vegetation = forest climate = continental religion = midewiwin_religion culture = missisage_culture raw_material = fur natural_harbor_suitability = 0.00}
-eskimanetigon = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ojibwe_culture raw_material = fur natural_harbor_suitability = 0.00}
-mississagi = { topography = hills vegetation = forest climate = continental religion = midewiwin_religion culture = ojibwe_culture raw_material = fur natural_harbor_suitability = 0.00}
-matabichuan = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = timiscaming_culture raw_material = fur}
-matachewan = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = timiscaming_culture raw_material = fur}
-sessekinika = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = abitibi_culture raw_material = lumber}
+manitoulin = { climate = continental culture = mdm_boreal_culture raw_material = fish religion = midewiwin_religion topography = flatland vegetation = forest }
+wemitigoj = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = hills vegetation = forest }
+eskimanetigon = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+mississagi = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = hills vegetation = forest }
+matabichuan = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+matachewan = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+sessekinika = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
 mattawa = { climate = continental culture = mdm_quebec_culture raw_material = medicaments religion = midewiwin_religion topography = hills vegetation = forest }
-opimika = { topography = hills vegetation = forest climate = continental religion = midewiwin_religion culture = nipissing_culture raw_material = wild_game}
-baawitigong = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ojibwe_culture raw_material = fur natural_harbor_suitability = 0.50}
-batchawana = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = ojibwe_culture raw_material = fur natural_harbor_suitability = 0.00}
-michipicoten = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = nakawe_culture raw_material = fur natural_harbor_suitability = 0.00}
-agawa_superior = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = ojibwe_culture raw_material = fish natural_harbor_suitability = 0.00}
-manitowik = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = nakawe_culture raw_material = fur}
-pekatek = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = nakawe_culture raw_material = fur natural_harbor_suitability = 0.00}
-aguasabon = { topography = hills vegetation = forest climate = continental religion = midewiwin_religion culture = nakawe_culture raw_material = medicaments natural_harbor_suitability = 0.00}
+opimika = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = hills vegetation = forest }
+baawitigong = { climate = continental culture = mdm_boreal_culture natural_harbor_suitability = 0.50 raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+batchawana = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = forest }
+michipicoten = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = forest }
+agawa_superior = { climate = continental culture = mdm_boreal_culture raw_material = fish religion = midewiwin_religion topography = plateau vegetation = forest }
+manitowik = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+pekatek = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = forest }
+aguasabon = { climate = continental culture = mdm_boreal_culture raw_material = medicaments religion = midewiwin_religion topography = hills vegetation = forest }
 wawa_uplands = { topography = hills_wasteland vegetation = forest climate = continental}
 penokean_hills = { topography = hills_wasteland vegetation = forest climate = continental}
-nipigon = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = nakawe_culture raw_material = fur natural_harbor_suitability = 0.00}
-namewaminikan = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = lumber}
-ombabika = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = fur}
-wabinosh = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = wild_game}
-kaitotikwia = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = wild_game}
+nipigon = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+namewaminikan = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+ombabika = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+wabinosh = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+kaitotikwia = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
 onaman_lake = { topography = lakes climate = arctic}
 lake_nipigon = { topography = lakes climate = continental}
-kaministiquia = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = nakawe_culture raw_material = lumber natural_harbor_suitability = 0.00}
-kakabeka = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = nakawe_culture raw_material = copper_ore}
-neebing = { topography = hills vegetation = forest climate = continental religion = midewiwin_religion culture = nakawe_culture raw_material = copper_ore natural_harbor_suitability = 0.00}
-minong = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = nakawe_culture raw_material = fur natural_harbor_suitability = 0.00}
-kapuskasing = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = wild_game}
-missinaibi = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = fur}
-nemegosenda = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = lumber}
-otapingshewee = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = fur}
-tionaga = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = fur}
-wakusimi = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = lumber}
-mattawishkwia = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = wild_game}
+kaministiquia = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = forest }
+kakabeka = { climate = continental culture = mdm_boreal_culture raw_material = copper_ore religion = midewiwin_religion topography = plateau vegetation = forest }
+neebing = { climate = continental culture = mdm_boreal_culture raw_material = copper_ore religion = midewiwin_religion topography = hills vegetation = forest }
+minong = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = hills vegetation = forest }
+kapuskasing = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+missinaibi = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+nemegosenda = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+otapingshewee = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+tionaga = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+wakusimi = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+mattawishkwia = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
 nemegosenda_uplands = { topography = plateau_wasteland vegetation = forest climate = continental}
-kenogamissi = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = abitibi_culture raw_material = lumber}
-mattagami = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = nipissing_culture raw_material = wild_game}
-buskegau = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = fur}
-mistango = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = abitibi_culture raw_material = fur}
-nahma = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = fur}
-piscoutagami = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = abitibi_culture raw_material = fur}
-mattawasaga = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = abitibi_culture raw_material = fur}
+kenogamissi = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+mattagami = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+buskegau = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+mistango = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+nahma = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+piscoutagami = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+mattawasaga = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 lake_abitibi = { topography = lakes climate = continental}
-nagagami = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = lumber}
-watistiguam = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = fur}
-achikamii = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = wild_game}
-kabinakagami = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = fur}
-pagwachuan = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = wild_game}
-ginoogaming = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = fur}
+nagagami = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+watistiguam = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
+achikamii = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+kabinakagami = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+pagwachuan = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+ginoogaming = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 croix_lake = { topography = lakes climate = continental}
 basswood_lake = { topography = lakes climate = continental}
-atikwa = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = asinikawithini_culture raw_material = fur}
-saganaga = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = nakawe_culture raw_material = wild_game}
+atikwa = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
+saganaga = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = forest }
 quetico = { climate = continental culture = mdm_northwoods_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 namakan = { climate = continental culture = mdm_northwoods_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
 gojijin = { climate = continental culture = mdm_northwoods_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
 kakagi = { climate = continental culture = mdm_northwoods_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
-wabaseemong = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = asinikawithini_culture raw_material = fur}
-winnange = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = innini_culture raw_material = lumber}
-wabigoon = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = innini_culture raw_material = fur}
-obishikokaang = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = innini_culture raw_material = fur}
-waaninaawangang = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = innini_culture raw_material = wild_game}
+wabaseemong = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+winnange = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = forest }
+wabigoon = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+obishikokaang = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
+waaninaawangang = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
 wabigoon_uplands = { topography = hills_wasteland vegetation = forest climate = continental}
 lac_seul = { topography = lakes climate = continental}
 lake_of_the_woods = { topography = lakes climate = continental}
 rainy_lake = { topography = lakes climate = continental}
-ogoki = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = lumber}
-miniss = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = lumber}
-atikokiwam = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = fur}
-matapesatakun = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = fur}
-petawanga = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = lumber}
-pichinamei = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = wild_game}
-makokibatan = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = wild_game}
-kagianagami = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = lumber}
+ogoki = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
+miniss = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = forest }
+atikokiwam = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+matapesatakun = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+petawanga = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+pichinamei = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+makokibatan = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+kagianagami = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
 ogoki_uplands = { topography = hills_wasteland vegetation = forest climate = arctic}
 ogoki_lake = { topography = lakes climate = arctic}
 lake_saint_joseph = { topography = lakes climate = arctic}
-winisk = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = lumber}
-kinusheo = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = fish natural_harbor_suitability = 0.00}
-wabuk = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = wild_game natural_harbor_suitability = 0.00}
-asheweig = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = wild_game}
-tabasokwia = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = wild_game}
-shibogama = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = lumber}
-wapikopa = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = fur}
-wunnumin = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = fur}
-wapitotem = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = lumber}
+winisk = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+kinusheo = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = sparse }
+wabuk = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = sparse }
+asheweig = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
+tabasokwia = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
+shibogama = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+wapikopa = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+wunnumin = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+wapitotem = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
 hudson_bay_lowlands = { topography = flatland_wasteland vegetation = forest climate = arctic}
 winisk_uplands = { topography = hills_wasteland vegetation = forest climate = arctic}
 attawapiskat_lake = { topography = lakes climate = arctic}
 lake_wunnumin = { topography = lakes climate = arctic}
-washeo = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = fur natural_harbor_suitability = 0.00}
-niskibi = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = nehina_culture raw_material = wild_game natural_harbor_suitability = 0.00}
-shagamu = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = fish natural_harbor_suitability = 0.00}
-ministik = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = fish natural_harbor_suitability = 0.00}
+washeo = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = sparse }
+niskibi = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = sparse }
+shagamu = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = sparse }
+ministik = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = sparse }
 severn_uplands = { topography = flatland_wasteland vegetation = forest climate = arctic}
 big_trout_lake = { topography = lakes climate = arctic}
-attawapiskat = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = fur natural_harbor_suitability = 0.00}
-ekwan = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = fish natural_harbor_suitability = 0.00}
-otadaonanis = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = fish natural_harbor_suitability = 0.00}
-patchepawapoka = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = wild_game natural_harbor_suitability = 0.00}
-lakitusaki = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = innini_culture raw_material = fish natural_harbor_suitability = 0.00}
+attawapiskat = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = sparse }
+ekwan = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = sparse }
+otadaonanis = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = sparse }
+patchepawapoka = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = sparse }
+lakitusaki = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = sparse }
 attawapiskat_lowlands = { topography = flatland_wasteland vegetation = forest climate = arctic}
-kashechewan = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = fur natural_harbor_suitability = 0.00}
-wabimeig = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = wild_game}
-mammamattawa = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = lumber}
-wapiskau = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = fish natural_harbor_suitability = 0.00}
-kinosheo = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = wild_game}
-pagashi = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = lumber}
-tchakashapug = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = fur}
+kashechewan = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = sparse }
+wabimeig = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
+mammamattawa = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
+wapiskau = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = sparse }
+kinosheo = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = sparse }
+pagashi = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
+tchakashapug = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
 james_bay_lowlands = { topography = flatland_wasteland vegetation = forest climate = arctic}
 english_river_uplands = { topography = hills_wasteland vegetation = forest climate = arctic}
-moosonee = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = fur natural_harbor_suitability = 0.00}
-abimatinu = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = lumber}
-takwata = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = wild_game}
-wawiyastan = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = lumber}
-kwetabohigan = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = wild_game}
-kagawask = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = lumber}
-mesagami = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = ilili_culture raw_material = wild_game}
-olimisk = { topography = wetlands vegetation = sparse climate = continental religion = midewiwin_religion culture = iyiniyu_culture raw_material = fur natural_harbor_suitability = 0.00}
+moosonee = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = sparse }
+abimatinu = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+takwata = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+wawiyastan = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
+kwetabohigan = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
+kagawask = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
+mesagami = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
+olimisk = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = sparse }
 abitibi_uplands = { topography = flatland_wasteland vegetation = forest climate = continental}
 kesagami_lake = { topography = lakes climate = continental}
-mahnahwoonan = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = iyiyiyu_culture raw_material = fish natural_harbor_suitability = 0.00}
-sivukutaitiarruvik = { topography = flatland vegetation = sparse climate = arctic religion = midewiwin_religion culture = iyiniyu_culture raw_material = fish natural_harbor_suitability = 0.00}
-akimiski = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = ilili_culture raw_material = fish natural_harbor_suitability = 0.00}
+mahnahwoonan = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = midewiwin_religion topography = flatland vegetation = sparse }
+sivukutaitiarruvik = { climate = arctic culture = mdm_quebec_boreal_culture raw_material = fish religion = midewiwin_religion topography = flatland vegetation = sparse }
+akimiski = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = sparse }
 bay_of_quinte = { topography = lakes climate = continental}
 central_lake_ontario = { topography = lakes climate = continental}
 niagara_basin = { topography = lakes climate = continental}
@@ -20720,12 +20720,12 @@ yaquimo = { topography = mountains vegetation = jungle climate = tropical religi
 yaguana = { topography = mountains vegetation = jungle climate = tropical religion = zemi_religion culture = taino_culture raw_material = chili natural_harbor_suitability = 0.00}
 baoruco_mountains = { topography = mountain_wasteland vegetation = jungle climate = tropical}
 neiba_mountains = { topography = mountain_wasteland vegetation = jungle climate = tropical}
-guaynabo = { topography = hills vegetation = jungle climate = tropical religion = zemi_religion culture = taino_culture raw_material = fish natural_harbor_suitability = 1.00}
-guaraca = { topography = hills vegetation = jungle climate = tropical religion = zemi_religion culture = taino_culture raw_material = maize natural_harbor_suitability = 1.00}
-guaynia = { topography = hills vegetation = jungle climate = tropical religion = zemi_religion culture = taino_culture raw_material = salt natural_harbor_suitability = 0.25}
-guama = { topography = hills vegetation = jungle climate = tropical religion = zemi_religion culture = taino_culture raw_material = chili natural_harbor_suitability = 0.00}
-arasibo = { topography = hills vegetation = jungle climate = tropical religion = zemi_religion culture = taino_culture raw_material = copper_ore natural_harbor_suitability = 0.00}
-ayamaco = { topography = hills vegetation = jungle climate = tropical religion = zemi_religion culture = taino_culture raw_material = fruit natural_harbor_suitability = 0.00}
+guaynabo = { climate = tropical culture = mdm_puerto_rican_culture natural_harbor_suitability = 1.00 raw_material = fish religion = zemi_religion topography = hills vegetation = jungle }
+guaraca = { climate = tropical culture = mdm_puerto_rican_culture natural_harbor_suitability = 1.00 raw_material = maize religion = zemi_religion topography = hills vegetation = jungle }
+guaynia = { climate = tropical culture = mdm_puerto_rican_culture natural_harbor_suitability = 0.25 raw_material = salt religion = zemi_religion topography = hills vegetation = jungle }
+guama = { climate = tropical culture = mdm_puerto_rican_culture raw_material = chili religion = zemi_religion topography = hills vegetation = jungle }
+arasibo = { climate = tropical culture = mdm_puerto_rican_culture raw_material = copper_ore religion = zemi_religion topography = hills vegetation = jungle }
+ayamaco = { climate = tropical culture = mdm_puerto_rican_culture raw_material = fruit religion = zemi_religion topography = hills vegetation = jungle }
 west_colorados_archipelago = { topography = inland_sea climate = tropical}
 east_colorados_archipelago = { topography = inland_sea climate = tropical}
 havana_bay = { topography = inland_sea climate = tropical}
@@ -21984,36 +21984,36 @@ minii_yohe = { climate = cold_arid culture = mdm_southern_great_plains_culture r
 wiskapella = { climate = continental culture = mdm_southern_great_plains_culture raw_material = wild_game religion = great_plains_shamanism topography = plateau vegetation = sparse }
 chitolah = { climate = cold_arid culture = mdm_southern_great_plains_culture raw_material = fiber_crops religion = great_plains_shamanism topography = plateau vegetation = sparse }
 nanwacinahaana = { climate = cold_arid culture = mdm_southern_great_plains_culture raw_material = wild_game religion = great_plains_shamanism topography = plateau vegetation = sparse }
-opaskwayak = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = mahmikiwini_culture raw_material = lumber}
-wapisiw_sipihk = { topography = plateau vegetation = forest climate = arctic religion = midewiwin_religion culture = mahmikiwini_culture raw_material = fur}
-winnipegosis = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = mahmikiwini_culture raw_material = lumber}
+opaskwayak = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
+wapisiw_sipihk = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = forest }
+winnipegosis = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
 lake_winnipegosis = { topography = lakes climate = continental}
 swan_lake = { topography = lakes climate = continental}
 red_deer_lake = { topography = lakes climate = continental}
 wazihe = { climate = continental culture = mdm_praire_culture raw_material = maize religion = midewiwin_religion topography = plateau vegetation = sparse }
 minizuahe = { climate = continental culture = mdm_praire_culture raw_material = fiber_crops religion = midewiwin_religion topography = plateau vegetation = grasslands }
-wibazoka_wakpa = { topography = flatland vegetation = grasslands climate = continental religion = midewiwin_religion culture = siksika_culture raw_material = maize}
-minichinas = { topography = flatland vegetation = grasslands climate = continental religion = midewiwin_religion culture = siksika_culture raw_material = fruit}
+wibazoka_wakpa = { climate = continental culture = mdm_boreal_culture raw_material = maize religion = midewiwin_religion topography = flatland vegetation = grasslands }
+minichinas = { climate = continental culture = mdm_boreal_culture raw_material = fruit religion = midewiwin_religion topography = flatland vegetation = grasslands }
 tugaske = { climate = continental culture = mdm_praire_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = grasslands }
 notukeu = { climate = cold_arid culture = mdm_praire_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = sparse }
-miksiw_sipisis = { topography = plateau vegetation = grasslands climate = continental religion = midewiwin_religion culture = siksika_culture raw_material = maize}
+miksiw_sipisis = { climate = continental culture = mdm_boreal_culture raw_material = maize religion = midewiwin_religion topography = plateau vegetation = grasslands }
 kiyiu = { climate = continental culture = mdm_praire_culture raw_material = maize religion = midewiwin_religion topography = plateau vegetation = grasslands }
-manitowi_sakahikanihk = { topography = plateau vegetation = grasslands climate = continental religion = midewiwin_religion culture = siksika_culture raw_material = wild_game}
+manitowi_sakahikanihk = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = grasslands }
 ye_ya_xabine = { climate = cold_arid culture = mdm_praire_culture raw_material = maize religion = midewiwin_religion topography = plateau vegetation = sparse }
-ogiciza_wakpa = { topography = flatland vegetation = grasslands climate = arctic religion = midewiwin_religion culture = matiyinini_culture raw_material = maize}
-pimicaskewyashik = { topography = flatland vegetation = woods climate = arctic religion = midewiwin_religion culture = matiyinini_culture raw_material = maize}
-ceepee = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = matiyinini_culture raw_material = fiber_crops}
-saskatchewan = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = mahmikiwini_culture raw_material = lumber}
-kistapinan = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = mahmikiwini_culture raw_material = fur}
-petaigan = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = mahmikiwini_culture raw_material = wild_game}
+ogiciza_wakpa = { climate = arctic culture = mdm_boreal_culture raw_material = maize religion = midewiwin_religion topography = flatland vegetation = grasslands }
+pimicaskewyashik = { climate = arctic culture = mdm_boreal_culture raw_material = maize religion = midewiwin_religion topography = flatland vegetation = woods }
+ceepee = { climate = continental culture = mdm_boreal_culture raw_material = fiber_crops religion = midewiwin_religion topography = flatland vegetation = woods }
+saskatchewan = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
+kistapinan = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+petaigan = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
 porcupine_hills = { topography = hills_wasteland vegetation = forest climate = arctic}
 notinito_sipiy = { climate = arctic culture = mdm_praire_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = grasslands }
 wetaskiwin = { climate = arctic culture = mdm_praire_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = grasslands }
-amisk = { topography = plateau vegetation = woods climate = arctic religion = midewiwin_religion culture = siksika_culture raw_material = lumber}
-kisiskaciwani_sipiy = { topography = plateau vegetation = woods climate = arctic religion = midewiwin_religion culture = siksika_culture raw_material = fruit}
-amiskwaciwiy = { topography = plateau vegetation = grasslands climate = arctic religion = midewiwin_religion culture = siksika_culture raw_material = fiber_crops}
-titaga = { topography = plateau vegetation = woods climate = arctic religion = midewiwin_religion culture = siksika_culture raw_material = lumber}
-wabamun = { topography = plateau vegetation = woods climate = arctic religion = midewiwin_religion culture = ktunaxa_culture raw_material = lumber}
+amisk = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = woods }
+kisiskaciwani_sipiy = { climate = arctic culture = mdm_boreal_culture raw_material = fruit religion = midewiwin_religion topography = plateau vegetation = woods }
+amiskwaciwiy = { climate = arctic culture = mdm_boreal_culture raw_material = fiber_crops religion = midewiwin_religion topography = plateau vegetation = grasslands }
+titaga = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = woods }
+wabamun = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = plateau vegetation = woods }
 apahtoksipisskan = { climate = continental culture = mdm_praire_culture raw_material = wild_game religion = paiute_shamanism topography = plateau vegetation = grasslands }
 mokowan = { climate = arctic culture = mdm_praire_culture raw_material = fiber_crops religion = paiute_shamanism topography = hills vegetation = grasslands }
 ijathibe_wapta = { climate = arctic culture = mdm_praire_culture raw_material = wild_game religion = paiute_shamanism topography = hills vegetation = grasslands }
@@ -22030,35 +22030,35 @@ michichi = { climate = continental culture = mdm_praire_culture raw_material = w
 wawaskesiw_sipiy = { climate = cold_arid culture = mdm_praire_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = sparse }
 wastina = { climate = continental culture = mdm_praire_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = grasslands }
 shunda = { climate = arctic culture = mdm_praire_culture raw_material = lumber religion = paiute_shamanism topography = hills vegetation = woods }
-pembina_ab = { topography = plateau vegetation = forest climate = arctic religion = dene_shamanism culture = tsuutina_culture raw_material = wild_game}
-ya_kti_ki = { topography = mountains vegetation = forest climate = arctic religion = paiute_shamanism culture = ktunaxa_culture raw_material = fiber_crops}
-apetowun = { topography = hills vegetation = forest climate = arctic religion = dene_shamanism culture = tsuutina_culture raw_material = fur}
-onabeesh = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = mahmikiwini_culture raw_material = fur}
-tootinaowaziibeeng = { topography = plateau vegetation = forest climate = continental religion = midewiwin_religion culture = haaninin_culture raw_material = fur}
-kinosota = { topography = flatland vegetation = woods climate = continental religion = great_plains_shamanism culture = nakoda_culture raw_material = lumber}
+pembina_ab = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = plateau vegetation = forest }
+ya_kti_ki = { climate = arctic culture = mdm_boreal_culture raw_material = fiber_crops religion = paiute_shamanism topography = mountains vegetation = forest }
+apetowun = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = hills vegetation = forest }
+onabeesh = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+tootinaowaziibeeng = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = plateau vegetation = forest }
+kinosota = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = great_plains_shamanism topography = flatland vegetation = woods }
 lake_dauphin = { topography = lakes climate = continental}
 lake_manitoba = { topography = lakes climate = continental}
-kihi = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = haaninin_culture raw_material = lumber}
+kihi = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = woods }
 sihabi = { climate = continental culture = mdm_praire_culture raw_material = fruit religion = midewiwin_religion topography = flatland vegetation = woods }
 sipiweske = { climate = continental culture = mdm_praire_culture raw_material = maize religion = great_plains_shamanism topography = flatland vegetation = grasslands }
 waskada = { climate = continental culture = mdm_praire_culture raw_material = legumes religion = midewiwin_religion topography = flatland vegetation = grasslands }
-winnipeg = { topography = wetlands vegetation = woods climate = continental religion = great_plains_shamanism culture = nakoda_culture raw_material = fur}
+winnipeg = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = great_plains_shamanism topography = wetlands vegetation = woods }
 mnisaton = { climate = continental culture = mdm_praire_culture raw_material = maize religion = great_plains_shamanism topography = flatland vegetation = grasslands }
 mihkwakamiwi_sipiy = { climate = continental culture = mdm_praire_culture raw_material = lumber religion = great_plains_shamanism topography = flatland vegetation = woods }
 pikwedina_sagaomam = { climate = continental culture = mdm_praire_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = woods }
-maskwa = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = asinikawithini_culture raw_material = wild_game}
+maskwa = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
 osukyuze = { climate = continental culture = mdm_praire_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = grasslands }
 hepa = { climate = continental culture = mdm_praire_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = grasslands }
 canuba_wakpa = { climate = continental culture = mdm_praire_culture raw_material = maize religion = midewiwin_religion topography = flatland vegetation = grasslands }
-muskiki = { topography = flatland vegetation = grasslands climate = continental religion = midewiwin_religion culture = siksika_culture raw_material = wild_game}
-kinistino = { topography = flatland vegetation = woods climate = arctic religion = midewiwin_religion culture = siksika_culture raw_material = lumber}
-etomami = { topography = flatland vegetation = woods climate = arctic religion = midewiwin_religion culture = siksika_culture raw_material = medicaments}
-kamsack = { topography = flatland vegetation = woods climate = continental religion = midewiwin_religion culture = haaninin_culture raw_material = maize}
+muskiki = { climate = continental culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = grasslands }
+kinistino = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = woods }
+etomami = { climate = arctic culture = mdm_boreal_culture raw_material = medicaments religion = midewiwin_religion topography = flatland vegetation = woods }
+kamsack = { climate = continental culture = mdm_boreal_culture raw_material = maize religion = midewiwin_religion topography = flatland vegetation = woods }
 quill_lakes = { topography = lakes climate = continental}
 iskwao = { climate = continental culture = mdm_praire_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = grasslands }
 tacehubana = { climate = continental culture = mdm_praire_culture raw_material = maize religion = midewiwin_religion topography = flatland vegetation = grasslands }
 wascana = { climate = continental culture = mdm_praire_culture raw_material = maize religion = midewiwin_religion topography = flatland vegetation = grasslands }
-posakanaciwiy = { topography = plateau vegetation = grasslands climate = arctic religion = midewiwin_religion culture = siksika_culture raw_material = wild_game}
+posakanaciwiy = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = grasslands }
 katepwewi = { climate = continental culture = mdm_praire_culture raw_material = fiber_crops religion = midewiwin_religion topography = flatland vegetation = grasslands }
 assapasca = { climate = continental culture = mdm_praire_culture raw_material = wild_game religion = midewiwin_religion topography = plateau vegetation = sparse }
 old_wives_lake = { topography = lakes climate = continental}
@@ -22078,67 +22078,67 @@ devil_lake = { topography = lakes climate = continental}
 saakak_hukaahaanu = { climate = continental culture = mdm_northern_great_plains_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = grasslands }
 metigoshe = { climate = continental culture = mdm_northern_great_plains_culture raw_material = legumes religion = midewiwin_religion topography = flatland vegetation = grasslands }
 itscheabine = { climate = continental culture = mdm_northern_great_plains_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = grasslands }
-kinosao_sipi = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = asinikawithini_culture raw_material = fur}
-manigotagan = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = asinikawithini_culture raw_material = medicaments}
-atikaki = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = asinikawithini_culture raw_material = lumber}
-mukutawa = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = asinikawithini_culture raw_material = lumber}
+kinosao_sipi = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
+manigotagan = { climate = continental culture = mdm_boreal_culture raw_material = medicaments religion = midewiwin_religion topography = flatland vegetation = forest }
+atikaki = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
+mukutawa = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
 lake_winnipeg = { topography = lakes climate = continental}
 cross_lake = { topography = lakes climate = arctic}
-oceko_sipiy = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = mahmikiwini_culture raw_material = fur}
-mantago = { topography = flatland vegetation = forest climate = continental religion = midewiwin_religion culture = mahmikiwini_culture raw_material = lumber}
-chitek = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = mahmikiwini_culture raw_material = clay}
-kawinaw = { topography = wetlands vegetation = forest climate = continental religion = midewiwin_religion culture = mahmikiwini_culture raw_material = fur}
-mechiso = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = mahmikiwini_culture raw_material = fur}
+oceko_sipiy = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+mantago = { climate = continental culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+chitek = { climate = continental culture = mdm_boreal_culture raw_material = clay religion = midewiwin_religion topography = wetlands vegetation = forest }
+kawinaw = { climate = continental culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
+mechiso = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
 lake_st_martin = { topography = lakes climate = continental}
 cedar_lake = { topography = lakes climate = continental}
-pikwitonei = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = nehina_culture raw_material = fur}
-anipitapiskow = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = nehina_culture raw_material = lumber}
-poskatinak = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = nehina_culture raw_material = wild_game}
+pikwitonei = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = hills vegetation = forest }
+anipitapiskow = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
+poskatinak = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
 silsby_lake_upland = { topography = flatland_wasteland vegetation = forest climate = arctic}
 wekusko_upland = { topography = flatland_wasteland vegetation = forest climate = arctic}
 sipiwesk_lake = { topography = lakes climate = arctic}
 split_lake = { topography = lakes climate = arctic}
 cormorant_lake = { topography = lakes climate = arctic}
 talbot_lake = { topography = lakes climate = arctic}
-nunatonowago = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = nehina_culture raw_material = lumber}
-kanaskipenaski = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = nehina_culture raw_material = wild_game}
-kaministikowak = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = asinikawithini_culture raw_material = fur}
-echimamish = { topography = hills vegetation = forest climate = arctic religion = midewiwin_religion culture = asinikawithini_culture raw_material = lumber}
-eyapaysis = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = asinikawithini_culture raw_material = lumber}
+nunatonowago = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
+kanaskipenaski = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
+kaministikowak = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+echimamish = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = hills vegetation = forest }
+eyapaysis = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = forest }
 lac_seul_upland = { topography = flatland_wasteland vegetation = forest climate = arctic}
 hayes_river_upland = { topography = flatland_wasteland vegetation = forest climate = arctic}
 island_lake = { topography = lakes climate = arctic}
 gods_lake = { topography = lakes climate = arctic}
 molson_lake = { topography = lakes climate = arctic}
 oxford_lake = { topography = lakes climate = arctic}
-numaykoos = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = fur}
-mistutikumak = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = lumber}
-opuskowin = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = wild_game}
-kapuskaywak = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = lumber}
+numaykoos = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
+mistutikumak = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
+opuskowin = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
+kapuskaywak = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
 churchill_river_upland = { topography = flatland_wasteland vegetation = forest climate = arctic}
 granville_lake = { topography = lakes climate = arctic}
 southern_indian_lake = { topography = lakes climate = arctic}
 reindeer_lake_upland = { topography = flatland_wasteland vegetation = forest climate = arctic}
 indian_lake_upland = { topography = flatland_wasteland vegetation = forest climate = arctic}
-shethanei = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = fur}
-tadoule = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = fur}
-kapuskaypachik = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = lumber}
-thlewiaza = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = fur}
-mistahi = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = wild_game}
+shethanei = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
+tadoule = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
+kapuskaypachik = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
+thlewiaza = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = wetlands vegetation = forest }
+mistahi = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = wetlands vegetation = forest }
 seal_river_upland = { topography = flatland_wasteland vegetation = forest climate = arctic}
 nejanilini_uplands = { topography = flatland_wasteland vegetation = forest climate = arctic}
 tadoule_lake = { topography = lakes climate = arctic}
-kamisak = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = nehina_culture raw_material = fish natural_harbor_suitability = 0.00}
-machichi = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = nehina_culture raw_material = fur natural_harbor_suitability = 0.00}
-kichekokotic = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = nehina_culture raw_material = fur natural_harbor_suitability = 0.00}
-sowunusiske = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = nehina_culture raw_material = fur natural_harbor_suitability = 0.00}
-wapusk = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = nehina_culture raw_material = wild_game natural_harbor_suitability = 0.00}
-des_nedhe = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = fish natural_harbor_suitability = 0.00}
-nunalla = { topography = wetlands vegetation = sparse climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = wild_game natural_harbor_suitability = 0.00}
-nueltin = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = lumber}
-tatinnai = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = lumber}
-thaolintoa = { topography = wetlands vegetation = forest climate = arctic religion = inuit_religion culture = inuit_culture raw_material = fur}
-tha_anne = { topography = wetlands vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = fish natural_harbor_suitability = 0.00}
+kamisak = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = sparse }
+machichi = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = sparse }
+kichekokotic = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = sparse }
+sowunusiske = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = sparse }
+wapusk = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = sparse }
+des_nedhe = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = midewiwin_religion topography = wetlands vegetation = sparse }
+nunalla = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = sparse }
+nueltin = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = wetlands vegetation = forest }
+tatinnai = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = wetlands vegetation = forest }
+thaolintoa = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = inuit_religion topography = wetlands vegetation = forest }
+tha_anne = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = inuit_religion topography = wetlands vegetation = sparse }
 kazan_uplands = { topography = plateau_wasteland vegetation = sparse climate = arctic}
 northern_arctic_uplands = { topography = plateau_wasteland vegetation = sparse climate = arctic}
 arctic_archipelago = { topography = plateau_wasteland vegetation = sparse climate = arctic}
@@ -22152,50 +22152,50 @@ lake_nueltin = { topography = lakes climate = arctic}
 baker_lake = { topography = lakes climate = arctic}
 tehek_lake = { topography = lakes climate = arctic}
 lake_kasba = { topography = lakes climate = arctic}
-sakwatamau = { topography = plateau vegetation = forest climate = arctic religion = dene_shamanism culture = tsuutina_culture raw_material = wild_game}
-tawatinaw = { topography = plateau vegetation = forest climate = arctic religion = dene_shamanism culture = tsuutina_culture raw_material = lumber}
-ayahciyiniw_sakahikan = { topography = plateau vegetation = forest climate = arctic religion = dene_shamanism culture = tsuutina_culture raw_material = lumber}
-kamspikihteek = { topography = plateau vegetation = woods climate = arctic religion = dene_shamanism culture = tsuutina_culture raw_material = lumber}
-asiniwaciy = { topography = hills vegetation = forest climate = arctic religion = dene_shamanism culture = tsuutina_culture raw_material = fur}
+sakwatamau = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = plateau vegetation = forest }
+tawatinaw = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = plateau vegetation = forest }
+ayahciyiniw_sakahikan = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = plateau vegetation = forest }
+kamspikihteek = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = plateau vegetation = woods }
+asiniwaciy = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = hills vegetation = forest }
 saddle_hills_2 = { topography = hills_wasteland vegetation = forest climate = arctic}
 lodgepole_uplands = { topography = hills_wasteland vegetation = forest climate = arctic}
 utikuma_uplands = { topography = hills_wasteland vegetation = forest climate = arctic}
 saddle_hills = { topography = hills_wasteland vegetation = forest climate = arctic}
 lesser_slave_lake = { topography = lakes climate = arctic}
-thilane_hot_ine = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = lumber}
-sakawyiniw = { topography = hills vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = fur}
-ot_esh_otchore = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = fur}
+thilane_hot_ine = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = flatland vegetation = forest }
+sakawyiniw = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = hills vegetation = forest }
+ot_esh_otchore = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = forest }
 stony_mountain_uplands = { topography = flatland_wasteland vegetation = forest climate = arctic}
 muskeg_upland = { topography = hills_wasteland vegetation = forest climate = arctic}
 birch_mountains = { topography = hills_wasteland vegetation = forest climate = arctic}
-athabasca = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = wild_game}
-kai_theli_ke_hot_inne = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = fur}
-tethul = { topography = flatland vegetation = forest climate = arctic religion = hussite culture = denesoline_culture raw_material = wild_game}
+athabasca = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = wetlands vegetation = forest }
+kai_theli_ke_hot_inne = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = wetlands vegetation = forest }
+tethul = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = hussite topography = flatland vegetation = forest }
 caribou_mountains = { topography = hills_wasteland vegetation = forest climate = arctic}
 lake_claire = { topography = lakes climate = arctic}
-mikkwa = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = danezaa_culture raw_material = wild_game}
-wabasca = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = danezaa_culture raw_material = fur}
-mushikitee = { topography = flatland vegetation = woods climate = arctic religion = dene_shamanism culture = danezaa_culture raw_material = wild_game}
-ksituan = { topography = plateau vegetation = woods climate = arctic religion = dene_shamanism culture = danezaa_culture raw_material = medicaments}
+mikkwa = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = flatland vegetation = forest }
+wabasca = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = forest }
+mushikitee = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = flatland vegetation = woods }
+ksituan = { climate = arctic culture = mdm_boreal_culture raw_material = medicaments religion = dene_shamanism topography = plateau vegetation = woods }
 buffalo_head_hills = { topography = hills_wasteland vegetation = forest climate = arctic}
 hawk_hills = { topography = hills_wasteland vegetation = forest climate = arctic}
-amisk_sipi = { topography = flatland vegetation = woods climate = arctic religion = midewiwin_religion culture = matiyinini_culture raw_material = lumber}
-amisk_sakahikan = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = matiyinini_culture raw_material = wild_game}
-wawaskesiwisakahikan = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = matiyinini_culture raw_material = fur}
-namew = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = fur}
-kipahigan = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = medicaments}
-mistahi_sakahikan = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = lumber}
-wapiskau_sk = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = wild_game}
-kiheewapiw = { topography = wetlands vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = fur}
+amisk_sipi = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = flatland vegetation = woods }
+amisk_sakahikan = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+wawaskesiwisakahikan = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+namew = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+kipahigan = { climate = arctic culture = mdm_boreal_culture raw_material = medicaments religion = midewiwin_religion topography = flatland vegetation = forest }
+mistahi_sakahikan = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = midewiwin_religion topography = wetlands vegetation = forest }
+wapiskau_sk = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = wetlands vegetation = forest }
+kiheewapiw = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = wetlands vegetation = forest }
 foster_upland = { topography = hills_wasteland vegetation = forest climate = arctic}
 reindeer_lake = { topography = lakes climate = arctic}
 wollaston_lake = { topography = lakes climate = arctic}
 amisk_lake = { topography = lakes climate = arctic}
 lac_la_ronge = { topography = lakes climate = arctic}
-sakitawahk = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = wild_game}
-methye = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = fur}
-missinipi = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = nihithaw_culture raw_material = fur}
-kawatinook = { topography = flatland vegetation = forest climate = arctic religion = midewiwin_religion culture = matiyinini_culture raw_material = fur}
+sakitawahk = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = midewiwin_religion topography = flatland vegetation = forest }
+methye = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = forest }
+missinipi = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
+kawatinook = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = midewiwin_religion topography = flatland vegetation = forest }
 mostoos_upland = { topography = flatland_wasteland vegetation = forest climate = arctic}
 mid_boreal_upland = { topography = flatland_wasteland vegetation = forest climate = arctic}
 deschambault_lake = { topography = lakes climate = arctic}
@@ -22203,25 +22203,25 @@ dore_lake = { topography = lakes climate = arctic}
 montreal_lake = { topography = lakes climate = arctic}
 churchill_lake = { topography = lakes climate = arctic}
 primrose_lake = { topography = lakes climate = arctic}
-gani_koe = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = wild_game}
-tazin = { topography = hills vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = lumber}
-tipinuwak = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = fur}
-misekumaw = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = uranium_ore} #supposed to be McArthur River Uranium Mine, location for that not in game yet
+gani_koe = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = flatland vegetation = forest }
+tazin = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = hills vegetation = forest }
+tipinuwak = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = forest }
+misekumaw = { climate = arctic culture = mdm_boreal_culture raw_material = uranium_ore religion = dene_shamanism topography = flatland vegetation = forest } #supposed to be McArthur River Uranium Mine, location for that not in game yet
 athabasca_plains = { topography = hills_wasteland vegetation = forest climate = arctic}
 cree_lake = { topography = lakes climate = arctic}
 black_lake = { topography = lakes climate = arctic}
 lake_athabasca = { topography = lakes climate = arctic}
 tazin_lake = { topography = lakes climate = arctic}
-klewi = { topography = wetlands vegetation = forest climate = arctic religion = hussite culture = denesoline_culture raw_material = lumber}
-tu_nedhe = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = dehcho_culture raw_material = fur}
-tucho = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = dehcho_culture raw_material = lumber}
-tidee = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = tlicho_culture raw_material = fur}
-kakisa = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = dehcho_culture raw_material = wild_game}
+klewi = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = hussite topography = wetlands vegetation = forest }
+tu_nedhe = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = wetlands vegetation = forest }
+tucho = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = wetlands vegetation = forest }
+tidee = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = wetlands vegetation = forest }
+kakisa = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = wetlands vegetation = forest }
 horn_plateau = { topography = flatland_wasteland vegetation = forest climate = arctic}
-wecho = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = tlicho_culture raw_material = lumber}
-soombak_e = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = tsatsaotine_culture raw_material = fish}
-utsingi = { topography = hills vegetation = forest climate = arctic religion = dene_shamanism culture = tsatsaotine_culture raw_material = lumber}
-kahochella = { topography = hills vegetation = forest climate = arctic religion = dene_shamanism culture = tsatsaotine_culture raw_material = fur}
+wecho = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = flatland vegetation = forest }
+soombak_e = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = dene_shamanism topography = wetlands vegetation = forest }
+utsingi = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = hills vegetation = forest }
+kahochella = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = hills vegetation = forest }
 coppermine_river_upland = { topography = plateau_wasteland vegetation = sparse climate = arctic}
 great_slave_lake = { topography = lakes climate = arctic}
 artillery_lake = { topography = lakes climate = arctic}
@@ -22230,19 +22230,19 @@ contwoyto_lake = { topography = lakes climate = arctic}
 mackay_lake = { topography = lakes climate = arctic}
 point_lake = { topography = lakes climate = arctic}
 lac_de_gras = { topography = lakes climate = arctic}
-thubun = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = lumber}
-tronka_chua = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = lumber}
-tatsan = { topography = hills vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = wild_game}
-nonacho = { topography = hills vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = lumber}
-lutselk_e = { topography = hills vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = fish}
-deskenetlata = { topography = wetlands vegetation = forest climate = arctic religion = hussite culture = denesoline_culture raw_material = wild_game}
-natalkai = { topography = wetlands vegetation = forest climate = arctic religion = hussite culture = denesoline_culture raw_material = wild_game}
+thubun = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = wetlands vegetation = forest }
+tronka_chua = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = wetlands vegetation = forest }
+tatsan = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = hills vegetation = forest }
+nonacho = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = hills vegetation = forest }
+lutselk_e = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = dene_shamanism topography = hills vegetation = forest }
+deskenetlata = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = hussite topography = wetlands vegetation = forest }
+natalkai = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = hussite topography = wetlands vegetation = forest }
 eynard_upland = { topography = flatland_wasteland vegetation = forest climate = arctic}
 nonacho_lake = { topography = lakes climate = arctic}
-thoa = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = lumber}
-dubawnt = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = wild_game}
-abitau = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = fur}
-kasba = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = denesoline_culture raw_material = lumber}
+thoa = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = wetlands vegetation = forest }
+dubawnt = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = wetlands vegetation = forest }
+abitau = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = wetlands vegetation = forest }
+kasba = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = wetlands vegetation = forest }
 thelon_river_upland = { topography = plateau_wasteland vegetation = sparse climate = arctic}
 robins_lake_upland = { topography = flatland_wasteland vegetation = forest climate = arctic}
 wholdaia_lake = { topography = lakes climate = arctic}
@@ -23330,78 +23330,78 @@ gwazhal_hills = { topography = hills_wasteland vegetation = sparse climate = arc
 kobuk = { topography = wetlands_wasteland vegetation = sparse climate = arctic}
 noatak = { topography = flatland_wasteland vegetation = sparse climate = arctic}
 utqiagvik = { topography = wetlands_wasteland vegetation = sparse climate = arctic}
-kluane = { topography = plateau vegetation = grasslands climate = arctic religion = dene_shamanism culture = dan_ke_culture raw_material = fur}
-kwachal = { topography = plateau vegetation = grasslands climate = arctic religion = dene_shamanism culture = dan_ke_culture raw_material = fur}
-asheyi = { topography = plateau vegetation = grasslands climate = arctic religion = dene_shamanism culture = dan_ke_culture raw_material = fur}
-ta_an = { topography = plateau vegetation = grasslands climate = cold_arid religion = dene_shamanism culture = dan_ke_culture raw_material = wild_game}
-dezadeash_trail = { topography = plateau vegetation = grasslands climate = arctic religion = dene_shamanism culture = dan_ke_culture raw_material = stone}
-chilkootg_trail = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = ahtna_culture raw_material = wild_game}
+kluane = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = plateau vegetation = grasslands }
+kwachal = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = plateau vegetation = grasslands }
+asheyi = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = plateau vegetation = grasslands }
+ta_an = { climate = cold_arid culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = plateau vegetation = grasslands }
+dezadeash_trail = { climate = arctic culture = mdm_boreal_culture raw_material = stone religion = dene_shamanism topography = plateau vegetation = grasslands }
+chilkootg_trail = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = hills vegetation = grasslands }
 kynocks_forest = { topography = hills_wasteland vegetation = forest climate = arctic}
 shushtone_forest = { topography = mountain_wasteland vegetation = forest climate = arctic}
 kluane_lake = { topography = lakes climate = arctic}
 aishihik_lake = { topography = lakes climate = arctic}
 lake_laberge = { topography = lakes climate = cold_arid}
 dezadeash_lake = { topography = lakes climate = arctic}
-white_horse = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = dan_ki_culture raw_material = gold_ore}
-carmacks = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = dan_ki_culture raw_material = fur}
-hucha_hudan = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = dan_ki_culture raw_material = fur}
-donjek = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = dan_ki_culture raw_material = wild_game}
+white_horse = { climate = arctic culture = mdm_boreal_culture raw_material = gold_ore religion = dene_shamanism topography = hills vegetation = grasslands }
+carmacks = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = hills vegetation = grasslands }
+hucha_hudan = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = hills vegetation = grasslands }
+donjek = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = hills vegetation = grasslands }
 dan_ki_forest = { topography = hills_wasteland vegetation = forest climate = arctic}
-upper_yukon = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = haen_culture raw_material = fur}
-klondike = { topography = plateau vegetation = grasslands climate = arctic religion = dene_shamanism culture = haen_culture raw_material = fur}
-bonanza = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = haen_culture raw_material = fur}
-mayo = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = dan_ki_culture raw_material = gold_ore}
-na_choo_ndek = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = haen_culture raw_material = wild_game}
+upper_yukon = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = hills vegetation = grasslands }
+klondike = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = plateau vegetation = grasslands }
+bonanza = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = hills vegetation = grasslands }
+mayo = { climate = arctic culture = mdm_boreal_culture raw_material = gold_ore religion = dene_shamanism topography = hills vegetation = grasslands }
+na_choo_ndek = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = hills vegetation = grasslands }
 haen_uplands = { topography = mountain_wasteland vegetation = forest climate = arctic}
-pelly_faro = { topography = plateau vegetation = grasslands climate = arctic religion = dene_shamanism culture = dan_ki_culture raw_material = fur}
-pelly_river = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = dan_ki_culture raw_material = wild_game}
-ross_river = { topography = plateau vegetation = grasslands climate = arctic religion = dene_shamanism culture = kaska_culture raw_material = fur}
-tuchitua = { topography = plateau vegetation = grasslands climate = arctic religion = dene_shamanism culture = kaska_culture raw_material = wild_game}
+pelly_faro = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = plateau vegetation = grasslands }
+pelly_river = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = hills vegetation = grasslands }
+ross_river = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = plateau vegetation = grasslands }
+tuchitua = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = plateau vegetation = grasslands }
 kaska_forest = { topography = mountain_wasteland vegetation = forest climate = arctic}
 mackenzie_mtns = { topography = mountain_wasteland vegetation = forest climate = arctic}
-wha_ti = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = tlicho_culture raw_material = fur}
-game_ti = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = tlicho_culture raw_material = fur}
-wekwee_ti = { topography = wetlands vegetation = sparse climate = arctic religion = dene_shamanism culture = tlicho_culture raw_material = wild_game}
-hottah_ti = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = tlicho_culture raw_material = fur}
+wha_ti = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = forest }
+game_ti = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = wetlands vegetation = forest }
+wekwee_ti = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = wetlands vegetation = sparse }
+hottah_ti = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = wetlands vegetation = forest }
 tlicho_uplands = { topography = plateau_wasteland vegetation = sparse climate = arctic}
 rae_lakes = { topography = lakes climate = arctic}
 hottah_lake = { topography = lakes climate = arctic}
 snare_lakes = { topography = lakes climate = arctic}
 wekweeti_lake = { topography = lakes climate = arctic}
-deline = { topography = wetlands vegetation = forest climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = lumber}
-mahony = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = fur}
-sahoyue = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = fur}
-turili = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = fish}
-kwita_tla = { topography = hills vegetation = forest climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = wild_game}
+deline = { climate = arctic culture = mdm_boreal_culture raw_material = lumber religion = dene_shamanism topography = wetlands vegetation = forest }
+mahony = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = forest }
+sahoyue = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = forest }
+turili = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = dene_shamanism topography = flatland vegetation = forest }
+kwita_tla = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = hills vegetation = forest }
 sahtu_uplands = { topography = plateau_wasteland vegetation = forest climate = arctic}
 turili_uplands = { topography = flatland_wasteland vegetation = forest climate = arctic}
 keller_lake = { topography = lakes climate = arctic}
 blackwater_lake = { topography = lakes climate = arctic}
 marten_lakes = { topography = lakes climate = arctic}
-tugacho = { topography = flatland vegetation = sparse climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = wild_game}
-edaula = { topography = flatland vegetation = sparse climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = fur}
-ehdacho = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = fish}
-tirato = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = fur}
-colville = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = fur}
+tugacho = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = flatland vegetation = sparse }
+edaula = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = sparse }
+ehdacho = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = dene_shamanism topography = flatland vegetation = forest }
+tirato = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = forest }
+colville = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = forest }
 horton_uplands = { topography = plateau_wasteland vegetation = sparse climate = arctic}
 mackenzie_uplands = { topography = plateau_wasteland vegetation = forest climate = arctic}
 colville_lakes = { topography = lakes climate = arctic}
 sahtu_lake = { topography = lakes climate = arctic}
-good_hope = { topography = flatland vegetation = grasslands climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = wild_game}
-norman_wells = { topography = flatland vegetation = grasslands climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = fur}
-tuyetah = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = fur}
-tulita = { topography = flatland vegetation = grasslands climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = wild_game}
-blackwater = { topography = flatland vegetation = grasslands climate = arctic religion = dene_shamanism culture = sahtu_culture raw_material = fur}
-qurliqtuq = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuinnait_culture raw_material = copper_ore}
-kogluktok = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuinnait_culture raw_material = wild_game}
-kamut = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuinnait_culture raw_material = wild_game}
+good_hope = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = flatland vegetation = grasslands }
+norman_wells = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = grasslands }
+tuyetah = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = hills vegetation = grasslands }
+tulita = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = flatland vegetation = grasslands }
+blackwater = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = grasslands }
+qurliqtuq = { climate = arctic culture = mdm_boreal_culture raw_material = copper_ore religion = inuit_religion topography = flatland vegetation = sparse }
+kogluktok = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = inuit_religion topography = flatland vegetation = sparse }
+kamut = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = inuit_religion topography = flatland vegetation = sparse }
 nunavut_uplands = { topography = plateau_wasteland vegetation = sparse climate = arctic}
 nunavut_lakes = { topography = lakes climate = arctic}
-mackenzie = { topography = flatland vegetation = grasslands climate = arctic religion = dene_shamanism culture = gwichin_culture raw_material = wild_game}
-tsiigehtchik = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = gwichin_culture raw_material = wild_game}
-aklaviq = { topography = wetlands vegetation = forest climate = arctic religion = inuit_religion culture = inuviluq_culture raw_material = fur}
-inuviq = { topography = wetlands vegetation = sparse climate = arctic religion = inuit_religion culture = inuviluq_culture raw_material = fish}
-tuktoyukiuq = { topography = wetlands vegetation = sparse climate = arctic religion = inuit_religion culture = inuviluq_culture raw_material = fish}
+mackenzie = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = flatland vegetation = grasslands }
+tsiigehtchik = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = flatland vegetation = forest }
+aklaviq = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = inuit_religion topography = wetlands vegetation = forest }
+inuviq = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = inuit_religion topography = wetlands vegetation = sparse }
+tuktoyukiuq = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = inuit_religion topography = wetlands vegetation = sparse }
 inuvialuit_uplands = { topography = hills_wasteland vegetation = sparse climate = arctic}
 inuit_lakes = { topography = lakes climate = arctic}
 circle = { climate = arctic culture = mdm_alaskan_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = grasslands }
@@ -23449,9 +23449,9 @@ skin_tyee = { climate = arctic culture = mdm_interior_culture raw_material = lum
 nee_tahi_buhn = { climate = arctic culture = mdm_interior_culture raw_material = fur religion = dene_religion topography = plateau vegetation = forest }
 wet_suwet_en = { climate = arctic culture = mdm_interior_culture raw_material = wild_game religion = dene_religion topography = mountains vegetation = forest }
 sguuxs = { climate = arctic culture = mdm_interior_culture raw_material = medicaments religion = dene_religion topography = hills vegetation = forest }
-kwadacha = { topography = plateau vegetation = woods climate = arctic religion = dene_shamanism culture = sekani_culture raw_material = wild_game}
-thutade = { topography = mountains vegetation = woods climate = arctic religion = dene_shamanism culture = sekani_culture raw_material = wild_game}
-tse_khene = { topography = mountains vegetation = woods climate = arctic religion = dene_shamanism culture = sekani_culture raw_material = fish}
+kwadacha = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = plateau vegetation = woods }
+thutade = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = mountains vegetation = woods }
+tse_khene = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = dene_shamanism topography = mountains vegetation = woods }
 takla = { climate = arctic culture = mdm_interior_culture raw_material = fur religion = dene_shamanism topography = hills vegetation = woods }
 sekani_forest = { topography = hills_wasteland vegetation = woods climate = arctic}
 hominka = { climate = arctic culture = mdm_interior_culture raw_material = fish religion = dene_religion topography = hills vegetation = woods }
@@ -23459,36 +23459,36 @@ ingenika = { climate = arctic culture = mdm_interior_culture raw_material = fur 
 mesilinka = { climate = arctic culture = mdm_interior_culture raw_material = fur religion = dene_religion topography = hills vegetation = forest }
 yutuwichan = { climate = arctic culture = mdm_interior_culture raw_material = lumber religion = dene_religion topography = hills vegetation = forest }
 tsekani = { climate = arctic culture = mdm_interior_culture raw_material = lumber religion = dene_religion topography = plateau vegetation = forest }
-williston = { topography = plateau vegetation = woods climate = arctic religion = dene_shamanism culture = sekani_culture raw_material = fish}
-unjegah = { topography = mountains vegetation = forest climate = arctic religion = dene_shamanism culture = dunezza_culture raw_material = wild_game}
-tsa_tinne = { topography = plateau vegetation = woods climate = arctic religion = dene_shamanism culture = dunezza_culture raw_material = fur}
-chinchaga = { topography = plateau vegetation = woods climate = arctic religion = dene_shamanism culture = dunezza_culture raw_material = fur}
-beatton = { topography = flatland vegetation = woods climate = arctic religion = dene_shamanism culture = dunezza_culture raw_material = wild_game}
+williston = { climate = arctic culture = mdm_boreal_culture raw_material = fish religion = dene_shamanism topography = plateau vegetation = woods }
+unjegah = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = mountains vegetation = forest }
+tsa_tinne = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = plateau vegetation = woods }
+chinchaga = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = plateau vegetation = woods }
+beatton = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = flatland vegetation = woods }
 beaver_forest = { topography = hills_wasteland vegetation = forest climate = arctic}
 beaver_plain = { topography = hills_wasteland vegetation = forest climate = arctic}
 southern_plains = { topography = hills_wasteland vegetation = forest climate = arctic}
 tsay_keh = { topography = lakes climate = arctic}
-tyagacho = { topography = plateau vegetation = grasslands climate = arctic religion = dene_shamanism culture = kaska_culture raw_material = fur}
-ozanna = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = kaska_culture raw_material = wild_game}
-tsay_iona = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = kaska_culture raw_material = fur}
-teslin_trail = { topography = plateau vegetation = grasslands climate = arctic religion = dene_shamanism culture = kaska_culture raw_material = wild_game}
-kechika_trail = { topography = mountains vegetation = grasslands climate = arctic religion = dene_shamanism culture = kaska_culture raw_material = wild_game}
-kahntah_trail = { topography = flatland vegetation = forest climate = arctic religion = dene_shamanism culture = kaska_culture raw_material = wild_game}
+tyagacho = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = plateau vegetation = grasslands }
+ozanna = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = hills vegetation = grasslands }
+tsay_iona = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = hills vegetation = grasslands }
+teslin_trail = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = plateau vegetation = grasslands }
+kechika_trail = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = mountains vegetation = grasslands }
+kahntah_trail = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = flatland vegetation = forest }
 cassiar_mountains = { topography = mountain_wasteland vegetation = forest climate = arctic}
 omineca_mountains = { topography = mountain_wasteland vegetation = forest climate = arctic}
 k_alii_xkalaan = { climate = arctic culture = mdm_interior_culture raw_material = fur religion = dene_totemism topography = plateau vegetation = woods }
-chiyone = { topography = hills vegetation = woods climate = arctic religion = dene_shamanism culture = nahani_culture raw_material = fur}
-tses_kiya_trail = { topography = hills vegetation = woods climate = arctic religion = dene_shamanism culture = nahani_culture raw_material = wild_game}
-ediziza_trail = { topography = hills vegetation = woods climate = arctic religion = dene_shamanism culture = nahani_culture raw_material = wild_game}
-kinaskan_trail = { topography = hills vegetation = woods climate = arctic religion = dene_shamanism culture = nahani_culture raw_material = wild_game}
+chiyone = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = hills vegetation = woods }
+tses_kiya_trail = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = hills vegetation = woods }
+ediziza_trail = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = hills vegetation = woods }
+kinaskan_trail = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = hills vegetation = woods }
 ediziza_forest = { topography = hills_wasteland vegetation = forest climate = arctic}
 spatsizi_forest = { topography = hills_wasteland vegetation = forest climate = arctic}
 tahltan_forest = { topography = mountain_wasteland vegetation = forest climate = arctic}
-ford_liard = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = dehcho_culture raw_material = wild_game}
-nahanni = { topography = hills vegetation = grasslands climate = arctic religion = dene_shamanism culture = dehcho_culture raw_material = wild_game}
-fort_simpson = { topography = flatland vegetation = grasslands climate = arctic religion = dene_shamanism culture = dehcho_culture raw_material = fur}
-jean_marie_river = { topography = flatland vegetation = grasslands climate = arctic religion = dene_shamanism culture = dehcho_culture raw_material = wild_game}
-wrigley = { topography = flatland vegetation = grasslands climate = arctic religion = dene_shamanism culture = dehcho_culture raw_material = wild_game}
+ford_liard = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = hills vegetation = grasslands }
+nahanni = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = hills vegetation = grasslands }
+fort_simpson = { climate = arctic culture = mdm_boreal_culture raw_material = fur religion = dene_shamanism topography = flatland vegetation = grasslands }
+jean_marie_river = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = flatland vegetation = grasslands }
+wrigley = { climate = arctic culture = mdm_boreal_culture raw_material = wild_game religion = dene_shamanism topography = flatland vegetation = grasslands }
 dehcho_plains = { topography = hills_wasteland vegetation = forest climate = arctic}
 dehcho_uplands = { topography = flatland_wasteland vegetation = forest climate = arctic}
 dehcho_range = { topography = mountain_wasteland vegetation = forest climate = arctic}
