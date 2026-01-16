@@ -514,7 +514,7 @@ mdm_great_lakes_culture = {
 	}
 }
 
-mdm_lower_rust_belt_culture = {
+mdm_ohio_river_valley_culture = {
 	language = mdm_midland_dialect
 	
 	color = rgb {197 165 90}
@@ -899,7 +899,7 @@ mdm_praire_culture = { #temporary name
 	}
 }
 
-mdm_boreal_culture = { #temporary name
+mdm_northerner_culture = { #temporary name
 	language = mdm_canadian_dialect
 	
 	color = rgb {52 101 53}
@@ -947,7 +947,7 @@ mdm_quebec_culture = {
 	}
 }
 
-mdm_quebec_boreal_culture = {
+mdm_northern_quebec_culture = {
 	language = french_language #todo: add quebec dialect (neccesary)
 	
 	color = rgb {49 78 91} #2 parts quebec blue, 3 parts boreal green

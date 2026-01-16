@@ -365,3 +365,96 @@
  zamuco_group_desc: "The $zamuco_group$ $group_text$ $zamuco_language$ language."
  zuni_group: "Zuni"
  zuni_group_desc: "The $zuni_group$ $group_text$ $zuni_language$ language."
+
+
+
+ #####mdm modern day mod
+
+
+ #internationalism culture group
+
+ mdm_internationalism_group: "Internationalism"
+ mdm_internationalism_group_desc: "International institutions like the EU and UN"
+
+
+ #regional culture groups
+
+ mdm_european_group: "European"
+ mdm_european_group_desc: "The diverse cultures of Europe"
+ mdm_caribbean_group: "Caribbean"
+ mdm_caribbean_group_desc: "The diverse cultures of the Caribbean islands"
+
+
+ #colonial culture groups
+
+ mdm_anglo_group: "Anglo"
+ mdm_anglo_group_desc: "The diverse cultures of the Anglosphere"
+
+ mdm_anglo_american_group: "Anglo-American"
+ mdm_anglo_american_group_desc: "The shared cultural heritage of the United States and Canada"
+
+ mdm_hispanic_group: "Hispanic"
+ mdm_hispanic_group_desc: "The diverse cultures of the Hispanic world, united under language and shared history of their former empire"
+
+ mdm_francophone_group: "Francophone"
+ mdm_francophone_group_desc: "The diverse cultures of the Francophone world, united under language and shared history of their former empire"
+
+ mdm_lusophone_group: "Lusophone"
+ mdm_lusophone_group_desc: "The diverse cultures of the Lusophone world, united under language and shared history of their former empire"
+
+ mdm_soviet_group: "Soviet"
+ mdm_soviet_group_desc: "The diverse cultures of the former Soviet Union, united under shared history of their former empire"
+
+
+ #us and canada culture groups
+
+ mdm_canadian_group: "Canadian"
+ mdm_canadian_group_desc: "Canada, the great north"
+
+ mdm_american_group: "American"
+ mdm_american_group_desc: "The United States of America, the great cultural melting pot"
+
+
+ #regional us and canada culture groups
+
+ mdm_west_coast_group: "West Coast"
+ mdm_west_coast_group_desc: "The western coast of the United States and Canada, from California to British Columbia"
+
+ mdm_californian_group: "Californian"
+ mdm_californian_group_desc: "California, the golden state, the place where metal first learned to think, the center of the worlds entertainment, the elysium at the end of american manifest destiny"
+
+ mdm_cascadian_group: "Cascadian"
+ mdm_cascadian_group_desc: "The Pacific Northwest, from northern California to British Columbia, a land of forests, mountains, and lots of rain"
+
+ mdm_frontier_group: "Frontier"
+ mdm_frontier_group_desc: "The decendents of the great american frontier"
+
+ mdm_rocky_mountains_group: "Rocky Mountains"
+ mdm_rocky_mountains_group_desc: "The people of the rocky mountains, north americas greatest mountain range"
+
+ mdm_great_plains_group: "Great Plains"
+ mdm_great_plains_group_desc: "The people of the great plains, the breadbasket of north america"
+
+ mdm_midwest_group: "Midwest"
+ mdm_midwest_group_desc: "The people of the midwest, the heartland of america"
+
+ mdm_great_lakes_group: "Great Lakes"
+ mdm_great_lakes_group_desc: "The people of the great lakes region, the freshwater sea of north america"
+
+ mdm_northeast_group: "Northeast"
+ mdm_northeast_group_desc: "The people of the northeast, the cradle of america"
+
+ mdm_southern_group: "Southern"
+ mdm_southern_group_desc: "The people of the american south, the land of hospitality and tradition"
+
+ mdm_appalachian_group: "Appalachian"
+ mdm_appalachian_group_desc: "The people of the appalachian mountains, a land of rolling hills, coal mines, and bluegrass music"
+
+ mdm_floridian_group: "Floridian"
+ mdm_floridian_group_desc: "The people of florida, the sunshine state, a land of beaches, swamps, and theme parks"
+
+ mdm_us_caribbean_group: "US Caribbean"
+ mdm_us_caribbean_group_desc: "The people of the us caribbean territories, a land of tropical islands and vibrant cultures"
+
+ mdm_us_pacific_group: "US Pacific"
+ mdm_us_pacific_group_desc: "The people of the us pacific territories, a land of remote islands and diverse cultures"
