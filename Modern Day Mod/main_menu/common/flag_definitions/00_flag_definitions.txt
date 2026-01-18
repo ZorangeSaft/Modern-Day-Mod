@@ -2186,6 +2186,13 @@ FCB = { # Palatinate of Burgundy
 	}		
 }
 
+FIJI = { # mdm modern day mod Fiji
+	flag_definition = {
+		coa = mdm_FIJI
+		priority = 1
+	}
+}
+
 FIN = { # mdm modern day mod Finland
 	flag_definition = {
 		coa = mdm_FIN
