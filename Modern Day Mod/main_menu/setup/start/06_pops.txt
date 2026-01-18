@@ -245099,7 +245099,7 @@ locations = {
    }
    cabias = {
       define_pop = {
-         culture = mdm_rio_grande_culture
+         culture = mdm_texan_culture
          religion = catholic
          size = 0.258
          type = tribesmen
@@ -245123,7 +245123,7 @@ locations = {
    }
    cacaxtles = {
       define_pop = {
-         culture = mdm_rio_grande_culture
+         culture = mdm_texan_culture
          religion = catholic
          size = 0.141
          type = tribesmen
@@ -245147,7 +245147,7 @@ locations = {
    }
    pinanaca = {
       define_pop = {
-         culture = mdm_southwest_culture
+         culture = mdm_mezquital_culture
          religion = catholic
          size = 0.433
          type = tribesmen
@@ -245187,7 +245187,7 @@ locations = {
    }
    patarabueye = {
       define_pop = {
-         culture = mdm_southwest_culture
+         culture = mdm_mezquital_culture
          religion = catholic
          size = 0.457
          type = tribesmen
@@ -245647,7 +245647,7 @@ locations = {
    }
    bobole = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_texan_culture
          religion = catholic
          size = 0.245
          type = tribesmen
@@ -245671,7 +245671,7 @@ locations = {
    }
    xumani = {
       define_pop = {
-         culture = mdm_southwest_culture
+         culture = mdm_mezquital_culture
          religion = catholic
          size = 0.549
          type = tribesmen
@@ -245703,7 +245703,7 @@ locations = {
    }
    dzithinahnde = {
       define_pop = {
-         culture = mdm_southwest_culture
+         culture = mdm_mezquital_culture
          religion = catholic
          size = 0.381
          type = tribesmen
@@ -245727,7 +245727,7 @@ locations = {
    }
    tseichi = {
       define_pop = {
-         culture = mdm_southwest_culture
+         culture = mdm_mezquital_culture
          religion = catholic
          size = 0.695
          type = tribesmen
@@ -245743,7 +245743,7 @@ locations = {
    }
    tahuunde = {
       define_pop = {
-         culture = mdm_southwest_culture
+         culture = mdm_mezquital_culture
          religion = catholic
          size = 0.370
          type = tribesmen
@@ -245751,7 +245751,7 @@ locations = {
    }
    chinaitih = {
       define_pop = {
-         culture = mdm_southwest_culture
+         culture = mdm_mezquital_culture
          religion = catholic
          size = 0.226
          type = tribesmen
@@ -245759,7 +245759,7 @@ locations = {
    }
    tu_sis_nde = {
       define_pop = {
-         culture = mdm_southwest_culture
+         culture = mdm_mezquital_culture
          religion = catholic
          size = 0.303
          type = tribesmen
@@ -245791,7 +245791,7 @@ locations = {
    }
    tonkawa = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_texan_culture
          religion = catholic
          size = 0.245
          type = tribesmen
@@ -245807,7 +245807,7 @@ locations = {
    }
    ndawe_qoha = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_texan_culture
          religion = catholic
          size = 0.462
          type = tribesmen
@@ -245839,7 +245839,7 @@ locations = {
    }
    sha_ia_nde = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_texan_culture
          religion = catholic
          size = 0.325
          type = tribesmen
@@ -251575,7 +251575,7 @@ locations = {
    }
    madawaska = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.531
          type = tribesmen
@@ -253463,13 +253463,13 @@ locations = {
    }
    itekiatonhniarikon = {
       define_pop = {
-         culture = mdm_upstate_new_york_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.117
          type = peasants
       }
       define_pop = {
-         culture = mdm_upstate_new_york_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.162
          type = tribesmen
@@ -253477,13 +253477,13 @@ locations = {
    }
    oskennonton = {
       define_pop = {
-         culture = mdm_upstate_new_york_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.205
          type = peasants
       }
       define_pop = {
-         culture = mdm_upstate_new_york_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.214
          type = tribesmen
@@ -253853,7 +253853,7 @@ locations = {
    }
    ompompanusooc = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -253861,7 +253861,7 @@ locations = {
    }
    passumpsic = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.841
          type = tribesmen
@@ -253869,7 +253869,7 @@ locations = {
    }
    winooski = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 1.122
          type = tribesmen
@@ -253877,7 +253877,7 @@ locations = {
    }
    gwenaska = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 1.571
          type = tribesmen
@@ -253885,7 +253885,7 @@ locations = {
    }
    koes = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 2.553
          type = tribesmen
@@ -253893,7 +253893,7 @@ locations = {
    }
    nitamibontegw = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 1.122
          type = tribesmen
@@ -253933,7 +253933,7 @@ locations = {
    }
    umbagog = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -253973,7 +253973,7 @@ locations = {
    }
    coos = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.841
          type = tribesmen
@@ -253981,7 +253981,7 @@ locations = {
    }
    ammonoosuc = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 2.132
          type = tribesmen
@@ -254061,7 +254061,7 @@ locations = {
    }
    norridgewock = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 5.780
          type = tribesmen
@@ -254069,7 +254069,7 @@ locations = {
    }
    anasagunticook = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.841
          type = tribesmen
@@ -254077,7 +254077,7 @@ locations = {
    }
    kineo = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -254085,7 +254085,7 @@ locations = {
    }
    caratunk = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -254093,7 +254093,7 @@ locations = {
    }
    kennebango = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -254101,7 +254101,7 @@ locations = {
    }
    nanrantsouak = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.280
          type = tribesmen
@@ -254109,7 +254109,7 @@ locations = {
    }
    mittaywanquam = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -254157,7 +254157,7 @@ locations = {
    }
    maatawamkeag = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.982
          type = tribesmen
@@ -254165,7 +254165,7 @@ locations = {
    }
    aroostook = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.561
          type = tribesmen
@@ -254173,7 +254173,7 @@ locations = {
    }
    meduxnekeag = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 1.122
          type = tribesmen
@@ -254181,7 +254181,7 @@ locations = {
    }
    allagash = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.280
          type = tribesmen
@@ -254205,7 +254205,7 @@ locations = {
    }
    katahdin = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -254213,7 +254213,7 @@ locations = {
    }
    millinocket = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.561
          type = tribesmen
@@ -254847,13 +254847,13 @@ locations = {
    }
    appamatuck = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 2.845
          type = tribesmen
@@ -254907,7 +254907,7 @@ locations = {
    }
    tegninateo = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 2.132
          type = tribesmen
@@ -254915,7 +254915,7 @@ locations = {
    }
    rassawek = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 4.096
          type = tribesmen
@@ -254923,7 +254923,7 @@ locations = {
    }
    mowhemencho = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 4.096
          type = tribesmen
@@ -254931,7 +254931,7 @@ locations = {
    }
    appomattox = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 5.639
          type = tribesmen
@@ -254939,7 +254939,7 @@ locations = {
    }
    monahassanugh = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 1.430
          type = tribesmen
@@ -254947,7 +254947,7 @@ locations = {
    }
    massinacak = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 4.517
          type = tribesmen
@@ -254955,7 +254955,7 @@ locations = {
    }
    monasukapanough = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 3.254
          type = tribesmen
@@ -254963,7 +254963,7 @@ locations = {
    }
    saponi = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 4.096
          type = tribesmen
@@ -254971,7 +254971,7 @@ locations = {
    }
    nessoneick = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 3.395
          type = tribesmen
@@ -254979,7 +254979,7 @@ locations = {
    }
    occaneechi = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 3.395
          type = tribesmen
@@ -254987,7 +254987,7 @@ locations = {
    }
    pintahae = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 2.015
          type = tribesmen
@@ -254995,7 +254995,7 @@ locations = {
    }
    meherrin = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 3.815
          type = tribesmen
@@ -255377,7 +255377,7 @@ locations = {
    }
    adshusheer = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -255385,7 +255385,7 @@ locations = {
    }
    eno = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.841
          type = tribesmen
@@ -255393,7 +255393,7 @@ locations = {
    }
    sissipahaw = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -255401,13 +255401,13 @@ locations = {
    }
    uwharrie = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 1.442
          type = tribesmen
@@ -255415,13 +255415,13 @@ locations = {
    }
    waxhaw = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 1.442
          type = tribesmen
@@ -255429,7 +255429,7 @@ locations = {
    }
    saura = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -255437,7 +255437,7 @@ locations = {
    }
    alamance = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -255445,7 +255445,7 @@ locations = {
    }
    yadkin = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -255453,13 +255453,13 @@ locations = {
    }
    keyauwee = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 1.442
          type = tribesmen
@@ -255487,13 +255487,13 @@ locations = {
    }
    iswa = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 1.582
          type = tribesmen
@@ -255501,13 +255501,13 @@ locations = {
    }
    guaquili = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 4.946
          type = tribesmen
@@ -255515,13 +255515,13 @@ locations = {
    }
    eswawpuddenah = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 1.442
          type = tribesmen
@@ -255787,13 +255787,13 @@ locations = {
    }
    hymahi = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 4.946
          type = tribesmen
@@ -255801,13 +255801,13 @@ locations = {
    }
    talimeco = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 4.946
          type = tribesmen
@@ -255815,13 +255815,13 @@ locations = {
    }
    ilasi = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 6.349
          type = tribesmen
@@ -255829,13 +255829,13 @@ locations = {
    }
    catawba = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 1.442
          type = tribesmen
@@ -255843,13 +255843,13 @@ locations = {
    }
    enoree = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 1.442
          type = tribesmen
@@ -255857,13 +255857,13 @@ locations = {
    }
    pacolate = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 1.442
          type = tribesmen
@@ -255871,13 +255871,13 @@ locations = {
    }
    amoyescheck = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 1.442
          type = tribesmen
@@ -255919,13 +255919,13 @@ locations = {
    }
    generostee = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.726
          type = tribesmen
@@ -255933,13 +255933,13 @@ locations = {
    }
    selkehatchie = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.726
          type = tribesmen
@@ -255947,19 +255947,19 @@ locations = {
    }
    saluda = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.014
          type = nobles
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.030
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.726
          type = tribesmen
@@ -255967,13 +255967,13 @@ locations = {
    }
    congaree = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 1.442
          type = tribesmen
@@ -255981,13 +255981,13 @@ locations = {
    }
    kosalu = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.726
          type = tribesmen
@@ -256305,13 +256305,13 @@ locations = {
    }
    kiokee = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.726
          type = tribesmen
@@ -256319,13 +256319,13 @@ locations = {
    }
    wahachee = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.726
          type = tribesmen
@@ -256333,13 +256333,13 @@ locations = {
    }
    ogeechee = {
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_atlantic_southern_culture
+         culture = mdm_piedmont_culture
          religion = catholic
          size = 0.726
          type = tribesmen
@@ -256867,19 +256867,19 @@ locations = {
    }
    apalachee = {
       define_pop = {
-         culture = mdm_deep_south_culture
+         culture = mdm_gulf_coast_culture
          religion = catholic
          size = 0.014
          type = nobles
       }
       define_pop = {
-         culture = mdm_deep_south_culture
+         culture = mdm_gulf_coast_culture
          religion = catholic
          size = 0.030
          type = clergy
       }
       define_pop = {
-         culture = mdm_deep_south_culture
+         culture = mdm_gulf_coast_culture
          religion = catholic
          size = 0.726
          type = tribesmen
@@ -256887,13 +256887,13 @@ locations = {
    }
    anhayca = {
       define_pop = {
-         culture = mdm_deep_south_culture
+         culture = mdm_gulf_coast_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_deep_south_culture
+         culture = mdm_gulf_coast_culture
          religion = catholic
          size = 0.726
          type = tribesmen
@@ -258021,7 +258021,7 @@ locations = {
    }
    kankakee = {
       define_pop = {
-         culture = mdm_great_lakes_culture
+         culture = mdm_chicagoland_culture
          religion = catholic
          size = 2.413
          type = tribesmen
@@ -258029,7 +258029,7 @@ locations = {
    }
    pakamik = {
       define_pop = {
-         culture = mdm_great_lakes_culture
+         culture = mdm_chicagoland_culture
          religion = catholic
          size = 1.430
          type = tribesmen
@@ -258301,7 +258301,7 @@ locations = {
    }
    chicago = {
       define_pop = {
-         culture = mdm_great_lakes_culture
+         culture = mdm_chicagoland_culture
          religion = catholic
          size = 2.974
          type = tribesmen
@@ -258309,7 +258309,7 @@ locations = {
    }
    tiatiki = {
       define_pop = {
-         culture = mdm_great_lakes_culture
+         culture = mdm_chicagoland_culture
          religion = catholic
          size = 3.535
          type = tribesmen
@@ -258317,7 +258317,7 @@ locations = {
    }
    pisticoui = {
       define_pop = {
-         culture = mdm_great_lakes_culture
+         culture = mdm_chicagoland_culture
          religion = catholic
          size = 1.711
          type = tribesmen
@@ -258325,13 +258325,13 @@ locations = {
    }
    kishwaukee = {
       define_pop = {
-         culture = mdm_great_lakes_culture
+         culture = mdm_chicagoland_culture
          religion = catholic
          size = 0.016
          type = clergy
       }
       define_pop = {
-         culture = mdm_great_lakes_culture
+         culture = mdm_chicagoland_culture
          religion = catholic
          size = 1.582
          type = tribesmen
@@ -258427,7 +258427,7 @@ locations = {
    }
    waupecan = {
       define_pop = {
-         culture = mdm_great_lakes_culture
+         culture = mdm_chicagoland_culture
          religion = catholic
          size = 2.553
          type = tribesmen
@@ -261431,7 +261431,7 @@ locations = {
    }
    hinyankaga = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_black_hills_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -261439,7 +261439,7 @@ locations = {
    }
    mistaiyohe = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_black_hills_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -261447,7 +261447,7 @@ locations = {
    }
    shanha = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_black_hills_culture
          religion = catholic
          size = 0.280
          type = tribesmen
@@ -261455,7 +261455,7 @@ locations = {
    }
    he_sapa = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_black_hills_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -261463,7 +261463,7 @@ locations = {
    }
    awaxaawi_ishiibisha = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_black_hills_culture
          religion = catholic
          size = 0.280
          type = tribesmen
@@ -261479,7 +261479,7 @@ locations = {
    }
    waziblo = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_black_hills_culture
          religion = catholic
          size = 0.140
          type = tribesmen
@@ -261591,7 +261591,7 @@ locations = {
    }
    kickatus = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_lower_midwest_culture
          religion = catholic
          size = 0.280
          type = tribesmen
@@ -261599,7 +261599,7 @@ locations = {
    }
    ickari_kitsu = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_lower_midwest_culture
          religion = catholic
          size = 0.280
          type = tribesmen
@@ -261631,7 +261631,7 @@ locations = {
    }
    pitahauerat = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_lower_midwest_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -261671,7 +261671,7 @@ locations = {
    }
    kirarutah = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_lower_midwest_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -261679,7 +261679,7 @@ locations = {
    }
    nepahalla = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_lower_midwest_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -261711,7 +261711,7 @@ locations = {
    }
    wasetihoge = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_lower_midwest_culture
          religion = catholic
          size = 0.561
          type = tribesmen
@@ -261727,7 +261727,7 @@ locations = {
    }
    quivira = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_lower_midwest_culture
          religion = catholic
          size = 0.561
          type = tribesmen
@@ -261735,7 +261735,7 @@ locations = {
    }
    harahey = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_lower_midwest_culture
          religion = catholic
          size = 0.280
          type = tribesmen
@@ -261767,7 +261767,7 @@ locations = {
    }
    aahkawiraahkata = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_lower_midwest_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -261989,7 +261989,7 @@ locations = {
    }
    hoyu_ao_he = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_southwest_culture
          religion = catholic
          size = 0.561
          type = tribesmen
@@ -262013,7 +262013,7 @@ locations = {
    }
    hotoanaohe = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262037,7 +262037,7 @@ locations = {
    }
    denver = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262045,7 +262045,7 @@ locations = {
    }
    neenowuxoote_i = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262053,7 +262053,7 @@ locations = {
    }
    ce_eiinox = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262061,7 +262061,7 @@ locations = {
    }
    nih_iitkotousi_l = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262069,7 +262069,7 @@ locations = {
    }
    apispaha = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.280
          type = tribesmen
@@ -262077,7 +262077,7 @@ locations = {
    }
    mutsisooni_yohe = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262085,7 +262085,7 @@ locations = {
    }
    heeyoteyoo = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262109,7 +262109,7 @@ locations = {
    }
    wasin_wakpa = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262133,7 +262133,7 @@ locations = {
    }
    hehvaitaneo = {
       define_pop = {
-         culture = mdm_rocky_mountains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262149,7 +262149,7 @@ locations = {
    }
    medicine_bow = {
       define_pop = {
-         culture = mdm_rocky_mountains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262157,7 +262157,7 @@ locations = {
    }
    wotapio = {
       define_pop = {
-         culture = mdm_rocky_mountains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.561
          type = tribesmen
@@ -262165,7 +262165,7 @@ locations = {
    }
    so_taeo_o = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262173,7 +262173,7 @@ locations = {
    }
    oevemanaho = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262181,7 +262181,7 @@ locations = {
    }
    ohktouna = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262189,7 +262189,7 @@ locations = {
    }
    hisse_yoyi_yoe = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262197,7 +262197,7 @@ locations = {
    }
    hisiometaneo = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_black_hills_culture
          religion = catholic
          size = 0.280
          type = tribesmen
@@ -262213,7 +262213,7 @@ locations = {
    }
    itkanaahtuusu = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_black_hills_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262221,7 +262221,7 @@ locations = {
    }
    e_ometaeso = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_black_hills_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262229,7 +262229,7 @@ locations = {
    }
    heviksnipahis = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_black_hills_culture
          religion = catholic
          size = 0.420
          type = tribesmen
@@ -262237,7 +262237,7 @@ locations = {
    }
    mo_ohta_vo_honaaeva = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_black_hills_culture
          religion = catholic
          size = 0.280
          type = tribesmen
@@ -262277,7 +262277,7 @@ locations = {
    }
    chakadee_wakpa = {
       define_pop = {
-         culture = mdm_northern_great_plains_culture
+         culture = mdm_black_hills_culture
          religion = catholic
          size = 0.280
          type = tribesmen
@@ -276449,7 +276449,7 @@ locations = {
    }
    tickanwatic = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_texan_culture
          religion = catholic
          size = 0.325
          type = tribesmen
@@ -276457,7 +276457,7 @@ locations = {
    }
    tchesha = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_texan_culture
          religion = catholic
          size = 0.280
          type = tribesmen
@@ -276465,7 +276465,7 @@ locations = {
    }
    melenudo = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_texan_culture
          religion = catholic
          size = 0.398
          type = tribesmen
@@ -276481,7 +276481,7 @@ locations = {
    }
    nokoni = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_texan_culture
          religion = catholic
          size = 0.970
          type = tribesmen
@@ -276489,7 +276489,7 @@ locations = {
    }
    dallas = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_texan_culture
          religion = catholic
          size = 0.277
          type = tribesmen
@@ -276647,7 +276647,7 @@ locations = {
    }
    kaw = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_lower_midwest_culture
          religion = catholic
          size = 0.140
          type = tribesmen
@@ -276655,7 +276655,7 @@ locations = {
    }
    ne_miskua = {
       define_pop = {
-         culture = mdm_southern_great_plains_culture
+         culture = mdm_lower_midwest_culture
          religion = catholic
          size = 0.140
          type = tribesmen
@@ -276679,7 +276679,7 @@ locations = {
    }
    cowasuck = {
       define_pop = {
-         culture = mdm_maritime_new_england_culture
+         culture = mdm_woodland_new_england_culture
          religion = catholic
          size = 0.561
          type = tribesmen
@@ -276687,7 +276687,7 @@ locations = {
    }
    koke_metchesko_laha = {
       define_pop = {
-         culture = mdm_rio_grande_culture
+         culture = mdm_texan_culture
          religion = catholic
          size = 0.140
          type = tribesmen
@@ -331155,7 +331155,7 @@ locations = {
    }
    ineseno = {
       define_pop = {
-         culture = mdm_socal_culture
+         culture = mdm_central_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331171,7 +331171,7 @@ locations = {
    }
    tepotahal = {
       define_pop = {
-         culture = mdm_bay_area_culture
+         culture = mdm_central_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331235,7 +331235,7 @@ locations = {
    }
    gashowu = {
       define_pop = {
-         culture = mdm_central_valley_culture
+         culture = mdm_sierra_nevada_culture
          religion = catholic
          size = 0.491
          type = tribesmen
@@ -331267,7 +331267,7 @@ locations = {
    }
    yawdanshi = {
       define_pop = {
-         culture = mdm_central_valley_culture
+         culture = mdm_sierra_nevada_culture
          religion = catholic
          size = 0.491
          type = tribesmen
@@ -331315,7 +331315,7 @@ locations = {
    }
    kulanapan = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_north_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331323,7 +331323,7 @@ locations = {
    }
    ukomno_om = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_north_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331331,7 +331331,7 @@ locations = {
    }
    tlokyhan = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_north_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331339,7 +331339,7 @@ locations = {
    }
    nochu_ci = {
       define_pop = {
-         culture = mdm_central_valley_culture
+         culture = mdm_sierra_nevada_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331347,7 +331347,7 @@ locations = {
    }
    tuolomne = {
       define_pop = {
-         culture = mdm_central_valley_culture
+         culture = mdm_sierra_nevada_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331459,7 +331459,7 @@ locations = {
    }
    konkow = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_central_valley_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331467,7 +331467,7 @@ locations = {
    }
    yahi = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_central_valley_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331499,7 +331499,7 @@ locations = {
    }
    achomawi = {
       define_pop = {
-         culture = mdm_columbia_plateau_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331507,7 +331507,7 @@ locations = {
    }
    sinkyone = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_north_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331515,7 +331515,7 @@ locations = {
    }
    mattole = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_north_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331523,7 +331523,7 @@ locations = {
    }
    nongatl = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_north_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331531,7 +331531,7 @@ locations = {
    }
    jaroujiji = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_north_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331539,7 +331539,7 @@ locations = {
    }
    wailaki = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_north_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331547,7 +331547,7 @@ locations = {
    }
    hoilkut = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_north_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331555,7 +331555,7 @@ locations = {
    }
    oohl = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_north_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331563,7 +331563,7 @@ locations = {
    }
    chidkhu = {
       define_pop = {
-         culture = mdm_cascadian_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331571,7 +331571,7 @@ locations = {
    }
    tututni = {
       define_pop = {
-         culture = mdm_cascadian_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331579,7 +331579,7 @@ locations = {
    }
    ko_kwel = {
       define_pop = {
-         culture = mdm_cascadian_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331587,7 +331587,7 @@ locations = {
    }
    natinixwe = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_north_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331595,7 +331595,7 @@ locations = {
    }
    amblu_kai = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_central_valley_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331603,7 +331603,7 @@ locations = {
    }
    tsnungwe = {
       define_pop = {
-         culture = mdm_jefferson_culture
+         culture = mdm_north_coast_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331627,7 +331627,7 @@ locations = {
    }
    waika = {
       define_pop = {
-         culture = mdm_cascadian_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331635,7 +331635,7 @@ locations = {
    }
    siskiyou = {
       define_pop = {
-         culture = mdm_cascadian_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331643,7 +331643,7 @@ locations = {
    }
    karuk = {
       define_pop = {
-         culture = mdm_cascadian_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331651,7 +331651,7 @@ locations = {
    }
    yulalona = {
       define_pop = {
-         culture = mdm_cascadian_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331659,7 +331659,7 @@ locations = {
    }
    tak_elam = {
       define_pop = {
-         culture = mdm_cascadian_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331667,7 +331667,7 @@ locations = {
    }
    etnemitane = {
       define_pop = {
-         culture = mdm_cascadian_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331675,7 +331675,7 @@ locations = {
    }
    modokni = {
       define_pop = {
-         culture = mdm_columbia_plateau_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331683,7 +331683,7 @@ locations = {
    }
    tollin = {
       define_pop = {
-         culture = mdm_columbia_plateau_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331691,7 +331691,7 @@ locations = {
    }
    mbosaksawaas = {
       define_pop = {
-         culture = mdm_columbia_plateau_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331699,7 +331699,7 @@ locations = {
    }
    ewksikni = {
       define_pop = {
-         culture = mdm_columbia_plateau_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331707,7 +331707,7 @@ locations = {
    }
    quuiich = {
       define_pop = {
-         culture = mdm_cascadian_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -331739,7 +331739,7 @@ locations = {
    }
    south_molala = {
       define_pop = {
-         culture = mdm_cascadian_culture
+         culture = mdm_jefferson_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -332419,7 +332419,7 @@ locations = {
    }
    wadadokado = {
       define_pop = {
-         culture = mdm_columbia_plateau_culture
+         culture = mdm_great_basin_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -332427,7 +332427,7 @@ locations = {
    }
    tagotoka = {
       define_pop = {
-         culture = mdm_columbia_plateau_culture
+         culture = mdm_great_basin_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -332443,7 +332443,7 @@ locations = {
    }
    yakwahnim_paa = {
       define_pop = {
-         culture = mdm_mormon_culture
+         culture = mdm_great_basin_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -332939,7 +332939,7 @@ locations = {
    }
    kahpota = {
       define_pop = {
-         culture = mdm_rocky_mountains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -332947,7 +332947,7 @@ locations = {
    }
    moghwachi = {
       define_pop = {
-         culture = mdm_rocky_mountains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -332955,7 +332955,7 @@ locations = {
    }
    taviwac = {
       define_pop = {
-         culture = mdm_rocky_mountains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.701
          type = tribesmen
@@ -332963,7 +332963,7 @@ locations = {
    }
    na_isha = {
       define_pop = {
-         culture = mdm_rocky_mountains_culture
+         culture = mdm_front_range_culture
          religion = catholic
          size = 0.701
          type = tribesmen
