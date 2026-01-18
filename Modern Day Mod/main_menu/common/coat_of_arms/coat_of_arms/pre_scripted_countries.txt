@@ -18476,6 +18476,31 @@ KIR = { # Kirchberg
 	}		
 }
 
+mdm_KIRI = { # mdm modern day mod Kiribati
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 201 8 8 }
+
+	colored_emblem = {
+		texture = "mdm_ce_waves_kiribati.dds"
+		color1 = rgb { 17 44 113 }
+		color2 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_kiribati.dds"
+		color1 = rgb { 248 209 0 }
+		color2 = "black"
+		instance = { position = { 0.5 0.374 } scale = { 0.4 0.4 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_frigate_bird_kiribati.dds"
+		color1 = rgb { 248 209 0 }
+		color2 = "black"
+		instance = { position = { 0.5 0.102 } scale = { 0.4 0.4 } }
+	}
+}
+
 KIT = { # Kitara
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	30		10		92	}
@@ -21851,6 +21876,23 @@ MAR = { # Maryul
 		color3 = color4
 		instance = { position = { 0.505 0.5 } scale = { 0.95 0.95 } }		
 	}	
+}
+
+mdm_MARS = { # mdm modern day mod Marshall Islands
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 53 148 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_marshall_islands.dds"
+		color1 = rgb { 222 118 0 }
+		color2 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_marshall_islands.dds"
+		color1 = "white"
+		instance = { position = { 0.192 0.365 } scale = { 0.617 0.617 } }
+	}
 }
 
 mdm_MART = { # mdm modern day mod Mauritius
