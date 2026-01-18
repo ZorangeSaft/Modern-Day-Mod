@@ -269,7 +269,7 @@ mdm_cascadian_culture = {
 #california
 
 mdm_jefferson_culture = {
-	language = mdm_californian_dialect
+	language = mdm_western_us_dialect
 	
 	color = rgb {144 193 135}
 	
@@ -312,7 +312,7 @@ mdm_bay_area_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group mdm_metroamerican_group
 	}
 }
 
@@ -376,7 +376,7 @@ mdm_socal_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group mdm_metroamerican_group
 	}
 }
 
@@ -432,7 +432,7 @@ mdm_southwest_culture = {
 }
 
 mdm_mezquital_culture = {
-	language = mdm_western_us_dialect
+	language = mdm_inland_southern_dialect
 	
 	color = rgb {243 144 80}
 	
@@ -443,7 +443,7 @@ mdm_mezquital_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group mdm_texan_group
 	}
 }
 
@@ -496,7 +496,7 @@ mdm_northern_great_plains_culture = {
 }
 
 mdm_black_hills_culture = {
-	language = mdm_west_northern_dialect
+	language = mdm_western_us_dialect
 	
 	color = rgb {142 133 116}
 	
@@ -512,7 +512,7 @@ mdm_black_hills_culture = {
 }
 
 mdm_front_range_culture = {
-	language = mdm_west_northern_dialect
+	language = mdm_western_us_dialect
 	
 	color = rgb {147 112 103}
 	
@@ -622,7 +622,7 @@ mdm_chicagoland_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_lakes_group
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_lakes_group mdm_metroamerican_group
 	}
 }
 
@@ -646,7 +646,7 @@ mdm_ohio_river_valley_culture = {
 #northeast
 
 mdm_woodland_new_england_culture = {
-	language = mdm_new_england_dialect
+	language = mdm_woodland_new_england_dialect
 	
 	color = rgb {190 204 231}
 	
@@ -662,7 +662,7 @@ mdm_woodland_new_england_culture = {
 }
 
 mdm_maritime_new_england_culture = {
-	language = mdm_new_england_dialect
+	language = mdm_maritime_new_england_dialect
 	
 	color = rgb {111 117 231}
 	
@@ -705,7 +705,7 @@ mdm_new_york_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_metroamerican_group
 	}
 }
 
@@ -916,12 +916,12 @@ mdm_texan_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_texan_group
 	}
 }
 
 mdm_rio_grande_culture = {
-	language = mdm_southern_dialect #should maby be inland southern, or even spanish
+	language = mdm_inland_southern_dialect
 	
 	color = rgb {206 158 148}
 	
@@ -932,7 +932,7 @@ mdm_rio_grande_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_texan_group
 	}
 }
 
@@ -951,7 +951,7 @@ mdm_south_florida_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_us_caribbean_group mdm_floridian_group
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_us_caribbean_group mdm_floridian_group mdm_metroamerican_group
 	}
 }
 
@@ -1087,7 +1087,7 @@ mdm_quebec_culture = {
 	}
 
 	culture_groups = {
-		mdm_canadian_group mdm_francophone_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
+		mdm_canadian_group mdm_francophone_group mdm_french_canadian_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
 	}
 }
 
@@ -1103,7 +1103,7 @@ mdm_northern_quebec_culture = {
 	}
 
 	culture_groups = {
-		mdm_canadian_group mdm_francophone_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
+		mdm_canadian_group mdm_francophone_group mdm_french_canadian_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
 	}
 }
 
@@ -1119,7 +1119,7 @@ mdm_acadian_culture = {
 	}
 
 	culture_groups = {
-		mdm_canadian_group mdm_francophone_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
+		mdm_canadian_group mdm_francophone_group mdm_french_canadian_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
 	}
 }
 

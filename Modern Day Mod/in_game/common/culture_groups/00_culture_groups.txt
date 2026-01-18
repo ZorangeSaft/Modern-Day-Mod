@@ -582,6 +582,9 @@ mdm_anglo_american_group = { #us and canada
 mdm_canadian_group = { #canada
 }
 
+mdm_french_canadian_group = { #quebec and acadia
+}
+
 mdm_american_group = { #us usa america
 }
 
@@ -616,6 +619,12 @@ mdm_new_england_group = { #new england
 }
 
 mdm_southern_group = { #us south
+}
+
+mdm_texan_group = { #texas
+}
+
+mdm_metroamerican_group = { #metro american, the big sprawling cities that have their own culture in game rn
 }
 
 mdm_appalachian_group = { #appalachia, not on original map, but i think it makes sense, since groups can overlap

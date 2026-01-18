@@ -411,6 +411,9 @@
  mdm_canadian_group: "Canadian"
  mdm_canadian_group_desc: "Canada, the great north"
 
+ mdm_french_canadian_group: "French Canadian"
+ mdm_french_canadian_group_desc: "The descendents of french north america"
+
  mdm_american_group: "American"
  mdm_american_group_desc: "The United States of America, the great cultural melting pot"
 
@@ -449,6 +452,12 @@
 
  mdm_southern_group: "Southern"
  mdm_southern_group_desc: "The people of the american south, the land of hospitality and tradition"
+
+ mdm_texan_group: "Texan"
+ mdm_texan_group_desc: "The people of texas, the lone star state, a land of cowboys, oil, and wide open spaces"
+
+ mdm_metroamerican_group: "Metro American"
+ mdm_metroamerican_group_desc: "The people of americas largest metropolitan areas, the centers of culture, commerce, and innovation"
 
  mdm_appalachian_group: "Appalachian"
  mdm_appalachian_group_desc: "The people of the appalachian mountains, a land of rolling hills, coal mines, and bluegrass music"

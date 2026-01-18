@@ -413,7 +413,11 @@ english_language = {
 			patronym_suffix_son = "patronym_suffix_english_son"
 			patronym_suffix_daughter = "patronym_suffix_english_son"
 		}
-		mdm_new_england_dialect = {
+		mdm_maritime_new_england_dialect = {
+			patronym_suffix_son = "patronym_suffix_english_son"
+			patronym_suffix_daughter = "patronym_suffix_english_son"
+		}
+		mdm_woodland_new_england_dialect = {
 			patronym_suffix_son = "patronym_suffix_english_son"
 			patronym_suffix_daughter = "patronym_suffix_english_son"
 		}
