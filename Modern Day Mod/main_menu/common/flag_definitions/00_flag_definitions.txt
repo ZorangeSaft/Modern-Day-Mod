@@ -799,6 +799,13 @@ ATR = { # Astrakhan
 	}
 }
 
+AUST = { # mdm modern day mod Australia
+	flag_definition = {
+		coa = mdm_AUST
+		priority = 1
+	}
+}
+
 AZER = { # mdm modern day mod Azerbaijan
 	flag_definition = {
 		coa = mdm_AZER
@@ -2184,6 +2191,13 @@ FCB = { # Palatinate of Burgundy
 			coa_def_hre_emperor_trigger = yes
 		}
 	}		
+}
+
+FIJI = { # mdm modern day mod Fiji
+	flag_definition = {
+		coa = mdm_FIJI
+		priority = 1
+	}
 }
 
 FIN = { # mdm modern day mod Finland
