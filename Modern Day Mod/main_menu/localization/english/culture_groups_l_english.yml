@@ -444,6 +444,9 @@
  mdm_northeast_group: "Northeast"
  mdm_northeast_group_desc: "The people of the northeast, the cradle of america"
 
+ mdm_new_england_group: "New England"
+ mdm_new_england_group_desc: "The people of new england, the land of pilgrims, patriots, and picturesque autumns"
+
  mdm_southern_group: "Southern"
  mdm_southern_group_desc: "The people of the american south, the land of hospitality and tradition"
 

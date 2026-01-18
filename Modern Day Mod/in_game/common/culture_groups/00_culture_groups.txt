@@ -612,6 +612,9 @@ mdm_great_lakes_group = { #so ontario and parts of midwest can have shared group
 mdm_northeast_group = { #us northeast
 }
 
+mdm_new_england_group = { #new england
+}
+
 mdm_southern_group = { #us south
 }
 

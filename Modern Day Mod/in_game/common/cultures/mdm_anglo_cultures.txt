@@ -268,10 +268,26 @@ mdm_cascadian_culture = {
 
 #california
 
-mdm_norcal_culture = {
+mdm_jefferson_culture = {
 	language = mdm_californian_dialect
 	
 	color = rgb {144 193 135}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group mdm_cascadian_group #not sure about these 2 groups
+	}
+}
+
+mdm_north_coast_culture = {
+	language = mdm_californian_dialect
+	
+	color = rgb {154 220 193}
 	
 	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
@@ -300,10 +316,42 @@ mdm_bay_area_culture = {
 	}
 }
 
+mdm_central_coast_culture = {
+	language = mdm_californian_dialect
+	
+	color = rgb {12 246 203}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
+	}
+}
+
 mdm_central_valley_culture = {
 	language = mdm_californian_dialect
 	
 	color = rgb {88 107 85}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
+	}
+}
+
+mdm_sierra_nevada_culture = {
+	language = mdm_californian_dialect
+	
+	color = rgb {185 237 14}
 	
 	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
@@ -383,6 +431,22 @@ mdm_southwest_culture = {
 	}
 }
 
+mdm_mezquital_culture = {
+	language = mdm_western_us_dialect
+	
+	color = rgb {243 144 80}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
+	}
+}
+
 mdm_rocky_mountains_culture = {
 	language = mdm_western_us_dialect
 	
@@ -428,6 +492,38 @@ mdm_northern_great_plains_culture = {
 
 	culture_groups = {
 		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_great_plains_group
+	}
+}
+
+mdm_black_hills_culture = {
+	language = mdm_west_northern_dialect
+	
+	color = rgb {142 133 116}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group mdm_great_plains_group
+	}
+}
+
+mdm_front_range_culture = {
+	language = mdm_west_northern_dialect
+	
+	color = rgb {147 112 103}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group mdm_great_plains_group
 	}
 }
 
@@ -514,6 +610,22 @@ mdm_great_lakes_culture = {
 	}
 }
 
+mdm_chicagoland_culture = {
+	language = mdm_northern_dialect
+	
+	color = rgb {147 123 72}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_lakes_group
+	}
+}
+
 mdm_ohio_river_valley_culture = {
 	language = mdm_midland_dialect
 	
@@ -533,7 +645,23 @@ mdm_ohio_river_valley_culture = {
 
 #northeast
 
-mdm_new_england_culture = {
+mdm_woodland_new_england_culture = {
+	language = mdm_new_england_dialect
+	
+	color = rgb {190 204 231}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_new_england_group
+	}
+}
+
+mdm_maritime_new_england_culture = {
 	language = mdm_new_england_dialect
 	
 	color = rgb {111 117 231}
@@ -545,7 +673,7 @@ mdm_new_england_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_new_england_group
 	}
 }
 
@@ -677,6 +805,22 @@ mdm_southern_appalachian_culture = {
 
 	culture_groups = {
 		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_appalachian_group
+	}
+}
+
+mdm_piedmont_culture = {
+	language = mdm_southern_dialect
+	
+	color = rgb {205 111 145}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
 	}
 }
 
