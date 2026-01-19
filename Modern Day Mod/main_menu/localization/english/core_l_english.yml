@@ -48,7 +48,7 @@
  DATE: "Date: $DATE$"
  UNTIL_DATE: "until $DATE$"
  END_OF_TIME_ETERNITY: "the end of the game"
- END_OF_TIME_LAND: "the land ceases to be"
+ END_OF_TIME_LAND: "the end of time" #mdm modern day mod
  END_OF_TIME_LAND_LOST: "the land is pried away from its owners"
  END_OF_TIME_UNITS: "they all pass into the next life"
  END_OF_TIME_MERCS: "they all either fall in battle or go back to their loved ones"
