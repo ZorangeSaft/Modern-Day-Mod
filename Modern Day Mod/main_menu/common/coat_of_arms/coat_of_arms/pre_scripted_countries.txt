@@ -7866,6 +7866,24 @@ CHI_Ming_dragon = { # China - Dragon chasing the flaming pearl
 	}		
 }
 
+mdm_CHIL = { # mdm modern day mod Chile
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = "white"
+	color2 = rgb { 219 36 22 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 46 161 }
+		instance = { position = { 0.167 0.25 } scale = { 0.333 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.166 0.238 } scale = { 0.225 0.225 } }
+	}
+}
+
 CHL = { # Kulm - Medieval Bishopric
 	pattern = "pattern_solid.dds"
 	color1 = "white"
