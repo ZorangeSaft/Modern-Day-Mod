@@ -4194,6 +4194,13 @@ NUS = { # Nusantara
 	}
 }
 
+NZEA = { # mdm modern day mod New Zealand
+	flag_definition = {
+		coa = mdm_NZEA
+		priority = 1
+	}
+}
+
 OGL = { # Ouargla
 	flag_definition = {
 		coa = OGL
@@ -7140,7 +7147,14 @@ CHI_Ming = { # Ming China
 			coa_def_empire_trigger = yes
 		}
 	}
-} 
+}
+
+CHIL = { # mdm modern day mod Chile
+	flag_definition = {
+		coa = mdm_CHIL
+		priority = 1
+	}
+}
 
 CTW = { # Tianwan
 	flag_definition = {
