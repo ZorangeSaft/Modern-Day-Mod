@@ -2542,6 +2542,26 @@ mdm_AUST = { # mdm modern day mod Australia
 	}
 }
 
+mdm_NZEA = { # mdm modern day mod New Zealand
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 27 105 }
+
+	textured_emblem = {
+		texture = "mdm_coa_union_jack.dds"
+		instance = { position = { 0.25 0.25 } scale = { 0.5 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five_new_zealand.dds"
+		color1= rgb { 201 8 42 }
+		color2 = "white"
+		instance = { position = { 0.75 0.193 } scale = { 0.143 0.143 } }
+		instance = { position = { 0.849 0.365 } scale = { 0.127 0.127 } }
+		instance = { position = { 0.635 0.425 } scale = { 0.144 0.144 } }
+		instance = { position = { 0.75 0.792 } scale = { 0.159 0.159 } }
+	}
+}
+
 AUV = { # Auvergne
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"

@@ -4194,6 +4194,13 @@ NUS = { # Nusantara
 	}
 }
 
+NZEA = { # mdm modern day mod New Zealand
+	flag_definition = {
+		coa = mdm_NZEA
+		priority = 1
+	}
+}
+
 OGL = { # Ouargla
 	flag_definition = {
 		coa = OGL
