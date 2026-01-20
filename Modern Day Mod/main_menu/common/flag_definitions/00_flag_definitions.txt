@@ -1973,6 +1973,13 @@ DRCO = { # mdm modern day mod Democratic Republic of the Congo
 	}
 }
 
+ECUA = { # mdm modern day mod Ecuador
+	flag_definition = {
+		coa = mdm_ECUA
+		priority = 1
+	}
+}
+
 EGY = { # mdm modern day mod Egypt
 	flag_definition = {
 		coa = mdm_EGY
