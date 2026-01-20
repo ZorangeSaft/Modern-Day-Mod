@@ -4938,6 +4938,25 @@ BRA_emperor = { # Brandenburg - Imperial eagle & escutcheon variant
 	}
 }
 
+mdm_BRAZ = { # mdm modern day mod Brazil
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 149 62 }
+
+	colored_emblem = {
+		texture = "mdm_ce_diamond_brazil.dds"
+		color1 = rgb { 255 204 0 }
+		instance = { scale = { 0.757 0.757 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_brazil.dds"
+		color1 = rgb { 44 33 130 }
+		color2 = "white"
+		color3 = rgb { 0 149 62 }
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
 BRB = { # Brabant
 	pattern = "pattern_solid.dds"
 	color1 = "black"

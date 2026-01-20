@@ -1137,6 +1137,13 @@ BRA = { # Brandenburg
 	}	
 }
 
+BRAZ = { # mdm modern day mod Brazil
+	flag_definition = {
+		coa = mdm_BRAZ
+		priority = 1
+	}
+}
+
 BRB = { # Brabant
 	flag_definition = {
 		coa = BRB
