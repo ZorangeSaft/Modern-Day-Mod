@@ -1029,6 +1029,13 @@ BOH = { # Bohemia
 	}
 }
 
+BOLI = { # mdm modern day mod Bolivia
+	flag_definition = {
+		coa = mdm_BOLI
+		priority = 1
+	}
+}
+
 BOS = { # Bosnia
 	flag_definition = {
 		coa = BOS

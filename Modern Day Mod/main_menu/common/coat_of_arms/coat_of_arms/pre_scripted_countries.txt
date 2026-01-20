@@ -4496,6 +4496,13 @@ BOH_emperor = { # Bohemia - Imperial eagle & escutcheon variant
 	}
 }
 
+mdm_BOLI = { # mdm modern day mod Bolivia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 218 41 28 }
+	color2 = rgb { 244 228 0 }
+	color3 = rgb { 0 122 51 }
+}
+
 BON = { # Bonoman
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	352 	70	60	}
