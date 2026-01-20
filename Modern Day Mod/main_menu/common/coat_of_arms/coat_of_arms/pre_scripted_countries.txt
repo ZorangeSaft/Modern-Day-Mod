@@ -35344,6 +35344,19 @@ SUN = { # Sunda
 	}	
 }
 
+mdm_SURI = { # mdm modern day mod Suriname
+	pattern = "mdm_pattern_horizontal_stripes_suriname.dds"
+	color1 = rgb { 181 2 41 }
+	color2 = rgb { 52 127 61 }
+	color3 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 237 201 23 }
+		instance = { scale = { 0.361 0.361 } }
+	}
+}
+
 SUT = { # Sutayids
 	pattern = "pattern_solid.dds"
 	color1 = "blue_mid"

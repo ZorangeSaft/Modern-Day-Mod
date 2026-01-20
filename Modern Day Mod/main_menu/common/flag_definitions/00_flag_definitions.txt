@@ -5537,6 +5537,13 @@ SUDA = { # mdm modern day mod Sudan
 	}
 }
 
+SURI = { # mdm modern day mod Suriname
+	flag_definition = {
+		coa = mdm_SURI
+		priority = 1
+	}
+}
+
 SWB = { # Saxe-Wittemberg
 	flag_definition = {
 		coa = SWB
