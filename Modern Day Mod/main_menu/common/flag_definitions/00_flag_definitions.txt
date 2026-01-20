@@ -4440,6 +4440,13 @@ PEA = { # Perugia
 	}
 }
 
+PERU = { # mdm modern day mod Peru
+	flag_definition = {
+		coa = mdm_PERU
+		priority = 1
+	}
+}
+
 PES = { # Pesaro
 	flag_definition = {
 		coa = PES

@@ -28984,6 +28984,12 @@ PER = { # Périgord
 	}	
 }
 
+mdm_PERU = { # mdm modern day mod Peru
+	pattern = "pattern_vertical_bar_01.dds"
+	color1 = rgb { 218 8 30 }
+	color2 = "white"
+}
+
 PES = { # Pesaro - Arms of the city (also lion rampant podesta & cross capitano del popolo) 
 	pattern = "pattern_solid.dds"
 	color1 = "white"
