@@ -4423,6 +4423,13 @@ PAR = { # Parma
 	}	
 }
 
+PARA = { # mdm modern day mod Paraguay
+	flag_definition = {
+		coa = mdm_PARA
+		priority = 1
+	}
+}
+
 PAV = { # Pavia
 	flag_definition = {
 		coa = PAV
