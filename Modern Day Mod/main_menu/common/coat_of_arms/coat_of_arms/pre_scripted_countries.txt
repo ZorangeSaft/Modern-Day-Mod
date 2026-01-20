@@ -38007,6 +38007,13 @@ TRS = { # Tarusa - 18th c. Imperial arms (crown simplified) - Alternatively coul
 	}	
 }
 
+mdm_TRTO = { # mdm modern day mod Trinidad and Tobago
+	pattern = "mdm_pattern_diagonal_stripes_trinidad_and_tobago.dds"
+	color1 = rgb { 219 19 50 }
+	color2 = "black"
+	color3 = "white"
+}
+
 TRU = { # Tortuga
 	pattern = "pattern_solid.dds"
 	color1 = "red"

@@ -5768,6 +5768,13 @@ TRE = { # Trebizond
 	}
 }
 
+TRTO = { # mdm modern day mod Trinidad and Tobago
+	flag_definition = {
+		coa = mdm_TRTO
+		priority = 1
+	}
+}
+
 TLE = { # Tlemcen
 	flag_definition = {
 		coa = TLE
