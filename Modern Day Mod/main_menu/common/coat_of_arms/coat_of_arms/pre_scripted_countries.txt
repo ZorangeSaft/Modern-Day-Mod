@@ -1903,6 +1903,19 @@ ARG = { # Argos-Nauplia
 	}		
 }
 
+mdm_ARGE = { # mdm modern day mod Argentina
+	pattern = "pattern_horizontal_bar_01.dds"
+	color1 = rgb { 117 174 224 }
+	color2 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_argentina.dds"
+		color1 = rgb { 246 182 6 }
+		color2 = rgb { 134 49 3 }
+		instance = { scale = { 0.28 0.28 } }
+	}
+}
+
 ARK = { # Launggyet (Arakan)
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	205	70	40	}

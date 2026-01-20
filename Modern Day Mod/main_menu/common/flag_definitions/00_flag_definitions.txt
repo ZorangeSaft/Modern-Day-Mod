@@ -687,6 +687,13 @@ ARB = { # Arborea
 	}
 }
 
+ARGE = { # mdm modern day mod Argentina
+	flag_definition = {
+		coa = mdm_ARGE
+		priority = 1
+	}
+}
+
 ARM = { # mdm modern day mod Armenia
 	flag_definition = {
 		coa = mdm_ARM
