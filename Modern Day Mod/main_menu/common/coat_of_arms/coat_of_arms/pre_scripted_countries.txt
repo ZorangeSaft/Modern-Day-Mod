@@ -14585,6 +14585,23 @@ GUY_quarterly = { # Gascony - modern french design
 	}
 }
 
+mdm_GUYA = { # mdm modern day mod Guyana
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 37 148 106 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_guyana_1.dds"
+		color1 = rgb { 255 195 6 }
+		color2 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_guyana_2.dds"
+		color1 = rgb { 191 24 41 }
+		color2 = "black"
+	}
+}
+
 GWA = { # Gwalior
 	pattern = "pattern_solid.dds"
 	color1 = "red"

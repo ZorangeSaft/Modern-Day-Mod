@@ -2464,6 +2464,13 @@ GUIN = { # mdm modern day mod Guinea
 
 # GUY TODO
 
+GUYA = { # mdm modern day mod Guyana
+	flag_definition = {
+		coa = mdm_GUYA
+		priority = 1
+	}
+}
+
 HAB = { # mdm modern day mod Austria
 	flag_definition = {
 		coa = mdm_HAB
