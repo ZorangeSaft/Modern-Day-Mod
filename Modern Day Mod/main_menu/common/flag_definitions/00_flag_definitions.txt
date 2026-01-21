@@ -4385,6 +4385,13 @@ PALU = { # mdm modern day mod Palau
 	}
 }
 
+PANA = { # mdm modern day mod Panama
+	flag_definition = {
+		coa = mdm_PANA
+		priority = 1
+	}
+}
+
 PAP = { # Rome/Papal States
 	flag_definition = {
 		coa = PAP

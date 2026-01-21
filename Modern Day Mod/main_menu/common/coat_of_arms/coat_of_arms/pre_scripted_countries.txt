@@ -28658,7 +28658,26 @@ PAN = { # Pu'an
 		color3 = color1
 		instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }				
 	}			
-} 
+}
+
+mdm_PANA = { # mdm modern day mod Panama
+	pattern = "mdm_pattern_panama.dds"
+	color1 = "white"
+	color2 = rgb { 219 10 19 }
+	color3 = rgb { 1 30 86 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color3
+		instance = { position = { 0.25 0.25 } scale = { 0.246 0.246 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color2
+		instance = { position = { 0.75 0.75 } scale = { 0.246 0.246 } }
+	}
+}
 
 PAP = { # Papal States
 	pattern = "pattern_solid.dds"
