@@ -20,6 +20,10 @@
 				name = mdm_local_solar_illumination
 				value = mdm_solar_panel_max_building_level
 			}
+			#set_variable = {
+			#	name = mdm_local_urbanisation_suitability
+			#	value = mdm_local_urbanisation_suitability_level
+			#}
 		}
 	}
 

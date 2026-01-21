@@ -25,6 +25,18 @@
 
 
 
+ #urbanisation suitability mapmode/urbanisation mapmode
+ mapmode_mdm_urbanisation_suitability_name: "Urbanisation Suitability"
+ MAPMODE_MDM_URBANISATION_SUITABILITY: "#T $mapmode_mdm_urbanisation_suitability_name$#!\nThis colors [locations|e] by the [mdm_local_urbanisation_suitability|e] in the [location|e]."
+ MAPMODE_MDM_URBANISATION_SUITABILITY_TT_LAND: "[ROOT.GetLocation.GetName] has an [mdm_urbanisation_suitability|e] of [ROOT.GetLocation.MakeScope.Var('mdm_local_urbanisation_suitability').GetValue|Y]."
+ MAPMODE_MDM_URBANISATION_SUITABILITY_TT_WATER: "[ROOT.GetLocation.GetName] is not a land [location|e] so it does not have an [mdm_urbanisation_suitability|e] assigned."
+ MAPMODE_MDM_URBANISATION_SUITABILITY_TT_LAND_BREAKDOWN: "a"
+
+ game_concept_mdm_urbanisation_suitability: "Urbanisation Suitability"
+ game_concept_mdm_urbanisation_suitability_desc: "[mdm_urbanisation_suitability|e] is a measure of how suitable a [location|e] is for building a city. \n\nIt is based on [topography|e], [vegetation|e], [climate|e], [natural_harbor_suitability|e], and if it has a [river|e]."
+
+
+
  #game concepts
  game_concept_deflation: "Deflation"
  game_concept_deflate: "Deflate"

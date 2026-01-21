@@ -428,3 +428,126 @@ mdm_solar = {
 	#color_refresh_counters = { Day }
 	#color_and_names_refresh_counters = { Day }
 }
+
+
+
+###urbanisation suitability mapmode
+
+mdm_urbanisation_suitability = {
+	#color_mode = no_color
+
+	map_color = {
+		if = {
+			limit = {
+				mdm_local_urbanisation_suitability_level < 1
+			}
+			value = rgb { 0 0 0 }
+		}
+		else_if = {
+			limit = {
+				mdm_local_urbanisation_suitability_level < 12
+			}
+			lerp = {
+				max_color = rgb { 255 255 0 }
+				min_color = rgb { 255 0 0 }
+				factor = {
+					value = mdm_local_urbanisation_suitability_level #var:mdm_local_urbanisation_suitability
+					divide = 10
+				}
+			}
+		}
+		else_if = {
+			limit = {
+				mdm_local_urbanisation_suitability_level < 25
+			}
+			lerp = {
+				max_color = rgb { 0 255 0 }
+				min_color = rgb { 255 255 0 }
+				factor = {
+					value = mdm_local_urbanisation_suitability_level
+					subtract = 10
+					divide = 10
+				}
+			}
+		}
+		else = {
+			lerp = {
+				max_color = rgb { 255 255 255 }
+				min_color = rgb { 0 0 0 }
+				factor = {
+					value = mdm_local_urbanisation_suitability_level
+				}
+			}
+		}
+	}
+
+	legend_key = {
+		desc = "MAPMODE_MDM_URBANISATION_SUITABILITY"
+		color = define:NMapColors|MAP_COLOR_HIGH
+	}
+	tooltip_key = {
+		if = {
+			limit = {
+				is_land = yes 
+			}
+			if = {
+				limit = {
+					has_variable = mdm_local_wind_breakdown
+				}
+				value = MAPMODE_MDM_WIND_TT_LAND_BREAKDOWN
+			}
+			else = {
+				value = MAPMODE_MDM_WIND_TT_LAND
+			}
+		}
+		else = {
+			value = MAPMODE_MDM_WIND_TT_WATER
+		}
+	}
+
+	small_map_names = location
+	medium_map_names = location
+	large_map_names = location
+
+	small_tooltip_context = location
+	medium_tooltip_context = location
+	large_tooltip_context = location
+
+	fill_in_impassable = yes
+	enable_snow = no
+	
+	flatmap_behaviour = always
+	use_fow = no
+	
+	category = geography
+	index = 1
+
+	map_markers = {
+		all = no
+	}
+	
+	#enable_water_names = yes
+	
+	gradient_parameters = {
+		zoom_step = @zoom_step_near
+
+		gradient_alpha_inside = 	1
+		gradient_alpha_outside = 	1
+		gradient_width = 			@flatmap_far_gradient_width
+		gradient_color_mult =		@flatmap_far_gradient_color_mult
+		edge_width = 				0
+		edge_sharpness = 			@flatmap_far_edge_sharpness
+		edge_alpha = 				0
+		edge_color_mult = 			0
+		before_lighting_blend =		@flatmap_far_before_lighting_blend
+		after_lighting_blend =		@flatmap_far_after_lighting_blend
+	}
+
+	color_refresh_counters = { TopographyVegetationDatabaseUpdate }
+	color_and_names_refresh_counters = { TopographyVegetationDatabaseUpdate }
+
+
+	#activate these for debugging
+	#color_refresh_counters = { Day }
+	#color_and_names_refresh_counters = { Day }
+}

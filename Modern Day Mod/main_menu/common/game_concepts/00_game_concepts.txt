@@ -3083,7 +3083,7 @@ share_of_power_gc = { #doubt
 
 
 
-deflation = {
+deflation = { #probably remove this one (inflation pretty hardcoded in how it works, just added this as a test anyway)
 	alias = { deflate }
 	texture = "gfx/interface/icons/modifiers/_default.dds"
 }
@@ -3093,6 +3093,10 @@ mdm_average_wind_speed = {
 }
 
 mdm_average_solar_illumination = {
+	texture = "gfx/interface/icons/modifiers/_default.dds"
+}
+
+mdm_urbanisation_suitability = {
 	texture = "gfx/interface/icons/modifiers/_default.dds"
 }
 
