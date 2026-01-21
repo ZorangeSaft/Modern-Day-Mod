@@ -1778,6 +1778,13 @@ CNN = { # Connacht
 	}
 }
 
+COLO = { # mdm modern day mod Colombia
+	flag_definition = {
+		coa = mdm_COLO
+		priority = 1
+	}
+}
+
 CONG = { # mdm modern day mod Congo
 	flag_definition = {
 		coa = mdm_CONG
@@ -2745,6 +2752,13 @@ ITA = { # mdm modern day mod Italy
 IVOR = { # mdm modern day mod Côte d'Ivoire
 	flag_definition = {
 		coa = mdm_IVOR
+		priority = 1
+	}
+}
+
+JAMA = { # mdm modern day mod Jamaica
+	flag_definition = {
+		coa = mdm_JAMA
 		priority = 1
 	}
 }
@@ -4374,6 +4388,13 @@ PALE = { # mdm modern day mod Palestine
 PALU = { # mdm modern day mod Palau
 	flag_definition = {
 		coa = mdm_PALU
+		priority = 1
+	}
+}
+
+PANA = { # mdm modern day mod Panama
+	flag_definition = {
+		coa = mdm_PANA
 		priority = 1
 	}
 }
@@ -6883,6 +6904,13 @@ VEN = { # Venice
 			coa_def_at_war_trigger = yes # TODO not refreshing
 		}
 	}	
+}
+
+VENE = { # mdm modern day mod Venezuela
+	flag_definition = {
+		coa = mdm_VENE
+		priority = 1
+	}
 }
 
 VER = { # Verona

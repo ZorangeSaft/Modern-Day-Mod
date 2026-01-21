@@ -9035,6 +9035,13 @@ COI = { # Coixtlahuacan/Yodzo Coo
 	}
 }
 
+mdm_COLO = { # mdm modern day mod Colombia
+	pattern = "mdm_pattern_tricolor_horizontal_2-1-1.dds"
+	color1 = rgb { 255 206 0 }
+	color2 = rgb { 0 44 136 }
+	color3 = rgb { 201 8 42 }
+}
+
 COM = { # Comminges
 	pattern = "pattern_solid.dds"
 	color1 = "white"
@@ -17172,6 +17179,13 @@ JAL = { # Jalayirids
 		color2 = color3
 		instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }		
 	}	
+}
+
+mdm_JAMA = { # mdm modern day mod Jamaica
+	pattern = "mdm_pattern_jamaica.dds"
+	color1 = rgb { 0 120 71 }
+	color2 = rgb { 41 36 33 }
+	color3 = rgb { 255 185 21 }
 }
 
 mdm_JAP = { # mdm modern day mod Japan
@@ -28651,7 +28665,26 @@ PAN = { # Pu'an
 		color3 = color1
 		instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 } }				
 	}			
-} 
+}
+
+mdm_PANA = { # mdm modern day mod Panama
+	pattern = "mdm_pattern_panama.dds"
+	color1 = "white"
+	color2 = rgb { 219 10 19 }
+	color3 = rgb { 1 30 86 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color3
+		instance = { position = { 0.25 0.25 } scale = { 0.246 0.246 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color2
+		instance = { position = { 0.75 0.75 } scale = { 0.246 0.246 } }
+	}
+}
 
 PAP = { # Papal States
 	pattern = "pattern_solid.dds"
@@ -39782,6 +39815,19 @@ VEN_eagle_sword = { # Venice - Sword variant with imperial arms
 		color1 = color1
 		color2 = color2
 		mask = { 2 }
+	}
+}
+
+mdm_VENE = { # mdm modern day mod Venezuela
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 255 205 0 }
+	color2 = rgb { 0 31 126 }
+	color3 = rgb { 208 12 39 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stars_venezuela.dds"
+		color1 = "white"
+		instance = { scale = { 0.427 0.427 } }
 	}
 }
 
