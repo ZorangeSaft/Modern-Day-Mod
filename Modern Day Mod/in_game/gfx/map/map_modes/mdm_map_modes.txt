@@ -255,13 +255,13 @@ mdm_wind = {
 		after_lighting_blend =		@flatmap_far_after_lighting_blend
 	}
 
-	#color_refresh_counters = { TopographyVegetationDatabaseUpdate }
-	#color_and_names_refresh_counters = { TopographyVegetationDatabaseUpdate }
+	color_refresh_counters = { TopographyVegetationDatabaseUpdate }
+	color_and_names_refresh_counters = { TopographyVegetationDatabaseUpdate }
 
 
 	#activate these for debugging
-	color_refresh_counters = { Day }
-	color_and_names_refresh_counters = { Day }
+	#color_refresh_counters = { Day }
+	#color_and_names_refresh_counters = { Day }
 }
 
 
@@ -420,11 +420,11 @@ mdm_solar = {
 		after_lighting_blend =		@flatmap_far_after_lighting_blend
 	}
 
-	#color_refresh_counters = { TopographyVegetationDatabaseUpdate }
-	#color_and_names_refresh_counters = { TopographyVegetationDatabaseUpdate }
+	color_refresh_counters = { TopographyVegetationDatabaseUpdate }
+	color_and_names_refresh_counters = { TopographyVegetationDatabaseUpdate }
 
 
 	#activate these for debugging
-	color_refresh_counters = { Day }
-	color_and_names_refresh_counters = { Day }
+	#color_refresh_counters = { Day }
+	#color_and_names_refresh_counters = { Day }
 }
