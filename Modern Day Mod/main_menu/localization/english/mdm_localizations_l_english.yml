@@ -27,7 +27,7 @@
 
  #urbanisation suitability mapmode/urbanisation mapmode
  mapmode_mdm_urbanisation_suitability_name: "Urbanisation Suitability"
- MAPMODE_MDM_URBANISATION_SUITABILITY: "#T $mapmode_mdm_urbanisation_suitability_name$#!\nThis colors [locations|e] by the [mdm_local_urbanisation_suitability|e] in the [location|e]."
+ MAPMODE_MDM_URBANISATION_SUITABILITY: "#T $mapmode_mdm_urbanisation_suitability_name$#!\nThis colors [locations|e] by the [mdm_urbanisation_suitability|e] in the [location|e]."
  MAPMODE_MDM_URBANISATION_SUITABILITY_TT_LAND: "[ROOT.GetLocation.GetName] has an [mdm_urbanisation_suitability|e] of [ROOT.GetLocation.MakeScope.Var('mdm_local_urbanisation_suitability').GetValue|Y]."
  MAPMODE_MDM_URBANISATION_SUITABILITY_TT_WATER: "[ROOT.GetLocation.GetName] is not a land [location|e] so it does not have an [mdm_urbanisation_suitability|e] assigned."
  MAPMODE_MDM_URBANISATION_SUITABILITY_TT_LAND_BREAKDOWN: "a"
