@@ -6885,6 +6885,13 @@ VEN = { # Venice
 	}	
 }
 
+VENE = { # mdm modern day mod Venezuela
+	flag_definition = {
+		coa = mdm_VENE
+		priority = 1
+	}
+}
+
 VER = { # Verona
 	flag_definition = {
 		coa = VER

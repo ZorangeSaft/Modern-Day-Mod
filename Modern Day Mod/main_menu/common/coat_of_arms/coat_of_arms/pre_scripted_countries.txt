@@ -39785,6 +39785,19 @@ VEN_eagle_sword = { # Venice - Sword variant with imperial arms
 	}
 }
 
+mdm_VENE = { # mdm modern day mod Venezuela
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 255 205 0 }
+	color2 = rgb { 0 31 126 }
+	color3 = rgb { 208 12 39 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stars_venezuela.dds"
+		color1 = "white"
+		instance = { scale = { 0.427 0.427 } }
+	}
+}
+
 VER = { # Verona
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
