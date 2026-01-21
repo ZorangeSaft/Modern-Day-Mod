@@ -2756,6 +2756,13 @@ IVOR = { # mdm modern day mod Côte d'Ivoire
 	}
 }
 
+JAMA = { # mdm modern day mod Jamaica
+	flag_definition = {
+		coa = mdm_JAMA
+		priority = 1
+	}
+}
+
 JAP = { # mdm modern day mod Japan
 	flag_definition = {
 		coa = mdm_JAP

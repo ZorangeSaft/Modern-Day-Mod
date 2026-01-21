@@ -17181,6 +17181,13 @@ JAL = { # Jalayirids
 	}	
 }
 
+mdm_JAMA = { # mdm modern day mod Jamaica
+	pattern = "mdm_pattern_jamaica.dds"
+	color1 = rgb { 0 120 71 }
+	color2 = rgb { 41 36 33 }
+	color3 = rgb { 255 185 21 }
+}
+
 mdm_JAP = { # mdm modern day mod Japan
 	pattern = "pattern_solid.dds"
 	color1 = "white"
