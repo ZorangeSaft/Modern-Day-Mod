@@ -1778,6 +1778,13 @@ CNN = { # Connacht
 	}
 }
 
+COLO = { # mdm modern day mod Colombia
+	flag_definition = {
+		coa = mdm_COLO
+		priority = 1
+	}
+}
+
 CONG = { # mdm modern day mod Congo
 	flag_definition = {
 		coa = mdm_CONG

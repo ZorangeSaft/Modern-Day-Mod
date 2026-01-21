@@ -9035,6 +9035,13 @@ COI = { # Coixtlahuacan/Yodzo Coo
 	}
 }
 
+mdm_COLO = { # mdm modern day mod Colombia
+	pattern = "mdm_pattern_tricolor_horizontal_2-1-1.dds"
+	color1 = rgb { 255 206 0 }
+	color2 = rgb { 0 44 136 }
+	color3 = rgb { 201 8 42 }
+}
+
 COM = { # Comminges
 	pattern = "pattern_solid.dds"
 	color1 = "white"
