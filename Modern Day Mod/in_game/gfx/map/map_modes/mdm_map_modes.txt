@@ -440,7 +440,7 @@ mdm_urbanisation_suitability = {
 		if = {
 			limit = {
 				#mdm_local_urbanisation_suitability_level < 1
-				NOT = { has_variable = mdm_local_urbanisation_suitability }
+				NOT = { has_variable = mdm_local_urbanisation_suitability } #comment this out if you wanna use the above thing
 			}
 			value = rgb { 0 0 0 }
 		}
