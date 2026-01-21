@@ -439,32 +439,32 @@ mdm_urbanisation_suitability = {
 	map_color = {
 		if = {
 			limit = {
-				mdm_local_urbanisation_suitability_level < 1
+				NOT = { has_variable = mdm_local_urbanisation_suitability }
 			}
 			value = rgb { 0 0 0 }
 		}
 		else_if = {
 			limit = {
-				mdm_local_urbanisation_suitability_level < 12
+				var:mdm_local_urbanisation_suitability < 12
 			}
 			lerp = {
 				max_color = rgb { 255 255 0 }
 				min_color = rgb { 255 0 0 }
 				factor = {
-					value = mdm_local_urbanisation_suitability_level #var:mdm_local_urbanisation_suitability
+					value = var:mdm_local_urbanisation_suitability #mdm_local_urbanisation_suitability_level #var:mdm_local_urbanisation_suitability
 					divide = 10
 				}
 			}
 		}
 		else_if = {
 			limit = {
-				mdm_local_urbanisation_suitability_level < 25
+				var:mdm_local_urbanisation_suitability < 25
 			}
 			lerp = {
 				max_color = rgb { 0 255 0 }
 				min_color = rgb { 255 255 0 }
 				factor = {
-					value = mdm_local_urbanisation_suitability_level
+					value = var:mdm_local_urbanisation_suitability
 					subtract = 10
 					divide = 10
 				}
@@ -475,7 +475,7 @@ mdm_urbanisation_suitability = {
 				max_color = rgb { 255 255 255 }
 				min_color = rgb { 0 0 0 }
 				factor = {
-					value = mdm_local_urbanisation_suitability_level
+					value = var:mdm_local_urbanisation_suitability
 				}
 			}
 		}
@@ -494,14 +494,14 @@ mdm_urbanisation_suitability = {
 				limit = {
 					has_variable = mdm_local_wind_breakdown
 				}
-				value = MAPMODE_MDM_WIND_TT_LAND_BREAKDOWN
+				value = MAPMODE_MDM_URBANISATION_SUITABILITY
 			}
 			else = {
-				value = MAPMODE_MDM_WIND_TT_LAND
+				value = MAPMODE_MDM_URBANISATION_SUITABILITY_TT_LAND
 			}
 		}
 		else = {
-			value = MAPMODE_MDM_WIND_TT_WATER
+			value = MAPMODE_MDM_URBANISATION_SUITABILITY_TT_WATER
 		}
 	}
 
