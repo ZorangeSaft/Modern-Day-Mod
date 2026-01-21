@@ -33,7 +33,7 @@
  MAPMODE_MDM_URBANISATION_SUITABILITY_TT_LAND_BREAKDOWN: "a"
 
  game_concept_mdm_urbanisation_suitability: "Urbanisation Suitability"
- game_concept_mdm_urbanisation_suitability_desc: "[mdm_urbanisation_suitability|e] is a measure of how suitable a [location|e] is for building a city. \n\nIt is based on [topography|e], [vegetation|e], [climate|e], [natural_harbor_suitability|e], and if it has a [river|e]."
+ game_concept_mdm_urbanisation_suitability_desc: "[mdm_urbanisation_suitability|e] is a measure of how suitable a [location|e] is for creating a city. \n\nIt is based on [topography|e], [vegetation|e], [climate|e], [natural_harbor_suitability|e], and if it has a [river|e] or is adjacent to a [lake|e]."
 
 
 
