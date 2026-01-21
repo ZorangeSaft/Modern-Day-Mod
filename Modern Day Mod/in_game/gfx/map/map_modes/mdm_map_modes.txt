@@ -439,6 +439,7 @@ mdm_urbanisation_suitability = {
 	map_color = {
 		if = {
 			limit = {
+				#mdm_local_urbanisation_suitability_level < 1
 				NOT = { has_variable = mdm_local_urbanisation_suitability }
 			}
 			value = rgb { 0 0 0 }
