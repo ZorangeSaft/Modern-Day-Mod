@@ -11564,7 +11564,18 @@ ELL = { # Ellwangen
 		texture = "te_mitre_ellwangen.dds"
 		instance = { position = { 0.5 0.5 } scale = { 0.95 0.95 } }				
 	}		
-}  
+}
+
+mdm_ELSA = { # mdm modern day mod El Salvador
+	pattern = "pattern_horizontal_bar_01.dds"
+	color1 = rgb { 0 69 173 }
+	color2 = "white"
+	
+	textured_emblem = {
+		texture = "mdm_coa_el_salvador.dds"
+		instance = { scale = { 0.296 0.296 } }
+	}
+}
 
 ELY = { # Ely/Eile
 	pattern = "pattern_solid.dds"
