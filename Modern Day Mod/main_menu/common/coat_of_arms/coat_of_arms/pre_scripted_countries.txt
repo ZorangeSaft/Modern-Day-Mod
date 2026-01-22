@@ -9097,6 +9097,13 @@ COR = { # Corsica
 	}
 }
 
+mdm_COST = { # mdm modern day mod Costa Rica
+	pattern = "mdm_pattern_horizontal_stripes_costa_rica.dds"
+	color1 = rgb { 219 36 22 }
+	color2 = "white"
+	color3 = rgb { 0 12 138 }
+}
+
 COT = { # Cortona
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"
