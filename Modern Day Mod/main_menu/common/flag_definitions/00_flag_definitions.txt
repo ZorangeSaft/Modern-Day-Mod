@@ -3455,6 +3455,13 @@ MEI = { # Meissen
 	# TODO
 }
 
+MEX = { # mdm modern day mod Mexico
+	flag_definition = {
+		coa = mdm_MEX
+		priority = 1
+	}
+}
+
 MFA = { # Montferrat
 	flag_definition = {
 		coa = MFA
