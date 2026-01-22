@@ -1920,6 +1920,13 @@ CRO = { # mdm modern day mod Croatia
 	}
 }
 
+CUBA = { # mdm modern day mod Cuba
+	flag_definition = {
+		coa = mdm_CUBA
+		priority = 1
+	}
+}
+
 CYP = { # mdm modern day mod Cyprus
 	flag_definition = {
 		coa = mdm_CYP

@@ -9914,6 +9914,23 @@ CTZ = { # Coatzacoalcos
 	}
 }
 
+mdm_CUBA = {  # mdm modern day mod Cuba
+	pattern = "mdm_pattern_horizontal_stripes_5.dds"
+	color1 = rgb { 0 37 144 }
+	color2 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_60.dds"
+		color1 = rgb { 204 13 13 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color2
+		instance = { position = { 0.192 0.481 } scale = { 0.3 0.3 } }
+	}
+}
+
 CUC = { # Cuica
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	350		75		55	} 	
