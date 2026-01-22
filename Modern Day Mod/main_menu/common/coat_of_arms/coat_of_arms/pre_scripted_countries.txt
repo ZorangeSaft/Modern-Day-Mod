@@ -14373,6 +14373,17 @@ GSW = { # Gustrow
 	}			
 }
 
+mdm_GUAT = { # mdm modern day mod Guatemala
+	pattern = "pattern_vertical_bar_01.dds"
+	color1 = rgb { 71 152 209 }
+	color2 = "white"
+	
+	textured_emblem = {
+		texture = "mdm_coa_guatemala.dds"
+		instance = { scale = { 0.311 0.311 } }
+	}
+}
+
 GUB = { # Gubbio
 	pattern = "pattern_horizontal_bar_01.dds"
 	color1 = "blue"

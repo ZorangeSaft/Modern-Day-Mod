@@ -2455,6 +2455,13 @@ GRL = { # Greenland
 	}
 }
 
+GUAT = { # mdm modern day mod Guatemala
+	flag_definition = {
+		coa = mdm_GUAT
+		priority = 1
+	}
+}
+
 GUB = { # Gubbio
 	flag_definition = {
 		coa = GUB
