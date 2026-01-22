@@ -2618,6 +2618,13 @@ HOI = { # Nara Hoifa
 	}
 }
 
+HOND = { # mdm modern day mod Honduras
+	flag_definition = {
+		coa = mdm_HOND
+		priority = 1
+	}
+}
+
 HPL = { # Holstein-Plon/Wagria
 	flag_definition = {
 		coa = HPL_wagria
