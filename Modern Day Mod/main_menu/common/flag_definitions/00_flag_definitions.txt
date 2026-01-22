@@ -2558,6 +2558,13 @@ HAI = { # Hainaut
 	}
 }
 
+HAIT = { # mdm modern day mod Haiti
+	flag_definition = {
+		coa = mdm_HAIT
+		priority = 1
+	}
+}
+
 HAN = { # Hannover
 	flag_definition = {
 		coa = HAN

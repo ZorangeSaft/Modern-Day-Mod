@@ -14991,6 +14991,17 @@ HAI_ancient = { # Hainaut - Ancient/Proper
 	}
 }
 
+mdm_HAIT = { # mdm modern day mod Haiti
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 0 26 160 }
+	color2 = rgb { 211 8 49 }
+
+	textured_emblem = {
+		texture = "mdm_coa_haiti.dds"
+		instance = { scale = { 0.478 0.478 } }
+	}
+}
+
 HAL = { # Halych
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
