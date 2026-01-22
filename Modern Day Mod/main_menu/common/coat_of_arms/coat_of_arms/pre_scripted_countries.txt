@@ -3328,6 +3328,23 @@ mdm_BELA = { # mdm modern day mod Belarus
 	}
 }
 
+mdm_BELI = { # mdm modern day mod Belize
+	pattern = "mdm_pattern_border_top_and_bottom_1-8-1.dds"
+	color1 = rgb { 16 14 151 }
+	color2 = rgb { 218 6 18 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1 = "white"
+		instance = { scale = { 0.583 0.583 } }
+	}
+
+	textured_emblem = {
+		texture = "mdm_coa_belize.dds"
+		instance = { scale = { 0.559 0.559 } }
+	}
+}
+
 mdm_BEN = { # mdm modern day mod Benin
 	pattern = "mdm_pattern_left_third_horizontal_split.dds"
 	color1 = rgb { 0 136 80 }

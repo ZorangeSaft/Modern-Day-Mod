@@ -910,6 +910,13 @@ BELA = { # mdm modern day mod Belarus
 	}
 }
 
+BELI = { # mdm modern day mod Belize
+	flag_definition = {
+		coa = mdm_BELI
+		priority = 1
+	}
+}
+
 BEN = { # mdm modern day mod Benin
 	flag_definition = {
 		coa = mdm_BEN
