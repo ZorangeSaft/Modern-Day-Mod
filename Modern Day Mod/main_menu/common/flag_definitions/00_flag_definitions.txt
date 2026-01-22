@@ -3999,6 +3999,13 @@ NEV = { # Nevers
 	}	
 }
 
+NICR = { # mdm modern day mod Nicaragua
+	flag_definition = {
+		coa = mdm_NICR
+		priority = 1
+	}
+}
+
 NIGE = { # mdm modern day mod Niger
 	flag_definition = {
 		coa = mdm_NIGE

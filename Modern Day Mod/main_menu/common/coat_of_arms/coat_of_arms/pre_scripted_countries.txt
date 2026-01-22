@@ -26323,6 +26323,17 @@ NHS = { # Nordhausen
 	}				
 }
 
+mdm_NICR = { # mdm modern day mod Nicaragua
+	pattern = "pattern_horizontal_bar_01.dds"
+	color1 = rgb { 0 103 199 }
+	color2 = "white"
+	
+	textured_emblem = {
+		texture = "mdm_coa_nicaragua.dds"
+		instance = { scale = { 0.25 0.25 } }
+	}
+}
+
 NID = { # Nidda
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = "black"
