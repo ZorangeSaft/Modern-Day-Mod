@@ -3024,6 +3024,18 @@ BAR = { # Bar
 	}
 }
 
+mdm_BARB = { # mdm modern day mod Barbados
+	pattern = "pattern_vertical_bar_01.dds"
+	color1 = rgb { 0 33 128 }
+	color2 = rgb { 255 200 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_trident_barbados.dds"
+		color1 = "black"
+		instance = { scale = { 0.484 0.484 } }
+	}
+}
+
 BAS = { # Basel
 	pattern = "pattern_solid.dds"
 	color1 = "white"

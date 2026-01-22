@@ -848,6 +848,13 @@ BANG = { # mdm modern day mod Bangladesh
 	}
 }
 
+BARB = { # mdm modern day mod Barbados
+	flag_definition = {
+		coa = mdm_BARB
+		priority = 1
+	}
+}
+
 
 BAV = { # Bavaria
 	flag_definition = {
