@@ -3415,5 +3415,5 @@ building_manager = {
    stockade = { tag = AZF level = 1 location = as_suwaydirah }
    stockade = { tag = ZIB level = 1 location = madin_bani_sulaym }
    stockade = { tag = ZIB level = 1 location = al_ghrabah }
-   mdm_eu_capital = { tag = EUROP level = 1 location = brussels }
+   mdm_eu_capital = { tag = EUROP level = 1 location = brussels } #mdm modern day mod
 }
