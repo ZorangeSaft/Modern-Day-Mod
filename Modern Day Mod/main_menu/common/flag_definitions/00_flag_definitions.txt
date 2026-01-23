@@ -2461,6 +2461,13 @@ GRE = { # mdm modern day mod Greece
 	}
 }
 
+GREN = { # mdm modern day mod Grenada
+	flag_definition = {
+		coa = mdm_GREN
+		priority = 1
+	}
+}
+
 GRL = { # Greenland
 	flag_definition = {
 		coa = GRL

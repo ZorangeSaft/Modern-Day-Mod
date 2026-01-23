@@ -14252,6 +14252,38 @@ mdm_GRE = { # mdm modern day mod Greece
 	color2 = "white"
 }
 
+mdm_GREN = { # mdm modern day mod Grenada
+	pattern = "mdm_pattern_grenada.dds"
+	color1 = rgb { 252 210 14 }
+	color2 = rgb { 0 123 94 }
+	color3 = { 207 8 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_starcircle_grenada.dds"
+		color1 = color3
+		color2 = color1
+		instance = { scale = { 0.24 0.24 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_nutmeg_grenada.dds"
+		color1 = color1
+		color2 = color3
+		instance = { position = { 0.157 0.496 } scale = { 0.157 0.157 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color1
+		instance = { position = { 0.3 0.064 } scale = { 0.116 0.116 } }
+		instance = { position = { 0.5 0.064 } scale = { 0.116 0.116 } }
+		instance = { position = { 0.7 0.064 } scale = { 0.116 0.116 } }
+		instance = { position = { 0.3 0.924 } scale = { 0.116 0.116 } }
+		instance = { position = { 0.5 0.924 } scale = { 0.116 0.116 } }
+		instance = { position = { 0.7 0.924 } scale = { 0.116 0.116 } }
+	}
+}
+
 GRF = { # Grafenau
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
