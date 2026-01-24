@@ -2608,9 +2608,24 @@ countries = {
 
 	#####mdm modern day mod
 
-	#land based countries
+	#releasables
 
-	#TRAN
+	CASCA = { #cascadia, as a possible releasable from the usa
+		our_cores_conquered_by_others = { #idk if having cores at start is the best way to do it, but fine as a placeholder
+			seattle duwamish snohomish skagit nisqually stlpulmsh chehalis chala_at sklallam twana makah tillamook atfalati chinook multnomah watlala quuiich yaquina umpqua kalapuya giiwas meli_lema south_cascade central_cascade klikitat lhaq_temish nooksack
+		}
+		starting_technology_level = 3
+		include = "republic"
+		include = "expl_mdm_whole_world"
+		government = {
+			type = republic
+			ruler = random 
+		}
+		country_rank = rank_kingdom
+		capital = stlpulmsh #vancouver, washington, really there should be an event to be able to choose the capital between probably seattle, portland, astoria, vancouver (washington), vancouber (canada), and maby other places as well
+	}
+
+	
 
 
 	#building based countries

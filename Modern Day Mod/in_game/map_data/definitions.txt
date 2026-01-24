@@ -7963,7 +7963,7 @@ america = {
 					quuiich yaquina umpqua kalapuya south_molala
 				}
 				molalla_province = {
-					 giiwas meli_lema tukspush south_cascade central_cascade
+					giiwas meli_lema tukspush south_cascade central_cascade
 				}
 				chinook_province = {
 					tillamook atfalati chinook multnomah watlala

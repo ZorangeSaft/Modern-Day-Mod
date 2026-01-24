@@ -1949,3 +1949,16 @@ ANR = {
 	culture_definition = catalan
 	religion_definition = catholic
 }
+
+
+
+#####mdm modern day mod 
+
+CASCA = {
+	color = rgb { 13 33 13 } #green of the tree on the flag of cascadia
+	color2 = rgb { 13 33 13 }
+	culture_definition = mdm_cascadian_culture
+	religion_definition = secularism
+	description_category = diplomatic
+	difficulty = 2
+}
