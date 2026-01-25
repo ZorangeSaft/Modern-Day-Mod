@@ -112,3 +112,165 @@ mdm_upper_management_office = { #increases middle management building cap, parti
 
 	construction_demand = mdm_default_construction_demand
 }
+
+mdm_grocery_store = { #eventually change this to be mostly owned by companies
+	is_foreign = no
+	max_levels = mdm_location_rank_max_level
+	pop_type = burghers
+	
+	employment_size = mdm_default_employment
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_default_price
+	build_time = mdm_default_build_time
+	
+	forbidden_for_estates = yes
+	
+	location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
+	unique_production_methods = {
+		mdm_temporary_maintenance = {
+			electricity = 0.1
+			category = building_maintenance
+		}
+	}
+
+	construction_demand = mdm_default_construction_demand
+
+	modifier = {
+        free_building_levels = 1
+	}
+	
+}
+
+mdm_police_station = {
+	is_foreign = no
+	max_levels = mdm_location_rank_max_level
+	pop_type = laborers #maby solders instead ?
+	
+	employment_size = mdm_employment_120
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_price_30
+	build_time = mdm_build_time_360
+	
+	forbidden_for_estates = yes
+	
+	location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
+	unique_production_methods = {
+		mdm_temporary_maintenance = {
+			electricity = 90
+			category = building_maintenance
+		}
+	}
+
+	construction_demand = mdm_default_construction_demand
+
+	modifier = {
+        local_unrest = -0.1
+	}
+	
+}
+
+mdm_fire_department = {
+	is_foreign = no
+	max_levels = mdm_location_rank_max_level
+	pop_type = laborers
+	
+	employment_size = mdm_employment_80
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_price_20
+	build_time = mdm_build_time_270
+	
+	forbidden_for_estates = yes
+	
+	location_potential = {
+		has_building = building_type:mdm_electrical_grid
+	}
+
+	unique_production_methods = {
+		mdm_temporary_maintenance = {
+			electricity = 60
+			category = building_maintenance
+		}
+	}
+
+	construction_demand = mdm_default_construction_demand
+
+	modifier = {
+        local_life_expectancy = 2 #in the future, having more or less of them should change the chance of getting random fire events
+	}
+	
+}
+
+hospital = { #vanilla building
+	is_foreign = no
+	max_levels = mdm_location_rank_max_level
+	pop_type = burghers
+	
+	employment_size = mdm_employment_1000
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	location_potential = {
+		population >= 1
+	}
+
+	price = mdm_price_300
+	build_time = mdm_build_time_1080
+
+
+	unique_production_methods = {
+		mdm_temporary_maintenance = {
+			electricity = 1200
+			category = building_maintenance
+		}
+	}
+
+	graphical_tags = { medium_religious }
+
+
+	construction_demand = town_building_construction
+
+	modifier = { #these will have to be changed in the future for scaling
+		local_disease_resistance = 0.1
+		local_life_expectancy = 2
+	}
+}

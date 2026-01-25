@@ -110,3 +110,4 @@ mdm_price_120 = {gold = 120}
 mdm_price_150 = {gold = 150}
 mdm_price_200 = {gold = 200}
 mdm_price_250 = {gold = 250}
+mdm_price_300 = {gold = 300}
