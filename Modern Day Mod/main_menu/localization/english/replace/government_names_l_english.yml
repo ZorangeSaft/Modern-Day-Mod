@@ -25,11 +25,11 @@
  country_name_construction_republic_germany: "$NAME$"
  country_name_construction_republic_germany_map: "$PREFIX$ $RANK$ of $NAME$"
 ##### Example - German localization by iomhar #####
- country_flavor_example_rank_republic_germany: "Republic"
- country_flavor_example_rank_republic_germany_prefix: "Federal"
- country_flavor_example_rank_republic_german_ADJ: "republican"
- country_flavor_example_rank_republic_german_ruler_male: "Chancellor"
- country_flavor_example_rank_republic_german_ruler_female: "Chancellor"
+ rank_republic_germany: "Republic"
+ rank_republic_germany_prefix: "Federal"
+ rank_republic_german_ADJ: "republican"
+ rank_republic_german_ruler_male: "Chancellor"
+ rank_republic_german_ruler_female: "Chancellor"
 ########################################################################
 
  revolutionary_prefix: "Revolutionary"
