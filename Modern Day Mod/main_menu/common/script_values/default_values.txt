@@ -1056,7 +1056,13 @@ mdm_default_build_time = 1 #default value before specific one is set
 
 mdm_build_time_7 = 1 #7
 mdm_build_time_30 = 1 #30
+mdm_build_time_60 = 1 #60
+mdm_build_time_90 = 1 #90
+mdm_build_time_120 = 1 #120
+mdm_build_time_150 = 1 #150
 mdm_build_time_180 = 1 #180
+mdm_build_time_210 = 1 #210
+mdm_build_time_240 = 1 #240
 mdm_build_time_270 = 1 #270
 mdm_build_time_300 = 1 #300
 mdm_build_time_360 = 1 #360
@@ -1077,7 +1083,14 @@ mdm_build_time_10_years = 1 #3600
 
 mdm_default_employment = 0.001 #default value before specific one is set
 
+mdm_employment_2 = 0.002
+mdm_employment_8 = 0.008
+mdm_employment_10 = 0.01
 mdm_employment_15 = 0.015
+mdm_employment_20 = 0.02
+mdm_employment_25 = 0.025
+mdm_employment_30 = 0.03
+mdm_employment_35 = 0.035
 mdm_employment_40 = 0.04
 mdm_employment_50 = 0.05
 mdm_employment_60 = 0.06
@@ -1087,4 +1100,5 @@ mdm_employment_120 = 0.12
 mdm_employment_150 = 0.15
 mdm_employment_200 = 0.2
 mdm_employment_250 = 0.25
+mdm_employment_600 = 0.6
 mdm_employment_1000 = 1
