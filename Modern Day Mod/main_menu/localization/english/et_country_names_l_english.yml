@@ -283,3 +283,8 @@
  #####mdm modern day mod
  CASCA: "Cascadia"
  CASCA_ADJ: "Cascadian"
+
+ # Germany Name Fix Example by iomhar
+ GER: "Germany"
+ GER_ADJ: "German"
+ GER_LONG: "Federal Republic of Germany"
