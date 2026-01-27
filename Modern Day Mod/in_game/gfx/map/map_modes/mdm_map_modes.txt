@@ -586,12 +586,16 @@ mdm_vegetation = {
 		else_if = {
 			limit = {
 				vegetation = grasslands
+				NOT = { has_location_modifier = mdm_grasslands_to_farmland_difference }
 			}
 			value = rgb { 90 235 27 }
 		}
 		else_if = {
 			limit = {
-				vegetation = farmland
+				OR = {
+					vegetation = farmland
+					has_location_modifier = mdm_grasslands_to_farmland_difference
+				}
 			}
 			value = rgb { 0 255 0 }
 		}
@@ -668,11 +672,11 @@ mdm_vegetation = {
 		after_lighting_blend =		@flatmap_far_after_lighting_blend
 	}
 
-	color_refresh_counters = { TopographyVegetationDatabaseUpdate }
-	color_and_names_refresh_counters = { TopographyVegetationDatabaseUpdate }
+	#color_refresh_counters = { TopographyVegetationDatabaseUpdate }
+	#color_and_names_refresh_counters = { TopographyVegetationDatabaseUpdate }
 
 
 	#activate these for debugging
-	#color_refresh_counters = { Day }
-	#color_and_names_refresh_counters = { Day }
+	color_refresh_counters = { Day }
+	color_and_names_refresh_counters = { Day }
 }
