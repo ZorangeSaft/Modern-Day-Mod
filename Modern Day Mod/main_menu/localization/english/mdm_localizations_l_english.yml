@@ -38,20 +38,19 @@
 
 
  #vegetation mapmode
- mapmode_mdm_vegetation_name: "Vegetation"
- MAPMODE_MDM_VEGETATION: "#T $mapmode_mdm_vegetation_name$#!\nThis colors [locations|e] by their [vegetation|e]."
+ mapmode_mdm_vegetation_name: "Changed Vegetation"
+ MAPMODE_MDM_VEGETATION: "#T $mapmode_mdm_vegetation_name$#!\nThis colors [locations|e] by their [vegetation|e], also taking into account vegetation changes like cut down trees."
  MAPMODE_MDM_VEGETATION_TT_LAND: "[ROOT.GetLocation.GetName] has a [vegetation|e] of a."
  MAPMODE_MDM_VEGETATION_TT_WATER: "[ROOT.GetLocation.GetName] is not a land [location|e] so it does not have [vegetation|e]."
- game_concept_mdm_vegetation: "Vegetation"
  game_concept_mdm_vegetation_desc: "[vegetation|e] is a measure of the type and density of plant life in a [location|e]. \n\nIt is based on factors such as climate, soil quality, and human activity."
 
- MAPMODE_MDM_VEGETATION_TT_LAND_JUNGLE: "[ROOT.GetLocation.GetName] is a Jungle"
- MAPMODE_MDM_VEGETATION_TT_LAND_FOREST: "[ROOT.GetLocation.GetName] is a Forest"
- MAPMODE_MDM_VEGETATION_TT_LAND_WOODS: "[ROOT.GetLocation.GetName] is a Woods"
- MAPMODE_MDM_VEGETATION_TT_LAND_GRASSLAND: "[ROOT.GetLocation.GetName] is a Grassland"
- MAPMODE_MDM_VEGETATION_TT_LAND_FARMLAND: "[ROOT.GetLocation.GetName] is a Farmland"
- MAPMODE_MDM_VEGETATION_TT_LAND_SPARSE: "[ROOT.GetLocation.GetName] is Sparse"
- MAPMODE_MDM_VEGETATION_TT_LAND_DESERT: "[ROOT.GetLocation.GetName] is a Desert"
+ MAPMODE_MDM_VEGETATION_TT_LAND_JUNGLE: "[ROOT.GetLocation.GetName] is a [ShowVegetationName('jungle')]"
+ MAPMODE_MDM_VEGETATION_TT_LAND_FOREST: "[ROOT.GetLocation.GetName] is a [ShowVegetationName('forest')]"
+ MAPMODE_MDM_VEGETATION_TT_LAND_WOODS: "[ROOT.GetLocation.GetName] is a [ShowVegetationName('woods')]"
+ MAPMODE_MDM_VEGETATION_TT_LAND_GRASSLAND: "[ROOT.GetLocation.GetName] is a [ShowVegetationName('grasslands')]"
+ MAPMODE_MDM_VEGETATION_TT_LAND_FARMLAND: "[ROOT.GetLocation.GetName] is a [ShowVegetationName('farmland')]"
+ MAPMODE_MDM_VEGETATION_TT_LAND_SPARSE: "[ROOT.GetLocation.GetName] is [ShowVegetationName('sparse')]"
+ MAPMODE_MDM_VEGETATION_TT_LAND_DESERT: "[ROOT.GetLocation.GetName] is a [ShowVegetationName('desert')]"
 
  MAPMODE_MDM_VEGETATION_TT_LAND_FALLBACK: "Fallback, something went wrong."
 
