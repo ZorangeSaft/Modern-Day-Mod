@@ -1,8 +1,10 @@
-﻿mdm_debug_wind_speed_mapmode = {
+﻿namespace = mdm_debug
+
+mdm_debug_refresh_mapmodes.1 = {
 	type = country_event 				 # type of event 
-	title = mdm_debug_wind_speed_mapmode.title 			 # title key to be localized
-	desc = mdm_debug_wind_speed_mapmode.desc 			 # description key to be localized 
-	historical_info = mdm_debug_wind_speed_mapmode.historical_info  # optional description text to provide historical context
+	title = mdm_debug_refresh_mapmodes.title 			 # title key to be localized
+	desc = mdm_debug_refresh_mapmodes.desc 			 # description key to be localized 
+	historical_info = mdm_debug_refresh_mapmodes.historical_info  # optional description text to provide historical context
 	
 	trigger = { 	# List of requirements that need to be fulfilled for event to file
 		#a
@@ -28,6 +30,6 @@
 	}
 
 	option = {
-	name = mdm_debug_wind_speed_mapmode.b
+	name = mdm_debug_refresh_mapmodes.b
 	}
 }

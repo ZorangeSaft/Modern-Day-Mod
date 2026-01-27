@@ -552,3 +552,127 @@ mdm_urbanisation_suitability = {
 	#color_refresh_counters = { Day }
 	#color_and_names_refresh_counters = { Day }
 }
+
+
+
+###changed vegetation mapmode
+
+mdm_vegetation = {
+	map_color = {
+		if = {
+			limit = {
+				is_land = no
+			}
+			value = rgb { 0 0 0 }
+		}
+		else_if = {
+			limit = {
+				vegetation = jungle
+			}
+			value = rgb { 8 41 3 }
+		}
+		else_if = {
+			limit = {
+				vegetation = forest
+			}
+			value = rgb { 18 74 9 }
+		}
+		else_if = {
+			limit = {
+				vegetation = woods
+			}
+			value = rgb { 41 155 22 }
+		}
+		else_if = {
+			limit = {
+				vegetation = grasslands
+			}
+			value = rgb { 90 235 27 }
+		}
+		else_if = {
+			limit = {
+				vegetation = farmland
+			}
+			value = rgb { 0 255 0 }
+		}
+		else_if = {
+			limit = {
+				vegetation = sparse
+			}
+			value = rgb { 147 200 83 }
+		}
+		else = { #if desert
+			value = rgb { 242 242 111 }
+		}
+	}
+
+	legend_key = {
+		desc = "MAPMODE_MDM_URBANISATION_SUITABILITY"
+		color = define:NMapColors|MAP_COLOR_HIGH
+	}
+	tooltip_key = {
+		if = {
+			limit = {
+				is_land = yes 
+			}
+			if = {
+				limit = {
+					has_variable = mdm_local_wind_breakdown
+				}
+				value = MAPMODE_MDM_URBANISATION_SUITABILITY
+			}
+			else = {
+				value = MAPMODE_MDM_URBANISATION_SUITABILITY_TT_LAND
+			}
+		}
+		else = {
+			value = MAPMODE_MDM_URBANISATION_SUITABILITY_TT_WATER
+		}
+	}
+
+	small_map_names = location
+	medium_map_names = location
+	large_map_names = location
+
+	small_tooltip_context = location
+	medium_tooltip_context = location
+	large_tooltip_context = location
+
+	fill_in_impassable = yes
+	enable_snow = no
+	
+	flatmap_behaviour = always
+	use_fow = no
+	
+	category = geography
+	index = 1
+
+	map_markers = {
+		all = no
+	}
+	
+	#enable_water_names = yes
+	
+	gradient_parameters = {
+		zoom_step = @zoom_step_near
+
+		gradient_alpha_inside = 	1
+		gradient_alpha_outside = 	1
+		gradient_width = 			@flatmap_far_gradient_width
+		gradient_color_mult =		@flatmap_far_gradient_color_mult
+		edge_width = 				0
+		edge_sharpness = 			@flatmap_far_edge_sharpness
+		edge_alpha = 				0
+		edge_color_mult = 			0
+		before_lighting_blend =		@flatmap_far_before_lighting_blend
+		after_lighting_blend =		@flatmap_far_after_lighting_blend
+	}
+
+	color_refresh_counters = { TopographyVegetationDatabaseUpdate }
+	color_and_names_refresh_counters = { TopographyVegetationDatabaseUpdate }
+
+
+	#activate these for debugging
+	#color_refresh_counters = { Day }
+	#color_and_names_refresh_counters = { Day }
+}
