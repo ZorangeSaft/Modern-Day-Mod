@@ -23,6 +23,17 @@ mdm_jungle_to_woods = {
     supply_limit = 2
 }
 
+mdm_jungle_to_grasslands = {
+    game_data = { category = location }
+
+    movement_cost = -1.0
+    local_frontage_allowed = 4
+    local_rgo_build_time = -0.5
+    local_road_building_time = -3.0
+    local_monthly_development_modifier = 0.30
+    supply_limit = 2
+}
+
 mdm_jungle_to_farmland = {
     game_data = { category = location }
 
@@ -35,17 +46,6 @@ mdm_jungle_to_farmland = {
     local_max_rgo_size_modifier = 0.10
     local_monthly_food_modifier = 0.23
     supply_limit = 5
-}
-
-mdm_jungle_to_grasslands = {
-    game_data = { category = location }
-
-    movement_cost = -1.0
-    local_frontage_allowed = 4
-    local_rgo_build_time = -0.5
-    local_road_building_time = -3.0
-    local_monthly_development_modifier = 0.30
-    supply_limit = 2
 }
 
 mdm_jungle_to_sparse = {
@@ -101,6 +101,19 @@ mdm_forest_to_woods = {
     supply_limit = 2
 }
 
+mdm_forest_to_grasslands = {
+    game_data = { category = location }
+
+    movement_cost = -0.5
+    local_frontage_allowed = 3
+    local_rgo_build_time = -0.33
+    local_road_building_time = -1.0
+    local_population_capacity = 25
+    local_monthly_development_modifier = 0.25
+    local_monthly_food_modifier = 0.1
+    supply_limit = 2
+}
+
 mdm_forest_to_farmland = {
     game_data = { category = location }
 
@@ -113,19 +126,6 @@ mdm_forest_to_farmland = {
     local_max_rgo_size_modifier = 0.10
     local_monthly_food_modifier = 0.33
     supply_limit = 5
-}
-
-mdm_forest_to_grasslands = {
-    game_data = { category = location }
-
-    movement_cost = -0.5
-    local_frontage_allowed = 3
-    local_rgo_build_time = -0.33
-    local_road_building_time = -1.0
-    local_population_capacity = 25
-    local_monthly_development_modifier = 0.25
-    local_monthly_food_modifier = 0.1
-    supply_limit = 2
 }
 
 mdm_forest_to_sparse = {
@@ -178,6 +178,15 @@ mdm_woods_to_forest = {
     supply_limit = -2
 }
 
+mdm_woods_to_grasslands = {
+    game_data = { category = location }
+
+    movement_cost = -0.25
+    local_frontage_allowed = 2
+    local_road_building_time = -0.50
+    local_monthly_development_modifier = 0.20
+}
+
 mdm_woods_to_farmland = {
     game_data = { category = location }
 
@@ -189,15 +198,6 @@ mdm_woods_to_farmland = {
     local_max_rgo_size_modifier = 0.10
     local_monthly_food_modifier = 0.23
     supply_limit = 3
-}
-
-mdm_woods_to_grasslands = {
-    game_data = { category = location }
-
-    movement_cost = -0.25
-    local_frontage_allowed = 2
-    local_road_building_time = -0.50
-    local_monthly_development_modifier = 0.20
 }
 
 mdm_woods_to_sparse = {
@@ -220,6 +220,76 @@ mdm_woods_to_desert = {
     local_road_building_time = 0.50
     local_population_capacity = -40
     local_monthly_development_modifier = -0.13
+    local_monthly_food_modifier = -0.43
+    supply_limit = -7
+}
+
+
+
+#grasslands conversion
+
+mdm_grasslands_to_jungle = {
+    game_data = { category = location }
+
+    movement_cost = 1.0
+    local_frontage_allowed = -4
+    local_rgo_build_time = 0.5
+    local_road_building_time = 3.0
+    local_monthly_development_modifier = -0.30
+    supply_limit = -2
+}
+
+mdm_grasslands_to_forest = {
+    game_data = { category = location }
+
+    movement_cost = 0.5
+    local_frontage_allowed = -3
+    local_rgo_build_time = 0.33
+    local_road_building_time = 1.0
+    local_population_capacity = -25
+    local_monthly_development_modifier = -0.25
+    local_monthly_food_modifier = -0.1
+    supply_limit = -2
+}
+
+mdm_grasslands_to_woods = {
+    game_data = { category = location }
+
+    movement_cost = 0.25
+    local_frontage_allowed = -2
+    local_road_building_time = 0.50
+    local_monthly_development_modifier = -0.20
+}
+
+mdm_grasslands_to_farmland = {
+    game_data = { category = location }
+
+    movement_cost = 0.10
+    local_road_building_time = 0.20
+    local_population_capacity = 50
+    local_monthly_development_modifier = 0.10
+    local_max_rgo_size_modifier = 0.10
+    local_monthly_food_modifier = 0.23
+    supply_limit = 3
+}
+
+mdm_grasslands_to_sparse = {
+    game_data = { category = location }
+
+    local_road_building_time = -0.10
+    local_population_capacity = -25
+    local_monthly_food_modifier = -0.1
+    supply_limit = -2
+}
+
+mdm_grasslands_to_desert = {
+    game_data = { category = location }
+
+    movement_cost = 0.1
+    local_rgo_build_time = 0.5
+    local_road_building_time = 1.0
+    local_population_capacity = -40
+    local_monthly_development_modifier = -0.33
     local_monthly_food_modifier = -0.43
     supply_limit = -7
 }
@@ -307,76 +377,6 @@ mdm_farmland_to_desert = {
 
 
 
-#grasslands conversion
-
-mdm_grasslands_to_jungle = {
-    game_data = { category = location }
-
-    movement_cost = 1.0
-    local_frontage_allowed = -4
-    local_rgo_build_time = 0.5
-    local_road_building_time = 3.0
-    local_monthly_development_modifier = -0.30
-    supply_limit = -2
-}
-
-mdm_grasslands_to_forest = {
-    game_data = { category = location }
-
-    movement_cost = 0.5
-    local_frontage_allowed = -3
-    local_rgo_build_time = 0.33
-    local_road_building_time = 1.0
-    local_population_capacity = -25
-    local_monthly_development_modifier = -0.25
-    local_monthly_food_modifier = -0.1
-    supply_limit = -2
-}
-
-mdm_grasslands_to_woods = {
-    game_data = { category = location }
-
-    movement_cost = 0.25
-    local_frontage_allowed = -2
-    local_road_building_time = 0.50
-    local_monthly_development_modifier = -0.20
-}
-
-mdm_grasslands_to_farmland = {
-    game_data = { category = location }
-
-    movement_cost = 0.10
-    local_road_building_time = 0.20
-    local_population_capacity = 50
-    local_monthly_development_modifier = 0.10
-    local_max_rgo_size_modifier = 0.10
-    local_monthly_food_modifier = 0.23
-    supply_limit = 3
-}
-
-mdm_grasslands_to_sparse = {
-    game_data = { category = location }
-
-    local_road_building_time = -0.10
-    local_population_capacity = -25
-    local_monthly_food_modifier = -0.1
-    supply_limit = -2
-}
-
-mdm_grasslands_to_desert = {
-    game_data = { category = location }
-
-    movement_cost = 0.1
-    local_rgo_build_time = 0.5
-    local_road_building_time = 1.0
-    local_population_capacity = -40
-    local_monthly_development_modifier = -0.33
-    local_monthly_food_modifier = -0.43
-    supply_limit = -7
-}
-
-
-
 #sparse conversion
 
 mdm_sparse_to_jungle = {
@@ -413,6 +413,15 @@ mdm_sparse_to_woods = {
     supply_limit = 2
 }
 
+mdm_sparse_to_grasslands = {
+    game_data = { category = location }
+
+    local_road_building_time = 0.10
+    local_population_capacity = 25
+    local_monthly_food_modifier = 0.1
+    supply_limit = 2
+}
+
 mdm_sparse_to_farmland = {
     game_data = { category = location }
 
@@ -423,15 +432,6 @@ mdm_sparse_to_farmland = {
     local_monthly_food_modifier = 0.33
     local_population_capacity = 75
     supply_limit = 5
-}
-
-mdm_sparse_to_grasslands = {
-    game_data = { category = location }
-
-    local_road_building_time = 0.10
-    local_population_capacity = 25
-    local_monthly_food_modifier = 0.1
-    supply_limit = 2
 }
 
 mdm_sparse_to_desert = {
@@ -446,6 +446,9 @@ mdm_sparse_to_desert = {
     supply_limit = -5
 }
 
+
+
+#desert conversion
 
 mdm_desert_to_jungle = {
     game_data = { category = location }
@@ -483,18 +486,6 @@ mdm_desert_to_woods = {
     supply_limit = 7
 }
 
-mdm_desert_to_farmland = {
-    game_data = { category = location }
-
-    local_rgo_build_time = -0.5
-    local_road_building_time = -0.80
-    local_monthly_development_modifier = 0.43
-    local_max_rgo_size_modifier = 0.10
-    local_monthly_food_modifier = 0.66
-    local_population_capacity = 90
-    supply_limit = 10
-}
-
 mdm_desert_to_grasslands = {
     game_data = { category = location }
 
@@ -505,6 +496,18 @@ mdm_desert_to_grasslands = {
     local_monthly_development_modifier = 0.33
     local_monthly_food_modifier = 0.43
     supply_limit = 7
+}
+
+mdm_desert_to_farmland = {
+    game_data = { category = location }
+
+    local_rgo_build_time = -0.5
+    local_road_building_time = -0.80
+    local_monthly_development_modifier = 0.43
+    local_max_rgo_size_modifier = 0.10
+    local_monthly_food_modifier = 0.66
+    local_population_capacity = 90
+    supply_limit = 10
 }
 
 mdm_desert_to_sparse = {

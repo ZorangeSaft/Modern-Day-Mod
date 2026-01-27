@@ -49,13 +49,50 @@ mdm_debug_vegetation_differences.1 = {
 	}
 
 	immediate = {
-		error_log = "test message"
+		error_log = "cut it all down by 1"
 		every_location_in_the_world = {
-			limit = { 
+			if = {
+				limit = { 
+				is_land = yes 
+				vegetation = jungle
+				}
+				add_location_modifier = mdm_jungle_to_forest
+			}
+			else_if = {
+				limit = { 
+				is_land = yes 
+				vegetation = forest
+				}
+				add_location_modifier = mdm_forest_to_woods
+			}
+			else_if = {
+				limit = { 
+				is_land = yes 
+				vegetation = woods
+				}
+				add_location_modifier = mdm_woods_to_grasslands
+			}
+			else_if = {
+				limit = { 
 				is_land = yes 
 				vegetation = grasslands
+				}
+				add_location_modifier = mdm_grasslands_to_farmland
 			}
-			add_location_modifier = mdm_grasslands_to_farmland_difference
+			else_if = {
+				limit = { 
+				is_land = yes 
+				vegetation = farmland
+				}
+				add_location_modifier = mdm_farmland_to_sparse
+			}
+			else_if = {
+				limit = { 
+				is_land = yes 
+				vegetation = sparse
+				}
+				add_location_modifier = mdm_sparse_to_desert
+			}
 		}
 	}
 
