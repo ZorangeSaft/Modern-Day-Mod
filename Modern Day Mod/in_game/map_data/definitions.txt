@@ -2003,7 +2003,7 @@ asia = {
 				samarkand_province = { samarkand ayni dimishk panjakent 		hissar_mountains1 hissar_mountains2 hissar_mountains3 hissar_mountains4 }
 				sighnaq_province = { sighnaq asanas barchkend jand kamyskala }
 				turkestan_province = { turkestan aktas_kystagy baydibek_ata ikan karnak sawran shilik }
-				yangikent_province = { yangikent buzikkala jubara karmakshi alty_kuduk qamystybas_lake kyzylkum_corridor1 aral_kum_corridor1 }
+				yangikent_province = { yangikent buzikkala jubara karmakshi Aral qamystybas_lake kyzylkum_corridor1 aral_kum_corridor1 }
 				kyzylkum_province = { uchquduq zarafshon tambybulak kyzylkum_desert kyzylkum_desert2 kyzylkum_desert3 kyzylkum_desert4 kyzylkum_desert5 kyzylkum_corridor2 kyzylkum_corridor3 kyzylkum_corridor4 kyzylkum_corridor5 }
 			}
 			western_khorasan_area = {
