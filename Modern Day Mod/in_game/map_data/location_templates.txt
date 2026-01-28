@@ -1,5 +1,5 @@
 ﻿#ET
-uchquduq = { topography = flatland vegetation = desert climate = cold_arid religion = sunni culture = uzbek_culture raw_material = sand}#uranium
+uchquduq = { topography = flatland vegetation = desert climate = cold_arid religion = sunni culture = uzbek_culture raw_material = uranium_ore}
 zarafshon = { topography = flatland vegetation = desert climate = cold_arid religion = sunni culture = uzbek_culture raw_material = gold_ore}
 tambybulak = { topography = flatland vegetation = desert climate = cold_arid religion = sunni culture = uzbek_culture raw_material = sand}
 alty_kuduk = { topography = flatland vegetation = sparse climate = cold_arid religion = sunni culture = uzbek_culture raw_material = fish}
