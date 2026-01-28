@@ -1,0 +1,6 @@
+﻿#####mdm modern day mod
+
+local_oil_output_modifier = {
+	positive = "gfx/interface/icons/modifier_types/_default.dds"
+	negative = "gfx/interface/icons/modifier_types/_default.dds"
+}
