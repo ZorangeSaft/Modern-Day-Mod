@@ -84970,7 +84970,7 @@ locations = {
    }
    tambybulak = {
    }
-   alty_kuduk = {
+   Aral = {
    }
    kyzyl_su = {
    }

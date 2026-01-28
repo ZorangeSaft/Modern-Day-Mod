@@ -2,32 +2,33 @@
 uchquduq = { topography = flatland vegetation = desert climate = cold_arid religion = sunni culture = uzbek_culture raw_material = uranium_ore}
 zarafshon = { topography = flatland vegetation = desert climate = cold_arid religion = sunni culture = uzbek_culture raw_material = gold_ore}
 tambybulak = { topography = flatland vegetation = desert climate = cold_arid religion = sunni culture = uzbek_culture raw_material = sand}
-alty_kuduk = { topography = flatland vegetation = sparse climate = cold_arid religion = sunni culture = uzbek_culture raw_material = fish}
+Aral = { topography = flatland vegetation = sparse climate = cold_arid religion = sunni culture = uzbek_culture raw_material = fish}
 kyzyl_su = { topography = flatland vegetation = desert climate = cold_arid religion = sunni culture = turkmen_culture raw_material = fish natural_harbor_suitability = 0.20}
 huday_dag = { topography = flatland vegetation = desert climate = cold_arid religion = sunni culture = turkmen_culture raw_material = sand}
 kyzyl_kala = { topography = flatland vegetation = desert climate = cold_arid religion = sunni culture = nogai raw_material = wool}
-adam = { topography = flatland vegetation = desert climate = arid religion = ibadi culture = omani_culture raw_material = legumes}
-haima = { topography = flatland vegetation = desert climate = arid religion = ibadi culture = omani_culture raw_material = sand}
-thumrait = { topography = flatland vegetation = desert climate = arid religion = sunni culture = dhofari_culture raw_material = incense}
-al_mazyunah = { topography = flatland vegetation = desert climate = arid religion = sunni culture = dhofari_culture raw_material = sand}
-al_abr = { topography = hills vegetation = desert climate = arid religion = sunni culture = hadhrami_culture raw_material = stone}
-sharurah = { topography = flatland vegetation = desert climate = arid religion = sunni culture = hadhrami_culture raw_material = sand}
-rumah_yemen = { topography = flatland vegetation = desert climate = arid religion = sunni culture = hadhrami_culture raw_material = sand}
-shaybah = { topography = flatland vegetation = desert climate = arid religion = shia culture = kaliji_culture raw_material = sand}
-ruwaished = { topography = flatland vegetation = desert climate = arid religion = sunni culture = levantine_culture raw_material = sand}
-rutba = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = sand}
+adam = { topography = flatland vegetation = desert climate = arid religion = ibadi culture = omani_culture raw_material = wheat}
+haima = { topography = flatland vegetation = desert climate = arid religion = ibadi culture = omani_culture raw_material = livestock}
+thumrait = { topography = flatland vegetation = desert climate = arid religion = sunni culture = dhofari_culture raw_material = marble}
+al_mazyunah = { topography = flatland vegetation = desert climate = arid religion = sunni culture = dhofari_culture raw_material = sand} #?
+al_abr = { topography = hills vegetation = desert climate = arid religion = sunni culture = hadhrami_culture raw_material = crude_oil}
+sharurah = { topography = flatland vegetation = desert climate = arid religion = sunni culture = hadhrami_culture raw_material = crude_oil}
+rumah_yemen = { topography = flatland vegetation = desert climate = arid religion = sunni culture = hadhrami_culture raw_material = crude_oil}
+shaybah = { topography = flatland vegetation = desert climate = arid religion = shia culture = kaliji_culture raw_material = crude_oil} #Huge
+ruwaished = { topography = flatland vegetation = desert climate = arid religion = sunni culture = levantine_culture raw_material = saltpeter}
+rutba = { topography = flatland vegetation = desert climate = arid religion = sunni culture = iraqi_culture raw_material = sand} #Or stone
 umm_rashrash = { topography = hills vegetation = desert climate = arid religion = sunni culture = bedouin_culture raw_material = copper_ore natural_harbor_suitability = 0.00}
-khasab = { topography = mountains vegetation = desert climate = arid religion = ibadi culture = omani_culture raw_material = fish natural_harbor_suitability = 0.20}
-tintane = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = lamtuna_culture raw_material = livestock}
+khasab = { topography = mountains vegetation = desert climate = arid religion = ibadi culture = omani_culture raw_material = pearls natural_harbor_suitability = 0.20}
+tintane = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = lamtuna_culture raw_material = sand}
 kiffa = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = lamtuna_culture raw_material = livestock}
 guerou = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = lamtuna_culture raw_material = livestock}
 aleg = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = lamtuna_culture raw_material = livestock}
 boutilimit = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = lamtuna_culture raw_material = livestock}
 al_mahbes = { topography = flatland vegetation = sparse climate = arid religion = sunni culture = hassaniya raw_material = sand}
 tamanrasset = { topography = mountains vegetation = desert climate = arid religion = sunni culture = tuareg raw_material = stone}
-tessalit = { topography = flatland vegetation = desert climate = arid religion = sunni culture = tuareg raw_material = sand}
+tessalit = { topography = flatland vegetation = desert climate = arid religion = sunni culture = tuareg raw_material = gold_ore}
 timiaouine = { topography = flatland vegetation = desert climate = arid religion = sunni culture = tuareg raw_material = sand}
 in_guezzam = { topography = flatland vegetation = desert climate = arid religion = sunni culture = tuareg raw_material = sand}
+#======DONE======
 bordj_badji_mokhtar = { topography = flatland vegetation = desert climate = arid religion = sunni culture = tuareg raw_material = sand}
 arlit = { topography = flatland vegetation = desert climate = arid religion = sunni culture = tuareg raw_material = sand}
 illizi = { topography = flatland vegetation = desert climate = arid religion = sunni culture = tuareg raw_material = sand}
