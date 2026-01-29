@@ -11186,6 +11186,23 @@ DOM = { # Dompu
 	}				
 }
 
+mdm_DOMI = { # mdm modern day mod Dominica
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 106 53 }
+
+	colored_emblem = {
+		texture = "mdm_ce_cross_dominica.dds"
+		color1 = rgb { 255 206 0 }
+		color2 = "black"
+		color3 = "white"
+	}
+
+	textured_emblem = {
+		texture = "mdm_coa_dominica.dds"
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
 DPH = { # Diepholz
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
@@ -34312,6 +34329,19 @@ SLT = { # Solothurn - Combination of 14th c. St Ursus cross from seals & modern 
 	}		
 }
 
+mdm_SLUC = { # mdm modern day mod St. Lucia
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 102 205 255 }
+
+	colored_emblem = {
+		texture = "mdm_ce_st_lucia.dds"
+		color1 = rgb { 252 210 14 }
+		color2 = "black"
+		color3 = "white"
+		instance = { scale = { 0.822 0.822 } }
+	}
+}
+
 SLV = { # Schleswig
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"
@@ -35596,6 +35626,19 @@ SVO = { # Savonia
 		color2 = color3
 		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 } }		
 	}	
+}
+
+mdm_SVGR = { # mdm modern day mod St. Vincent and the Grenadines
+	pattern = "mdm_pattern_tricolor_vertical_1-2-1.dds"
+	color1 = rgb { 0 33 117 }
+	color2 = rgb { 252 209 28 }
+	color3 = rgb { 0 125 42 }
+
+	colored_emblem = {
+		texture = "mdm_ce_gems_st_vincent_and_the_grenadines.dds"
+		color1 = color3
+		instance = { position = { 0.5 0.584 } scale = { 0.516 0.516 } }
+	}
 }
 
 SWA = { # Swabia

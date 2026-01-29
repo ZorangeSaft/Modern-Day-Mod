@@ -2008,6 +2008,13 @@ DJIB = { # mdm modern day mod Djibouti
 	}
 }
 
+DOMI = { # mdm modern day mod Dominica
+	flag_definition = {
+		coa = mdm_DOMI
+		priority = 1
+	}
+}
+
 DRCO = { # mdm modern day mod Democratic Republic of the Congo
 	flag_definition = {
 		coa = mdm_DRCO
@@ -5509,6 +5516,13 @@ SLOV = { # mdm modern day mod Slovenia
 	}
 }
 
+SLUC = { # mdm modern day mod St. Lucia
+	flag_definition = {
+		coa = mdm_SLUC
+		priority = 1
+	}
+}
+
 SMB = { # Sambas
 	flag_definition = {
 		coa = SMB
@@ -5645,6 +5659,13 @@ SUDA = { # mdm modern day mod Sudan
 SURI = { # mdm modern day mod Suriname
 	flag_definition = {
 		coa = mdm_SURI
+		priority = 1
+	}
+}
+
+SVGR = { # mdm modern day mod St. Vincent and the Grenadines
+	flag_definition = {
+		coa = mdm_SVGR
 		priority = 1
 	}
 }
