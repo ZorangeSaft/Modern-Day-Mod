@@ -2008,6 +2008,13 @@ DJIB = { # mdm modern day mod Djibouti
 	}
 }
 
+DOMI = { # mdm modern day mod Dominica
+	flag_definition = {
+		coa = mdm_DOMI
+		priority = 1
+	}
+}
+
 DRCO = { # mdm modern day mod Democratic Republic of the Congo
 	flag_definition = {
 		coa = mdm_DRCO

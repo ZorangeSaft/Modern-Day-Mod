@@ -11186,6 +11186,23 @@ DOM = { # Dompu
 	}				
 }
 
+mdm_DOMI = { # mdm modern day mod Dominica
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 106 53 }
+
+	colored_emblem = {
+		texture = "mdm_ce_cross_dominica.dds"
+		color1 = rgb { 255 206 0 }
+		color2 = "black"
+		color3 = "white"
+	}
+
+	textured_emblem = {
+		texture = "mdm_coa_dominica.dds"
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
 DPH = { # Diepholz
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
