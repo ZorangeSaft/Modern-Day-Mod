@@ -1723,7 +1723,7 @@ hradiste = { climate = continental culture = czech raw_material = wool religion 
 vizovice = { climate = continental culture = czech raw_material = livestock religion = catholic topography = hills vegetation = forest }
 prerov = { climate = continental culture = czech raw_material = wild_game religion = catholic topography = flatland vegetation = forest }
 pribor = { climate = continental culture = czech raw_material = millet religion = catholic topography = hills vegetation = forest }
-london = { topography = flatland vegetation = farmland climate = oceanic religion = catholic culture = english raw_material = wheat natural_harbor_suitability = 0.80}
+london = { climate = oceanic culture = english natural_harbor_suitability = 0.80 raw_material = wheat religion = catholic topography = flatland vegetation = mdm_urban }
 harrow = { topography = flatland vegetation = farmland climate = oceanic religion = catholic culture = english raw_material = wheat}
 kingston = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = english raw_material = legumes}
 reigate = { topography = flatland vegetation = woods climate = oceanic religion = catholic culture = english raw_material = wheat}
