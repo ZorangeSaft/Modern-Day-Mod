@@ -5474,6 +5474,13 @@ SIE = { # Siena
 	}		
 }
 
+SKNE = { # mdm modern day mod St. Kitts and Nevis
+	flag_definition = {
+		coa = mdm_SKNE
+		priority = 1
+	}
+}
+
 SKOR = { # mdm modern day mod South Korea
 	flag_definition = {
 		coa = mdm_SKOR

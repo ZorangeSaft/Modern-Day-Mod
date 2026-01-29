@@ -33925,6 +33925,25 @@ SKN = { # Suakin
 	}
 }
 
+mdm_SKNE = { # mdm modern day mod St. Kitts and Nevis
+	pattern = "pattern_diagonal_split_03.dds"
+	color1 = rgb { 0 152 54 }
+	color2 = rgb { 201 8 42 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_diagonal_st_kitts_and_nevis.dds"
+		color1 = "black"
+		color2 = rgb { 255 206 0 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five_st_kitts_and_nevis.dds"
+		color1 = "white"
+		instance = { position = { 0.696 0.331 } scale = { 0.255 0.255 } }
+		instance = { position = { 0.312 0.714 } scale = { 0.255 0.255 } }
+	}
+}
+
 SKO = { # Sokoto
 	pattern = "pattern_solid.dds"
 	color1 = "green"
