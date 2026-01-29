@@ -446,6 +446,13 @@ ALG = { # mdm modern day mod Algeria
 	}
 }
 
+ANBR = { # mdm modern day mod Antigua and Barbuda
+	flag_definition = {
+		coa = mdm_ANBR
+		priority = 1
+	}
+}
+
 ANC = { # Ancona
 	# ANC_republic : GO cross - Modern attribution
 	# ANC - City/Rep. : Cross couped/patonce GO - Medieval republic

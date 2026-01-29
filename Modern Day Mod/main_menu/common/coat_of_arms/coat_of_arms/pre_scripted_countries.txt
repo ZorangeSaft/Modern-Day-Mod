@@ -1141,6 +1141,24 @@ ANB = { # Arnsberg
 	}	
 }
 
+mdm_ANBR = { # mdm modern day mod Antigua and Barbuda
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 207 8 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_horizon_antigua_and_barbuda.dds"
+		color1 = "black"
+		color2 = rgb { 0 155 199 }
+		color3 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_antigua_and_barbuda.dds"
+		color1 = rgb { 252 210 14 }
+		instance = { position = { 0.5 0.231 } scale = { 0.431 0.431 } }
+	}
+}
+
 ANC = { # Ancona - 14th c. - Cross patonce (sometimes simplified to couped) used along the knight design
 	pattern = "pattern_solid.dds"
 	color1 = "red"
