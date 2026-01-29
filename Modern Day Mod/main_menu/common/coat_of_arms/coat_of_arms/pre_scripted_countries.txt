@@ -2890,6 +2890,17 @@ BAH = { # Bahmani sultanate
 	}
 }
 
+mdm_BAHA = { # mdm modern day mod Bahamas
+	pattern = "pattern_horizontal_bar_01.dds"
+	color1 = rgb { 0 120 140 }
+	color2 = rgb { 255 200 40 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_60.dds"
+		color1 = "black"
+	}
+}
+
 mdm_BAHR = { # mdm modern day mod Bahrain
 	pattern = "mdm_pattern_bahrain.dds"
 	color1 = "white"

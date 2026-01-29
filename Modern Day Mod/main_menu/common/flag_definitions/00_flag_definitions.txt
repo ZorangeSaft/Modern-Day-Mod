@@ -834,6 +834,13 @@ BAC = { # Bacan
 	}
 }
 
+BAHA = { # mdm modern day mod Bahamas
+	flag_definition = {
+		coa = mdm_BAHA
+		priority = 1
+	}
+}
+
 BAHR = { # mdm modern day mod Bahrain
 	flag_definition = {
 		coa = mdm_BAHR
