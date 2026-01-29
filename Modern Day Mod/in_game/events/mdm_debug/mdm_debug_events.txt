@@ -1,8 +1,10 @@
-﻿mdm_debug_wind_speed_mapmode = {
+﻿namespace = mdm_debug_refresh_mapmodes
+
+mdm_debug_refresh_mapmodes.1 = {
 	type = country_event 				 # type of event 
-	title = mdm_debug_wind_speed_mapmode.title 			 # title key to be localized
-	desc = mdm_debug_wind_speed_mapmode.desc 			 # description key to be localized 
-	historical_info = mdm_debug_wind_speed_mapmode.historical_info  # optional description text to provide historical context
+	title = mdm_debug_refresh_mapmodes.title 			 # title key to be localized
+	desc = mdm_debug_refresh_mapmodes.desc 			 # description key to be localized 
+	historical_info = mdm_debug_refresh_mapmodes.historical_info  # optional description text to provide historical context
 	
 	trigger = { 	# List of requirements that need to be fulfilled for event to file
 		#a
@@ -28,6 +30,73 @@
 	}
 
 	option = {
-	name = mdm_debug_wind_speed_mapmode.b
+	name = mdm_debug_refresh_mapmodes.b
+	}
+}
+
+
+
+namespace = mdm_debug_vegetation_differences
+
+mdm_debug_vegetation_differences.1 = {
+	type = country_event 				 # type of event 
+	title = mdm_debug_vegetation_differences.title 			 # title key to be localized
+	desc = mdm_debug_vegetation_differences.desc 			 # description key to be localized 
+	historical_info = mdm_debug_vegetation_differences.historical_info  # optional description text to provide historical context
+	
+	trigger = { 	# List of requirements that need to be fulfilled for event to file
+		#a
+	}
+
+	immediate = {
+		error_log = "cut it all down by 1"
+		every_location_in_the_world = {
+			if = {
+				limit = { 
+				is_land = yes 
+				vegetation = jungle
+				}
+				add_location_modifier = mdm_jungle_to_forest
+			}
+			else_if = {
+				limit = { 
+				is_land = yes 
+				vegetation = forest
+				}
+				add_location_modifier = mdm_forest_to_woods
+			}
+			else_if = {
+				limit = { 
+				is_land = yes 
+				vegetation = woods
+				}
+				add_location_modifier = mdm_woods_to_grasslands
+			}
+			else_if = {
+				limit = { 
+				is_land = yes 
+				vegetation = grasslands
+				}
+				add_location_modifier = mdm_grasslands_to_farmland
+			}
+			else_if = {
+				limit = { 
+				is_land = yes 
+				vegetation = farmland
+				}
+				add_location_modifier = mdm_farmland_to_sparse
+			}
+			else_if = {
+				limit = { 
+				is_land = yes 
+				vegetation = sparse
+				}
+				add_location_modifier = mdm_sparse_to_desert
+			}
+		}
+	}
+
+	option = {
+	name = mdm_debug_vegetation_differences.b
 	}
 }

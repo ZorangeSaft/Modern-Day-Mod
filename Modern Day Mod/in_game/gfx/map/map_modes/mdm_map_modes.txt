@@ -552,3 +552,395 @@ mdm_urbanisation_suitability = {
 	#color_refresh_counters = { Day }
 	#color_and_names_refresh_counters = { Day }
 }
+
+
+
+###changed vegetation mapmode
+
+mdm_vegetation = {
+	map_color = {
+		if = {
+			limit = {
+				is_land = no
+			}
+			value = rgb { 0 0 0 }
+		}
+		else_if = { #jungle
+			limit = {
+				OR = {
+					vegetation = jungle
+					has_location_modifier = mdm_forest_to_jungle
+					has_location_modifier = mdm_woods_to_jungle
+					has_location_modifier = mdm_grasslands_to_jungle
+					has_location_modifier = mdm_farmland_to_jungle
+					has_location_modifier = mdm_sparse_to_jungle
+					has_location_modifier = mdm_desert_to_jungle
+				}
+				NOR = {
+					has_location_modifier = mdm_jungle_to_forest
+					has_location_modifier = mdm_jungle_to_woods
+					has_location_modifier = mdm_jungle_to_grasslands
+					has_location_modifier = mdm_jungle_to_farmland
+					has_location_modifier = mdm_jungle_to_sparse
+					has_location_modifier = mdm_jungle_to_desert
+				}
+			}
+			value = rgb { 8 41 3 }
+		}
+		else_if = { #forest
+			limit = {
+				OR = {
+					has_location_modifier = mdm_jungle_to_forest
+					vegetation = forest
+					has_location_modifier = mdm_woods_to_forest
+					has_location_modifier = mdm_grasslands_to_forest
+					has_location_modifier = mdm_farmland_to_forest
+					has_location_modifier = mdm_sparse_to_forest
+					has_location_modifier = mdm_desert_to_forest
+				}
+				NOR = {
+					has_location_modifier = mdm_forest_to_jungle
+					has_location_modifier = mdm_forest_to_woods
+					has_location_modifier = mdm_forest_to_grasslands
+					has_location_modifier = mdm_forest_to_farmland
+					has_location_modifier = mdm_forest_to_sparse
+					has_location_modifier = mdm_forest_to_desert
+				}
+			}
+			value = rgb { 18 74 9 }
+		}
+		else_if = { #woods
+			limit = {
+				OR = {
+					has_location_modifier = mdm_jungle_to_woods
+					has_location_modifier = mdm_forest_to_woods
+					vegetation = woods
+					has_location_modifier = mdm_grasslands_to_woods
+					has_location_modifier = mdm_farmland_to_woods
+					has_location_modifier = mdm_sparse_to_woods
+					has_location_modifier = mdm_desert_to_woods
+				}
+				NOR = {
+					has_location_modifier = mdm_woods_to_jungle
+					has_location_modifier = mdm_woods_to_forest
+					has_location_modifier = mdm_woods_to_grasslands
+					has_location_modifier = mdm_woods_to_farmland
+					has_location_modifier = mdm_woods_to_sparse
+					has_location_modifier = mdm_woods_to_desert
+				}
+			}
+			value = rgb { 41 155 22 }
+		}
+		else_if = { #grasslands
+			limit = {
+				OR = {
+					has_location_modifier = mdm_jungle_to_grasslands
+					has_location_modifier = mdm_forest_to_grasslands
+					has_location_modifier = mdm_woods_to_grasslands
+					vegetation = grasslands
+					has_location_modifier = mdm_farmland_to_grasslands
+					has_location_modifier = mdm_sparse_to_grasslands
+					has_location_modifier = mdm_desert_to_grasslands
+				}
+				NOR = {
+					has_location_modifier = mdm_grasslands_to_jungle
+					has_location_modifier = mdm_grasslands_to_forest
+					has_location_modifier = mdm_grasslands_to_woods
+					has_location_modifier = mdm_grasslands_to_farmland
+					has_location_modifier = mdm_grasslands_to_sparse
+					has_location_modifier = mdm_grasslands_to_desert
+				}
+			}
+			value = rgb { 90 235 27 }
+		}
+		else_if = { #farmland
+			limit = {
+				OR = {
+					has_location_modifier = mdm_jungle_to_farmland
+					has_location_modifier = mdm_forest_to_farmland
+					has_location_modifier = mdm_woods_to_farmland
+					has_location_modifier = mdm_grasslands_to_farmland
+					vegetation = farmland
+					has_location_modifier = mdm_sparse_to_farmland
+					has_location_modifier = mdm_desert_to_farmland
+				}
+				NOR = {
+					has_location_modifier = mdm_farmland_to_jungle
+					has_location_modifier = mdm_farmland_to_forest
+					has_location_modifier = mdm_farmland_to_woods
+					has_location_modifier = mdm_farmland_to_grasslands
+					has_location_modifier = mdm_farmland_to_sparse
+					has_location_modifier = mdm_farmland_to_desert
+				}
+			}
+			value = rgb { 0 255 0 }
+		}
+		else_if = { #sparse
+			limit = {
+				OR = {
+					has_location_modifier = mdm_jungle_to_sparse
+					has_location_modifier = mdm_forest_to_sparse
+					has_location_modifier = mdm_woods_to_sparse
+					has_location_modifier = mdm_grasslands_to_sparse
+					has_location_modifier = mdm_farmland_to_sparse
+					vegetation = sparse
+					has_location_modifier = mdm_desert_to_sparse
+				}
+				NOR = {
+					has_location_modifier = mdm_sparse_to_jungle
+					has_location_modifier = mdm_sparse_to_forest
+					has_location_modifier = mdm_sparse_to_woods
+					has_location_modifier = mdm_sparse_to_grasslands
+					has_location_modifier = mdm_sparse_to_farmland
+					has_location_modifier = mdm_sparse_to_desert
+				}
+			}
+			value = rgb { 147 200 83 }
+		}
+		else_if = { #desert
+			limit = {
+				OR = {
+					has_location_modifier = mdm_jungle_to_desert
+					has_location_modifier = mdm_forest_to_desert
+					has_location_modifier = mdm_woods_to_desert
+					has_location_modifier = mdm_grasslands_to_desert
+					has_location_modifier = mdm_farmland_to_desert
+					has_location_modifier = mdm_sparse_to_desert
+					vegetation = desert
+				}
+				NOR = {
+					has_location_modifier = mdm_desert_to_jungle
+					has_location_modifier = mdm_desert_to_forest
+					has_location_modifier = mdm_desert_to_woods
+					has_location_modifier = mdm_desert_to_grasslands
+					has_location_modifier = mdm_desert_to_farmland
+					has_location_modifier = mdm_desert_to_sparse
+				}
+			}
+			value = rgb { 242 242 111 }
+		}
+		else = { #fallback
+			value = rgb { 0 0 0 }
+		}
+	}
+
+	legend_key = {
+		desc = "MAPMODE_MDM_URBANISATION_SUITABILITY"
+		color = define:NMapColors|MAP_COLOR_HIGH
+	}
+	tooltip_key = {
+		if = {
+			limit = {
+				is_land = yes 
+			}
+			if = { #jungle
+				limit = {
+					OR = {
+						vegetation = jungle
+						has_location_modifier = mdm_forest_to_jungle
+						has_location_modifier = mdm_woods_to_jungle
+						has_location_modifier = mdm_grasslands_to_jungle
+						has_location_modifier = mdm_farmland_to_jungle
+						has_location_modifier = mdm_sparse_to_jungle
+						has_location_modifier = mdm_desert_to_jungle
+					}
+					NOR = {
+						has_location_modifier = mdm_jungle_to_forest
+						has_location_modifier = mdm_jungle_to_woods
+						has_location_modifier = mdm_jungle_to_grasslands
+						has_location_modifier = mdm_jungle_to_farmland
+						has_location_modifier = mdm_jungle_to_sparse
+						has_location_modifier = mdm_jungle_to_desert
+					}
+				}
+				value = MAPMODE_MDM_VEGETATION_TT_LAND_JUNGLE
+			}
+			else_if = { #forest
+				limit = {
+					OR = {
+						has_location_modifier = mdm_jungle_to_forest
+						vegetation = forest
+						has_location_modifier = mdm_woods_to_forest
+						has_location_modifier = mdm_grasslands_to_forest
+						has_location_modifier = mdm_farmland_to_forest
+						has_location_modifier = mdm_sparse_to_forest
+						has_location_modifier = mdm_desert_to_forest
+					}
+					NOR = {
+						has_location_modifier = mdm_forest_to_jungle
+						has_location_modifier = mdm_forest_to_woods
+						has_location_modifier = mdm_forest_to_grasslands
+						has_location_modifier = mdm_forest_to_farmland
+						has_location_modifier = mdm_forest_to_sparse
+						has_location_modifier = mdm_forest_to_desert
+					}
+				}
+				value = MAPMODE_MDM_VEGETATION_TT_LAND_FOREST
+			}
+			else_if = { #woods
+				limit = {
+					OR = {
+						has_location_modifier = mdm_jungle_to_woods
+						has_location_modifier = mdm_forest_to_woods
+						vegetation = woods
+						has_location_modifier = mdm_grasslands_to_woods
+						has_location_modifier = mdm_farmland_to_woods
+						has_location_modifier = mdm_sparse_to_woods
+						has_location_modifier = mdm_desert_to_woods
+					}
+					NOR = {
+						has_location_modifier = mdm_woods_to_jungle
+						has_location_modifier = mdm_woods_to_forest
+						has_location_modifier = mdm_woods_to_grasslands
+						has_location_modifier = mdm_woods_to_farmland
+						has_location_modifier = mdm_woods_to_sparse
+						has_location_modifier = mdm_woods_to_desert
+					}
+				}
+				value = MAPMODE_MDM_VEGETATION_TT_LAND_WOODS
+			}
+			else_if = { #grasslands
+				limit = {
+					OR = {
+						has_location_modifier = mdm_jungle_to_grasslands
+						has_location_modifier = mdm_forest_to_grasslands
+						has_location_modifier = mdm_woods_to_grasslands
+						vegetation = grasslands
+						has_location_modifier = mdm_farmland_to_grasslands
+						has_location_modifier = mdm_sparse_to_grasslands
+						has_location_modifier = mdm_desert_to_grasslands
+					}
+					NOR = {
+						has_location_modifier = mdm_grasslands_to_jungle
+						has_location_modifier = mdm_grasslands_to_forest
+						has_location_modifier = mdm_grasslands_to_woods
+						has_location_modifier = mdm_grasslands_to_farmland
+						has_location_modifier = mdm_grasslands_to_sparse
+						has_location_modifier = mdm_grasslands_to_desert
+					}
+				}
+				value = MAPMODE_MDM_VEGETATION_TT_LAND_GRASSLAND
+			}
+			else_if = { #farmland
+				limit = {
+					OR = {
+						has_location_modifier = mdm_jungle_to_farmland
+						has_location_modifier = mdm_forest_to_farmland
+						has_location_modifier = mdm_woods_to_farmland
+						has_location_modifier = mdm_grasslands_to_farmland
+						vegetation = farmland
+						has_location_modifier = mdm_sparse_to_farmland
+						has_location_modifier = mdm_desert_to_farmland
+					}
+					NOR = {
+						has_location_modifier = mdm_farmland_to_jungle
+						has_location_modifier = mdm_farmland_to_forest
+						has_location_modifier = mdm_farmland_to_woods
+						has_location_modifier = mdm_farmland_to_grasslands
+						has_location_modifier = mdm_farmland_to_sparse
+						has_location_modifier = mdm_farmland_to_desert
+					}
+				}
+				value = MAPMODE_MDM_VEGETATION_TT_LAND_FARMLAND
+			}
+			else_if = { #sparse
+				limit = {
+					OR = {
+						has_location_modifier = mdm_jungle_to_sparse
+						has_location_modifier = mdm_forest_to_sparse
+						has_location_modifier = mdm_woods_to_sparse
+						has_location_modifier = mdm_grasslands_to_sparse
+						has_location_modifier = mdm_farmland_to_sparse
+						vegetation = sparse
+						has_location_modifier = mdm_desert_to_sparse
+					}
+					NOR = {
+						has_location_modifier = mdm_sparse_to_jungle
+						has_location_modifier = mdm_sparse_to_forest
+						has_location_modifier = mdm_sparse_to_woods
+						has_location_modifier = mdm_sparse_to_grasslands
+						has_location_modifier = mdm_sparse_to_farmland
+						has_location_modifier = mdm_sparse_to_desert
+					}
+				}
+				value = MAPMODE_MDM_VEGETATION_TT_LAND_SPARSE
+			}
+			else_if = { #desert
+				limit = {
+					OR = {
+						has_location_modifier = mdm_jungle_to_desert
+						has_location_modifier = mdm_forest_to_desert
+						has_location_modifier = mdm_woods_to_desert
+						has_location_modifier = mdm_grasslands_to_desert
+						has_location_modifier = mdm_farmland_to_desert
+						has_location_modifier = mdm_sparse_to_desert
+						vegetation = desert
+					}
+					NOR = {
+						has_location_modifier = mdm_desert_to_jungle
+						has_location_modifier = mdm_desert_to_forest
+						has_location_modifier = mdm_desert_to_woods
+						has_location_modifier = mdm_desert_to_grasslands
+						has_location_modifier = mdm_desert_to_farmland
+						has_location_modifier = mdm_desert_to_sparse
+					}
+				}
+				value = MAPMODE_MDM_VEGETATION_TT_LAND_DESERT
+			}
+			else = { #fallback
+				value = MAPMODE_MDM_VEGETATION_TT_LAND_FALLBACK
+			}
+		}
+		else = {
+			value = MAPMODE_MDM_VEGETATION_TT_WATER
+		}
+	}
+
+	small_map_names = location
+	medium_map_names = location
+	large_map_names = location
+
+	small_tooltip_context = location
+	medium_tooltip_context = location
+	large_tooltip_context = location
+
+	fill_in_impassable = yes
+	enable_snow = no
+	
+	flatmap_behaviour = always
+	use_fow = no
+	
+	category = geography
+	index = 1
+
+	map_markers = {
+		market_marker = no
+		fort_marker = no
+		toll_marker = no
+	}
+	
+	#enable_water_names = yes
+	
+	gradient_parameters = {
+		zoom_step = @zoom_step_near
+
+		gradient_alpha_inside = 	1
+		gradient_alpha_outside = 	1
+		gradient_width = 			@flatmap_far_gradient_width
+		gradient_color_mult =		@flatmap_far_gradient_color_mult
+		edge_width = 				0
+		edge_sharpness = 			@flatmap_far_edge_sharpness
+		edge_alpha = 				0
+		edge_color_mult = 			0
+		before_lighting_blend =		@flatmap_far_before_lighting_blend
+		after_lighting_blend =		@flatmap_far_after_lighting_blend
+	}
+
+	#color_refresh_counters = { TopographyVegetationDatabaseUpdate }
+	#color_and_names_refresh_counters = { TopographyVegetationDatabaseUpdate }
+
+
+	#activate these for debugging
+	color_refresh_counters = { Day }
+	color_and_names_refresh_counters = { Day }
+}

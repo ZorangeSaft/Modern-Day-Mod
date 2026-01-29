@@ -711,6 +711,18 @@ stone = {
 
 
 
+#metal refining
+
+limestone = { #used in multiple metal refining
+	method = mining
+	category = raw_material
+	color = rgb { 230 220 200 } #ai
+	default_market_price = 0.7 #ai
+	transport_cost = 5 #ai
+}
+
+
+
 #oil and gas
 
 crude_oil = {

@@ -432,13 +432,6 @@ borax = { #used in multiple metal refining
 	transport_cost = 3 #ai
 }
 
-limestone = { #used in multiple metal refining
-	category = produced
-	color = rgb { 230 220 200 } #ai
-	default_market_price = 0.7 #ai
-	transport_cost = 5 #ai
-}
-
 
 
 #refined metals

@@ -1,0 +1,10 @@
+﻿    country_flavor_example = {
+     	type = country
+
+     	text = {
+            localization_key = rank_republic_germany
+     		trigger = {
+     			tag = GER
+     		}
+     	}
+     }

@@ -65,3 +65,11 @@
  STATIC_MODIFIER_DESC_amber_coast_base: "The coast of this region has many deposits of amber."
  STATIC_MODIFIER_NAME_sicily_sulfur_mines: "Sulfur Mines of Sicily"
  STATIC_MODIFIER_DESC_sicily_sulfur_mines: "The sulfur mines of Sicily are flush with resources required for saltpeter production."
+
+
+
+
+ #####mdm modern day mod
+
+ STATIC_MODIFIER_NAME_mdm_oil_100: "Large Oil Reserve"
+ STATIC_MODIFIER_NAME_mdm_oil_100_DESC: "This location has a large reserve of oil available for extraction."
