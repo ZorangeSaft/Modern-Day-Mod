@@ -34312,6 +34312,19 @@ SLT = { # Solothurn - Combination of 14th c. St Ursus cross from seals & modern 
 	}		
 }
 
+mdm_SLUC = { # mdm modern day mod St. Lucia
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 102 205 255 }
+
+	colored_emblem = {
+		texture = "mdm_ce_st_lucia.dds"
+		color1 = rgb { 252 210 14 }
+		color2 = "black"
+		color3 = "white"
+		instance = { scale = { 0.822 0.822 } }
+	}
+}
+
 SLV = { # Schleswig
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"

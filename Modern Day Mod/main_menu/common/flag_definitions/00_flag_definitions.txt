@@ -5509,6 +5509,13 @@ SLOV = { # mdm modern day mod Slovenia
 	}
 }
 
+SLUC = { # mdm modern day mod St. Lucia
+	flag_definition = {
+		coa = mdm_SLUC
+		priority = 1
+	}
+}
+
 SMB = { # Sambas
 	flag_definition = {
 		coa = SMB
