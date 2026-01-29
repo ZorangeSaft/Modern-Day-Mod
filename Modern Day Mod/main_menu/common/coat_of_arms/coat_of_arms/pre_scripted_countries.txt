@@ -35598,6 +35598,19 @@ SVO = { # Savonia
 	}	
 }
 
+mdm_SVGR = { # mdm modern day mod St. Vincent and the Grenadines
+	pattern = "mdm_pattern_tricolor_vertical_1-2-1.dds"
+	color1 = rgb { 0 33 117 }
+	color2 = rgb { 252 209 28 }
+	color3 = rgb { 0 125 42 }
+
+	colored_emblem = {
+		texture = "mdm_ce_gems_st_vincent_and_the_grenadines.dds"
+		color1 = color3
+		instance = { position = { 0.5 0.584 } scale = { 0.516 0.516 } }
+	}
+}
+
 SWA = { # Swabia
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"
