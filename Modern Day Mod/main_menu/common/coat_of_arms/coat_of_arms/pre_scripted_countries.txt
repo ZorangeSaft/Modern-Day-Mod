@@ -6712,48 +6712,16 @@ mdm_CAME =  { # mdm modern day mod Cameroon
 	}
 }
 
-CAN = { # Canada
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-
-	colored_emblem = {
-		texture = "ce_maple_leaf_outline.dds"
-		color1 = color2
-		color2 = "white"
-		instance = { position = { 0.5 0.51 } scale = { 0.95 0.95 } }				
-	}	
-}
-CAN_subject = { # Canada - Subject ensign
-	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "yellow"
-
-	colored_emblem = {
-		texture = "ce_maple_leaf_outline.dds"
-		color1 = color2
-		color2 = "white"
-		instance = { position = { 0.75 0.5 } scale = { 0.6 0.55 } }
-	}
-}
-CAN_modern = { # Canada - Modern flag
-	pattern = "pattern_solid.dds"
+mdm_CAN = { # mdm modern day mod Canada
+	pattern = "mdm_pattern_border_left_right_1-2-1.dds"
 	color1 = "white"
-	color2 = "red"
+	color2 = rgb { 214 39 24 }
 
 	colored_emblem = {
-		texture = "ce_maple_leaf.dds"
+		texture = "mdm_ce_maple_leaf_canada.dds"
 		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 0.8 0.85 } }				
-	}	
-	colored_emblem = {
-		texture = "ce_solid.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.115 0.5 } scale = { 0.23 1.0 } }				
-		instance = { position = { 0.885 0.5 } scale = { 0.23 1.0 } }					
-	}	
+		instance = { position = { 0.5 0.5 } scale = { 0.632 0.632 } }
+	}
 }
 
 CAR = { # Carniola

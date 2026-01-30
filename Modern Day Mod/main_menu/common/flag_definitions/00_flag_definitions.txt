@@ -1503,24 +1503,11 @@ CAME = { # mdm modern day mod Cameroon
 	}
 }
 
-CAN = { # Canada
+CAN = { # mdm modern day mod Canada
 	flag_definition = {
-		coa = CAN
-		priority = 10001 # Needed to override default random def
+		coa = mdm_CAN
+		priority = 1
 	}
-	flag_definition = {
-		coa = CAN_subject
-		allow_overlord_canton = yes
-		priority = 10005
-		trigger = {
-			coa_def_colonial_nation_trigger = yes
-			OR = {
-				coa_def_GBR_ensign_trigger = yes
-				coa_def_ENG_ensign_trigger = yes
-				coa_def_SCO_ensign_trigger = yes		
-			}
-		}
-	}	
 }
 
 CAS = { # Castile
