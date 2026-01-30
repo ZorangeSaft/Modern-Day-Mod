@@ -1,0 +1,3 @@
+﻿l_english:
+ LOADING_TIP_0: " #T \"This text is Big and at the top 1.\"#! \n #tooltip_subheading — this text is small and at the bottom, #italic this text is italic#!, 1521#!"
+ LOADING_TIP_1: " #T \"This is a quote.\"#! \n #tooltip_subheading — this is who said the quote, #italic text can be italic#!, 2000#!"
