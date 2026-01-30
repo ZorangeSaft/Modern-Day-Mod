@@ -6720,7 +6720,7 @@ mdm_CAN = { # mdm modern day mod Canada
 	colored_emblem = {
 		texture = "mdm_ce_maple_leaf_canada.dds"
 		color1 = color2
-		instance = { position = { 0.5 0.5 } scale = { 0.632 0.632 } }
+		instance = { position = { 0.5 0.504 } scale = { 0.632 0.632 } }
 	}
 }
 
