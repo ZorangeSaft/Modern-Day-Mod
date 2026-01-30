@@ -39490,30 +39490,85 @@ URY = { # Uryangkhad
 	}		
 }
 
-USA = { # United States
+mdm_USA = { # mdm modern day mod United States
 	pattern = "pattern_solid.dds"
-	color1 = "red"
-	color2 = "white"
-	color3 = "blue"
+	color1 = rgb { 192 3 44 }
 
 	colored_emblem = {
 		texture = "ce_bars_06.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }				
-	}	
+		color1 = "white"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
+	}
+
 	colored_emblem = {
-		texture = "ce_solid.dds"
-		color1 = color3
-		color2 = color3
-		instance = { position = { 0.25 @[ 1 / 13 * 7/2 ] } scale = { 0.5 @[ 1 / 13 * 7 ] } }				
-	}	
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 26 91 }
+		instance = { position = { 0.269 0.269 } scale = { 0.538 0.538 } }
+	}
+
 	colored_emblem = {
-		texture = "ce_stars_circle_13.dds"
-		color1 = color2
-		color2 = color2
-		instance = { position = { 0.25 @[ 1 / 13 * 7/2 ] } scale = { 0.5 @[ 1 / 13 * 7 ] } }				
-	}	
+		texture = "ce_star_05.dds"
+		color1 = "white"
+
+		instance = { position = { @[(0.166 - 0.083) * 0.538 ] @[ 0.1 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.333 - 0.083) * 0.538 ] @[ 0.1 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.5 - 0.083) * 0.538 ] @[ 0.1 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.667 - 0.083) * 0.538 ] @[ 0.1 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.833 - 0.083) * 0.538 ] @[ 0.1 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(1 - 0.083) * 0.538 ] @[ 0.1 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[0.166 * 0.538 ] @[ 0.2 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.333 * 0.538 ] @[ 0.2 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.5 * 0.538 ] @[ 0.2 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.667 * 0.538 ] @[ 0.2 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.833 * 0.538 ] @[ 0.2 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[(0.166 - 0.083) * 0.538 ] @[ 0.3 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.333 - 0.083) * 0.538 ] @[ 0.3 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.5 - 0.083) * 0.538 ] @[ 0.3 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.667 - 0.083) * 0.538 ] @[ 0.3 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.833 - 0.083) * 0.538 ] @[ 0.3 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(1 - 0.083) * 0.538 ] @[ 0.3 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[0.166 * 0.538 ] @[ 0.4 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.333 * 0.538 ] @[ 0.4 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.5 * 0.538 ] @[ 0.4 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.667 * 0.538 ] @[ 0.4 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.833 * 0.538 ] @[ 0.4 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[(0.166 - 0.083) * 0.538 ] @[ 0.5 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.333 - 0.083) * 0.538 ] @[ 0.5 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.5 - 0.083) * 0.538 ] @[ 0.5 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.667 - 0.083) * 0.538 ] @[ 0.5 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.833 - 0.083) * 0.538 ] @[ 0.5 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(1 - 0.083) * 0.538 ] @[ 0.5 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[0.166 * 0.538 ] @[ 0.6* 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.333 * 0.538 ] @[ 0.6* 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.5 * 0.538 ] @[ 0.6* 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.667 * 0.538 ] @[ 0.6* 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.833 * 0.538 ] @[ 0.6* 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[(0.166 - 0.083) * 0.538 ] @[ 0.7 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.333 - 0.083) * 0.538 ] @[ 0.7 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.5 - 0.083) * 0.538 ] @[ 0.7 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.667 - 0.083) * 0.538 ] @[ 0.7 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.833 - 0.083) * 0.538 ] @[ 0.7 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(1 - 0.083) * 0.538 ] @[ 0.7 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[0.166 * 0.538 ] @[ 0.8 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.333 * 0.538 ] @[ 0.8 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.5 * 0.538 ] @[ 0.8 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.667 * 0.538 ] @[ 0.8 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.833 * 0.538 ] @[ 0.8 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[(0.166 - 0.083) * 0.538 ] @[ 0.9 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.333 - 0.083) * 0.538 ] @[ 0.9 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.5 - 0.083) * 0.538 ] @[ 0.9 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.667 - 0.083) * 0.538 ] @[ 0.9 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.833 - 0.083) * 0.538 ] @[ 0.9 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(1 - 0.083) * 0.538 ] @[ 0.9 * 0.538 ] } scale = { 0.055 0.055 } }
+	}
 }
 
 UTB = { # Otaibah
