@@ -26758,7 +26758,7 @@ NOL_kingdom = { # Crowned
 	}
 }
 
-mdm_NOR = {
+mdm_NOR = { # mdm modern day mod Norway
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 187 4 43 }
 
