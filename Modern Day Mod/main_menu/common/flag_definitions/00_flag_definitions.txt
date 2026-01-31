@@ -3512,6 +3512,13 @@ MGE = { # mdm modern day mod Mongolia
 	}
 }
 
+MICR = { # mdm modern day mod Micronesia
+	flag_definition = {
+		coa = mdm_MICR
+		priority = 1
+	}
+}
+
 MIE = { # Maine
 	flag_definition = {
 		coa = MIE_ancient
