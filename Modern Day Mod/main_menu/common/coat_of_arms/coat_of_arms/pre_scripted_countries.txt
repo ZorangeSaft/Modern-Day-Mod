@@ -22883,6 +22883,17 @@ MHT = { # Mihuatlan
 	}		
 }
 
+mdm_MICR = { # mdm modern day mod Micronesia
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 118 180 222 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stars_micronesia.dds"
+		color1 = "white"
+		instance = { scale = { 0.8 0.8 } }
+	}
+}
+
 MIE_ancient = { # Maine Ancient (Beaumont)
 	pattern = "pattern_solid.dds"
 	color1 = "yellow"
@@ -26747,7 +26758,7 @@ NOL_kingdom = { # Crowned
 	}
 }
 
-mdm_NOR = {
+mdm_NOR = { # mdm modern day mod Norway
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 187 4 43 }
 
