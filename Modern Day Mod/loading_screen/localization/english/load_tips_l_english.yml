@@ -1,3 +1,5 @@
 ﻿l_english:
  LOADING_TIP_0: " #T \"This text is Big and at the top 1.\"#! \n #tooltip_subheading — this text is small and at the bottom, #italic this text is italic#!, 1521#!"
  LOADING_TIP_1: " #T \"This is a quote.\"#! \n #tooltip_subheading — this is who said the quote, #italic text can be italic#!, 2000#!"
+ LOADING_TIP_2: " #T \"It is easier to imagine an end to the world than an end to capitalism.\"#! \n #tooltip_subheading — Fredric Jameson, 2003#!"
+ LOADING_TIP_3: " #T \"GPUs are the paperclips we were warned about.\"#!"
