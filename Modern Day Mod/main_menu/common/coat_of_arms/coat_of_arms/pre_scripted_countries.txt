@@ -9086,6 +9086,36 @@ COM = { # Comminges
 	}	
 }
 
+mdm_COMO = { # mdm modern day mod Comoros
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 255 210 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = "white"
+		instance = { position = { 0.5 0.375 } scale = { 1 0.25 } }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 239 48 62 }
+		instance = { position = { 0.5 0.625 } scale = { 1 0.25 } }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 59 166 }
+		instance = { position = { 0.5 0.875 } scale = { 1 0.25 } }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_62.dds"
+		color1 = rgb { 0 151 54 }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_comoros.dds"
+		color1 = "white"
+		instance = { position = { 0.147 0.5 } scale = { 0.473 0.473 } }
+	}
+}
+
 CON = { # Coinan - Tototlan
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	350		75		55	} 
