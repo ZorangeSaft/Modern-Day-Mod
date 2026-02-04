@@ -123,7 +123,7 @@ mdm_change_veg_to_forest = {
 	max_levels = 1
 	pop_type = laborers
 	
-	employment_size = mdm_default_employment
+	employment_size = 0.001
 	category = infrastructure_category
 	
 	megalopolis = yes
@@ -141,15 +141,29 @@ mdm_change_veg_to_forest = {
 	
 	location_potential = {
 		NOR = {
-				climate = arid
-				climate = cold_arid
+			climate = arid
+			climate = cold_arid
+		}
+		OR = {
+			NOR = { #cant convert to forest if it is already forest
 				has_location_modifier = mdm_jungle_to_forest
-				vegetation = forest
 				has_location_modifier = mdm_woods_to_forest
 				has_location_modifier = mdm_grasslands_to_forest
 				has_location_modifier = mdm_farmland_to_forest
 				has_location_modifier = mdm_sparse_to_forest
 				has_location_modifier = mdm_desert_to_forest
+			}
+			AND = { #can also convert back to forest if it was once forest
+				vegetation = forest
+				OR = {
+					has_location_modifier = mdm_forest_to_jungle
+					has_location_modifier = mdm_forest_to_woods
+					has_location_modifier = mdm_forest_to_grasslands
+					has_location_modifier = mdm_forest_to_farmland
+					has_location_modifier = mdm_forest_to_sparse
+					has_location_modifier = mdm_forest_to_desert
+				}
+			}
 		}
 	}
 
@@ -168,6 +182,12 @@ mdm_change_veg_to_forest = {
 					vegetation = jungle
 				}
 				add_location_modifier = mdm_jungle_to_forest
+			}
+			else_if = {
+				limit = {
+					vegetation = forest
+				}
+				#do nothing, effect already cleared
 			}
 			else_if = {
 				limit = {
