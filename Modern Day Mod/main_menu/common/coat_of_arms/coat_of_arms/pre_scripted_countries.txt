@@ -11200,6 +11200,18 @@ mdm_DOMI = { # mdm modern day mod Dominica
 	}
 }
 
+mdm_DOMR = { # mdm modern day mod Dominican Republic
+	pattern = "mdm_pattern_dominican_republic.dds"
+	color1 = rgb { 0 45 98 }
+	color2 = rgb { 206 17 38 }
+	color3 = "white"
+
+	textured_emblem = {
+		texture = "mdm_coa_dominican_republic.dds"
+		instance = { position = { 0.5 0.498 } scale = { 0.2 0.2 } }
+	}
+}
+
 DPH = { # Diepholz
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
