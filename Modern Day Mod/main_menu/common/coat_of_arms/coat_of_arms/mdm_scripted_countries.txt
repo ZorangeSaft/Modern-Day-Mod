@@ -1,0 +1,2673 @@
+mdm_ABKH = { # mdm modern day mod Abkhazia
+	pattern = "mdm_pattern_abkhazia.dds"
+	color1 = rgb { 0 154 60 }
+	color2 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 201 45 37 }
+		instance = { position = { 0.254 0.215 } scale = { 0.507 0.429 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_hand_abkhazia.dds"
+		color1 = color2
+		instance = { position = { 0.266 0.252 } scale = { 0.253 0.253 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.079 0.259 } scale = { 0.057 0.057 } }
+		instance = { position = { 0.115 0.158 } scale = { 0.057 0.057 } }
+		instance = { position = { 0.179 0.087 } scale = { 0.057 0.057 } }
+		instance = { position = { 0.253 0.064 } scale = { 0.057 0.057 } }
+		instance = { position = { 0.328 0.087 } scale = { 0.057 0.057 } }
+		instance = { position = { 0.391 0.158 } scale = { 0.057 0.057 } }
+		instance = { position = { 0.428 0.259 } scale = { 0.057 0.057 } }
+	}
+}
+
+mdm_AFGH = { # mdm modern day mod Afghanistan
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_shahada_afghanistan.dds"
+		color1 = "black"
+		instance = { scale = { 0.698 0.698 } }
+	}	
+}
+
+mdm_ALB = { # mdm modern day mod Albania
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 255 0 0 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_eagle_albanian.dds"
+		color1 = "black"
+		instance = { scale = { 0.612 0.612 } }
+	}
+}
+
+mdm_ALG = { # mdm modern day mod Algeria
+	pattern = "pattern_vertical_split_01.dds"
+	color1 = rgb { 0 102 51 }
+	color2 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_algerian.dds"
+		color1 = rgb { 210 16 52 }
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
+mdm_ANBR = { # mdm modern day mod Antigua and Barbuda
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 207 8 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_horizon_antigua_and_barbuda.dds"
+		color1 = "black"
+		color2 = rgb { 0 155 199 }
+		color3 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_antigua_and_barbuda.dds"
+		color1 = rgb { 252 210 14 }
+		instance = { position = { 0.5 0.231 } scale = { 0.431 0.431 } }
+	}
+}
+
+mdm_ANGO = { # mdm modern day mod Angola
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 204 9 47 }
+	color2 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_angola.dds"
+		color1 = rgb { 255 203 0 }
+		instance = { position = { 0.516 0.5 } scale = { 0.602 0.602 } }
+	}
+}
+
+mdm_ANR = { # mdm modern day mod Andorra
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 8 1 160 }
+	color2 = rgb { 254 222 0 }
+	color3 = rgb { 214 0 46 }
+
+	textured_emblem = {
+		texture = "mdm_coa_andorra.dds"
+		instance = { scale = { 0.464 0.464 } }
+	}
+}
+
+mdm_ARGE = { # mdm modern day mod Argentina
+	pattern = "pattern_horizontal_bar_01.dds"
+	color1 = rgb { 117 174 224 }
+	color2 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_argentina.dds"
+		color1 = rgb { 246 182 6 }
+		color2 = rgb { 134 49 3 }
+		instance = { scale = { 0.28 0.28 } }
+	}
+}
+
+mdm_ARM = { # mdm modern day mod Armenia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 218 0 10 }
+	color2 = rgb { 0 48 161 }
+	color3 = rgb { 242 170 0 }
+}
+
+mdm_AUST = { # mdm modern day mod Australia
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 27 105 }
+
+	textured_emblem = {
+		texture = "mdm_coa_union_jack.dds"
+		instance = { position = { 0.25 0.25 } scale = { 0.5 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_australia.dds"
+		color1 = "white"
+		instance = { position = { 0.25 0.743 } scale = { 0.284 0.284 } }
+		instance = { position = { 0.75 0.163 } scale = { 0.134 0.134 } }
+		instance = { position = { 0.861 0.367 } scale = { 0.134 0.134 } }
+		instance = { position = { 0.625 0.434 } scale = { 0.134 0.134 } }
+		instance = { position = { 0.75 0.83 } scale = { 0.134 0.134 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.8 0.538 } scale = { 0.074 0.074 } }
+	}
+}
+
+mdm_AZER = { # mdm modern day mod Azerbaijan
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 182 227 }
+	color2 = rgb { 239 48 62 }
+	color3 = rgb { 79 159 43 }
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_azeri.dds"
+		color1 = "white"
+		instance = { scale = { 0.3 0.3 } }
+	}	
+}
+
+mdm_BAHA = { # mdm modern day mod Bahamas
+	pattern = "pattern_horizontal_bar_01.dds"
+	color1 = rgb { 0 120 140 }
+	color2 = rgb { 255 200 40 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_60.dds"
+		color1 = "black"
+	}
+}
+
+mdm_BAHR = { # mdm modern day mod Bahrain
+	pattern = "mdm_pattern_bahrain.dds"
+	color1 = "white"
+	color2 = rgb { 219 36 22 }
+}
+
+mdm_BANG = { # mdm modern day mod Bangladesh
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 103 69 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1 = rgb { 219 36 22 }
+		instance = { position = { 0.45 0.5 } scale = { 0.667 0.667 } }
+	}
+}
+
+mdm_BARB = { # mdm modern day mod Barbados
+	pattern = "pattern_vertical_bar_01.dds"
+	color1 = rgb { 0 33 128 }
+	color2 = rgb { 255 200 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_trident_barbados.dds"
+		color1 = "black"
+		instance = { scale = { 0.484 0.484 } }
+	}
+}
+
+mdm_BEI = { # mdm modern day mod Brunei
+	pattern = "mdm_pattern_brunei.dds"
+	color1 = rgb { 247 225 16 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_brunei.dds"
+		color1 = rgb { 208 8 33 }
+		color2 = color1
+		instance = { scale = { 0.586 0.586 } }
+	}
+}
+
+mdm_BEL = { # mdm modern day mod Belgium
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = "black"
+	color2 = rgb { 253 219 32 }
+	color3 = rgb { 239 48 62 }
+
+}
+
+mdm_BELA = { # mdm modern day mod Belarus
+	pattern = "mdm_pattern_third_bottom.dds"
+	color1 = rgb { 210 39 48 }
+	color2 = rgb { 0 151 57 }
+
+	colored_emblem = {
+		texture = "mdm_ce_ruchnik.dds"
+		color1 = color1
+		color2 = "white"
+	}
+}
+
+mdm_BELI = { # mdm modern day mod Belize
+	pattern = "mdm_pattern_border_top_and_bottom_1-8-1.dds"
+	color1 = rgb { 16 14 151 }
+	color2 = rgb { 218 6 18 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1 = "white"
+		instance = { scale = { 0.583 0.583 } }
+	}
+
+	textured_emblem = {
+		texture = "mdm_coa_belize.dds"
+		instance = { scale = { 0.559 0.559 } }
+	}
+}
+
+mdm_BEN = { # mdm modern day mod Benin
+	pattern = "mdm_pattern_left_third_horizontal_split.dds"
+	color1 = rgb { 0 136 80 }
+	color2 = rgb { 252 210 15 }
+	color3 = rgb { 233 9 41 }
+}
+
+mdm_BHUT = { # mdm modern day mod Bhutan
+	pattern = "pattern_diagonal_split_03.dds"
+	color1 = rgb { 255 206 0 }
+	color2 = rgb { 255 103 25 }
+
+	textured_emblem = {
+		texture = "mdm_coa_bhutan.dds"
+		instance = { position = { 0.498 0.512 } scale = { 0.781 0.781 } }
+	}
+}
+
+mdm_BOLI = { # mdm modern day mod Bolivia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 218 41 28 }
+	color2 = rgb { 244 228 0 }
+	color3 = rgb { 0 122 51 }
+}
+
+mdm_BOSH = { # mdm modern day mod Bosnia and Herzegovinia
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "mdm_ce_triangle_bosnian_herzegovinian.dds"
+		color1 = rgb { 254 204 0 }
+		instance = { position = { 0.515 0.5 } }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.11 -0.011 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.193 0.136 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.275 0.261 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.358 0.386 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.441 0.511 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.523 0.636 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.606 0.761 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.689 0.886 } scale = { 0.172 0.172 } }
+		instance = { position = { 0.771 1.011 } scale = { 0.172 0.172 } }
+	}
+}
+
+mdm_BOTS = { # mdm modern day mod Botswana
+	pattern = "mdm_pattern_horizontal_stripes_botswana.dds"
+	color1 = rgb { 109 171 211 }
+	color2 = "black"
+	color3 = "white"
+}
+
+mdm_BRAZ = { # mdm modern day mod Brazil
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 149 62 }
+
+	colored_emblem = {
+		texture = "mdm_ce_diamond_brazil.dds"
+		color1 = rgb { 255 204 0 }
+		instance = { scale = { 0.757 0.757 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_brazil.dds"
+		color1 = rgb { 44 33 130 }
+		color2 = "white"
+		color3 = rgb { 0 149 62 }
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
+mdm_BUFA = { # mdm modern day mod Burkina Faso
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 239 39 41 }
+	color2 = rgb { 0 159 71 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 2522 210 14 }
+		instance = { position = { 0.483 0.5 } scale = { 0.302 0.302 } }
+	}
+}
+
+mdm_BUL = { # mdm modern day mod Bulgaria
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "white"
+	color2 = rgb { 0 151 110 }
+	color3 = rgb { 215 33 10 }
+}
+
+mdm_BUU = { # mdm modern day mod Burundi
+	pattern = "mdm_pattern_burundi.dds"
+	color1 = rgb { 65 178 37 }
+	color2 = rgb { 201 8 42 }
+	color3 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_Star_burundi.dds"
+		color1 = color2
+		color2 = color1
+		instance = { position = { 0.424 0.57 } scale = { 0.133 0.133 } }
+		instance = { position = { 0.576 0.57 } scale = { 0.133 0.133 } }
+		instance = { position = { 0.5 0.353 } scale = { 0.133 0.133 } }
+	}
+}
+
+mdm_CAFR = { # mdm modern day mod Central African Republic
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 211 8 49 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_central_african.dds"
+		color1 = rgb { 0 44 131 }
+		instance = { position = { 0.5 0.125 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_central_african.dds"
+		color1 = "white"
+		instance = { position = { 0.5 0.375 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_central_african.dds"
+		color1 = rgb { 35 152 35 }
+		instance = { position = { 0.5 0.625 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_central_african.dds"
+		color1 = rgb { 255 207 0 }
+		instance = { position = { 0.5 0.875 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 255 207 0 }
+		instance = { position = { 0.167 0.125 } scale = { 0.2 0.2 } }
+	}
+}
+
+mdm_CAME = { # mdm modern day mod Cameroon
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 123 94 }
+	color2 = rgb { 207 8 33 }
+	color3 = rgb { 252 210 14 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color3
+		instance = { position = { 0.487 0.5 } scale = { 0.241 0.241 } }
+	}
+}
+
+mdm_CAN = { # mdm modern day mod Canada
+	pattern = "mdm_pattern_border_left_right_1-2-1.dds"
+	color1 = "white"
+	color2 = rgb { 214 39 24 }
+
+	colored_emblem = {
+		texture = "mdm_ce_maple_leaf_canada.dds"
+		color1 = color2
+		instance = { position = { 0.5 0.504 } scale = { 0.632 0.632 } }
+	}
+}
+
+mdm_CHAD = { # mdm modern day mod Chad
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 32 91 }
+	color2 = rgb { 252 205 0 }
+	color3 = rgb { 200 16 46 }
+}
+
+mdm_CHEC = { # mdm modern day mod Chechnya
+	pattern = "mdm_pattern_ichkeria.dds"
+	color1 = rgb { 39 116 53 }
+	color2 = "white"
+	color3 = rgb { 219 32 23 }
+	
+}
+
+mdm_CHI = { # mdm modern day mod China
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 239 22 32 }
+
+	colored_emblem = {
+		texture = "ce_china_modern_stars.dds"
+		color1 = rgb { 255 255 0 }
+	}
+}
+
+mdm_CHIL = { # mdm modern day mod Chile
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = "white"
+	color2 = rgb { 219 36 22 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 46 161 }
+		instance = { position = { 0.167 0.25 } scale = { 0.333 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.166 0.238 } scale = { 0.225 0.225 } }
+	}
+}
+
+mdm_COLO = { # mdm modern day mod Colombia
+	pattern = "mdm_pattern_tricolor_horizontal_2-1-1.dds"
+	color1 = rgb { 255 206 0 }
+	color2 = rgb { 0 44 136 }
+	color3 = rgb { 201 8 42 }
+}
+
+mdm_COMO = { # mdm modern day mod Comoros
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 255 210 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = "white"
+		instance = { position = { 0.5 0.375 } scale = { 1 0.25 } }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 239 48 62 }
+		instance = { position = { 0.5 0.625 } scale = { 1 0.25 } }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 59 166 }
+		instance = { position = { 0.5 0.875 } scale = { 1 0.25 } }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_62.dds"
+		color1 = rgb { 0 151 54 }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_comoros.dds"
+		color1 = "white"
+		instance = { position = { 0.147 0.5 } scale = { 0.473 0.473 } }
+	}
+}
+
+mdm_CONG = { # mdm modern day mod Congo
+	pattern = "mdm_pattern_diagonal_stripe_congo.dds"
+	color1 = rgb { 0 152 54 }
+	color2 = rgb { 255 210 0 }
+	color3 = rgb { 221 31 25 }
+}
+
+mdm_COST = { # mdm modern day mod Costa Rica
+	pattern = "mdm_pattern_horizontal_stripes_costa_rica.dds"
+	color1 = rgb { 219 36 22 }
+	color2 = "white"
+	color3 = rgb { 0 12 138 }
+}
+
+mdm_CPVR = { # mdm modern day mod Cabo Verde
+	pattern = "mdm_pattern_horizontal_stripes_cabo_verde.dds"
+	color1 = rgb { 0 53 148 }
+	color2 = rgb { 208 26 34 }
+	color3 = "white"
+	
+	colored_emblem = {
+		texture = "mdm_ce_stars_cabo_verde.dds"
+		color1 = rgb { 247 210 14 }
+		instance = { position = { 0.375 0.621 } scale = { 0.577 0.577 } }
+	}
+}
+
+mdm_CRO = { # mdm modern day mod Croatia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 255 0 0 }
+	color2 = "white"
+	color3 = rgb { 16 16 151 }
+
+	textured_emblem = {
+		texture = "mdm_coa_croatia.dds"
+		instance = { position = { 0.5 0.446 } scale = { 0.625 0.625 } }
+	}
+}
+
+mdm_CUBA = {  # mdm modern day mod Cuba
+	pattern = "mdm_pattern_horizontal_stripes_5.dds"
+	color1 = rgb { 0 37 144 }
+	color2 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_60.dds"
+		color1 = rgb { 204 13 13 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color2
+		instance = { position = { 0.192 0.481 } scale = { 0.3 0.3 } }
+	}
+}
+
+mdm_CYP = { # mdm modern day mod Cyprus
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_borders_cypriot.dds"
+		color1 = rgb { 213 120 0 }
+		instance = { position = { 0.533 0.374 } scale = { 0.585 0.585 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_olive_branches_cypriot.dds"
+		color1 = rgb { 78 91 49 }
+		instance = { position = { 0.5 0.774 } scale = { 0.441 0.441 } }
+	}
+}
+
+mdm_CZEC = { # mdm modern day mod Czech Republic
+	pattern = "mdm_pattern_tricolor_hoist_triangle.dds"
+	color1 = rgb { 8 67 127 }
+	color2 = "white"
+	color3 = rgb { 216 12 19 }
+}
+
+mdm_DAN = { # mdm modern day mod Denmark
+	pattern = "pattern_solid.dds"
+	color1 = rgb {201 8 42}
+
+	colored_emblem = {
+		texture = "ce_cross_nordic.dds"
+		color1 = "white"
+	}
+}
+
+mdm_DGL = { # mdm modern day mod Maldives
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 211 8 49 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 127 55 }
+		instance = { scale = { 0.667 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_maldives.dds"
+		color1 = "white"
+		instance = { position = { 0.495 0.5 } scale = { 0.333 0.333 } }
+	}
+}
+
+mdm_DJIB = { # mdm modern day mod Djibouti
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 106 180 232 }
+	color2 = rgb { 9 175 39 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_60.dds"
+		color1 = "white"
+	}
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 216 12 19 }
+		instance = { position = { 0.221 0.5 } scale = { 0.248 0.248 } }
+	}
+}
+
+mdm_DOMI = { # mdm modern day mod Dominica
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 106 53 }
+
+	colored_emblem = {
+		texture = "mdm_ce_cross_dominica.dds"
+		color1 = rgb { 255 206 0 }
+		color2 = "black"
+		color3 = "white"
+	}
+
+	textured_emblem = {
+		texture = "mdm_coa_dominica.dds"
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
+mdm_DOMR = { # mdm modern day mod Dominican Republic
+	pattern = "mdm_pattern_dominican_republic.dds"
+	color1 = rgb { 0 45 98 }
+	color2 = rgb { 206 17 38 }
+	color3 = "white"
+
+	textured_emblem = {
+		texture = "mdm_coa_dominican_republic.dds"
+		instance = { position = { 0.5 0.498 } scale = { 0.2 0.2 } }
+	}
+}
+
+mdm_DRCO = { # mdm modern day mod Democratic Republic of the Congo
+	pattern = "mdm_pattern_diagonal_stripes_drc.dds"
+	color1 = rgb { 0 128 255 }
+	color2 = rgb { 207 8 27 }
+	color3 = rgb { 247 215 17 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color3
+		instance = { position = { 0.183 0.243 } scale = { 0.367 0.367 } }
+	}
+}
+
+mdm_ECUA = { # mdm modern day mod Ecuador
+	pattern = "mdm_pattern_tricolor_horizontal_2-1-1.dds"
+	color1 = rgb { 255 221 0 }
+	color2 = rgb { 3 78 162 }
+	color3 = rgb { 237 28 36 }
+
+	textured_emblem = {
+		texture = "mdm_coa_ecuador.dds"
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
+mdm_EGY = { # mdm modern day mod Egypt
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 200 16 46 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_eagle_egyptian.dds"
+		color1 = rgb { 255 205 0 }
+		instance = { scale = { 0.317 0.317 } }
+	}
+}
+
+mdm_ELSA = { # mdm modern day mod El Salvador
+	pattern = "pattern_horizontal_bar_01.dds"
+	color1 = rgb { 0 69 173 }
+	color2 = "white"
+	
+	textured_emblem = {
+		texture = "mdm_coa_el_salvador.dds"
+		instance = { scale = { 0.296 0.296 } }
+	}
+}
+
+mdm_EQGU = { # mdm modern day mod Equatorial Guinea
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 60 155 0 }
+	color2 = "white"
+	color3 = rgb { 228 27 17 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_107.dds"
+		color1 = rgb { 0 116 207 }
+	}
+
+	textured_emblem = {
+		texture = "mdm_coa_equatorial_guinea.dds"
+		instance = { scale = { 0.3 0.3 } }
+	}
+}
+
+mdm_ERIT = { # mdm modern day mod Eritrea
+	pattern = "mdm_pattern_eritrea.dds"
+	color1 = rgb { 229 0 39 }
+	color2 = rgb { 65 178 37 }
+	color3 = rgb { 63 144 223 }
+
+	colored_emblem = {
+		texture = "mdm_ce_eritrea.dds"
+		color1 = rgb { 255 200 40 }
+		instance = { position = { 0.333 0.521 } scale = { 0.5 0.5 } }
+	}
+}
+
+mdm_ESTO = { # mdm modern day mod Estonia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 115 207 }
+	color2 = "black"
+	color3 = "white"
+}
+
+mdm_ESWA = { # mdm modern day mod Eswatini
+	pattern = "mdm_pattern_horizontal_stripes_eswatini.dds"
+	color1 = rgb { 179 4 4 }
+	color2 = rgb { 60 94 186 }
+	color3 = rgb { 255 218 0 }
+
+	textured_emblem = {
+		texture = "mdm_coa_eswatini.dds"
+		instance = { position = { 0.505 0.5 } scale = { 0.811 0.811 } }
+	}
+}
+
+mdm_ETH = { # mdm modern day mod Ethiopia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 1 138 44 }
+	color2 = rgb { 252 222 2 }
+	color3 = rgb { 219 10 19 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1 = rgb { 6 69 176 }
+		instance = { scale = { 0.666 0.666 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_ethiopian.dds"
+		color1 = color2
+		instance = { scale = { 0.532 0.532 } }
+	}
+}
+
+mdm_ETIM = { # mdm modern day mod Timor-Leste
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 219 36 22 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_53.dds"
+		color1 = rgb { 255 200 40 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_75.dds"
+		color1 = "black"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five_timor_leste.dds"
+		color1 = "white"
+		instance = { position = { 0.106 0.5 } scale = { 0.313 0.313 } }
+	}
+}
+
+mdm_FIJI = { # mdm modern day mod Fiji
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 98 182 230 }
+
+	textured_emblem = {
+		texture = "mdm_coa_union_jack.dds"
+		instance = { position = { 0.25 0.25 } scale = { 0.5 0.5 } }
+	}
+
+	textured_emblem = {
+		texture = "mdm_coa_fiji.dds"
+		instance = { position = { 0.75 0.5 } scale = { 0.391 0.391 } }
+	}
+}
+
+mdm_FIN = { # mdm modern day mod Finland
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "ce_cross_scandinavian.dds"
+		color1 = rgb { 0 43 108 }
+	}
+}
+
+mdm_FRA = { # mdm modern day mod France
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 33 83 }
+	color2 = "white"
+	color3 = rgb { 207 8 33 }
+}
+
+mdm_GABO = { # mdm modern day mod Gabon
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 158 96 }
+	color2 = rgb { 252 209 22 }
+	color3 = rgb { 58 117 196 }
+}
+
+mdm_GAMB = { # mdm modern day mod Gambia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 207 8 33 }
+	color2 = rgb { 4 22 141 }
+	color3 = rgb { 55 120 35 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bars_gambian.dds"
+		color1 = "white"
+	}
+}
+
+mdm_GBIS = { # mdm modern day mod Guinea-Bissau
+	pattern = "mdm_pattern_left_third_horizontal_split.dds"
+	color1 = rgb { 206 17 38 }
+	color2 = rgb { 252 209 22 }
+	color3 = rgb { 0 148 96 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "black"
+		instance = { position = { 0.167 0.484 } scale = { 0.302 0.302 } }
+	}
+}
+
+mdm_GBR = { # mdm modern day mod Great Britain
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 27 105 }
+
+	colored_emblem = {
+		texture = "ce_union_jack_overall_uk.dds"
+		color1 = "white"
+		color2 = rgb { 201 8 42 }
+	}
+}
+
+mdm_GEO = { # mdm modern day mod Georgia
+	pattern = "mdm_pattern_cross_georgia.dds"
+	color1 = "white"
+	color2 = rgb { 255 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_cross_georgian.dds"
+		color1 = color2
+		instance = { position = { 0.216 0.197 } scale = { 0.205 0.205 } }
+		instance = { position = { 0.784 0.197 } scale = { 0.205 0.205 } }
+		instance = { position = { 0.216 0.803 } scale = { 0.205 0.205 } }
+		instance = { position = { 0.784 0.803 } scale = { 0.205 0.205 } }
+	}
+}
+
+mdm_GER = { # mdm modern day mod Germany
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = rgb { 255 0 0 }
+	color3 = rgb { 255 205 0 }
+}
+
+mdm_GHAN = { # mdm modern day mod Ghana
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 207 9 33 }
+	color2 = rgb { 252 210 15 }
+	color3 = rgb { 0 107 61 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "black"
+		instance = { scale = { 0.333 0.333 } }
+	}
+}
+
+mdm_GRE = { # mdm modern day mod Greece
+	pattern = "mdm_pattern_greece.dds"
+	color1 = rgb { 5 94 176}
+	color2 = "white"
+}
+
+mdm_GREN = { # mdm modern day mod Grenada
+	pattern = "mdm_pattern_grenada.dds"
+	color1 = rgb { 252 210 14 }
+	color2 = rgb { 0 123 94 }
+	color3 = { 207 8 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_starcircle_grenada.dds"
+		color1 = color3
+		color2 = color1
+		instance = { scale = { 0.24 0.24 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_nutmeg_grenada.dds"
+		color1 = color1
+		color2 = color3
+		instance = { position = { 0.157 0.496 } scale = { 0.157 0.157 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color1
+		instance = { position = { 0.3 0.064 } scale = { 0.116 0.116 } }
+		instance = { position = { 0.5 0.064 } scale = { 0.116 0.116 } }
+		instance = { position = { 0.7 0.064 } scale = { 0.116 0.116 } }
+		instance = { position = { 0.3 0.924 } scale = { 0.116 0.116 } }
+		instance = { position = { 0.5 0.924 } scale = { 0.116 0.116 } }
+		instance = { position = { 0.7 0.924 } scale = { 0.116 0.116 } }
+	}
+}
+
+mdm_GUAT = { # mdm modern day mod Guatemala
+	pattern = "pattern_vertical_bar_01.dds"
+	color1 = rgb { 71 152 209 }
+	color2 = "white"
+	
+	textured_emblem = {
+		texture = "mdm_coa_guatemala.dds"
+		instance = { scale = { 0.311 0.311 } }
+	}
+}
+
+mdm_GUIN = { # mdm modern day mod Guinea
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 207 8 33 }
+	color2 = rgb { 252 210 14 }
+	color3 = rgb { 0 149 96 }
+}
+
+mdm_GUYA = { # mdm modern day mod Guyana
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 37 148 106 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_guyana_1.dds"
+		color1 = rgb { 255 195 6 }
+		color2 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_guyana_2.dds"
+		color1 = rgb { 191 24 41 }
+		color2 = "black"
+	}
+}
+
+mdm_HAB = { # mdm modern day mod Austria
+	pattern = "pattern_horizontal_bar_01.dds"
+	color1 = rgb { 200 16 46 }
+	color2 = "white"
+}
+
+mdm_HAIT = { # mdm modern day mod Haiti
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 0 26 160 }
+	color2 = rgb { 211 8 49 }
+
+	textured_emblem = {
+		texture = "mdm_coa_haiti.dds"
+		instance = { scale = { 0.478 0.478 } }
+	}
+}
+
+mdm_HOND = { # mdm modern day mod Honduras
+	pattern = "pattern_horizontal_bar_01.dds"
+	color1 = rgb { 0 189 229 }
+	color2 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color1
+		instance = { position = { 0.361 0.411 } scale = { 0.1 0.1 } }
+		instance = { position = { 0.361 0.578 } scale = { 0.1 0.1 } }
+		instance = { position = { 0.5 0.495 } scale = { 0.1 0.1 } }
+		instance = { position = { 0.639 0.411 } scale = { 0.1 0.1 } }
+		instance = { position = { 0.639 0.578 } scale = { 0.1 0.1 } }
+	}
+}
+
+mdm_HUN = { # mdm modern day mod Hungary
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 206 41 57 }
+	color2 = "white"
+	color3 = rgb { 71 112 80 }
+}
+
+mdm_ICE = { # mdm modern day mod Iceland
+	pattern = "pattern_solid.dds"
+	color1 = { 0 81 157 }
+	
+	colored_emblem = {
+		texture = "ce_cross_nordic_fimbriated.dds"
+		color1 = "white"
+		color2 = rgb { 221 24 50 }
+	}
+}
+
+mdm_INDI = { # mdm modern day mod India
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 255 104 26 }
+	color2 = "white"
+	color3 = rgb { 0 106 53 }
+
+	colored_emblem = {
+		texture = "mdm_ce_ashoka_chakra_india.dds"
+		color1 = rgb { 1 0 142 }
+		instance = { scale = { 0.309 0.309 } }
+	}
+}
+
+mdm_INDN = { # mdm modern day mod Indonesia
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 255 0 0 }
+	color2 = "white"
+}
+
+mdm_IRAN = { # mdm modern day mod Iran
+	pattern = "mdm_pattern_tricolor_horizontal_iran.dds"
+	color1 = rgb { 29 160 62 }
+	color2 = "white"
+	color3 = rgb { 219 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_iran.dds"
+		color1 = color3
+		instance = { scale = { 0.25 0.25 } }
+	}
+}
+
+mdm_IRAQ = { # mdm modern day mod Iraq
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 206 8 32 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_takbir_iraqi.dds"
+		color1 = rgb { 1 123 61 }
+		instance = { scale = { 0.4 0.4 } }
+	}
+}
+
+mdm_IRE = { # mdm modern day mod Ireland
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 14 156 98 }
+	color2 = "white"
+	color3 = rgb { 255 137 60 }
+}
+
+mdm_ISRA = { # mdm modern day mod Israel
+	pattern = "mdm_pattern_horizontal_stripes_israel.dds"
+	color1 = "white"
+	color2 = rgb { 0 53 185 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_of_david.dds"
+		color1 = color2
+		instance = { scale = { 0.431 0.431 } }
+	}
+}
+
+mdm_ITA = { # mdm modern day mod Italy
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 147 68 }
+	color2 = "white"
+	color3 = rgb { 207 39 52 }
+
+}
+
+mdm_IVOR = { # mdm modern day mod Côte d'Ivoire
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 255 131 0 }
+	color2 = "white"
+	color3 = rgb { 0 155 66 }
+}
+
+mdm_JAMA = { # mdm modern day mod Jamaica
+	pattern = "mdm_pattern_jamaica.dds"
+	color1 = rgb { 0 120 71 }
+	color2 = rgb { 41 36 33 }
+	color3 = rgb { 255 185 21 }
+}
+
+mdm_JAP = { # mdm modern day mod Japan
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "ce_frame_circle_plain.dds"
+		color1 = rgb { 189 0 41 }
+		instance = { position = { 0.5 0.5 } scale = { 0.6 0.6 } }
+	}
+}
+
+mdm_JORD = { # mdm modern day mod Jordan
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = "white"
+	color3 = rgb { 0 123 58 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_53.dds"
+		color1 = rgb { 207 8 33 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_jordan.dds"
+		color1 = "white"
+		instance = { position = { 0.154 0.496 } scale = { 0.135 0.135 } }
+	}
+}
+
+mdm_KAZK = { # mdm modern day mod Kazakhstan
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 173 195 }
+	colored_emblem = {
+		texture = "mdm_ce_sun_eagle_kazakh.dds"
+		color1 = rgb { 255 237 41 }
+		instance = { position = { 0.54 0.42 } scale = { 0.56 0.56 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_koshkar_muiz_kazakh.dds"
+		color1 = rgb { 255 237 41 }
+		instance = { position = { 0.06 0.5 } scale = { 0.89 0.89 } }
+	}
+}
+
+mdm_KENY = { # mdm modern day mod Kenya
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = rgb { 188 0 0 }
+	color3 = rgb { 0 102 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bars_kenyan.dds"
+		color1 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_kenya.dds"
+		color1 = color2
+		color2 = "white"
+		color3 = color1
+		instance = { position = { 0.5 0.5 } scale = { 0.65 0.65 } }
+	}
+}
+
+mdm_KHM = { # mdm modern day mod Cambodia
+	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
+	color1 = rgb { 225 0 32 }
+	color2 = rgb { 0 42 162 }
+
+	textured_emblem = {
+		texture = "mdm_coa_cambodia.dds"
+		instance = { scale = { 0.419 0.419 } }
+	}
+}
+
+mdm_KIRI = { # mdm modern day mod Kiribati
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 201 8 8 }
+
+	colored_emblem = {
+		texture = "mdm_ce_waves_kiribati.dds"
+		color1 = rgb { 17 44 113 }
+		color2 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_kiribati.dds"
+		color1 = rgb { 248 209 0 }
+		color2 = "black"
+		instance = { position = { 0.5 0.374 } scale = { 0.4 0.4 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_frigate_bird_kiribati.dds"
+		color1 = rgb { 248 209 0 }
+		color2 = "black"
+		instance = { position = { 0.5 0.102 } scale = { 0.4 0.4 } }
+	}
+}
+
+mdm_KOSO = { # mdm modern day mod Kosovo
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 31 73 166 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stars_kosovar.dds"
+		color1 = "white"
+		instance = { position = { 0.5 0.233 } scale = { 0.564 0.564 } }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_borders_kosovar.dds"
+		color1 = rgb { 209 168 79 }
+		instance = { position = { 0.5 0.583 } scale = { 0.553 0.553 } }
+	}
+}
+
+mdm_KUWA = { # mdm modern day mod Kuwait
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 123 58 }
+	color2 = "white"
+	color3 = rgb { 207 8 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_trapezoid.dds"
+		color1 = "black"
+	}
+}
+
+mdm_KYRG = { # mdm modern day mod Kyrgyzstan
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 255 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_emblem_kyrgyzstan.dds"
+		color1 = rgb { 255 255 0 }
+		instance = { scale = { 0.616 0.616 } }
+	}		
+}
+
+mdm_LAOS = { # mdm modern day mod Laos
+	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
+	color1 = rgb { 0 35 104 }
+	color2 = rgb { 207 8 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1= "white"
+		instance = { scale = { 0.4 0.4 } }
+	}
+}
+
+mdm_LATV = { # mdm modern day mod Latvia
+	pattern = "mdm_pattern_middle_stripe.dds"
+	color1 = rgb { 158 29 50 }
+	color2 = "white"
+}
+
+mdm_LEBA = { # mdm modern day mod Lebanon
+	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
+	color1 = "white"
+	color2 = rgb { 212 14 31 }
+
+	colored_emblem = {
+		texture = "mdm_ce_cedar_lebanon.dds"
+		color1 = rgb { 0 141 60 }
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
+mdm_LESO = { # mdm modern day mod Lesotho
+	pattern = "mdm_pattern_tricolor_horizontal_lesotho.dds"
+	color1 = rgb { 0 12 138 }
+	color2 = "white"
+	color3 = rgb { 0 155 66 }
+
+	colored_emblem = {
+		texture = "mdm_ce_mokorotlo.dds"
+		color1 = "black"
+		instance = { scale = { 0.368 0.368 } }
+	}
+}
+
+mdm_LIBE = { # mdm modern day mod Liberia
+	pattern = "mdm_pattern_liberia.dds"
+	color1 = rgb { 192 3 44 }
+	color2 = "white"
+	color3 = rgb { 0 35 104 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.151 0.214 } scale = { 0.247 0.247 } }
+	}
+}
+
+mdm_LIBY = { # mdm modern day mod Libya
+	pattern = "mdm_pattern_tricolor_horizontal_libya.dds"
+	color1 = rgb { 232 0 11 }
+	color2 = "black"
+	color3 = rgb { 29 159 68 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_libya.dds"
+		color1 = "white"
+		instance = { position = { 0.536 0.5 } scale = { 0.25 0.25 } }
+	}
+}
+
+mdm_LIT = { # mdm modern day mod Lithuania
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 253 185 19 }
+	color2 = rgb { 0 106 68 }
+	color3 = rgb { 193 39 45 }
+}
+
+mdm_LUX = { # mdm modern day mod Luxembourg
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 239 48 62 }
+	color2 = "white"
+	color3 = rgb { 0 165 225 }
+}
+
+mdm_MACE = { # mdm modern day mod North Macedonia
+	pattern = "mdm_pattern_sun_north_macedonia.dds"
+	color1 = rgb { 217 27 33 }
+	color2 = rgb { 248 234 42 }
+}
+
+mdm_MADA = { # mdm modern day mod Madagascar
+	pattern = "mdm_pattern_left_third_horizontal_split.dds"
+	color1 = "white"
+	color2 = rgb { 249 64 55 }
+	color3 = rgb { 0 133 58 }
+}
+
+mdm_MAL = { # mdm modern day mod Mali
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 20 181 58 }
+	color2 = rgb { 252 209 22 }
+	color3 = rgb { 206 17 38 }
+}
+
+mdm_MALA = { # mdm modern day mod Malaysia
+	pattern = "mdm_pattern_horizontal_stripes_14.dds"
+	color1 = rgb { 205 0 0 }
+	color2 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 0 102 }
+		instance = { position = { 0.25 0.285 } scale = { 0.5 0.57 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_malaysia.dds"
+		color1 = rgb { 255 205 0 }
+		instance = { position = { 0.249 0.286 } scale = { 0.428 0.428 } }
+	}
+}
+
+mdm_MALT = { # mdm modern day mod Malta
+	pattern = "pattern_vertical_split_01.dds"
+	color1 = "white"
+	color2 = rgb { 208 12 39 }
+
+	colored_emblem = {
+		texture = "mdm_ce_malta.dds"
+		color1 = color1
+		color2 = "black"
+		color3 = color2
+		instance = { position = { 0.125 0.188 } scale = { 0.269 0.269 } }
+	}
+}
+
+mdm_MALW = { # mdm modern day mod Malawi
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = rgb { 207 8 33 }
+	color3 = rgb { 47 159 50 }
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_malawi.dds"
+		color1 = color2
+		instance = { position = { 0.5 0.174 } scale = { 0.43 0.43 } }
+	}
+}
+
+mdm_MARS = { # mdm modern day mod Marshall Islands
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 53 148 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_marshall_islands.dds"
+		color1 = rgb { 222 118 0 }
+		color2 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_marshall_islands.dds"
+		color1 = "white"
+		instance = { position = { 0.192 0.365 } scale = { 0.617 0.617 } }
+	}
+}
+
+mdm_MART = { # mdm modern day mod Mauritius
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 209 22 25 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 41 48 89 }
+		instance = { position = { 0.5 0.375 } scale = { 1 @quarter } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 247 184 17 }
+		instance = { position = { 0.5 0.625 } scale = { 1 @quarter } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 135 87 }
+		instance = { position = { 0.5 0.875 } scale = { 1 @quarter } }
+	}
+}
+
+mdm_MAUR = { # mdm modern day mod Mauritania
+	pattern = "mdm_pattern_border_top_and_bottom_1-3-1.dds"
+	color1 = rgb { 0 171 92 }
+	color2 = rgb { 209 22 25 }
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_mauritanian.dds"
+		color1 = rgb { 255 216 0 }
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
+mdm_MEX = { # mdm modern day mod Mexico
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 104 69 }
+	color2 = "white"
+	color3 = rgb { 207 8 33 }
+
+	textured_emblem = {
+		texture = "mdm_coa_mexico.dds"
+		instance = { scale = { 0.34 0.34 } } # 0.34
+	}
+}
+
+mdm_MGE = { # mdm modern day mod Mongolia
+	pattern = "pattern_vertical_bar_01.dds"
+	color1 = rgb { 219 26 45 }
+	color2 = rgb { 0 102 179 }
+
+	colored_emblem = {
+		texture = "mdm_ce_emblem_mongolia.dds"
+		color1 = rgb { 255 212 0 }
+		instance = { position = { 0.167 0.475 } scale = { 0.75 0.75 } }
+	}
+}
+
+mdm_MICR = { # mdm modern day mod Micronesia
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 118 180 222 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stars_micronesia.dds"
+		color1 = "white"
+		instance = { scale = { 0.8 0.8 } }
+	}
+}
+
+mdm_MOLD = { # mdm modern day mod Moldova
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 70 174 }
+	color2 = rgb { 255 210 0 }
+	color3 = rgb { 204 9 47 }
+
+	textured_emblem = {
+		texture = "mdm_coa_moldova.dds"
+		instance = { scale = { 0.45 0.45 } }
+	}
+}
+
+mdm_MONT = { # mdm modern day mod Montenegro
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 228 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_border_montenegrin.dds"
+		color1 = rgb { 255 913 0 }
+	}
+
+	textured_emblem = {
+		texture = "mdm_coa_montenegro.dds"
+		instance = { scale = { 0.667 0.667 } }
+	}
+}
+
+mdm_MOR = { # mdm modern day mod Morocco
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 183 49 44 }
+	colored_emblem = {
+		texture = "mdm_ce_star_moroccan.dds"
+		color1 = rgb { 0 99 65 }
+		instance = { scale = { 0.45 0.45 } }
+	}
+}
+
+mdm_MOZA = { # mdm modern day mod Mozambique
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 113 104 }
+	color2 = "black"
+	color3 = rgb { 252 225 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bars_mozambican.dds"
+		color1 = "white"
+	}
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_75.dds"
+		color1 = rgb { 209 12 41 }
+	}
+	colored_emblem = {
+		texture = "mdm_ce_mozambican.dds"
+		color1 = color3
+		color2 = color2
+		color3 = "white"
+		instance = { position = { 0.145 0.5 } scale = { 0.372 0.372 } }
+	}
+}
+
+mdm_MYAN = { # mdm modern day mod Myanmar
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 254 204 0 }
+	color2 = rgb { 49 180 48 }
+	color3 = rgb { 235 35 54 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { scale = { 0.663 0.663 } }
+	}
+}
+
+mdm_NAMI = { # mdm modern day mod Namibia
+	pattern = "pattern_diagonal_split_03.dds"
+	color1 = rgb { 0 43 108 }
+	color2 = rgb { 0 155 66 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_diagonal_namibia.dds"
+		color1 = rgb { 201 8 42 }
+		color2 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_namibia.dds"
+		color1 = rgb { 255 206 0 }
+		instance = { position = { 0.2 0.273 } scale = { 0.33 0.33 } }
+	}
+}
+
+mdm_NED = { # mdm modern day mod Netherlands
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 174 28 40 }
+	color2 = "white"
+	color3 = rgb { 33 70 139 }
+}
+
+mdm_NICR = { # mdm modern day mod Nicaragua
+	pattern = "pattern_horizontal_bar_01.dds"
+	color1 = rgb { 0 103 199 }
+	color2 = "white"
+	
+	textured_emblem = {
+		texture = "mdm_coa_nicaragua.dds"
+		instance = { scale = { 0.25 0.25 } }
+	}
+}
+
+mdm_NIGE = { # mdm modern day mod Niger
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 225 81 1 }
+	color2 = "white"
+	color3 = rgb { 4 178 39 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1 = color1
+		instance = { scale = { 0.283 0.283 } }
+	}
+}
+
+mdm_NIGR = { # mdm modern day mod Nigeria
+	pattern = "pattern_vertical_bar_01.dds"
+	color1 = rgb { 0 136 80 }
+	color2 = "white"
+}
+
+mdm_NKOR = { # mdm modern day mod North Korea
+	pattern = "mdm_pattern_north_korea.dds"
+	color1 = rgb { 237 23 32 }
+	color2 = rgb { 0 76 163 }
+	color3 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_starcircle_north_korean.dds"
+		color1 = color3
+		instance = { position = { 0.334 0.5 } scale = { 0.445 0.445 } }
+	}
+}
+
+mdm_NOR = { # mdm modern day mod Norway
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 187 4 43 }
+
+	colored_emblem = {
+		texture = "ce_cross_nordic_fimbriated.dds"
+		color1 = "white"
+		color2 = rgb { 0 26 91 }
+	}
+}
+
+mdm_NPL = { # mdm modern day mod Nepal
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_nepali.dds"
+		color1 = { 221 12 57 }
+		color2 = { 0 53 148 }
+		color3 = "white"
+	}
+}
+
+mdm_NZEA = { # mdm modern day mod New Zealand
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 27 105 }
+
+	textured_emblem = {
+		texture = "mdm_coa_union_jack.dds"
+		instance = { position = { 0.25 0.25 } scale = { 0.5 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five_new_zealand.dds"
+		color1= rgb { 201 8 42 }
+		color2 = "white"
+		instance = { position = { 0.75 0.193 } scale = { 0.143 0.143 } }
+		instance = { position = { 0.849 0.365 } scale = { 0.127 0.127 } }
+		instance = { position = { 0.635 0.425 } scale = { 0.144 0.144 } }
+		instance = { position = { 0.75 0.792 } scale = { 0.159 0.159 } }
+	}
+}
+
+mdm_OMA = { # mdm modern day mod Oman
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "white"
+	color2 = rgb { 220 16 20 }
+	color3 = rgb { 0 129 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = color2
+		instance = { position = { 0.167 0.5 } scale = { 0.333 1 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_oman.dds"
+		color1 = color1
+		instance = { position = { 0.14 0.192 } scale = { 0.313 0.313 } }
+	}
+}
+
+mdm_PAKI = { # mdm modern day mod Pakistan
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 63 22 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = "white"
+		instance = { position = { 0.125 0.5 } scale = { 0.25 1.0 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_pakistan.dds"
+		color1 = "white"
+		instance = { position = { 0.723 0.508 } scale = { 0.584 0.584 } }
+	}
+}
+
+mdm_PALE = { # mdm modern day mod Palestine
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = "white"
+	color3 = rgb { 0 151 54 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_75.dds"
+		color1 = rgb { 238 42 53 }
+	}
+}
+
+mdm_PALU = { # mdm modern day mod Palau
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 154 255 }
+
+	colored_emblem = {
+		texture = "mdm_ce_circle.dds"
+		color1 = rgb { 255 255 0 }
+		instance = { position = { 0.438 0.5 } scale = { 0.6 0.6 } }
+	}
+}
+
+mdm_PANA = { # mdm modern day mod Panama
+	pattern = "mdm_pattern_panama.dds"
+	color1 = "white"
+	color2 = rgb { 219 10 19 }
+	color3 = rgb { 1 30 86 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color3
+		instance = { position = { 0.25 0.25 } scale = { 0.246 0.246 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color2
+		instance = { position = { 0.75 0.75 } scale = { 0.246 0.246 } }
+	}
+}
+
+mdm_PAPU = { # mdm modern day mod Papua New Guinea
+	pattern = "pattern_diagonal_split_01.dds"
+	color1 = rgb { 201 8 42 }
+	color2 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.25 0.375 } scale = { 0.141 0.141 } }
+		instance = { position = { 0.365 0.556 } scale = { 0.141 0.141 } }
+		instance = { position = { 0.135 0.569 } scale = { 0.141 0.141 } }
+		instance = { position = { 0.302 0.694 } scale = { 0.07 0.07 } }
+		instance = { position = { 0.25 0.833 } scale = { 0.141 0.141 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_papua_new_guinea_birds_of_paradise.dds"
+		color1 = rgb { 255 206 0 }
+		instance = { position = { 0.674 0.357 } scale = { 0.5 0.5 } }
+	}
+}
+
+mdm_PARA = { # mdm modern day mod Paraguay
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 214 39 24 }
+	color2 = "white"
+	color3 = rgb { 0 53 169 }
+	
+	textured_emblem = {
+		texture = "mdm_coa_paraguay.dds"
+		instance = { scale = { 0.26 0.26 } }
+	}
+}
+
+mdm_PERU = { # mdm modern day mod Peru
+	pattern = "pattern_vertical_bar_01.dds"
+	color1 = rgb { 218 8 30 }
+	color2 = "white"
+}
+
+mdm_PHIL = { # mdm modern day mod Philippines
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 0 53 169 }
+	color2 = rgb { 207 8 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_60.dds"
+		color1 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_stars_philippines.dds"
+		color1 = rgb { 252 210 14 }
+		instance = { position = { 0.263 0.5 } scale = { 0.827 0.827 } }
+	}
+}
+
+mdm_POL = { # mdm modern day mod Poland
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = "white"
+	color2 = rgb { 216 12 19 }
+}
+
+mdm_POR = { # mdm modern day mod Portugal
+	pattern = "mdm_pattern_two_fifth_left.dds"
+	color1 = rgb { 0 96 50 }
+	color2 = rgb { 238 22 31 }
+
+	textured_emblem = {
+		texture = "mdm_coa_portugal.dds"
+		instance = { position = { 0.4 0.5 } scale = { 0.5 0.5 } }
+	}
+}
+
+mdm_QATA = { # mdm modern day mod Qatar
+	pattern = "mdm_pattern_qatar.dds"
+	color1 = "white"
+	color2 = rgb { 139 13 53 }
+}
+
+mdm_RMN = { # mdm modern day mod Romania
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 43 127 }
+	color2 = rgb { 252 209 22 }
+	color3 = rgb { 206 17 38 }
+}
+
+mdm_RUS = { # mdm modern day mod Russia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "white"
+	color2 = rgb { 0 50 160 }
+	color3 = rgb { 218 41 28 }
+
+	colored_emblem = {
+		texture = "ce_tricolor_horizontal.dds"
+		color1 = color1
+		color2 = color2
+		color3 = color3
+	}
+}
+
+mdm_RWA = { # mdm modern day mod Rwanda
+	pattern = "mdm_pattern_tricolor_horizontal_2-1-1.dds"
+	color1 = rgb { 0 165 225 }
+	color2 = rgb { 250 211 0 }
+	color3 = rgb { 26 96 58 }
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_rwanda.dds"
+		color1 = rgb { 230 191 0 }
+		instance = { position = { 0.821 0.262 } scale = { 0.323 0.323 } }
+	}
+}
+
+mdm_SAFR = { # mdm modern day mod South Africa
+	pattern = "mdm_pattern_tricolor_hoist_triangle.dds"
+	color1 = "black"
+	color2 = rgb { 255 57 45}
+	color3 = rgb { 0 12 138 }
+
+	colored_emblem = {
+		texture = "mdm_ce_south_africa.dds"
+		color1 = rgb { 0 120 71 }
+		color2 = "white"
+		color3 = rgb { 255 185 21 }
+	}
+}
+
+mdm_SAM = { # mdm modern day mod Samoa
+	pattern = "pattern_canton_01.dds"
+	color1 = rgb { 207 8 33 }
+	color2 = rgb { 0 39 128 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.25 0.071 } scale = { 0.103 0.103 } }
+		instance = { position = { 0.328 0.175 } scale = { 0.096 0.096 } }
+		instance = { position = { 0.173 0.199 } scale = { 0.103 0.103 } }
+		instance = { position = { 0.274 0.287 } scale = { 0.064 0.064 } }
+		instance = { position = { 0.25 0.413 } scale = { 0.13 0.13 } }
+	}
+}
+
+mdm_SAUD = { # mdm modern day mod Saudi Arabia
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 83 44 }
+
+	colored_emblem = {
+		texture = "mdm_ce_shahada_saudi_arabia.dds"
+		color1 = "white"
+		instance = { position = { 0.5 0.496 } scale = { 0.5 0.5 } }
+	}
+}
+
+mdm_SENE = { # mdm modern day mod Senegal
+	pattern = "pattern_tricolor_vertical_01.dds"
+	color1 = rgb { 0 134 61 }
+	color2 = rgb { 253 240 64 }
+	color3 = rgb { 228 20 30 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color1
+		instance = { position = { 0.486 0.5 } scale = { 0.302 0.302 } }
+	}
+}
+
+mdm_SER = { # mdm modern day mod Serbia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 199 51 57 }
+	color2 = rgb { 4 62 119 }
+	color3 = "white"
+
+	textured_emblem = {
+		texture = "mdm_coa_serbia.dds"
+		instance = { position = { 0.357 0.458 } scale = { 0.749 0.749 } }
+	}
+}
+
+mdm_SEYC = { # mdm modern day mod Seychelles
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_1.dds"
+		color1 = rgb { 0 43 108 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_2.dds"
+		color1 = rgb { 254 210 63 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_3.dds"
+		color1 = rgb { 211 34 44 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_4.dds"
+		color1 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_seychelles_5.dds"
+		color1 = rgb { 0 123 48 }
+	}
+}
+
+mdm_SIA = { # mdm modern day mod Thailand
+	pattern = "mdm_pattern_thailand.dds"
+	color1 = rgb { 45 42 74 }
+	color2 = rgb { 244 245 248 }
+	color3 = rgb { 165 25 49 }
+}
+
+mdm_SKNE = { # mdm modern day mod St. Kitts and Nevis
+	pattern = "pattern_diagonal_split_03.dds"
+	color1 = rgb { 0 152 54 }
+	color2 = rgb { 201 8 42 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_diagonal_st_kitts_and_nevis.dds"
+		color1 = "black"
+		color2 = rgb { 255 206 0 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five_st_kitts_and_nevis.dds"
+		color1 = "white"
+		instance = { position = { 0.696 0.331 } scale = { 0.255 0.255 } }
+		instance = { position = { 0.312 0.714 } scale = { 0.255 0.255 } }
+	}
+}
+
+mdm_SKOR = { # mdm modern day mod South Korea
+	pattern = "pattern_solid.dds"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_taegeukgi_south_korean.dds"
+		color1 = rgb { 206 42 55 }
+		color2 = rgb { 0 19 161 }
+		color3 = "black"
+		instance = { scale = { 0.808 0.808 } }
+	}
+}
+
+mdm_SLEO = { # mdm modern day mod Sierra Leone
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 24 182 55 }
+	color2 = "white"
+	color3 = rgb { 0 115 199 }
+}
+
+mdm_SLOK = { # mdm modern day mod Slovakia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "white"
+	color2 = rgb { 32 73 166 }
+	color3 = rgb { 238 22 31 }
+
+	colored_emblem = {
+		texture = "mdm_ce_slovakia.dds"
+		color1 = color3
+		color2 = color2
+		color3 = color1
+		instance = { position = { 0.3 0.5 } scale = { 0.533 0.533 } }
+	}
+}
+
+mdm_SLOV = { # mdm modern day mod Slovenia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "white"
+	color2 = rgb { 0 0 255 }
+	color3 = rgb { 255 0 0 }
+
+	textured_emblem = {
+		texture = "mdm_coa_slovenia.dds"
+		instance = { position = { 0.25 0.333 } scale = { 0.333 0.333 } }
+	}
+}
+
+mdm_SLUC = { # mdm modern day mod St. Lucia
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 102 205 255 }
+
+	colored_emblem = {
+		texture = "mdm_ce_st_lucia.dds"
+		color1 = rgb { 252 210 14 }
+		color2 = "black"
+		color3 = "white"
+		instance = { scale = { 0.822 0.822 } }
+	}
+}
+
+mdm_SNG = { # mdm modern day mod Singapore
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 238 36 54 }
+	color2 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_singapore.dds"
+		color1 = color2
+		instance = { position = { 0.232 0.25 } scale = { 0.287 0.287 } }
+	}
+}
+
+mdm_SOLO = { # mdm modern day mod Solomon Islands
+	pattern = "mdm_pattern_diagonal_stripe_solomon_islands.dds"
+	color1 = rgb { 0 80 187 }
+	color2 = rgb { 252 210 14 }
+	color3 = rgb { 27 91 48 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.076 0.121 } scale = { 0.18 0.18 } }
+		instance = { position = { 0.274 0.121 } scale = { 0.18 0.18 } }
+		instance = { position = { 0.175 0.29 } scale = { 0.18 0.18 } }
+		instance = { position = { 0.076 0.459 } scale = { 0.18 0.18 } }
+		instance = { position = { 0.274 0.459 } scale = { 0.18 0.18 } }
+	}
+}
+
+mdm_SOMA = { # mdm modern day mod Somalia
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 63 144 223 }
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.477 0.5 } scale = { 0.436 0.436 } }
+	}
+}
+
+mdm_SOML = { # mdm modern day mod Somaliland
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 109 27 }
+	color2 = "white"
+	color3 = rgb { 224 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_shahada_somaliland.dds"
+		color1 = "white"
+		instance = { position = { 0.5 0.167 } scale = { 0.363 0.363 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "black"
+		instance = { scale = { 0.178 0.178 } }
+	}
+}
+
+mdm_SOSE = { # mdm modern day mod South Ossetia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "white"
+	color2 = rgb { 222 0 0 }
+	color3 = rgb { 255 207 0 }
+}
+
+mdm_SPA = { # mdm modern day mod Spain
+	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
+	color1 = rgb { 250 190 0 }
+	color2 = rgb { 175 13 18 }
+
+	textured_emblem = {
+		texture = "mdm_coa_spain.dds"
+		instance = { position = { 0.333 0.5 } scale = { 0.35 0.35 } }
+	}
+}
+
+mdm_SRLA = { # mdm modern day mod Sri Lanka
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 247 183 24 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 95 86 }
+		instance = { position = { 0.28 0.5 } scale = { 0.16 0.84 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 223 117 0 }
+		instance = { position = { 0.12 0.5 } scale = { 0.16 0.84 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 148 30 50 }
+		instance = { position = { 0.68 0.5 } scale = { 0.56 0.84 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sri_lanka.dds"
+		color1 = color1
+		color2 = "black"
+		instance = { position = { 0.68 0.5 } scale = { 0.56 0.56 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sri_lanka_bo_leaves.dds"
+		color1 = color1
+		color2 = "black"
+		instance = { position = { 0.68 0.5 } scale = { 0.68 0.68 } } # TODO: Just for a 2:3 approximation
+	}
+}
+
+mdm_SSUD = { # mdm modern day mod South Sudan
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = rgb { 277 26 35 }
+	color3 = rgb { 0 146 75 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bars_kenyan.dds"
+		color1 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_60.dds"
+		color1 = { 0 183 242 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = { 255 230 19 }
+		instance = { position = { 0.216 0.484 } scale = { 0.3 0.3 } }
+	}
+}
+
+mdm_STPR = { # mdm modern day mod São Tomé and Príncipe
+	pattern = "mdm_pattern_border_top_and_bottom_2-3-2.dds"
+	color1 = rgb { 255 210 0 }
+	color2 = rgb { 0 152 54 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_90.dds"
+		color1 = rgb { 239 48 62 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "black"
+		instance = { position = { @half 0.516 } scale = { 0.307 0.307 } }
+		instance = { position = { @three_quarters 0.516 } scale = { 0.307 0.307 } }
+	}
+}
+
+mdm_SUDA = { # mdm modern day mod Sudan
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 211 8 49 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_75.dds"
+		color1 = rgb { 0 115 36 }
+	}
+}
+
+mdm_SURI = { # mdm modern day mod Suriname
+	pattern = "mdm_pattern_horizontal_stripes_suriname.dds"
+	color1 = rgb { 181 2 41 }
+	color2 = rgb { 52 127 61 }
+	color3 = "white"
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 237 201 23 }
+		instance = { scale = { 0.361 0.361 } }
+	}
+}
+
+mdm_SVGR = { # mdm modern day mod St. Vincent and the Grenadines
+	pattern = "mdm_pattern_tricolor_vertical_1-2-1.dds"
+	color1 = rgb { 0 33 117 }
+	color2 = rgb { 252 209 28 }
+	color3 = rgb { 0 125 42 }
+
+	colored_emblem = {
+		texture = "mdm_ce_gems_st_vincent_and_the_grenadines.dds"
+		color1 = color3
+		instance = { position = { 0.5 0.584 } scale = { 0.516 0.516 } }
+	}
+}
+
+mdm_SWE = { # mdm modern day mod Sweden
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 81 148 }
+
+	colored_emblem = {
+		texture = "ce_cross_scandinavian_thin.dds"
+		color1 = rgb { 254 204 0 }
+	}
+}
+
+mdm_SWI = { # mdm modern day mod Switzerland
+	pattern = "pattern_solid.dds"
+	color1 = { 219 36 22 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_cross_swiss.dds"
+		color1 = "white"
+		instance = { scale = { 0.625 0.625 } }
+	}
+}
+
+mdm_SYRI = { # mdm modern day mod Syria
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 123 58 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 207 8 33 }
+		instance = { position = { @three_quarters @half } scale = { 0.247 0.247 } }
+		instance = { position = { @half @half } scale = { 0.247 0.247 } }
+		instance = { position = { @quarter @half } scale = { 0.247 0.247 } }
+	}
+}
+
+mdm_TAIW = { # mdm modern day mod Republic of China
+	pattern = "pattern_canton_01.dds"
+	color1 = rgb { 254 0 0 }
+	color2 = rgb { 0 0 149 }
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_china.dds"
+		color1 = "white"
+		instance = { position = { 0.25 0.25 } scale = { 0.376 0.376 } }
+	}
+}
+
+mdm_TAJI = { # mdm modern day mod Tajikistan
+	pattern = "mdm_pattern_tricolor_horizontal_tadjikistan.dds"
+	color1 = rgb { 205 0 0 }
+	color2 = "white"
+	color3 = rgb { 0 102 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_crown_tajik.dds"
+		color1 = rgb { 248 196 0 }
+		instance = { position = { 0.5 0.5 } scale = { 0.388 0.388 } }
+	}
+}
+
+mdm_TANZ = { # mdm modern day mod Tanzania
+	pattern = "pattern_diagonal_split_03.dds"
+	color1 = rgb { 30 181 58 }
+	color2 = rgb { 0 163 221 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stripe_tanzania.dds"
+		color1 = "black"
+		color2 = rgb { 252 209 22}
+	}
+}
+
+mdm_TOG = { # mdm modern day mod Tonga
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 194 0 0 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = "white"
+		instance = { position = { 0.208 0.25 } scale = { 0.417 0.5 } }
+	}
+	
+	colored_emblem = {
+		texture = "mdm_ce_cross_tonga.dds"
+		color1 = color1
+		instance = { position = { 0.208 0.25 } scale = { 0.375 0.375 } }
+	}
+}
+
+mdm_TOGO = { # mdm modern day mod Togo
+	pattern = "mdm_pattern_togo.dds"
+	color1 = rgb { 0 106 77 }
+	color2 = rgb { 255 207 0 }
+	color3 = rgb { 211 8 49 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.186 0.282 } scale = { 0.344 0.344 } }
+	}
+}
+
+mdm_TRAN = { # mdm modern day mod Transnistria
+	pattern = "mdm_pattern_border_top_and_bottom_3-2-3.dds"
+	color1 = rgb { 0 154 48 }
+	color2 = rgb { 223 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hammer_sickle_star_transnistria.dds"
+		color1 = rgb { 255 216 0 }
+		instance = { position = { 0.163 0.2 } scale = { 0.3 0.3 } }
+	}
+}
+
+mdm_TRTO = { # mdm modern day mod Trinidad and Tobago
+	pattern = "mdm_pattern_diagonal_stripes_trinidad_and_tobago.dds"
+	color1 = rgb { 219 19 50 }
+	color2 = "black"
+	color3 = "white"
+}
+
+mdm_TUKM = { # mdm modern day mod Turkmenistan
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 133 58 }
+
+	textured_emblem = {
+		texture = "mdm_coa_turkmenistan.dds"
+		instance = { position = { 0.21 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_turkmenistan.dds"
+		color1 = "white"
+		instance = { position = { 0.454 0.222 } scale = { 0.253 0.253 } }
+	}
+}
+
+mdm_TUN = { # mdm modern day mod Tunisia
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 231 0 19 }
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_tunisian.dds"
+		color1 = "white"
+		instance = { scale = { 0.5 0.5 } }
+	}
+}
+
+mdm_TURK = { # mdm modern day mod Türkiye
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 228 3 16 }
+
+	colored_emblem = {
+		texture = "ce_turkey_modern_crescent_star.dds"
+		color1 = "white"
+	}
+}
+
+mdm_TUVL = { # mdm modern day mod Tuvalu
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 157 223 }
+
+	textured_emblem = {
+		texture = "mdm_coa_union_jack.dds"
+		instance = { position = { 0.25 0.25 } scale = { 0.5 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 254 222 0 }
+		instance = { position = { 0.546 0.892 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.842 0.633 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.929 0.125 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.929 0.525 } scale = { 0.157 0.157 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five_180.dds"
+		color1 = rgb { 254 222 0 }
+		instance = { position = { 0.65 0.858 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.65 0.65 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.754 0.799 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.754 0.366 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.842 0.299 } scale = { 0.157 0.157 } }
+	}
+}
+
+mdm_UAEM = { # mdm modern day mod United Arab Emirates
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 133 58 }
+	color2 = "white"
+	color3 = "black"
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 201 8 42 }
+		instance = { position = { 0.125 0.5 } scale = { 0.25 1 } }
+	}
+}
+
+mdm_UGAN = { # mdm modern day mod Uganda
+	pattern = "mdm_pattern_uganda.dds"
+	color1 = "black"
+	color2 = rgb { 252 221 0}
+	color3 = rgb { 218 0 0 }
+
+	textured_emblem = {
+		texture = "mdm_coa_uganda.dds"
+		instance = { scale = { 0.311 0.311 } }
+	}
+}
+
+mdm_UKR = { # mdm modern day mod Ukraine
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 0 87 183 }
+	color2 = rgb { 255 215 0 }
+}
+
+mdm_USA = { # mdm modern day mod United States
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 192 3 44 }
+
+	colored_emblem = {
+		texture = "ce_bars_06.dds"
+		color1 = "white"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = rgb { 0 26 91 }
+		instance = { position = { 0.269 0.269 } scale = { 0.538 0.538 } }
+	}
+
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "white"
+
+		instance = { position = { @[(0.166 - 0.083) * 0.538 ] @[ 0.1 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.333 - 0.083) * 0.538 ] @[ 0.1 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.5 - 0.083) * 0.538 ] @[ 0.1 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.667 - 0.083) * 0.538 ] @[ 0.1 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.833 - 0.083) * 0.538 ] @[ 0.1 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(1 - 0.083) * 0.538 ] @[ 0.1 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[0.166 * 0.538 ] @[ 0.2 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.333 * 0.538 ] @[ 0.2 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.5 * 0.538 ] @[ 0.2 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.667 * 0.538 ] @[ 0.2 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.833 * 0.538 ] @[ 0.2 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[(0.166 - 0.083) * 0.538 ] @[ 0.3 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.333 - 0.083) * 0.538 ] @[ 0.3 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.5 - 0.083) * 0.538 ] @[ 0.3 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.667 - 0.083) * 0.538 ] @[ 0.3 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.833 - 0.083) * 0.538 ] @[ 0.3 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(1 - 0.083) * 0.538 ] @[ 0.3 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[0.166 * 0.538 ] @[ 0.4 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.333 * 0.538 ] @[ 0.4 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.5 * 0.538 ] @[ 0.4 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.667 * 0.538 ] @[ 0.4 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.833 * 0.538 ] @[ 0.4 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[(0.166 - 0.083) * 0.538 ] @[ 0.5 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.333 - 0.083) * 0.538 ] @[ 0.5 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.5 - 0.083) * 0.538 ] @[ 0.5 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.667 - 0.083) * 0.538 ] @[ 0.5 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.833 - 0.083) * 0.538 ] @[ 0.5 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(1 - 0.083) * 0.538 ] @[ 0.5 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[0.166 * 0.538 ] @[ 0.6* 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.333 * 0.538 ] @[ 0.6* 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.5 * 0.538 ] @[ 0.6* 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.667 * 0.538 ] @[ 0.6* 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.833 * 0.538 ] @[ 0.6* 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[(0.166 - 0.083) * 0.538 ] @[ 0.7 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.333 - 0.083) * 0.538 ] @[ 0.7 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.5 - 0.083) * 0.538 ] @[ 0.7 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.667 - 0.083) * 0.538 ] @[ 0.7 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.833 - 0.083) * 0.538 ] @[ 0.7 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(1 - 0.083) * 0.538 ] @[ 0.7 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[0.166 * 0.538 ] @[ 0.8 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.333 * 0.538 ] @[ 0.8 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.5 * 0.538 ] @[ 0.8 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.667 * 0.538 ] @[ 0.8 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[0.833 * 0.538 ] @[ 0.8 * 0.538 ] } scale = { 0.055 0.055 } }
+
+		instance = { position = { @[(0.166 - 0.083) * 0.538 ] @[ 0.9 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.333 - 0.083) * 0.538 ] @[ 0.9 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.5 - 0.083) * 0.538 ] @[ 0.9 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.667 - 0.083) * 0.538 ] @[ 0.9 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(0.833 - 0.083) * 0.538 ] @[ 0.9 * 0.538 ] } scale = { 0.055 0.055 } }
+		instance = { position = { @[(1 - 0.083) * 0.538 ] @[ 0.9 * 0.538 ] } scale = { 0.055 0.055 } }
+	}
+}
+
+mdm_UZBE = { # mdm modern day mod Uzbekistan
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 0 153 204 }
+	color2 = "white"
+	color3 = rgb { 0 204 51 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bars_uzbek.dds"
+		color1 = rgb { 239 14 42 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_uzbek.dds"
+		color1 = "white"
+		instance = { position = { 0.115 0.16 } scale = { 0.24 0.24 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.272 0.064} scale = { 0.048 0.048 } }
+		instance = { position = { 0.32 0.064} scale = { 0.048 0.048 } }
+		instance = { position = { 0.368 0.064} scale = { 0.048 0.048 } }
+
+		instance = { position = { 0.228 0.16} scale = { 0.048 0.048 } }
+		instance = { position = { 0.272 0.16} scale = { 0.048 0.048 } }
+		instance = { position = { 0.32 0.16} scale = { 0.048 0.048 } }
+		instance = { position = { 0.368 0.16} scale = { 0.048 0.048 } }
+
+		instance = { position = { 0.184 0.256} scale = { 0.048 0.048 } }
+		instance = { position = { 0.228 0.256} scale = { 0.048 0.048 } }
+		instance = { position = { 0.272 0.256} scale = { 0.048 0.048 } }
+		instance = { position = { 0.32 0.256} scale = { 0.048 0.048 } }
+		instance = { position = { 0.368 0.256} scale = { 0.048 0.048 } }
+	}
+}
+
+mdm_VANU = { # mdm modern day mod Vanuatu
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 211 8 49 }
+	color2 = rgb { 0 150 65 }
+
+	colored_emblem = {
+		texture = "mdm_ce_vanuatu.dds"
+		color1 = "black"
+		color2 = rgb { 253 207 10 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_tusk and_cycad_frond_vanuatu.dds"
+		color1 = rgb { 253 207 10 }
+		instance = { position = { 0.18 0.504 } scale = { 0.294 0.294 } }
+	}
+}
+
+mdm_VENE = { # mdm modern day mod Venezuela
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 255 205 0 }
+	color2 = rgb { 0 31 126 }
+	color3 = rgb { 208 12 39 }
+
+	colored_emblem = {
+		texture = "mdm_ce_stars_venezuela.dds"
+		color1 = "white"
+		instance = { scale = { 0.427 0.427 } }
+	}
+}
+
+mdm_VIET = { # mdm modern day mod Vietnam
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 219 32 23 }
+	
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 255 255 0 }
+		instance = { position = { 0.5 0.471 } scale = { 0.542 0.542 } }
+	}
+}
+
+mdm_YEM = { # mdm modern day mod Yemen
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 207 8 33 }
+	color2 = "white"
+	color3 = "black"
+}
+
+mdm_ZAMB = { # mdm modern day mod Zambia
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 12 128 84 }
+
+	colored_emblem = {
+		texture = "mdm_ce_zambia_bird.dds"
+		color1 = rgb { 249 153 13 }
+		color2 = "black"
+		instance = { position = { 0.821 0.186 } scale = { 0.316 0.316 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_three_vertical_boxes.dds"
+		color1 = rgb { 213 2 36 }
+		color2 = "black"
+		color3 = rgb { 249 153 13 }
+		instance = { position = { 0.821 0.679 } scale = { 0.357 0.643 } }
+	}
+}
+
+mdm_ZMW = { # mdm modern day mod Zimbabwe
+	pattern = "mdm_pattern_zimbabwe.dds"
+	color1 = rgb { 213 0 0 }
+	color2 = rgb { 255 211 0 }
+	color3 = rgb { 0 100 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_zimbabwe.dds"
+		color1 = "white"
+		color2 = "black"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = color1
+		instance = { position = { 0.19 0.453 } scale = { 0.402 0.402 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_zimbabwe_bird.dds"
+		color1 = rgb { 255 211 0 }
+		color2 = "black"
+		instance = { position = { 0.203 0.47 } scale = { 0.275 0.275 } }
+	}
+}
