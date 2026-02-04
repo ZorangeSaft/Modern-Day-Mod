@@ -1,0 +1,17 @@
+﻿mdm_change_vegetation_to_text = {
+	global = mdm_change_vegetation_to
+	first = mdm_change_vegetation_to
+	third = mdm_change_vegetation_to
+	global_past = past_mdm_change_vegetation_to
+	first_past = past_mdm_change_vegetation_to
+	third_past = past_mdm_change_vegetation_to
+}
+
+mdm_clear_location_vegetation_modifier_effect_text = {
+	global = mdm_clear_location_vegetation_modifier_effect
+	first = mdm_clear_location_vegetation_modifier_effect
+	third = mdm_clear_location_vegetation_modifier_effect
+	global_past = past_mdm_clear_location_vegetation_modifier_effect
+	first_past = past_mdm_clear_location_vegetation_modifier_effect
+	third_past = past_mdm_clear_location_vegetation_modifier_effect
+}

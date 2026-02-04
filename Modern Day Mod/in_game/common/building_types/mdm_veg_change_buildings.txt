@@ -22,26 +22,14 @@ mdm_change_veg_to_jungle = {
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		climate = tropical #can only make jungle in area with enough rain
 		OR = {
-			NOR = { #cant convert to jungle if it is already jungle
-				has_location_modifier = mdm_forest_to_jungle
-				has_location_modifier = mdm_woods_to_jungle
-				has_location_modifier = mdm_grasslands_to_jungle
-				has_location_modifier = mdm_farmland_to_jungle
-				has_location_modifier = mdm_sparse_to_jungle
-				has_location_modifier = mdm_desert_to_jungle
+			AND = {
+				climate = tropical #can only make jungle in area with enough rain
+				mdm_has_jungle_vegetation = no #cant convert to jungle if it is already jungle
 			}
 			AND = { #can also convert back to jungle if it was once jungle
 				vegetation = jungle
-				OR = {
-					has_location_modifier = mdm_jungle_to_forest
-					has_location_modifier = mdm_jungle_to_woods
-					has_location_modifier = mdm_jungle_to_grasslands
-					has_location_modifier = mdm_jungle_to_farmland
-					has_location_modifier = mdm_jungle_to_sparse
-					has_location_modifier = mdm_jungle_to_desert
-				}
+				mdm_has_original_vegetation = no
 			}
 		}
 	}
@@ -55,49 +43,7 @@ mdm_change_veg_to_jungle = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				#do nothing, effect already cleared
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				add_location_modifier = mdm_forest_to_jungle
-			}
-			else_if = {
-				limit = {
-					vegetation = woods
-				}
-				add_location_modifier = mdm_woods_to_jungle
-			}
-			else_if = {
-				limit = {
-					vegetation = grasslands
-				}
-				add_location_modifier = mdm_grasslands_to_jungle
-			}
-			else_if = {
-				limit = {
-					vegetation = farmland
-				}
-				add_location_modifier = mdm_farmland_to_jungle
-			}
-			else_if = {
-				limit = {
-					vegetation = sparse
-				}
-				add_location_modifier = mdm_sparse_to_jungle
-			}
-			else_if = {
-				limit = {
-					vegetation = desert
-				}
-				add_location_modifier = mdm_desert_to_jungle
-			}
+			mdm_change_vegetation_to = { TYPE = jungle }
 		}
 	}
 
@@ -105,14 +51,8 @@ mdm_change_veg_to_jungle = {
 
 	remove_if = {
 		location = {	
-			OR = {
-					has_location_modifier = mdm_forest_to_jungle
-					has_location_modifier = mdm_woods_to_jungle
-					has_location_modifier = mdm_grasslands_to_jungle
-					has_location_modifier = mdm_farmland_to_jungle
-					has_location_modifier = mdm_sparse_to_jungle
-					has_location_modifier = mdm_desert_to_jungle
-				}
+			mdm_has_jungle_vegetation = yes
+			mdm_has_original_vegetation = no
 		}
 	}
 	
@@ -140,29 +80,17 @@ mdm_change_veg_to_forest = {
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		NOR = {
-			climate = arid
-			climate = cold_arid
-		}
 		OR = {
-			NOR = { #cant convert to forest if it is already forest
-				has_location_modifier = mdm_jungle_to_forest
-				has_location_modifier = mdm_woods_to_forest
-				has_location_modifier = mdm_grasslands_to_forest
-				has_location_modifier = mdm_farmland_to_forest
-				has_location_modifier = mdm_sparse_to_forest
-				has_location_modifier = mdm_desert_to_forest
+			AND = {
+				NOR = {
+					climate = arid
+					climate = cold_arid
+				}
+				mdm_has_forest_vegetation = no #cant convert to forest if it is already forest
 			}
 			AND = { #can also convert back to forest if it was once forest
 				vegetation = forest
-				OR = {
-					has_location_modifier = mdm_forest_to_jungle
-					has_location_modifier = mdm_forest_to_woods
-					has_location_modifier = mdm_forest_to_grasslands
-					has_location_modifier = mdm_forest_to_farmland
-					has_location_modifier = mdm_forest_to_sparse
-					has_location_modifier = mdm_forest_to_desert
-				}
+				mdm_has_original_vegetation = no
 			}
 		}
 	}
@@ -176,49 +104,7 @@ mdm_change_veg_to_forest = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				add_location_modifier = mdm_jungle_to_forest
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				#do nothing, effect already cleared
-			}
-			else_if = {
-				limit = {
-					vegetation = woods
-				}
-				add_location_modifier = mdm_woods_to_forest
-			}
-			else_if = {
-				limit = {
-					vegetation = grasslands
-				}
-				add_location_modifier = mdm_grasslands_to_forest
-			}
-			else_if = {
-				limit = {
-					vegetation = farmland
-				}
-				add_location_modifier = mdm_farmland_to_forest
-			}
-			else_if = {
-				limit = {
-					vegetation = sparse
-				}
-				add_location_modifier = mdm_sparse_to_forest
-			}
-			else_if = {
-				limit = {
-					vegetation = desert
-				}
-				add_location_modifier = mdm_desert_to_forest
-			}
+			mdm_change_vegetation_to = { TYPE = forest }
 		}
 	}
 
@@ -226,14 +112,8 @@ mdm_change_veg_to_forest = {
 
 	remove_if = {
 		location = {	
-			OR = {
-					has_location_modifier = mdm_jungle_to_forest
-					has_location_modifier = mdm_woods_to_forest
-					has_location_modifier = mdm_grasslands_to_forest
-					has_location_modifier = mdm_farmland_to_forest
-					has_location_modifier = mdm_sparse_to_forest
-					has_location_modifier = mdm_desert_to_forest
-				}
+			mdm_has_forest_vegetation = yes
+			mdm_has_original_vegetation = no
 		}
 	}
 	
@@ -261,14 +141,14 @@ mdm_change_veg_to_woods = {
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		NOR = {
-				has_location_modifier = mdm_jungle_to_woods
-				has_location_modifier = mdm_forest_to_woods
+		OR = {
+			AND = {
+				mdm_has_woods_vegetation = no #cant convert to woods if it is already woods
+			}
+			AND = { #can also convert back to woods if it was once woods
 				vegetation = woods
-				has_location_modifier = mdm_grasslands_to_woods
-				has_location_modifier = mdm_farmland_to_woods
-				has_location_modifier = mdm_sparse_to_woods
-				has_location_modifier = mdm_desert_to_woods
+				mdm_has_original_vegetation = no
+			}
 		}
 	}
 
@@ -281,43 +161,7 @@ mdm_change_veg_to_woods = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				add_location_modifier = mdm_jungle_to_woods
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				add_location_modifier = mdm_forest_to_woods
-			}
-			else_if = {
-				limit = {
-					vegetation = grasslands
-				}
-				add_location_modifier = mdm_grasslands_to_woods
-			}
-			else_if = {
-				limit = {
-					vegetation = farmland
-				}
-				add_location_modifier = mdm_farmland_to_woods
-			}
-			else_if = {
-				limit = {
-					vegetation = sparse
-				}
-				add_location_modifier = mdm_sparse_to_woods
-			}
-			else_if = {
-				limit = {
-					vegetation = desert
-				}
-				add_location_modifier = mdm_desert_to_woods
-			}
+			mdm_change_vegetation_to = { TYPE = woods }
 		}
 	}
 
@@ -325,14 +169,8 @@ mdm_change_veg_to_woods = {
 
 	remove_if = {
 		location = {	
-			OR = {
-					has_location_modifier = mdm_jungle_to_woods
-					has_location_modifier = mdm_forest_to_woods
-					has_location_modifier = mdm_grasslands_to_woods
-					has_location_modifier = mdm_farmland_to_woods
-					has_location_modifier = mdm_sparse_to_woods
-					has_location_modifier = mdm_desert_to_woods
-				}
+			mdm_has_woods_vegetation = yes
+			mdm_has_original_vegetation = no
 		}
 	}
 	
@@ -360,14 +198,14 @@ mdm_change_veg_to_grasslands = {
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		NOR = {
-				has_location_modifier = mdm_jungle_to_grasslands
-				has_location_modifier = mdm_forest_to_grasslands
-				has_location_modifier = mdm_woods_to_grasslands
+		OR = {
+			AND = {
+				mdm_has_grasslands_vegetation = no #cant convert to grasslands if it is already grasslands
+			}
+			AND = { #can also convert back to grasslands if it was once grasslands
 				vegetation = grasslands
-				has_location_modifier = mdm_farmland_to_grasslands
-				has_location_modifier = mdm_sparse_to_grasslands
-				has_location_modifier = mdm_desert_to_grasslands
+				mdm_has_original_vegetation = no
+			}
 		}
 	}
 
@@ -380,43 +218,7 @@ mdm_change_veg_to_grasslands = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				add_location_modifier = mdm_jungle_to_grasslands
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				add_location_modifier = mdm_forest_to_grasslands
-			}
-			else_if = {
-				limit = {
-					vegetation = woods
-				}
-				add_location_modifier = mdm_woods_to_grasslands
-			}
-			else_if = {
-				limit = {
-					vegetation = farmland
-				}
-				add_location_modifier = mdm_farmland_to_grasslands
-			}
-			else_if = {
-				limit = {
-					vegetation = sparse
-				}
-				add_location_modifier = mdm_sparse_to_grasslands
-			}
-			else_if = {
-				limit = {
-					vegetation = desert
-				}
-				add_location_modifier = mdm_desert_to_grasslands
-			}
+			mdm_change_vegetation_to = { TYPE = grasslands }
 		}
 	}
 
@@ -424,14 +226,8 @@ mdm_change_veg_to_grasslands = {
 
 	remove_if = {
 		location = {	
-			OR = {
-					has_location_modifier = mdm_jungle_to_grasslands
-					has_location_modifier = mdm_forest_to_grasslands
-					has_location_modifier = mdm_woods_to_grasslands
-					has_location_modifier = mdm_farmland_to_grasslands
-					has_location_modifier = mdm_sparse_to_grasslands
-					has_location_modifier = mdm_desert_to_grasslands
-				}
+			mdm_has_grasslands_vegetation = yes
+			mdm_has_original_vegetation = no
 		}
 	}
 	
@@ -459,14 +255,14 @@ mdm_change_veg_to_farmland = {
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		NOR = {
-				has_location_modifier = mdm_jungle_to_farmland
-				has_location_modifier = mdm_forest_to_farmland
-				has_location_modifier = mdm_woods_to_farmland
-				has_location_modifier = mdm_grasslands_to_farmland
+		OR = {
+			AND = {
+				mdm_has_farmland_vegetation = no #cant convert to farmland if it is already farmland
+			}
+			AND = { #can also convert back to farmland if it was once farmland
 				vegetation = farmland
-				has_location_modifier = mdm_sparse_to_farmland
-				has_location_modifier = mdm_desert_to_farmland
+				mdm_has_original_vegetation = no
+			}
 		}
 	}
 
@@ -479,43 +275,7 @@ mdm_change_veg_to_farmland = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				add_location_modifier = mdm_jungle_to_farmland
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				add_location_modifier = mdm_forest_to_farmland
-			}
-			else_if = {
-				limit = {
-					vegetation = woods
-				}
-				add_location_modifier = mdm_woods_to_farmland
-			}
-			else_if = {
-				limit = {
-					vegetation = grasslands
-				}
-				add_location_modifier = mdm_grasslands_to_farmland
-			}
-			else_if = {
-				limit = {
-					vegetation = sparse
-				}
-				add_location_modifier = mdm_sparse_to_farmland
-			}
-			else_if = {
-				limit = {
-					vegetation = desert
-				}
-				add_location_modifier = mdm_desert_to_farmland
-			}
+			mdm_change_vegetation_to = { TYPE = farmland }
 		}
 	}
 
@@ -523,14 +283,8 @@ mdm_change_veg_to_farmland = {
 
 	remove_if = {
 		location = {	
-			OR = {
-					has_location_modifier = mdm_jungle_to_farmland
-					has_location_modifier = mdm_forest_to_farmland
-					has_location_modifier = mdm_woods_to_farmland
-					has_location_modifier = mdm_grasslands_to_farmland
-					has_location_modifier = mdm_sparse_to_farmland
-					has_location_modifier = mdm_desert_to_farmland
-				}
+			mdm_has_farmland_vegetation = yes
+			mdm_has_original_vegetation = no
 		}
 	}
 	
@@ -558,14 +312,14 @@ mdm_change_veg_to_sparse = {
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		NOR = {
-				has_location_modifier = mdm_jungle_to_sparse
-				has_location_modifier = mdm_forest_to_sparse
-				has_location_modifier = mdm_woods_to_sparse
-				has_location_modifier = mdm_grasslands_to_sparse
-				has_location_modifier = mdm_farmland_to_sparse
+		OR = {
+			AND = {
+				mdm_has_sparse_vegetation = no #cant convert to sparse if it is already sparse
+			}
+			AND = { #can also convert back to sparse if it was once sparse
 				vegetation = sparse
-				has_location_modifier = mdm_desert_to_sparse
+				mdm_has_original_vegetation = no
+			}
 		}
 	}
 
@@ -578,43 +332,7 @@ mdm_change_veg_to_sparse = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				add_location_modifier = mdm_jungle_to_sparse
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				add_location_modifier = mdm_forest_to_sparse
-			}
-			else_if = {
-				limit = {
-					vegetation = woods
-				}
-				add_location_modifier = mdm_woods_to_sparse
-			}
-			else_if = {
-				limit = {
-					vegetation = grasslands
-				}
-				add_location_modifier = mdm_grasslands_to_sparse
-			}
-			else_if = {
-				limit = {
-					vegetation = farmland
-				}
-				add_location_modifier = mdm_farmland_to_sparse
-			}
-			else_if = {
-				limit = {
-					vegetation = desert
-				}
-				add_location_modifier = mdm_desert_to_sparse
-			}
+			mdm_change_vegetation_to = { TYPE = sparse }
 		}
 	}
 
@@ -622,14 +340,8 @@ mdm_change_veg_to_sparse = {
 
 	remove_if = {
 		location = {	
-			OR = {
-					has_location_modifier = mdm_jungle_to_sparse
-					has_location_modifier = mdm_forest_to_sparse
-					has_location_modifier = mdm_woods_to_sparse
-					has_location_modifier = mdm_grasslands_to_sparse
-					has_location_modifier = mdm_farmland_to_sparse
-					has_location_modifier = mdm_desert_to_sparse
-				}
+			mdm_has_sparse_vegetation = yes
+			mdm_has_original_vegetation = no
 		}
 	}
 	
@@ -657,14 +369,14 @@ mdm_change_veg_to_desert = {
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		NOR = {
-				has_location_modifier = mdm_jungle_to_desert
-				has_location_modifier = mdm_forest_to_desert
-				has_location_modifier = mdm_woods_to_desert
-				has_location_modifier = mdm_grasslands_to_desert
-				has_location_modifier = mdm_farmland_to_desert
-				has_location_modifier = mdm_sparse_to_desert
+		OR = {
+			AND = {
+				mdm_has_desert_vegetation = no #cant convert to desert if it is already desert
+			}
+			AND = { #can also convert back to desert if it was once desert
 				vegetation = desert
+				mdm_has_original_vegetation = no
+			}
 		}
 	}
 
@@ -677,43 +389,7 @@ mdm_change_veg_to_desert = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				add_location_modifier = mdm_jungle_to_desert
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				add_location_modifier = mdm_forest_to_desert
-			}
-			else_if = {
-				limit = {
-					vegetation = woods
-				}
-				add_location_modifier = mdm_woods_to_desert
-			}
-			else_if = {
-				limit = {
-					vegetation = grasslands
-				}
-				add_location_modifier = mdm_grasslands_to_desert
-			}
-			else_if = {
-				limit = {
-					vegetation = farmland
-				}
-				add_location_modifier = mdm_farmland_to_desert
-			}
-			else_if = {
-				limit = {
-					vegetation = sparse
-				}
-				add_location_modifier = mdm_sparse_to_desert
-			}
+			mdm_change_vegetation_to = { TYPE = desert }
 		}
 	}
 
@@ -721,14 +397,8 @@ mdm_change_veg_to_desert = {
 
 	remove_if = {
 		location = {	
-			OR = {
-					has_location_modifier = mdm_jungle_to_desert
-					has_location_modifier = mdm_forest_to_desert
-					has_location_modifier = mdm_woods_to_desert
-					has_location_modifier = mdm_grasslands_to_desert
-					has_location_modifier = mdm_farmland_to_desert
-					has_location_modifier = mdm_sparse_to_desert
-				}
+			mdm_has_desert_vegetation = yes
+			mdm_has_original_vegetation = no
 		}
 	}
 	

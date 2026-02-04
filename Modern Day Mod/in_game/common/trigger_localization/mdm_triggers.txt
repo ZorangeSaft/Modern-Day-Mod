@@ -1,0 +1,13 @@
+﻿mdm_has_original_vegetation_text = {
+	none = mdm_has_original_vegetation
+	global = mdm_has_original_vegetation
+	first = mdm_has_original_vegetation
+	third = mdm_has_original_vegetation
+}
+
+mdm_has_original_vegetation_text = {
+	none = mdm_has_original_vegetation
+	global = mdm_has_original_vegetation
+	first = mdm_has_original_vegetation
+	third = mdm_has_original_vegetation
+}

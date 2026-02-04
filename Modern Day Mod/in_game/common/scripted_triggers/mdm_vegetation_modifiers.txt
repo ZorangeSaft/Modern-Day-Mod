@@ -1,0 +1,200 @@
+﻿### Modern Day Mod vegetation triggers
+# Written by CaesarVincens
+
+# All in location scope
+mdm_has_original_vegetation = {
+	custom_description = {
+		text = mdm_has_original_vegetation_text
+
+		NOR = {
+			has_location_modifier = mdm_jungle_to_forest
+			has_location_modifier = mdm_jungle_to_woods
+			has_location_modifier = mdm_jungle_to_grasslands
+			has_location_modifier = mdm_jungle_to_farmland
+			has_location_modifier = mdm_jungle_to_sparse
+			has_location_modifier = mdm_jungle_to_desert
+			
+			has_location_modifier = mdm_forest_to_jungle
+			has_location_modifier = mdm_forest_to_woods
+			has_location_modifier = mdm_forest_to_grasslands
+			has_location_modifier = mdm_forest_to_farmland
+			has_location_modifier = mdm_forest_to_sparse
+			has_location_modifier = mdm_forest_to_desert
+			
+			has_location_modifier = mdm_woods_to_jungle
+			has_location_modifier = mdm_woods_to_forest
+			has_location_modifier = mdm_woods_to_grasslands
+			has_location_modifier = mdm_woods_to_farmland
+			has_location_modifier = mdm_woods_to_sparse
+			has_location_modifier = mdm_woods_to_desert
+			
+			has_location_modifier = mdm_grasslands_to_jungle
+			has_location_modifier = mdm_grasslands_to_forest
+			has_location_modifier = mdm_grasslands_to_woods
+			has_location_modifier = mdm_grasslands_to_farmland
+			has_location_modifier = mdm_grasslands_to_sparse
+			has_location_modifier = mdm_grasslands_to_desert
+			
+			has_location_modifier = mdm_farmland_to_jungle
+			has_location_modifier = mdm_farmland_to_forest
+			has_location_modifier = mdm_farmland_to_woods
+			has_location_modifier = mdm_farmland_to_grasslands
+			has_location_modifier = mdm_farmland_to_sparse
+			has_location_modifier = mdm_farmland_to_desert
+			
+			has_location_modifier = mdm_sparse_to_jungle
+			has_location_modifier = mdm_sparse_to_forest
+			has_location_modifier = mdm_sparse_to_woods
+			has_location_modifier = mdm_sparse_to_grasslands
+			has_location_modifier = mdm_sparse_to_farmland
+			has_location_modifier = mdm_sparse_to_desert
+			
+			has_location_modifier = mdm_desert_to_jungle
+			has_location_modifier = mdm_desert_to_forest
+			has_location_modifier = mdm_desert_to_woods
+			has_location_modifier = mdm_desert_to_grasslands
+			has_location_modifier = mdm_desert_to_farmland
+			has_location_modifier = mdm_desert_to_sparse
+		}
+	}
+}
+
+mdm_has_jungle_vegetation = {
+	custom_description = {
+		text = mdm_has_jungle_vegetation_text
+
+		OR = {
+			AND = {
+				mdm_has_original_vegetation = yes
+				vegetation = jungle
+			}
+			#has_location_modifier = mdm_jungle_to_jungle
+			has_location_modifier = mdm_forest_to_jungle
+			has_location_modifier = mdm_woods_to_jungle
+			has_location_modifier = mdm_grasslands_to_jungle
+			has_location_modifier = mdm_farmland_to_jungle
+			has_location_modifier = mdm_sparse_to_jungle
+			has_location_modifier = mdm_desert_to_jungle
+		}
+	}
+}
+
+mdm_has_forest_vegetation = {
+	custom_description = {
+		text = mdm_has_forest_vegetation_text
+
+		OR = {
+			AND = {
+				mdm_has_original_vegetation = yes
+				vegetation = forest
+			}
+			has_location_modifier = mdm_jungle_to_forest
+			#has_location_modifier = mdm_forest_to_forest
+			has_location_modifier = mdm_woods_to_forest
+			has_location_modifier = mdm_grasslands_to_forest
+			has_location_modifier = mdm_farmland_to_forest
+			has_location_modifier = mdm_sparse_to_forest
+			has_location_modifier = mdm_desert_to_forest
+		}
+	}
+}
+
+mdm_has_woods_vegetation = {
+	custom_description = {
+		text = mdm_has_woods_vegetation_text
+
+		OR = {
+			AND = {
+				mdm_has_original_vegetation = yes
+				vegetation = woods
+			}
+			has_location_modifier = mdm_jungle_to_woods
+			has_location_modifier = mdm_forest_to_woods
+			#has_location_modifier = mdm_woods_to_woods
+			has_location_modifier = mdm_grasslands_to_woods
+			has_location_modifier = mdm_farmland_to_woods
+			has_location_modifier = mdm_sparse_to_woods
+			has_location_modifier = mdm_desert_to_woods
+		}
+	}
+}
+
+mdm_has_grasslands_vegetation = {
+	custom_description = {
+		text = mdm_has_grasslands_vegetation_text
+
+		OR = {
+			AND = {
+				mdm_has_original_vegetation = yes
+				vegetation = grasslands
+			}
+			has_location_modifier = mdm_jungle_to_grasslands
+			has_location_modifier = mdm_forest_to_grasslands
+			has_location_modifier = mdm_woods_to_grasslands
+			#has_location_modifier = mdm_grasslands_to_grasslands
+			has_location_modifier = mdm_farmland_to_grasslands
+			has_location_modifier = mdm_sparse_to_grasslands
+			has_location_modifier = mdm_desert_to_grasslands
+		}
+	}
+}
+
+mdm_has_farmland_vegetation = {
+	custom_description = {
+		text = mdm_has_farmland_vegetation_text
+
+		OR = {
+			AND = {
+				mdm_has_original_vegetation = yes
+				vegetation = farmland
+			}
+			has_location_modifier = mdm_jungle_to_farmland
+			has_location_modifier = mdm_forest_to_farmland
+			has_location_modifier = mdm_woods_to_farmland
+			has_location_modifier = mdm_grasslands_to_farmland
+			#has_location_modifier = mdm_farmland_to_farmland
+			has_location_modifier = mdm_sparse_to_farmland
+			has_location_modifier = mdm_desert_to_farmland
+		}
+	}
+}
+
+mdm_has_sparse_vegetation = {
+	custom_description = {
+		text = mdm_has_sparse_vegetation_text
+
+		OR = {
+			AND = {
+				mdm_has_original_vegetation = yes
+				vegetation = sparse
+			}
+			has_location_modifier = mdm_jungle_to_sparse
+			has_location_modifier = mdm_forest_to_sparse
+			has_location_modifier = mdm_woods_to_sparse
+			has_location_modifier = mdm_grasslands_to_sparse
+			has_location_modifier = mdm_farmland_to_sparse
+			#has_location_modifier = mdm_sparse_to_sparse
+			has_location_modifier = mdm_desert_to_sparse
+		}
+	}
+}
+
+mdm_has_desert_vegetation = {
+	custom_description = {
+		text = mdm_has_desert_vegetation_text
+
+		OR = {
+			AND = {
+				mdm_has_original_vegetation = yes
+				vegetation = desert
+			}
+			has_location_modifier = mdm_jungle_to_desert
+			has_location_modifier = mdm_forest_to_desert
+			has_location_modifier = mdm_woods_to_desert
+			has_location_modifier = mdm_grasslands_to_desert
+			has_location_modifier = mdm_farmland_to_desert
+			has_location_modifier = mdm_sparse_to_desert
+			#has_location_modifier = mdm_desert_to_desert
+		}
+	}
+}
