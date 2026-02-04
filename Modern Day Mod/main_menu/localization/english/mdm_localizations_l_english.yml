@@ -67,6 +67,8 @@
  STATIC_MODIFIER_DESC_mdm_jungle_to_sparse: "The original Jungle in this [location|e] has been degraded into Sparse vegetation."
  STATIC_MODIFIER_NAME_mdm_jungle_to_desert: "Jungle to Desert"
  STATIC_MODIFIER_DESC_mdm_jungle_to_desert: "The original Jungle in this [location|e] has been completely destroyed, leaving behind Desert."
+ mdm_change_veg_to_jungle: "Change [vegetation|e] to [ShowVegetationName('jungle')]"
+ mdm_change_veg_to_jungle_desc: "Change the local [vegetation|e] of this [location|e] to [ShowVegetationName('jungle')]."
 
  STATIC_MODIFIER_NAME_mdm_forest_to_jungle: "Forest to Jungle"
  STATIC_MODIFIER_DESC_mdm_forest_to_jungle: "The original Forest in this [location|e] has grown denser and transformed into Jungle."

@@ -1,7 +1,7 @@
-﻿mdm_template_building = {
+﻿mdm_change_veg_to_jungle = {
 	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
+	max_levels = 1
+	pop_type = laborers
 	
 	employment_size = mdm_default_employment
 	category = infrastructure_category
@@ -15,150 +15,94 @@
 	rural_settlement = yes
 
 	price = mdm_default_price
-	build_time = mdm_default_build_time
+	build_time = mdm_build_time_10_years
 	
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		has_building = building_type:mdm_electrical_grid
+		climate = tropical
+		NOR = {
+				vegetation = jungle
+				has_location_modifier = mdm_forest_to_jungle
+				has_location_modifier = mdm_woods_to_jungle
+				has_location_modifier = mdm_grasslands_to_jungle
+				has_location_modifier = mdm_farmland_to_jungle
+				has_location_modifier = mdm_sparse_to_jungle
+				has_location_modifier = mdm_desert_to_jungle
+			}
 	}
 
 	unique_production_methods = {
-		mdm_temporary_maintenance = {
-			electricity = 0.1
+		mdm_change_veg_to_jungle_maintenance = {
+			tools = 0.1
 			category = building_maintenance
 		}
 	}
 
-	construction_demand = mdm_default_construction_demand
-
-	modifier = {
-        free_building_levels = 1
-	}
-	
-}
-
-mdm_middle_management_office = { #increases building cap, partially in the game so burghers have somewhere to work
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_200
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_25
-	build_time = mdm_build_time_360
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_middle_management_office_maintenance = {
-			electricity = 90
-			paper = 0.1
-			computers = 0.05
-			category = building_maintenance
+	on_built = {
+		location = {
+			if = {
+				limit = {
+					vegetation = forest
+				}
+				add_location_modifier = mdm_forest_to_jungle
+			}
+			else_if = {
+				limit = {
+					vegetation = woods
+				}
+				add_location_modifier = mdm_woods_to_jungle
+			}
+			else_if = {
+				limit = {
+					vegetation = grasslands
+				}
+				add_location_modifier = mdm_grasslands_to_jungle
+			}
+			else_if = {
+				limit = {
+					vegetation = farmland
+				}
+				add_location_modifier = mdm_farmland_to_jungle
+			}
+			else_if = {
+				limit = {
+					vegetation = sparse
+				}
+				add_location_modifier = mdm_sparse_to_jungle
+			}
+			else_if = {
+				limit = {
+					vegetation = desert
+				}
+				add_location_modifier = mdm_desert_to_jungle
+			}
 		}
 	}
 
-	construction_demand = mdm_default_construction_demand
+	construction_demand = mdm_change_veg_to_jungle_construction
 
-	modifier = {
-		free_building_levels = 10
-	}
-	
-}
-
-mdm_upper_management_office = { #increases middle management building cap, partially in the game so clergy has somewhere to work
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_120
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_40
-	build_time = mdm_build_time_450
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_upper_management_office_maintenance = {
-			electricity = 120
-			paper = 0.1
-			computers = 0.05
-			category = building_maintenance
+	remove_if = {
+		location = {	
+			OR = {
+					has_location_modifier = mdm_forest_to_jungle
+					has_location_modifier = mdm_woods_to_jungle
+					has_location_modifier = mdm_grasslands_to_jungle
+					has_location_modifier = mdm_farmland_to_jungle
+					has_location_modifier = mdm_sparse_to_jungle
+					has_location_modifier = mdm_desert_to_jungle
+				}
 		}
 	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_police_station = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = laborers #maby solders instead ?
-	
-	employment_size = mdm_employment_120
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_30
-	build_time = mdm_build_time_360
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_temporary_maintenance = {
-			electricity = 90
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-
-	modifier = {
-        local_unrest = -0.1
-	}
 	
 }
 
-mdm_fire_department = {
+mdm_change_veg_to_forest = {
 	is_foreign = no
-	max_levels = mdm_location_rank_max_level
+	max_levels = 1
 	pop_type = laborers
 	
-	employment_size = mdm_employment_80
+	employment_size = mdm_default_employment
 	category = infrastructure_category
 	
 	megalopolis = yes
@@ -169,597 +113,86 @@ mdm_fire_department = {
 	village = yes
 	rural_settlement = yes
 
-	price = mdm_price_20
-	build_time = mdm_build_time_270
+	price = mdm_default_price
+	build_time = mdm_build_time_10_years
 	
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		has_building = building_type:mdm_electrical_grid
+		NOR = {
+				climate = arid
+				climate = cold_arid
+				has_location_modifier = mdm_jungle_to_forest
+				vegetation = forest
+				has_location_modifier = mdm_woods_to_forest
+				has_location_modifier = mdm_grasslands_to_forest
+				has_location_modifier = mdm_farmland_to_forest
+				has_location_modifier = mdm_sparse_to_forest
+				has_location_modifier = mdm_desert_to_forest
+			}
 	}
 
 	unique_production_methods = {
-		mdm_temporary_maintenance = {
-			electricity = 60
+		mdm_change_veg_to_forest_maintenance = {
+			tools = 0.1
 			category = building_maintenance
 		}
 	}
 
-	construction_demand = mdm_default_construction_demand
-
-	modifier = {
-        local_life_expectancy = 2 #in the future, having more or less of them should change the chance of getting random fire events
-	}
-	
-}
-
-hospital = { #vanilla building
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_1000
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	location_potential = {
-		population >= 1
-	}
-
-	price = mdm_price_300
-	build_time = mdm_build_time_1080
-
-
-	unique_production_methods = {
-		mdm_temporary_maintenance = {
-			electricity = 1200
-			category = building_maintenance
+	on_built = {
+		location = {
+			if = {
+				limit = {
+					vegetation = jungle
+				}
+				add_location_modifier = mdm_jungle_to_forest
+			}
+			else_if = {
+				limit = {
+					vegetation = woods
+				}
+				add_location_modifier = mdm_woods_to_forest
+			}
+			else_if = {
+				limit = {
+					vegetation = grasslands
+				}
+				add_location_modifier = mdm_grasslands_to_forest
+			}
+			else_if = {
+				limit = {
+					vegetation = farmland
+				}
+				add_location_modifier = mdm_farmland_to_forest
+			}
+			else_if = {
+				limit = {
+					vegetation = sparse
+				}
+				add_location_modifier = mdm_sparse_to_forest
+			}
+			else_if = {
+				limit = {
+					vegetation = desert
+				}
+				add_location_modifier = mdm_desert_to_forest
+			}
 		}
 	}
 
-	graphical_tags = { medium_religious }
+	construction_demand = mdm_change_veg_to_forest_construction
 
-
-	construction_demand = town_building_construction
-
-	modifier = { #these will have to be changed in the future for scaling
-		local_disease_resistance = 0.1
-		local_life_expectancy = 2
-	}
-}
-
-mdm_grocery_store = { #eventually change this to be mostly owned by companies
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_60
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_15
-	build_time = mdm_build_time_270
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_grocery_store_maintenance = {
-			electricity = 250
-			category = building_maintenance
+	remove_if = {
+		location = {	
+			OR = {
+					has_location_modifier = mdm_jungle_to_forest
+					has_location_modifier = mdm_woods_to_forest
+					has_location_modifier = mdm_grasslands_to_forest
+					has_location_modifier = mdm_farmland_to_forest
+					has_location_modifier = mdm_sparse_to_forest
+					has_location_modifier = mdm_desert_to_forest
+				}
 		}
 	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_hardware_store = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
 	
-	employment_size = mdm_employment_40
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_12
-	build_time = mdm_build_time_240
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_hardware_store_maintenance = {
-			electricity = 180
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_cafe = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_10
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_1_5
-	build_time = mdm_build_time_90
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_cafe_maintenance = {
-			electricity = 20
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_high_end_restaurant = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_40
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_5
-	build_time = mdm_build_time_240
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_high_end_restaurant_maintenance = {
-			electricity = 70
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_restaurant_average = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_25
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_3
-	build_time = mdm_build_time_180
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_restaurant_average_maintenance = {
-			electricity = 50
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_fast_food_restaurant = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_30
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_2
-	build_time = mdm_build_time_120
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_fast_food_restaurant_maintenance = {
-			electricity = 80
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_shopping_mall = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_600
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_120
-	build_time = mdm_build_time_720
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_shopping_mall_maintenance = {
-			electricity = 1000
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_bar = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_15
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_2
-	build_time = mdm_build_time_150
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_bar_maintenance = {
-			electricity = 40
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_playground = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_2
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_1
-	build_time = mdm_build_time_60
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_playground_maintenance = {
-			electricity = 2
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_post_office = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_120
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_25
-	build_time = mdm_build_time_360
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_post_office_maintenance = {
-			electricity = 120
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_clothing_store = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_20
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_4
-	build_time = mdm_build_time_150
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_clothing_store_maintenance = {
-			electricity = 40
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_hairdresser = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_8
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_1
-	build_time = mdm_build_time_90
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_hairdresser_maintenance = {
-			electricity = 15
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_doctors_office = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_30
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_6
-	build_time = mdm_build_time_240
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_doctors_office_maintenance = {
-			electricity = 60
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-
-	modifier = {
-		local_life_expectancy = 0.5
-	}
-}
-
-mdm_drug_store = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_25
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_5
-	build_time = mdm_build_time_180
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_drug_store_maintenance = {
-			electricity = 70
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_electronics_store = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = burghers
-	
-	employment_size = mdm_employment_35
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_price_8
-	build_time = mdm_build_time_210
-	
-	forbidden_for_estates = yes
-	
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_electronics_store_maintenance = {
-			electricity = 90
-			category = building_maintenance
-		}
-	}
-
-	construction_demand = mdm_default_construction_demand
 }

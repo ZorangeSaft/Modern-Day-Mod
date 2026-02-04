@@ -744,3 +744,19 @@ mdm_airport_construction = {
 
 	category = building_construction
 }
+
+
+
+#vegetation change buildings
+
+mdm_change_veg_to_jungle_construction = {
+	#tools = 10
+
+	category = building_construction
+}
+
+mdm_change_veg_to_forest_construction = {
+	#tools = 10
+
+	category = building_construction
+}
