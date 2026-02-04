@@ -5909,6 +5909,13 @@ TOG = { # mdm modern day mod Tonga
 	}
 }
 
+TRAN = { # mdm modern day mod Transnistria
+	flag_definition = {
+		coa = mdm_TRAN
+		priority = 1
+	}
+}
+
 TRE = { # Trebizond
 	flag_definition = {
 		coa = TRE

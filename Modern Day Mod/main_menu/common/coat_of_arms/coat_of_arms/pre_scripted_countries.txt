@@ -38034,6 +38034,18 @@ TRA = { # Transylvania
 	}		
 }
 
+mdm_TRAN = { # mdm modern day mod Transnistria
+	pattern = "mdm_pattern_border_top_and_bottom_3-2-3.dds"
+	color1 = rgb { 0 154 48 }
+	color2 = rgb { 223 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hammer_sickle_star_transnistria.dds"
+		color1 = rgb { 255 216 0 }
+		instance = { position = { 0.163 0.2 } scale = { 0.3 0.3 } }
+	}
+}
+
 TRB = { # Trubchevsk
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
