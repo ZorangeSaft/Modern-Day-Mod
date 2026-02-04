@@ -37,6 +37,8 @@
 
 
 
+ #mdmvegchange
+
  #vegetation mapmode
  mapmode_mdm_vegetation_name: "Changed Vegetation"
  MAPMODE_MDM_VEGETATION: "#T $mapmode_mdm_vegetation_name$#!\nThis colors [locations|e] by their [vegetation|e], also taking into account vegetation changes like cut down trees."
@@ -69,6 +71,7 @@
  STATIC_MODIFIER_DESC_mdm_jungle_to_desert: "The original Jungle in this [location|e] has been completely destroyed, leaving behind Desert."
  mdm_change_veg_to_jungle: "Change [vegetation|e] to [ShowVegetationName('jungle')]"
  mdm_change_veg_to_jungle_desc: "Change the local [vegetation|e] of this [location|e] to [ShowVegetationName('jungle')]."
+ mdm_change_veg_to_jungle_maintenance: "This building will get removed once built"
 
  STATIC_MODIFIER_NAME_mdm_forest_to_jungle: "Forest to Jungle"
  STATIC_MODIFIER_DESC_mdm_forest_to_jungle: "The original Forest in this [location|e] has grown denser and transformed into Jungle."
@@ -82,6 +85,9 @@
  STATIC_MODIFIER_DESC_mdm_forest_to_sparse: "The original Forest in this [location|e] has been degraded into Sparse vegetation."
  STATIC_MODIFIER_NAME_mdm_forest_to_desert: "Forest to Desert"
  STATIC_MODIFIER_DESC_mdm_forest_to_desert: "The original Forest in this [location|e] has been completely destroyed, leaving behind Desert."
+ mdm_change_veg_to_forest: "Change [vegetation|e] to [ShowVegetationName('forest')]"
+ mdm_change_veg_to_forest_desc: "Change the local [vegetation|e] of this [location|e] to [ShowVegetationName('forest')]."
+ mdm_change_veg_to_forest_maintenance: "This building will get removed once built"
 
  STATIC_MODIFIER_NAME_mdm_woods_to_jungle: "Woods to Jungle"
  STATIC_MODIFIER_DESC_mdm_woods_to_jungle: "The original Woods in this [location|e] have grown denser and transformed into Jungle."
@@ -95,6 +101,10 @@
  STATIC_MODIFIER_DESC_mdm_woods_to_sparse: "The original Woods in this [location|e] have been degraded into Sparse vegetation."
  STATIC_MODIFIER_NAME_mdm_woods_to_desert: "Woods to Desert"
  STATIC_MODIFIER_DESC_mdm_woods_to_desert: "The original Woods in this [location|e] have been completely destroyed, leaving behind Desert."
+ mdm_change_veg_to_woods: "Change [vegetation|e] to [ShowVegetationName('woods')]"
+ mdm_change_veg_to_woods_desc: "Change the local [vegetation|e] of this [location|e] to [ShowVegetationName('woods')]."
+ mdm_change_veg_to_woods_maintenance: "This building will get removed once built"
+
 
  STATIC_MODIFIER_NAME_mdm_grasslands_to_jungle: "Grasslands to Jungle"
  STATIC_MODIFIER_DESC_mdm_grasslands_to_jungle: "The original Grasslands in this [location|e] have been overtaken by dense Jungle growth."
@@ -108,6 +118,10 @@
  STATIC_MODIFIER_DESC_mdm_grasslands_to_sparse: "The original Grasslands in this [location|e] have been degraded into Sparse vegetation."
  STATIC_MODIFIER_NAME_mdm_grasslands_to_desert: "Grasslands to Desert"
  STATIC_MODIFIER_DESC_mdm_grasslands_to_desert: "The original Grasslands in this [location|e] have been completely degraded, leaving behind Desert."
+ mdm_change_veg_to_grasslands: "Change [vegetation|e] to [ShowVegetationName('grasslands')]"
+ mdm_change_veg_to_grasslands_desc: "Change the local [vegetation|e] of this [location|e] to [ShowVegetationName('grasslands')]."
+ mdm_change_veg_to_grasslands_maintenance: "This building will get removed once built"
+
 
  STATIC_MODIFIER_NAME_mdm_farmland_to_jungle: "Farmland to Jungle"
  STATIC_MODIFIER_DESC_mdm_farmland_to_jungle: "The original Farmland in this [location|e] has been abandoned and overtaken by dense Jungle."
@@ -121,6 +135,10 @@
  STATIC_MODIFIER_DESC_mdm_farmland_to_sparse: "The original Farmland in this [location|e] has been abandoned and degraded into Sparse vegetation."
  STATIC_MODIFIER_NAME_mdm_farmland_to_desert: "Farmland to Desert"
  STATIC_MODIFIER_DESC_mdm_farmland_to_desert: "The original Farmland in this [location|e] has been abandoned and completely degraded into Desert."
+ mdm_change_veg_to_farmland: "Change [vegetation|e] to [ShowVegetationName('farmland')]"
+ mdm_change_veg_to_farmland_desc: "Change the local [vegetation|e] of this [location|e] to [ShowVegetationName('farmland')]."
+ mdm_change_veg_to_farmland_maintenance: "This building will get removed once built"
+
 
  STATIC_MODIFIER_NAME_mdm_sparse_to_jungle: "Sparse to Jungle"
  STATIC_MODIFIER_DESC_mdm_sparse_to_jungle: "The original Sparse vegetation in this [location|e] has recovered and grown into dense Jungle."
@@ -134,6 +152,10 @@
  STATIC_MODIFIER_DESC_mdm_sparse_to_farmland: "The original Sparse vegetation in this [location|e] has been improved and cultivated into productive Farmland."
  STATIC_MODIFIER_NAME_mdm_sparse_to_desert: "Sparse to Desert"
  STATIC_MODIFIER_DESC_mdm_sparse_to_desert: "The original Sparse vegetation in this [location|e] has been degraded into Desert."
+ mdm_change_veg_to_sparse: "Change [vegetation|e] to [ShowVegetationName('sparse')]"
+ mdm_change_veg_to_sparse_desc: "Change the local [vegetation|e] of this [location|e] to [ShowVegetationName('sparse')]."
+ mdm_change_veg_to_sparse_maintenance: "This building will get removed once built"
+
 
  STATIC_MODIFIER_NAME_mdm_desert_to_jungle: "Desert to Jungle"
  STATIC_MODIFIER_DESC_mdm_desert_to_jungle: "The original Desert in this [location|e] has been transformed and now supports dense Jungle."
@@ -147,6 +169,9 @@
  STATIC_MODIFIER_DESC_mdm_desert_to_farmland: "The original Desert in this [location|e] has been transformed and cultivated into productive Farmland."
  STATIC_MODIFIER_NAME_mdm_desert_to_sparse: "Desert to Sparse"
  STATIC_MODIFIER_DESC_mdm_desert_to_sparse: "The original Desert in this [location|e] has been improved and now supports Sparse vegetation."
+ mdm_change_veg_to_desert: "Change [vegetation|e] to [ShowVegetationName('desert')]"
+ mdm_change_veg_to_desert_desc: "Change the local [vegetation|e] of this [location|e] to [ShowVegetationName('desert')]."
+ mdm_change_veg_to_desert_maintenance: "This building will get removed once built"
 
 
  #game concepts

@@ -1,9 +1,11 @@
-﻿mdm_change_veg_to_jungle = {
+﻿#mdmvegchange
+
+mdm_change_veg_to_jungle = {
 	is_foreign = no
 	max_levels = 1
 	pop_type = laborers
 	
-	employment_size = mdm_default_employment
+	employment_size = 0.001
 	category = infrastructure_category
 	
 	megalopolis = yes
@@ -20,9 +22,9 @@
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		climate = tropical
-		NOR = {
-				vegetation = jungle
+		climate = tropical #can only make jungle in area with enough rain
+		OR = {
+			NOR = { #cant convert to jungle if it is already jungle
 				has_location_modifier = mdm_forest_to_jungle
 				has_location_modifier = mdm_woods_to_jungle
 				has_location_modifier = mdm_grasslands_to_jungle
@@ -30,6 +32,18 @@
 				has_location_modifier = mdm_sparse_to_jungle
 				has_location_modifier = mdm_desert_to_jungle
 			}
+			AND = { #can also convert back to jungle if it was once jungle
+				vegetation = jungle
+				OR = {
+					has_location_modifier = mdm_jungle_to_forest
+					has_location_modifier = mdm_jungle_to_woods
+					has_location_modifier = mdm_jungle_to_grasslands
+					has_location_modifier = mdm_jungle_to_farmland
+					has_location_modifier = mdm_jungle_to_sparse
+					has_location_modifier = mdm_jungle_to_desert
+				}
+			}
+		}
 	}
 
 	unique_production_methods = {
@@ -41,7 +55,14 @@
 
 	on_built = {
 		location = {
+			mdm_clear_location_vegetation_modifier_effect = yes
 			if = {
+				limit = {
+					vegetation = jungle
+				}
+				#do nothing, effect already cleared
+			}
+			else_if = {
 				limit = {
 					vegetation = forest
 				}
@@ -129,7 +150,7 @@ mdm_change_veg_to_forest = {
 				has_location_modifier = mdm_farmland_to_forest
 				has_location_modifier = mdm_sparse_to_forest
 				has_location_modifier = mdm_desert_to_forest
-			}
+		}
 	}
 
 	unique_production_methods = {
@@ -141,6 +162,7 @@ mdm_change_veg_to_forest = {
 
 	on_built = {
 		location = {
+			mdm_clear_location_vegetation_modifier_effect = yes
 			if = {
 				limit = {
 					vegetation = jungle
@@ -191,6 +213,501 @@ mdm_change_veg_to_forest = {
 					has_location_modifier = mdm_farmland_to_forest
 					has_location_modifier = mdm_sparse_to_forest
 					has_location_modifier = mdm_desert_to_forest
+				}
+		}
+	}
+	
+}
+
+mdm_change_veg_to_woods = {
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers
+	
+	employment_size = mdm_default_employment
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_default_price
+	build_time = mdm_build_time_10_years
+	
+	forbidden_for_estates = yes
+	
+	location_potential = {
+		NOR = {
+				has_location_modifier = mdm_jungle_to_woods
+				has_location_modifier = mdm_forest_to_woods
+				vegetation = woods
+				has_location_modifier = mdm_grasslands_to_woods
+				has_location_modifier = mdm_farmland_to_woods
+				has_location_modifier = mdm_sparse_to_woods
+				has_location_modifier = mdm_desert_to_woods
+		}
+	}
+
+	unique_production_methods = {
+		mdm_change_veg_to_woods_maintenance = {
+			tools = 0.1
+			category = building_maintenance
+		}
+	}
+
+	on_built = {
+		location = {
+			mdm_clear_location_vegetation_modifier_effect = yes
+			if = {
+				limit = {
+					vegetation = jungle
+				}
+				add_location_modifier = mdm_jungle_to_woods
+			}
+			else_if = {
+				limit = {
+					vegetation = forest
+				}
+				add_location_modifier = mdm_forest_to_woods
+			}
+			else_if = {
+				limit = {
+					vegetation = grasslands
+				}
+				add_location_modifier = mdm_grasslands_to_woods
+			}
+			else_if = {
+				limit = {
+					vegetation = farmland
+				}
+				add_location_modifier = mdm_farmland_to_woods
+			}
+			else_if = {
+				limit = {
+					vegetation = sparse
+				}
+				add_location_modifier = mdm_sparse_to_woods
+			}
+			else_if = {
+				limit = {
+					vegetation = desert
+				}
+				add_location_modifier = mdm_desert_to_woods
+			}
+		}
+	}
+
+	construction_demand = mdm_change_veg_to_woods_construction
+
+	remove_if = {
+		location = {	
+			OR = {
+					has_location_modifier = mdm_jungle_to_woods
+					has_location_modifier = mdm_forest_to_woods
+					has_location_modifier = mdm_grasslands_to_woods
+					has_location_modifier = mdm_farmland_to_woods
+					has_location_modifier = mdm_sparse_to_woods
+					has_location_modifier = mdm_desert_to_woods
+				}
+		}
+	}
+	
+}
+
+mdm_change_veg_to_grasslands = {
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers
+	
+	employment_size = mdm_default_employment
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_default_price
+	build_time = mdm_build_time_10_years
+	
+	forbidden_for_estates = yes
+	
+	location_potential = {
+		NOR = {
+				has_location_modifier = mdm_jungle_to_grasslands
+				has_location_modifier = mdm_forest_to_grasslands
+				has_location_modifier = mdm_woods_to_grasslands
+				vegetation = grasslands
+				has_location_modifier = mdm_farmland_to_grasslands
+				has_location_modifier = mdm_sparse_to_grasslands
+				has_location_modifier = mdm_desert_to_grasslands
+		}
+	}
+
+	unique_production_methods = {
+		mdm_change_veg_to_grasslands_maintenance = {
+			tools = 0.1
+			category = building_maintenance
+		}
+	}
+
+	on_built = {
+		location = {
+			mdm_clear_location_vegetation_modifier_effect = yes
+			if = {
+				limit = {
+					vegetation = jungle
+				}
+				add_location_modifier = mdm_jungle_to_grasslands
+			}
+			else_if = {
+				limit = {
+					vegetation = forest
+				}
+				add_location_modifier = mdm_forest_to_grasslands
+			}
+			else_if = {
+				limit = {
+					vegetation = woods
+				}
+				add_location_modifier = mdm_woods_to_grasslands
+			}
+			else_if = {
+				limit = {
+					vegetation = farmland
+				}
+				add_location_modifier = mdm_farmland_to_grasslands
+			}
+			else_if = {
+				limit = {
+					vegetation = sparse
+				}
+				add_location_modifier = mdm_sparse_to_grasslands
+			}
+			else_if = {
+				limit = {
+					vegetation = desert
+				}
+				add_location_modifier = mdm_desert_to_grasslands
+			}
+		}
+	}
+
+	construction_demand = mdm_change_veg_to_grasslands_construction
+
+	remove_if = {
+		location = {	
+			OR = {
+					has_location_modifier = mdm_jungle_to_grasslands
+					has_location_modifier = mdm_forest_to_grasslands
+					has_location_modifier = mdm_woods_to_grasslands
+					has_location_modifier = mdm_farmland_to_grasslands
+					has_location_modifier = mdm_sparse_to_grasslands
+					has_location_modifier = mdm_desert_to_grasslands
+				}
+		}
+	}
+	
+}
+
+mdm_change_veg_to_farmland = {
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers
+	
+	employment_size = mdm_default_employment
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_default_price
+	build_time = mdm_build_time_10_years
+	
+	forbidden_for_estates = yes
+	
+	location_potential = {
+		NOR = {
+				has_location_modifier = mdm_jungle_to_farmland
+				has_location_modifier = mdm_forest_to_farmland
+				has_location_modifier = mdm_woods_to_farmland
+				has_location_modifier = mdm_grasslands_to_farmland
+				vegetation = farmland
+				has_location_modifier = mdm_sparse_to_farmland
+				has_location_modifier = mdm_desert_to_farmland
+		}
+	}
+
+	unique_production_methods = {
+		mdm_change_veg_to_farmland_maintenance = {
+			tools = 0.1
+			category = building_maintenance
+		}
+	}
+
+	on_built = {
+		location = {
+			mdm_clear_location_vegetation_modifier_effect = yes
+			if = {
+				limit = {
+					vegetation = jungle
+				}
+				add_location_modifier = mdm_jungle_to_farmland
+			}
+			else_if = {
+				limit = {
+					vegetation = forest
+				}
+				add_location_modifier = mdm_forest_to_farmland
+			}
+			else_if = {
+				limit = {
+					vegetation = woods
+				}
+				add_location_modifier = mdm_woods_to_farmland
+			}
+			else_if = {
+				limit = {
+					vegetation = grasslands
+				}
+				add_location_modifier = mdm_grasslands_to_farmland
+			}
+			else_if = {
+				limit = {
+					vegetation = sparse
+				}
+				add_location_modifier = mdm_sparse_to_farmland
+			}
+			else_if = {
+				limit = {
+					vegetation = desert
+				}
+				add_location_modifier = mdm_desert_to_farmland
+			}
+		}
+	}
+
+	construction_demand = mdm_change_veg_to_farmland_construction
+
+	remove_if = {
+		location = {	
+			OR = {
+					has_location_modifier = mdm_jungle_to_farmland
+					has_location_modifier = mdm_forest_to_farmland
+					has_location_modifier = mdm_woods_to_farmland
+					has_location_modifier = mdm_grasslands_to_farmland
+					has_location_modifier = mdm_sparse_to_farmland
+					has_location_modifier = mdm_desert_to_farmland
+				}
+		}
+	}
+	
+}
+
+mdm_change_veg_to_sparse = {
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers
+	
+	employment_size = mdm_default_employment
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_default_price
+	build_time = mdm_build_time_10_years
+	
+	forbidden_for_estates = yes
+	
+	location_potential = {
+		NOR = {
+				has_location_modifier = mdm_jungle_to_sparse
+				has_location_modifier = mdm_forest_to_sparse
+				has_location_modifier = mdm_woods_to_sparse
+				has_location_modifier = mdm_grasslands_to_sparse
+				has_location_modifier = mdm_farmland_to_sparse
+				vegetation = sparse
+				has_location_modifier = mdm_desert_to_sparse
+		}
+	}
+
+	unique_production_methods = {
+		mdm_change_veg_to_sparse_maintenance = {
+			tools = 0.1
+			category = building_maintenance
+		}
+	}
+
+	on_built = {
+		location = {
+			mdm_clear_location_vegetation_modifier_effect = yes
+			if = {
+				limit = {
+					vegetation = jungle
+				}
+				add_location_modifier = mdm_jungle_to_sparse
+			}
+			else_if = {
+				limit = {
+					vegetation = forest
+				}
+				add_location_modifier = mdm_forest_to_sparse
+			}
+			else_if = {
+				limit = {
+					vegetation = woods
+				}
+				add_location_modifier = mdm_woods_to_sparse
+			}
+			else_if = {
+				limit = {
+					vegetation = grasslands
+				}
+				add_location_modifier = mdm_grasslands_to_sparse
+			}
+			else_if = {
+				limit = {
+					vegetation = farmland
+				}
+				add_location_modifier = mdm_farmland_to_sparse
+			}
+			else_if = {
+				limit = {
+					vegetation = desert
+				}
+				add_location_modifier = mdm_desert_to_sparse
+			}
+		}
+	}
+
+	construction_demand = mdm_change_veg_to_sparse_construction
+
+	remove_if = {
+		location = {	
+			OR = {
+					has_location_modifier = mdm_jungle_to_sparse
+					has_location_modifier = mdm_forest_to_sparse
+					has_location_modifier = mdm_woods_to_sparse
+					has_location_modifier = mdm_grasslands_to_sparse
+					has_location_modifier = mdm_farmland_to_sparse
+					has_location_modifier = mdm_desert_to_sparse
+				}
+		}
+	}
+	
+}
+
+mdm_change_veg_to_desert = {
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers
+	
+	employment_size = mdm_default_employment
+	category = infrastructure_category
+	
+	megalopolis = yes
+	metropolis = yes
+	major_city = yes
+	city = yes
+	town = yes
+	village = yes
+	rural_settlement = yes
+
+	price = mdm_default_price
+	build_time = mdm_build_time_10_years
+	
+	forbidden_for_estates = yes
+	
+	location_potential = {
+		NOR = {
+				has_location_modifier = mdm_jungle_to_desert
+				has_location_modifier = mdm_forest_to_desert
+				has_location_modifier = mdm_woods_to_desert
+				has_location_modifier = mdm_grasslands_to_desert
+				has_location_modifier = mdm_farmland_to_desert
+				has_location_modifier = mdm_sparse_to_desert
+				vegetation = desert
+		}
+	}
+
+	unique_production_methods = {
+		mdm_change_veg_to_desert_maintenance = {
+			tools = 0.1
+			category = building_maintenance
+		}
+	}
+
+	on_built = {
+		location = {
+			mdm_clear_location_vegetation_modifier_effect = yes
+			if = {
+				limit = {
+					vegetation = jungle
+				}
+				add_location_modifier = mdm_jungle_to_desert
+			}
+			else_if = {
+				limit = {
+					vegetation = forest
+				}
+				add_location_modifier = mdm_forest_to_desert
+			}
+			else_if = {
+				limit = {
+					vegetation = woods
+				}
+				add_location_modifier = mdm_woods_to_desert
+			}
+			else_if = {
+				limit = {
+					vegetation = grasslands
+				}
+				add_location_modifier = mdm_grasslands_to_desert
+			}
+			else_if = {
+				limit = {
+					vegetation = farmland
+				}
+				add_location_modifier = mdm_farmland_to_desert
+			}
+			else_if = {
+				limit = {
+					vegetation = sparse
+				}
+				add_location_modifier = mdm_sparse_to_desert
+			}
+		}
+	}
+
+	construction_demand = mdm_change_veg_to_desert_construction
+
+	remove_if = {
+		location = {	
+			OR = {
+					has_location_modifier = mdm_jungle_to_desert
+					has_location_modifier = mdm_forest_to_desert
+					has_location_modifier = mdm_woods_to_desert
+					has_location_modifier = mdm_grasslands_to_desert
+					has_location_modifier = mdm_farmland_to_desert
+					has_location_modifier = mdm_sparse_to_desert
 				}
 		}
 	}

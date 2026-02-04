@@ -748,6 +748,7 @@ mdm_airport_construction = {
 
 
 #vegetation change buildings
+#mdmvegchange
 
 mdm_change_veg_to_jungle_construction = {
 	#tools = 10
@@ -756,6 +757,36 @@ mdm_change_veg_to_jungle_construction = {
 }
 
 mdm_change_veg_to_forest_construction = {
+	#tools = 10
+
+	category = building_construction
+}
+
+mdm_change_veg_to_woods_construction = {
+	#tools = 10
+
+	category = building_construction
+}
+
+mdm_change_veg_to_grasslands_construction = {
+	#tools = 10
+
+	category = building_construction
+}
+
+mdm_change_veg_to_farmland_construction = {
+	#tools = 10
+
+	category = building_construction
+}
+
+mdm_change_veg_to_sparse_construction = {
+	#tools = 10
+
+	category = building_construction
+}
+
+mdm_change_veg_to_desert_construction = {
 	#tools = 10
 
 	category = building_construction

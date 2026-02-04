@@ -36,6 +36,8 @@ mdm_debug_refresh_mapmodes.1 = {
 
 
 
+#mdmvegchange
+
 namespace = mdm_debug_vegetation_differences
 
 mdm_debug_vegetation_differences.1 = {

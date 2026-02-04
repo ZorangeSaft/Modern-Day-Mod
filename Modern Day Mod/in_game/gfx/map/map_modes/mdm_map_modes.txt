@@ -555,6 +555,8 @@ mdm_urbanisation_suitability = {
 
 
 
+#mdmvegchange
+
 ###changed vegetation mapmode
 
 mdm_vegetation = {
