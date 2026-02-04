@@ -38835,6 +38835,35 @@ TUV = { # Turov
 	}
 }
 
+mdm_TUVL = { # mdm modern day mod Tuvalu
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 157 223 }
+
+	textured_emblem = {
+		texture = "mdm_coa_union_jack.dds"
+		instance = { position = { 0.25 0.25 } scale = { 0.5 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = rgb { 254 222 0 }
+		instance = { position = { 0.546 0.892 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.842 0.633 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.929 0.125 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.929 0.525 } scale = { 0.157 0.157 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five_180.dds"
+		color1 = rgb { 254 222 0 }
+		instance = { position = { 0.65 0.858 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.65 0.65 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.754 0.799 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.754 0.366 } scale = { 0.157 0.157 } }
+		instance = { position = { 0.842 0.299 } scale = { 0.157 0.157 } }
+	}
+}
+
 TUZ = { # Tuzantla
 	pattern = "pattern_solid.dds"
 	color1 = hsv360 	{	20		60		85	} 	

@@ -6050,6 +6050,13 @@ TUS = { # Tuscany
 	}
 }
 
+TUVL = { # mdm modern day mod Tuvalu
+	flag_definition = {
+		coa = mdm_TUVL
+		priority = 1
+	}
+}
+
 TWS = { # Two Sicilies
 	flag_definition = {
 		coa = TWS_angevine
