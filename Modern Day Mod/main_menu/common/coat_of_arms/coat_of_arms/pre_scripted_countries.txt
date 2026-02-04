@@ -29418,6 +29418,23 @@ PGS = { # Pangasinan/Caboloan
 	}		
 }
 
+mdm_PHIL = { # mdm modern day mod Philippines
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = rgb { 0 53 169 }
+	color2 = rgb { 207 8 33 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_60.dds"
+		color1 = "white"
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_sun_stars_philippines.dds"
+		color1 = rgb { 252 210 14 }
+		instance = { position = { 0.263 0.5 } scale = { 0.827 0.827 } }
+	}
+}
+
 PHY = { # Phayao
 	pattern = "pattern_circle_frame_80.dds"
 	color1 = "purple"

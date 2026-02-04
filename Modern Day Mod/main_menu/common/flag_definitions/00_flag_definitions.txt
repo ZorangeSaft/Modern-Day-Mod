@@ -4690,6 +4690,13 @@ PIE = { # Piedmont
 	}	
 }
 
+PHIL = { # mdm modern day mod Philippines
+	flag_definition = {
+		coa = mdm_PHIL
+		priority = 1
+	}
+}
+
 PLC = { # Polish-Lithuanian Commonwealth   
 	flag_definition = {
 		coa = PLC
