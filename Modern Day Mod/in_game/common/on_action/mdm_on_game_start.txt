@@ -102,6 +102,16 @@ mdm_on_game_start = {
 			name = mdm_local_urbanisation_suitability
 			value = mdm_local_urbanisation_suitability_level
 			}
+			}
+
+    #minerals
+    scripted_geography:ore_deposit_aluminium_1000 = {
+      every_location_in_scripted_geography = {
+        set_variable = {
+			    name = mdm_aluminium_ore_deposit_variable
+			    value = 1000
+			  }
+      }
     }
   }
 }
