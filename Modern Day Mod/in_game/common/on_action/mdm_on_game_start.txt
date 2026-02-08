@@ -81,11 +81,11 @@
 
 on_game_start = {
   on_actions = {
-    mdm_on_game_start
+    mdm_geography_based_on_game_start
   }
 }
 
-mdm_on_game_start = {
+mdm_geography_based_on_game_start = {
   effect = {
     every_location_in_the_world = {
       limit = { is_land = yes }
