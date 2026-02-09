@@ -1473,6 +1473,16 @@ SAM = {
 }
 
 
+SANM = { #san marino
+	color = rgb { 94 183 229 } #light blue from the flag of san marino
+	color2 = rgb { 94 183 229 }
+	culture_definition = emilian
+	religion_definition = catholic
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
 SAUD = { #didnt use hoi4 color
 	color = rgb { 0  128  53 } #{ 171  190  152 } #{ 0  128  53 }
 	color2 = rgb { 0  128  53 } #{ 171  190  152 } #{ 0  128  53 }

@@ -1978,6 +1978,19 @@ countries = {
 	}
 
 
+	SANM = { #san marino
+		own_control_core = {
+			san_marino
+		}
+		starting_technology_level = 3
+		include = "republic"
+		include = "expl_mdm_whole_world"
+		government = {ruler = sam_vaaletoa_sualauvi_ii }
+		country_rank = rank_kingdom
+		capital = san_marino
+	}
+
+
 	SAUD = {
 		own_control_core = {
 			al_ahsa al_hunayy al_jubayl al_mashqar al_qatif al_suman al_udayd al_uqayr al_uyayna ar_rukai baqqa hafar_al_batin harad_al_ahsa jannah jarrarah khurays mashdhubah nita_arabia qaryat_ulya rumah sayhat urayrah yabrin aba_al_qur abu_qasr al_ajfar al_hamad al_harrah al_hufayr al_labbah al_thulayma al_waqbi an_nasifah arar ash_shamli ash_shuaybah_hail baqa basithah bir_fajr dumat_al_jandal fayd hail jubbah kaf linah lowqah mawqaq qurayyat_al_milh sakaka sara tayma umm_al_qulban zubala ad_disah al_abwa al_ahmar al_ais al_ayn_khaybar al_azlam al_bad al_bleiteh al_farah_ula al_furaish al_hadhah al_hawra al_hegrieah al_hinakiyah al_hufayrah al_jar al_juhfah al_jumum al_khanbarah al_kharabah al_lith al_mahani al_manjur al_maramiyah al_marwa al_muazzam al_mundassah al_muthainiyah al_muwaylih al_thamad al_ukhaydir al_ula al_wajh an_nakhil ar_rabadha ar_rayyan ar_ruwailiyyah asfan ash_shibahah as_suwaydirah as_suwayriqiyah aynuna az_zubayir bada_yaqub badr_hunayn bajdah bani_saad bir_al_qurr bir_ibn_hermas buwat dhalam dhat_al_hajj dhat_irq duba ghumayqah haql jeddah khalis_medina khaybar khulays madin_bani_sulaym makna mecca medina mughayra murayghan muwayh qasr_al_qaba qudayd shajwa sufaynah tabuk_arabia taif umluj umm_ad_dawm umm_al_ghiran yalamlam yanbu yanbu_an_nakhil ad_dawasir ad_dilam afif al_aflaj al_aythamah al_baharah al_bijadiyah al_burud al_fuqarah al_ghat al_ghazalah al_ghrabah al_haddar al_hajr al_hisu al_huwayyit al_laghfiyyah al_maghib al_majazah al_majmaah al_mardamah al_maslum al_mithnab al_qaiyah al_quway al_udhaim al_yamamah an_nabhaniyah an_nibaj an_nuhaytiyyah an_nuqrah aqiq_banu_uqayi ar_rass ar_rawdah ar_rayn ash_shuara asila_arabia as_sulaymi at_tarfawi az_zilfi bilghah buraydah darghat dawbah dhurma diriyah fadak habiyah halaban laila malham miskah muzahmiyah naam nifi qasr_himam ramah rawdat_al_ard samira saqra tamrah tanumah thadij thadiq udakh unaizah uyun_al_jiwa abha abil abu_rakah adham ad_dughmiyah al_abala al_amlah al_amwah al_haqu al_harjah al_husayniyah al_khosuf al_maddah al_qunfudhah al_shuqayq al_sirrayn ash_shaqiqah barahrah bariq dhahran dhi_ain farasan hali jazan khaybar_janoub muhayil najran qalat_bishah raghdan ranyah rijal_almaa sabt_bani_bishr sabya samakh sharurah tabalah tanomah tathlith turbah yadamah
