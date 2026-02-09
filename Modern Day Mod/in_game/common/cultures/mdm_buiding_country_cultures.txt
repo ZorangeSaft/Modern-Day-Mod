@@ -34,3 +34,19 @@ mdm_united_nations_culture = { #united nations culture for the UN building count
 		mdm_internationalism_group
 	}
 }
+
+mdm_vatican_culture = { #the vatican
+	language = latin_language
+	
+	color = rgb { 211 211 211 } #basegame pope color
+	
+	tags = { western_european_gfx eastern_european_gfx european_gfx } #in theory any catholic could become pope
+
+	opinions = {
+		#eventually add all the italian cultures maby ?, or maby even all catholic ones, that would be a lot tho
+	}
+
+	culture_groups = {
+		italian_group
+	}
+}

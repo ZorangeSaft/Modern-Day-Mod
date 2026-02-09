@@ -2646,7 +2646,25 @@ countries = {
             }
             ruler = random
         }
-        country_rank = rank_duchy
+        country_rank = rank_kingdom
+    }
+
+	VATIC = {    #vatican city
+        type = building
+        starting_technology_level = 3
+
+        capital = rome
+		include = "expl_mdm_whole_world"
+        government = {
+            type = republic
+            #heir_selection = oligarchic_elective
+            laws = {
+                #marriage_law = monogamous_marriage
+                #heir_religion_law = heir_same_religion
+            }
+            ruler = random
+        }
+        country_rank = rank_kingdom
     }
 
 }
