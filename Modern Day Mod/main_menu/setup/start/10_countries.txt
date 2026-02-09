@@ -1043,7 +1043,7 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {ruler = mace_gordana_siljanovska_davkova }
 		country_rank = rank_kingdom
-		capital = macau
+		capital = guanfu
 	}
 
 
