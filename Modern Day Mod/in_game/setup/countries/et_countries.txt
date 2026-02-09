@@ -755,6 +755,16 @@ HOND = {
 }
 
 
+HOKO = { #hong kong
+	color = rgb { 239  21  32 } #red from their flag
+	color2 = rgb { 239  21  32 }
+	culture_definition = mdm_hong_kong_culture
+	religion_definition = secularism
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
 HUN = {
 	color = rgb { 249  126  98 } #{ 152  85  92 }
 	color2 = rgb { 249  126  98 } #{ 152  85  92 }
@@ -1037,6 +1047,16 @@ LUX = {
 	color = rgb { 65  175  179 } #{ 53  140  73 }
 	color2 = rgb { 65  175  179 } #{ 53  140  73 }
 	culture_definition = rhine_franconian
+	religion_definition = secularism
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
+MACA = {
+	color = rgb { 6 118 98 } #green from their flag
+	color2 = rgb { 6 118 98 }
+	culture_definition = mdm_macau_culture
 	religion_definition = secularism
 	description_category = diplomatic
 	difficulty = 2
@@ -1937,6 +1957,16 @@ YEM = { #didnt use hoi4 color
 	color2 = rgb { 106 38 44 } #{ 155  101  107 } #{ 106 38 44 }
 	culture_definition = yemeni_culture
 	religion_definition = shia
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
+WSAH = {
+	color = rgb { 197 9 20 } #red from their flag, temporary
+	color2 = rgb { 197 9 20 }
+	culture_definition = moroccan #temporary
+	religion_definition = sunni
 	description_category = diplomatic
 	difficulty = 2
 }

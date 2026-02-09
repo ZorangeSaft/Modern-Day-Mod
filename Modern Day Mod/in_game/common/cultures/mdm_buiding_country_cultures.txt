@@ -1,5 +1,51 @@
 ﻿#####mdm modern day mod
 
+#hong kong and macau, technically not building based but dont wanna make whole extra file for them rn
+
+mdm_macau_culture = {
+	language = yue_language #should be cantonese, but there is also some portuguese and english influence, so they could have their own language as well possibly
+	
+	color = rgb { 6 118 98 } #green from macau flag, same color as the country
+	
+	tags = { east_asian_gfx }
+
+	opinions = {
+		mdm_hong_kong_culture = kindred
+	}
+
+	culture_groups = {
+		chinese_group
+		confucian_group
+		mdm_pearl_river_group
+		mdm_metrochinese_group
+		mdm_lusophone_group
+	}
+}
+
+mdm_hong_kong_culture = {
+	language = yue_language #should be cantonese, but there is also some english influence, so they could have their own language as well possibly
+	
+	color = rgb { 211 211 211 } #basegame pope color
+	
+	tags = { east_asian_gfx }
+
+	opinions = {
+		mdm_macau_culture = kindred
+	}
+
+	culture_groups = {
+		chinese_group
+		confucian_group
+		mdm_pearl_river_group
+		mdm_metrochinese_group
+		mdm_anglo_group
+	}
+}
+
+
+
+#building based
+
 mdm_european_culture = { #european culture for the EU building country at start
 	language = mdm_european_language #english_dialect #idk if the language should be english or european
 	

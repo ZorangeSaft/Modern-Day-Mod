@@ -283,6 +283,12 @@
  ETIM_ADJ: "Timorese"
  CHEC: "Chechnya"
  CHEC_ADJ: "Chechen"
+ WSAH: "Western Sahara"
+ WSAH_ADJ: "West Saharan" #really should be Sahrawi but that isnt as colloquial
+ MACA: "Macau"
+ MACA_ADJ: "Macanese"
+ HOKO: "Hong Kong"
+ HOKO_ADJ: "Hong Kongese"
 
  #####mdm modern day mod
  CASCA: "Cascadia"
