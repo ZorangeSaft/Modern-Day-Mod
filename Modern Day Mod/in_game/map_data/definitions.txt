@@ -1148,7 +1148,7 @@
 				parma_province = { parma berceto sandonnino }
 				piacenza_province = { piacenza bardi bobbio fiorenzuola }
 				reggioem_province = { reggioem canossa guastalla }
-				romagna_province = { rimini cesena faenza imola modigliana ravenna }
+				romagna_province = { rimini cesena faenza imola modigliana ravenna san_marino } #mdm modern day mod
 				urbino_province = { urbino gubbio montefeltro pesaro }
 			}
 			lazio_area = {

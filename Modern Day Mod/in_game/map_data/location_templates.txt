@@ -3229,6 +3229,7 @@ reggioem = { topography = flatland vegetation = grasslands climate = subtropical
 canossa = { topography = hills vegetation = woods climate = oceanic religion = catholic culture = emilian raw_material = lumber}
 guastalla = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = horses}
 rimini = { topography = flatland vegetation = farmland climate = subtropical religion = catholic culture = emilian raw_material = wine natural_harbor_suitability = 0.00}
+san_marino = { topography = flatland vegetation = farmland climate = subtropical religion = catholic culture = emilian raw_material = wine}
 cesena = { topography = flatland vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = wine natural_harbor_suitability = 0.00}
 faenza = { topography = flatland vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = clay}
 imola = { topography = flatland vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = fiber_crops}
