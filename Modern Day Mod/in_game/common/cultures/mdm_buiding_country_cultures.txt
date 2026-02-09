@@ -50,3 +50,19 @@ mdm_vatican_culture = { #the vatican
 		italian_group
 	}
 }
+
+mdm_monacan_culture = { #the vatican
+	language = french_language
+	
+	color = rgb { 206 17 38 } #red from the flag of monaco, same color as the country
+	
+	tags = { western_european_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		#good with french and italian ?
+	}
+
+	culture_groups = {
+		french_group
+	}
+}

@@ -288,3 +288,10 @@
  GER: "Germany"
  GER_ADJ: "German"
  GER_LONG: "Federal Republic of Germany"
+
+ #building based countries
+ VATIC: "Vatican City"
+ VATIC_ADJ: "Vatican"
+
+ MONAC: "Monaco"
+ MONAC_ADJ: "Monacan"
