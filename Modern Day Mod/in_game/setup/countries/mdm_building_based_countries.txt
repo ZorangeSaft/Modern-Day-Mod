@@ -37,6 +37,17 @@ VATIC = {
 	difficulty = 2
 }
 
+SMOOM = {
+	color = rgb { 219 10 19 } #red from their flag
+	color2 = rgb { 219 10 19 }
+
+	culture_definition = mdm_smoom_culture
+	religion_definition = catholic
+
+	description_category = diplomatic
+	difficulty = 2
+}
+
 MONAC = {
 	color = rgb { 206 17 38 } #red from their flag
 	color2 = rgb { 206 17 38 }

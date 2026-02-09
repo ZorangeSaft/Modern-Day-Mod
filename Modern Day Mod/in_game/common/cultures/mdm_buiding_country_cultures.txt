@@ -51,6 +51,22 @@ mdm_vatican_culture = { #the vatican
 	}
 }
 
+mdm_smoom_culture = { #the Sovereign Military Order of Malta
+	language = italian_language #also french and english
+	
+	color = rgb { 219 10 19 } #red from their flag, same color as the country
+	
+	tags = { western_european_gfx eastern_european_gfx european_gfx }
+
+	opinions = {
+		#eventually add all the italian cultures maby ?
+	}
+
+	culture_groups = {
+		italian_group mdm_internationalism_group
+	}
+}
+
 mdm_monacan_culture = { #the vatican
 	language = french_language
 	
