@@ -15,6 +15,17 @@ EUROP = {
 	difficulty = 2
 }
 
+UNITE = {
+	color = rgb {0 159 220} #light blue from their flag
+	color2 = rgb {0 159 220}
+
+	culture_definition = mdm_united_nations_culture
+	religion_definition = catholic
+
+	description_category = diplomatic
+	difficulty = 2
+}
+
 VATIC = {
 	color = rgb { 211 211 211 } #basegame pope color
 	color2 = rgb { 211 211 211 }

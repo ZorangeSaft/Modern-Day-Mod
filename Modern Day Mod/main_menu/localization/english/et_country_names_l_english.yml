@@ -290,6 +290,12 @@
  GER_LONG: "Federal Republic of Germany"
 
  #building based countries
+ EUROP: "European Union"
+ EUROP_ADJ: "European"
+
+ UNITE: "United Nations"
+ UNITE_ADJ: "United Nations"
+
  VATIC: "Vatican City"
  VATIC_ADJ: "Vatican"
 

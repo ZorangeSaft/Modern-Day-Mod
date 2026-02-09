@@ -1151,6 +1151,15 @@
  mdm_eu_capital: "European Union Capital"
  mdm_eu_capital_desc: "European Union capital description"
 
+ mdm_un_general_assembly: "United Nations General Assembly"
+ mdm_un_general_assembly_desc: "United Nations General Assembly description"
+
+ mdm_vatican_city: "Vatican City"
+ mdm_vatican_city_desc: "Vatican City description"
+
+ mdm_monaco: "Monaco"
+ mdm_monaco_desc: "Monaco description"
+
 
 
  #infrastructure buildings
