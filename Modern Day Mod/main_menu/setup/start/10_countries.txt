@@ -532,6 +532,19 @@ countries = {
 	}
 
 
+	COOK = {
+		own_control_core = {
+			rarotonga_atoll aitutaki_atoll
+		}
+		starting_technology_level = 3
+		include = "republic"
+		include = "expl_mdm_whole_world"
+		government = {ruler = random }
+		country_rank = rank_duchy
+		capital = rarotonga_atoll
+	}
+
+
 	CPVR = {
 		own_control_core = {
 			boa_vista fogo santiago santo_antao sao_nicolao
@@ -1719,6 +1732,19 @@ countries = {
 	}
 
 
+	NIUE = {
+		own_control_core = {
+			niue
+		}
+		starting_technology_level = 3
+		include = "republic"
+		include = "expl_mdm_whole_world"
+		government = {ruler = random }
+		country_rank = rank_duchy
+		capital = niue
+	}
+
+
 	NIGR = {
 		own_control_core = {
 			bauchi bi_pi ibi kontcha kwararafa lafia lau pankshin pindiga wukari yola gembu ado_ekiti akure amaigbo awka azia benin brass cabo_formoso ewu forcados igbo_ukwu ikere mahin nembe new_calabar nnewi ondo onitsha owo ozoro ugbodu ughoton ukunzu uromi uvwie uzea warri afikpo arochukwu awka_etiti bonny calabar eket ikom agbonle babana bussa kaiama bida enugu idah jebba jos katsina_ala kuje lapai lokoja minna mokwa nsukka nupeko ogoja tada ugbo zuba ede eko epe ife igboho ijebu_ode ikorundu ikosi ikoyi ilesa ilorin irawo iwo kisi offa ogbomosho oke_ila oshogbo oyo_ile saki tede biriri biu daima damaturu daniski dikwa gambaru garandoili garun_gabas gombe gubio kalam_hill konduga mandaragirau marte mubi ngazargamu nguru potiskum wuro_yolde yo afade alkalawa anka birnin_kebbi birnin_zamfara daura dutsi funtua goronyo gumel gusau katsina koko sokoto surame takassaba talata_mafara anchau auyo biram birnin_gwari birnin_kudu dutse gaya_n gwaram kano kazaure kontagora kotonkoro kulfo lere rano shira tegina turunku yauri zazzau zuru tounouga
@@ -1773,7 +1799,7 @@ countries = {
 
 	NZEA = {
 		own_control_core = {
-			motu_maha ahurei aupouri hauraki heretaunga manawatu manukau ngamotu patea tamaki tararua tauranga te_tairawhiti urewera wairarapa wairoa waitangi wellington whakatane whanganui whangarei rekohu akaroa hurunui kahurangi kaiapoi kaikoura kaitangata mahitahi mawhera motupohue okarito otakou otepoti puari rakaia rakiura taramakau tauihu te_tai_aorere timaru waihopai whakatu tongareva aitutaki_atoll rarotonga_atoll niue nukunonu_atoll
+			motu_maha ahurei aupouri hauraki heretaunga manawatu manukau ngamotu patea tamaki tararua tauranga te_tairawhiti urewera wairarapa wairoa waitangi wellington whakatane whanganui whangarei rekohu akaroa hurunui kahurangi kaiapoi kaikoura kaitangata mahitahi mawhera motupohue okarito otakou otepoti puari rakaia rakiura taramakau tauihu te_tai_aorere timaru waihopai whakatu tongareva nukunonu_atoll
 		}
 		starting_technology_level = 3
 		include = "et_reformation_monarchy"

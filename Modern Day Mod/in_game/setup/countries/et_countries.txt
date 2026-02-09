@@ -376,6 +376,16 @@ COST = { #went to color wheel and picked golden yellow
 }
 
 
+COOK = {
+	color = rgb { 206 142 2 } #golden color taken from https://en.wikipedia.org/wiki/Arthropodium_cirratum#/media/File:Rengarenga_flower_(Arthropodium_cirrhatum).jpg
+	color2 = rgb { 206 142 2 }
+	culture_definition = enana_culture
+	religion_definition = secularism
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
 CPVR = {
 	color = rgb { 0 53 148 } # Cabo Verde flag blue
 	color2 = rgb { 0 53 148 }
@@ -1267,6 +1277,16 @@ NIGE = {
 	color = rgb { 225 83 5 } # Niger flag orange
 	color2 = rgb { 225 83 5 }
 	culture_definition = hausa
+	religion_definition = secularism
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
+NIUE = {
+	color = rgb { 254 222 0 } #yellow from their flag
+	color2 = rgb { 254 222 0 }
+	culture_definition = niuean_culture
 	religion_definition = secularism
 	description_category = diplomatic
 	difficulty = 2
