@@ -1462,6 +1462,7 @@ lechtal_alps1 = { topography = mountain_wasteland vegetation = forest climate = 
 lechtal_alps2 = { topography = mountain_wasteland vegetation = forest climate = continental}
 otztal_alps2 = { topography = mountain_wasteland vegetation = desert climate = arctic}
 feldkirch = { topography = mountains vegetation = woods climate = continental religion = catholic culture = danube_bavarian raw_material = lumber}
+liechtenstein = { topography = flatland vegetation = farmland climate = continental religion = catholic culture = danube_bavarian raw_material = millet} #mdm modern day mod
 bregenz = { topography = mountains vegetation = woods climate = continental religion = catholic culture = danube_bavarian raw_material = wool}
 bludenz = { topography = mountains vegetation = forest climate = continental religion = catholic culture = danube_bavarian raw_material = silver_ore}
 bern = { topography = hills vegetation = farmland climate = continental religion = catholic culture = high_alemannic raw_material = wheat}

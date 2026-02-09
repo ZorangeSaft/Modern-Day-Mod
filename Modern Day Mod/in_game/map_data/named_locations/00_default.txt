@@ -42266,3 +42266,6 @@ munduyskoye_lake = 00b7a6
 #UNUSED = 11d2f6
 
 
+#####mdm modern day mod
+
+liechtenstein = 805340

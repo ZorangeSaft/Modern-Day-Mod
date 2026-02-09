@@ -547,7 +547,7 @@
 					imst reutte landeck lechtal_alps1 lechtal_alps2 otztal_alps2
 				}
 				vorarlberg_province = {
-					feldkirch bregenz bludenz
+					feldkirch bregenz bludenz liechtenstein #mdm modern day mod
 				}
 			}
 			central_switzerland_area = {
