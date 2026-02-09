@@ -11227,6 +11227,7 @@ nanling4 = { topography = mountain_wasteland vegetation = forest climate = subtr
 xinhui = { topography = flatland vegetation = grasslands climate = subtropical religion = mahayana culture = xinhui_culture raw_material = pepper natural_harbor_suitability = 0.00}
 guanghai = { topography = hills vegetation = woods climate = subtropical religion = mahayana culture = xinhui_culture raw_material = sand natural_harbor_suitability = 0.00}
 xiangshan_xinhui = { topography = wetlands vegetation = grasslands climate = subtropical religion = mahayana culture = yuehai_culture raw_material = salt natural_harbor_suitability = 0.60}
+macau = { topography = wetlands vegetation = grasslands climate = subtropical religion = mahayana culture = yuehai_culture raw_material = salt natural_harbor_suitability = 0.60} #mdm modern day mod
 longchuan_xunzhou = { topography = hills vegetation = woods climate = subtropical religion = mahayana culture = dongjiang_culture raw_material = rice}
 changle_xunzhou = { topography = hills vegetation = woods climate = subtropical religion = mahayana culture = kejia_culture raw_material = cotton}
 xingning = { topography = flatland vegetation = woods climate = subtropical religion = mahayana culture = kejia_culture raw_material = rice}

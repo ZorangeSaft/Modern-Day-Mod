@@ -15873,6 +15873,7 @@ dongguan = bbe001 # 东筦
 baoan_dongguan = aa8f15 # 宝安
 guanfu = 5540a6 # 官富
 xiangshan_xinhui = 11ef79 # 香山
+macau = 6e2d91 #mdm modern day mod
 xinhui = 11f097 # 新会
 guanghai = 556c42 # 广海
 liannan = eedce7 # 连南
