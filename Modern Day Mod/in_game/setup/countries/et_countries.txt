@@ -1023,6 +1023,16 @@ LIT = {
 }
 
 
+LIEC = {
+	color = rgb { 0 39 128 } #blue from their flag
+	color2 = rgb { 0 39 128 }
+	culture_definition = high_alemanic
+	religion_definition = secularism
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
 LUX = {
 	color = rgb { 65  175  179 } #{ 53  140  73 }
 	color2 = rgb { 65  175  179 } #{ 53  140  73 }

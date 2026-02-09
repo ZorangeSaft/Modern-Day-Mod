@@ -1388,6 +1388,19 @@ countries = {
 	}
 
 
+	LIEC = { #liechtenstein
+		own_control_core = {
+			liechtenstein
+		}
+		starting_technology_level = 3
+		include = "catholic_monarchy"
+		include = "expl_mdm_whole_world"
+		government = {ruler = lux_henri_i_de_bourbon_parma_1 }
+		country_rank = rank_kingdom
+		capital = liechtenstein
+	}
+
+
 	LUX = {
 		own_control_core = {
 			luxembourg vianden
