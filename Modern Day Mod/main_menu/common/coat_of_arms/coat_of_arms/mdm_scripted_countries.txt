@@ -1,4 +1,4 @@
-mdm_ABKH = { # mdm modern day mod Abkhazia
+mdm_ABKH_today = { # mdm modern day mod Abkhazia
 	pattern = "mdm_pattern_abkhazia.dds"
 	color1 = rgb { 0 154 60 }
 	color2 = "white"
@@ -28,7 +28,7 @@ mdm_ABKH = { # mdm modern day mod Abkhazia
 	}
 }
 
-mdm_AFGH = { # mdm modern day mod Afghanistan
+mdm_AFGH_today = { # mdm modern day mod Afghanistan
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 
@@ -39,7 +39,7 @@ mdm_AFGH = { # mdm modern day mod Afghanistan
 	}	
 }
 
-mdm_ALB = { # mdm modern day mod Albania
+mdm_ALB_today = { # mdm modern day mod Albania
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 255 0 0 }
 	
@@ -50,7 +50,7 @@ mdm_ALB = { # mdm modern day mod Albania
 	}
 }
 
-mdm_ALG = { # mdm modern day mod Algeria
+mdm_ALG_today = { # mdm modern day mod Algeria
 	pattern = "pattern_vertical_split_01.dds"
 	color1 = rgb { 0 102 51 }
 	color2 = "white"
@@ -62,7 +62,7 @@ mdm_ALG = { # mdm modern day mod Algeria
 	}
 }
 
-mdm_ANBR = { # mdm modern day mod Antigua and Barbuda
+mdm_ANBR_today = { # mdm modern day mod Antigua and Barbuda
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 207 8 33 }
 
@@ -80,7 +80,7 @@ mdm_ANBR = { # mdm modern day mod Antigua and Barbuda
 	}
 }
 
-mdm_ANGO = { # mdm modern day mod Angola
+mdm_ANGO_today = { # mdm modern day mod Angola
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = rgb { 204 9 47 }
 	color2 = "black"
@@ -92,7 +92,7 @@ mdm_ANGO = { # mdm modern day mod Angola
 	}
 }
 
-mdm_ANR = { # mdm modern day mod Andorra
+mdm_ANR_today = { # mdm modern day mod Andorra
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 8 1 160 }
 	color2 = rgb { 254 222 0 }
@@ -104,7 +104,7 @@ mdm_ANR = { # mdm modern day mod Andorra
 	}
 }
 
-mdm_ARGE = { # mdm modern day mod Argentina
+mdm_ARGE_today = { # mdm modern day mod Argentina
 	pattern = "pattern_horizontal_bar_01.dds"
 	color1 = rgb { 117 174 224 }
 	color2 = "white"
@@ -117,14 +117,14 @@ mdm_ARGE = { # mdm modern day mod Argentina
 	}
 }
 
-mdm_ARM = { # mdm modern day mod Armenia
+mdm_ARM_today = { # mdm modern day mod Armenia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 218 0 10 }
 	color2 = rgb { 0 48 161 }
 	color3 = rgb { 242 170 0 }
 }
 
-mdm_AUST = { # mdm modern day mod Australia
+mdm_AUST_today = { # mdm modern day mod Australia
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 27 105 }
 
@@ -150,7 +150,7 @@ mdm_AUST = { # mdm modern day mod Australia
 	}
 }
 
-mdm_AZER = { # mdm modern day mod Azerbaijan
+mdm_AZER_today = { # mdm modern day mod Azerbaijan
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 0 182 227 }
 	color2 = rgb { 239 48 62 }
@@ -163,7 +163,7 @@ mdm_AZER = { # mdm modern day mod Azerbaijan
 	}	
 }
 
-mdm_BAHA = { # mdm modern day mod Bahamas
+mdm_BAHA_today = { # mdm modern day mod Bahamas
 	pattern = "pattern_horizontal_bar_01.dds"
 	color1 = rgb { 0 120 140 }
 	color2 = rgb { 255 200 40 }
@@ -174,13 +174,13 @@ mdm_BAHA = { # mdm modern day mod Bahamas
 	}
 }
 
-mdm_BAHR = { # mdm modern day mod Bahrain
+mdm_BAHR_today = { # mdm modern day mod Bahrain
 	pattern = "mdm_pattern_bahrain.dds"
 	color1 = "white"
 	color2 = rgb { 219 36 22 }
 }
 
-mdm_BANG = { # mdm modern day mod Bangladesh
+mdm_BANG_today = { # mdm modern day mod Bangladesh
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 103 69 }
 
@@ -191,7 +191,7 @@ mdm_BANG = { # mdm modern day mod Bangladesh
 	}
 }
 
-mdm_BARB = { # mdm modern day mod Barbados
+mdm_BARB_today = { # mdm modern day mod Barbados
 	pattern = "pattern_vertical_bar_01.dds"
 	color1 = rgb { 0 33 128 }
 	color2 = rgb { 255 200 33 }
@@ -203,7 +203,7 @@ mdm_BARB = { # mdm modern day mod Barbados
 	}
 }
 
-mdm_BEI = { # mdm modern day mod Brunei
+mdm_BEI_today = { # mdm modern day mod Brunei
 	pattern = "mdm_pattern_brunei.dds"
 	color1 = rgb { 247 225 16 }
 	color2 = "white"
@@ -217,7 +217,7 @@ mdm_BEI = { # mdm modern day mod Brunei
 	}
 }
 
-mdm_BEL = { # mdm modern day mod Belgium
+mdm_BEL_today = { # mdm modern day mod Belgium
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = "black"
 	color2 = rgb { 253 219 32 }
@@ -225,7 +225,7 @@ mdm_BEL = { # mdm modern day mod Belgium
 
 }
 
-mdm_BELA = { # mdm modern day mod Belarus
+mdm_BELA_today = { # mdm modern day mod Belarus
 	pattern = "mdm_pattern_third_bottom.dds"
 	color1 = rgb { 210 39 48 }
 	color2 = rgb { 0 151 57 }
@@ -237,7 +237,7 @@ mdm_BELA = { # mdm modern day mod Belarus
 	}
 }
 
-mdm_BELI = { # mdm modern day mod Belize
+mdm_BELI_today = { # mdm modern day mod Belize
 	pattern = "mdm_pattern_border_top_and_bottom_1-8-1.dds"
 	color1 = rgb { 16 14 151 }
 	color2 = rgb { 218 6 18 }
@@ -254,14 +254,14 @@ mdm_BELI = { # mdm modern day mod Belize
 	}
 }
 
-mdm_BEN = { # mdm modern day mod Benin
+mdm_BEN_today = { # mdm modern day mod Benin
 	pattern = "mdm_pattern_left_third_horizontal_split.dds"
 	color1 = rgb { 0 136 80 }
 	color2 = rgb { 252 210 15 }
 	color3 = rgb { 233 9 41 }
 }
 
-mdm_BHUT = { # mdm modern day mod Bhutan
+mdm_BHUT_today = { # mdm modern day mod Bhutan
 	pattern = "pattern_diagonal_split_03.dds"
 	color1 = rgb { 255 206 0 }
 	color2 = rgb { 255 103 25 }
@@ -272,14 +272,14 @@ mdm_BHUT = { # mdm modern day mod Bhutan
 	}
 }
 
-mdm_BOLI = { # mdm modern day mod Bolivia
+mdm_BOLI_today = { # mdm modern day mod Bolivia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 218 41 28 }
 	color2 = rgb { 244 228 0 }
 	color3 = rgb { 0 122 51 }
 }
 
-mdm_BOSH = { # mdm modern day mod Bosnia and Herzegovinia
+mdm_BOSH_today = { # mdm modern day mod Bosnia and Herzegovinia
 	pattern = "pattern_solid.dds"
 	color1 = "blue"
 
@@ -303,14 +303,14 @@ mdm_BOSH = { # mdm modern day mod Bosnia and Herzegovinia
 	}
 }
 
-mdm_BOTS = { # mdm modern day mod Botswana
+mdm_BOTS_today = { # mdm modern day mod Botswana
 	pattern = "mdm_pattern_horizontal_stripes_botswana.dds"
 	color1 = rgb { 109 171 211 }
 	color2 = "black"
 	color3 = "white"
 }
 
-mdm_BRAZ = { # mdm modern day mod Brazil
+mdm_BRAZ_today = { # mdm modern day mod Brazil
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 149 62 }
 
@@ -329,7 +329,7 @@ mdm_BRAZ = { # mdm modern day mod Brazil
 	}
 }
 
-mdm_BUFA = { # mdm modern day mod Burkina Faso
+mdm_BUFA_today = { # mdm modern day mod Burkina Faso
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = rgb { 239 39 41 }
 	color2 = rgb { 0 159 71 }
@@ -341,14 +341,14 @@ mdm_BUFA = { # mdm modern day mod Burkina Faso
 	}
 }
 
-mdm_BUL = { # mdm modern day mod Bulgaria
+mdm_BUL_today = { # mdm modern day mod Bulgaria
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "white"
 	color2 = rgb { 0 151 110 }
 	color3 = rgb { 215 33 10 }
 }
 
-mdm_BUU = { # mdm modern day mod Burundi
+mdm_BUU_today = { # mdm modern day mod Burundi
 	pattern = "mdm_pattern_burundi.dds"
 	color1 = rgb { 65 178 37 }
 	color2 = rgb { 201 8 42 }
@@ -364,7 +364,7 @@ mdm_BUU = { # mdm modern day mod Burundi
 	}
 }
 
-mdm_CAFR = { # mdm modern day mod Central African Republic
+mdm_CAFR_today = { # mdm modern day mod Central African Republic
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 211 8 49 }
 
@@ -399,7 +399,7 @@ mdm_CAFR = { # mdm modern day mod Central African Republic
 	}
 }
 
-mdm_CAME = { # mdm modern day mod Cameroon
+mdm_CAME_today = { # mdm modern day mod Cameroon
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 0 123 94 }
 	color2 = rgb { 207 8 33 }
@@ -412,7 +412,7 @@ mdm_CAME = { # mdm modern day mod Cameroon
 	}
 }
 
-mdm_CAN = { # mdm modern day mod Canada
+mdm_CAN_today = { # mdm modern day mod Canada
 	pattern = "mdm_pattern_border_left_right_1-2-1.dds"
 	color1 = "white"
 	color2 = rgb { 214 39 24 }
@@ -424,14 +424,14 @@ mdm_CAN = { # mdm modern day mod Canada
 	}
 }
 
-mdm_CHAD = { # mdm modern day mod Chad
+mdm_CHAD_today = { # mdm modern day mod Chad
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 0 32 91 }
 	color2 = rgb { 252 205 0 }
 	color3 = rgb { 200 16 46 }
 }
 
-mdm_CHEC = { # mdm modern day mod Chechnya
+mdm_CHEC_today = { # mdm modern day mod Chechnya
 	pattern = "mdm_pattern_ichkeria.dds"
 	color1 = rgb { 39 116 53 }
 	color2 = "white"
@@ -439,7 +439,7 @@ mdm_CHEC = { # mdm modern day mod Chechnya
 	
 }
 
-mdm_CHI = { # mdm modern day mod China
+mdm_CHI_today = { # mdm modern day mod China
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 239 22 32 }
 
@@ -449,7 +449,7 @@ mdm_CHI = { # mdm modern day mod China
 	}
 }
 
-mdm_CHIL = { # mdm modern day mod Chile
+mdm_CHIL_today = { # mdm modern day mod Chile
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = "white"
 	color2 = rgb { 219 36 22 }
@@ -467,14 +467,14 @@ mdm_CHIL = { # mdm modern day mod Chile
 	}
 }
 
-mdm_COLO = { # mdm modern day mod Colombia
+mdm_COLO_today = { # mdm modern day mod Colombia
 	pattern = "mdm_pattern_tricolor_horizontal_2-1-1.dds"
 	color1 = rgb { 255 206 0 }
 	color2 = rgb { 0 44 136 }
 	color3 = rgb { 201 8 42 }
 }
 
-mdm_COMO = { # mdm modern day mod Comoros
+mdm_COMO_today = { # mdm modern day mod Comoros
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 255 210 0 }
 
@@ -504,21 +504,21 @@ mdm_COMO = { # mdm modern day mod Comoros
 	}
 }
 
-mdm_CONG = { # mdm modern day mod Congo
+mdm_CONG_today = { # mdm modern day mod Congo
 	pattern = "mdm_pattern_diagonal_stripe_congo.dds"
 	color1 = rgb { 0 152 54 }
 	color2 = rgb { 255 210 0 }
 	color3 = rgb { 221 31 25 }
 }
 
-mdm_COST = { # mdm modern day mod Costa Rica
+mdm_COST_today = { # mdm modern day mod Costa Rica
 	pattern = "mdm_pattern_horizontal_stripes_costa_rica.dds"
 	color1 = rgb { 219 36 22 }
 	color2 = "white"
 	color3 = rgb { 0 12 138 }
 }
 
-mdm_CPVR = { # mdm modern day mod Cabo Verde
+mdm_CPVR_today = { # mdm modern day mod Cabo Verde
 	pattern = "mdm_pattern_horizontal_stripes_cabo_verde.dds"
 	color1 = rgb { 0 53 148 }
 	color2 = rgb { 208 26 34 }
@@ -531,7 +531,7 @@ mdm_CPVR = { # mdm modern day mod Cabo Verde
 	}
 }
 
-mdm_CRO = { # mdm modern day mod Croatia
+mdm_CRO_today = { # mdm modern day mod Croatia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 255 0 0 }
 	color2 = "white"
@@ -543,7 +543,7 @@ mdm_CRO = { # mdm modern day mod Croatia
 	}
 }
 
-mdm_CUBA = {  # mdm modern day mod Cuba
+mdm_CUBA_today = {  # mdm modern day mod Cuba
 	pattern = "mdm_pattern_horizontal_stripes_5.dds"
 	color1 = rgb { 0 37 144 }
 	color2 = "white"
@@ -560,7 +560,7 @@ mdm_CUBA = {  # mdm modern day mod Cuba
 	}
 }
 
-mdm_CYP = { # mdm modern day mod Cyprus
+mdm_CYP_today = { # mdm modern day mod Cyprus
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 
@@ -577,14 +577,14 @@ mdm_CYP = { # mdm modern day mod Cyprus
 	}
 }
 
-mdm_CZEC = { # mdm modern day mod Czech Republic
+mdm_CZEC_today = { # mdm modern day mod Czech Republic
 	pattern = "mdm_pattern_tricolor_hoist_triangle.dds"
 	color1 = rgb { 8 67 127 }
 	color2 = "white"
 	color3 = rgb { 216 12 19 }
 }
 
-mdm_DAN = { # mdm modern day mod Denmark
+mdm_DAN_today = { # mdm modern day mod Denmark
 	pattern = "pattern_solid.dds"
 	color1 = rgb {201 8 42}
 
@@ -594,7 +594,7 @@ mdm_DAN = { # mdm modern day mod Denmark
 	}
 }
 
-mdm_DGL = { # mdm modern day mod Maldives
+mdm_DGL_today = { # mdm modern day mod Maldives
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 211 8 49 }
 
@@ -611,7 +611,7 @@ mdm_DGL = { # mdm modern day mod Maldives
 	}
 }
 
-mdm_DJIB = { # mdm modern day mod Djibouti
+mdm_DJIB_today = { # mdm modern day mod Djibouti
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = rgb { 106 180 232 }
 	color2 = rgb { 9 175 39 }
@@ -627,7 +627,7 @@ mdm_DJIB = { # mdm modern day mod Djibouti
 	}
 }
 
-mdm_DOMI = { # mdm modern day mod Dominica
+mdm_DOMI_today = { # mdm modern day mod Dominica
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 106 53 }
 
@@ -644,7 +644,7 @@ mdm_DOMI = { # mdm modern day mod Dominica
 	}
 }
 
-mdm_DOMR = { # mdm modern day mod Dominican Republic
+mdm_DOMR_today = { # mdm modern day mod Dominican Republic
 	pattern = "mdm_pattern_dominican_republic.dds"
 	color1 = rgb { 0 45 98 }
 	color2 = rgb { 206 17 38 }
@@ -656,7 +656,7 @@ mdm_DOMR = { # mdm modern day mod Dominican Republic
 	}
 }
 
-mdm_DRCO = { # mdm modern day mod Democratic Republic of the Congo
+mdm_DRCO_today = { # mdm modern day mod Democratic Republic of the Congo
 	pattern = "mdm_pattern_diagonal_stripes_drc.dds"
 	color1 = rgb { 0 128 255 }
 	color2 = rgb { 207 8 27 }
@@ -669,7 +669,7 @@ mdm_DRCO = { # mdm modern day mod Democratic Republic of the Congo
 	}
 }
 
-mdm_ECUA = { # mdm modern day mod Ecuador
+mdm_ECUA_today = { # mdm modern day mod Ecuador
 	pattern = "mdm_pattern_tricolor_horizontal_2-1-1.dds"
 	color1 = rgb { 255 221 0 }
 	color2 = rgb { 3 78 162 }
@@ -681,7 +681,7 @@ mdm_ECUA = { # mdm modern day mod Ecuador
 	}
 }
 
-mdm_EGY = { # mdm modern day mod Egypt
+mdm_EGY_today = { # mdm modern day mod Egypt
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 200 16 46 }
 	color2 = "white"
@@ -694,7 +694,7 @@ mdm_EGY = { # mdm modern day mod Egypt
 	}
 }
 
-mdm_ELSA = { # mdm modern day mod El Salvador
+mdm_ELSA_today = { # mdm modern day mod El Salvador
 	pattern = "pattern_horizontal_bar_01.dds"
 	color1 = rgb { 0 69 173 }
 	color2 = "white"
@@ -705,7 +705,7 @@ mdm_ELSA = { # mdm modern day mod El Salvador
 	}
 }
 
-mdm_EQGU = { # mdm modern day mod Equatorial Guinea
+mdm_EQGU_today = { # mdm modern day mod Equatorial Guinea
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 60 155 0 }
 	color2 = "white"
@@ -722,7 +722,7 @@ mdm_EQGU = { # mdm modern day mod Equatorial Guinea
 	}
 }
 
-mdm_ERIT = { # mdm modern day mod Eritrea
+mdm_ERIT_today = { # mdm modern day mod Eritrea
 	pattern = "mdm_pattern_eritrea.dds"
 	color1 = rgb { 229 0 39 }
 	color2 = rgb { 65 178 37 }
@@ -735,14 +735,14 @@ mdm_ERIT = { # mdm modern day mod Eritrea
 	}
 }
 
-mdm_ESTO = { # mdm modern day mod Estonia
+mdm_ESTO_today = { # mdm modern day mod Estonia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 0 115 207 }
 	color2 = "black"
 	color3 = "white"
 }
 
-mdm_ESWA = { # mdm modern day mod Eswatini
+mdm_ESWA_today = { # mdm modern day mod Eswatini
 	pattern = "mdm_pattern_horizontal_stripes_eswatini.dds"
 	color1 = rgb { 179 4 4 }
 	color2 = rgb { 60 94 186 }
@@ -754,7 +754,7 @@ mdm_ESWA = { # mdm modern day mod Eswatini
 	}
 }
 
-mdm_ETH = { # mdm modern day mod Ethiopia
+mdm_ETH_today = { # mdm modern day mod Ethiopia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 1 138 44 }
 	color2 = rgb { 252 222 2 }
@@ -773,7 +773,7 @@ mdm_ETH = { # mdm modern day mod Ethiopia
 	}
 }
 
-mdm_ETIM = { # mdm modern day mod Timor-Leste
+mdm_ETIM_today = { # mdm modern day mod Timor-Leste
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 219 36 22 }
 
@@ -794,7 +794,7 @@ mdm_ETIM = { # mdm modern day mod Timor-Leste
 	}
 }
 
-mdm_FIJI = { # mdm modern day mod Fiji
+mdm_FIJI_today = { # mdm modern day mod Fiji
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 98 182 230 }
 
@@ -809,7 +809,7 @@ mdm_FIJI = { # mdm modern day mod Fiji
 	}
 }
 
-mdm_FIN = { # mdm modern day mod Finland
+mdm_FIN_today = { # mdm modern day mod Finland
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 
@@ -819,21 +819,21 @@ mdm_FIN = { # mdm modern day mod Finland
 	}
 }
 
-mdm_FRA = { # mdm modern day mod France
+mdm_FRA_today = { # mdm modern day mod France
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 0 33 83 }
 	color2 = "white"
 	color3 = rgb { 207 8 33 }
 }
 
-mdm_GABO = { # mdm modern day mod Gabon
+mdm_GABO_today = { # mdm modern day mod Gabon
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 0 158 96 }
 	color2 = rgb { 252 209 22 }
 	color3 = rgb { 58 117 196 }
 }
 
-mdm_GAMB = { # mdm modern day mod Gambia
+mdm_GAMB_today = { # mdm modern day mod Gambia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 207 8 33 }
 	color2 = rgb { 4 22 141 }
@@ -845,7 +845,7 @@ mdm_GAMB = { # mdm modern day mod Gambia
 	}
 }
 
-mdm_GBIS = { # mdm modern day mod Guinea-Bissau
+mdm_GBIS_today = { # mdm modern day mod Guinea-Bissau
 	pattern = "mdm_pattern_left_third_horizontal_split.dds"
 	color1 = rgb { 206 17 38 }
 	color2 = rgb { 252 209 22 }
@@ -858,7 +858,7 @@ mdm_GBIS = { # mdm modern day mod Guinea-Bissau
 	}
 }
 
-mdm_GBR = { # mdm modern day mod Great Britain
+mdm_GBR_today = { # mdm modern day mod Great Britain
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 27 105 }
 
@@ -869,7 +869,7 @@ mdm_GBR = { # mdm modern day mod Great Britain
 	}
 }
 
-mdm_GEO = { # mdm modern day mod Georgia
+mdm_GEO_today = { # mdm modern day mod Georgia
 	pattern = "mdm_pattern_cross_georgia.dds"
 	color1 = "white"
 	color2 = rgb { 255 0 0 }
@@ -884,14 +884,14 @@ mdm_GEO = { # mdm modern day mod Georgia
 	}
 }
 
-mdm_GER = { # mdm modern day mod Germany
+mdm_GER_today = { # mdm modern day mod Germany
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "black"
 	color2 = rgb { 255 0 0 }
 	color3 = rgb { 255 205 0 }
 }
 
-mdm_GHAN = { # mdm modern day mod Ghana
+mdm_GHAN_today = { # mdm modern day mod Ghana
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 207 9 33 }
 	color2 = rgb { 252 210 15 }
@@ -904,13 +904,13 @@ mdm_GHAN = { # mdm modern day mod Ghana
 	}
 }
 
-mdm_GRE = { # mdm modern day mod Greece
+mdm_GRE_today = { # mdm modern day mod Greece
 	pattern = "mdm_pattern_greece.dds"
 	color1 = rgb { 5 94 176}
 	color2 = "white"
 }
 
-mdm_GREN = { # mdm modern day mod Grenada
+mdm_GREN_today = { # mdm modern day mod Grenada
 	pattern = "mdm_pattern_grenada.dds"
 	color1 = rgb { 252 210 14 }
 	color2 = rgb { 0 123 94 }
@@ -942,7 +942,7 @@ mdm_GREN = { # mdm modern day mod Grenada
 	}
 }
 
-mdm_GUAT = { # mdm modern day mod Guatemala
+mdm_GUAT_today = { # mdm modern day mod Guatemala
 	pattern = "pattern_vertical_bar_01.dds"
 	color1 = rgb { 71 152 209 }
 	color2 = "white"
@@ -953,14 +953,14 @@ mdm_GUAT = { # mdm modern day mod Guatemala
 	}
 }
 
-mdm_GUIN = { # mdm modern day mod Guinea
+mdm_GUIN_today = { # mdm modern day mod Guinea
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 207 8 33 }
 	color2 = rgb { 252 210 14 }
 	color3 = rgb { 0 149 96 }
 }
 
-mdm_GUYA = { # mdm modern day mod Guyana
+mdm_GUYA_today = { # mdm modern day mod Guyana
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 37 148 106 }
 
@@ -977,13 +977,13 @@ mdm_GUYA = { # mdm modern day mod Guyana
 	}
 }
 
-mdm_HAB = { # mdm modern day mod Austria
+mdm_HAB_today = { # mdm modern day mod Austria
 	pattern = "pattern_horizontal_bar_01.dds"
 	color1 = rgb { 200 16 46 }
 	color2 = "white"
 }
 
-mdm_HAIT = { # mdm modern day mod Haiti
+mdm_HAIT_today = { # mdm modern day mod Haiti
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = rgb { 0 26 160 }
 	color2 = rgb { 211 8 49 }
@@ -994,7 +994,7 @@ mdm_HAIT = { # mdm modern day mod Haiti
 	}
 }
 
-mdm_HOND = { # mdm modern day mod Honduras
+mdm_HOND_today = { # mdm modern day mod Honduras
 	pattern = "pattern_horizontal_bar_01.dds"
 	color1 = rgb { 0 189 229 }
 	color2 = "white"
@@ -1010,14 +1010,14 @@ mdm_HOND = { # mdm modern day mod Honduras
 	}
 }
 
-mdm_HUN = { # mdm modern day mod Hungary
+mdm_HUN_today = { # mdm modern day mod Hungary
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 206 41 57 }
 	color2 = "white"
 	color3 = rgb { 71 112 80 }
 }
 
-mdm_ICE = { # mdm modern day mod Iceland
+mdm_ICE_today = { # mdm modern day mod Iceland
 	pattern = "pattern_solid.dds"
 	color1 = { 0 81 157 }
 	
@@ -1028,7 +1028,7 @@ mdm_ICE = { # mdm modern day mod Iceland
 	}
 }
 
-mdm_INDI = { # mdm modern day mod India
+mdm_INDI_today = { # mdm modern day mod India
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 255 104 26 }
 	color2 = "white"
@@ -1041,13 +1041,13 @@ mdm_INDI = { # mdm modern day mod India
 	}
 }
 
-mdm_INDN = { # mdm modern day mod Indonesia
+mdm_INDN_today = { # mdm modern day mod Indonesia
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = rgb { 255 0 0 }
 	color2 = "white"
 }
 
-mdm_IRAN = { # mdm modern day mod Iran
+mdm_IRAN_today = { # mdm modern day mod Iran
 	pattern = "mdm_pattern_tricolor_horizontal_iran.dds"
 	color1 = rgb { 29 160 62 }
 	color2 = "white"
@@ -1060,7 +1060,7 @@ mdm_IRAN = { # mdm modern day mod Iran
 	}
 }
 
-mdm_IRAQ = { # mdm modern day mod Iraq
+mdm_IRAQ_today = { # mdm modern day mod Iraq
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 206 8 32 }
 	color2 = "white"
@@ -1073,14 +1073,14 @@ mdm_IRAQ = { # mdm modern day mod Iraq
 	}
 }
 
-mdm_IRE = { # mdm modern day mod Ireland
+mdm_IRE_today = { # mdm modern day mod Ireland
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 14 156 98 }
 	color2 = "white"
 	color3 = rgb { 255 137 60 }
 }
 
-mdm_ISRA = { # mdm modern day mod Israel
+mdm_ISRA_today = { # mdm modern day mod Israel
 	pattern = "mdm_pattern_horizontal_stripes_israel.dds"
 	color1 = "white"
 	color2 = rgb { 0 53 185 }
@@ -1092,7 +1092,7 @@ mdm_ISRA = { # mdm modern day mod Israel
 	}
 }
 
-mdm_ITA = { # mdm modern day mod Italy
+mdm_ITA_today = { # mdm modern day mod Italy
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 0 147 68 }
 	color2 = "white"
@@ -1100,21 +1100,21 @@ mdm_ITA = { # mdm modern day mod Italy
 
 }
 
-mdm_IVOR = { # mdm modern day mod Côte d'Ivoire
+mdm_IVOR_today = { # mdm modern day mod Côte d'Ivoire
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 255 131 0 }
 	color2 = "white"
 	color3 = rgb { 0 155 66 }
 }
 
-mdm_JAMA = { # mdm modern day mod Jamaica
+mdm_JAMA_today = { # mdm modern day mod Jamaica
 	pattern = "mdm_pattern_jamaica.dds"
 	color1 = rgb { 0 120 71 }
 	color2 = rgb { 41 36 33 }
 	color3 = rgb { 255 185 21 }
 }
 
-mdm_JAP = { # mdm modern day mod Japan
+mdm_JAP_today = { # mdm modern day mod Japan
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 
@@ -1125,7 +1125,7 @@ mdm_JAP = { # mdm modern day mod Japan
 	}
 }
 
-mdm_JORD = { # mdm modern day mod Jordan
+mdm_JORD_today = { # mdm modern day mod Jordan
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "black"
 	color2 = "white"
@@ -1143,7 +1143,7 @@ mdm_JORD = { # mdm modern day mod Jordan
 	}
 }
 
-mdm_KAZK = { # mdm modern day mod Kazakhstan
+mdm_KAZK_today = { # mdm modern day mod Kazakhstan
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 173 195 }
 	colored_emblem = {
@@ -1159,7 +1159,7 @@ mdm_KAZK = { # mdm modern day mod Kazakhstan
 	}
 }
 
-mdm_KENY = { # mdm modern day mod Kenya
+mdm_KENY_today = { # mdm modern day mod Kenya
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "black"
 	color2 = rgb { 188 0 0 }
@@ -1179,7 +1179,7 @@ mdm_KENY = { # mdm modern day mod Kenya
 	}
 }
 
-mdm_KHM = { # mdm modern day mod Cambodia
+mdm_KHM_today = { # mdm modern day mod Cambodia
 	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
 	color1 = rgb { 225 0 32 }
 	color2 = rgb { 0 42 162 }
@@ -1190,7 +1190,7 @@ mdm_KHM = { # mdm modern day mod Cambodia
 	}
 }
 
-mdm_KIRI = { # mdm modern day mod Kiribati
+mdm_KIRI_today = { # mdm modern day mod Kiribati
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 201 8 8 }
 
@@ -1215,7 +1215,7 @@ mdm_KIRI = { # mdm modern day mod Kiribati
 	}
 }
 
-mdm_KOSO = { # mdm modern day mod Kosovo
+mdm_KOSO_today = { # mdm modern day mod Kosovo
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 31 73 166 }
 
@@ -1231,7 +1231,7 @@ mdm_KOSO = { # mdm modern day mod Kosovo
 	}
 }
 
-mdm_KUWA = { # mdm modern day mod Kuwait
+mdm_KUWA_today = { # mdm modern day mod Kuwait
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 0 123 58 }
 	color2 = "white"
@@ -1243,7 +1243,7 @@ mdm_KUWA = { # mdm modern day mod Kuwait
 	}
 }
 
-mdm_KYRG = { # mdm modern day mod Kyrgyzstan
+mdm_KYRG_today = { # mdm modern day mod Kyrgyzstan
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 255 0 0 }
 
@@ -1254,7 +1254,7 @@ mdm_KYRG = { # mdm modern day mod Kyrgyzstan
 	}		
 }
 
-mdm_LAOS = { # mdm modern day mod Laos
+mdm_LAOS_today = { # mdm modern day mod Laos
 	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
 	color1 = rgb { 0 35 104 }
 	color2 = rgb { 207 8 33 }
@@ -1266,13 +1266,13 @@ mdm_LAOS = { # mdm modern day mod Laos
 	}
 }
 
-mdm_LATV = { # mdm modern day mod Latvia
+mdm_LATV_today = { # mdm modern day mod Latvia
 	pattern = "mdm_pattern_middle_stripe.dds"
 	color1 = rgb { 158 29 50 }
 	color2 = "white"
 }
 
-mdm_LEBA = { # mdm modern day mod Lebanon
+mdm_LEBA_today = { # mdm modern day mod Lebanon
 	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
 	color1 = "white"
 	color2 = rgb { 212 14 31 }
@@ -1284,7 +1284,7 @@ mdm_LEBA = { # mdm modern day mod Lebanon
 	}
 }
 
-mdm_LESO = { # mdm modern day mod Lesotho
+mdm_LESO_today = { # mdm modern day mod Lesotho
 	pattern = "mdm_pattern_tricolor_horizontal_lesotho.dds"
 	color1 = rgb { 0 12 138 }
 	color2 = "white"
@@ -1297,7 +1297,7 @@ mdm_LESO = { # mdm modern day mod Lesotho
 	}
 }
 
-mdm_LIBE = { # mdm modern day mod Liberia
+mdm_LIBE_today = { # mdm modern day mod Liberia
 	pattern = "mdm_pattern_liberia.dds"
 	color1 = rgb { 192 3 44 }
 	color2 = "white"
@@ -1310,7 +1310,7 @@ mdm_LIBE = { # mdm modern day mod Liberia
 	}
 }
 
-mdm_LIBY = { # mdm modern day mod Libya
+mdm_LIBY_today = { # mdm modern day mod Libya
 	pattern = "mdm_pattern_tricolor_horizontal_libya.dds"
 	color1 = rgb { 232 0 11 }
 	color2 = "black"
@@ -1323,41 +1323,41 @@ mdm_LIBY = { # mdm modern day mod Libya
 	}
 }
 
-mdm_LIT = { # mdm modern day mod Lithuania
+mdm_LIT_today = { # mdm modern day mod Lithuania
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 253 185 19 }
 	color2 = rgb { 0 106 68 }
 	color3 = rgb { 193 39 45 }
 }
 
-mdm_LUX = { # mdm modern day mod Luxembourg
+mdm_LUX_today = { # mdm modern day mod Luxembourg
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 239 48 62 }
 	color2 = "white"
 	color3 = rgb { 0 165 225 }
 }
 
-mdm_MACE = { # mdm modern day mod North Macedonia
+mdm_MACE_today = { # mdm modern day mod North Macedonia
 	pattern = "mdm_pattern_sun_north_macedonia.dds"
 	color1 = rgb { 217 27 33 }
 	color2 = rgb { 248 234 42 }
 }
 
-mdm_MADA = { # mdm modern day mod Madagascar
+mdm_MADA_today = { # mdm modern day mod Madagascar
 	pattern = "mdm_pattern_left_third_horizontal_split.dds"
 	color1 = "white"
 	color2 = rgb { 249 64 55 }
 	color3 = rgb { 0 133 58 }
 }
 
-mdm_MAL = { # mdm modern day mod Mali
+mdm_MAL_today = { # mdm modern day mod Mali
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 20 181 58 }
 	color2 = rgb { 252 209 22 }
 	color3 = rgb { 206 17 38 }
 }
 
-mdm_MALA = { # mdm modern day mod Malaysia
+mdm_MALA_today = { # mdm modern day mod Malaysia
 	pattern = "mdm_pattern_horizontal_stripes_14.dds"
 	color1 = rgb { 205 0 0 }
 	color2 = "white"
@@ -1375,7 +1375,7 @@ mdm_MALA = { # mdm modern day mod Malaysia
 	}
 }
 
-mdm_MALT = { # mdm modern day mod Malta
+mdm_MALT_today = { # mdm modern day mod Malta
 	pattern = "pattern_vertical_split_01.dds"
 	color1 = "white"
 	color2 = rgb { 208 12 39 }
@@ -1389,7 +1389,7 @@ mdm_MALT = { # mdm modern day mod Malta
 	}
 }
 
-mdm_MALW = { # mdm modern day mod Malawi
+mdm_MALW_today = { # mdm modern day mod Malawi
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "black"
 	color2 = rgb { 207 8 33 }
@@ -1402,7 +1402,7 @@ mdm_MALW = { # mdm modern day mod Malawi
 	}
 }
 
-mdm_MARS = { # mdm modern day mod Marshall Islands
+mdm_MARS_today = { # mdm modern day mod Marshall Islands
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 53 148 }
 
@@ -1419,7 +1419,7 @@ mdm_MARS = { # mdm modern day mod Marshall Islands
 	}
 }
 
-mdm_MART = { # mdm modern day mod Mauritius
+mdm_MART_today = { # mdm modern day mod Mauritius
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 209 22 25 }
 
@@ -1442,7 +1442,7 @@ mdm_MART = { # mdm modern day mod Mauritius
 	}
 }
 
-mdm_MAUR = { # mdm modern day mod Mauritania
+mdm_MAUR_today = { # mdm modern day mod Mauritania
 	pattern = "mdm_pattern_border_top_and_bottom_1-3-1.dds"
 	color1 = rgb { 0 171 92 }
 	color2 = rgb { 209 22 25 }
@@ -1454,7 +1454,7 @@ mdm_MAUR = { # mdm modern day mod Mauritania
 	}
 }
 
-mdm_MEX = { # mdm modern day mod Mexico
+mdm_MEX_today = { # mdm modern day mod Mexico
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 0 104 69 }
 	color2 = "white"
@@ -1466,7 +1466,7 @@ mdm_MEX = { # mdm modern day mod Mexico
 	}
 }
 
-mdm_MGE = { # mdm modern day mod Mongolia
+mdm_MGE_today = { # mdm modern day mod Mongolia
 	pattern = "pattern_vertical_bar_01.dds"
 	color1 = rgb { 219 26 45 }
 	color2 = rgb { 0 102 179 }
@@ -1478,7 +1478,7 @@ mdm_MGE = { # mdm modern day mod Mongolia
 	}
 }
 
-mdm_MICR = { # mdm modern day mod Micronesia
+mdm_MICR_today = { # mdm modern day mod Micronesia
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 118 180 222 }
 
@@ -1489,7 +1489,7 @@ mdm_MICR = { # mdm modern day mod Micronesia
 	}
 }
 
-mdm_MOLD = { # mdm modern day mod Moldova
+mdm_MOLD_today = { # mdm modern day mod Moldova
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 0 70 174 }
 	color2 = rgb { 255 210 0 }
@@ -1501,7 +1501,7 @@ mdm_MOLD = { # mdm modern day mod Moldova
 	}
 }
 
-mdm_MONT = { # mdm modern day mod Montenegro
+mdm_MONT_today = { # mdm modern day mod Montenegro
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 228 0 0 }
 
@@ -1516,7 +1516,7 @@ mdm_MONT = { # mdm modern day mod Montenegro
 	}
 }
 
-mdm_MOR = { # mdm modern day mod Morocco
+mdm_MOR_today = { # mdm modern day mod Morocco
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 183 49 44 }
 	colored_emblem = {
@@ -1526,7 +1526,7 @@ mdm_MOR = { # mdm modern day mod Morocco
 	}
 }
 
-mdm_MOZA = { # mdm modern day mod Mozambique
+mdm_MOZA_today = { # mdm modern day mod Mozambique
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 0 113 104 }
 	color2 = "black"
@@ -1549,7 +1549,7 @@ mdm_MOZA = { # mdm modern day mod Mozambique
 	}
 }
 
-mdm_MYAN = { # mdm modern day mod Myanmar
+mdm_MYAN_today = { # mdm modern day mod Myanmar
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 254 204 0 }
 	color2 = rgb { 49 180 48 }
@@ -1562,7 +1562,7 @@ mdm_MYAN = { # mdm modern day mod Myanmar
 	}
 }
 
-mdm_NAMI = { # mdm modern day mod Namibia
+mdm_NAMI_today = { # mdm modern day mod Namibia
 	pattern = "pattern_diagonal_split_03.dds"
 	color1 = rgb { 0 43 108 }
 	color2 = rgb { 0 155 66 }
@@ -1580,14 +1580,14 @@ mdm_NAMI = { # mdm modern day mod Namibia
 	}
 }
 
-mdm_NED = { # mdm modern day mod Netherlands
+mdm_NED_today = { # mdm modern day mod Netherlands
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 174 28 40 }
 	color2 = "white"
 	color3 = rgb { 33 70 139 }
 }
 
-mdm_NICR = { # mdm modern day mod Nicaragua
+mdm_NICR_today = { # mdm modern day mod Nicaragua
 	pattern = "pattern_horizontal_bar_01.dds"
 	color1 = rgb { 0 103 199 }
 	color2 = "white"
@@ -1598,7 +1598,7 @@ mdm_NICR = { # mdm modern day mod Nicaragua
 	}
 }
 
-mdm_NIGE = { # mdm modern day mod Niger
+mdm_NIGE_today = { # mdm modern day mod Niger
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 225 81 1 }
 	color2 = "white"
@@ -1611,13 +1611,13 @@ mdm_NIGE = { # mdm modern day mod Niger
 	}
 }
 
-mdm_NIGR = { # mdm modern day mod Nigeria
+mdm_NIGR_today = { # mdm modern day mod Nigeria
 	pattern = "pattern_vertical_bar_01.dds"
 	color1 = rgb { 0 136 80 }
 	color2 = "white"
 }
 
-mdm_NKOR = { # mdm modern day mod North Korea
+mdm_NKOR_today = { # mdm modern day mod North Korea
 	pattern = "mdm_pattern_north_korea.dds"
 	color1 = rgb { 237 23 32 }
 	color2 = rgb { 0 76 163 }
@@ -1630,7 +1630,7 @@ mdm_NKOR = { # mdm modern day mod North Korea
 	}
 }
 
-mdm_NOR = { # mdm modern day mod Norway
+mdm_NOR_today = { # mdm modern day mod Norway
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 187 4 43 }
 
@@ -1641,7 +1641,7 @@ mdm_NOR = { # mdm modern day mod Norway
 	}
 }
 
-mdm_NPL = { # mdm modern day mod Nepal
+mdm_NPL_today = { # mdm modern day mod Nepal
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 0 0 }
 
@@ -1653,7 +1653,7 @@ mdm_NPL = { # mdm modern day mod Nepal
 	}
 }
 
-mdm_NZEA = { # mdm modern day mod New Zealand
+mdm_NZEA_today = { # mdm modern day mod New Zealand
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 27 105 }
 
@@ -1673,7 +1673,7 @@ mdm_NZEA = { # mdm modern day mod New Zealand
 	}
 }
 
-mdm_OMA = { # mdm modern day mod Oman
+mdm_OMA_today = { # mdm modern day mod Oman
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "white"
 	color2 = rgb { 220 16 20 }
@@ -1692,7 +1692,7 @@ mdm_OMA = { # mdm modern day mod Oman
 	}
 }
 
-mdm_PAKI = { # mdm modern day mod Pakistan
+mdm_PAKI_today = { # mdm modern day mod Pakistan
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 63 22 }
 
@@ -1709,7 +1709,7 @@ mdm_PAKI = { # mdm modern day mod Pakistan
 	}
 }
 
-mdm_PALE = { # mdm modern day mod Palestine
+mdm_PALE_today = { # mdm modern day mod Palestine
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "black"
 	color2 = "white"
@@ -1721,7 +1721,7 @@ mdm_PALE = { # mdm modern day mod Palestine
 	}
 }
 
-mdm_PALU = { # mdm modern day mod Palau
+mdm_PALU_today = { # mdm modern day mod Palau
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 154 255 }
 
@@ -1732,7 +1732,7 @@ mdm_PALU = { # mdm modern day mod Palau
 	}
 }
 
-mdm_PANA = { # mdm modern day mod Panama
+mdm_PANA_today = { # mdm modern day mod Panama
 	pattern = "mdm_pattern_panama.dds"
 	color1 = "white"
 	color2 = rgb { 219 10 19 }
@@ -1751,7 +1751,7 @@ mdm_PANA = { # mdm modern day mod Panama
 	}
 }
 
-mdm_PAPU = { # mdm modern day mod Papua New Guinea
+mdm_PAPU_today = { # mdm modern day mod Papua New Guinea
 	pattern = "pattern_diagonal_split_01.dds"
 	color1 = rgb { 201 8 42 }
 	color2 = "black"
@@ -1773,7 +1773,7 @@ mdm_PAPU = { # mdm modern day mod Papua New Guinea
 	}
 }
 
-mdm_PARA = { # mdm modern day mod Paraguay
+mdm_PARA_today = { # mdm modern day mod Paraguay
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 214 39 24 }
 	color2 = "white"
@@ -1785,13 +1785,13 @@ mdm_PARA = { # mdm modern day mod Paraguay
 	}
 }
 
-mdm_PERU = { # mdm modern day mod Peru
+mdm_PERU_today = { # mdm modern day mod Peru
 	pattern = "pattern_vertical_bar_01.dds"
 	color1 = rgb { 218 8 30 }
 	color2 = "white"
 }
 
-mdm_PHIL = { # mdm modern day mod Philippines
+mdm_PHIL_today = { # mdm modern day mod Philippines
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = rgb { 0 53 169 }
 	color2 = rgb { 207 8 33 }
@@ -1808,13 +1808,13 @@ mdm_PHIL = { # mdm modern day mod Philippines
 	}
 }
 
-mdm_POL = { # mdm modern day mod Poland
+mdm_POL_today = { # mdm modern day mod Poland
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = "white"
 	color2 = rgb { 216 12 19 }
 }
 
-mdm_POR = { # mdm modern day mod Portugal
+mdm_POR_today = { # mdm modern day mod Portugal
 	pattern = "mdm_pattern_two_fifth_left.dds"
 	color1 = rgb { 0 96 50 }
 	color2 = rgb { 238 22 31 }
@@ -1825,20 +1825,20 @@ mdm_POR = { # mdm modern day mod Portugal
 	}
 }
 
-mdm_QATA = { # mdm modern day mod Qatar
+mdm_QATA_today = { # mdm modern day mod Qatar
 	pattern = "mdm_pattern_qatar.dds"
 	color1 = "white"
 	color2 = rgb { 139 13 53 }
 }
 
-mdm_RMN = { # mdm modern day mod Romania
+mdm_RMN_today = { # mdm modern day mod Romania
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 0 43 127 }
 	color2 = rgb { 252 209 22 }
 	color3 = rgb { 206 17 38 }
 }
 
-mdm_RUS = { # mdm modern day mod Russia
+mdm_RUS_today = { # mdm modern day mod Russia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "white"
 	color2 = rgb { 0 50 160 }
@@ -1852,7 +1852,7 @@ mdm_RUS = { # mdm modern day mod Russia
 	}
 }
 
-mdm_RWA = { # mdm modern day mod Rwanda
+mdm_RWA_today = { # mdm modern day mod Rwanda
 	pattern = "mdm_pattern_tricolor_horizontal_2-1-1.dds"
 	color1 = rgb { 0 165 225 }
 	color2 = rgb { 250 211 0 }
@@ -1865,7 +1865,7 @@ mdm_RWA = { # mdm modern day mod Rwanda
 	}
 }
 
-mdm_SAFR = { # mdm modern day mod South Africa
+mdm_SAFR_today = { # mdm modern day mod South Africa
 	pattern = "mdm_pattern_tricolor_hoist_triangle.dds"
 	color1 = "black"
 	color2 = rgb { 255 57 45}
@@ -1879,7 +1879,7 @@ mdm_SAFR = { # mdm modern day mod South Africa
 	}
 }
 
-mdm_SAM = { # mdm modern day mod Samoa
+mdm_SAM_today = { # mdm modern day mod Samoa
 	pattern = "pattern_canton_01.dds"
 	color1 = rgb { 207 8 33 }
 	color2 = rgb { 0 39 128 }
@@ -1895,7 +1895,7 @@ mdm_SAM = { # mdm modern day mod Samoa
 	}
 }
 
-mdm_SAUD = { # mdm modern day mod Saudi Arabia
+mdm_SAUD_today = { # mdm modern day mod Saudi Arabia
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 83 44 }
 
@@ -1906,7 +1906,7 @@ mdm_SAUD = { # mdm modern day mod Saudi Arabia
 	}
 }
 
-mdm_SENE = { # mdm modern day mod Senegal
+mdm_SENE_today = { # mdm modern day mod Senegal
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 0 134 61 }
 	color2 = rgb { 253 240 64 }
@@ -1919,7 +1919,7 @@ mdm_SENE = { # mdm modern day mod Senegal
 	}
 }
 
-mdm_SER = { # mdm modern day mod Serbia
+mdm_SER_today = { # mdm modern day mod Serbia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 199 51 57 }
 	color2 = rgb { 4 62 119 }
@@ -1931,7 +1931,7 @@ mdm_SER = { # mdm modern day mod Serbia
 	}
 }
 
-mdm_SEYC = { # mdm modern day mod Seychelles
+mdm_SEYC_today = { # mdm modern day mod Seychelles
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 0 0 }
 
@@ -1961,14 +1961,14 @@ mdm_SEYC = { # mdm modern day mod Seychelles
 	}
 }
 
-mdm_SIA = { # mdm modern day mod Thailand
+mdm_SIA_today = { # mdm modern day mod Thailand
 	pattern = "mdm_pattern_thailand.dds"
 	color1 = rgb { 45 42 74 }
 	color2 = rgb { 244 245 248 }
 	color3 = rgb { 165 25 49 }
 }
 
-mdm_SKNE = { # mdm modern day mod St. Kitts and Nevis
+mdm_SKNE_today = { # mdm modern day mod St. Kitts and Nevis
 	pattern = "pattern_diagonal_split_03.dds"
 	color1 = rgb { 0 152 54 }
 	color2 = rgb { 201 8 42 }
@@ -1987,7 +1987,7 @@ mdm_SKNE = { # mdm modern day mod St. Kitts and Nevis
 	}
 }
 
-mdm_SKOR = { # mdm modern day mod South Korea
+mdm_SKOR_today = { # mdm modern day mod South Korea
 	pattern = "pattern_solid.dds"
 	color1 = "white"
 
@@ -2000,14 +2000,14 @@ mdm_SKOR = { # mdm modern day mod South Korea
 	}
 }
 
-mdm_SLEO = { # mdm modern day mod Sierra Leone
+mdm_SLEO_today = { # mdm modern day mod Sierra Leone
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 24 182 55 }
 	color2 = "white"
 	color3 = rgb { 0 115 199 }
 }
 
-mdm_SLOK = { # mdm modern day mod Slovakia
+mdm_SLOK_today = { # mdm modern day mod Slovakia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "white"
 	color2 = rgb { 32 73 166 }
@@ -2022,7 +2022,7 @@ mdm_SLOK = { # mdm modern day mod Slovakia
 	}
 }
 
-mdm_SLOV = { # mdm modern day mod Slovenia
+mdm_SLOV_today = { # mdm modern day mod Slovenia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "white"
 	color2 = rgb { 0 0 255 }
@@ -2034,7 +2034,7 @@ mdm_SLOV = { # mdm modern day mod Slovenia
 	}
 }
 
-mdm_SLUC = { # mdm modern day mod St. Lucia
+mdm_SLUC_today = { # mdm modern day mod St. Lucia
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 102 205 255 }
 
@@ -2047,7 +2047,7 @@ mdm_SLUC = { # mdm modern day mod St. Lucia
 	}
 }
 
-mdm_SNG = { # mdm modern day mod Singapore
+mdm_SNG_today = { # mdm modern day mod Singapore
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = rgb { 238 36 54 }
 	color2 = "white"
@@ -2059,7 +2059,7 @@ mdm_SNG = { # mdm modern day mod Singapore
 	}
 }
 
-mdm_SOLO = { # mdm modern day mod Solomon Islands
+mdm_SOLO_today = { # mdm modern day mod Solomon Islands
 	pattern = "mdm_pattern_diagonal_stripe_solomon_islands.dds"
 	color1 = rgb { 0 80 187 }
 	color2 = rgb { 252 210 14 }
@@ -2076,7 +2076,7 @@ mdm_SOLO = { # mdm modern day mod Solomon Islands
 	}
 }
 
-mdm_SOMA = { # mdm modern day mod Somalia
+mdm_SOMA_today = { # mdm modern day mod Somalia
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 63 144 223 }
 
@@ -2087,7 +2087,7 @@ mdm_SOMA = { # mdm modern day mod Somalia
 	}
 }
 
-mdm_SOML = { # mdm modern day mod Somaliland
+mdm_SOML_today = { # mdm modern day mod Somaliland
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 0 109 27 }
 	color2 = "white"
@@ -2106,14 +2106,14 @@ mdm_SOML = { # mdm modern day mod Somaliland
 	}
 }
 
-mdm_SOSE = { # mdm modern day mod South Ossetia
+mdm_SOSE_today = { # mdm modern day mod South Ossetia
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "white"
 	color2 = rgb { 222 0 0 }
 	color3 = rgb { 255 207 0 }
 }
 
-mdm_SPA = { # mdm modern day mod Spain
+mdm_SPA_today = { # mdm modern day mod Spain
 	pattern = "mdm_pattern_border_top_and_bottom_1-2-1.dds"
 	color1 = rgb { 250 190 0 }
 	color2 = rgb { 175 13 18 }
@@ -2124,7 +2124,7 @@ mdm_SPA = { # mdm modern day mod Spain
 	}
 }
 
-mdm_SRLA = { # mdm modern day mod Sri Lanka
+mdm_SRLA_today = { # mdm modern day mod Sri Lanka
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 247 183 24 }
 
@@ -2161,7 +2161,7 @@ mdm_SRLA = { # mdm modern day mod Sri Lanka
 	}
 }
 
-mdm_SSUD = { # mdm modern day mod South Sudan
+mdm_SSUD_today = { # mdm modern day mod South Sudan
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = "black"
 	color2 = rgb { 277 26 35 }
@@ -2184,7 +2184,7 @@ mdm_SSUD = { # mdm modern day mod South Sudan
 	}
 }
 
-mdm_STPR = { # mdm modern day mod São Tomé and Príncipe
+mdm_STPR_today = { # mdm modern day mod São Tomé and Príncipe
 	pattern = "mdm_pattern_border_top_and_bottom_2-3-2.dds"
 	color1 = rgb { 255 210 0 }
 	color2 = rgb { 0 152 54 }
@@ -2202,7 +2202,7 @@ mdm_STPR = { # mdm modern day mod São Tomé and Príncipe
 	}
 }
 
-mdm_SUDA = { # mdm modern day mod Sudan
+mdm_SUDA_today = { # mdm modern day mod Sudan
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 211 8 49 }
 	color2 = "white"
@@ -2214,7 +2214,7 @@ mdm_SUDA = { # mdm modern day mod Sudan
 	}
 }
 
-mdm_SURI = { # mdm modern day mod Suriname
+mdm_SURI_today = { # mdm modern day mod Suriname
 	pattern = "mdm_pattern_horizontal_stripes_suriname.dds"
 	color1 = rgb { 181 2 41 }
 	color2 = rgb { 52 127 61 }
@@ -2227,7 +2227,7 @@ mdm_SURI = { # mdm modern day mod Suriname
 	}
 }
 
-mdm_SVGR = { # mdm modern day mod St. Vincent and the Grenadines
+mdm_SVGR_today = { # mdm modern day mod St. Vincent and the Grenadines
 	pattern = "mdm_pattern_tricolor_vertical_1-2-1.dds"
 	color1 = rgb { 0 33 117 }
 	color2 = rgb { 252 209 28 }
@@ -2240,7 +2240,7 @@ mdm_SVGR = { # mdm modern day mod St. Vincent and the Grenadines
 	}
 }
 
-mdm_SWE = { # mdm modern day mod Sweden
+mdm_SWE_today = { # mdm modern day mod Sweden
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 81 148 }
 
@@ -2250,7 +2250,7 @@ mdm_SWE = { # mdm modern day mod Sweden
 	}
 }
 
-mdm_SWI = { # mdm modern day mod Switzerland
+mdm_SWI_today = { # mdm modern day mod Switzerland
 	pattern = "pattern_solid.dds"
 	color1 = { 219 36 22 }
 	
@@ -2261,7 +2261,7 @@ mdm_SWI = { # mdm modern day mod Switzerland
 	}
 }
 
-mdm_SYRI = { # mdm modern day mod Syria
+mdm_SYRI_today = { # mdm modern day mod Syria
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 0 123 58 }
 	color2 = "white"
@@ -2276,7 +2276,7 @@ mdm_SYRI = { # mdm modern day mod Syria
 	}
 }
 
-mdm_TAIW = { # mdm modern day mod Republic of China
+mdm_TAIW_today = { # mdm modern day mod Republic of China
 	pattern = "pattern_canton_01.dds"
 	color1 = rgb { 254 0 0 }
 	color2 = rgb { 0 0 149 }
@@ -2288,7 +2288,7 @@ mdm_TAIW = { # mdm modern day mod Republic of China
 	}
 }
 
-mdm_TAJI = { # mdm modern day mod Tajikistan
+mdm_TAJI_today = { # mdm modern day mod Tajikistan
 	pattern = "mdm_pattern_tricolor_horizontal_tadjikistan.dds"
 	color1 = rgb { 205 0 0 }
 	color2 = "white"
@@ -2301,7 +2301,7 @@ mdm_TAJI = { # mdm modern day mod Tajikistan
 	}
 }
 
-mdm_TANZ = { # mdm modern day mod Tanzania
+mdm_TANZ_today = { # mdm modern day mod Tanzania
 	pattern = "pattern_diagonal_split_03.dds"
 	color1 = rgb { 30 181 58 }
 	color2 = rgb { 0 163 221 }
@@ -2313,7 +2313,7 @@ mdm_TANZ = { # mdm modern day mod Tanzania
 	}
 }
 
-mdm_TOG = { # mdm modern day mod Tonga
+mdm_TOG_today = { # mdm modern day mod Tonga
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 194 0 0 }
 	
@@ -2330,7 +2330,7 @@ mdm_TOG = { # mdm modern day mod Tonga
 	}
 }
 
-mdm_TOGO = { # mdm modern day mod Togo
+mdm_TOGO_today = { # mdm modern day mod Togo
 	pattern = "mdm_pattern_togo.dds"
 	color1 = rgb { 0 106 77 }
 	color2 = rgb { 255 207 0 }
@@ -2343,7 +2343,7 @@ mdm_TOGO = { # mdm modern day mod Togo
 	}
 }
 
-mdm_TRAN = { # mdm modern day mod Transnistria
+mdm_TRAN_today = { # mdm modern day mod Transnistria
 	pattern = "mdm_pattern_border_top_and_bottom_3-2-3.dds"
 	color1 = rgb { 0 154 48 }
 	color2 = rgb { 223 0 0 }
@@ -2355,14 +2355,14 @@ mdm_TRAN = { # mdm modern day mod Transnistria
 	}
 }
 
-mdm_TRTO = { # mdm modern day mod Trinidad and Tobago
+mdm_TRTO_today = { # mdm modern day mod Trinidad and Tobago
 	pattern = "mdm_pattern_diagonal_stripes_trinidad_and_tobago.dds"
 	color1 = rgb { 219 19 50 }
 	color2 = "black"
 	color3 = "white"
 }
 
-mdm_TUKM = { # mdm modern day mod Turkmenistan
+mdm_TUKM_today = { # mdm modern day mod Turkmenistan
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 133 58 }
 
@@ -2378,7 +2378,7 @@ mdm_TUKM = { # mdm modern day mod Turkmenistan
 	}
 }
 
-mdm_TUN = { # mdm modern day mod Tunisia
+mdm_TUN_today = { # mdm modern day mod Tunisia
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 231 0 19 }
 
@@ -2389,7 +2389,7 @@ mdm_TUN = { # mdm modern day mod Tunisia
 	}
 }
 
-mdm_TURK = { # mdm modern day mod Türkiye
+mdm_TURK_today = { # mdm modern day mod Türkiye
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 228 3 16 }
 
@@ -2399,7 +2399,7 @@ mdm_TURK = { # mdm modern day mod Türkiye
 	}
 }
 
-mdm_TUVL = { # mdm modern day mod Tuvalu
+mdm_TUVL_today = { # mdm modern day mod Tuvalu
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 157 223 }
 
@@ -2428,7 +2428,7 @@ mdm_TUVL = { # mdm modern day mod Tuvalu
 	}
 }
 
-mdm_UAEM = { # mdm modern day mod United Arab Emirates
+mdm_UAEM_today = { # mdm modern day mod United Arab Emirates
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 0 133 58 }
 	color2 = "white"
@@ -2441,7 +2441,7 @@ mdm_UAEM = { # mdm modern day mod United Arab Emirates
 	}
 }
 
-mdm_UGAN = { # mdm modern day mod Uganda
+mdm_UGAN_today = { # mdm modern day mod Uganda
 	pattern = "mdm_pattern_uganda.dds"
 	color1 = "black"
 	color2 = rgb { 252 221 0}
@@ -2453,13 +2453,13 @@ mdm_UGAN = { # mdm modern day mod Uganda
 	}
 }
 
-mdm_UKR = { # mdm modern day mod Ukraine
+mdm_UKR_today = { # mdm modern day mod Ukraine
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = rgb { 0 87 183 }
 	color2 = rgb { 255 215 0 }
 }
 
-mdm_USA = { # mdm modern day mod United States
+mdm_USA_today = { # mdm modern day mod United States
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 192 3 44 }
 
@@ -2540,7 +2540,7 @@ mdm_USA = { # mdm modern day mod United States
 	}
 }
 
-mdm_UZBE = { # mdm modern day mod Uzbekistan
+mdm_UZBE_today = { # mdm modern day mod Uzbekistan
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 0 153 204 }
 	color2 = "white"
@@ -2577,7 +2577,7 @@ mdm_UZBE = { # mdm modern day mod Uzbekistan
 	}
 }
 
-mdm_VANU = { # mdm modern day mod Vanuatu
+mdm_VANU_today = { # mdm modern day mod Vanuatu
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = rgb { 211 8 49 }
 	color2 = rgb { 0 150 65 }
@@ -2595,7 +2595,7 @@ mdm_VANU = { # mdm modern day mod Vanuatu
 	}
 }
 
-mdm_VENE = { # mdm modern day mod Venezuela
+mdm_VENE_today = { # mdm modern day mod Venezuela
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 255 205 0 }
 	color2 = rgb { 0 31 126 }
@@ -2608,7 +2608,7 @@ mdm_VENE = { # mdm modern day mod Venezuela
 	}
 }
 
-mdm_VIET = { # mdm modern day mod Vietnam
+mdm_VIET_today = { # mdm modern day mod Vietnam
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 219 32 23 }
 	
@@ -2619,14 +2619,14 @@ mdm_VIET = { # mdm modern day mod Vietnam
 	}
 }
 
-mdm_YEM = { # mdm modern day mod Yemen
+mdm_YEM_today = { # mdm modern day mod Yemen
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 207 8 33 }
 	color2 = "white"
 	color3 = "black"
 }
 
-mdm_ZAMB = { # mdm modern day mod Zambia
+mdm_ZAMB_today = { # mdm modern day mod Zambia
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 12 128 84 }
 
@@ -2646,7 +2646,7 @@ mdm_ZAMB = { # mdm modern day mod Zambia
 	}
 }
 
-mdm_ZMW = { # mdm modern day mod Zimbabwe
+mdm_ZMW_today = { # mdm modern day mod Zimbabwe
 	pattern = "mdm_pattern_zimbabwe.dds"
 	color1 = rgb { 213 0 0 }
 	color2 = rgb { 255 211 0 }
