@@ -3212,6 +3212,13 @@ LIE = { # Liège
 	}
 }
 
+LIEC = { # mdm modern day mod Liechtenstein
+	flag_definition = {
+		coa = mdm_LIEC_today
+		priority = 1
+	}
+}
+
 LIT = { # mdm modern day mod Lithuania
 	flag_definition = {
 		coa = mdm_LIT_today
