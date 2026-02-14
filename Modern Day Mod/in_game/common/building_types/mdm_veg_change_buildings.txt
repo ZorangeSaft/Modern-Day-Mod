@@ -23,27 +23,7 @@ mdm_change_veg_to_jungle = {
 	
 	location_potential = {
 		climate = tropical #can only make jungle in area with enough rain
-		OR = {
-			NOR = { #cant convert to jungle if it is already jungle
-				has_location_modifier = mdm_forest_to_jungle
-				has_location_modifier = mdm_woods_to_jungle
-				has_location_modifier = mdm_grasslands_to_jungle
-				has_location_modifier = mdm_farmland_to_jungle
-				has_location_modifier = mdm_sparse_to_jungle
-				has_location_modifier = mdm_desert_to_jungle
-			}
-			AND = { #can also convert back to jungle if it was once jungle
-				vegetation = jungle
-				OR = {
-					has_location_modifier = mdm_jungle_to_forest
-					has_location_modifier = mdm_jungle_to_woods
-					has_location_modifier = mdm_jungle_to_grasslands
-					has_location_modifier = mdm_jungle_to_farmland
-					has_location_modifier = mdm_jungle_to_sparse
-					has_location_modifier = mdm_jungle_to_desert
-				}
-			}
-		}
+		mdm_is_jungle = no #cant build if it is already jungle
 	}
 
 	unique_production_methods = {
@@ -56,47 +36,10 @@ mdm_change_veg_to_jungle = {
 	on_built = {
 		location = {
 			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				#do nothing, effect already cleared
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				add_location_modifier = mdm_forest_to_jungle
-			}
-			else_if = {
-				limit = {
-					vegetation = woods
-				}
-				add_location_modifier = mdm_woods_to_jungle
-			}
-			else_if = {
-				limit = {
-					vegetation = grasslands
-				}
-				add_location_modifier = mdm_grasslands_to_jungle
-			}
-			else_if = {
-				limit = {
-					vegetation = farmland
-				}
-				add_location_modifier = mdm_farmland_to_jungle
-			}
-			else_if = {
-				limit = {
-					vegetation = sparse
-				}
-				add_location_modifier = mdm_sparse_to_jungle
-			}
-			else_if = {
-				limit = {
-					vegetation = desert
-				}
-				add_location_modifier = mdm_desert_to_jungle
+			mdm_set_veg_to_jungle = yes
+			add_location_modifier = {
+				modifier = mdm_remove_temp_veg_building
+				months = 1
 			}
 		}
 	}
@@ -105,14 +48,7 @@ mdm_change_veg_to_jungle = {
 
 	remove_if = {
 		location = {	
-			OR = {
-					has_location_modifier = mdm_forest_to_jungle
-					has_location_modifier = mdm_woods_to_jungle
-					has_location_modifier = mdm_grasslands_to_jungle
-					has_location_modifier = mdm_farmland_to_jungle
-					has_location_modifier = mdm_sparse_to_jungle
-					has_location_modifier = mdm_desert_to_jungle
-				}
+			has_location_modifier = mdm_remove_temp_veg_building
 		}
 	}
 	
@@ -123,7 +59,7 @@ mdm_change_veg_to_forest = {
 	max_levels = 1
 	pop_type = laborers
 	
-	employment_size = 0.001
+	employment_size = 0.001 
 	category = infrastructure_category
 	
 	megalopolis = yes
@@ -140,31 +76,7 @@ mdm_change_veg_to_forest = {
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		NOR = {
-			climate = arid
-			climate = cold_arid
-		}
-		OR = {
-			NOR = { #cant convert to forest if it is already forest
-				has_location_modifier = mdm_jungle_to_forest
-				has_location_modifier = mdm_woods_to_forest
-				has_location_modifier = mdm_grasslands_to_forest
-				has_location_modifier = mdm_farmland_to_forest
-				has_location_modifier = mdm_sparse_to_forest
-				has_location_modifier = mdm_desert_to_forest
-			}
-			AND = { #can also convert back to forest if it was once forest
-				vegetation = forest
-				OR = {
-					has_location_modifier = mdm_forest_to_jungle
-					has_location_modifier = mdm_forest_to_woods
-					has_location_modifier = mdm_forest_to_grasslands
-					has_location_modifier = mdm_forest_to_farmland
-					has_location_modifier = mdm_forest_to_sparse
-					has_location_modifier = mdm_forest_to_desert
-				}
-			}
-		}
+		mdm_is_forest = no #cant build if it is already forest
 	}
 
 	unique_production_methods = {
@@ -177,48 +89,7 @@ mdm_change_veg_to_forest = {
 	on_built = {
 		location = {
 			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				add_location_modifier = mdm_jungle_to_forest
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				#do nothing, effect already cleared
-			}
-			else_if = {
-				limit = {
-					vegetation = woods
-				}
-				add_location_modifier = mdm_woods_to_forest
-			}
-			else_if = {
-				limit = {
-					vegetation = grasslands
-				}
-				add_location_modifier = mdm_grasslands_to_forest
-			}
-			else_if = {
-				limit = {
-					vegetation = farmland
-				}
-				add_location_modifier = mdm_farmland_to_forest
-			}
-			else_if = {
-				limit = {
-					vegetation = sparse
-				}
-				add_location_modifier = mdm_sparse_to_forest
-			}
-			else_if = {
-				limit = {
-					vegetation = desert
-				}
-				add_location_modifier = mdm_desert_to_forest
-			}
+			mdm_set_veg_to_forest = yes
 		}
 	}
 
@@ -244,7 +115,7 @@ mdm_change_veg_to_woods = {
 	max_levels = 1
 	pop_type = laborers
 	
-	employment_size = mdm_default_employment
+	employment_size = 0.001 
 	category = infrastructure_category
 	
 	megalopolis = yes
@@ -261,15 +132,7 @@ mdm_change_veg_to_woods = {
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		NOR = {
-				has_location_modifier = mdm_jungle_to_woods
-				has_location_modifier = mdm_forest_to_woods
-				vegetation = woods
-				has_location_modifier = mdm_grasslands_to_woods
-				has_location_modifier = mdm_farmland_to_woods
-				has_location_modifier = mdm_sparse_to_woods
-				has_location_modifier = mdm_desert_to_woods
-		}
+		mdm_is_woods = no #cant build if it is already woods
 	}
 
 	unique_production_methods = {
@@ -282,42 +145,7 @@ mdm_change_veg_to_woods = {
 	on_built = {
 		location = {
 			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				add_location_modifier = mdm_jungle_to_woods
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				add_location_modifier = mdm_forest_to_woods
-			}
-			else_if = {
-				limit = {
-					vegetation = grasslands
-				}
-				add_location_modifier = mdm_grasslands_to_woods
-			}
-			else_if = {
-				limit = {
-					vegetation = farmland
-				}
-				add_location_modifier = mdm_farmland_to_woods
-			}
-			else_if = {
-				limit = {
-					vegetation = sparse
-				}
-				add_location_modifier = mdm_sparse_to_woods
-			}
-			else_if = {
-				limit = {
-					vegetation = desert
-				}
-				add_location_modifier = mdm_desert_to_woods
-			}
+			mdm_set_veg_to_woods = yes
 		}
 	}
 
@@ -343,7 +171,7 @@ mdm_change_veg_to_grasslands = {
 	max_levels = 1
 	pop_type = laborers
 	
-	employment_size = mdm_default_employment
+	employment_size = 0.001 
 	category = infrastructure_category
 	
 	megalopolis = yes
@@ -360,15 +188,7 @@ mdm_change_veg_to_grasslands = {
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		NOR = {
-				has_location_modifier = mdm_jungle_to_grasslands
-				has_location_modifier = mdm_forest_to_grasslands
-				has_location_modifier = mdm_woods_to_grasslands
-				vegetation = grasslands
-				has_location_modifier = mdm_farmland_to_grasslands
-				has_location_modifier = mdm_sparse_to_grasslands
-				has_location_modifier = mdm_desert_to_grasslands
-		}
+		mdm_is_grasslands = no #cant build if it is already grasslands
 	}
 
 	unique_production_methods = {
@@ -381,42 +201,7 @@ mdm_change_veg_to_grasslands = {
 	on_built = {
 		location = {
 			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				add_location_modifier = mdm_jungle_to_grasslands
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				add_location_modifier = mdm_forest_to_grasslands
-			}
-			else_if = {
-				limit = {
-					vegetation = woods
-				}
-				add_location_modifier = mdm_woods_to_grasslands
-			}
-			else_if = {
-				limit = {
-					vegetation = farmland
-				}
-				add_location_modifier = mdm_farmland_to_grasslands
-			}
-			else_if = {
-				limit = {
-					vegetation = sparse
-				}
-				add_location_modifier = mdm_sparse_to_grasslands
-			}
-			else_if = {
-				limit = {
-					vegetation = desert
-				}
-				add_location_modifier = mdm_desert_to_grasslands
-			}
+			mdm_set_veg_to_grasslands = yes
 		}
 	}
 
@@ -442,7 +227,7 @@ mdm_change_veg_to_farmland = {
 	max_levels = 1
 	pop_type = laborers
 	
-	employment_size = mdm_default_employment
+	employment_size = 0.001 
 	category = infrastructure_category
 	
 	megalopolis = yes
@@ -460,13 +245,27 @@ mdm_change_veg_to_farmland = {
 	
 	location_potential = {
 		NOR = {
-				has_location_modifier = mdm_jungle_to_farmland
-				has_location_modifier = mdm_forest_to_farmland
-				has_location_modifier = mdm_woods_to_farmland
-				has_location_modifier = mdm_grasslands_to_farmland
-				vegetation = farmland
-				has_location_modifier = mdm_sparse_to_farmland
-				has_location_modifier = mdm_desert_to_farmland
+			climate = arctic #too cold
+			topography = mountains #too mountainous
+			topography = hills #too hilly
+		}
+		mdm_is_farmland = no #cant build if it is already farmland
+		OR = {
+			has_river = yes #needs water
+			AND = {
+				is_adjacent_to_lake = yes #needs water
+				NOT = {
+					any_neighbor_location = {
+						topography = salt_pans #cant farm with salt water
+					}
+				}
+				
+			}
+			topography = wetlands #were very often drained to make farmland
+			AND = {
+				climate = mediterranean #just very good climate for farming
+				topography = flatland #so you cant just build it everywhere mediteranean
+			}
 		}
 	}
 
@@ -480,42 +279,7 @@ mdm_change_veg_to_farmland = {
 	on_built = {
 		location = {
 			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				add_location_modifier = mdm_jungle_to_farmland
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				add_location_modifier = mdm_forest_to_farmland
-			}
-			else_if = {
-				limit = {
-					vegetation = woods
-				}
-				add_location_modifier = mdm_woods_to_farmland
-			}
-			else_if = {
-				limit = {
-					vegetation = grasslands
-				}
-				add_location_modifier = mdm_grasslands_to_farmland
-			}
-			else_if = {
-				limit = {
-					vegetation = sparse
-				}
-				add_location_modifier = mdm_sparse_to_farmland
-			}
-			else_if = {
-				limit = {
-					vegetation = desert
-				}
-				add_location_modifier = mdm_desert_to_farmland
-			}
+			mdm_set_veg_to_farmland = yes
 		}
 	}
 
@@ -541,7 +305,7 @@ mdm_change_veg_to_sparse = {
 	max_levels = 1
 	pop_type = laborers
 	
-	employment_size = mdm_default_employment
+	employment_size = 0.001 
 	category = infrastructure_category
 	
 	megalopolis = yes
@@ -558,15 +322,7 @@ mdm_change_veg_to_sparse = {
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		NOR = {
-				has_location_modifier = mdm_jungle_to_sparse
-				has_location_modifier = mdm_forest_to_sparse
-				has_location_modifier = mdm_woods_to_sparse
-				has_location_modifier = mdm_grasslands_to_sparse
-				has_location_modifier = mdm_farmland_to_sparse
-				vegetation = sparse
-				has_location_modifier = mdm_desert_to_sparse
-		}
+		mdm_is_sparse = no #cant build if it is already sparse
 	}
 
 	unique_production_methods = {
@@ -579,42 +335,7 @@ mdm_change_veg_to_sparse = {
 	on_built = {
 		location = {
 			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				add_location_modifier = mdm_jungle_to_sparse
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				add_location_modifier = mdm_forest_to_sparse
-			}
-			else_if = {
-				limit = {
-					vegetation = woods
-				}
-				add_location_modifier = mdm_woods_to_sparse
-			}
-			else_if = {
-				limit = {
-					vegetation = grasslands
-				}
-				add_location_modifier = mdm_grasslands_to_sparse
-			}
-			else_if = {
-				limit = {
-					vegetation = farmland
-				}
-				add_location_modifier = mdm_farmland_to_sparse
-			}
-			else_if = {
-				limit = {
-					vegetation = desert
-				}
-				add_location_modifier = mdm_desert_to_sparse
-			}
+			mdm_set_veg_to_sparse = yes
 		}
 	}
 
@@ -640,7 +361,7 @@ mdm_change_veg_to_desert = {
 	max_levels = 1
 	pop_type = laborers
 	
-	employment_size = mdm_default_employment
+	employment_size = 0.001 
 	category = infrastructure_category
 	
 	megalopolis = yes
@@ -657,15 +378,7 @@ mdm_change_veg_to_desert = {
 	forbidden_for_estates = yes
 	
 	location_potential = {
-		NOR = {
-				has_location_modifier = mdm_jungle_to_desert
-				has_location_modifier = mdm_forest_to_desert
-				has_location_modifier = mdm_woods_to_desert
-				has_location_modifier = mdm_grasslands_to_desert
-				has_location_modifier = mdm_farmland_to_desert
-				has_location_modifier = mdm_sparse_to_desert
-				vegetation = desert
-		}
+		mdm_is_desert = no #cant build if it is already desert
 	}
 
 	unique_production_methods = {
@@ -678,42 +391,7 @@ mdm_change_veg_to_desert = {
 	on_built = {
 		location = {
 			mdm_clear_location_vegetation_modifier_effect = yes
-			if = {
-				limit = {
-					vegetation = jungle
-				}
-				add_location_modifier = mdm_jungle_to_desert
-			}
-			else_if = {
-				limit = {
-					vegetation = forest
-				}
-				add_location_modifier = mdm_forest_to_desert
-			}
-			else_if = {
-				limit = {
-					vegetation = woods
-				}
-				add_location_modifier = mdm_woods_to_desert
-			}
-			else_if = {
-				limit = {
-					vegetation = grasslands
-				}
-				add_location_modifier = mdm_grasslands_to_desert
-			}
-			else_if = {
-				limit = {
-					vegetation = farmland
-				}
-				add_location_modifier = mdm_farmland_to_desert
-			}
-			else_if = {
-				limit = {
-					vegetation = sparse
-				}
-				add_location_modifier = mdm_sparse_to_desert
-			}
+			mdm_set_veg_to_desert = yes
 		}
 	}
 

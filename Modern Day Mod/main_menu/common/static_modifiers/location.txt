@@ -1,5 +1,12 @@
 ﻿#mdmvegchange
 
+mdm_remove_temp_veg_building = {
+	game_data = {
+		category = location
+		decaying = yes
+	}
+}
+
 #jungle conversion
 
 mdm_jungle_to_forest = {
