@@ -35,7 +35,7 @@ mdm_change_veg_to_jungle = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
+			mdm_clear_veg_effect = yes
 			mdm_set_veg_to_jungle = yes
 			add_location_modifier = {
 				modifier = mdm_remove_temp_veg_building
@@ -88,7 +88,7 @@ mdm_change_veg_to_forest = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
+			mdm_clear_veg_effect = yes
 			mdm_set_veg_to_forest = yes
 		}
 	}
@@ -144,7 +144,7 @@ mdm_change_veg_to_woods = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
+			mdm_clear_veg_effect = yes
 			mdm_set_veg_to_woods = yes
 		}
 	}
@@ -200,7 +200,7 @@ mdm_change_veg_to_grasslands = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
+			mdm_clear_veg_effect = yes
 			mdm_set_veg_to_grasslands = yes
 		}
 	}
@@ -278,7 +278,7 @@ mdm_change_veg_to_farmland = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
+			mdm_clear_veg_effect = yes
 			mdm_set_veg_to_farmland = yes
 		}
 	}
@@ -334,7 +334,7 @@ mdm_change_veg_to_sparse = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
+			mdm_clear_veg_effect = yes
 			mdm_set_veg_to_sparse = yes
 		}
 	}
@@ -390,7 +390,7 @@ mdm_change_veg_to_desert = {
 
 	on_built = {
 		location = {
-			mdm_clear_location_vegetation_modifier_effect = yes
+			mdm_clear_veg_effect = yes
 			mdm_set_veg_to_desert = yes
 		}
 	}

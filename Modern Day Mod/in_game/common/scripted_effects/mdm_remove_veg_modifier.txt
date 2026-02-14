@@ -1,7 +1,7 @@
 ﻿#####mdm modern day mod
 #mdmvegchange
 
-mdm_clear_location_vegetation_modifier_effect = {
+mdm_clear_veg_effect = {
 	remove_location_modifier = mdm_jungle_to_forest
 	remove_location_modifier = mdm_jungle_to_woods
 	remove_location_modifier = mdm_jungle_to_grasslands
