@@ -115,6 +115,8 @@
  LIBE_ADJ: "Liberian"
  LIBY: "Libya"
  LIBY_ADJ: "Libyan"
+ LIEC: "Liechtenstein"
+ LIEC_ADJ: "Liechtensteiner"
  LESO: "Lesotho"
  LESO_ADJ: "Mosotho"
  LATV: "Latvia"
@@ -171,6 +173,8 @@
  SAFR_ADJ: "South African"
  SAUD: "Saudi Arabia"
  SAUD_ADJ: "Saudi Arabian"
+ SANM: "San Marino"
+ SANM_ADJ: "Sammarinese"
  SEYC: "Seychelles"
  SEYC_ADJ: "Seychellois"
  SENE: "Senegal"
@@ -279,6 +283,16 @@
  ETIM_ADJ: "Timorese"
  CHEC: "Chechnya"
  CHEC_ADJ: "Chechen"
+ WSAH: "Western Sahara"
+ WSAH_ADJ: "West Saharan" #really should be Sahrawi but that isnt as colloquial
+ MACA: "Macau"
+ MACA_ADJ: "Macanese"
+ HOKO: "Hong Kong"
+ HOKO_ADJ: "Hong Kongese"
+ COOK: "Cook Islands"
+ COOK_ADJ: "Cook Islander"
+ NIUE: "Niue"
+ NIUE_ADJ: "Niuean"
 
  #####mdm modern day mod
  CASCA: "Cascadia"
@@ -288,3 +302,19 @@
  GER: "Germany"
  GER_ADJ: "German"
  GER_LONG: "Federal Republic of Germany"
+
+ #building based countries
+ EUROP: "European Union"
+ EUROP_ADJ: "European"
+
+ UNITE: "United Nations"
+ UNITE_ADJ: "United Nations"
+
+ VATIC: "Vatican City"
+ VATIC_ADJ: "Vatican"
+
+ SMOOM: "Sovereign Military Order of Malta"
+ SMOOM_ADJ: "Sovereign Military Order of Malta"
+
+ MONAC: "Monaco"
+ MONAC_ADJ: "Monacan"

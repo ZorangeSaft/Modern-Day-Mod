@@ -14,3 +14,47 @@ EUROP = {
 	description_category = diplomatic
 	difficulty = 2
 }
+
+UNITE = {
+	color = rgb {0 159 220} #light blue from their flag
+	color2 = rgb {0 159 220}
+
+	culture_definition = mdm_united_nations_culture
+	religion_definition = catholic
+
+	description_category = diplomatic
+	difficulty = 2
+}
+
+VATIC = {
+	color = rgb { 211 211 211 } #basegame pope color
+	color2 = rgb { 211 211 211 }
+
+	culture_definition = mdm_papal_culture
+	religion_definition = catholic
+
+	description_category = diplomatic
+	difficulty = 2
+}
+
+SMOOM = {
+	color = rgb { 219 10 19 } #red from their flag
+	color2 = rgb { 219 10 19 }
+
+	culture_definition = mdm_smoom_culture
+	religion_definition = catholic
+
+	description_category = diplomatic
+	difficulty = 2
+}
+
+MONAC = {
+	color = rgb { 206 17 38 } #red from their flag
+	color2 = rgb { 206 17 38 }
+
+	culture_definition = mdm_monacan_culture
+	religion_definition = catholic
+
+	description_category = diplomatic
+	difficulty = 2
+}

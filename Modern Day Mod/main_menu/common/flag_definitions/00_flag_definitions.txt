@@ -345,7 +345,7 @@ ABA = { # Alba
 
 ABKH = { # mdm modern day mod Abkhazia
 	flag_definition = {
-		coa = mdm_ABKH
+		coa = mdm_ABKH_today
 		priority = 1
 	}
 }
@@ -395,14 +395,14 @@ ADU = { # Al Andalus
 
 AFGH = { # mdm modern day mod Afghanistan
 	flag_definition = {
-		coa = mdm_AFGH
+		coa = mdm_AFGH_today
 		priority = 1
 	}
 }
 
 ALB = { # mdm modern day mod Albania
 	flag_definition = {
-		coa = mdm_ALB
+		coa = mdm_ALB_today
 		priority = 1
 	}
 }
@@ -441,14 +441,14 @@ ALE = { # Alençon
 
 ALG = { # mdm modern day mod Algeria
 	flag_definition = {
-		coa = mdm_ALG
+		coa = mdm_ALG_today
 		priority = 1
 	}
 }
 
 ANBR = { # mdm modern day mod Antigua and Barbuda
 	flag_definition = {
-		coa = mdm_ANBR
+		coa = mdm_ANBR_today
 		priority = 1
 	}
 }
@@ -528,7 +528,7 @@ ANG = { # Angoulême - with the cadency mark if Orléans exists
 
 ANGO = { # mdm modern day mod Angola
 	flag_definition = {
-		coa = mdm_ANGO
+		coa = mdm_ANGO_today
 		priority = 1
 	}
 }
@@ -581,7 +581,7 @@ ANJ = { # Anjou
 
 ANR = { # mdm modern day mod Andorra
 	flag_definition = {
-		coa = mdm_ANR
+		coa = mdm_ANR_today
 		priority = 1
 	}
 }
@@ -696,14 +696,14 @@ ARB = { # Arborea
 
 ARGE = { # mdm modern day mod Argentina
 	flag_definition = {
-		coa = mdm_ARGE
+		coa = mdm_ARGE_today
 		priority = 1
 	}
 }
 
 ARM = { # mdm modern day mod Armenia
 	flag_definition = {
-		coa = mdm_ARM
+		coa = mdm_ARM_today
 		priority = 1
 	}
 }
@@ -815,14 +815,14 @@ ATR = { # Astrakhan
 
 AUST = { # mdm modern day mod Australia
 	flag_definition = {
-		coa = mdm_AUST
+		coa = mdm_AUST_today
 		priority = 1
 	}
 }
 
 AZER = { # mdm modern day mod Azerbaijan
 	flag_definition = {
-		coa = mdm_AZER
+		coa = mdm_AZER_today
 		priority = 1
 	}
 }
@@ -843,28 +843,28 @@ BAC = { # Bacan
 
 BAHA = { # mdm modern day mod Bahamas
 	flag_definition = {
-		coa = mdm_BAHA
+		coa = mdm_BAHA_today
 		priority = 1
 	}
 }
 
 BAHR = { # mdm modern day mod Bahrain
 	flag_definition = {
-		coa = mdm_BAHR
+		coa = mdm_BAHR_today
 		priority = 1
 	}
 }
 
 BANG = { # mdm modern day mod Bangladesh
 	flag_definition = {
-		coa = mdm_BANG
+		coa = mdm_BANG_today
 		priority = 1
 	}
 }
 
 BARB = { # mdm modern day mod Barbados
 	flag_definition = {
-		coa = mdm_BARB
+		coa = mdm_BARB_today
 		priority = 1
 	}
 }
@@ -905,35 +905,35 @@ BDE = { # Baden
 
 BEI = { # mdm modern day mod Brunei
 	flag_definition = {
-		coa = mdm_BEI
+		coa = mdm_BEI_today
 		priority = 1
 	}
 }
 
 BEL = { # mdm modern day mod Belgium
 	flag_definition = {
-		coa = mdm_BEL
+		coa = mdm_BEL_today
 		priority = 1
 	}
 }
 
 BELA = { # mdm modern day mod Belarus
 	flag_definition = {
-		coa = mdm_BELA
+		coa = mdm_BELA_today
 		priority = 1
 	}
 }
 
 BELI = { # mdm modern day mod Belize
 	flag_definition = {
-		coa = mdm_BELI
+		coa = mdm_BELI_today
 		priority = 1
 	}
 }
 
 BEN = { # mdm modern day mod Benin
 	flag_definition = {
-		coa = mdm_BEN
+		coa = mdm_BEN_today
 		priority = 1
 	}
 }
@@ -954,7 +954,7 @@ BER = { # Berry
 
 BHUT = { # mdm modern day mod Bhutan
 	flag_definition = {
-		coa = mdm_BHUT
+		coa = mdm_BHUT_today
 		priority = 1
 	}
 }
@@ -1059,7 +1059,7 @@ BOH = { # Bohemia
 
 BOLI = { # mdm modern day mod Bolivia
 	flag_definition = {
-		coa = mdm_BOLI
+		coa = mdm_BOLI_today
 		priority = 1
 	}
 }
@@ -1083,14 +1083,14 @@ BOS = { # Bosnia
 
 BOSH = { # mdm modern day mod Bosnia and Herzegovinia
 	flag_definition = {
-		coa = mdm_BOSH
+		coa = mdm_BOSH_today
 		priority = 1
 	}
 }
 
 BOTS = { # mdm modern day mod Botswana
 	flag_definition = {
-		coa = mdm_BOTS
+		coa = mdm_BOTS_today
 		priority = 1
 	}
 }
@@ -1167,7 +1167,7 @@ BRA = { # Brandenburg
 
 BRAZ = { # mdm modern day mod Brazil
 	flag_definition = {
-		coa = mdm_BRAZ
+		coa = mdm_BRAZ_today
 		priority = 1
 	}
 }
@@ -1329,14 +1329,14 @@ BTN = { # Buton
 
 BUFA = { # mdm modern day mod Burkina Faso
 	flag_definition = {
-		coa = mdm_BUFA
+		coa = mdm_BUFA_today
 		priority = 1
 	}
 }
 
 BUL = { # mdm modern day mod Bulgaria
 	flag_definition = {
-		coa = mdm_BUL
+		coa = mdm_BUL_today
 		priority = 1
 	}
 }
@@ -1367,7 +1367,7 @@ BUR = { # Burgundy
 
 BUU = { # mdm modern day mod Burundi
 	flag_definition = {
-		coa = mdm_BUU
+		coa = mdm_BUU_today
 		priority = 1
 	}
 }
@@ -1491,21 +1491,21 @@ BYZ = { # Byzantium
 
 CAFR = { # mdm modern day mod Central African Republic
 	flag_definition = {
-		coa = mdm_CAFR
+		coa = mdm_CAFR_today
 		priority = 1
 	}
 }
 
 CAME = { # mdm modern day mod Cameroon
 	flag_definition = {
-		coa = mdm_CAME
+		coa = mdm_CAME_today
 		priority = 1
 	}
 }
 
 CAN = { # mdm modern day mod Canada
 	flag_definition = {
-		coa = mdm_CAN
+		coa = mdm_CAN_today
 		priority = 1
 	}
 }
@@ -1795,21 +1795,28 @@ CNN = { # Connacht
 
 COLO = { # mdm modern day mod Colombia
 	flag_definition = {
-		coa = mdm_COLO
+		coa = mdm_COLO_today
+		priority = 1
+	}
+}
+
+COMO = { # mdm modern day mod Comoros
+	flag_definition = {
+		coa = mdm_COMO_today
 		priority = 1
 	}
 }
 
 CONG = { # mdm modern day mod Congo
 	flag_definition = {
-		coa = mdm_CONG
+		coa = mdm_CONG_today
 		priority = 1
 	}
 }
 
 COST = { # mdm modern day mod Costa Rica
 	flag_definition = {
-		coa = mdm_COST
+		coa = mdm_COST_today
 		priority = 1
 	}
 }
@@ -1852,7 +1859,7 @@ COT = { # Cortona
 
 CPVR = { # mdm modern day mod Cabo Verde
 	flag_definition = {
-		coa = mdm_CPVR
+		coa = mdm_CPVR_today
 		priority = 1
 	}
 }
@@ -1916,28 +1923,28 @@ CRN = { # Cornwall
 
 CRO = { # mdm modern day mod Croatia
 	flag_definition = {
-		coa = mdm_CRO
+		coa = mdm_CRO_today
 		priority = 1
 	}
 }
 
 CUBA = { # mdm modern day mod Cuba
 	flag_definition = {
-		coa = mdm_CUBA
+		coa = mdm_CUBA_today
 		priority = 1
 	}
 }
 
 CYP = { # mdm modern day mod Cyprus
 	flag_definition = {
-		coa = mdm_CYP
+		coa = mdm_CYP_today
 		priority = 1
 	}
 }
 
 CZEC = { # mdm modern day mod Czech Republic
 	flag_definition = {
-		coa = mdm_CZEC
+		coa = mdm_CZEC_today
 		priority = 1
 	}
 }
@@ -1958,7 +1965,7 @@ CZK = { # Czersk
 
 DAN = { # mdm modern day mod Denmark
 	flag_definition = {
-		coa = mdm_DAN
+		coa = mdm_DAN_today
 		priority = 1
 	}
 }
@@ -1997,49 +2004,56 @@ DAU = { # Viennois
 
 DGL = { # mdm modern day mod Maldives
 	flag_definition = {
-		coa = mdm_DGL
+		coa = mdm_DGL_today
 		priority = 1
 	}
 }
 
 DJIB = { # mdm modern day mod Djibouti
 	flag_definition = {
-		coa = mdm_DJIB
+		coa = mdm_DJIB_today
 		priority = 1
 	}
 }
 
 DOMI = { # mdm modern day mod Dominica
 	flag_definition = {
-		coa = mdm_DOMI
+		coa = mdm_DOMI_today
+		priority = 1
+	}
+}
+
+DOMR = { # mdm modern day mod Dominican Republic
+	flag_definition = {
+		coa = mdm_DOMR_today
 		priority = 1
 	}
 }
 
 DRCO = { # mdm modern day mod Democratic Republic of the Congo
 	flag_definition = {
-		coa = mdm_DRCO
+		coa = mdm_DRCO_today
 		priority = 1
 	}
 }
 
 ECUA = { # mdm modern day mod Ecuador
 	flag_definition = {
-		coa = mdm_ECUA
+		coa = mdm_ECUA_today
 		priority = 1
 	}
 }
 
 EGY = { # mdm modern day mod Egypt
 	flag_definition = {
-		coa = mdm_EGY
+		coa = mdm_EGY_today
 		priority = 1
 	}
 }
 
 ELSA = { # mdm modern day mod El Salvador
 	flag_definition = {
-		coa = mdm_ELSA
+		coa = mdm_ELSA_today
 		priority = 1
 	}
 }
@@ -2069,14 +2083,14 @@ EPI = { # Epirus
 
 EQGU = { # mdm modern day mod Equatorial Guinea
 	flag_definition = {
-		coa = mdm_EQGU
+		coa = mdm_EQGU_today
 		priority = 1
 	}
 }
 
 ERIT = { # mdm modern day mod Eritrea
 	flag_definition = {
-		coa = mdm_ERIT
+		coa = mdm_ERIT_today
 		priority = 1
 	}
 }
@@ -2107,14 +2121,14 @@ ERM = { # Warmia
 
 ESTO = { # mdm modern day mod Estonia
 	flag_definition = {
-		coa = mdm_ESTO
+		coa = mdm_ESTO_today
 		priority = 1
 	}
 }
 
 ESWA = { # mdm modern day mod Eswatini
 	flag_definition = {
-		coa = mdm_ESWA
+		coa = mdm_ESWA_today
 		priority = 1
 	}
 }
@@ -2135,14 +2149,14 @@ ETA = { # Etampes
 
 ETH = { # mdm modern day mod Ethiopia
 	flag_definition = {
-		coa = mdm_ETH
+		coa = mdm_ETH_today
 		priority = 1
 	}
 }
 
 ETIM = { # mdm modern day mod Timor-Leste
 	flag_definition = {
-		coa = mdm_ETIM
+		coa = mdm_ETIM_today
 		priority = 1
 	}
 }
@@ -2252,7 +2266,7 @@ FLO = { # Florence
 
 FRA = { # mdm modern day mod France
 	flag_definition = {
-		coa = mdm_FRA
+		coa = mdm_FRA_today
 		priority = 1
 	}
 }
@@ -2273,14 +2287,14 @@ FCB = { # Palatinate of Burgundy
 
 FIJI = { # mdm modern day mod Fiji
 	flag_definition = {
-		coa = mdm_FIJI
+		coa = mdm_FIJI_today
 		priority = 1
 	}
 }
 
 FIN = { # mdm modern day mod Finland
 	flag_definition = {
-		coa = mdm_FIN
+		coa = mdm_FIN_today
 		priority = 1
 	}
 }
@@ -2301,7 +2315,7 @@ FRM = { # Fermo
 
 GABO = { # mdm modern day mod Gabon
 	flag_definition = {
-		coa = mdm_GABO
+		coa = mdm_GABO_today
 		priority = 1
 	}
 }
@@ -2322,7 +2336,7 @@ GAZ = { # Gazaria
 
 GAMB = { # mdm modern day mod Gambia
 	flag_definition = {
-		coa = mdm_GAMB
+		coa = mdm_GAMB_today
 		priority = 1
 	}
 }
@@ -2343,14 +2357,14 @@ GBH = { # Grubenhagen
 
 GBIS = { # mdm modern day mod Guinea-Bissau
 	flag_definition = {
-		coa = mdm_GBIS
+		coa = mdm_GBIS_today
 		priority = 1
 	}
 }
 
 GBR = { # mdm modern day mod Great Britain
 	flag_definition = {
-		coa = mdm_GBR
+		coa = mdm_GBR_today
 		priority = 1
 	}
 }
@@ -2385,21 +2399,21 @@ GEN = { # Genoa
 
 GEO = { # mdm modern day mod Georgia
 	flag_definition = {
-		coa = mdm_GEO
+		coa = mdm_GEO_today
 		priority = 1
 	}
 }
 
 GER = { # mdm modern day mod Germany
 	flag_definition = {
-		coa = mdm_GER
+		coa = mdm_GER_today
 		priority = 1
 	}
 }
 
 GHAN = { # mdm modern day mod Ghana
 	flag_definition = {
-		coa = mdm_GHAN
+		coa = mdm_GHAN_today
 		priority = 1
 	}
 }
@@ -2464,14 +2478,14 @@ GRA = { # Granada
 
 GRE = { # mdm modern day mod Greece
 	flag_definition = {
-		coa = mdm_GRE
+		coa = mdm_GRE_today
 		priority = 1
 	}
 }
 
 GREN = { # mdm modern day mod Grenada
 	flag_definition = {
-		coa = mdm_GREN
+		coa = mdm_GREN_today
 		priority = 1
 	}
 }
@@ -2493,7 +2507,7 @@ GRL = { # Greenland
 
 GUAT = { # mdm modern day mod Guatemala
 	flag_definition = {
-		coa = mdm_GUAT
+		coa = mdm_GUAT_today
 		priority = 1
 	}
 }
@@ -2521,7 +2535,7 @@ GUB = { # Gubbio
 
 GUIN = { # mdm modern day mod Guinea
 	flag_definition = {
-		coa = mdm_GUIN
+		coa = mdm_GUIN_today
 		priority = 1
 	}
 }
@@ -2530,14 +2544,14 @@ GUIN = { # mdm modern day mod Guinea
 
 GUYA = { # mdm modern day mod Guyana
 	flag_definition = {
-		coa = mdm_GUYA
+		coa = mdm_GUYA_today
 		priority = 1
 	}
 }
 
 HAB = { # mdm modern day mod Austria
 	flag_definition = {
-		coa = mdm_HAB
+		coa = mdm_HAB_today
 		priority = 1
 	}
 }
@@ -2575,7 +2589,7 @@ HAI = { # Hainaut
 
 HAIT = { # mdm modern day mod Haiti
 	flag_definition = {
-		coa = mdm_HAIT
+		coa = mdm_HAIT_today
 		priority = 1
 	}
 }
@@ -2677,7 +2691,7 @@ HOI = { # Nara Hoifa
 
 HOND = { # mdm modern day mod Honduras
 	flag_definition = {
-		coa = mdm_HOND
+		coa = mdm_HOND_today
 		priority = 1
 	}
 }
@@ -2723,14 +2737,14 @@ HSP = { # Holstein-Pinneberg
 
 HUN = { # mdm modern day mod Hungary
 	flag_definition = {
-		coa = mdm_HUN
+		coa = mdm_HUN_today
 		priority = 1
 	}
 }
 
 ICE = { # mdm modern day mod Iceland
 	flag_definition = {
-		coa = mdm_ICE
+		coa = mdm_ICE_today
 		priority = 1
 	}
 }
@@ -2758,14 +2772,14 @@ IMO = { # Imola
 
 INDI = { # mdm modern day mod India
 	flag_definition = {
-		coa = mdm_INDI
+		coa = mdm_INDI_today
 		priority = 1
 	}
 }
 
 INDN = { # mdm modern day mod Indonesia
 	flag_definition = {
-		coa = mdm_INDN
+		coa = mdm_INDN_today
 		priority = 1
 	}
 }
@@ -2786,28 +2800,28 @@ INO = { # Inowroclaw
 
 IRAN = { # mdm modern day mod Iran
 	flag_definition = {
-		coa = mdm_IRAN
+		coa = mdm_IRAN_today
 		priority = 1
 	}
 }
 
 IRAQ = { # mdm modern day mod Iraq
 	flag_definition = {
-		coa = mdm_IRAQ
+		coa = mdm_IRAQ_today
 		priority = 1
 	}
 }
 
 IRE = { # mdm modern day mod Ireland
 	flag_definition = {
-		coa = mdm_IRE
+		coa = mdm_IRE_today
 		priority = 1
 	}
 }
 
 ISRA = { # mdm modern day mod Israel
 	flag_definition = {
-		coa = mdm_ISRA
+		coa = mdm_ISRA_today
 		priority = 1
 	}
 }
@@ -2815,35 +2829,35 @@ ISRA = { # mdm modern day mod Israel
 ITA = { # mdm modern day mod Italy
 	# Default
 	flag_definition = {
-		coa = mdm_ITA
+		coa = mdm_ITA_today
 		priority = 1
 	}
 }
 
 IVOR = { # mdm modern day mod Côte d'Ivoire
 	flag_definition = {
-		coa = mdm_IVOR
+		coa = mdm_IVOR_today
 		priority = 1
 	}
 }
 
 JAMA = { # mdm modern day mod Jamaica
 	flag_definition = {
-		coa = mdm_JAMA
+		coa = mdm_JAMA_today
 		priority = 1
 	}
 }
 
 JAP = { # mdm modern day mod Japan
 	flag_definition = {
-		coa = mdm_JAP
+		coa = mdm_JAP_today
 		priority = 1
 	}
 }
 
 JORD = { # mdm modern day mod Jordan
 	flag_definition = {
-		coa = mdm_JORD
+		coa = mdm_JORD_today
 		priority = 1
 	}
 }
@@ -2887,7 +2901,7 @@ JUL = { # Juliers
 
 KAZK = { # mdm modern day mod Kazakhstan
 	flag_definition = {
-		coa = mdm_KAZK
+		coa = mdm_KAZK_today
 		priority = 1
 	}
 }
@@ -2922,7 +2936,7 @@ KHZ = { # Khuzdar
 
 KENY = { # mdm modern day mod Kenya
 	flag_definition = {
-		coa = mdm_KENY
+		coa = mdm_KENY_today
 		priority = 1
 	}
 }
@@ -2947,14 +2961,14 @@ KIE = { # Kiev
 
 KIRI = { # mdm modern day mod Kiribati
 	flag_definition = {
-		coa = mdm_KIRI
+		coa = mdm_KIRI_today
 		priority = 1
 	}
 }
 
 KHM = { # mdm modern day mod Cambodia
 	flag_definition = {
-		coa = mdm_KHM
+		coa = mdm_KHM_today
 		priority = 1
 	}
 }
@@ -3014,7 +3028,7 @@ KOL = { # Cologne
 
 KOSO = { # mdm modern day mod Kosovo
 	flag_definition = {
-		coa = mdm_KOSO
+		coa = mdm_KOSO_today
 		priority = 1
 	}
 }
@@ -3035,28 +3049,28 @@ KTG = { # Kengtung
 
 KUWA = { # mdm modern day mod Kuwait
 	flag_definition = {
-		coa = mdm_KUWA
+		coa = mdm_KUWA_today
 		priority = 1
 	}
 }
 
 KYRG = { # mdm modern day mod Kyrgyzstan
 	flag_definition = {
-		coa = mdm_KYRG
+		coa = mdm_KYRG_today
 		priority = 1
 	}
 }
 
 LAOS = { # mdm modern day mod Laos
 	flag_definition = {
-		coa = mdm_LAOS
+		coa = mdm_LAOS_today
 		priority = 1
 	}
 }
 
 LATV = { # mdm modern day mod Latvia
 	flag_definition = {
-		coa = mdm_LATV
+		coa = mdm_LATV_today
 		priority = 1
 	}
 }
@@ -3158,28 +3172,28 @@ LCZ = { # Leczyca
 
 LEBA = { # mdm modern day mod Lebanon
 	flag_definition = {
-		coa = mdm_LEBA
+		coa = mdm_LEBA_today
 		priority = 1
 	}
 }
 
 LESO = {# mdm modern day mod Lesotho 
 	flag_definition = {
-		coa = mdm_LESO
+		coa = mdm_LESO_today
 		priority = 1
 	}
 }
 
 LIBE = { # mdm modern day mod Liberia
 	flag_definition = {
-		coa = mdm_LIBE
+		coa = mdm_LIBE_today
 		priority = 1
 	}
 }
 
 LIBY = { # mdm modern day mod Libya
 	flag_definition = {
-		coa = mdm_LIBY
+		coa = mdm_LIBY_today
 		priority = 1
 	}
 }
@@ -3198,9 +3212,16 @@ LIE = { # Liège
 	}
 }
 
+LIEC = { # mdm modern day mod Liechtenstein
+	flag_definition = {
+		coa = mdm_LIEC_today
+		priority = 1
+	}
+}
+
 LIT = { # mdm modern day mod Lithuania
 	flag_definition = {
-		coa = mdm_LIT
+		coa = mdm_LIT_today
 		priority = 1
 	}
 }
@@ -3337,7 +3358,7 @@ LUN = { # Luneburg
 
 LUX = { # mdm modern day mod Luxembourg
 	flag_definition = {
-		coa = mdm_LUX
+		coa = mdm_LUX_today
 		priority = 1
 	}
 }
@@ -3365,28 +3386,28 @@ LVA = { # Baltic formable
 
 MACE = { # mdm modern day mod North Macedonia
 	flag_definition = {
-		coa = mdm_MACE
+		coa = mdm_MACE_today
 		priority = 1
 	}
 }
 
 MADA = { # mdm modern day mod Madagascar
 	flag_definition = {
-		coa = mdm_MADA
+		coa = mdm_MADA_today
 		priority = 1
 	}
 }
 
 MALA = { # mdm modern day mod Malaysia
 	flag_definition = {
-		coa = mdm_MALA
+		coa = mdm_MALA_today
 		priority = 1
 	}
 }
 
 MALT = { # mdm modern day mod Malta
 	flag_definition = {
-		coa = mdm_MALT
+		coa = mdm_MALT_today
 		priority = 1
 	}
 }
@@ -3407,28 +3428,28 @@ MAK = { # Makuria
 
 MARS = { # mdm modern day mod Marshall Islands
 	flag_definition = {
-		coa = mdm_MARS
+		coa = mdm_MARS_today
 		priority = 1
 	}
 }
 
 MART = { # mdm modern day mod Mauritius
 	flag_definition = {
-		coa = mdm_MART
+		coa = mdm_MART_today
 		priority = 1
 	}
 }
 
 MAL = { # mdm modern day mod Mali
 	flag_definition = {
-		coa = mdm_MAL
+		coa = mdm_MAL_today
 		priority = 1
 	}
 }
 
 MALW = { # mdm modern day mod Malawi
 	flag_definition = {
-		coa = mdm_MALW
+		coa = mdm_MALW_today
 		priority = 1
 	}
 }
@@ -3450,14 +3471,14 @@ MAN = { # Mantua
 
 MAUR = { # mdm modern day mod Mauritania
 	flag_definition = {
-		coa = mdm_MAUR
+		coa = mdm_MAUR_today
 		priority = 1
 	}
 }
 
 MDM = { # Marsan
 	flag_definition = {
-		coa = MDM_red
+		coa = MDM_red_today
 		priority = 1
 	}
 	flag_definition = {
@@ -3486,7 +3507,7 @@ MEI = { # Meissen
 
 MEX = { # mdm modern day mod Mexico
 	flag_definition = {
-		coa = mdm_MEX
+		coa = mdm_MEX_today
 		priority = 1
 	}
 }
@@ -3507,14 +3528,14 @@ MFA = { # Montferrat
 
 MGE = { # mdm modern day mod Mongolia
 	flag_definition = {
-		coa = mdm_MGE
+		coa = mdm_MGE_today
 		priority = 1
 	}
 }
 
 MICR = { # mdm modern day mod Micronesia
 	flag_definition = {
-		coa = mdm_MICR
+		coa = mdm_MICR_today
 		priority = 1
 	}
 }
@@ -3689,21 +3710,21 @@ MNI = { # Mong Nai
 
 MOLD = { # mdm modern day mod Moldova
 	flag_definition = {
-		coa = mdm_MOLD
+		coa = mdm_MOLD_today
 		priority = 1
 	}
 }
 
 MONT = { # mdm modern day mod Montenegro
 	flag_definition = {
-		coa = mdm_MONT
+		coa = mdm_MONT_today
 		priority = 1
 	}
 }
 
 MOR = { # mdm modern day mod Morocco
 	flag_definition = {
-		coa = mdm_MOR
+		coa = mdm_MOR_today
 		priority = 1
 	}
 }
@@ -3726,7 +3747,7 @@ MOY = { # Moray
 
 MOZA = { # mdm modern day mod Mozambique
 	flag_definition = {
-		coa = mdm_MOZA
+		coa = mdm_MOZA_today
 		priority = 1
 	}
 }
@@ -3857,7 +3878,7 @@ MSV = { # Mstislavl
 
 MYAN = { # mdm modern day mod Myanmar
 	flag_definition = {
-		coa = mdm_MYAN
+		coa = mdm_MYAN_today
 		priority = 1
 	}
 }
@@ -3913,7 +3934,7 @@ NAM = { # Namur
 
 NAMI = { # mdm modern day mod Namibia
 	flag_definition = {
-		coa = mdm_NAMI
+		coa = mdm_NAMI_today
 		priority = 1
 	}
 }
@@ -4051,7 +4072,7 @@ NAV = { # Navarre
 
 NED = { # mdm modern day mod Netherlands
 	flag_definition = {
-		coa = mdm_NED
+		coa = mdm_NED_today
 		priority = 1
 	}
 }
@@ -4079,28 +4100,28 @@ NEV = { # Nevers
 
 NICR = { # mdm modern day mod Nicaragua
 	flag_definition = {
-		coa = mdm_NICR
+		coa = mdm_NICR_today
 		priority = 1
 	}
 }
 
 NIGE = { # mdm modern day mod Niger
 	flag_definition = {
-		coa = mdm_NIGE
+		coa = mdm_NIGE_today
 		priority = 1
 	}
 }
 
 NIGR = { # mdm modern day mod Nigeria
 	flag_definition = {
-		coa = mdm_NIGR
+		coa = mdm_NIGR_today
 		priority = 1
 	}
 }
 
 NKOR = { # mdm modern day mod North Korea
 	flag_definition = {
-		coa = mdm_NKOR
+		coa = mdm_NKOR_today
 		priority = 1
 	}
 }
@@ -4144,7 +4165,7 @@ NOL = { # Northumbria
 
 NOR = { # mdm modern day mod Norway
 	flag_definition = {
-		coa = mdm_NOR
+		coa = mdm_NOR_today
 		priority = 1
 	}
 }
@@ -4182,7 +4203,7 @@ NOV = { # Novgorod
 
 NPL = { # mdm modern day mod Nepal
 	flag_definition = {
-		coa = mdm_NPL
+		coa = mdm_NPL_today
 		priority = 1
 	}
 }
@@ -4337,7 +4358,7 @@ NUS = { # Nusantara
 
 NZEA = { # mdm modern day mod New Zealand
 	flag_definition = {
-		coa = mdm_NZEA
+		coa = mdm_NZEA_today
 		priority = 1
 	}
 }
@@ -4387,7 +4408,7 @@ OLD = { # Oldenburg
 
 OMA = { # mdm modern day mod Oman
 	flag_definition = {
-		coa = mdm_OMA
+		coa = mdm_OMA_today
 		priority = 1
 	}
 }
@@ -4451,7 +4472,7 @@ PAD = { # Padua
 
 PAKI = { # mdm modern day mod Pakistan
 	flag_definition = {
-		coa = mdm_PAKI
+		coa = mdm_PAKI_today
 		priority = 1
 	}
 }
@@ -4472,21 +4493,21 @@ PAL = { # Palatinate of the Rhine
 
 PALE = { # mdm modern day mod Palestine
 	flag_definition = {
-		coa = mdm_PALE
+		coa = mdm_PALE_today
 		priority = 1
 	}
 }
 
 PALU = { # mdm modern day mod Palau
 	flag_definition = {
-		coa = mdm_PALU
+		coa = mdm_PALU_today
 		priority = 1
 	}
 }
 
 PANA = { # mdm modern day mod Panama
 	flag_definition = {
-		coa = mdm_PANA
+		coa = mdm_PANA_today
 		priority = 1
 	}
 }
@@ -4521,7 +4542,7 @@ PAP = { # Rome/Papal States
 
 PAPU = { # mdm modern day mod Papua New Guinea
 	flag_definition = {
-		coa = mdm_PAPU
+		coa = mdm_PAPU_today
 		priority = 1
 	}
 }
@@ -4552,7 +4573,7 @@ PAR = { # Parma
 
 PARA = { # mdm modern day mod Paraguay
 	flag_definition = {
-		coa = mdm_PARA
+		coa = mdm_PARA_today
 		priority = 1
 	}
 }
@@ -4597,7 +4618,7 @@ PEA = { # Perugia
 
 PERU = { # mdm modern day mod Peru
 	flag_definition = {
-		coa = mdm_PERU
+		coa = mdm_PERU_today
 		priority = 1
 	}
 }
@@ -4674,6 +4695,13 @@ PIE = { # Piedmont
 			coa_def_revolutionary_republic_trigger = yes
 		}
 	}	
+}
+
+PHIL = { # mdm modern day mod Philippines
+	flag_definition = {
+		coa = mdm_PHIL_today
+		priority = 1
+	}
 }
 
 PLC = { # Polish-Lithuanian Commonwealth   
@@ -4911,14 +4939,14 @@ POK = { # Polotsk
 
 POL = { # mdm modern day mod Poland
 	flag_definition = {
-		coa = mdm_POL
+		coa = mdm_POL_today
 		priority = 1
 	}
 }
 
 POR = { # mdm modern day mod Portugal
 	flag_definition = {
-		coa = mdm_POR
+		coa = mdm_POR_today
 		priority = 1
 	}
 }
@@ -5043,7 +5071,7 @@ PRU = { # Prussia
 
 QATA = { # mdm modern day mod Qatar
 	flag_definition = {
-		coa = mdm_QATA
+		coa = mdm_QATA_today
 		priority = 1
 	}
 }
@@ -5127,7 +5155,7 @@ RIM = { # Rimini
 
 RMN = { # mdm modern day mod Romania
 	flag_definition = {
-		coa = mdm_RMN
+		coa = mdm_RMN_today
 		priority = 1
 	}
 }
@@ -5172,21 +5200,21 @@ RST = { # Rostock
 
 RUS = { # mdm modern day mod Russia
 	flag_definition = {
-		coa = mdm_RUS
+		coa = mdm_RUS_today
 		priority = 1
 	}
 }
 
 RWA = { # mdm modern day mod Rwanda
 	flag_definition = {
-		coa = mdm_RWA
+		coa = mdm_RWA_today
 		priority = 1
 	}
 }
 
 SAFR = { # mdm modern day mod South Africa
 	flag_definition = {
-		coa = mdm_SAFR
+		coa = mdm_SAFR_today
 		priority = 1
 	}
 }
@@ -5207,7 +5235,7 @@ SAL = { # Saluzzo
 
 SAM = { # mdm modern day mod Samoa
 	flag_definition = {
-		coa = mdm_SAM
+		coa = mdm_SAM_today
 		priority = 1
 	}
 }
@@ -5228,7 +5256,7 @@ SAR = { # Sardinia
 
 SAUD = { # mdm modern day mod Saudi Arabia
 	flag_definition = {
-		coa = mdm_SAUD
+		coa = mdm_SAUD_today
 		priority = 1
 	}
 }
@@ -5383,21 +5411,21 @@ SDZ = { # Sieradz
 
 SENE = { # mdm modern day mod Senegal
 	flag_definition = {
-		coa = mdm_SENE
+		coa = mdm_SENE_today
 		priority = 1
 	}
 }
 
 SER = { # mdm modern day mod Serbia
 	flag_definition = {
-		coa = mdm_SER
+		coa = mdm_SER_today
 		priority = 1
 	}
 }
 
 SEYC = { # mdm modern day mod Seychelles
 	flag_definition = {
-		coa = mdm_SEYC
+		coa = mdm_SEYC_today
 		priority = 1
 	}
 }
@@ -5418,7 +5446,7 @@ SGT = { # Siguntur
 
 SIA = { # mdm modern day mod Thailand
 	flag_definition = {
-		coa = mdm_SIA
+		coa = mdm_SIA_today
 		priority = 1
 	}
 }
@@ -5484,21 +5512,21 @@ SIE = { # Siena
 
 SKNE = { # mdm modern day mod St. Kitts and Nevis
 	flag_definition = {
-		coa = mdm_SKNE
+		coa = mdm_SKNE_today
 		priority = 1
 	}
 }
 
 SKOR = { # mdm modern day mod South Korea
 	flag_definition = {
-		coa = mdm_SKOR
+		coa = mdm_SKOR_today
 		priority = 1
 	}
 }
 
 SLEO = { # mdm modern day mod Sierra Leone
 	flag_definition = {
-		coa = mdm_SLEO
+		coa = mdm_SLEO_today
 		priority = 1
 	}
 }
@@ -5519,21 +5547,21 @@ SLO = { # Slovakia
 
 SLOK = { # mdm modern day mod Slovakia
 	flag_definition = {
-		coa = mdm_SLOK
+		coa = mdm_SLOK_today
 		priority = 1
 	}
 }
 
 SLOV = { # mdm modern day mod Slovenia
 	flag_definition = {
-		coa = mdm_SLOV
+		coa = mdm_SLOV_today
 		priority = 1
 	}
 }
 
 SLUC = { # mdm modern day mod St. Lucia
 	flag_definition = {
-		coa = mdm_SLUC
+		coa = mdm_SLUC_today
 		priority = 1
 	}
 }
@@ -5571,56 +5599,56 @@ SMO = { # Smolensk
 
 SNG = { # mdm modern day mod Singapore
 	flag_definition = {
-		coa = mdm_SNG
+		coa = mdm_SNG_today
 		priority = 1
 	}
 }
 
 SOLO = { # mdm modern day mod Solomon Islands
 	flag_definition = {
-		coa = mdm_SOLO
+		coa = mdm_SOLO_today
 		priority = 1
 	}
 }
 
 SOMA = { # mdm modern day mod Somalia
 	flag_definition = {
-		coa = mdm_SOMA
+		coa = mdm_SOMA_today
 		priority = 1
 	}
 }
 
 SOML = { # mdm modern day mod Somaliland
 	flag_definition = {
-		coa = mdm_SOML
+		coa = mdm_SOML_today
 		priority = 1
 	}
 }
 
 SOSE = { # mdm modern day mod South Ossetia
 	flag_definition = {
-		coa = mdm_SOSE
+		coa = mdm_SOSE_today
 		priority = 1
 	}
 }
 
 SPA = { # mdm modern day mod Spain
 	flag_definition = {
-		coa = mdm_SPA
+		coa = mdm_SPA_today
 		priority = 1
 	}
 }
 
 SRLA = { # mdm modern day mod Sri Lanka
 	flag_definition = {
-		coa = mdm_SRLA
+		coa = mdm_SRLA_today
 		priority = 1
 	}
 }
 
 SSUD = { # mdm modern day mod South Sudan
 	flag_definition = {
-		coa = mdm_SSUD
+		coa = mdm_SSUD_today
 		priority = 1
 	}
 }
@@ -5659,28 +5687,28 @@ STP = { # Saint-Pol
 
 STPR = { # mdm modern day mod São Tomé and Príncipe
 	flag_definition = {
-		coa = mdm_STPR
+		coa = mdm_STPR_today
 		priority = 1
 	}
 }
 
 SUDA = { # mdm modern day mod Sudan
 	flag_definition = {
-		coa = mdm_SUDA
+		coa = mdm_SUDA_today
 		priority = 1
 	}
 }
 
 SURI = { # mdm modern day mod Suriname
 	flag_definition = {
-		coa = mdm_SURI
+		coa = mdm_SURI_today
 		priority = 1
 	}
 }
 
 SVGR = { # mdm modern day mod St. Vincent and the Grenadines
 	flag_definition = {
-		coa = mdm_SVGR
+		coa = mdm_SVGR_today
 		priority = 1
 	}
 }
@@ -5702,14 +5730,14 @@ SWB = { # Saxe-Wittemberg
 
 SWE = { # mdm modern day mod Sweden
 	flag_definition = {
-		coa = mdm_SWE
+		coa = mdm_SWE_today
 		priority = 1
 	}
 }
 
 SWI = { # mdm modern day mod Switzerland
 	flag_definition = {
-		coa = mdm_SWI
+		coa = mdm_SWI_today
 		priority = 1
 	}
 }
@@ -5747,28 +5775,28 @@ SXM = { # Samogitia
 
 SYRI = { # mdm modern day mod Syria
 	flag_definition = {
-		coa = mdm_SYRI
+		coa = mdm_SYRI_today
 		priority = 1
 	}
 }
 
 TAIW = { # mdm modern day mod Republic of China
 	flag_definition = {
-		coa = mdm_TAIW
+		coa = mdm_TAIW_today
 		priority = 1
 	}
 }
 
 TAJI = { # mdm modern day mod Tajikistan
 	flag_definition = {
-		coa = mdm_TAJI
+		coa = mdm_TAJI_today
 		priority = 1
 	}
 }
 
 TANZ = { # mdm modern day mod Tanzania
 	flag_definition = {
-		coa = mdm_TANZ
+		coa = mdm_TANZ_today
 		priority = 1
 	}
 }
@@ -5876,14 +5904,21 @@ TIR = { # Tyrol
 
 TOGO = { # mdm modern day mod Togo
 	flag_definition = {
-		coa = mdm_TOGO
+		coa = mdm_TOGO_today
 		priority = 1
 	}
 }
 
 TOG = { # mdm modern day mod Tonga
 	flag_definition = {
-		coa = mdm_TOG
+		coa = mdm_TOG_today
+		priority = 1
+	}
+}
+
+TRAN = { # mdm modern day mod Transnistria
+	flag_definition = {
+		coa = mdm_TRAN_today
 		priority = 1
 	}
 }
@@ -5904,7 +5939,7 @@ TRE = { # Trebizond
 
 TRTO = { # mdm modern day mod Trinidad and Tobago
 	flag_definition = {
-		coa = mdm_TRTO
+		coa = mdm_TRTO_today
 		priority = 1
 	}
 }
@@ -5961,14 +5996,14 @@ TTE = { # Trieste
 
 TUKM = { # mdm modern day mod Turkmenistan
 	flag_definition = {
-		coa = mdm_TUKM
+		coa = mdm_TUKM_today
 		priority = 1
 	}
 }
 
 TUN = { # mdm modern day mod Tunisia
 	flag_definition = {
-		coa = mdm_TUN
+		coa = mdm_TUN_today
 		priority = 1
 	}
 }
@@ -5996,7 +6031,7 @@ TUR = { # Ottomans
 
 TURK = { # mdm modern day mod Türkiye
 	flag_definition = {
-		coa = mdm_TURK
+		coa = mdm_TURK_today
 		priority = 1
 	}
 }
@@ -6029,6 +6064,13 @@ TUS = { # Tuscany
 	}
 }
 
+TUVL = { # mdm modern day mod Tuvalu
+	flag_definition = {
+		coa = mdm_TUVL_today
+		priority = 1
+	}
+}
+
 TWS = { # Two Sicilies
 	flag_definition = {
 		coa = TWS_angevine
@@ -6057,7 +6099,7 @@ TWS = { # Two Sicilies
 
 UAEM = { # mdm modern day mod United Arab Emirates
 	flag_definition = {
-		coa = mdm_UAEM
+		coa = mdm_UAEM_today
 		priority = 1
 	}
 }
@@ -6078,14 +6120,14 @@ UBV = { # Upper Bavaria
 
 UGAN = { # mdm modern day mod Uganda
 	flag_definition = {
-		coa = mdm_UGAN
+		coa = mdm_UGAN_today
 		priority = 1
 	}
 }
 
 UKR = { # mdm modern day mod Ukraine
 	flag_definition = {
-		coa = mdm_UKR
+		coa = mdm_UKR_today
 		priority = 1
 	}
 }
@@ -6124,7 +6166,7 @@ ULS = { # Ulster
 
 USA = { # mdm modern day mod United States
 	flag_definition = {
-		coa = mdm_USA
+		coa = mdm_USA_today
 		priority = 1
 	}
 }
@@ -6160,14 +6202,14 @@ UTR = { # Utrecht
 
 UZBE = { # mdm modern day mod Uzbekistan
 	flag_definition = {
-		coa = mdm_UZBE
+		coa = mdm_UZBE_today
 		priority = 1
 	}
 }
 
 VANU = { # mdm modern day mod Vanuatu
 	flag_definition = {
-		coa = mdm_VANU
+		coa = mdm_VANU_today
 		priority = 1
 	}
 }
@@ -6222,7 +6264,7 @@ VEN = { # Venice
 
 VENE = { # mdm modern day mod Venezuela
 	flag_definition = {
-		coa = mdm_VENE
+		coa = mdm_VENE_today
 		priority = 1
 	}
 }
@@ -6253,7 +6295,7 @@ VER = { # Verona
 
 VIET = { # mdm modern day mod Vietnam
 	flag_definition = {
-		coa = mdm_VIET
+		coa = mdm_VIET_today
 		priority = 1
 	}
 }
@@ -6490,21 +6532,21 @@ YEH = { # Nara Yehe
 
 YEM = { # mdm modern day mod Yemen
 	flag_definition = {
-		coa = mdm_YEM
+		coa = mdm_YEM_today
 		priority = 1
 	}
 }
 
 ZAMB = { # mdm modern day mod Zambia
 	flag_definition = {
-		coa = mdm_ZAMB
+		coa = mdm_ZAMB_today
 		priority = 1
 	}
 }
 
 ZMW = { # mdm modern day mod Zimbabwe
 	flag_definition = {
-		coa = mdm_ZMW
+		coa = mdm_ZMW_today
 		priority = 1
 	}
 }
@@ -6528,14 +6570,14 @@ YUA = { # China
 
 CHAD = { # mdm modern day mod Chad
 	flag_definition = {
-		coa = mdm_CHAD
+		coa = mdm_CHAD_today
 		priority = 1
 	}
 }
 
 CHI = { # China
 	flag_definition = {
-		coa = mdm_CHI
+		coa = mdm_CHI_today
 		priority = 1
 	}
 }
@@ -6556,7 +6598,7 @@ CHI_Ming = { # Ming China
 
 CHIL = { # mdm modern day mod Chile
 	flag_definition = {
-		coa = mdm_CHIL
+		coa = mdm_CHIL_today
 		priority = 1
 	}
 }
@@ -6591,7 +6633,7 @@ CHE = { # Chen
 
 CHEC = { # mdm modern day mod Chechnya
 	flag_definition = {
-		coa = mdm_CHEC
+		coa = mdm_CHEC_today
 		priority = 1
 	}
 }

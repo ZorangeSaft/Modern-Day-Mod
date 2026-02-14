@@ -547,7 +547,7 @@
 					imst reutte landeck lechtal_alps1 lechtal_alps2 otztal_alps2
 				}
 				vorarlberg_province = {
-					feldkirch bregenz bludenz
+					feldkirch bregenz bludenz liechtenstein #mdm modern day mod
 				}
 			}
 			central_switzerland_area = {
@@ -1148,7 +1148,7 @@
 				parma_province = { parma berceto sandonnino }
 				piacenza_province = { piacenza bardi bobbio fiorenzuola }
 				reggioem_province = { reggioem canossa guastalla }
-				romagna_province = { rimini cesena faenza imola modigliana ravenna }
+				romagna_province = { rimini cesena faenza imola modigliana ravenna san_marino } #mdm modern day mod
 				urbino_province = { urbino gubbio montefeltro pesaro }
 			}
 			lazio_area = {
@@ -3112,7 +3112,7 @@ asia = {
 				nanxiong_province = { baochang_nanxiong shixing }
 				panyu_province = { conghua xinfeng_panyu zhengcheng longmen }
 				shaozhou_province = { qujiang mengli lechang renhua ruyuan nanling4 }
-				xinhui_province = { xinhui guanghai xiangshan_xinhui }
+				xinhui_province = { xinhui guanghai xiangshan_xinhui macau } #mdm modern day mod
 				xunzhou_guangdong_province = { longchuan_xunzhou changle_xunzhou xingning }
 				yingde_province = { yingde hanguang wengyuan }
 				zhaoqing_province = { gaoyao gaoming guangning_zhaoqing sanshui sihui }

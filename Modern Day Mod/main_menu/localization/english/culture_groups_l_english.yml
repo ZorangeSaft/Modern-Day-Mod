@@ -470,3 +470,12 @@
 
  mdm_us_pacific_group: "US Pacific"
  mdm_us_pacific_group_desc: "The people of the us pacific territories, a land of remote islands and diverse cultures"
+
+
+ #regional chinese
+
+ mdm_pearl_river_group: "Pearl River"
+ mdm_pearl_river_group_desc: "The people of Hong Kong and Macau"
+
+ mdm_metrochinese_group: "Metro Chinese"
+ mdm_metrochinese_group_desc: "The people of the largest metropolitan areas of China, some of the largest cities on earth"

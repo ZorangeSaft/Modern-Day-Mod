@@ -1462,6 +1462,7 @@ lechtal_alps1 = { topography = mountain_wasteland vegetation = forest climate = 
 lechtal_alps2 = { topography = mountain_wasteland vegetation = forest climate = continental}
 otztal_alps2 = { topography = mountain_wasteland vegetation = desert climate = arctic}
 feldkirch = { topography = mountains vegetation = woods climate = continental religion = catholic culture = danube_bavarian raw_material = lumber}
+liechtenstein = { topography = flatland vegetation = farmland climate = continental religion = catholic culture = danube_bavarian raw_material = millet} #mdm modern day mod
 bregenz = { topography = mountains vegetation = woods climate = continental religion = catholic culture = danube_bavarian raw_material = wool}
 bludenz = { topography = mountains vegetation = forest climate = continental religion = catholic culture = danube_bavarian raw_material = silver_ore}
 bern = { topography = hills vegetation = farmland climate = continental religion = catholic culture = high_alemannic raw_material = wheat}
@@ -3228,6 +3229,7 @@ reggioem = { topography = flatland vegetation = grasslands climate = subtropical
 canossa = { topography = hills vegetation = woods climate = oceanic religion = catholic culture = emilian raw_material = lumber}
 guastalla = { topography = wetlands vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = horses}
 rimini = { topography = flatland vegetation = farmland climate = subtropical religion = catholic culture = emilian raw_material = wine natural_harbor_suitability = 0.00}
+san_marino = { topography = flatland vegetation = farmland climate = subtropical religion = catholic culture = emilian raw_material = wine}
 cesena = { topography = flatland vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = wine natural_harbor_suitability = 0.00}
 faenza = { topography = flatland vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = clay}
 imola = { topography = flatland vegetation = grasslands climate = subtropical religion = catholic culture = emilian raw_material = fiber_crops}
@@ -11225,6 +11227,7 @@ nanling4 = { topography = mountain_wasteland vegetation = forest climate = subtr
 xinhui = { topography = flatland vegetation = grasslands climate = subtropical religion = mahayana culture = xinhui_culture raw_material = pepper natural_harbor_suitability = 0.00}
 guanghai = { topography = hills vegetation = woods climate = subtropical religion = mahayana culture = xinhui_culture raw_material = sand natural_harbor_suitability = 0.00}
 xiangshan_xinhui = { topography = wetlands vegetation = grasslands climate = subtropical religion = mahayana culture = yuehai_culture raw_material = salt natural_harbor_suitability = 0.60}
+macau = { topography = wetlands vegetation = grasslands climate = subtropical religion = mahayana culture = yuehai_culture raw_material = salt natural_harbor_suitability = 0.60} #mdm modern day mod
 longchuan_xunzhou = { topography = hills vegetation = woods climate = subtropical religion = mahayana culture = dongjiang_culture raw_material = rice}
 changle_xunzhou = { topography = hills vegetation = woods climate = subtropical religion = mahayana culture = kejia_culture raw_material = cotton}
 xingning = { topography = flatland vegetation = woods climate = subtropical religion = mahayana culture = kejia_culture raw_material = rice}

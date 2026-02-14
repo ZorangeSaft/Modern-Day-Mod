@@ -1143,6 +1143,7 @@
  urbino: "Urbino"
  montefeltro: "Montefeltro"
  rimini: "Rimini"
+ san_marino: "San Marino" #mdm modern day mod
  pitigliano: "Pitigliano"
  chiusi: "Chiusi"
  montalcino: "Montalcino"
@@ -12478,6 +12479,7 @@ lienz: "Lienz"
 hermagor: "Hermagor"
 winklern: "Winklern"
 feldkirch: "Feldkirch"
+liechtenstein: "Liechtenstein" #mdm modern day mod
 st_johann: "Sankt Johann im Pongau"
 hallein: "Hallein"
 salzburg: "Salzburg"
@@ -17843,6 +17845,7 @@ qingyuan: "Qīngyuǎn" #清远/清遠
 panyu: "Pānyú" #番禺
 yangshan: "Yángshān" #阳山
 xiangshan_xinhui: "Xiāngshān" #香山/香山
+macau: "Macau" #mdm modern day mod
 haiyang: "Cháozhōu" #海阳
 chengxiang: "Chéngxiāng" #程乡/程鄉
 chaoyang: "Cháoyáng" #潮阳

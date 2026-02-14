@@ -2814,6 +2814,16 @@
 
 #####mdm modern day mod
 
+ #building based cultures
+
+ mdm_macau_culture: "Macanese"
+ mdm_hong_kong_culture: "Hong Konger"
+
+ mdm_european_culture: "European"
+ mdm_united_nations_culture: "United Nations"
+ mdm_vatican_culture: "Vatican"
+ mdm_smoom_culture: "Sovereign Military Order of Malta"
+ mdm_monacan_culture: "Monacan"
 
 
  #general english dialects

@@ -653,3 +653,12 @@ mdm_lusophone_group = { #portugal and former portuguese colonies
 
 mdm_soviet_group = { #russia and former soviet countries, maby only have this if you can remove culture groups dynamically ?
 }
+
+
+#chinese culture groups
+
+mdm_pearl_river_group = { #hong kong and macau
+}
+
+mdm_metrochinese_group = { #big chinese cities, similar to metroamerican
+}
