@@ -2689,6 +2689,13 @@ HOI = { # Nara Hoifa
 	}
 }
 
+HOKO = { # mdm modern day mod Hong Kong
+	flag_definition = {
+		coa = mdm_HOKO_today
+		priority = 1
+	}
+}
+
 HOND = { # mdm modern day mod Honduras
 	flag_definition = {
 		coa = mdm_HOND_today

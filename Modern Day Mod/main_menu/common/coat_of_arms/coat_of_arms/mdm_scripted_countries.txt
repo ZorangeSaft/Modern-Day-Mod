@@ -994,6 +994,17 @@ mdm_HAIT_today = { # mdm modern day mod Haiti
 	}
 }
 
+mdm_HOKO_today = { # mdm modern day mod Hong Kong
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 239 22 32 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bauhina_hong_kong.dds"
+		color1 = "white"
+		instance = { position = { 0.509 0.491 } scale = { 0.571 0.571 } }
+	}
+}
+
 mdm_HOND_today = { # mdm modern day mod Honduras
 	pattern = "pattern_horizontal_bar_01.dds"
 	color1 = rgb { 0 189 229 }
