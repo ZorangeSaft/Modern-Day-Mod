@@ -1908,6 +1908,17 @@ mdm_SAM_today = { # mdm modern day mod Samoa
 	}
 }
 
+mdm_SANM_today = { # mdm modern day mod San Marino
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = "white"
+	color2 = rgb { 94 183 229 }
+
+	textured_emblem = {
+		texture = "mdm_coa_san_marino.dds"
+		instance = { position = { 0.5 0.447 } scale = { 0.604 0.604 } }
+	}
+}
+
 mdm_SAUD_today = { # mdm modern day mod Saudi Arabia
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 83 44 }
