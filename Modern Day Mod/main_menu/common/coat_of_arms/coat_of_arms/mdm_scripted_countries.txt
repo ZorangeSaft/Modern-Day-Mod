@@ -2643,6 +2643,24 @@ mdm_VIET_today = { # mdm modern day mod Vietnam
 	}
 }
 
+mdm_WSAH_today = { # mdm modern day mod Western Sahara
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = "white"
+	color3 = rgb { 0 123 58 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_75.dds"
+		color1 = rgb { 197 8 20 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_western_sahara.dds"
+		color1 = rgb { 197 8 20 }
+		instance = { position = { 0.659 0.5 } scale = { 0.267 0.267 } }
+	}
+}
+
 mdm_YEM_today = { # mdm modern day mod Yemen
 	pattern = "pattern_tricolor_horizontal_01.dds"
 	color1 = rgb { 207 8 33 }
