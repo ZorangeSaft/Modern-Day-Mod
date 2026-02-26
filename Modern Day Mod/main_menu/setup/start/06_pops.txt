@@ -70347,6 +70347,14 @@ locations = {
          type = slaves
       }
    }
+   ponta_delgada = {
+   }
+   angra = {
+   }
+   horta = {
+   }
+   santa_cruz_flores = {
+   }
    nuweiba = {
       define_pop = {
          culture = lower_egyptian_culture

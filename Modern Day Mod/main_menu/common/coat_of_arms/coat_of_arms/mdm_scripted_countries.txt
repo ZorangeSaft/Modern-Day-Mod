@@ -994,6 +994,17 @@ mdm_HAIT_today = { # mdm modern day mod Haiti
 	}
 }
 
+mdm_HOKO_today = { # mdm modern day mod Hong Kong
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 239 22 32 }
+
+	colored_emblem = {
+		texture = "mdm_ce_bauhina_hong_kong.dds"
+		color1 = "white"
+		instance = { position = { 0.509 0.491 } scale = { 0.571 0.571 } }
+	}
+}
+
 mdm_HOND_today = { # mdm modern day mod Honduras
 	pattern = "pattern_horizontal_bar_01.dds"
 	color1 = rgb { 0 189 229 }
@@ -1439,19 +1450,19 @@ mdm_MART_today = { # mdm modern day mod Mauritius
 	colored_emblem = {
 		texture = "mdm_ce_box.dds"
 		color1 = rgb { 41 48 89 }
-		instance = { position = { 0.5 0.375 } scale = { 1 @quarter } }
+		instance = { position = { 0.5 0.375 } scale = { 1 0.25 } }
 	}
 
 	colored_emblem = {
 		texture = "mdm_ce_box.dds"
 		color1 = rgb { 247 184 17 }
-		instance = { position = { 0.5 0.625 } scale = { 1 @quarter } }
+		instance = { position = { 0.5 0.625 } scale = { 1 0.25 } }
 	}
 
 	colored_emblem = {
 		texture = "mdm_ce_box.dds"
 		color1 = rgb { 0 135 87 }
-		instance = { position = { 0.5 0.875 } scale = { 1 @quarter } }
+		instance = { position = { 0.5 0.875 } scale = { 1 0.25 } }
 	}
 }
 
@@ -1908,6 +1919,17 @@ mdm_SAM_today = { # mdm modern day mod Samoa
 	}
 }
 
+mdm_SANM_today = { # mdm modern day mod San Marino
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = "white"
+	color2 = rgb { 94 183 229 }
+
+	textured_emblem = {
+		texture = "mdm_coa_san_marino.dds"
+		instance = { position = { 0.5 0.447 } scale = { 0.604 0.604 } }
+	}
+}
+
 mdm_SAUD_today = { # mdm modern day mod Saudi Arabia
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 83 44 }
@@ -2210,8 +2232,8 @@ mdm_STPR_today = { # mdm modern day mod São Tomé and Príncipe
 	colored_emblem = {
 		texture = "mdm_ce_star_five.dds"
 		color1 = "black"
-		instance = { position = { @half 0.516 } scale = { 0.307 0.307 } }
-		instance = { position = { @three_quarters 0.516 } scale = { 0.307 0.307 } }
+		instance = { position = { 0.5 0.516 } scale = { 0.307 0.307 } }
+		instance = { position = { 0.75 0.516 } scale = { 0.307 0.307 } }
 	}
 }
 
@@ -2283,9 +2305,9 @@ mdm_SYRI_today = { # mdm modern day mod Syria
 	colored_emblem = {
 		texture = "mdm_ce_star_five.dds"
 		color1 = rgb { 207 8 33 }
-		instance = { position = { @three_quarters @half } scale = { 0.247 0.247 } }
-		instance = { position = { @half @half } scale = { 0.247 0.247 } }
-		instance = { position = { @quarter @half } scale = { 0.247 0.247 } }
+		instance = { position = { 0.75 0.5 } scale = { 0.247 0.247 } }
+		instance = { position = { 0.5 0.5 } scale = { 0.247 0.247 } }
+		instance = { position = { 0.25 0.5 } scale = { 0.247 0.247 } }
 	}
 }
 
@@ -2629,6 +2651,24 @@ mdm_VIET_today = { # mdm modern day mod Vietnam
 		texture = "mdm_ce_star_five.dds"
 		color1 = rgb { 255 255 0 }
 		instance = { position = { 0.5 0.471 } scale = { 0.542 0.542 } }
+	}
+}
+
+mdm_WSAH_today = { # mdm modern day mod Western Sahara
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = "black"
+	color2 = "white"
+	color3 = rgb { 0 123 58 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_75.dds"
+		color1 = rgb { 197 8 20 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_crescent_star_western_sahara.dds"
+		color1 = rgb { 197 8 20 }
+		instance = { position = { 0.659 0.5 } scale = { 0.267 0.267 } }
 	}
 }
 
