@@ -26665,8 +26665,8 @@ patea = { topography = hills vegetation = forest climate = oceanic religion = ta
 ruapehu = { topography = mountain_wasteland vegetation = forest climate = oceanic}
 taranaki = { topography = mountain_wasteland vegetation = forest climate = oceanic}
 whanganui = { topography = flatland vegetation = forest climate = oceanic religion = tapu_religion culture = maori_culture raw_material = lumber natural_harbor_suitability = 0.00}
-wellington = { topography = hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish natural_harbor_suitability = 0.75}
-manawatu = { topography = hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fruit natural_harbor_suitability = 0.00}
+wellington = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish natural_harbor_suitability = 0.75}
+manawatu = { topography = high_mountains vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fruit natural_harbor_suitability = 0.00}
 heretaunga = { topography = flatland vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = legumes natural_harbor_suitability = 0.00}
 wairarapa = { topography = hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = lumber natural_harbor_suitability = 0.00}
 tararua = { topography = hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = clay natural_harbor_suitability = 0.00}
