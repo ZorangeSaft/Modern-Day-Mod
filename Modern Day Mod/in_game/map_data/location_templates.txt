@@ -26817,6 +26817,36 @@ nz147 = { topography = rolling_hills vegetation = woods climate = oceanic religi
 nz148 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
 nz149 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
 nz150 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz151 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz152 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz153 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz154 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz155 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz156 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz157 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz158 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz159 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz160 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz161 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz162 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz163 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz164 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz165 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz166 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz167 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz168 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz169 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz170 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz171 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz172 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz173 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz174 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz175 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz176 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz177 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz178 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz179 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
+nz180 = { topography = rolling_hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fish}
 manawatu = { topography = high_mountains vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = fruit natural_harbor_suitability = 0.00}
 heretaunga = { topography = flatland vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = legumes natural_harbor_suitability = 0.00}
 wairarapa = { topography = hills vegetation = woods climate = oceanic religion = tapu_religion culture = maori_culture raw_material = lumber natural_harbor_suitability = 0.00}
