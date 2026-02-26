@@ -9314,6 +9314,7 @@ oceania = {
 					whanganui wellington manawatu heretaunga wairarapa tararua
 					wairarapa_lake
 					nz1 nz2 nz3 nz4 nz5 nz6 nz7 nz8 nz9 nz10 nz11 nz12 nz13 nz14 nz15 nz16 nz17 nz18 nz19 nz20 nz21 nz22 nz23 nz24 nz25 nz26 nz27 nz28 nz29 nz30 nz31 nz32
+					nz33 nz34 nz35 nz36 nz37 nz38 nz39 nz40 nz41 nz42 nz43 nz44 nz45 nz46 nz47 nz48 nz49 nz50 nz51 nz52 nz53 nz54 nz55 nz56 nz57 nz58 nz59 nz60 nz61 nz62 nz63 nz64 nz65 nz66 nz67 nz68 nz69 nz70 nz71 nz72 nz73 nz74 nz75 nz76 nz77 nz78 nz79 nz80
 				}
 			}
 			south_island_area = {
