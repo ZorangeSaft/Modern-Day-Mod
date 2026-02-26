@@ -9313,6 +9313,7 @@ oceania = {
 				whanganui_province = {
 					whanganui wellington manawatu heretaunga wairarapa tararua
 					wairarapa_lake
+					nz1 nz2 nz3 nz4 nz5 nz6 nz7 nz8 nz9 nz10 nz11 nz12 nz13 nz14 nz15 nz16 nz17 nz18 nz19 nz20 nz21 nz22 nz23 nz24 nz25 nz26 nz27 nz28 nz29 nz30 nz31 nz32
 				}
 			}
 			south_island_area = {
