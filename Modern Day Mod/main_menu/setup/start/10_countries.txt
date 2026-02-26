@@ -1800,6 +1800,11 @@ countries = {
 	NZEA = {
 		own_control_core = {
 			motu_maha ahurei aupouri hauraki heretaunga manawatu manukau ngamotu patea tamaki tararua tauranga te_tairawhiti urewera wairarapa wairoa waitangi wellington whakatane whanganui whangarei rekohu akaroa hurunui kahurangi kaiapoi kaikoura kaitangata mahitahi mawhera motupohue okarito otakou otepoti puari rakaia rakiura taramakau tauihu te_tai_aorere timaru waihopai whakatu tongareva nukunonu_atoll
+			#nz1 nz2 nz3 nz4 nz5 nz6 nz7 nz8 nz9 nz10 nz11 nz12 nz13 nz14 nz15 nz16 nz17 nz18 nz19 nz20 nz21 nz22 nz23 nz24 nz25 nz26 nz27 nz28 nz29 nz30 nz31 nz32
+			#nz33 nz34 nz35 nz36 nz37 nz38 nz39 nz40 nz41 nz42 nz43 nz44 nz45 nz46 nz47 nz48 nz49 nz50 nz51 nz52 nz53 nz54 nz55 nz56 nz57 nz58 nz59 nz60 nz61 nz62 nz63 nz64 nz65 nz66 nz67 nz68 nz69 nz70 nz71 nz72 nz73 nz74 nz75 nz76 nz77 nz78 nz79 nz80
+			#nz81 nz82 nz83 nz84 nz85 nz86 nz87 nz88 nz89 nz90 nz91 nz92 nz93 nz94 nz95 nz96 nz97 nz98 nz99 nz100 nz101 nz102 nz103 nz104 nz105 nz106 nz107 nz108 nz109 nz110 nz111 nz112 nz113 nz114 nz115 nz116 nz117 nz118 nz119 nz120
+			#nz121 nz122 nz123 nz124 nz125 nz126 nz127 nz128 nz129 nz130 nz131 nz132 nz133 nz134 nz135 nz136 nz137 nz138 nz139 nz140 nz141 nz142 nz143 nz144 nz145 nz146 nz147 nz148 nz149 nz150
+			#nz151 nz152 nz153 nz154 nz155 nz156 nz157 nz158 nz159 nz160 nz161 nz162 nz163 nz164 nz165 nz166 nz167 nz168 nz169 nz170 nz171 nz172 nz173 nz174 nz175 nz176 nz177 nz178 nz179 nz180
 		}
 		starting_technology_level = 3
 		include = "et_reformation_monarchy"
