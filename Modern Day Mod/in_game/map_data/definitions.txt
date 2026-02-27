@@ -7834,6 +7834,16 @@ america = {
 			california_area = {
 				chumash_province = {
 					payomkawichum kukamonga los_angeles ventureno ineseno pimuu_nga channel_islands chumash_ranges
+					usa1 usa2 usa3 usa4 usa5 usa6 usa7 usa8 usa9 usa10 usa11 usa12 usa13 usa14 usa15 usa16 usa17 usa18 usa19 usa20
+					usa21 usa22 usa23 usa24 usa25 usa26 usa27 usa28 usa29 usa30 usa31 usa32 usa33 usa34 usa35 usa36 usa37 usa38 usa39 usa40
+					usa41 usa42 usa43 usa44 usa45 usa46 usa47 usa48 usa49 usa50 usa51 usa52 usa53 usa54 usa55 usa56 usa57 usa58 usa59 usa60
+					usa61 usa62 usa63 usa64 usa65 usa66 usa67 usa68 usa69 usa70 usa71 usa72 usa73 usa74 usa75 usa76 usa77 usa78 usa79 usa80
+					usa81 usa82 usa83 usa84 usa85 usa86 usa87 usa88 usa89 usa90 usa91 usa92 usa93 usa94 usa95 usa96 usa97 usa98 usa99 usa100
+					usa101 usa102 usa103 usa104 usa105 usa106 usa107 usa108 usa109 usa110 usa111 usa112 usa113 usa114 usa115 usa116 usa117 usa118 usa119 usa120
+					usa121 usa122 usa123 usa124 usa125 usa126 usa127 usa128 usa129 usa130 usa131 usa132 usa133 usa134 usa135 usa136 usa137 usa138 usa139 usa140
+					usa141 usa142 usa143 usa144 usa145 usa146 usa147 usa148 usa149 usa150 usa151 usa152 usa153 usa154 usa155 usa156 usa157 usa158 usa159 usa160
+					usa161 usa162 usa163 usa164 usa165 usa166 usa167 usa168 usa169 usa170 usa171 usa172 usa173 usa174 usa175 usa176 usa177 usa178 usa179 usa180
+					usa181 usa182 usa183 usa184 usa185 usa186 usa187 usa188 usa189 usa190 usa191 usa192 usa193 usa194 usa195 usa196 usa197 usa198 usa199 usa200
 				}
 				aacistak_province = {
 					tepotahal mutsun san_francisco san_jose
