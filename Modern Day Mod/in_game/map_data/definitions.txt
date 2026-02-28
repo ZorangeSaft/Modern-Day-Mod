@@ -7857,6 +7857,16 @@ america = {
 				}
 				aacistak_province = {
 					tepotahal mutsun san_francisco san_jose
+					usa401 usa402 usa403 usa404 usa405 usa406 usa407 usa408 usa409 usa410 usa411 usa412 usa413 usa414 usa415 usa416 usa417 usa418 usa419 usa420
+					usa421 usa422 usa423 usa424 usa425 usa426 usa427 usa428 usa429 usa430 usa431 usa432 usa433 usa434 usa435 usa436 usa437 usa438 usa439 usa440
+					usa441 usa442 usa443 usa444 usa445 usa446 usa447 usa448 usa449 usa450 usa451 usa452 usa453 usa454 usa455 usa456 usa457 usa458 usa459 usa460
+					usa461 usa462 usa463 usa464 usa465 usa466 usa467 usa468 usa469 usa470 usa471 usa472 usa473 usa474 usa475 usa476 usa477 usa478 usa479 usa480
+					usa481 usa482 usa483 usa484 usa485 usa486 usa487 usa488 usa489 usa490 usa491 usa492 usa493 usa494 usa495 usa496 usa497 usa498 usa499 usa500
+					usa501 usa502 usa503 usa504 usa505 usa506 usa507 usa508 usa509 usa510 usa511 usa512 usa513 usa514 usa515 usa516 usa517 usa518 usa519 usa520
+					usa521 usa522 usa523 usa524 usa525 usa526 usa527 usa528 usa529 usa530 usa531 usa532 usa533 usa534 usa535 usa536 usa537 usa538 usa539 usa540
+					usa541 usa542 usa543 usa544 usa545 usa546 usa547 usa548 usa549 usa550 usa551 usa552 usa553 usa554 usa555 usa556 usa557 usa558 usa559 usa560
+					usa561 usa562 usa563 usa564 usa565 usa566 usa567 usa568 usa569 usa570 usa571 usa572 usa573 usa574 usa575 usa576 usa577 usa578 usa579 usa580
+					usa581 usa582 usa583 usa584 usa585 usa586 usa587 usa588 usa589 usa590 usa591 usa592 usa593 usa594 usa595 usa596 usa597 usa598 usa599 usa600
 				}
 				northern_yokut_province = {
 					tawalimni chawchila yashikumne noptinte gashowu
