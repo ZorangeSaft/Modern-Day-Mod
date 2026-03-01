@@ -1,11 +1,11 @@
 diplomacy_manager = {
     #--------United Kingdom--------
-	dependency = { first = ENG second = ULS subject_type = dominion }
-	dependency = { first = ENG second = MNN subject_type = dominion }
-	dependency = { first = ENG second = JER subject_type = dominion }
+	#dependency = { first = ENG second = ULS subject_type = dominion }
+	#dependency = { first = ENG second = MNN subject_type = dominion }
+	#dependency = { first = ENG second = JER subject_type = dominion }
 
     #---------Scandinavia----------
-    dependency = { first = DAN second = GRL subject_type = dominion }
+    #dependency = { first = DAN second = GRL subject_type = dominion }
 
     #------------Russia------------
 
@@ -14,7 +14,7 @@ diplomacy_manager = {
     #------------Levant------------
 
     #------------Japan-------------
-    scripted_mutual = { first = JAP second = NTC type = alliance }
-    scripted_oneway = { first = JAP second = NTC type = guarantee }
+   # scripted_mutual = { first = JAP second = NTC type = alliance }
+    #scripted_oneway = { first = JAP second = NTC type = guarantee }
 
 }
