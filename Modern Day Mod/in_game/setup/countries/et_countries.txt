@@ -41,7 +41,7 @@ ALG = {
 ANBR = {
 	color = rgb { 149  74  49 }
 	color2 = rgb { 149  74  49 }
-	culture_definition = british_caribbean
+	culture_definition = english #british_caribbean
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -61,7 +61,7 @@ ANGO = {
 ARGE = {
 	color = rgb { 145  157  236 } #{ 101  102  163 }
 	color2 = rgb { 145  157  236 } #{ 101  102  163 }
-	culture_definition = iberian_la_platan
+	culture_definition = castilian #iberian_la_platan
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -101,7 +101,7 @@ AZER = {
 BAHA = {
 	color = rgb { 204 255 204 } #{ 119  184  249 }
 	color2 = rgb { 204 255 204 } #{ 119  184  249 }
-	culture_definition = british_caribbean
+	culture_definition = english #british_caribbean
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -130,7 +130,7 @@ BANG = {
 BARB = {
 	color = rgb { 49  84  169 }
 	color2 = rgb { 49  84  169 }
-	culture_definition = british_caribbean
+	culture_definition = english #british_caribbean
 	religion_definition = lutheran
 	description_category = diplomatic
 	difficulty = 2
@@ -169,7 +169,7 @@ BELA = {
 BELI = {
 	color = rgb { 0 204 204 } #{ 84  20  102 }
 	color2 = rgb { 0 204 204 } #{ 84  20  102 }
-	culture_definition = british_mexican
+	culture_definition = english #english #british_castilian #mexican
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -199,7 +199,7 @@ BHUT = { #the color of the orange on their irl flag
 BOLI = {
 	color = rgb { 255  180  136 } #{ 24  180  92 }
 	color2 = rgb { 255  180  136 } #{ 24  180  92 }
-	culture_definition = iberian_peruvian
+	culture_definition = castilian #iberian_peruvian
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -229,7 +229,7 @@ BOTS = {
 BRAZ = {
 	color = rgb { 76  145  63 } #{ 129  177  125 }
 	color2 = rgb { 76  145  63 } #{ 129  177  125 }
-	culture_definition = brazilian
+	culture_definition = portuguese #brazilian
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -289,7 +289,7 @@ CAME = {
 CAN = {
 	color = rgb { 233  59  59 } #{ 94  117  55 }
 	color2 = rgb { 233  59  59 } #{ 94  117  55 }
-	culture_definition = british_canadian
+	culture_definition = mdm_ontarian_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -329,7 +329,7 @@ CHI = { #color of the red on their irl flag
 CHIL = {
 	color = rgb { 155  101  107 } #{ 236  159  89 }
 	color2 = rgb { 155  101  107 } #{ 236  159  89 }
-	culture_definition = iberian_peruvian
+	culture_definition = castilian #iberian_peruvian
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -339,7 +339,7 @@ CHIL = {
 COLO = {
 	color = rgb { 222  187  91 } #{ 89  140  176 }
 	color2 = rgb { 222  187  91 } #{ 89  140  176 }
-	culture_definition = iberian_colombian
+	culture_definition = castilian #iberian_colombian
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -369,7 +369,7 @@ CONG = {
 COST = { #went to color wheel and picked golden yellow
 	color = rgb { 237  165  21 } #{ 152  130  191 } #{ 114  100  192 }
 	color2 = rgb { 237  165  21 } #{ 152  130  191 } #{ 114  100  192 }
-	culture_definition = mexican
+	culture_definition = castilian #mexican
 	religion_definition = catholic
 	description_category = diplomatic
 	difficulty = 2
@@ -409,7 +409,7 @@ CRO = {
 CUBA = { #went to color wheel and picked teal
 	color = rgb { 34  224  170 } #{ 152  130  191 } #{ 19  124  139 }
 	color2 = rgb { 34  224  170 } #{ 152  130  191 } #{ 19  124  139 }
-	culture_definition = iberian_caribbean
+	culture_definition = castilian #iberian_caribbean
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -469,7 +469,7 @@ DJIB = {
 DOMI = { #not in hoi4
 	color = rgb { 69  184  119 }
 	color2 = rgb { 69  184  119 }
-	culture_definition = british_caribbean
+	culture_definition = english #british_caribbean
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -479,7 +479,7 @@ DOMI = { #not in hoi4
 DOMR = { #didnt use hoi4 color here
 	color = rgb { 199  124  69 } #{ 152  130  191 } #{ 199  124  69 }
 	color2 = rgb { 199  124  69 } #{ 152  130  191 } #{ 199  124  69 }
-	culture_definition = iberian_caribbean
+	culture_definition = castilian #iberian_caribbean
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -499,7 +499,7 @@ DRCO = {
 ECUA = {
 	color = rgb { 249  146  98 } #{ 184  140  92 }
 	color2 = rgb { 249  146  98 } #{ 184  140  92 }
-	culture_definition = iberian_colombian
+	culture_definition = castilian #iberian_colombian
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -519,7 +519,7 @@ EGY = {
 ELSA = { #didnt use hoi4 color here
 	color = rgb { 134  170  42 } #{ 152  130  191 } #{ 134  170  42 }
 	color2 = rgb { 134  170  42 } #{ 152  130  191 } #{ 134  170  42 }
-	culture_definition = mexican
+	culture_definition = castilian #mexican
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -698,7 +698,7 @@ GRE = {
 GREN = { #not in hoi4
 	color = rgb { 69  134  99 }
 	color2 = rgb { 69  134  99 }
-	culture_definition = british_caribbean
+	culture_definition = english #british_caribbean
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -708,7 +708,7 @@ GREN = { #not in hoi4
 GUAT = { #didnt use hoi4 color here
 	color = rgb { 124  120  222 } #{ 152  130  191 } #{ 124  120  222 }
 	color2 = rgb { 124  120  222 } #{ 152  130  191 } #{ 124  120  222 }
-	culture_definition = mexican
+	culture_definition = castilian #mexican
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -728,7 +728,7 @@ GUIN = { #didnt use hoi4 color
 GUYA = {
 	color = rgb { 255 204 153 } #{ 124  180  92 }
 	color2 = rgb { 255 204 153 } #{ 124  180  92 }
-	culture_definition = british_colombian
+	culture_definition = english #british_colombian
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -748,7 +748,7 @@ HAB = { #austria
 HAIT = { #didnt use hoi4 color here
 	color = rgb { 139  179  207 } #{ 152  130  191 } #{ 139  179  207 }
 	color2 = rgb { 139  179  207 } #{ 152  130  191 } #{ 139  179  207 }
-	culture_definition = french_caribbean
+	culture_definition = french #french_caribbean
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -758,7 +758,7 @@ HAIT = { #didnt use hoi4 color here
 HOND = {
 	color = rgb { 100  125  175 } #{ 64  40  152 }
 	color2 = rgb { 100  125  175 } #{ 64  40  152 }
-	culture_definition = mexican
+	culture_definition = castilian #mexican
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -878,7 +878,7 @@ IVOR = {
 JAMA = {
 	color = rgb { 102 102 0 } #{ 189  224  69 }
 	color2 = rgb { 102 102 0 } #{ 189  224  69 }
-	culture_definition = british_caribbean
+	culture_definition = english #british_caribbean
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1166,7 +1166,7 @@ MALT = {
 MEX = {
 	color = rgb { 104  152  83 } #{ 219  124  139 }
 	color2 = rgb { 104  152  83 } #{ 219  124  139 }
-	culture_definition = mexican
+	culture_definition = castilian #mexican
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1266,7 +1266,7 @@ NED = {
 NICR = { #went to color wheel and picked light blue
 	color = rgb { 113 204 235 } #{ 152  130  191 } #{ 174  40  202 }
 	color2 = rgb { 113 204 235 } #{ 152  130  191 } #{ 174  40  202 }
-	culture_definition = mexican
+	culture_definition = castilian #mexican
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1386,7 +1386,7 @@ PALU = {
 PANA = {
 	color = rgb { 152  130  191 } #{ 144  140  92 }
 	color2 = rgb { 152  130  191 } #{ 144  140  92 }
-	culture_definition = iberian_colombian
+	culture_definition = castilian #iberian_colombian
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1416,7 +1416,7 @@ PARA = {
 PERU = {
 	color = rgb { 196  189  204 } #{ 124  140  162 }
 	color2 = rgb { 196  189  204 } #{ 124  140  162 }
-	culture_definition = iberian_peruvian
+	culture_definition = castilian #iberian_peruvian
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1576,7 +1576,7 @@ SIA = { #didnt use hoi4 color here
 SKNE = { #not in hoi4
 	color = rgb { 189  74  169 }
 	color2 = rgb { 189  74  169 }
-	culture_definition = british_caribbean
+	culture_definition = english #british_caribbean
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1626,7 +1626,7 @@ SLOV = {
 SLUC = { #not in hoi4
 	color = rgb { 109  124  229 }
 	color2 = rgb { 109  124  229 }
-	culture_definition = british_caribbean
+	culture_definition = english #british_caribbean
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1736,7 +1736,7 @@ SURI = {
 SVGR = { #not in hoi4
 	color = rgb { 129  174  159 }
 	color2 = rgb { 129  174  159 }
-	culture_definition = british_caribbean
+	culture_definition = english #british_caribbean
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1835,7 +1835,7 @@ TRAN = { #hoi4 soviet union color
 TRTO = {
 	color = rgb { 96 96 96 } #{ 169  44  69 }
 	color2 = rgb { 96 96 96 } #{ 169  44  69 }
-	culture_definition = british_caribbean
+	culture_definition = english #british_caribbean
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1915,7 +1915,7 @@ UKR = { #used the color of the blue on their irl flag
 URUG = {
 	color = rgb { 171  190  152 } #{ 95  188  250 }
 	color2 = rgb { 171  190  152 } #{ 95  188  250 }
-	culture_definition = iberian_la_platan
+	culture_definition = castilian #iberian_la_platan
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1955,7 +1955,7 @@ VANU = {
 VENE = {
 	color = rgb { 171  190  152 } #{ 213  82  109 }
 	color2 = rgb { 171  190  152 } #{ 213  82  109 }
-	culture_definition = iberian_colombian
+	culture_definition = castilian #iberian_colombian
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
