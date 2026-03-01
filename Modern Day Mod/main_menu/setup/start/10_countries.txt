@@ -1,4 +1,4 @@
-current_age = age_2_renaissance
+﻿current_age = age_2_renaissance
 
 # own_control_core
 # own_control_integrated
@@ -26,7 +26,6 @@ countries = {
 			type = republic
 			heir_selection = lottery_election
 			ruler = random
-			# ruler = random
 		}
 		country_rank = rank_duchy
 		capital = sukhumi
@@ -75,7 +74,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = alg_abdelmadjid_tebboune }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = alg_abdelmadjid_tebboune }
 		country_rank = rank_duchy
 		capital = algiers
 	}
@@ -88,7 +92,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = anbr_gaston_browne }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = anbr_gaston_browne }
 		country_rank = rank_duchy
 		capital = wadadli
 	}
@@ -101,7 +110,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ango_joao_lourenco }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ango_joao_lourenco }
 		country_rank = rank_county
 		capital = luanda
 	}
@@ -114,7 +128,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = random }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = random }
 		country_rank = rank_kingdom
 		capital = andorra_la_vella
 	}
@@ -127,7 +146,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = arge_javier_milei }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = arge_javier_milei }
 		country_rank = rank_duchy
 		capital = tuvicha_mini
 	}
@@ -140,7 +164,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = arm_vahagn_khachaturyan }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = arm_vahagn_khachaturyan }
 		country_rank = rank_duchy
 		capital = yerevan
 	}
@@ -153,7 +182,12 @@ countries = {
 		starting_technology_level = 3
 		include = "et_reformation_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = aust_anthony_albanese }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = aust_anthony_albanese }
 		country_rank = rank_kingdom
 		capital = ngarigo
 	}
@@ -166,7 +200,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = azer_ilham_aliyev }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = azer_ilham_aliyev }
 		country_rank = rank_duchy
 		capital = shirvan
 	}
@@ -179,7 +218,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = baha_philip_davis }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = baha_philip_davis }
 		country_rank = rank_duchy
 		capital = abacoa
 	}
@@ -192,7 +236,12 @@ countries = {
 		starting_technology_level = 3
 		include = "muslim_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = bahr_hamad_al_khalifa_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = bahr_hamad_al_khalifa_1 }
 		country_rank = rank_duchy
 		capital = manama
 	}
@@ -205,7 +254,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = bang_mohammed_shahabuddin }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = bang_mohammed_shahabuddin }
 		country_rank = rank_county
 		capital = bikrampur
 	}
@@ -217,7 +271,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = barb_freundel_stuart }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = barb_freundel_stuart }
 		country_rank = rank_duchy
 		capital = ichirouganaim
 	}
@@ -230,7 +289,12 @@ countries = {
 		starting_technology_level = 3
 		include = "indonesia_muslim_monarchy_no_mandala"
 		include = "expl_mdm_whole_world"
-		government = {ruler = bei_hassanal_bolkiah }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = bei_hassanal_bolkiah }
 		country_rank = rank_duchy
 		capital = berune
 	}
@@ -243,7 +307,12 @@ countries = {
 		starting_technology_level = 3
 		include = "catholic_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = bel_philippe_von_saxe_coburg_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = bel_philippe_von_saxe_coburg_1 }
 		country_rank = rank_kingdom
 		capital = brussels
 	}
@@ -256,7 +325,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = bela_alexander_lukashenko }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = bela_alexander_lukashenko }
 		country_rank = rank_duchy
 		capital = minsk
 	}
@@ -269,7 +343,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = beli_dean_barrow }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = beli_dean_barrow }
 		country_rank = rank_duchy
 		capital = xunantunich
 	}
@@ -282,7 +361,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ben_patrice_talon }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ben_patrice_talon }
 		country_rank = rank_county
 		capital = abomey
 	}
@@ -295,7 +379,12 @@ countries = {
 		starting_technology_level = 3
 		include = "east_asia_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = bhut_jigme_khesar_namgyel_wangchuck_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = bhut_jigme_khesar_namgyel_wangchuck_1 }
 		country_rank = rank_county
 		capital = thimpu
 	}
@@ -308,7 +397,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = boli_luis_arce }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = boli_luis_arce }
 		country_rank = rank_duchy
 		capital = paititi
 	}
@@ -321,7 +415,12 @@ countries = {
 		starting_technology_level = 3
 		include = "eastern_european_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = bosh_zeljka_cvijanovic }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = bosh_zeljka_cvijanovic }
 		country_rank = rank_duchy
 		capital = vrhbosna
 	}
@@ -334,7 +433,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = bots_duma_boko }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = bots_duma_boko }
 		country_rank = rank_county
 		capital = ntsweng
 	}
@@ -347,7 +451,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = braz_luiz_inacio_lula_da_silva }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = braz_luiz_inacio_lula_da_silva }
 		country_rank = rank_duchy
 		capital = ava_canoeiro
 	}
@@ -360,7 +469,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = bufa_ibrahim_traore }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = bufa_ibrahim_traore }
 		country_rank = rank_county
 		capital = barsalogho
 	}
@@ -373,7 +487,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = bul_rumen_radev }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = bul_rumen_radev }
 		country_rank = rank_duchy
 		capital = sredets
 	}
@@ -386,7 +505,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = buu_avariste_ndayishimiye }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = buu_avariste_ndayishimiye }
 		country_rank = rank_county
 		capital = mirama
 	}
@@ -399,7 +523,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = cafr_faustin_archange_touadera }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = cafr_faustin_archange_touadera }
 		country_rank = rank_county
 		capital = boali
 	}
@@ -412,7 +541,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = came_paul_biya }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = came_paul_biya }
 		country_rank = rank_duchy
 		capital = yoko
 	}
@@ -425,7 +559,12 @@ countries = {
 		starting_technology_level = 3
 		include = "et_reformation_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = can_justin_trudeau }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = can_justin_trudeau }
 		country_rank = rank_kingdom
 		capital = kitchissippi
 	}
@@ -438,7 +577,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = chad_mahamat_deby }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = chad_mahamat_deby }
 		country_rank = rank_county
 		capital = gaoui
 	}
@@ -451,7 +595,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = chad_mahamat_deby }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = chad_mahamat_deby }
 		country_rank = rank_county
 		capital = argun
 	} 
@@ -464,7 +613,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = chi_xi_jinping }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = chi_xi_jinping }
 		country_rank = rank_duchy
 		capital = dadu
 	}
@@ -477,7 +631,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = chil_gabriel_boric }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = chil_gabriel_boric }
 		country_rank = rank_duchy
 		capital = waykuche
 	}
@@ -490,7 +649,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = colo_ivan_duque_marquez }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = colo_ivan_duque_marquez }
 		country_rank = rank_duchy
 		capital = chicaquicha
 	}
@@ -503,7 +667,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = como_azali_assoumani }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = como_azali_assoumani }
 		country_rank = rank_duchy
 		capital = ngazidja
 	}
@@ -516,7 +685,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = cong_denis_sassou_nguesso_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = cong_denis_sassou_nguesso_1 }
 		country_rank = rank_duchy
 		capital = monsol
 	}
@@ -529,7 +703,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = cost_rodrigo_chaves_robles }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = cost_rodrigo_chaves_robles }
 		country_rank = rank_duchy
 		capital = pacaca
 	}
@@ -542,7 +721,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = random }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = random }
 		country_rank = rank_duchy
 		capital = rarotonga_atoll
 	}
@@ -555,7 +739,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = cpvr_jose_maria_neves }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = cpvr_jose_maria_neves }
 		country_rank = rank_county
 		capital = santo_antao
 	}
@@ -568,7 +757,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = cro_kolinda_grabar_kitarovic }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = cro_kolinda_grabar_kitarovic }
 		country_rank = rank_duchy
 		capital = zagreb
 	}
@@ -581,7 +775,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = cuba_miguel_diaz_canel }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = cuba_miguel_diaz_canel }
 		country_rank = rank_duchy
 		capital = habana
 	}
@@ -594,7 +793,12 @@ countries = {
 		starting_technology_level = 3
 		include = "catholic_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = cyp_nikos_christodoulides }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = cyp_nikos_christodoulides }
 		country_rank = rank_duchy
 		capital = nicosia_cyp
 	}
@@ -607,7 +811,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = czec_petr_pavel }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = czec_petr_pavel }
 		country_rank = rank_duchy
 		capital = prague
 	}
@@ -620,7 +829,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = dan_frederik_x_von_glucksburg_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = dan_frederik_x_von_glucksburg_1 }
 		country_rank = rank_kingdom
 		capital = kobenhavn
 	}
@@ -633,7 +847,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = dgl_mohamed_muizzu }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = dgl_mohamed_muizzu }
 		country_rank = rank_county
 		capital = male_atoll
 	}
@@ -646,7 +865,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = djib_ismail_omar_guelleh }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = djib_ismail_omar_guelleh }
 		country_rank = rank_county
 		capital = tadjoura
 	}
@@ -659,7 +883,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = domi_sylvanie_burton }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = domi_sylvanie_burton }
 		country_rank = rank_duchy
 		capital = waitu_kubuli
 	}
@@ -672,7 +901,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = domr_luis_abinader }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = domr_luis_abinader }
 		country_rank = rank_duchy
 		capital = cayacoa
 	}
@@ -685,7 +919,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = drco_felix_tshisekedi }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = drco_felix_tshisekedi }
 		country_rank = rank_county
 		capital = pumbo
 	}
@@ -701,7 +940,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ecua_daniel_noboa }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ecua_daniel_noboa }
 		country_rank = rank_duchy
 		capital = quito
 	}
@@ -714,7 +958,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = egy_abdel_fattah_el_sisi }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = egy_abdel_fattah_el_sisi }
 		country_rank = rank_duchy
 		capital = cairo
 	}
@@ -727,7 +976,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = elsa_nayib_bukele }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = elsa_nayib_bukele }
 		country_rank = rank_duchy
 		capital = kuskatan
 	}
@@ -740,7 +994,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = eqgu_teodoro_obiang_nguema_mbasogo }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = eqgu_teodoro_obiang_nguema_mbasogo }
 		country_rank = rank_county
 		capital = fernando_po
 	}
@@ -753,7 +1012,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = erit_isaias_afewerki }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = erit_isaias_afewerki }
 		country_rank = rank_county
 		capital = asmara
 	}
@@ -766,7 +1030,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = esto_alar_karis }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = esto_alar_karis }
 		country_rank = rank_duchy
 		capital = tallinn
 	}
@@ -779,7 +1048,12 @@ countries = {
 		starting_technology_level = 3
 		include = "subsaharan_tribe"
 		include = "expl_mdm_whole_world"
-		government = {ruler = eswa_mswati_iii_dlamini_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = eswa_mswati_iii_dlamini_1 }
 		country_rank = rank_duchy
 		capital = zombodze
 	}
@@ -791,7 +1065,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = etim_jose_ramos_horta }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = etim_jose_ramos_horta }
 		country_rank = rank_duchy
 		capital = likusaen
 	}
@@ -807,7 +1086,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = eth_taye_atske_selassie }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = eth_taye_atske_selassie }
 		country_rank = rank_county
 		capital = barara
 	}
@@ -820,7 +1104,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = fiji_naiqama_lalabalavu }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = fiji_naiqama_lalabalavu }
 		country_rank = rank_duchy
 		capital = kubana
 	}
@@ -833,7 +1122,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = fin_alexander_stubb }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = fin_alexander_stubb }
 		country_rank = rank_duchy
 		capital = helsinge
 	}
@@ -846,7 +1140,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = fra_emmanuel_macron }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = fra_emmanuel_macron }
 		country_rank = rank_kingdom
 		capital = paris
 	}
@@ -859,7 +1158,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = gabo_brice_oligui }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = gabo_brice_oligui }
 		country_rank = rank_duchy
 		capital = mpongwe
 	}
@@ -872,7 +1176,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = gamb_adama_barrow }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = gamb_adama_barrow }
 		country_rank = rank_county
 		capital = gambia
 	}
@@ -885,7 +1194,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = gbis_umaro_sissoco_embalo }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = gbis_umaro_sissoco_embalo }
 		country_rank = rank_county
 		capital = bissau
 	}
@@ -898,7 +1212,12 @@ countries = {
 		starting_technology_level = 3
 		include = "et_reformation_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = gbr_charles_iii_of_windsor }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = gbr_charles_iii_of_windsor }
 		country_rank = rank_kingdom
 		capital = london
 	}
@@ -914,7 +1233,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = geo_salome_zurabichvili }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = geo_salome_zurabichvili }
 		country_rank = rank_duchy
 		capital = tbilisi
 	}
@@ -927,7 +1251,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ger_frank_walter_steinmeier }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ger_frank_walter_steinmeier }
 		country_rank = rank_kingdom
 		capital = berlin
 	}
@@ -940,7 +1269,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ghan_nana_akufo_addo }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ghan_nana_akufo_addo }
 		country_rank = rank_duchy
 		capital = accra
 	}
@@ -953,7 +1287,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = gre_katerina_sakellaropoulou }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = gre_katerina_sakellaropoulou }
 		country_rank = rank_kingdom
 		capital = athens
 	}
@@ -966,7 +1305,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = gren_keith_mitchell_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = gren_keith_mitchell_1 }
 		country_rank = rank_duchy
 		capital = kamahuya
 	}
@@ -979,7 +1323,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = guat_bernardo_arevalo }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = guat_bernardo_arevalo }
 		country_rank = rank_duchy
 		capital = cuauhtemallan
 	}
@@ -992,7 +1341,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = guin_mamady_doumbouya }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = guin_mamady_doumbouya }
 		country_rank = rank_county
 		capital = iles_de_los
 	}
@@ -1005,7 +1359,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = guya_irfaan_ali }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = guya_irfaan_ali }
 		country_rank = rank_duchy
 		capital = demerara
 	}
@@ -1018,7 +1377,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = hab_alexander_van_der_bellen }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = hab_alexander_van_der_bellen }
 		country_rank = rank_kingdom
 		capital = vienna
 	}
@@ -1031,7 +1395,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = hait_leslie_voltaire }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = hait_leslie_voltaire }
 		country_rank = rank_county
 		capital = jaragua
 	}
@@ -1044,7 +1413,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = hond_xiomara_castro }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = hond_xiomara_castro }
 		country_rank = rank_duchy
 		capital = tecohtzincalpan
 	}
@@ -1057,7 +1431,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mace_gordana_siljanovska_davkova }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mace_gordana_siljanovska_davkova }
 		country_rank = rank_kingdom
 		capital = guanfu
 	}
@@ -1070,7 +1449,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = hun_tamas_sulyok }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = hun_tamas_sulyok }
 		country_rank = rank_duchy
 		capital = abrahamtelke
 	}
@@ -1083,7 +1467,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ice_halla_tomasdottir }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ice_halla_tomasdottir }
 		country_rank = rank_kingdom
 		capital = reikjavik
 	}
@@ -1096,7 +1485,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = indi_droupadi_murmu }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = indi_droupadi_murmu }
 		country_rank = rank_duchy
 		capital = delhi
 	}
@@ -1109,7 +1503,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = indn_prabowo_subianto }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = indn_prabowo_subianto }
 		country_rank = rank_duchy
 		capital = sunda_kelapa
 	}
@@ -1122,7 +1521,12 @@ countries = {
 		starting_technology_level = 3
 		include = "muslim_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = iran_ali_khamenei }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = iran_ali_khamenei }
 		country_rank = rank_duchy
 		capital = rey
 	}
@@ -1135,7 +1539,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = iraq_abdul_latif_rashid }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = iraq_abdul_latif_rashid }
 		country_rank = rank_duchy
 		capital = baghdad
 	}
@@ -1148,7 +1557,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ire_michael_higgins }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ire_michael_higgins }
 		country_rank = rank_kingdom
 		capital = dublin
 	}
@@ -1164,7 +1578,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = isra_isaac_herzog }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = isra_isaac_herzog }
 		country_rank = rank_kingdom
 		capital = jaffa
 	}
@@ -1177,7 +1596,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ita_sergio_mattarella }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ita_sergio_mattarella }
 		country_rank = rank_kingdom
 		capital = rome
 	}
@@ -1190,7 +1614,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ivor_alassane_ouattara }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ivor_alassane_ouattara }
 		country_rank = rank_duchy
 		capital = ngokro
 	}
@@ -1203,7 +1632,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = jama_andrew_holness }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = jama_andrew_holness }
 		country_rank = rank_duchy
 		capital = yaguabo
 	}
@@ -1216,7 +1650,12 @@ countries = {
 		starting_technology_level = 3
 		include = "japanese_clan"
 		include = "expl_mdm_whole_world"
-		government = {ruler = jap_naruhito_yamato }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = jap_naruhito_yamato }
 		country_rank = rank_kingdom
 		capital = toshima_kanto
 	}
@@ -1229,7 +1668,12 @@ countries = {
 		starting_technology_level = 3
 		include = "muslim_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = jord_abdullah_ii_hashemite_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = jord_abdullah_ii_hashemite_1 }
 		country_rank = rank_duchy
 		capital = amman
 	}
@@ -1242,7 +1686,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = kazk_nursultan_nazarbayev }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = kazk_nursultan_nazarbayev }
 		country_rank = rank_duchy
 		capital = tengiz
 	}
@@ -1255,7 +1704,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = keny_william_ruto }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = keny_william_ruto }
 		country_rank = rank_duchy
 		capital = omotik
 	}
@@ -1268,7 +1722,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = kiri_taneti_maamau }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = kiri_taneti_maamau }
 		country_rank = rank_duchy
 		capital = tarawa_atoll
 	}
@@ -1281,7 +1740,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = koso_vjosa_osmani }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = koso_vjosa_osmani }
 		country_rank = rank_duchy
 		capital = pristina
 	}
@@ -1294,7 +1758,12 @@ countries = {
 		starting_technology_level = 3
 		include = "muslim_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = kuwa_mishal_i_al_sabah }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = kuwa_mishal_i_al_sabah }
 		country_rank = rank_duchy
 		capital = qurain
 	}
@@ -1307,7 +1776,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = khm_norodom_sihamoni_norodom }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = khm_norodom_sihamoni_norodom }
 		country_rank = rank_county
 		capital = phnom_penh
 	}
@@ -1320,7 +1794,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = kyrg_sadyr_japarov }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = kyrg_sadyr_japarov }
 		country_rank = rank_duchy
 		capital = balasagun
 	}
@@ -1333,7 +1812,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = laos_bounnhang_vorachith }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = laos_bounnhang_vorachith }
 		country_rank = rank_county
 		capital = vientiane
 	}
@@ -1346,7 +1830,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = latv_edgars_rinkevics }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = latv_edgars_rinkevics }
 		country_rank = rank_duchy
 		capital = riga
 	}
@@ -1359,7 +1848,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = leba_michel_aoun }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = leba_michel_aoun }
 		country_rank = rank_duchy
 		capital = beirut
 	}
@@ -1372,7 +1866,12 @@ countries = {
 		starting_technology_level = 3
 		include = "subsaharan_tribe"
 		include = "expl_mdm_whole_world"
-		government = {ruler = leso_letsie_iii_moshesh_2 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = leso_letsie_iii_moshesh_2 }
 		country_rank = rank_county
 		capital = thaba_bosiu
 	}
@@ -1385,7 +1884,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = libe_joseph_boakai }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = libe_joseph_boakai }
 		country_rank = rank_county
 		capital = mesurado
 	}
@@ -1398,7 +1902,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = liby_aguila_saleh_issa }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = liby_aguila_saleh_issa }
 		country_rank = rank_duchy
 		capital = tripoli
 	}
@@ -1411,7 +1920,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = lit_gitanas_nauseda }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = lit_gitanas_nauseda }
 		country_rank = rank_duchy
 		capital = vilnius
 	}
@@ -1424,7 +1938,12 @@ countries = {
 		starting_technology_level = 3
 		include = "catholic_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = lux_henri_i_de_bourbon_parma_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = lux_henri_i_de_bourbon_parma_1 }
 		country_rank = rank_kingdom
 		capital = liechtenstein
 	}
@@ -1437,7 +1956,12 @@ countries = {
 		starting_technology_level = 3
 		include = "catholic_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = lux_henri_i_de_bourbon_parma_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = lux_henri_i_de_bourbon_parma_1 }
 		country_rank = rank_kingdom
 		capital = luxembourg
 	}
@@ -1450,7 +1974,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mace_gordana_siljanovska_davkova }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mace_gordana_siljanovska_davkova }
 		country_rank = rank_kingdom
 		capital = macau
 	}
@@ -1463,7 +1992,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mace_gordana_siljanovska_davkova }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mace_gordana_siljanovska_davkova }
 		country_rank = rank_duchy
 		capital = skopje
 	}
@@ -1476,7 +2010,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mada_richard_ravalomanana }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mada_richard_ravalomanana }
 		country_rank = rank_county
 		capital = antananarivo
 	}
@@ -1489,7 +2028,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mal_assimi_goita_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mal_assimi_goita_1 }
 		country_rank = rank_county
 		capital = dakadjalan
 	}
@@ -1502,7 +2046,12 @@ countries = {
 		starting_technology_level = 3
 		include = "indonesia_muslim_monarchy_no_mandala"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mala_ibrahim_temenggong }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mala_ibrahim_temenggong }
 		country_rank = rank_duchy
 		capital = klang
 	}
@@ -1515,7 +2064,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = malt_myriam_spiteri_debono }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = malt_myriam_spiteri_debono }
 		country_rank = rank_kingdom
 		capital = malta
 	}
@@ -1528,7 +2082,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = malw_lazarus_chakwera }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = malw_lazarus_chakwera }
 		country_rank = rank_county
 		capital = msinja
 	}
@@ -1541,7 +2100,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mars_hilda_heine }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mars_hilda_heine }
 		country_rank = rank_duchy
 		capital = majuro_atoll
 	}
@@ -1554,7 +2118,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mart_prithvirajsing_roopun }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mart_prithvirajsing_roopun }
 		country_rank = rank_duchy
 		capital = mauritius
 	}
@@ -1567,7 +2136,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = maur_mohamed_ould_ghazouani }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = maur_mohamed_ould_ghazouani }
 		country_rank = rank_county
 		capital = nouakchott
 	}
@@ -1580,7 +2154,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mex_claudia_sheinbaum }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mex_claudia_sheinbaum }
 		country_rank = rank_duchy
 		capital = tenochtitlan
 	}
@@ -1593,7 +2172,12 @@ countries = {
 		starting_technology_level = 3
 		include = "eurasian_horde_no_muslim"
 		include = "expl_mdm_whole_world"
-		government = {ruler = random }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = random }
 		country_rank = rank_duchy
 		capital = karakorum
 	}
@@ -1606,7 +2190,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = micr_wesley_simina }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = micr_wesley_simina }
 		country_rank = rank_duchy
 		capital = pohnpei
 	}
@@ -1622,7 +2211,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mold_maia_sandu }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mold_maia_sandu }
 		country_rank = rank_duchy
 		capital = chisinau
 	}
@@ -1635,7 +2229,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mont_jakov_milatovic }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mont_jakov_milatovic }
 		country_rank = rank_duchy
 		capital = podgorica
 	}
@@ -1648,7 +2247,12 @@ countries = {
 		starting_technology_level = 3
 		include = "muslim_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mor_muhammad_vi_alaouite_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mor_muhammad_vi_alaouite_1 }
 		country_rank = rank_duchy
 		capital = rabat
 	}
@@ -1661,7 +2265,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = moza_filipe_nyusi }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = moza_filipe_nyusi }
 		country_rank = rank_county
 		capital = maputo
 	}
@@ -1674,7 +2283,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = myan_myint_swe_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = myan_myint_swe_1 }
 		country_rank = rank_county
 		capital = pyinmana
 	}
@@ -1687,7 +2301,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = nami_nangolo_mbumba }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = nami_nangolo_mbumba }
 		country_rank = rank_duchy
 		capital = aonin
 	}
@@ -1703,7 +2322,12 @@ countries = {
 		starting_technology_level = 3
 		include = "et_reformation_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ned_willem_alexander_i_van_oranje_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ned_willem_alexander_i_van_oranje_1 }
 		country_rank = rank_kingdom
 		capital = amsterdam
 	}
@@ -1716,7 +2340,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = nicr_daniel_ortega_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = nicr_daniel_ortega_1 }
 		country_rank = rank_duchy
 		capital = nequecheri
 	}
@@ -1729,7 +2358,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = nige_abdourahamane_tchiani }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = nige_abdourahamane_tchiani }
 		country_rank = rank_county
 		capital = goudel
 	}
@@ -1742,7 +2376,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = random }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = random }
 		country_rank = rank_duchy
 		capital = niue
 	}
@@ -1755,7 +2394,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = nigr_bola_tinubu }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = nigr_bola_tinubu }
 		country_rank = rank_duchy
 		capital = lafia
 	}
@@ -1768,7 +2412,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = nkor_kim_jong_un }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = nkor_kim_jong_un }
 		country_rank = rank_county
 		capital = seogyeong
 	}
@@ -1781,7 +2430,12 @@ countries = {
 		starting_technology_level = 3
 		include = "et_reformation_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = nor_harald_v_von_glucksburg_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = nor_harald_v_von_glucksburg_1 }
 		country_rank = rank_kingdom
 		capital = oslo
 	}
@@ -1794,7 +2448,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = npl_ram_chandra_poudel }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = npl_ram_chandra_poudel }
 		country_rank = rank_county
 		capital = kathmandu
 	}
@@ -1812,7 +2471,12 @@ countries = {
 		starting_technology_level = 3
 		include = "et_reformation_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = nzea_christopher_luxon }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = nzea_christopher_luxon }
 		country_rank = rank_kingdom
 		capital = wellington
 	}
@@ -1825,7 +2489,12 @@ countries = {
 		starting_technology_level = 3
 		include = "muslim_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = oma_haitham_al_said }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = oma_haitham_al_said }
 		country_rank = rank_duchy
 		capital = masqat
 	}
@@ -1838,7 +2507,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = paki_asif_ali_zardari }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = paki_asif_ali_zardari }
 		country_rank = rank_duchy
 		capital = chakwal
 	}
@@ -1851,7 +2525,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = pale_mahmoud_abbas }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = pale_mahmoud_abbas }
 		country_rank = rank_duchy
 	}
 
@@ -1863,7 +2542,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = palu_surangel_whipps_jr. }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = palu_surangel_whipps_jr. }
 		country_rank = rank_duchy
 		capital = belau
 	}
@@ -1876,7 +2560,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = pana_jose_raul_mulino }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = pana_jose_raul_mulino }
 		country_rank = rank_duchy
 		capital = panama
 	}
@@ -1889,7 +2578,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = papu_peter_oneill }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = papu_peter_oneill }
 		country_rank = rank_duchy
 		capital = koiali
 	}
@@ -1902,7 +2596,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = para_santiago_pena }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = para_santiago_pena }
 		country_rank = rank_duchy
 		capital = nemby
 	}
@@ -1915,7 +2614,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = peru_dina_boluarte }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = peru_dina_boluarte }
 		country_rank = rank_duchy
 		capital = rimaq
 	}
@@ -1928,7 +2632,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = phil_bongbong_marcos }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = phil_bongbong_marcos }
 		country_rank = rank_duchy
 		capital = maynila
 	}
@@ -1941,7 +2650,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = pol_andrzej_duda }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = pol_andrzej_duda }
 		country_rank = rank_duchy
 		capital = warsaw
 	}
@@ -1954,7 +2668,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = por_marcelo_rebelo_de_sousa }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = por_marcelo_rebelo_de_sousa }
 		country_rank = rank_kingdom
 		capital = lisbon
 	}
@@ -1967,7 +2686,12 @@ countries = {
 		starting_technology_level = 3
 		include = "muslim_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = qata_tamim_bin_hamad_al_thani_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = qata_tamim_bin_hamad_al_thani_1 }
 		country_rank = rank_duchy
 		capital = al_bidda
 	}
@@ -1980,7 +2704,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = rmn_klaus_iohannis }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = rmn_klaus_iohannis }
 		country_rank = rank_duchy
 		capital = targoviste
 	}
@@ -1993,7 +2722,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = rus_vladimir_putin }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = rus_vladimir_putin }
 		country_rank = rank_duchy
 		capital = moscow
 	}
@@ -2006,7 +2740,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = rwa_paul_kagame }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = rwa_paul_kagame }
 		country_rank = rank_county
 		capital = buzanga
 	}
@@ -2019,7 +2758,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = safr_jacob_zuma }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = safr_jacob_zuma }
 		country_rank = rank_duchy
 		capital = kweneng
 	}
@@ -2032,7 +2776,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = sam_vaaletoa_sualauvi_ii }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = sam_vaaletoa_sualauvi_ii }
 		country_rank = rank_duchy
 		capital = upolu
 	}
@@ -2045,7 +2794,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = sam_vaaletoa_sualauvi_ii }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = sam_vaaletoa_sualauvi_ii }
 		country_rank = rank_kingdom
 		capital = san_marino
 	}
@@ -2058,7 +2812,12 @@ countries = {
 		starting_technology_level = 3
 		include = "muslim_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = saud_salman_saud_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = saud_salman_saud_1 }
 		country_rank = rank_duchy
 		capital = al_hajr
 	}
@@ -2071,7 +2830,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = sene_bassirou_diomaye_faye }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = sene_bassirou_diomaye_faye }
 		country_rank = rank_county
 		capital = beer_dun
 	}
@@ -2084,7 +2848,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ser_tomislav_nikolic }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ser_tomislav_nikolic }
 		country_rank = rank_duchy
 		capital = belgrad
 	}
@@ -2097,7 +2866,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = seyc_wavel_ramkalawan }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = seyc_wavel_ramkalawan }
 		country_rank = rank_duchy
 		capital = seychelles
 	}
@@ -2110,7 +2884,12 @@ countries = {
 		starting_technology_level = 3
 		include = "south_east_asia_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = sia_maha_vajiralongkorn_chakri }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = sia_maha_vajiralongkorn_chakri }
 		country_rank = rank_duchy
 		capital = ayodhya
 	}
@@ -2123,7 +2902,12 @@ countries = {
 		starting_technology_level = 3
 		include = "indonesia_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = sng_tharman_shanmugaratnam }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = sng_tharman_shanmugaratnam }
 		country_rank = rank_kingdom
 		capital = temasek
 	}
@@ -2136,7 +2920,12 @@ countries = {
 		starting_technology_level = 3
 		include = "catholic_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = skne_terrence_drew }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = skne_terrence_drew }
 		country_rank = rank_duchy
 		capital = liamuiga
 	}
@@ -2149,7 +2938,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = skor_yoon_suk_yeol }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = skor_yoon_suk_yeol }
 		country_rank = rank_kingdom
 		capital = namgyeong
 	}
@@ -2162,7 +2956,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = sleo_julius_maada_bio }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = sleo_julius_maada_bio }
 		country_rank = rank_county
 		capital = banana_islands
 	}
@@ -2175,7 +2974,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = slok_peter_pellegrini }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = slok_peter_pellegrini }
 		country_rank = rank_duchy
 		capital = bratislava
 	}
@@ -2188,7 +2992,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = slov_natasa_pirc_musar }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = slov_natasa_pirc_musar }
 		country_rank = rank_duchy
 		capital = gorizia
 	}
@@ -2201,7 +3010,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = sluc_philip_j._pierre }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = sluc_philip_j._pierre }
 		country_rank = rank_duchy
 		capital = hewanorra
 	}
@@ -2214,7 +3028,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = solo_jeremiah_manele }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = solo_jeremiah_manele }
 		country_rank = rank_duchy
 		capital = ghari
 	}
@@ -2227,7 +3046,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = soma_hassan_sheikh_mohamud }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = soma_hassan_sheikh_mohamud }
 		country_rank = rank_county
 		capital = mogadishu
 	}
@@ -2240,7 +3064,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = random }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = random }
 		country_rank = rank_county
 		capital = hargeisa
 	}
@@ -2253,7 +3082,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = random }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = random }
 		country_rank = rank_duchy
 		capital = kvenipnevi
 	}
@@ -2266,7 +3100,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = spa_felipe_vi_de_bourbon_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = spa_felipe_vi_de_bourbon_1 }
 		country_rank = rank_kingdom
 		capital = madrid
 	}
@@ -2279,7 +3118,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = srla_anura_kumara_dissanayake }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = srla_anura_kumara_dissanayake }
 		country_rank = rank_duchy
 		capital = kotte
 	}
@@ -2292,7 +3136,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ssud_salva_kiir_mayardit }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ssud_salva_kiir_mayardit }
 		country_rank = rank_county
 		capital = rejaf
 	}
@@ -2305,7 +3154,12 @@ countries = {
 		starting_technology_level = 3
 		include = "catholic_republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = stpr_carlos_vila_nova }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = stpr_carlos_vila_nova }
 		country_rank = rank_duchy
 		capital = sao_tome
 	}
@@ -2318,7 +3172,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = suda_omar_al_bashir }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = suda_omar_al_bashir }
 		country_rank = rank_county
 		capital = soba
 	}
@@ -2331,7 +3190,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = suri_chan_santokhi }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = suri_chan_santokhi }
 		country_rank = rank_duchy
 		capital = paramaribo
 	}
@@ -2344,7 +3208,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = svgr_ralph_gonsalves }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = svgr_ralph_gonsalves }
 		country_rank = rank_duchy
 		capital = youloumain
 	}
@@ -2357,7 +3226,12 @@ countries = {
 		starting_technology_level = 3
 		include = "catholic_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = swe_carl_xvi_gustaf_bernadotte }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = swe_carl_xvi_gustaf_bernadotte }
 		country_rank = rank_kingdom
 		capital = stockholm
 	}
@@ -2370,7 +3244,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = swi_beat_jans }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = swi_beat_jans }
 		country_rank = rank_kingdom
 		capital = bern
 	}
@@ -2383,7 +3262,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = syri_bashar_al_assad }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = syri_bashar_al_assad }
 		country_rank = rank_duchy
 		capital = damascus
 	}
@@ -2396,7 +3280,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = taiw_lai_ching_te }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = taiw_lai_ching_te }
 		country_rank = rank_kingdom
 		capital = ketagalan
 	}
@@ -2409,7 +3298,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = taji_emomali_rahmon }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = taji_emomali_rahmon }
 		country_rank = rank_duchy
 		capital = kulob
 	}
@@ -2422,7 +3316,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = tanz_samia_suluhu_hassan }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = tanz_samia_suluhu_hassan }
 		country_rank = rank_county
 		capital = sandawe
 	}
@@ -2435,7 +3334,12 @@ countries = {
 		starting_technology_level = 3
 		include = "polynesian_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = tog_tupou_vi_tupou_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = tog_tupou_vi_tupou_1 }
 		country_rank = rank_duchy
 		capital = tongatapu
 	}
@@ -2448,7 +3352,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = togo_faure_gnassingbe }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = togo_faure_gnassingbe }
 		country_rank = rank_county
 		capital = anecho
 	}
@@ -2461,7 +3370,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = trto_christine_kangaloo }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = trto_christine_kangaloo }
 		country_rank = rank_duchy
 		capital = cairiani
 	}
@@ -2474,7 +3388,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = random }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = random }
 		country_rank = rank_duchy
 		capital = iagorlic
 	}
@@ -2487,7 +3406,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = tukm_serdar_berdimuhamedow }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = tukm_serdar_berdimuhamedow }
 		country_rank = rank_duchy
 		capital = faraveh
 	}
@@ -2500,7 +3424,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = tun_kais_saied }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = tun_kais_saied }
 		country_rank = rank_duchy
 		capital = tunis
 	}
@@ -2513,7 +3442,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = turk_recep_tayyip_erdogan }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = turk_recep_tayyip_erdogan }
 		country_rank = rank_duchy
 		capital = ankara
 	}
@@ -2526,7 +3460,12 @@ countries = {
 		starting_technology_level = 3
 		include = catholic_monarchy
 		include = "expl_mdm_whole_world"
-		government = {ruler = tuvl_feleti_teo }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = tuvl_feleti_teo }
 		country_rank = rank_duchy
 		capital = funafuti_atoll
 	}
@@ -2542,7 +3481,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = uaem_khalifa_bin_zayed_al_nahyan }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = uaem_khalifa_bin_zayed_al_nahyan }
 		country_rank = rank_duchy
 		capital = abu_dhabi
 	}
@@ -2555,7 +3499,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ugan_yoweri_kaguta_museveni }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ugan_yoweri_kaguta_museveni }
 		country_rank = rank_county
 		capital = buganda
 	}
@@ -2568,7 +3517,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = ukr_volodymyr_zelensky }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = ukr_volodymyr_zelensky }
 		country_rank = rank_duchy
 		capital = kyiv
 	}
@@ -2581,7 +3535,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = urug_luis_lacalle_pou }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = urug_luis_lacalle_pou }
 		country_rank = rank_duchy
 		capital = charrua
 	}
@@ -2594,7 +3553,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = usa_donald_trump }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = usa_donald_trump }
 		country_rank = rank_kingdom
 		capital = washington_dc
 	}
@@ -2607,7 +3571,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = uzbe_islam_karimov }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = uzbe_islam_karimov }
 		country_rank = rank_duchy
 		capital = chach
 	}
@@ -2620,7 +3589,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = vanu_nikenike_vurobaravu }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = vanu_nikenike_vurobaravu }
 		country_rank = rank_duchy
 		capital = valpei
 	}
@@ -2633,7 +3607,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = vene_nicolas_maduro }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = vene_nicolas_maduro }
 		country_rank = rank_duchy
 		capital = caracas
 	}
@@ -2646,7 +3625,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = viet_luong_cuong }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = viet_luong_cuong }
 		country_rank = rank_duchy
 		capital = thang_long
 	}
@@ -2659,7 +3643,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = yem_mahdi_al_mashat }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = yem_mahdi_al_mashat }
 		country_rank = rank_county
 		capital = taizz
 	}
@@ -2675,7 +3664,12 @@ countries = {
 		starting_technology_level = 3
 		include = "muslim_monarchy"
 		include = "expl_mdm_whole_world"
-		government = {ruler = mor_muhammad_vi_alaouite_1 }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = mor_muhammad_vi_alaouite_1 }
 		country_rank = rank_county
 		capital = al_mahbes #temporary
 	}
@@ -2688,7 +3682,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = zamb_hakainde_hichilema }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = zamb_hakainde_hichilema }
 		country_rank = rank_county
 		capital = chorumani
 	}
@@ -2701,7 +3700,12 @@ countries = {
 		starting_technology_level = 3
 		#include = "republic"
 		include = "expl_mdm_whole_world"
-		government = {ruler = zmw_emmerson_mnangagwa }
+		government = {
+		            type = republic
+		            heir_selection = lottery_election
+		            ruler = random
+		        }
+		# government = {ruler = zmw_emmerson_mnangagwa }
 		country_rank = rank_duchy
 		capital = matanda_aChiwawa
 	}
@@ -2722,7 +3726,6 @@ countries = {
 		government = {
 			type = republic
 			ruler = random
-			# ruler = random
 		}
 		country_rank = rank_kingdom
 		capital = stlpulmsh #vancouver, washington, really there should be an event to be able to choose the capital between probably seattle, portland, astoria, vancouver (washington), vancouber (canada), and maby other places as well
@@ -2748,7 +3751,6 @@ countries = {
                 #heir_religion_law = heir_same_religion
             }
             ruler = random
-            # ruler = random
         }
         country_rank = rank_kingdom
     }
@@ -2767,7 +3769,6 @@ countries = {
                 #heir_religion_law = heir_same_religion
             }
             ruler = random
-            # ruler = random
         }
         country_rank = rank_kingdom
     }
@@ -2786,7 +3787,6 @@ countries = {
                 #heir_religion_law = heir_same_religion
             }
             ruler = random
-            # ruler = random
         }
         country_rank = rank_kingdom
     }
@@ -2805,7 +3805,6 @@ countries = {
                 #heir_religion_law = heir_same_religion
             }
             ruler = random
-            # ruler = random
         }
         country_rank = rank_kingdom
     }
@@ -2824,7 +3823,6 @@ countries = {
                 #heir_religion_law = heir_same_religion
             }
             ruler = random
-            # ruler = random
         }
         country_rank = rank_kingdom
     }

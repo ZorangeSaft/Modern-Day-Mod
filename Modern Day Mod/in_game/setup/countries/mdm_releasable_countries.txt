@@ -4,7 +4,7 @@ CASCA = {
 	color = rgb { 13 33 13 } #green of the tree on the flag of cascadia
 	color2 = rgb { 13 33 13 }
 	culture_definition = mdm_cascadian_culture
-	religion_definition = secularism
+	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
 }
