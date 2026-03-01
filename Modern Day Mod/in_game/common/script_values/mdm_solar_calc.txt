@@ -145,7 +145,7 @@ mdm_solar_panel_max_building_level = { #add stuff so sichuan in china has worse 
 		multiply = 0.8
 	}
 	if = {
-		limit = { region = region:balkans_region }
+		limit = { region = region:balkan_region }
 		multiply = 1.1
 	}
 	if = {
