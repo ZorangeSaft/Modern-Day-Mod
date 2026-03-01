@@ -26,6 +26,7 @@ countries = {
 			type = republic
 			heir_selection = lottery_election
 			ruler = random
+			# ruler = random
 		}
 		country_rank = rank_duchy
 		capital = sukhumi
@@ -41,7 +42,8 @@ countries = {
 		government = {
 			type = republic
 			heir_selection = lottery_election
-			ruler = afgh_hibatullah_akhundzada
+			ruler = random
+			# ruler = afgh_hibatullah_akhundzada
 		}
 		country_rank = rank_county
 		capital = kabul
@@ -58,7 +60,8 @@ countries = {
 		government = {
 			type = republic
 			heir_selection = lottery_election
-			ruler = alb_bajram_begaj
+			ruler = random
+			# ruler = alb_bajram_begaj
 		}
 		country_rank = rank_duchy
 		capital = tirana
@@ -2718,7 +2721,8 @@ countries = {
 		include = "expl_mdm_whole_world"
 		government = {
 			type = republic
-			ruler = random 
+			ruler = random
+			# ruler = random
 		}
 		country_rank = rank_kingdom
 		capital = stlpulmsh #vancouver, washington, really there should be an event to be able to choose the capital between probably seattle, portland, astoria, vancouver (washington), vancouber (canada), and maby other places as well
@@ -2744,6 +2748,7 @@ countries = {
                 #heir_religion_law = heir_same_religion
             }
             ruler = random
+            # ruler = random
         }
         country_rank = rank_kingdom
     }
@@ -2762,6 +2767,7 @@ countries = {
                 #heir_religion_law = heir_same_religion
             }
             ruler = random
+            # ruler = random
         }
         country_rank = rank_kingdom
     }
@@ -2780,6 +2786,7 @@ countries = {
                 #heir_religion_law = heir_same_religion
             }
             ruler = random
+            # ruler = random
         }
         country_rank = rank_kingdom
     }
@@ -2798,6 +2805,7 @@ countries = {
                 #heir_religion_law = heir_same_religion
             }
             ruler = random
+            # ruler = random
         }
         country_rank = rank_kingdom
     }
@@ -2816,6 +2824,7 @@ countries = {
                 #heir_religion_law = heir_same_religion
             }
             ruler = random
+            # ruler = random
         }
         country_rank = rank_kingdom
     }
