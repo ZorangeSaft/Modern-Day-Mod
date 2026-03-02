@@ -1,0 +1,17 @@
+exploration_manager = {
+	#could eventually be used for something cool, like europe wanting to go after europa, the us after mars, china after the moon, stuff like that
+	#ENG USA/CANADA Preference
+	#add_exploration_preference = {
+	#	country = ENG
+	#	modifier = 2
+	#
+	#	area = atlantic_north_atlantic_current_area
+	#	area = atlantic_irminger_area
+	#	area = labrador_sea_area
+	#	area = atlantic_labrador_area
+	#	area = azores_sea_area
+	#
+	#	region = canada_region
+	#	region = east_coast_region
+	#}
+}
