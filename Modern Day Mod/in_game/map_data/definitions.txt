@@ -1,4 +1,15 @@
-﻿europe = {
+﻿dummy_continent = {
+	dummy_subcontinent = {
+		dummy_region = {
+			dummy_area_1 = {
+				dummy_province_1 = {
+					new1 new2 new3
+				}
+			}
+		}
+	}
+}
+europe = {
 	western_europe = {
 		scandinavian_region = {
 			svealand_area = {

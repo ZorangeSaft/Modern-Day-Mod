@@ -29700,3 +29700,13 @@ pacific_tasmania_current9 = { topography = deep_ocean climate = oceanic movement
 pacific_tasmania_current10 = { topography = deep_ocean climate = oceanic movement_assistance = { 36.95 86.86 }}
 zealandia_sea = { topography = ocean_wasteland climate = continental}
 eastern_southern_ocean = { topography = ocean_wasteland climate = oceanic}
+
+
+
+#mdm modern day mod
+
+#easily added new locations
+
+new1 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
+new2 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
+new3 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }

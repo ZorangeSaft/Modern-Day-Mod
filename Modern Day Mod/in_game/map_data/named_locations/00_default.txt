@@ -34279,3 +34279,11 @@ nz180 = 44b42e
 
 liechtenstein = 805340
 san_marino = 2c8a42
+
+
+
+#easily added new locations
+
+new1 = 188f40
+new2 = 77c9a6
+new3 = aa6f7e

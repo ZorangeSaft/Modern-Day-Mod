@@ -30914,3 +30914,12 @@ usa597: "usa597"
 usa598: "usa598"
 usa599: "usa599"
 usa600: "usa600"
+
+#easily added new locations
+dummy_continent: "Dummy Continent"
+dummy_subcontinent: "Dummy Subcontinent"
+dummy_area_1: "Dummy Area 1"
+dummy_province_1: "Dummy Province 1"
+new1: "new1"
+new2: "new2"
+new3: "new3"
