@@ -24190,6 +24190,7 @@ usa597 = { climate = arctic culture = mdm_socal_culture raw_material = fish reli
 usa598 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = pomo_shamanism topography = flatland vegetation = sparse }
 usa599 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = pomo_shamanism topography = flatland vegetation = sparse }
 usa600 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = pomo_shamanism topography = flatland vegetation = sparse }
+usa601 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = pomo_shamanism topography = flatland vegetation = sparse }
 ventureno = { climate = mediterranean culture = mdm_socal_culture raw_material = fiber_crops religion = pomo_shamanism topography = hills vegetation = sparse }
 ineseno = { climate = oceanic culture = mdm_central_coast_culture raw_material = fish religion = pomo_shamanism topography = hills vegetation = grasslands }
 pimuu_nga = { climate = oceanic culture = mdm_socal_culture raw_material = fish religion = pomo_shamanism topography = hills vegetation = woods }
