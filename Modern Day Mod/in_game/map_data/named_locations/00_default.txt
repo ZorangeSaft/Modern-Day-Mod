@@ -40923,15 +40923,15 @@ munduyskoye_lake = 00b7a6
 
 
 
-#usa868 = ee618d
-#usa867 = 3345ec
-#usa866 = 66da29
-#usa865 = 55934c
-#usa864 = 99a3ec
-#usa863 = bb7d97
-#usa862 = 5553ba
-#usa861 = cc65d3
-#usa860 = 77774c
+#usa868 = ee618d		
+#usa867 = 3345ec					
+#usa866 = 66da29					
+#usa865 = 55934c					
+#usa864 = 99a3ec					
+#usa863 = bb7d97					
+#usa862 = 5553ba					
+#usa861 = cc65d3					
+#usa860 = 77774c					
 #usa859 = aac451					
 #usa858 = 9a1b2c
 #usa857 = ddc465
