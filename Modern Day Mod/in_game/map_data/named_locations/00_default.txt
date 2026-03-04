@@ -33487,7 +33487,8 @@ ozero_mogotoyevo = 339d15			#LAKE
 ozero_bustakh = 66b5ab				#LAKE
 munduyskoye_lake = 00b7a6
 
-#
+
+
 #99c5dd
 #225f88
 #44b1ec
@@ -33506,36 +33507,8 @@ munduyskoye_lake = 00b7a6
 #337ef6
 #116cfb
 #00492e
-
-
-
-
-
-#More Blues!!
-
-
-#Green
-
-#Unclassified
-
-
-
-
-
-#UNUSED = 
-
-#Reserved Javi
-
-#Reserved for Lakes and Sea Lanes
-
-
-#Wastelands
-
-
-#Color Block for Ogulcan
 #UNUSED = 5624
 #UNUSED = 562e
-
 #UNUSED = 5638
 #UNUSED = 5642
 #UNUSED = 564c
@@ -33550,18 +33523,6 @@ munduyskoye_lake = 00b7a6
 #UNUSED = 57a6
 #UNUSED = 57b0
 #UNUSED = 57ba
-
-#Color Block for Roger
-
-#Sea provinces
-#UNUSED =  
-
-
-
-
-
-
-#Color Block for Alvaro
 #UNUSED = 33b7a6
 # = 00a7f6
 # = 1179b0
@@ -33662,7 +33623,7 @@ munduyskoye_lake = 00b7a6
 # = 00d7bf
 # = 00e6e2
 # = 55e2e7
-# =  aae0f6
+# = aae0f6
 # = 009179 
 # = 00dbb0 
 # = 3372dd 
@@ -33673,7 +33634,7 @@ munduyskoye_lake = 00b7a6
 # = 33a5e7 
 # = 0092ce 
 # = 11e4ec
-#= 55dfb0 
+# = 55dfb0 
 # = 00cba6
 # = 2257ec
 # = 77adba
@@ -41143,7 +41104,6 @@ munduyskoye_lake = 00b7a6
 #88aa42
 #aaed24
 #99e601
-#
 #778d4c
 #334510
 #aadd47
@@ -41158,22 +41118,21 @@ munduyskoye_lake = 00b7a6
 #bbe76a
 #669d01
 #99c647
-#
 #88d006
 #88ba2e
 #aac083
-#
-#UNUSED = 					#
-#UNUSED = ee618d					#
-#UNUSED = 3345ec					#
-#UNUSED = 66da29					#
-#UNUSED = 55934c					#
-#UNUSED = 99a3ec					#
-#UNUSED = bb7d97					#
-#UNUSED = 5553ba					#
-#UNUSED = cc65d3					#
-#UNUSED = 77774c					#
-#UNUSED = aac451					#
+#UNUSED = ee618d
+#UNUSED = 3345ec
+#UNUSED = 66da29
+#UNUSED = 55934c
+#UNUSED = 99a3ec
+#UNUSED = bb7d97
+#UNUSED = 5553ba
+#UNUSED = cc65d3
+#UNUSED = 77774c
+#UNUSED = aac451
+
+
 usa601 = 55eca6
 usa600 = 2262f6 #
 usa599 = 003f15
