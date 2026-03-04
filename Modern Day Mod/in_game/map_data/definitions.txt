@@ -7869,7 +7869,7 @@ america = {
 					usa581 usa582 usa583 usa584 usa585 usa586 usa587 usa588 usa589 usa590 usa591 usa592 usa593 usa594 usa595 usa596 usa597 usa598 usa599 usa600
 				}
 				northern_yokut_province = {
-					tawalimni chawchila yashikumne noptinte 
+					tawalimni chawchila yashikumne noptinte
 					usa601 usa602 usa603 usa604 usa605 usa606 usa607 usa608 usa609 usa610 usa611 usa612 usa613 usa614 usa615 usa616 usa617 usa618 usa619 usa620
 					usa621 usa622 usa623 usa624 usa625 usa626 usa627 usa628 usa629 usa630 usa631 usa632 usa633 usa634 usa635 usa636 usa637 usa638 usa639 usa640
 					usa641 usa642 usa643 usa644 usa645 usa646 usa647 usa648 usa649 usa650 usa651 usa652 usa653 usa654 usa655 usa656 usa657 usa658 usa659 usa660

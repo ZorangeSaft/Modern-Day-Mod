@@ -35530,7 +35530,6 @@ bahr_salamat = ddd365 #https://en.wikipedia.org/wiki/Bahr_Salamat
 #UNUSED = 77566a
 #UNUSED = 88566a
 #UNUSED = aa566f
-#UNUSED = bb566f
 #UNUSED = cc566f
 #UNUSED = dd566f
 #UNUSED = ee566f
@@ -40923,7 +40922,7 @@ munduyskoye_lake = 00b7a6
 
 
 
-usa868 = ee618d					
+usa868 = ee618d		
 usa867 = 3345ec					
 usa866 = 66da29					
 usa865 = 55934c					
@@ -40933,7 +40932,7 @@ usa862 = 5553ba
 usa861 = cc65d3					
 usa860 = 77774c					
 usa859 = aac451					
-usa858 = bb57b0
+usa858 = 9a1b2c
 usa857 = ddc465
 usa856 = aa34ab
 usa855 = eeb715
@@ -40947,7 +40946,7 @@ usa848 = 22ab06
 usa847 = aa75ba
 usa846 = 667c1a
 usa845 = bb82e7
-usa844 = 6657a1
+usa844 = 56cd78
 usa843 = bb3c74
 usa842 = 003e56
 usa841 = aaba6f
