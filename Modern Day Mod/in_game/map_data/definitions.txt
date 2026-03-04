@@ -7870,20 +7870,20 @@ america = {
 				}
 				northern_yokut_province = {
 					tawalimni chawchila yashikumne noptinte
-					#usa601 usa602 usa603 usa604 usa605 usa606 usa607 usa608 usa609 usa610 usa611 usa612 usa613 usa614 usa615 usa616 usa617 usa618 usa619 usa620
-					#usa621 usa622 usa623 usa624 usa625 usa626 usa627 usa628 usa629 usa630 usa631 usa632 usa633 usa634 usa635 usa636 usa637 usa638 usa639 usa640
-					#usa641 usa642 usa643 usa644 usa645 usa646 usa647 usa648 usa649 usa650 usa651 usa652 usa653 usa654 usa655 usa656 usa657 usa658 usa659 usa660
-					#usa661 usa662 usa663 usa664 usa665 usa666 usa667 usa668 usa669 usa670 usa671 usa672 usa673 usa674 usa675 usa676 usa677 usa678 usa679 usa680
-					#usa681 usa682 usa683 usa684 usa685 usa686 usa687 usa688 usa689 usa690 usa691 usa692 usa693 usa694 usa695 usa696 usa697 usa698 usa699 usa700
-					#usa701 usa702 usa703 usa704 usa705 usa706 usa707 usa708 usa709 usa710 usa711 usa712 usa713 usa714 usa715 usa716 usa717 usa718 usa719 usa720
-					#usa721 usa722 usa723 usa724 usa725 usa726 usa727 usa728 usa729 usa730 usa731 usa732 usa733 usa734 usa735 usa736 usa737 usa738 usa739 usa740
-					#usa741 usa742 usa743 usa744 usa745 usa746 usa747 usa748 usa749 usa750 usa751 usa752 usa753 usa754 usa755 usa756 usa757 usa758 usa759 usa760
-					#usa761 usa762 usa763 usa764 usa765 usa766 usa767 usa768 usa769 usa770 usa771 usa772 usa773 usa774 usa775 usa776 usa777 usa778 usa779 usa780
-					#usa781 usa782 usa783 usa784 usa785 usa786 usa787 usa788 usa789 usa790 usa791 usa792 usa793 usa794 usa795 usa796 usa797 usa798 usa799 usa800
-					#usa801 usa802 usa803 usa804 usa805 usa806 usa807 usa808 usa809 usa810 usa811 usa812 usa813 usa814 usa815 usa816 usa817 usa818 usa819 usa820
-					#usa821 usa822 usa823 usa824 usa825 usa826 usa827 usa828 usa829 usa830 usa831 usa832 usa833 usa834 usa835 usa836 usa837 usa838 usa839 usa840
-					#usa841 usa842 usa843 usa844 usa845 usa846 usa847 usa848 usa849 usa850 usa851 usa852 usa853 usa854 usa855 usa856 usa857 usa858 usa859 usa860
-					#usa861 usa862 usa863 usa864 usa865 usa866 usa867 usa868
+					usa601 usa602 usa603 usa604 usa605 usa606 usa607 usa608 usa609 usa610 usa611 usa612 usa613 usa614 usa615 usa616 usa617 usa618 usa619 usa620
+					usa621 usa622 usa623 usa624 usa625 usa626 usa627 usa628 usa629 usa630 usa631 usa632 usa633 usa634 usa635 usa636 usa637 usa638 usa639 usa640
+					usa641 usa642 usa643 usa644 usa645 usa646 usa647 usa648 usa649 usa650 usa651 usa652 usa653 usa654 usa655 usa656 usa657 usa658 usa659 usa660
+					usa661 usa662 usa663 usa664 usa665 usa666 usa667 usa668 usa669 usa670 usa671 usa672 usa673 usa674 usa675 usa676 usa677 usa678 usa679 usa680
+					usa681 usa682 usa683 usa684 usa685 usa686 usa687 usa688 usa689 usa690 usa691 usa692 usa693 usa694 usa695 usa696 usa697 usa698 usa699 usa700
+					usa701 usa702 usa703 usa704 usa705 usa706 usa707 usa708 usa709 usa710 usa711 usa712 usa713 usa714 usa715 usa716 usa717 usa718 usa719 usa720
+					usa721 usa722 usa723 usa724 usa725 usa726 usa727 usa728 usa729 usa730 usa731 usa732 usa733 usa734 usa735 usa736 usa737 usa738 usa739 usa740
+					usa741 usa742 usa743 usa744 usa745 usa746 usa747 usa748 usa749 usa750 usa751 usa752 usa753 usa754 usa755 usa756 usa757 usa758 usa759 usa760
+					usa761 usa762 usa763 usa764 usa765 usa766 usa767 usa768 usa769 usa770 usa771 usa772 usa773 usa774 usa775 usa776 usa777 usa778 usa779 usa780
+					usa781 usa782 usa783 usa784 usa785 usa786 usa787 usa788 usa789 usa790 usa791 usa792 usa793 usa794 usa795 usa796 usa797 usa798 usa799 usa800
+					usa801 usa802 usa803 usa804 usa805 usa806 usa807 usa808 usa809 usa810 usa811 usa812 usa813 usa814 usa815 usa816 usa817 usa818 usa819 usa820
+					usa821 usa822 usa823 usa824 usa825 usa826 usa827 usa828 usa829 usa830 usa831 usa832 usa833 usa834 usa835 usa836 usa837 usa838 usa839 usa840
+					usa841 usa842 usa843 usa844 usa845 usa846 usa847 usa848 usa849 usa850 usa851 usa852 usa853 usa854 usa855 usa856 usa857 usa858 usa859 usa860
+					usa861 usa862 usa863 usa864 usa865 usa866 usa867 usa868
 				}
 				southern_yokut_province = {
 					tachi pitkachi koyeti yawdanshi tulumni hometwoli sierra_nevada_s tulare_lake
