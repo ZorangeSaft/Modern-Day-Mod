@@ -34284,7 +34284,7 @@ san_marino = 2c8a42
 
 #easily added new locations
 
-new1 = 13579b
+new1 = 188f40
 new2 = 41e33e
 new3 = 706ee1
 new4 = 9efa84
