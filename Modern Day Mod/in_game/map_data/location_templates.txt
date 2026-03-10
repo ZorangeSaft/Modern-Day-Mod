@@ -106,8 +106,8 @@ pacaja = { topography = flatland vegetation = jungle climate = tropical_rainfore
 xipaia = { topography = flatland vegetation = jungle climate = tropical_rainforest_climate religion = namandu_religion culture = awaete_culture raw_material = fruit}
 uruara = { topography = flatland vegetation = jungle climate = tropical_rainforest_climate religion = zemi_religion culture = ukaragma_culture raw_material = lumber}
 odello = { topography = mountains vegetation = forest climate = continental religion = catholic culture = catalan raw_material = wool}
-kismarton = { climate = continental culture = danube_bavarian raw_material = wheat religion = catholic topography = flatland vegetation = woods }
-nemetujvar = { climate = continental culture = danube_bavarian raw_material = fiber_crops religion = catholic topography = flatland vegetation = woods }
+kismarton = { topography = flatland vegetation = woods climate = subtropical_humid_climate religion = catholic culture = danube_bavarian raw_material = wheat  }
+nemetujvar = { topography = flatland vegetation = woods climate = subtropical_humid_climate religion = catholic culture = danube_bavarian raw_material = fiber_crops  }
 peshkopi = { topography = mountains vegetation = woods climate = continental religion = catholic culture = albanian raw_material = wool}
 
 kyzylkum_corridor1 = { topography = flatland vegetation = desert climate = cold_arid_desert_climate}
