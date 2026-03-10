@@ -20,8 +20,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -52,9 +51,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = afgh_hibatullah_akhundzada
-
-
+             # ruler = afgh_hibatullah_akhundzada
          }
       }
 
@@ -77,9 +74,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = alb_bajram_begaj
-
-
+             # ruler = alb_bajram_begaj
          }
       }
 
@@ -112,8 +107,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -134,8 +128,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -177,8 +170,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -199,8 +191,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -240,8 +231,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -263,8 +253,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -329,8 +318,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -354,8 +342,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -376,8 +363,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -398,8 +384,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -424,8 +409,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -446,8 +430,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -468,8 +451,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -493,8 +475,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -527,8 +508,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -549,8 +529,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -572,8 +551,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -595,8 +573,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -625,8 +602,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -649,8 +625,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -673,8 +648,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -749,8 +723,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -775,8 +748,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -803,8 +775,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -825,8 +796,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -848,8 +818,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -874,8 +843,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -982,8 +950,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1004,15 +971,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
       CAT = {
          country_rank = rank_county
-
-       }
+       }
 
 
       CHAD = {
@@ -1036,8 +1001,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1058,8 +1022,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1306,8 +1269,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1335,8 +1297,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1369,8 +1330,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1391,8 +1351,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1416,8 +1375,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1438,8 +1396,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1461,8 +1418,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1483,8 +1439,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1508,8 +1463,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1533,8 +1487,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1555,8 +1508,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1582,8 +1534,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1609,8 +1560,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1631,8 +1581,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1653,8 +1602,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1675,8 +1623,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1699,8 +1646,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1738,15 +1684,13 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
       DUMMY = {
          country_rank = rank_county
-
-       }
+       }
 
 
       ECUA = {
@@ -1773,8 +1717,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1802,8 +1745,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1824,8 +1766,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1846,8 +1787,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1869,8 +1809,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1893,8 +1832,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1915,8 +1853,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1950,8 +1887,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1972,8 +1908,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1989,8 +1924,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -2011,8 +1945,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2042,8 +1975,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2116,8 +2048,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2140,8 +2071,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2162,8 +2092,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2184,8 +2113,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2231,8 +2159,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2260,8 +2187,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2326,8 +2252,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2351,15 +2276,13 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
       GLC = {
          country_rank = rank_county
-
-       }
+       }
 
 
       GRE = {
@@ -2390,8 +2313,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2412,8 +2334,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2436,8 +2357,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2460,8 +2380,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2482,8 +2401,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2511,8 +2429,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2534,8 +2451,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2556,8 +2472,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2580,8 +2495,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2607,8 +2521,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2631,8 +2544,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2747,8 +2659,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2813,8 +2724,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2879,8 +2789,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2906,8 +2815,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2935,8 +2843,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2961,8 +2868,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3013,8 +2919,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3037,8 +2942,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3059,8 +2963,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3121,8 +3024,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3143,8 +3045,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3187,8 +3088,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3212,8 +3112,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3237,8 +3136,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3259,8 +3157,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3281,8 +3178,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3303,8 +3199,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3327,8 +3222,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3353,8 +3247,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3378,8 +3271,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3400,8 +3292,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3422,8 +3313,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3445,8 +3335,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3471,8 +3360,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3493,8 +3381,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3519,8 +3406,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3541,8 +3427,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3563,8 +3448,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3586,8 +3470,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3616,8 +3499,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3646,8 +3528,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3674,8 +3555,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3696,8 +3576,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3719,8 +3598,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3742,8 +3620,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3764,8 +3641,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3788,15 +3664,13 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
       MER = {
          country_rank = rank_county
-
-       }
+       }
 
 
       MEX = {
@@ -3862,8 +3736,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3896,8 +3769,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3918,8 +3790,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3945,8 +3816,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3961,8 +3831,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -3983,8 +3852,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4016,8 +3884,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4045,8 +3912,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4082,8 +3948,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4107,15 +3972,13 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
       NAV = {
          country_rank = rank_county
-
-       }
+       }
 
 
       NED = {
@@ -4142,8 +4005,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4166,8 +4028,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4193,8 +4054,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4229,8 +4089,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4251,8 +4110,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4278,8 +4136,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4309,8 +4166,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4335,8 +4191,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4351,7 +4206,26 @@ countries = {
             tararua tauranga te_tairawhiti urewera wairarapa wairoa waitangi wellington whakatane whanganui
             whangarei rekohu akaroa hurunui kahurangi kaiapoi kaikoura kaitangata mahitahi mawhera
             motupohue okarito otakou otepoti puari rakaia rakiura taramakau tauihu te_tai_aorere
-            timaru waihopai whakatu tongareva nukunonu_atoll
+            timaru waihopai whakatu tongareva nukunonu_atoll nz9 nz8 nz7 nz10 nz11
+            nz12 nz5 nz6 nz4 nz1 nz3 nz2 nz16 nz15 nz13
+            nz18 nz17 nz22 nz14 nz20 nz30 nz21 nz29 nz28 nz27
+            nz25 taranaki nz33 nz34 nz40 nz32 nz31 nz41 taupo nz26
+            nz35 nz39 nz38 nz36 nz37 nz42 nz43 nz44 nz66 nz67
+            nz68 nz70 nz59 nz58 nz60 nz79 nz72 nz62 nz19 nz23
+            nz24 rotorua_lake nz48 nz45 nz46 nz49 nz50 nz47 nz54 nz53
+            nz56 nz55 nz51 nz52 nz176 nz170 nz173 whakatipu_waitai_lake nz147 nz148
+            nz150 nz78 nz80 nz84 nz81 nz83 nz85 nz86 nz82 nz87
+            nz89 nz101 nz110 nz106 nz179 nz103 nz108 nz105 nz107 nz102
+            nz115 nz99 nz100 nz111 nz112 nz113 nz122 nz174 nz178 nz175
+            nz124 tekapo_lake nz104 pukaki_lake nz118 nz119 nz177 ohau_lake hawea_lake nz149
+            nz125 wanaka_lake nz142 nz116 nz117 nz121 nz139 nz141 nz137 nz140
+            nz120 nz136 nz134 nz77 nz76 nz73 nz90 nz74 nz91 nz92
+            nz93 nz94 nz95 nz96 nz88 nz75 nz65 nz71 nz57 nz64
+            nz69 nz63 wairarapa_lake nz61 nz98 nz114 nz171 te_anau_lake nz172 nz168
+            nz169 nz152 nz153 manapouri_lake nz166 nz165 nz167 nz154 nz161 hauroko_lake
+            nz160 wakatipu_lake nz146 nz155 nz157 nz163 nz156 nz162 nz180 nz143
+            nz144 nz145 nz128 nz135 nz129 nz138 nz126 nz159 nz127 nz130
+            nz133 nz132 nz151 nz131 nz158 southern_alps ruapehu
          }
 
          include = "expl_mdm_whole_world"
@@ -4360,8 +4234,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4385,8 +4258,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4426,8 +4298,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4447,8 +4318,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4469,8 +4339,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4492,8 +4361,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4522,8 +4390,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4547,8 +4414,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4588,8 +4454,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4622,15 +4487,13 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
       PIR = {
          country_rank = rank_county
-
-       }
+       }
 
 
       POL = {
@@ -4675,8 +4538,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4704,8 +4566,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4726,8 +4587,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4761,8 +4621,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4988,8 +4847,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5010,8 +4868,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5044,8 +4901,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5066,8 +4922,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5088,8 +4943,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5133,8 +4987,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5159,8 +5012,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5185,8 +5037,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5207,8 +5058,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5240,8 +5090,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5262,8 +5111,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5293,8 +5141,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5316,8 +5163,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5341,8 +5187,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5364,8 +5209,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5386,8 +5230,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5402,8 +5245,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -5424,8 +5266,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5447,8 +5288,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5473,8 +5313,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5496,8 +5335,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5518,8 +5356,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5576,8 +5413,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5600,8 +5436,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5624,8 +5459,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5646,8 +5480,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5674,8 +5507,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5696,8 +5528,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5718,8 +5549,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5755,8 +5585,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5781,8 +5610,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5808,8 +5636,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5832,8 +5659,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5856,8 +5682,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5885,8 +5710,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5907,8 +5731,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5929,8 +5752,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5951,8 +5773,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5973,8 +5794,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5998,8 +5818,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6024,8 +5843,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6081,8 +5899,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6103,8 +5920,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6129,8 +5945,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6152,8 +5967,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6200,8 +6014,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6216,8 +6029,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -6239,8 +6051,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6472,8 +6283,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6499,8 +6309,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6522,8 +6331,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6538,8 +6346,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -6566,8 +6373,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6597,8 +6403,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6623,8 +6428,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6652,8 +6456,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6683,8 +6486,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6709,7 +6511,6 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }}
 }

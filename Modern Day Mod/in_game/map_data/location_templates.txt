@@ -27262,8 +27262,8 @@ rotorua_lake = { topography = lakes climate = temperate_oceanic_climate }
 ahurei = { topography = hills vegetation = woods climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = legumes  }
 ngamotu = { topography = flatland vegetation = forest climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = fish  }
 patea = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = fruit  }
-ruapehu = { topography = mountain_wasteland vegetation = forest climate = temperate_oceanic_climate }
-taranaki = { topography = mountain_wasteland vegetation = forest climate = temperate_oceanic_climate }
+ruapehu = { topography = mountains vegetation = forest climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = fish  }
+taranaki = { topography = mountains vegetation = forest climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = fish  }
 whanganui = { topography = flatland vegetation = forest climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = lumber  }
 wellington = { topography = rolling_hills vegetation = woods climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = fish  natural_harbor_suitability = 0.75 }
 nz1 = { topography = rolling_hills vegetation = woods climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = fish  }
@@ -27474,7 +27474,7 @@ hurunui = { topography = mountains vegetation = woods climate = temperate_oceani
 taramakau = { topography = hills vegetation = woods climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = sand  }
 mahitahi = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = lumber  }
 mawhera = { topography = mountains vegetation = forest climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = lumber  }
-southern_alps = { topography = mountain_wasteland vegetation = woods climate = temperate_oceanic_climate }
+southern_alps = { topography = mountains vegetation = woods climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = fish  }
 hauroko_lake = { topography = lakes climate = temperate_oceanic_climate }
 manapouri_lake = { topography = high_lakes climate = temperate_oceanic_climate }
 te_anau_lake = { topography = high_lakes climate = temperate_oceanic_climate }
