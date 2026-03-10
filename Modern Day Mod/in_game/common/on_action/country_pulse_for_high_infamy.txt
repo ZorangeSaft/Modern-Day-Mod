@@ -1,0 +1,5 @@
+﻿country_pulse_for_high_infamy = {
+	#random_events = {
+	#
+	#}
+}
