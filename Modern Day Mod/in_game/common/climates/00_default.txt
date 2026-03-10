@@ -1,0 +1,573 @@
+﻿
+#热带雨林Af
+tropical_rainforest_climate = {
+	winter = none
+	color = climate_tropical_rainforest_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 1.00
+		local_monthly_development_modifier = -0.10		
+		local_life_expectancy = -4
+		
+		free_capacity_attracts_pops = yes
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 1.0
+	}
+	debug_color = rgb { 0 0 255 } # for climate_screenshot mapmode
+}
+
+#热带季风Am
+tropical_monsoon_climate = {
+	winter = none
+	color = climate_tropical_monsoon_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 1.25		
+		local_life_expectancy = -2
+		
+		free_capacity_attracts_pops = yes
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 1.0
+	}
+	debug_color = rgb { 0 120 255 } # for climate_screenshot mapmode
+}
+
+#热带干湿季气候Aw
+tropical_savanna_climate = {
+	winter = none
+	color = climate_tropical_savanna_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 0.75
+		local_monthly_development_modifier = -0.05		
+		local_life_expectancy = -3
+		
+		free_capacity_attracts_pops = yes
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 1.0
+	}
+	debug_color = rgb { 70 170 250 } # for climate_screenshot mapmode
+}
+
+#炎热干旱沙漠气候BWh
+hot_arid_desert_climate = {
+	winter = none
+	color = climate_hot_arid_desert_climate
+	has_precipitation = no
+
+	location_modifier = {
+
+		free_capacity_attracts_pops = yes
+		local_life_expectancy = -4
+		local_supply_limit_modifier = -0.10
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.65
+	}
+	debug_color = rgb { 255 0 0 } # for climate_screenshot mapmode
+}
+
+#寒冷干旱沙漠气候BWk
+cold_arid_desert_climate = {
+	winter = mild
+	color = climate_cold_arid_desert_climate
+	has_precipitation = no
+
+	location_modifier = {
+
+		free_capacity_attracts_pops = yes
+		local_life_expectancy = -2
+		local_supply_limit_modifier = -0.05
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.65
+	}
+	debug_color = rgb { 255 155 150 } # for climate_screenshot mapmode
+}
+
+#炎热半干旱草原气候BSh
+hot_semiarid_steppe_climate = {
+	winter = none
+	color = climate_hot_semiarid_steppe_climate
+	has_precipitation = no
+
+	location_modifier = {
+		local_population_capacity_modifier = 0.66
+		free_capacity_attracts_pops = yes
+		local_life_expectancy = -2
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.65
+	}
+	debug_color = rgb { 245 165 0 } # for climate_screenshot mapmode
+}
+
+#寒冷半干旱草原气候BSk
+cold_semiarid_steppe_climate = {
+	winter = mild
+	color = climate_cold_semiarid_steppe_climate
+	has_precipitation = no
+
+	location_modifier = {
+
+		local_population_capacity_modifier = 0.75
+		free_capacity_attracts_pops = yes
+		
+
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.65
+	}
+	debug_color = rgb { 255 220 100 } # for climate_screenshot mapmode
+}
+
+#炎热地中海气候Csa
+hot_mediterranean_climate = {
+	winter = none
+	
+	color = climate_hot_mediterranean_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 1.50
+		free_capacity_attracts_pops = yes
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.5
+	}
+	debug_color = rgb { 255 255 0 }  # for climate_screenshot mapmode
+}
+#凉爽地中海气候Csb/Csc
+cool_mediterranean_climate = {
+	winter = none
+	
+	color = climate_cool_mediterranean_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 1.66
+		free_capacity_attracts_pops = yes
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.5
+	}
+	debug_color = rgb { 200 200 0 }  # for climate_screenshot mapmode
+}
+#亚热带季风气候Cwa
+subtropical_monsoon_climate = {
+	winter = none
+	color = climate_subtropical_monsoon_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 1.75
+		
+		free_capacity_attracts_pops = yes
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.8
+
+	}
+	debug_color = rgb { 150 255 150 } # for climate_screenshot mapmode
+}
+#亚热带湿润气候Cfa
+subtropical_humid_climate = {
+	winter = none
+	color = climate_subtropical_humid_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 2.00
+		
+		free_capacity_attracts_pops = yes
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.8
+
+	}
+	debug_color = rgb { 200 255 80 } # for climate_screenshot mapmode
+}
+#亚热带高地气候Cwb/Cwc
+subtropical_highland_climate = {
+	winter = mild
+	color = climate_subtropical_highland_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 1.50
+		
+		free_capacity_attracts_pops = yes
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.8
+
+	}
+	debug_color = rgb { 100 200 100 } # for climate_screenshot mapmode
+}
+#温带海洋性气候Cfb
+temperate_oceanic_climate = {
+	winter = mild
+	color = climate_temperate_oceanic_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 2.00
+		
+		free_capacity_attracts_pops = yes
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.4
+	}
+	debug_color = rgb { 100 255 80 } # for climate_screenshot mapmode
+}
+#亚寒带海洋性气候Cfc
+subpolar_oceanic_climate = {
+	winter = mild
+	color = climate_subpolar_oceanic_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 1.25
+		
+		free_capacity_attracts_pops = yes
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.4
+	}
+	debug_color = rgb { 50 200 0 } # for climate_screenshot mapmode
+}
+#温带大陆性湿润气候Dfa/Dfb
+temperate_continental_humid_climate = {
+	winter = normal
+	
+	color = climate_temperate_continental_humid_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 0.75
+		free_capacity_attracts_pops = yes
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.2
+	}
+	debug_color = hsv360 {0 255 255}  # for climate_screenshot mapmode
+}
+#温带季风气候Dwa/Dwb
+temperate_monsoon_climate = {
+	winter = normal
+	
+	color = climate_temperate_monsoon_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 1.00
+		free_capacity_attracts_pops = yes
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.2
+	}
+	debug_color = hsv360 {170 175 255}  # for climate_screenshot mapmode
+}
+#温带大陆性气候Dsa/Dsb
+temperate_continental_climate = {
+	winter = normal
+	
+	color = climate_temperate_continental_climate
+	
+	location_modifier = {
+		local_population_capacity_modifier = 0.50
+		free_capacity_attracts_pops = yes
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.2
+	}
+	debug_color = hsv360 {255 0 255}  # for climate_screenshot mapmode
+}
+#亚寒带大陆性湿润气候Dfc/Dfd
+subarctic_continental_humid_climate = {
+	winter = severe
+	
+	color = climate_subarctic_continental_humid_climate
+
+	always_winter = yes # also needs Topography to have always_winter. For making mountain impassables always appear snowy (visual only)
+	
+	location_modifier = {
+		local_population_capacity_modifier = -0.12
+		local_monthly_development_modifier = -0.10
+		local_life_expectancy = -3
+		local_supply_limit_modifier = -0.10
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.0
+	}
+	debug_color = rgb { 0 125 125}  # for climate_screenshot mapmode
+}
+#亚寒带季风气候Dwc/Dwd
+subarctic_monsoon_climate = {
+	winter = severe
+	
+	color = climate_subarctic_monsoon_climate
+
+	always_winter = yes # also needs Topography to have always_winter. For making mountain impassables always appear snowy (visual only)
+	
+	location_modifier = {
+		local_population_capacity_modifier = -0.15
+		local_monthly_development_modifier = -0.12
+		local_life_expectancy = -4
+		local_supply_limit_modifier = -0.12
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.0
+	}
+	debug_color = rgb { 75 80 180}  # for climate_screenshot mapmode
+}
+#亚寒带大陆性气候Dsc/Dsd
+subarctic_continental_climate = {
+	winter = severe
+	
+	color = climate_subarctic_continental_climate
+
+	always_winter = yes # also needs Topography to have always_winter. For making mountain impassables always appear snowy (visual only)
+	
+	location_modifier = {
+		local_population_capacity_modifier = -0.20
+		local_monthly_development_modifier = -0.15
+		local_life_expectancy = -4
+		local_supply_limit_modifier = -0.15
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.0
+	}
+	debug_color = rgb { 150 50 150}  # for climate_screenshot mapmode
+}
+#苔原气候ET
+tundra_climate = {
+	winter = severe
+	
+	color = climate_tundra_climate
+
+	always_winter = yes # also needs Topography to have always_winter. For making mountain impassables always appear snowy (visual only)
+	
+	location_modifier = {
+		local_population_capacity_modifier = -0.25
+		local_monthly_development_modifier = -0.20
+		local_life_expectancy = -4
+		local_supply_limit_modifier = -0.15
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.0
+	}
+	debug_color = rgb { 168 188 168}  # for climate_screenshot mapmode
+}
+
+#冻原气候EF
+ice_cap_climate = {
+	winter = severe
+	
+	color = climate_ice_cap_climate
+
+	always_winter = yes # also needs Topography to have always_winter. For making mountain impassables always appear snowy (visual only)
+	
+	location_modifier = {
+		local_population_capacity_modifier = -0.33
+		local_monthly_development_modifier = -0.25
+		local_life_expectancy = -5
+		local_supply_limit_modifier = -0.20
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.0
+	}
+	debug_color = rgb { 102 102 102}  # for climate_screenshot mapmode
+}
+
+tropical = {
+	winter = none
+	color = climate_tropical
+	
+	location_modifier = {
+		local_population_capacity_modifier = 0.50
+		local_monthly_development_modifier = -0.10		
+		local_life_expectancy = -5
+		
+		free_capacity_attracts_pops = yes
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 1.0
+	}
+	debug_color = rgb { 14 58 9 } # for climate_screenshot mapmode
+}
+
+subtropical = {
+	winter = none
+	color = climate_subtropical
+	
+	location_modifier = {
+		local_population_capacity_modifier = 1.00
+		
+		free_capacity_attracts_pops = yes
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.8
+
+	}
+	debug_color = rgb { 18 98 34 } # for climate_screenshot mapmode
+}
+
+oceanic = {
+	winter = mild
+	color = climate_oceanic
+	
+	location_modifier = {
+		local_population_capacity_modifier = 1.00
+		
+		free_capacity_attracts_pops = yes
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.4
+	}
+	debug_color = rgb { 102 255 51 } # for climate_screenshot mapmode
+}
+
+arid = {
+	winter = none
+	color = climate_arid
+	has_precipitation = no
+
+	location_modifier = {
+		local_wheat_output_modifier = -0.1
+		local_life_expectancy = -5
+		
+		free_capacity_attracts_pops = yes
+		
+		local_supply_limit_modifier = -0.10
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.65
+	}
+	debug_color = rgb { 167 117 58 } # for climate_screenshot mapmode
+}
+
+cold_arid = {
+	winter = mild
+	color = climate_cold_arid
+	has_precipitation = no
+
+	location_modifier = {
+		local_wheat_output_modifier = -0.05
+
+		free_capacity_attracts_pops = yes
+		
+		local_supply_limit_modifier = -0.05
+	}
+	unit_modifier = {
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.65
+	}
+	debug_color = hsv360 { 49 35 71 } # for climate_screenshot mapmode
+}
+
+mediterranean = {
+	winter = none
+	
+	color = climate_mediterranean
+	
+	location_modifier = {
+		local_population_capacity_modifier = 1.50
+		free_capacity_attracts_pops = yes
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.5
+	}
+	debug_color = rgb { 198 255 78 }  # for climate_screenshot mapmode
+}
+
+continental = {
+	winter = normal
+	
+	color = climate_continental
+	
+	location_modifier = {
+		local_population_capacity_modifier = 0.50
+		free_capacity_attracts_pops = yes
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.2
+	}
+	debug_color = hsv360 {126 57 62}  # for climate_screenshot mapmode
+}
+
+arctic = {
+	winter = severe
+	
+	color = climate_arctic
+
+	always_winter = yes # also needs Topography to have always_winter. For making mountain impassables always appear snowy (visual only)
+	
+	location_modifier = {
+		local_population_capacity_modifier = -0.33
+		local_monthly_development_modifier = -0.25
+		local_life_expectancy = -5
+		local_supply_limit_modifier = -0.20
+	}
+	
+	audio_tags = {
+		masDataClimateZone = 0.0
+	}
+	debug_color = rgb { 153 206 203}  # for climate_screenshot mapmode
+}

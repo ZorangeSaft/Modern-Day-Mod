@@ -1,0 +1,34 @@
+﻿
+colors = {
+	climate_arctic = rgb { 153 206 203}
+	climate_continental = hsv360 {126 57 62}
+	climate_mediterranean = rgb { 198 255 78 }
+	climate_tropical = rgb { 14 58 9 }
+	climate_subtropical = rgb { 18 98 34 }
+	climate_arid = rgb { 167 117 58 }
+	climate_cold_arid = hsv360 { 49 35 71 }
+	climate_oceanic = rgb { 102 255 51 }
+	climate_tropical_rainforest_climate = rgb { 0 0 255 }
+	climate_tropical_monsoon_climate = rgb { 0 120 255 }
+	climate_tropical_savanna_climate = rgb { 70 170 250 }
+	climate_hot_arid_desert_climate = rgb { 255 0 0 }
+	climate_cold_arid_desert_climate = rgb { 255 155 150 }
+	climate_hot_semiarid_steppe_climate = rgb { 245 165 0 }
+	climate_cold_semiarid_steppe_climate = rgb { 255 220 100 }
+	climate_hot_mediterranean_climate = rgb { 255 255 0 }
+	climate_cool_mediterranean_climate = rgb { 200 200 0 }
+	climate_subtropical_monsoon_climate = rgb { 150 255 150 }
+	climate_subtropical_humid_climate = rgb { 200 255 80 }
+	climate_subtropical_highland_climate = rgb { 100 200 100 }
+	climate_temperate_oceanic_climate = rgb { 100 255 80 }
+	climate_subpolar_oceanic_climate = rgb { 50 200 0 }
+	climate_temperate_continental_humid_climate = rgb {0 255 255}
+	climate_temperate_monsoon_climate = rgb {170 175 255}
+	climate_temperate_continental_climate = rgb {255 0 255}
+	climate_subarctic_continental_humid_climate = rgb { 0 125 125}
+	climate_subarctic_monsoon_climate = rgb { 75 80 180}
+	climate_subarctic_continental_climate = rgb { 150 50 150}
+	climate_tundra_climate = rgb { 168 188 168}
+	climate_ice_cap_climate = rgb { 102 102 102}
+}
+
