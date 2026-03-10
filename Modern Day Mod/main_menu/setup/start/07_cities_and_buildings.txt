@@ -1024,8 +1024,8 @@ locations = {
    bungu_kongo = { rank = town town_setup = east_african_town }
 }
 building_manager = {
-   seat_of_cardinal = { tag = PAP level = 1 location = avignon }
-   seat_of_cardinal = { tag = PAP level = 1 location = rome }
+   seat_of_cardinal = { tag = ITA level = 1 location = avignon }
+   seat_of_cardinal = { tag = ITA level = 1 location = rome }
    ruined_great_wall_of_china = { tag = CHI level = 1 location = yangguan }
    ruined_great_wall_of_china = { tag = CHI level = 1 location = shazhou }
    ruined_great_wall_of_china = { tag = CHI level = 1 location = kuyu_shazhou }
