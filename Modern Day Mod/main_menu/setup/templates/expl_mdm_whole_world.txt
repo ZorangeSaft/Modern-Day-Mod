@@ -92,4 +92,5 @@
 	indian_ocean_region
 	antarctic_ocean_region
 	southern_africa_islands_region
+	dummy_region
 }
