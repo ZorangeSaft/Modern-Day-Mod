@@ -10,7 +10,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            pitsunda anacopia sukhumi lata_georgia bedia
+            pitsunda anacopia sukhumi lata_georgia bedia caucasus_et6
          }
 
          #include = "republic"
@@ -20,8 +20,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -41,7 +40,9 @@ countries = {
             khash_sistan khaysar kohi_safi lash_joveyn logar maiwand maruf muqur musa_qala nawah
             pangvay qalat_ghilji qala_fateh qarnin rudbar_sistan shahr_sabz shindand tarinkot wazakhwa zaranj
             zarghun_shahr khost urgun asadabad_kunar hajiabad parun araska fayzabad ishkashim jurm
-            kham_bahar qila_panjeh ragh sarhad sar_sang shiveh zebak
+            kham_bahar qila_panjeh ragh sarhad sar_sang shiveh zebak hindu_kush6 pamir4 pamir3
+            hindu_kush2 tora_bora_mountains tora_bora_mountains_et suleiman_range_et1 suleiman_range_et2 dasht_registan dasht_tarakun dasht_khash dasht_margoh hindu_kush3
+            hindu_kush1 paropamisus_mountains5 paropamisus_mountains4 paropamisus_mountains3 paropamisus_mountains2 paropamisus_mountains1 paropamisus_mountains7 dasht_khaf1 dasht_khaf2
          }
 
          #include = "republic"
@@ -52,9 +53,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = afgh_hibatullah_akhundzada
-
-
+             # ruler = afgh_hibatullah_akhundzada
          }
       }
 
@@ -66,7 +65,7 @@ countries = {
 
          own_control_core = {
             argyrokastro avlonya ballsh berat butrint devol dukagjini durres elbasan has
-            kavaje kleisoura_epirus koman kruje lezha peshkopi shkoder tirana
+            kavaje kleisoura_epirus koman kruje lezha peshkopi shkoder tirana dinaric_alps7
          }
 
          #include = "republic"
@@ -77,9 +76,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = alb_bajram_begaj
-
-
+             # ruler = alb_bajram_begaj
          }
       }
 
@@ -102,7 +99,11 @@ countries = {
             bejaia bordj_bou_arreridj bouira cheffia collo constantine_ALG dufanat el_kala el_kseur el_milia
             guelma ikjan jijel kalaa_of_ait_abbas kuku mansouria meskiana mila ngaous setif
             skikda tebessa tedelles tekouch thagaste tiffech tijis tindouf in_guezzam bordj_badji_mokhtar
-            timiaouine arzew ksar_ibn_senane oran
+            timiaouine arzew ksar_ibn_senane oran connector_libya8 djanet_ghadames_corridor sahara_passage_et5 sahel_corridor24 touggourt_ouargla_corridor ghadames_ouargla_corridor
+            grand_erg_occidental_east2 west_grand_erg_oriental1 ain_abalessa_corridor timimoun_qulaia_corridor grand_erg_occidental_east1 ain_salah_el_golea_corridor tademait_plateau2 ouargla_el_golea_corridor el_eglab_masif1 el_golea
+            ghardaia_el_golea_corridor sahel_corridor34 el_djouf3 tabelbala_charouine_corridor tabelbala_taghaza_corridor1 el_eglab_masif2 tanezrouft_desert_et2 tanezrouft_desert_et1 tademait_plateau1 grand_erg_occidental
+            plain_tamlelt1 skikda_mountain sbiba_mountain western_tablate_mountain tablate_mountain northern_tedemait eastern_tablate_mountain tellatlas bades_mountain2 burg_bu_mountain2
+            burg_bu_mountain1 stif_mountain bades_mountain1 talak_desert_et1 sahara_passage_et8 sahel_corridor21 abalessa_djanet_corridor sahel_corridor23 tenere_et1
          }
 
          #include = "republic"
@@ -112,8 +113,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -134,8 +134,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -177,8 +176,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -199,8 +197,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -231,6 +228,8 @@ countries = {
             colipilli curruhuinca currumil curu_leufvu cushamen elcui fisque_menuco gaiman gan_gan kalfucura
             kashtruk kububu lewfuko makunchawu malal_hue mamull_mapu naupa_huen newenken norquinco popopis
             quemu_quemu rankulche shupaw_kulu somuncura tulshun ucaln viluco vuriloche vuta_chadihue yaminue
+            nansen_forest masaks_forest villarica_forest chillan_mountains aconcagua_volcano pissis_mountains ojos_del_salado_volcano aucanquilcha_volcano_et2 noques_jungle yungas_jungle
+            acay_mountains poposayo_mountains bayo_mountain ibera_swamp
          }
 
          #include = "republic"
@@ -240,8 +239,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -253,7 +251,8 @@ countries = {
 
          own_control_core = {
             amberd artashavan bjni gagi gladzor goris kapan_armenia kayen khor_virap kumayri
-            lori sotk spitak tatev yerevan
+            lori sotk spitak tatev yerevan lesser_caucasus_et2 lesser_caucasus_et3 lesser_caucasus_mountains10 lesser_caucasus_mountains7 lesser_caucasus_mountains5
+            lesser_caucasus_et1
          }
 
          #include = "republic"
@@ -263,8 +262,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -320,7 +318,8 @@ countries = {
             doora eura gnowoo ikala jadliaura kadu kaurna_pangkarra kooapudna malba manuri
             meru mimbara mirning nanja narangga nawu ngadjuri ngandatha nonga nukunu
             pamkala tarntanya tidni wanbiri wanbirujurari willeuroo windakan wirameju wirangu yalata
-            badhu
+            badhu oxley_wilds alpine_mountains wadbilliga_mountains blue_mountains kosciuszko_mountains strzelecki_desert sturt_stony_desert simpson_desert south_australian_desert
+            pedrika_desert great_victoria_desert tanami_desert great_sandy_desert gibson_desert western_australian_desert little_sandy_desert bellona_reef
          }
 
          include = "expl_mdm_whole_world"
@@ -329,8 +328,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -344,7 +342,8 @@ countries = {
             lankaran gandzasar goroz haterk julfa kashatagh khunani nakhchivan shusha balakan
             hereti qakh agsu aresh baciravan baku barda beylagan bilasuvar ganja
             gardman goychay javad lemberan mahmudabad maraza mughan niyazabad qabala qobustan
-            quba salyan shabran shaki shamakhi shamkir shirvan vartashen zardab
+            quba salyan shabran shaki shamakhi shamkir shirvan vartashen zardab caucasus_et2
+            greater_caucasus_mountains10 lesser_caucasus_mountains8 lesser_caucasus_mountains6
          }
 
          #include = "republic"
@@ -354,8 +353,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -376,8 +374,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -398,8 +395,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -424,8 +420,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -446,8 +441,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -468,8 +462,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -493,8 +486,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -527,8 +519,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -539,7 +530,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            altun_ha campin lamanai paliac tzoite tzunuun xunantunich colha nohmul
+            altun_ha campin lamanai paliac tzoite tzunuun xunantunich colha nohmul cockscomb_jungle
          }
 
          #include = "catholic_monarchy"
@@ -549,8 +540,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -572,8 +562,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -585,7 +574,7 @@ countries = {
 
          own_control_core = {
             bumthang daga jabar_goemba lhuntsi paro punakha thimpu trasigang trongsa wangdue
-            zhemgang zhongkar
+            zhemgang zhongkar himalaya22 himalaya17 himalaya_et8
          }
 
          include = "east_asia_monarchy"
@@ -595,8 +584,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -615,7 +603,10 @@ countries = {
             yungas yurakar cobija_amazon guayaramerin pamahuaya baure cayubaba eseejja guarasugwa itonama
             kanisianas movima moxos pacahuara siriono takana tsimanes amomegosode ijnapuigosode tunupegosode
             uechamitogosode bia_mbya cayuvava guarayo kabishi koraveka kuruminaka mbia otuke paikoneka
-            saraveka yuracare mrubicha muyupampa saipuru tarija weenhayek
+            saraveka yuracare mrubicha muyupampa saipuru tarija weenhayek zapoco_forest pantanal_swamp_et oquiriquia_forest
+            pantanal_forest ayoreo_forest_et wanaku_imray_mountain muyupampa_forest pilaya_jungle colpanayoc_volcano aucanquilcha_volcano guarasugwe_forest conguagua_forest chimore_jungle
+            mamorecillo_forest jaqi_jiwata_mountain tunari_mountains tiraque_jungle lluska_mountain sumaq_urqu_mountains chak_xana_volcano altamachi_jungle illimani_volcano apolobamba_jungle
+            challana_jungle cololo_mountains madeira_amazon_jungle
          }
 
          #include = "republic"
@@ -625,8 +616,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -639,7 +629,7 @@ countries = {
          own_control_core = {
             bihac borac doboj drijeva dubica gacko glamoc glaz gradiski_brod jajce
             kljuc konjic kozara livno mostar nevesinje olovo soli srb srebrenica
-            srebrenik teocak trebinje ustikolina vrhbosna zenica visegrad
+            srebrenik teocak trebinje ustikolina vrhbosna zenica visegrad dinaric_alps2 dinaric_alps3 dinaric_alps4
          }
 
          include = "eastern_european_monarchy"
@@ -649,8 +639,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -663,7 +652,8 @@ countries = {
          own_control_core = {
             bakgalagadi gana gui hoa khute tsabong tshwa tsila werda xoo
             ani_south deti kaudwane khwe makgadikgadi shua veekuhane yeyi amkoe bamangwato
-            modipe naledi ntsweng bosutswe leshongwane lotsane mupanipani tora_nju
+            modipe naledi ntsweng bosutswe leshongwane lotsane mupanipani tora_nju sua_salt_pan nwetwe_salt_pan
+            kalahari_desert
          }
 
          #include = "republic"
@@ -673,8 +663,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -739,7 +728,11 @@ countries = {
             terena ytykyra ingariko macuxi mucajai arroio cacapava cacequi cangucu carijo
             chuy cruz_alta ibaje ibicui ibirapuita icabaqua inhandui jacui jaguarao jeguakava
             lagoa_vermelha nandeva palmeira passo_fundo patos piratini piratinin san_antonio_patrulha sao_leopoldo tapes
-            tupancireta umbu vacacai vacaria
+            tupancireta umbu vacacai vacaria manues_jungle itatupa_jungle marajoara_jungle tocantis_amazon_jungle urubu_jungle apiaka_jungle
+            kayabi_jungle xingu_amazon_jungle tapajos_amazon_jungle massaco_jungle mequens_jungle pantanal_forest_et amazon_jungle_et15 pantanal_swamp purus_amazon_jungle amazon_jungle
+            negro_amazon_jungle amazon_jungle_et7 solimoes_amazon_jungle jiboia_jungle maxakali_jungle piaui_jungle tacuru_jungle auwe_jungle arariboia_jungle saraua_jungle
+            piratuba_jungle jundiai_forest itajuba_forest camanducaia_forest atibaia_forest paraibuna_forest baependi_forest cunhambebe_forest tamoio_forest mogi_forest
+            marataiama_forest bocaiuva_forest pinhais_forest goitaca nononai_forest
          }
 
          #include = "republic"
@@ -749,8 +742,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -775,8 +767,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -793,7 +784,8 @@ countries = {
             varna velbuzd veliki_preslav vidin vratsa zemlungrad bansko dospat krupnik melnik
             nevrokop ahtopol anhialo aytos beden boruy bukelon burgas constantia_bul elhovo
             haskovo hiambouli kostenets kran lardeja ormenio perperek plovdiv rusokastro sliven
-            smolyan sozopol stanimaka stipon strelcha tsepina ustra
+            smolyan sozopol stanimaka stipon strelcha tsepina ustra rhodope_mountains4 rhodope_mountains6 rhodope_mountains5
+            rhodope_mountains3 balkan_mountains6 rhodope_mountains1 balkan_mountains5 balkan_mountains4 balkan_mountains2
          }
 
          #include = "republic"
@@ -803,8 +795,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -815,7 +806,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            mirama mugamba nikoma
+            mirama mugamba nikoma western_rift_mountains
          }
 
          #include = "republic"
@@ -825,8 +816,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -838,7 +828,7 @@ countries = {
 
          own_control_core = {
             ngaoundaye baoro birao boali bouar bria djemah gbabiri gribingui kotto
-            krebedje mambere mbaiki mobaye ndele nola_congo ouaka ouham
+            krebedje mambere mbaiki mobaye ndele nola_congo ouaka ouham congo_jungle_et5
          }
 
          #include = "republic"
@@ -848,8 +838,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -864,7 +853,8 @@ countries = {
             batchingou foumban mankon mbakaou mbam tibati yambasa yoko abong akonolinga
             bertoua kadey sanaga sangha keraoua logone_birni maroua mora_cam ambam sangmelima
             bakas bana bimbia bwambe cameroons ebolowa edea eseka fifinda kumba
-            ngambe nyong rio_del_rey bakka makary mser
+            ngambe nyong rio_del_rey bakka makary mser cameroon_mountains korup_jungle nkam_jungle maan_jungle
+            congo_jungle_et3 congo_jungle_et4
          }
 
          #include = "republic"
@@ -874,8 +864,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -973,7 +962,21 @@ countries = {
             scw_exmx sechelt sexqeltqin similkameen simpcw skitsetsen skuppah sk_atsin sliammon snk_mip
             spaxomin splatsin squamish stil_qw sto_lo stswecen_c sts_ailes stxtilusten st_at_imcets st_uxwtews
             swarakxen tk_emlups tl_esqox tl_etinqox_t_in tsala_ihmec tsi_del_del whonnock xat_sull yakyu_ki yaqan_nukiy
-            yunesit_in
+            yunesit_in loigan_sibo tremblant_massif dumoine_plateau gatineau_hills opeongo_hills eastern_peribonka_hills windigo_massif ashuapmushuan_hills mistassini_hills
+            rupert_plateau wawa_uplands english_river_uplands ogoki_uplands chochocouane_hills eastmain_hills matagami_depression ishpatina_ridge abitibi_uplands penokean_hills
+            nemegosenda_uplands sanikiluaq quebec_torngats torngat_mountains ungava_peninsula larch_plateau labrador_hills peribonka_hills matapedia_highlands whale_lowlands
+            george_river_plateau caniapiscau_plateau great_whale_plateau la_grande_hills labrador_highlands opiscoteo_hills otish_mountains manicouagan_depression manouanis_massif manicouagan_plateau
+            northern_notre_dame_mountains laurentian_massif valin_mountains mealy_mountains mecatina_plateau hamilton_highlands chic_choc_mountains sainte_marguerite_plateau magpie_massif miquelon
+            annieopsquotch_mountains newfoundland_highlands long_range_mountains mecatina_hills canaan_bog james_bay_lowlands otadaonanis winisk_uplands wabigoon_uplands porcupine_hills
+            attawapiskat_lowlands hudson_bay_lowlands southampton_island baffin_island severn_uplands arctic_archipelago lac_seul_upland hayes_river_upland silsby_lake_upland indian_lake_upland
+            nejanilini_uplands nunavut_uplands churchill_river_upland wekusko_upland reindeer_lake_upland seal_river_upland kazan_uplands tlicho_uplands turili_uplands mid_boreal_upland
+            foster_upland robins_lake_upland thelon_river_upland northern_arctic_uplands mostoos_upland stony_mountain_uplands muskeg_upland athabasca_plains eynard_upland coppermine_river_upland
+            beaver_forest omineca_mountains kahntah_trail lodgepole_uplands utikuma_uplands saddle_hills_2 saddle_hills buffalo_head_hills birch_mountains beaver_plain
+            hawk_hills dehcho_plains horn_plateau caribou_mountains southern_plains dakelh_range dehcho_uplands sahtu_uplands horton_uplands dehcho_range
+            mackenzie_uplands inuvialuit_uplands kynocks_forest kaska_forest mackenzie_mtns haen_uplands gwichin_uplands dan_ki_forest nabesna_forest wrangell_mtns
+            dezadeash_trail chilkootg_trail shushtone_forest kechika_trail teslin_trail ediziza_trail tses_kiya_trail tahltan_forest cassiar_mountains sekani_forest
+            spatsizi_forest kinaskan_trail ediziza_forest chilcotin_mtns strathacona_range thompson_mtns kwakwala_range n_shuswap_mtns e_shuswap_mtns s_shuswap_mtns
+            ce_ktunaxa_ranges se_ktunaxa_ranges nc_ktunaxa_ranges ne_ktunaxa_ranges cw_ktunaxa_ranges sinixt_range
          }
 
          include = "expl_mdm_whole_world"
@@ -982,8 +985,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1004,15 +1006,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
       CAT = {
          country_rank = rank_county
-
-       }
+       }
 
 
       CHAD = {
@@ -1026,7 +1026,8 @@ countries = {
             doba dourbali gaoui goundi guelengdeng lame massenya moito pouss tele_nugar
             abesehir am_dam am_djemena djedaa guereda hadjer_haddid mongo ouara oum_hadjer yao
             kabsoru ain_galaka bardai bodou_sailay cherfe goulfey manan mondo moussoro ngousa
-            njimi ounianga sherda tekro zouar
+            njimi ounianga sherda tekro zouar sahel_corridor19 sahara_passage_et10 rabyanah_sand_sea_et1 sahel_corridor17 sahel_corridor16
+            erg_selima_et1 sahel_corridor15 erg_of_bilma_et1
          }
 
          #include = "republic"
@@ -1036,8 +1037,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1048,7 +1048,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            tsontaroy_kala alkhan_kala argun simsir naurskaya
+            tsontaroy_kala alkhan_kala argun simsir naurskaya greater_caucasus_mountains6
          }
 
          #include = "republic"
@@ -1058,8 +1058,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1296,7 +1295,22 @@ countries = {
             huanzhou dongliangting baochang fuzhou zhongdu chagannur gaoyuan julu neiqiu renxian
             shahe xingtai yulin lingling qiyang dongan_yongzhou xiushan youyang pengshui qianjiang_shaoqing
             lengshuitan guiyang_hengyang dartsedo lhagang baurang zeku hezhou dingqiang guide sailahai
-            jishi muxihe quge mendong selephu samten
+            jishi muxihe quge mendong selephu samten eastern_korean_mountains1 wulingshan jingshan_mountains wushan_mountains
+            dabashan2 dabashan1 qinlingshan7 qinlingshan4 liupanshan funiushan1 funiushan2 qinlingshan5 taihangshan6 taihangshan5
+            taihangshan4 taihangshan2 taihangshan7 taihangshan8 taihangshan9 taihangshan3 yanshan_mountains3 taihangshan10 yanshan_mountains2 taihangshan1
+            yanshan_mountains1 changshan_islands_wastelands nanling1 nanling2 wugangshan wanyangshan wuyishan2 jiulingshan wuyishan1 nanling3
+            nanling4 hengduanshan10 nyainqentanglha4 nyainqentanglha2 nyainqentanglha1 gangdise3 gangdise4 lunggar2 gangdise6 lunggar1
+            gangdise2 gangdise7 gangdise1 tanggula3 kunlun2 ustun_tag changtang hoh_xil_mountains2 kunlun3 kunlun10
+            kunlun9 altun_shan1 taklamakan3 taklamakan2 taklamakan4 tanggula2 kunlun8 kunlun6 altun_shan2 kumtag2
+            jurhen_ui kumtag1 qinlingshan3 altun_shan3 qinlingshan2 kunlun4 qinlingshan6 kunlun7 qilianshan4 tsaidam_dunes
+            qilianshan3 qilianshan2 qilianshan1 badain_jarain_desert2 tengger_desert badain_jarain_desert1 ulan_buh_desert kunlun5 qinlingshan1 bayan_har_mountains1
+            bayan_har_mountains2 dalungsai hengduanshan7 hengduanshan8 tanggula1 nyainqentanglha6 hengduanshan9 nyainqentanglha5 hengduanshan6 hengduanshan1
+            hengduanshan5 hengduanshan3 qingshuilangshan2 hengduanshan2 hengduanshan4 qingshuilangshan ailaoshan duyangshan mazongshan kumtag3
+            barkol_mountains bodga_shan atas_bogd_mountains_et gurbantunggut saur balruq kuruktag tian_shan5 tian_shan4 borohoro3
+            borohoro2 tian_shan24 tian_shan6 tian_shan3 pamir2 taklamakan1 tian_shan1 pamir1 altay_mountains_et1 mongol_altay_mountains_et
+            tibet_passage_et2 karakoram1 karakoram_et1 kunlun1 tibet_passage_et1 taklamakan5 karakoram4 himalaya7 himalaya14 himalaya8
+            gangdise8 himalaya9 himalaya10 himalaya13 himalaya11 himalaya15 himalaya12 gangdise5 himalaya16 himalaya18
+            nyainqentanglha3 himalaya19 himalaya20 himalaya21 xueshan_yunnan nushan saur_et shan_hills2 fan_si_mountains_et
          }
 
          #include = "republic"
@@ -1306,8 +1320,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1325,7 +1338,18 @@ countries = {
             quiquilhue rangkawe uthan_uthatun waykuche wenteche isluga kolla loa achen caguatl
             chain_chaitun ciaike enoo haiyuwel hamhmam horsh_aiken ilalumaala inalumaala jautok jetarktetqal
             kauwes kcewite kelaelkces kolser koy_aike paine pari_aike puyu_huapi saelam tawokser
-            utumaala yeskumaala rapa_nui
+            utumaala yeskumaala rapa_nui chak_xana_volcano_et aucanquilcha_volcano_et1 llullaillaco_volcano pissis_mountains_et huemui_mountains new72 new76
+            new78 new68 new67 huemules_forest new51 new32 new48 new45 new18 new74
+            new73 new69 new55 new71 new70 new60 new63 new62 new66 new65
+            new64 new77 new40 new44 new56 new38 new37 new39 new49 new42
+            new41 new75 new57 new58 new47 new50 new46 new59 new61 new43
+            new53 new54 new52 new30 puyehue_forest piren_forest new31 new35 new36 new34
+            new33 new17 villarica_forest_et new26 new16 new29 new24 new23 new19 new15
+            new14 new22 puyehue_forest_et new27 new25 new21 new20 new12 new10 new9
+            new2 new8 new28 new13 new11 piren_forest_et corcovado_forest new6 new7 new4
+            new5 new3 melimoyu_forest quelat_forest cay_forest nansen_forest_et paine_forest_et san_rafael_forest little_wellington_forest ohiggins_forest
+            paine_forest ilalumaala_forest navarino_forest clarence_forest tawokser_forest ladrillero_forest campo_nevado_forest dawson_forest agostini_forest malte
+            parrillar_forest
          }
 
          #include = "republic"
@@ -1335,8 +1359,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1360,6 +1383,10 @@ countries = {
             tocaima yacupipizote yaporox yolombo ariguani calamari chayrama curumanao kamach mahates
             mocana mompoj necocli norosi one sicarate sincel sinu tamalameque teyuna
             upar upper_sinu yaharo zarate zenues babichas catatumbo chitagaes ichitki suchiimma
+            amazon_jungle_et8 amazon_jungle_et1 cocuy_mountains tablazo_mountains sumapaz_maountains chingaza_mountains yariguies_mountains central_mountain_range leiva_mountains tinigua_jungle
+            citara_mountains norcacia_jungle tamana_mountains torra_jungle pimempiro_mountains cauca_jungle bebaramau_jungle paramillo_mountains paramillo_jungle choco_jungle
+            darien_gap_et tama_mountains jurisdicciones_mountain perija_mountains tayrona_mountains santa_ines_mountains frontino_mountains ebejico_mountains concondia_mountain murri_jungle
+            calima_mountains cali_jungle munchique_mountains naya_mountains napiu_jungle guacharos_jungle cali_mountain
          }
 
          #include = "republic"
@@ -1369,8 +1396,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1391,8 +1417,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1406,7 +1431,7 @@ countries = {
             betou impfondo ouesso gabun loeme olenda sette aduma apinji assan
             bobaka bobangi djundu ganda lefini lope madembe makabana makaka makoua_congo
             massabo mayumba mombote monsol ncando ngato ogowe sanga_pumbo ubangi yumba
-            buali manguenzo
+            buali manguenzo congo_jungle_et6 mbaka_jungle lope_jungle waka_jungle
          }
 
          #include = "republic"
@@ -1416,8 +1441,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1428,7 +1452,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            rarotonga_atoll aitutaki_atoll
+            rarotonga_atoll aitutaki_atoll mangaia nga_pu_toru manuae_atoll_cook avarau
          }
 
          #include = "republic"
@@ -1438,8 +1462,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1451,7 +1474,7 @@ countries = {
 
          own_control_core = {
             bocto boruca coctu garabito nekokiaw orosi pacaca quepos uxarraci dererri
-            kabeka tariaca
+            kabeka tariaca chiriqui_jungle chiriqui_mountains
          }
 
          #include = "republic"
@@ -1461,8 +1484,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1483,8 +1505,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1498,7 +1519,8 @@ countries = {
             brac crikvenica dubrovnik kaseg knin krk makarska metkovic novigrad otocac
             pag pazin pola rijeka rovinj senj sibenik sinj slano split
             zadar bjelovar ilok karlovac koprivnica kutina osijek pakrac petrinja pozega
-            sisak slunj varazdin vaska virovitica vukovar zagreb cakovec mohacs
+            sisak slunj varazdin vaska virovitica vukovar zagreb cakovec mohacs dinaric_alps1
+            dinaric_alps9 lastovo_island_wasteland
          }
 
          #include = "republic"
@@ -1508,8 +1530,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1533,8 +1554,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1555,8 +1575,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1582,8 +1601,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1599,7 +1617,7 @@ countries = {
             siglufjord vatnahverfi torshavn aabenraa aalborg aarhus ars assens bolling falster
             grindsted haderslev hammershus helsingor hjorring holstebro_lundenes kalo kalundborg kobenhavn kolding
             navskov odense randers ribe ringkobing ringsted roskilde silkeborg skagen slagelse
-            svendborg thisted tonder varde viborg vordingborg
+            svendborg thisted tonder varde viborg vordingborg eiriksfjord
          }
 
          #include = "republic"
@@ -1609,8 +1627,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1631,8 +1648,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1653,8 +1669,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1675,8 +1690,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1689,7 +1703,7 @@ countries = {
          own_control_core = {
             azua bani banique baoruco bavaro bohio boya cayacoa cayguani cibao
             ciguayo cotui cubao hicayagua jarabacoa magorix maguana moca samana yamasa
-            yaqui yuma
+            yaqui yuma neiba_mountains cordrilla_central
          }
 
          #include = "republic"
@@ -1699,8 +1713,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1728,7 +1741,8 @@ countries = {
             kassai nguff sainiambu akilonda kiponguve kundi lambo lokera luapula lubile
             lukuga makenenga miketo moira moma_katwoi mpala mpota mpueto mtowa muichi
             mwangulla urua baraka batete bembe_buyu kabambare kibanga komo_kongo kusu_mangbetu lega_kongo
-            moana_kassongo nguera pere sikasingo uvira zimba
+            moana_kassongo nguera pere sikasingo uvira zimba congo_jungle_et8 congo_jungle_et7 congo_jungle_et15 congo_jungle_et13
+            congo_jungle congo_jungle_et14 congo_jungle_et9 congo_jungle_et11 congo_jungle_et10 congo_jungle_et12
          }
 
          #include = "republic"
@@ -1738,15 +1752,13 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
       DUMMY = {
          country_rank = rank_county
-
-       }
+       }
 
 
       ECUA = {
@@ -1759,7 +1771,9 @@ countries = {
             isabela_island santa_cruz_islands santiago_islands alausi atacames baba babahuyu calvas cangochamba caran
             chacayacu daule guancavilca guayaquil hambatus hatun_kanar imbaguarbak jama kayambi liribamba
             macas machala malacatos manta mindu otavalo pailon panzaleo pukamuru puna
-            quito sangay shabalula tacunga tsachila waranka yaguachi yaguarzongo yazne
+            quito sangay shabalula tacunga tsachila waranka yaguachi yaguarzongo yazne amazon_jungle_et9
+            cajas_mountains solamaco_mountains duco_mountains chimborazo_volcano sangay_volcano ami_mountains sangay_jungle llanganates_jungle kichwa puyu
+            napo_jungle quijos napo nambue_jungle
          }
 
          own_control_conquered = {
@@ -1773,8 +1787,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1792,7 +1805,10 @@ countries = {
             qatya saint_katrine warrada akhmim ashmunayn aswan asyut bahariyya baris beni_suef
             edfu el_bahnasa el_balyana el_buwit el_qasr el_qoseir esna faiyum hiw kharga
             kom_ombo manfalut minya qasr_farafra qena qus ras_gharib safaga saint_anthony saint_paul_anchorite
-            sharuna siwa tahna
+            sharuna siwa tahna connector_egypt16 horn_desert_corridor1 connector_egypt15 connector_egypt5 connector_egypt12 south_eastern_desert connector_egypt6
+            eastern_desert south_western_desert connector_egypt10 western_desert connector_egypt8 connector_egypt4 erg_selima_et3 connector_libya16 connector_egypt3 connector_egypt2
+            connector_egypt1 great_sand_sea connector_egypt11 grand_erg_oriental_et1 connector_egypt9 north_western_desert nitrian_desert connector_egypt14 north_eastern_desert connector_egypt17
+            northern_sinai_desert1 sinai_desert northern_sinai_desert2 horn_desert_corridor2
          }
 
          #include = "republic"
@@ -1802,8 +1818,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1824,8 +1839,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1846,8 +1860,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1859,7 +1872,7 @@ countries = {
 
          own_control_core = {
             agordat asmara assab bayul buri dahlak debarwa debre_bizen dekemhare edd
-            keren massawa mendefera nafka senafe tesenei zula anseba
+            keren massawa mendefera nafka senafe tesenei zula anseba eritrean_mountains
          }
 
          #include = "republic"
@@ -1869,8 +1882,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1893,8 +1905,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1915,8 +1926,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1936,7 +1946,8 @@ countries = {
             hadiya hirmata ilimo jibat konso lieka maldarede nekemte omo saqqa
             sharka soddo worabe ziqwala north_sakuye gambela gore arabi aware awbare
             dakkar degehabur dire_dawa dolo geledi gode harar harro_walabu jeldesa kelafo
-            liban limey mormor seru sheikh_hussein tulu_nama_dun tulu_walal awrtable
+            liban limey mormor seru sheikh_hussein tulu_nama_dun tulu_walal awrtable northern_ethiopian_mountains horn_deserts
+            bale ethiopian_mountains north_east_ethiopian_mountains goba central_east_ethiopian_mountains south_east_ethiopian_mountains central_west_ethiopian_mountains south_west_ethiopian_mountains
          }
 
          own_control_conquered = {
@@ -1950,8 +1961,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1972,8 +1982,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -1989,8 +1998,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -2001,7 +2009,9 @@ countries = {
 
          own_control_core = {
             beqa_lagoon burebasaga fulaga_atoll kabara_atoll kandavu kubuna moce_atoll ngau qelelevu_atoll taveuni
-            vanua_balavu_atoll vanua_levu yasawa
+            vanua_balavu_atoll vanua_levu yasawa vatoa ono_i_llau_atoll bukatatonoa_atoll lakeba vanua_vatu cicia viti_levu_atoll
+            navatu_reef totoya_atoll thikombia moala moala_atoll ngau_atoll kadavu_atoll makogai_atoll ovalau koro_island
+            ovalau_atoll cacau_levu_atoll yasawa_atoll
          }
 
          #include = "republic"
@@ -2011,8 +2021,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2032,7 +2041,7 @@ countries = {
             enare enontakis ivalo kajana kasivarren kemijarvi kiemi kittila korvala kuhmo
             kuivaniemi kuusamo mourionska nunnanen paltamo posio pudasjarvi ranua rovaniemi salla
             savukoski siikalatva simo sodankyla sotkamo suomussalmi taivalkoski uleaborg utajarvi utsjoki
-            kastelholm
+            kastelholm lapland_taiga1
          }
 
          #include = "republic"
@@ -2042,8 +2051,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2103,10 +2111,18 @@ countries = {
             corte sartene vico cassel douai dunkirk lille maubeuge montmedy thionville
             valenciennes belfort benfeld colmar ensisheim ferrette haguenau lichtenberg mulhouse murbach
             strasbourg zabern ajie cemuhi drehu fwai ndrumbea nengone numee nyelayu
-            ouvea_atoll paici tiri xaracuu yuanga uvea_atoll apataki_atoll aratika_atoll arutua_atoll fakarava_atoll
-            kauehi_atoll kaukura_atoll rangiroa_atoll raraka_atoll tikehau_atoll toau_atoll faaite_atoll makemo_atoll motutunga_atoll nganaa_nui_atoll
-            raroia_atoll taenga_atoll tahanea_atoll taungataki_atoll taunga_tauranga_atoll hiva_oa nuku_hiva havaii manuae_atoll tahiti
-            acteon aopuni_atoll haorangi_atoll mangareva manihi_atoll marokau_atoll marutea nukutavake takaroa_atoll miquelon
+            ouvea_atoll paici tiri xaracuu yuanga uvea_atoll apataki_atoll aratika_atoll fakarava_atoll kauehi_atoll
+            raraka_atoll toau_atoll faaite_atoll tahanea_atoll taungataki_atoll mangareva manihi_atoll marutea takaroa_atoll miquelon
+            north_eastern_pyrenees2 north_eastern_pyrenees1 north_western_pyrenees pennine_alps1 graian_alps1 dauphine_alps2 cottian_alps1 maritime_alps1 dauphine_alps1 vercors_massif
+            massif_central vivarais_mountains dore_mountains amazon_jungle_et4 corsican_mountains nosy_ampela kwenyii beautemps_beaupre_atoll new_caledonia_barrier_reef_1 belep
+            new_caledonia_barrier_reef_2 entrecasteaux_atoll marotiri oparo raivavae_atoll raivavae tubuai_atoll tubuai rurutu nororotu_atoll
+            rimatara oeno_atoll pitcairn ducie_atoll henderson caroline hiva_oa ua_pou ua_huka nuku_hiva
+            eiao puka_puka_atoll napuka_atoll motutunga_atoll haraiki_atoll nganaa_nui_atoll hereheretue_atoll fangatau_atoll raroia_atoll taenga_atoll
+            rekareka_atoll makemo_atoll acteon reao reitoru_atoll tauere_atoll hikueru_atoll taunga_tauranga_atoll tatakoto papakena_atoll
+            paraoa_atoll marokau_atoll nengonengo_atoll haorangi_atoll nukutavake tematagi_atoll anuanuraro_atoll nihiru_atoll manuae_atoll maupihaa_atoll
+            motu_one_atoll mehetia rangiroa_atoll havaii arutua_atoll pora_pora_atoll pora_pora havaii_atoll maupiti_atoll aopuni_atoll
+            maiao tahiti_atoll tahiti moorea_atoll moorea tetiaroa_atoll huahine_atoll huahine makatea_atoll kaukura_atoll
+            tikehau_atoll
          }
 
          #include = "republic"
@@ -2116,8 +2132,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2130,7 +2145,7 @@ countries = {
          own_control_core = {
             adyumba bakele_kongo banjabi bapunu bateke_kongo boowe conkouati igumbi_andele kwilu lambarene
             lolo makokou mitsogo_kongo mpongwe ncomi ngume nguyi nyanga ogoowe_kongo okanja
-            oyem rembo seke_gabun shake_kongo
+            oyem rembo seke_gabun shake_kongo congo_jungle_et2 congo_jungle_et1 niefang_jungle gabun_jungle
          }
 
          #include = "republic"
@@ -2140,8 +2155,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2162,8 +2176,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2184,8 +2197,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2222,7 +2234,9 @@ countries = {
             minehead okehampton plymouth poole portishead salisbury shaftesbury taunton trowbridge truro
             wells weymouth gibraltar armagh ballycastle ballymena belcoo belfast carrickfergus clogher
             coleraine derry downpatrick dungannon dunluce enniskillen iveagh magherafelt newtownards oriel
-            strabane orkney shetland st_helena
+            strabane orkney shetland st_helena ochil_hills pennines_01 pennines_03 pennines_02 north_york_moors pennines_06
+            pennines_05 pennines_04 cambrian_mountains snowdon berwyn_range dartmoor brecon_beacons ben_nevis cairngorm ben_klibreck
+            fannichs carn_eige scilly_isles georgia_isle
          }
 
          include = "expl_mdm_whole_world"
@@ -2231,8 +2245,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2243,10 +2256,10 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            akhalkalaki akhaltsikhe alaverdi anaklia batumi bodbe dmanisi dusheti gori gremi
-            khikhani khornabuji kldekari kutaisi lentekhi mtskheta ozurgeti poti_caucasus rustavi shatili
-            shorapani skande tbilisi telavi tmogvi tsageri tsalenjikha tsesi ushguli vartsikhe
-            omalo
+            akhaltsikhe alaverdi anaklia batumi bodbe dmanisi dusheti gori gremi khikhani
+            khornabuji kldekari kutaisi lentekhi mtskheta ozurgeti poti_caucasus rustavi shorapani skande
+            tbilisi telavi tmogvi tsageri tsesi vartsikhe omalo caucasus_et3 caucasus_et4 shatili
+            lesser_caucasus_mountains4 caucasus_et5 greater_caucasus_mountains3 ushguli akhalkalaki lesser_caucasus_mountains1 lesser_caucasus_mountains2 tsalenjikha
          }
 
          our_cores_conquered_by_others = {
@@ -2260,8 +2273,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2326,8 +2338,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2351,15 +2362,13 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
       GLC = {
          country_rank = rank_county
-
-       }
+       }
 
 
       GRE = {
@@ -2380,7 +2389,8 @@ countries = {
             atalanti athens bodonitsa cephalonia corfu demetrias elassona farsala gravia ioannina
             karditsa karpenisi larissa leukas livadeia loidoriki megara nafpaktos neopatras parga
             preveza pyli salona stomio thebes trikala tyrnavos vonitsa zakynthos zetounion
-            demotica komotini traianopolis xanthia
+            demotica komotini traianopolis xanthia peloponnesian_mountains2 peloponnesian_mountains1 pindus_mountains12 pindus_mountains9 mount_olympos pindus_mountains10
+            pindus_mountains8 pindus_mountains11 pindus_mountains7 pindus_mountains6 pindus_mountains5
          }
 
          #include = "republic"
@@ -2390,8 +2400,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2412,8 +2421,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2426,7 +2434,8 @@ countries = {
          own_control_core = {
             ceibal ixtutz namaan noh_peten pachan pusilha siaan_kaan uxwitza wak_kabnal yax_mutal
             acasaguastlan atitlan_guatemala chama chinabajul chiquimula cuauhtemallan guazacapan itzcuintlan jolom_konob kajyub
-            kakol_kiej nito otzoya pismachi seacal toquegua tzunun_kaab xelahuh
+            kakol_kiej nito otzoya pismachi seacal toquegua tzunun_kaab xelahuh minas_mountains cuchumatanes_mountains
+            chiapas_mountains
          }
 
          #include = "republic"
@@ -2436,8 +2445,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2460,8 +2468,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2472,7 +2479,8 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            berbice demerara essequibo guayana tumatumari waini karasabai takutu
+            berbice demerara essequibo guayana tumatumari waini karasabai takutu essequibo_jungle amazon_jungle_et3
+            amazon_jungle_et5
          }
 
          #include = "republic"
@@ -2482,8 +2490,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2502,6 +2509,7 @@ countries = {
             pitten rottenmann schladming voitsberg weiz wiener_neustadt bludenz bregenz feldkirch imst
             innsbruck kitzbuhel kufstein landeck reutte schwaz zell_am_ziller bad_ischl braunau freistadt
             gmunden kirchdorf linz perg ried rohrbach scharding steyr st_georgen wels
+            tauern_range2 tauern_range1 venediger_group otztal_alps2 bavarian_alps2 bavarian_alps1 lechtal_alps2 lechtal_alps1
          }
 
          #include = "republic"
@@ -2511,8 +2519,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2524,7 +2531,7 @@ countries = {
 
          own_control_core = {
             baynoa cahay guacayakima guahaba guanabo haniguayagua iguamuco jaragua marien tortuga
-            yaguana yaquimo
+            yaguana yaquimo baoruco_mountains
          }
 
          #include = "republic"
@@ -2534,8 +2541,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2556,8 +2562,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2570,7 +2575,7 @@ countries = {
          own_control_core = {
             ahuya_yari danli ku panamahkas tawahka chinda choluteca comayagua cururu maniani
             nacaome naco ocotepec olanchito ollalko opoa papayeca pech sico talanga
-            tecohtzincalpan tencoa texiguat ticamaya xoxonal yoro
+            tecohtzincalpan tencoa texiguat ticamaya xoxonal yoro tawahka_jungle
          }
 
          #include = "republic"
@@ -2580,8 +2585,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2607,8 +2611,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2621,7 +2624,7 @@ countries = {
          own_control_core = {
             akureyri blonduos borgarnes egilsstadir holar holmur husavik hvamstangi hvolsvollur isafjordur
             keflavik kirkjubaejar olavsvik reikjavik reydarfjordur selfoss seydisfjordur skalholt thingvellir torshofn
-            vopnafjordur
+            vopnafjordur langjokull eyjafjallajokull hofsjokull vattnajokull icelandic_highlands
          }
 
          #include = "republic"
@@ -2631,8 +2634,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2737,7 +2739,16 @@ countries = {
             sheopur sidhmukh sikar sipri sirohi siwana sui suratgarh taranagar udasar
             amreli bhanvad chhaya dhrangadhra diu dwarka gondal junagarh kantha kapilkot
             lakhiyarvira lakhpat lathi limbdi morvi nagnes palitana ranpur sihor somnath
-            chakma tizu car_nicobar nicobar north_andaman south_andaman
+            chakma tizu car_nicobar nicobar north_andaman south_andaman seshachalam_hills penchalakona_hills s_cardamom_hills pandalam_hills
+            biligiriranga western_ghats_haleri cardamom_hills palni_hills western_ghats_siruvani nilgiri western_ghats_kozhikode minicoy_atoll western_ghats_karkala western_ghats_bhatkal
+            andrott_atoll amini_atoll western_ghats_goa western_ghats_satara forest_of_dang western_ghats_purandar western_ghats_pune western_ghats_belgaum western_ghats_karad western_ghats_bombay
+            s_nallamalla astamba_dongar n_nallamalla harishchandra_range khandesh_mountains khandesh_mountains_2 gondwana_hills nimar_mountains eastern_ghats_jeypore gondwana_hills_2
+            eastern_ghats_kalahandi eastern_ghats_south_odisha eastern_ghats_south_bastar bastar_impassable sitanadi_hills malkala_range_2 malkala_range gondwana_hills_3 garhjat_range southern_hazirabagh_range
+            mainpat ramgarh_hills upar_ghat mailan_hills kherigarh great_rann_of_kutch biswan khairabad firuzabad_bahraich bhurwara
+            datia aravali_range thar_desert_bikaner little_rann_of_kutch thar_desert thar_desert_2 tharparkar_desert simlipal_hills gorumahisani_range himalaya3
+            himalaya1 karakoram2 himalayas_chanda_3 pir_panjal_range pangi_range kashmiri_himalayas pir_panjal_range_2 himalaya6 himalayas_chanda himalayas_chanda_2
+            himalaya5 himalaya2 himalaya_et1 himalaya_et2 himalaya23 himalaya_et9 himalaya_et10 himalaya_et11 himalaya_et12 naga_hills_et1
+            naga_hills_et2 naga_hills_et3 naga_hills1 himalaya_et7 barren_island
          }
 
          #include = "republic"
@@ -2747,8 +2758,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2803,7 +2813,11 @@ countries = {
             muyu ndom riantana sempan tsaukambo yamur yaqay yei yelmek awyi
             bauzi biak gresi kwerba kwesten nisa waropen yapen abun arandai
             baham buruwai hatam irarutu iresim kaimana maden maybrat meyah moi
-            moskona roon sougb sumuri wamesa yaur
+            moskona roon sougb sumuri wamesa yaur barisan_mountains2 barisan_mountains3 barisan_mountains1 borneo_jungle14
+            borneo_jungle2 borneo_jungle3 borneo_jungle1 borneo_jungle13 borneo_jungle8 borneo_jungle9 borneo_jungle12 sulawesi_jungle4 sulawesi_jungle3 sulawesi_jungle2
+            sulawesi_jungle1 sangihe_islands seram_mountains iha_jungle wandamen_jungle arandai_jungle cendrawasih_archipelago_wastelands vogelkop_jungle bon_irau_jungle kamberau_jungle
+            mairasi_jungle marind_jungle awyu_jungle aghu_jungle bagusa_jungle nduga_jungle central_range_mountains_et iau_jungle riau_jungle north_aceh_jungle
+            south_aceh_jungle javanese_mountains2 javanese_mountains1 bawean javanese_mountains3 kangean tanahjampea tukangbesi_islands borneo_jungle7 borneo_jungle10
          }
 
          #include = "republic"
@@ -2813,8 +2827,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2869,7 +2882,12 @@ countries = {
             kashmar khargerd khusf khvor korit mahvelat mazhan nayband qaen qala_zari
             ribat_ushturan roshtkhar saghand salameh sarayan shahrakht tabas_al_tamr tabas_al_unnab tun turaythith
             yazduye zaveh zohan zozan chehl_dokhtaran doroh dowzdab nehbandan sarbisheh shusef
-            zabol germi varsan
+            zabol germi varsan zagros_mountains20 dasht_lut2 zagros_mountains19 zagros_mountains18 zagros_mountains16 ravar_nayband_corridor dasht_lut5
+            zagros_mountains17 tabas_al_tamr_ribat_ushturan_corridor dasht_lut1 dasht_khara2 dasht_lut4 ribat_ushturan_jondaq_corridor zagros_mountains15 anarak_jondaq_corridor dasht_kavir2 dasht_khara1
+            zagros_mountains12 zagros_mountains13 elburz_mountains10 elburz_mountains9 zagros_mountains10 elburz_mountains8 zagros_mountains14 elburz_mountains7 dasht_kavir1 elburz_mountains6
+            zagros_mountains11 zagros_mountains9 zagros_mountains3 zagros_mountains8 zagros_mountains7 zagros_mountains6 elburz_mountains5 zagros_mountains5 elburz_mountains4 elburz_mountains3
+            elburz_mountains2 elburz_mountains1 zagros_mountains4 qaradagh_mountains4 qaradagh_mountains2 qaradagh_mountains3 qaradagh_mountains1 east_taurus_6 zagros_mountains1 zagros_mountains_et1
+            mahabad zagros_mountains21 dasht_lut3 khorasan_mountains1 khorasan_mountains2
          }
 
          #include = "muslim_monarchy"
@@ -2879,8 +2897,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2896,7 +2913,9 @@ countries = {
             erbil hillah hit karbala khalis khanaqin kirkuk kufa mandali mawet
             nasiriyah numaniyyah qadisiyyah qaladiza rawanduz rusafa samarra samawa suq_al_shuyukh tikrit
             tuz_khurma ukbara wasit zuwayr al_sinn anah balad duhok haditha mosul
-            qayyarah rutba sinjar tal_afar sahrazur sulaymaniyah amadiya zakho
+            qayyarah rutba sinjar tal_afar sahrazur sulaymaniyah amadiya zakho syrian_desert_corridor9 syrian_desert_corridor3
+            syrian_desert_corridor6 syrian_desert_corridor13 tharthar jazair syrian_desert5 syrian_desert_corridor12 syrian_desert_corridor5 syrian_desert6 syrian_desert_corridor_et syrian_desert14
+            syrian_desert7 al_ijarah syrian_desert_corridor8
          }
 
          #include = "republic"
@@ -2906,8 +2925,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2925,7 +2943,7 @@ countries = {
             wexford wicklow adare bunratty carbery carrickbeg cashel castleconnell clonmel cork
             dingle dungarvan dunhallow ennis fermoy kilbrittain killarney killmallock kinsale limerick
             moyarta moycarn muskerry nenagh roscrea tipperary tralee waterford youghal carrickmacross
-            donegal drogheda dundalk inishowen kilmacrennan monaghan raphoe
+            donegal drogheda dundalk inishowen kilmacrennan monaghan raphoe wicklow_mountains
          }
 
          #include = "republic"
@@ -2935,8 +2953,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -2947,7 +2964,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            acre beersheba jaffa majdal safed sughar umm_rashrash
+            acre beersheba jaffa majdal safed sughar umm_rashrash negev_desert
          }
 
          control_core = {
@@ -2961,8 +2978,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3003,7 +3019,10 @@ countries = {
             este feltre gemona legnago mestre monselice padova peschiera pieve pordenone
             schio spilimbergo tolmezzo treviso udine venice verona vicenza bolzano brixen
             bruneck cavalese cles merano riva rovereto silandro sterzing trento villandro
-            pragelato
+            pragelato dolomite_alps6 dolomite_alps2 otztal_alps1 dolomite_alps7 dolomite_alps1 dolomite_alps5 rhaetian_alps7 dolomite_alps4 rhaetian_alps8
+            rhaetian_alps3 rhaetian_alps2 rhaetian_alps1 rhaetian_alps6 pennine_alps2 graian_alps2 cottian_alps3 cottian_alps2 ligurian_alps mount_stromboli
+            mount_etna southern_apennines central_apennines7 central_apennines6 central_apennines5 central_apennines4 central_apennines3 central_apennines2 central_apennines1 gennargentu_mountains
+            north_apennines rhaetian_alps5 pantelleria lampedusa dolomite_alps3 lepontine_alps1
          }
 
          #include = "republic"
@@ -3013,8 +3032,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3027,7 +3045,7 @@ countries = {
          own_control_core = {
             abengourou begho bondoukou bouake bouna boundiali daloa daoukro katiola kong
             korhogo morondo ngokro seguela assinie cosrou fresco grand_bassam grand_lahou san_pedro
-            sassandra toumodi odienne gbepleu koro touba tengrela
+            sassandra toumodi odienne gbepleu koro touba tengrela guinean_jungle_et2 guinean_jungle_et1
          }
 
          #include = "republic"
@@ -3037,8 +3055,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3059,8 +3076,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3111,7 +3127,10 @@ countries = {
             chiisagata echi ena fuwa_mino gamou gujou gunma haga ikeda kamiina
             kamioono kanra katagata kawachi kiso kouka kurita mashita minochi minokamo
             mugi nasu nitta saku sarashina seta shimoina shioya suwa takai
-            takashima toki tone tsuga tsukama usui yoshiki
+            takashima toki tone tsuga tsukama usui yoshiki habomai hidaka_mountains ishikari_mountains
+            ulleungdo izu_islands echigo_mountains kii_mountains mount_fuji okuchichibu_mountains asama_mountains mikuni_mountains akaishi_mountains yatsugatake_mountains
+            kiso_mountains mount_ontake hida_mountains mount_haku mount_tsurugi ishizuchi_mountains geiyo_islands_wastelands mishima_island koshikishima satsunan_islands
+            kumejima
          }
 
          #include = "japanese_clan"
@@ -3121,8 +3140,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3134,6 +3152,7 @@ countries = {
 
          own_control_core = {
             al_quwayrah amman aqaba azraq irbid karak maan madaba ruwaished shoubak
+            syrian_desert_corridor10 syrian_desert_corridor4 syrian_desert_corridor2 syrian_desert13 jordan_desert_corridor1 syrian_desert2 syrian_desert1
          }
 
          #include = "muslim_monarchy"
@@ -3143,8 +3162,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3177,7 +3195,10 @@ countries = {
             kulykol sasykkol shoindykol shoptikol siberia_tenteksor zharkol akkol bayanaul bozok_astana kyzylzhar
             presnowka shybyndy siletiteniz stanitsa_kokchetavskaya staroye tarankol zhalauly bokey botkul ganyushkino
             zhanybek aksay_pointic kalmyk karatobe kisikkamys kulagin oral ryn sarayjuk saryadyn
-            shyngyrlau talowski taskala terekti ushtagan zhympity
+            shyngyrlau talowski taskala terekti ushtagan zhympity kyzylkum_corridor3 aral_kum_corridor1 kyzylkum_corridor1 kyzylkum_desert4
+            kyzylkum_corridor4 kyzylkum_desert2 kyzylkum_desert kyzylkum_desert5 ust_yurt_plateau1 dead_kultuk_sor ust_yurt_plateau2 aral_karakum_desert moiynkum_desert hunger_steppe
+            taukum_desert saryesik_atyrau_desert alatau targabatay_mountains altay_mountains_et3 hissar_mountains1 gaoligongshan_et wusun borohoro1 ugam_range1
+            tian_shan10
          }
 
          #include = "republic"
@@ -3187,8 +3208,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3202,7 +3222,7 @@ countries = {
             central_dahalo daasanach gabra garreh maasai north_dahalo rendille samburu sanye south_sakuye
             deloraine ilchamu ngibelai ngilukumong ngisir ngisonyoka ngiyepakuno omotik pokot joluo
             kuria mumias agikuyu east_ongamo gedi kitui lamu malindi mambrui mombasa
-            oda_boru_ruva pate south_dahalo taita tiva ungwana wenje west_ongamo vumba_kuu
+            oda_boru_ruva pate south_dahalo taita tiva ungwana wenje west_ongamo vumba_kuu east_african_mountains
          }
 
          #include = "republic"
@@ -3212,8 +3232,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3237,8 +3256,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3250,6 +3268,7 @@ countries = {
 
          own_control_core = {
             abaiang_atoll abemama_atoll butaritari_atoll maiana_atoll nonouti_atoll onotoa_atoll tabiteuea_atoll tarawa_atoll kiritimati tabuaeran
+            arorae beru_atoll aranuka_atoll kiritimati_atoll teraina kingman_reff palmyra_atoll
          }
 
          #include = "republic"
@@ -3259,8 +3278,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3281,8 +3299,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3303,8 +3320,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3317,7 +3333,9 @@ countries = {
          own_control_core = {
             daroot_korgon arslanbob burchmullo cholok_kaiyn chon_naryn dakhkat gulcha jalalabad_fergana jumgal karasuu
             kerben ketmen_tobe konibodom koshoy_korgon naryn osh uzkand balasagun balykchy barskoon
-            dzhul harandzuvan kochkor kysmyci nuzket san_tash tekabket yangi
+            dzhul harandzuvan kochkor kysmyci nuzket san_tash tekabket yangi soltobe tian_shan22
+            tian_shan23 tian_shan8 tian_shan21 tian_shan13 tian_shan2 tian_shan11 tian_shan12 tian_shan19 tian_shan9 tian_shan20
+            tian_shan14 ugam_range2 tian_shan18 tian_shan7 tian_shan16
          }
 
          #include = "republic"
@@ -3327,8 +3345,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3343,7 +3360,8 @@ countries = {
             muang_phalan muang_phin muang_phuan muang_ta_oi ngoc_ma nong_bok phonsavan phon_hong samxay savannakhet
             sayniabuli sepon thakhek thoulakhom thuan_binh tonle_kong vang_vieng vat_phou vientiane ban_luang_cheng
             chom_khao_maneerat hongsa muang_et muang_kham muang_lang muang_luang_phukha muang_sing muang_sua muang_thaeng muang_xay
-            nam_xuang phongsali vieng_phouka xam_neua muang_sam_tai
+            nam_xuang phongsali vieng_phouka xam_neua muang_sam_tai annamese_range6 nakai_jungle annamese_range3 annamese_range1 mekong_jungle
+            luang_prabang_range2 phou_den_din_mountains phou_mountains
          }
 
          #include = "republic"
@@ -3353,8 +3371,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3378,8 +3395,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3390,7 +3406,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            baalbek beirut deir_qamar sidon tripoli_syria
+            baalbek beirut deir_qamar sidon tripoli_syria antilebanon_mountains1 antilebanon_mountains2 lebanon_mountains
          }
 
          #include = "republic"
@@ -3400,8 +3416,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3412,7 +3427,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            butha_buthe sinqu thaba_bosiu
+            butha_buthe sinqu thaba_bosiu drakensberg_mountains_et
          }
 
          #include = "subsaharan_tribe"
@@ -3422,8 +3437,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3435,7 +3449,7 @@ countries = {
 
          own_control_core = {
             bassa cess cestos junk_river mesurado saint_paul_river settra_kru tabou bopolu cape_mount
-            macenta sanniquellie
+            macenta sanniquellie guinean_jungle
          }
 
          #include = "republic"
@@ -3445,8 +3459,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3461,7 +3474,11 @@ countries = {
             suluntah tmimi tobruk jaghbub al_jawf awjila brak ghadames ghat maradah
             murzuk sabha sinawin sokna tazirbu ubari zawila zella al_kadwa al_khums
             bani_walid ghariyan jadu misratah mizda nalut ras_lanuf sirte tarhuna tawurgha
-            tripoli yafran zawiya zintan zliten zuwarah qatrun
+            tripoli yafran zawiya zintan zliten zuwarah qatrun sahara_passage_et9 connector_libya5 sahel_corridor13
+            murzuk_desert tozeur_ghadames_corridor connector_libya2 connector_libya4 hamada_el_hamra grand_erg_oriental coastal_libyan_desert1 connector_libya17 connector_libya3 sahel_corridor18
+            erg_selima_et2 sahara_passage_et11 connector_libya13 coastal_libyan_desert2 connector_libya12 connector_libya14 connector_libya11 rabyanah connector_libya6 great_sand_sea_et1
+            connector_libya7 connector_libya15 connector_libya10 calansho_desert connector_libya9 coastal_libyan_desert3 calansho_sand_sea connector_egypt7 sahara_passage_et12 east_grand_erg_oriental
+            connector_libya1
          }
 
          #include = "republic"
@@ -3471,8 +3488,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3493,8 +3509,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3519,8 +3534,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3541,8 +3555,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3563,8 +3576,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3576,7 +3588,7 @@ countries = {
 
          own_control_core = {
             debar bitola kicevo kocani kratovo kumanovo ohrid prilep prosek shtip
-            skopje strumica tetovo veles
+            skopje strumica tetovo veles rhodope_mountains2 pindus_mountains3 pindus_mountains4 pindus_mountains2 pindus_mountains1
          }
 
          #include = "republic"
@@ -3586,8 +3598,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3616,8 +3627,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3636,7 +3646,8 @@ countries = {
             tabou_m araouane arlal bai bambara_maounde bore dia djenne dogo douentza
             gargando goundam gourma_rharous kabara kanibonzon kare korientze macina ngouma niono
             ras_el_ma safare san sanekuy sanga sokolo soumpi taghaza taoudenni tenenkou
-            timbuktu tindirma farakala menaka
+            timbuktu tindirma farakala menaka tabelbala_taghaza_corridor2 sahara_passage_et16 sahara_passage_et15 sahel_corridor12 sahel_corridor09 el_djouf_et2
+            sahel_corridor10 sahara_passage_et4 talak_desert_et3 talak sahel_corridor11 sahel_corridor25 erg_aoukar_et2 erg_aoukar_et1 east_el_djouf tanezrouft
          }
 
          #include = "republic"
@@ -3646,8 +3657,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3664,7 +3674,8 @@ countries = {
             hulu_baram hulu_kinabatangan hulu_labuk hulu_limbang hulu_padas hulu_segama hulu_sembakung igan julau katibas
             kinabatangan kota_marudu kuamut kudat lahad_datu lokan mukah niah padas pegalan
             plieran rejang samarahan sandakan santubong saribas sarikei sebuyau sibumbong sugut
-            tandang_sari tatau tawau tinjar tong_talun trusan
+            tandang_sari tatau tawau tinjar tong_talun trusan borneo_jungle6 borneo_jungle5 borneo_jungle4 borneo_jungle11
+            borneo_jungle_et1 terengganu_hills sankalakhiri_range titiwangsa_mountains
          }
 
          #include = "indonesia_muslim_monarchy_no_mandala"
@@ -3674,8 +3685,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3696,8 +3706,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3719,8 +3728,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3732,7 +3740,8 @@ countries = {
 
          own_control_core = {
             ailinglaplap_atoll bikini_atoll enewetak_atoll jaluit_atoll kwajalein_atoll namu_atoll rongelap_atoll rongerik_atoll ujae_atoll ailuk_atoll
-            arno_atoll aur_atoll erikub_atoll likiep_atoll majuro_atoll maloelap_atoll mili_atoll taka_atoll wotje_atoll
+            arno_atoll aur_atoll erikub_atoll likiep_atoll majuro_atoll maloelap_atoll mili_atoll taka_atoll wotje_atoll bikar_atoll
+            taongi_atoll ailinginae_atoll wotho_atoll ujelang_atoll
          }
 
          #include = "republic"
@@ -3742,8 +3751,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3764,8 +3772,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3777,8 +3784,10 @@ countries = {
 
          own_control_core = {
             kaedi matam silla walalde akjoujt aleg aoudaghost arguin atar awlil
-            azougui boutilimit chingetti diara diawara guerou idjil kiffa koumbi_saleh maghana
-            nema nouakchott nouamghar rosso tichit tidjikja timbedra tintane wadan walata
+            azougui boutilimit chingetti diara diawara guerou kiffa koumbi_saleh maghana nema
+            nouakchott nouamghar rosso tichit tidjikja timbedra tintane wadan walata sahel_corridor05
+            sahel_corridor06 erg_amatlich_et3 south_erg_amatlich sahel_corridor02 sahel_corridor04 erg_aoukar sahel_corridor07 south_el_djouf erg_amatlich_et1 sahara_passage_et2
+            el_djouf_et1 sahara_passage_et1 east_erg_aoukar
          }
 
          #include = "republic"
@@ -3788,15 +3797,13 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
       MER = {
          country_rank = rank_county
-
-       }
+       }
 
 
       MEX = {
@@ -3852,7 +3859,9 @@ countries = {
             cocomacan copuz cuauhtitlan hnahnu huaxcama huayacocotla ixtachichimecapan jalpan kerhiretarhu metztitlan
             mixquiahuala mo_o_ti nat_tha_hi otomi oxtlipan ozuluama pame panuco pechichitane penlamu
             tamtoc tanchaycha tangamanga tetzapotitlan tollan tutotepec tziuhcoac uza xilotepec xiriquitzio
-            otatitlan
+            otatitlan colha maya_jungle nube_flan chimalapa_jungle guiigu_yudxi nudo_zempoaltepetl citlaltepetl_mountains tlacopan tepozan_mountains
+            ajusco_mountains popocatepetl_mountains toluca_mountains teotepec lobos_mountains viga_mountains fria_mountains guadalupe_island revillagigedo_islands colima_mountains
+            magdalenas madre_mountains lacandon_jungle
          }
 
          #include = "republic"
@@ -3862,8 +3871,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3886,7 +3894,8 @@ countries = {
             tuul urga uur zagzuugiin_balgas altayn_ovor_gobi baidrag biger bogd boontsagaan bugat
             chikhan_agui gimpil_darjaalan khadat khalzan_shireg khangal naran ongiin_khiid orog otegu_qulan shaazan_khot
             shaazan_tolgoi shargyn_gobi shira_qulusun suriig tevsh_uul tost_uul tsagaan_agui tsogt tuin ukhaa_khudag
-            ulaan zuun_garyn_gobi atanuul bodonch bulgan
+            ulaan zuun_garyn_gobi atanuul bodonch bulgan khan_khentii1 khan_khentii2 eastern_sayan_mountains2 eastern_sayan_mountains_et khangain_mountains
+            targavatai_mountains khasagt_khairkhan gobi_altay atas_bogd mongol_altay altay_mountains_et2
          }
 
          #include = "eurasian_horde_no_muslim"
@@ -3896,8 +3905,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3908,7 +3916,10 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            ulithi_atoll woleai_atoll yap chuuk kosrae pohnpei poluwat_atoll pulusuk_atoll satawan_atoll
+            ulithi_atoll woleai_atoll yap chuuk kosrae pohnpei poluwat_atoll pulusuk_atoll satawan_atoll pohnpei_atoll
+            ngatik_atoll oroluk_atoll minto_atoll namoluk_atoll losap_atoll hall_atoll chuuk_lagoon helene_atoll namonuito_atoll elgin_atoll
+            pulap_atoll caroline_atoll angaur lamotrek_atoll piagailoe_atoll west_faru_atoll faraulep_atoll belau ngulu_atoll belau_atoll
+            mokil_atoll ebon_atoll namorik_atoll
          }
 
          #include = "republic"
@@ -3918,8 +3929,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3945,8 +3955,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -3961,8 +3970,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -3973,7 +3981,8 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            pljevlja soko_grad bar_cg brskovo budimlja gradina kotor onogost podgorica
+            pljevlja soko_grad bar_cg brskovo budimlja gradina kotor onogost podgorica dinaric_alps6
+            dinaric_alps5
          }
 
          #include = "republic"
@@ -3983,8 +3992,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4005,8 +4013,12 @@ countries = {
             tit tizgane volubilis agadir agdez ait_benhaddou aouint_yghomane assa beni_sabih boumalne_dades
             er_rich foum_zguid ifni ifrane igiliz ksar_es_souk massa_MOR noul_lamta ouarzazate sijilmasa
             skoura tafraout taghjijt tagmadert tamdoult taroudant tata_MOR taznakht tazzarine tidsi
-            tiout tissint tiznit tizounine todgha al_kuwayra aousserd bojador dakhla laayoune
-            smara tantan
+            tiout tissint tiznit tizounine todgha aousserd bojador dakhla laayoune smara
+            tantan western_rif plain_of_tamlelt_et1 plain_of_tamlelt_et2 plain_tamlelt4 moulouya_corridor3 lower_rif rif north_middle_atlas south_middle_atlas2
+            sahel_corridor32 plain_tamlelt2 east_high_atlas ksar_es_souk_bechar_corridor moulouya_corridor2 plain_tamlelt3 moulouya_corridor1 sahel_corridor08 beni_sabih_tabelbala_corridor south_middle_atlas1
+            western_high_atlas2 eastern_high_atlas1 eastern_anti_atlas eastern_high_atlas2 high_atlas1 western_high_atlas1 high_atlas2 middle_high_atlas anti_atlas2 anti_atlas1
+            el_djouf_et4 sahara_passage_et6 sahara_passage_et7 el_djouf5 el_eglab_massif_et1 el_djouf_et5 sahel_corridor31 el_djouf4 el_djouf_et3 el_djouf2
+            sahel_corridor33 el_djouf1
          }
 
          #include = "muslim_monarchy"
@@ -4016,8 +4028,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4035,7 +4046,7 @@ countries = {
             maputo north_hlanganu nwalungu south_hlanganu west_shangana xai_xai bandire chikwanda chiluane chipangura
             chiveve gorongoza madanda masekesa sofala zembe ancuase chamo cheringoma chikowa
             chindre chiramba chupanga cuama hondosaka kaphirintiwa luanze massangano massanza mbombona
-            milange mopeia muchena mutota njamara sena tembue tete zumbo
+            milange mopeia muchena mutota njamara sena tembue tete zumbo south_manica_highlands
          }
 
          #include = "republic"
@@ -4045,8 +4056,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4072,7 +4082,10 @@ countries = {
             kengtung kyaukme lai_hka lashio lawksawk mabein manmaw mawkmai monghsu mongkung
             monglong mongmit mongnai mongnawng mongpai mongping mongtung mong_hpayak mong_hsat mong_yai
             mong_yang mong_yawng muse namhkan namhsan nam_thing ngasingu shwegu siri_do takawng
-            taunggyi ta_shwe_htan wetwin yawnghwe
+            taunggyi ta_shwe_htan wetwin yawnghwe bilauktaung_range_et1 bilauktaung_range2 bilauktaung_range3 bilauktaung_range_et2 arakan_mountains2 pegu_jungle
+            karen_hills3 karen_jungle_et daen_lao_range shan_hills3 karen_hills2 nwamethin_jungle karen_hills1 arakan_mountains1 pandaung_range chin_hills3
+            chin_hills2 chin_hills1 mangin_range1 shan_hills1 namsam_range gaoligongshan1 naga_hills2 naga_hills3 mangin_range2 naga_hills4
+            sagaing_jungle kumon_range gaoligongshan2
          }
 
          #include = "republic"
@@ -4082,8 +4095,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4097,7 +4109,8 @@ countries = {
             katima lukana mamele ombongo basarwa hoachanas kharakhoen khaugoan khowesen ogain
             xam aakhoe aonin bayei damara ezorongondo haiom himba namaqua otjozondjii
             ovaherero owambo tjimba hambukushu juhoansi kwangali najama odonga omatako omuthiya
-            oukwanyama uukwambi xun
+            oukwanyama uukwambi xun etosha_salt_pan ombombo_mountains lower_pinda otjiwarongo_mountains hakos_mountains mocamedes_desert garibams
+            tsau tsaris_mountains namib_desert nakop kharooan bondelswarts karas
          }
 
          #include = "republic"
@@ -4107,15 +4120,13 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
       NAV = {
          country_rank = rank_county
-
-       }
+       }
 
 
       NED = {
@@ -4142,8 +4153,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4156,7 +4166,7 @@ countries = {
          own_control_core = {
             awastara bawika boas cuauhcapolca diria guaxenicos karawala kukra matagalpa nagarando
             nequecheri prinzus rama silam sutiapan tezoatega ukutal ulwas xalapan xiotenko
-            yuskus
+            yuskus tawahka_jungle_et indio_maiz_jungle
          }
 
          #include = "republic"
@@ -4166,8 +4176,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4184,6 +4193,7 @@ countries = {
             gotheye namaro sikieye agadem bilma dirkou djado fachi nguigmi seguedine
             birni_lalle birni_nkonni garadoume maradi tessawa boubon dongondoutchi dosso gaia goudel
             hamdallaye kaouara koure libore loga makalondi ouallam say tondikandia yelou
+            talak_desert_et2 sahel_corridor22 sahel_corridor01 sahel_corridor20 sahel_corridor03 sahel_corridor14 tenere erg_of_bilma south_talak
          }
 
          #include = "republic"
@@ -4193,8 +4203,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4219,7 +4228,7 @@ countries = {
             alkalawa anka birnin_kebbi birnin_zamfara daura dutsi funtua goronyo gumel gusau
             katsina koko sokoto surame takassaba talata_mafara anchau auyo biram birnin_gwari
             birnin_kudu dutse gaya_n gwaram kano kazaure kontagora kotonkoro kulfo lere
-            rano shira tegina turunku yauri zazzau zuru tounouga
+            rano shira tegina turunku yauri zazzau zuru tounouga obudu_plateau_et oban_hills_et
          }
 
          #include = "republic"
@@ -4229,8 +4238,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4251,8 +4259,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4268,7 +4275,8 @@ countries = {
             ichon pyeonggang tongcheon chosan deokju gaeju ganggye gwiju huicheon huju
             jeongju_jeongju jeungsan junghwa sakju samhwa seogyeong seongcheon seonju sukju sunju
             uiju unju yangam yeongwon kaesong anak baekcheon bongju cheongsong gokju
-            haeju hwangju jaeryeong jangyeon ongjin pungcheon pyeongju suan tosan
+            haeju hwangju jaeryeong jangyeon ongjin pungcheon pyeongju suan tosan eastern_korean_mountains2
+            eastern_korean_mountains3 western_korean_mountains2 western_korean_mountains1 eastern_korean_mountains4
          }
 
          #include = "republic"
@@ -4278,8 +4286,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4300,7 +4307,8 @@ countries = {
             imsdalen jaeren kongsberg kongsvinger kvinnherad laerdal lillehammer lindesnes moss moster
             nordhordland numedal oddernes oslo otredal otta oyestad ringerike ryfylke sande
             sigdal sirudal ski skien sogndal sondeled stavanger stryn suledal sunnfjord
-            tonsberg trogstad trysil tynset ullensvang valdres vardal vik voss
+            tonsberg trogstad trysil tynset ullensvang valdres vardal vik voss norway_wasteland_a
+            norway_wasteland_b jotunheim hardangervidda norway_wasteland_c north_skanderna bear_island jan_mayen
          }
 
          include = "expl_mdm_whole_world"
@@ -4309,8 +4317,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4326,6 +4333,7 @@ countries = {
             gulmi halesi jagatipur jumla kailali kanchapur kathmandu kharpunath lamjung malneta
             musikot nuwakot okhaldhunga phakphok pokhara pyuthan rajanari ramechhap ranibas salianah
             sindhuli sinja sunkoshi takam tanahun tansen taplejung upardang vijayapur yanal_densa
+            himalaya_et6 himalaya_et5 himalaya_et3 himalaya_et4
          }
 
          #include = "republic"
@@ -4335,8 +4343,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4370,7 +4377,8 @@ countries = {
             nz169 nz152 nz153 manapouri_lake nz166 nz165 nz167 nz154 nz161 hauroko_lake
             nz160 wakatipu_lake nz146 nz155 nz157 nz163 nz156 nz162 nz180 nz143
             nz144 nz145 nz128 nz135 nz129 nz138 nz126 nz159 nz127 nz130
-            nz133 nz132 nz151 nz131 nz158 southern_alps ruapehu
+            nz133 nz132 nz151 nz131 nz158 southern_alps ruapehu atafu_atoll malden starbuck
+            rakahanga manihiki te_ulu_o_te_watu
          }
 
          include = "expl_mdm_whole_world"
@@ -4379,8 +4387,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4394,7 +4401,8 @@ countries = {
             adam al_kamil_wal_wafi al_khaburah as_sib bahla haima ibra ibri izki jalan_buani_buali
             masirah masqat mirbat_masirah_corridor1 mirbat_masirah_corridor2 mirbat_masirah_corridor3 nakhal nizwa qalhat rustaq saham
             shinas sinaw suhar sur yanqul al_mazyunah dhufar mirbat raysut thumrait
-            khasab
+            khasab rub_al_khali_corridor4 rub_al_khali8 rub_al_khali9 rub_al_khali_corridor3 rub_al_khali7 rub_al_khali_corridor2 rub_al_khali_corridor11 rub_al_khali6 hajar_mountains
+            rub_al_khali5
          }
 
          #include = "muslim_monarchy"
@@ -4404,8 +4412,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4435,7 +4442,9 @@ countries = {
             islamkot jhal jhatpat kandiaro kashmore kotri kot_lalu lahri laribandar manora
             mansura mithri moro_sindh muhammad_tur nagarparkar naserpur paat rajabar ranikot rohri
             sehwan shadodkot shikarpur siwi sonda sui_pakistan sukkur thatta umarkot vingur
-            wanga_bazar
+            wanga_bazar thar_desert_3 suleiman_range_6 kirtar_range_2 kharan_desert2 kharan_desert3 kharan_desert1 kirtar_range suleiman_range_7 suleiman_range_2
+            suleiman_range_3 suleiman_range_9 suleiman_range_5 suleiman_range_8 suleiman_range_1 salt_range_3 thal_desert thal_desert_2 salt_range nanga_parbat
+            pir_panjal_range_3 karakoram3 hindu_kush8 hindu_kush10 hindu_kush9 hindu_kush7 hindu_kush4
          }
 
          #include = "republic"
@@ -4445,8 +4454,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4466,8 +4474,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4477,10 +4484,6 @@ countries = {
          country_rank = rank_duchy
          starting_technology_level = 3
 
-         own_control_core = {
-            belau
-         }
-
          #include = "republic"
          include = "expl_mdm_whole_world"
 
@@ -4488,8 +4491,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4502,6 +4504,7 @@ countries = {
          own_control_core = {
             burica chiriqui huista careta caribaro chepo chiru chochama chuchures comogre
             cubiga escoria esquegua nata panama parita pocorosa tauraba terbi veragua
+            chiriqui_mountains_et veragua_jungle darien_jungle
          }
 
          #include = "republic"
@@ -4511,8 +4514,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4531,7 +4533,10 @@ countries = {
             suena tagula waima yareba yela adzera amaimon angoram arop aruamu
             awad_bing banaro barem boiken bukawa bukiyip iwal karkar kate kumalu
             melpa mum rao rawa_papua umboi wampar wogamusin abau fas_papua kwomtari
-            maia_papua olo bannoni buka naasioi rotokas tinputz
+            maia_papua olo bannoni buka naasioi rotokas tinputz mallum_atoll rapoisi_jungle konomala_jungle
+            miu_jungle mengen_jungle qaqet_jungle kanasi_jungle aneme_jungle fuyug_jungle guhu_samane_jungle mekeo_jungle owen_stanley_range kiwai_jungle
+            were_jungle bangela_mountains tabo_jungle bismarck_range abu_jungle bismarck_archipelago_wasteland folopa_jungle zimakani_jungle konai_jungle aruek_jungle
+            central_range_mountains niksek_jungle
          }
 
          #include = "catholic_monarchy"
@@ -4541,8 +4546,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4556,7 +4560,7 @@ countries = {
             aseptiketiheylhets chishamnee eampepaigosode enenlhet enlhet enxet gaaigosode guana ipholhhelhlhup lumnanas
             nenlhet tapiete tavashay tefeyak totobiegosode yalve_sanga yita yshyr agaes avaes
             akaray ayvu_pora canindeyu curuguaty kaaguy_jehasapa kaarendy kuarepoti kyyindy nemby pai_tavytera
-            takuru_puku tsiripa ycuamandiyu ygana
+            takuru_puku tsiripa ycuamandiyu ygana ayoreo_forest yshyr_forest
          }
 
          #include = "republic"
@@ -4566,8 +4570,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4597,7 +4600,11 @@ countries = {
             maranon mauta may_ushin moyobamba namballe nomatsigenga panatahuas requena_amazon rupharupha utkhupampa
             yanesha yurimagua chetilla chimu chumuch congona huallumarca huamanpata huambos illapa
             ilucan kaxa_marca kuelap llucho markahuamachuco olan pirca_pirca tantaricuy inapari mazuko
-            tambopata
+            tambopata cospan_mountains amazon_jungle_et13 amazon_jungle_et12 amazon_jungle_et10 huayabamba_jungle huayabamba_mountains amazon_jungle_et11 milpo_mountains shin_shin_mountains
+            samanga_mountains quiruvilca_mountains shunte_jungle yerupaja_mountains pampacancha_mountains yanajanca_jungle katataibo_jungle waqurunchu_mountains quiman_mountains quilqi_hirka_mountains
+            piu_piu_forest quilpa_hirka_mountains utcohuarco_mountains pariacaca_mountains mantaro_jungle ayacucho_mountains ayacucho_jungle tanranioc_mountains wasi_qaqa_mountains quiluta_mountains
+            chuyapi_jungle salkantay_mountains qurawiri_mountains andahua_volcanoes qilu_urqu_mountains sara_sara_volcano pumanota_mountains amazon_jungle_et14 sahuasiray_mountains antawilpa_mountains
+            chunkara_mountains kunturi_mountains parwayuni_mountains choquepata_mountains cololo_mountains_et
          }
 
          #include = "republic"
@@ -4607,8 +4614,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4631,7 +4637,7 @@ countries = {
             siocon sumilao surigao tagloc talacogon tboli tukuran aklan araut bago_negros
             basey batan binalbagan bool borongan catarman ilog irong_irong kangdaya kankabatok
             limasawa mairete makarato malandog malindig masbate matandang_nayon pangasugan parpagoha singhapala
-            talibon tanjay tinago
+            talibon tanjay tinago mapun mindanao_mountains luzon_jungle cordillera_mountains2 cordillera_mountains1
          }
 
          #include = "republic"
@@ -4641,15 +4647,13 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
       PIR = {
          country_rank = rank_county
-
-       }
+       }
 
 
       POL = {
@@ -4694,8 +4698,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4713,7 +4716,7 @@ countries = {
             alcobaca alvalade alvito avis beja crato elvas estremoz evora faro
             lagos lisbon mertola montemor mora_portugal moura odemira ourique ponte_sor portalegre
             portel salvaterra santarem serpa setubal silves sines tavira tomar torres_novas
-            torres_vedras vila_vicosa
+            torres_vedras vila_vicosa estrela_mountains
          }
 
          #include = "republic"
@@ -4723,8 +4726,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4745,8 +4747,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4770,7 +4771,9 @@ countries = {
             caracal cegani cetateni comana corabia cozia craiova dragasani gaiseni giurgiu
             glavacioc gratia lichiresti meteleu orasul_de_floci parscov pitesti plenita ploesti poenari
             radovanu ramnicu_sarat ramnicu_valcea rusii_de_vede severin slanic slatina slobozia stramba strehaia
-            targoviste targu_bengai targu_jiu turnu_magurele valenii_de_munte viziru zimnicea
+            targoviste targu_bengai targu_jiu turnu_magurele valenii_de_munte viziru zimnicea eastern_carpathians4 eastern_carpathians3 eastern_carpathians8
+            eastern_carpathians5 eastern_carpathians9 eastern_carpathians5b eastern_carpathians6c eastern_carpathians6 inner_carpathians southern_carpathians1 eastern_carpathians7 southern_carpathians2 southern_carpathians3
+            southern_carpathians4
          }
 
          #include = "republic"
@@ -4780,8 +4783,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -4997,7 +4999,28 @@ countries = {
             shuya_karelia shyoltozero sordavala suikujarvi suojarvi tunkuo uhtuo vazhiny akkala alakurti
             dalniye_zelentsy kantalahti kashkarantsy kiltina kola koliskoj luujarvi maaselka mootka nuorttijarvi
             olenitsa pechenga ponoi prirechnyi pyalitsa raivke semiostrov suonikyla svyatoy_nos tetrino
-            umba varzuga hanasaki kasriskari jariekhi
+            umba varzuga hanasaki kasriskari jariekhi ayon omok_upplands5 chuvan_upplands1 omok_upplands3 omok_upplands2
+            omok_upplands4 kolyma_upplands1 kolyma_river anjuj_river omok_upplands1 peninsula_uplands5 chauchu_trail3 erri_uplands2 erri_uplands1 peninsula_uplands4
+            anauls_uplands2 chuvan_upplands2 anauls_uplands3 anadyr_river o_mnmilin_uplands1 anadyr_trail yeropol_river chauchu_trail2 chauchu_trail1 alyutor_range1
+            koryak_uplands5 koryak_uplands4 yamsk_range2 yamsk_range1 koryak_uplands3 kedon_range peninsula_uplands3 peninsula_uplands2 koryak_uplands1 koryak_uplands2
+            o_mnmilin_uplands2 kerek_uplands anauls_uplands1 kamchatka_trail2 kamchatka_uplands5 alyutor_range2 kamchatka_uplands1 kamchatka_uplands2 kamchatka_trail1 kamchatka_uplands3
+            peninsula_uplands1 kamchatka_uplands4 kolyma_trail kolyma_upplands2 magadan_range omchikan_range kolyma_highlands soyangi_trail yukaghyr_upplands1 arga_tas_upplands
+            orgulaax_trail yukaghyr_upplands2 yukaghyr_upplands3 indigiir_trail uyandina_trail siberian_forests_1 okam_range siberian_tundra_4 siberian_hills_5 siberian_hills_6
+            chondon_tundra ayan_mai1 ayan_mai2 hakandya_uppland siberian_hills_3 siberian_hills_4 ol_de_trail siberian_tundra_5 uolya_trail siberian_tundra_10
+            puur_trail siberian_tundra_3 aldan_upplands3 dulgalaax_trail yana_plateau siberian_hills_2 siberian_tundra_7 siberian_tundra_6 siberian_tundra_9 lungxa_upplands1
+            lena_trail1 lena_trail2 siberian_hills_1 siberian_hills_7 siberian_tundra_8 aldan_upplands4 lungxa_upplands2 dippa_upplands ecigeen_upplands lena_trail3
+            siniaia_upplands biryuk_uplands sakha_uplands olyokma_upplands5 siberian_forests_4 vitim_upplands olyokma_upplands1 xamaxar_uplands2 chona_trail makarixa_uplands
+            neryunda_uplands siberian_wasteland_17 altay_forest_wasteland_3 siberian_wasteland_14 siberian_wasteland_16 siberian_wasteland_15 siberian_wasteland_9 siberian_wasteland_7 xamaxar_uplands1 markhaya_trail
+            siberian_wasteland_8 vilyuy_trail siberian_wasteland_6 tunguska_trail6 tunguska_trail5 nidym siberian_forests_6 tunguska_trail4 uchami tunguska_trail3
+            tutonchany tunguska_trail2 nimde siberian_forests_2 siberian_wasteland_13 siberian_wasteland_11 tunguska_trail1 siberian_forests_5 siberian_forests_3 siberian_hills_8
+            shuryshkar siberian_tundra_1 siberian_wasteland_10 siberian_tundra_2 siberian_wasteland_12 yamal yuzhny siberian_wasteland_2 siberian_wasteland_3 siberian_wasteland_5
+            perm_forest_3 sverdlovsk_forest_1 ural_mountains2 siberian_wasteland_4 siberian_wasteland_1 ural_mountains ural_forest perm_forest russian_wastelands_9 west_siberian_forests
+            nenets russian_wastelands_2 russian_wastelands_5 russian_wastelands_4 russian_wastelands_7 russian_wastelands_10 russian_wastelands_6 kolguyev russian_wastelands_8 kanin_peninsula
+            russian_wastelands_1 kola_taiga lapland_taiga4 lapland_taiga3 karelia_taiga2 karelia_taiga1 lapland_taiga2 yamsk_range3 maya_range1 maya_range2
+            duse_alin yam_alin bureya aldan_upplands2 aldan_upplands1 olyokma_upplands6 olyokma_upplands4 olyokma_upplands2 olyokma_upplands3 khan_khentii_mountains_et
+            khan_khentii3 eastern_sayan_mountains3 eastern_sayan_mountains1 tannu_ola_mountains2 tannu_ola_mountains1 altay_forest_wasteland_1 western_sayan_mountains altay_mountains altay_forest_wasteland_2 greater_caucasus_mountains5
+            greater_caucasus_mountains4 greater_caucasus_mountains2 greater_caucasus_mountains1 caucasus_et1 greater_caucasus_mountains8 greater_caucasus_mountains7 greater_caucasus_mountains9 makanru shasukotan repunmoshiri
+            rasshua
          }
 
          #include = "republic"
@@ -5007,8 +5030,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5029,8 +5051,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5053,7 +5074,9 @@ countries = {
             tebang thaba_nchu thembelihle umncumuba umsobomvu bakgatla egabeni em_dinaneni hlahlandlela kaditshwene
             kungwini mashishing mghumbhani mosega phalaborwa tzaneen buthelezi dedesi ethekwini konde
             mapulana mbombela mpondo mthethwa ndwandwe ngwane ntshekane thembu ukhahlamba umgungundlovu
-            umhlanga umngazi dzata mapungubwe thulamela
+            umhlanga umngazi dzata mapungubwe thulamela south_drakensberg_mountains north_drakensberg_mountains langeberg_east_mountains clock_mountains langeberg_west_mountains
+            hawequas_mountains riviersonderend_mountains jonkershoek_mountains waterval_mountains skurweberge_mountains winterkoek_mountain tsitsikamma_mountains outenniqua_mountains groot_swart_mountains anys_mountains
+            roggeveld_mountains tandjies_mountains crozet_islands marion_island
          }
 
          #include = "republic"
@@ -5063,8 +5086,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5085,8 +5107,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5107,8 +5128,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5142,7 +5162,11 @@ countries = {
             abil abu_rakah adham ad_dughmiyah al_abala al_amlah al_amwah al_haqu al_harjah al_husayniyah
             al_khosuf al_maddah al_qunfudhah al_shuqayq al_sirrayn ash_shaqiqah barahrah bariq dhahran dhi_ain
             farasan hali jazan khaybar_janoub muhayil najran qalat_bishah raghdan ranyah rijal_almaa
-            sabt_bani_bishr sabya samakh sharurah tabalah tanomah tathlith turbah yadamah
+            sabt_bani_bishr sabya samakh sharurah tabalah tanomah tathlith turbah yadamah rub_al_khali_corridor1
+            shaybah al_jafurah1 rumah_jarrarah_corridor al_jafurah2 ad_dahna4 ad_dahna5 ad_dibdibah tanumah_mashdhubah_corridor ad_dahna3 ad_dahna2
+            ad_dahna1 syrian_desert_corridor11 syrian_desert9 syrian_desert10 an_nafud4 ash_shamli_tayma_corridor an_nafud3 bir_fajr_tayma_corridor bir_fajr_basithah_corridor an_nafud2
+            an_nafud1 syrian_desert8 rub_al_khali_corridor12 ar_rakbah2 ar_rakbah1 rub_al_khali_corridor10 rub_al_khali1 rub_al_khali_corridor9 rub_al_khali14 rub_al_khali15
+            syrian_desert11
          }
 
          #include = "muslim_monarchy"
@@ -5152,8 +5176,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5178,8 +5201,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5194,7 +5216,7 @@ countries = {
             glubocica gradac jagodina krupanj krusevac kucevo medveda nis prijepolje prokuplje
             ravno rudnik sabac sjenica smederevo stalac trgoviste_SER uzice valjevo vranje
             zica petrovaradin sremska_mitrovica bacs bodrog kikinda kovin modos pancevo titel
-            veliky_beckerek zenta
+            veliky_beckerek zenta balkan_mountains3 dinaric_alps8 balkan_mountains1
          }
 
          #include = "republic"
@@ -5204,8 +5226,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5226,8 +5247,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5249,7 +5269,8 @@ countries = {
             pattani prasong satingpura sichon singgora takua_pa thammarat tha_tong trang wiang_sa
             yala chiang_dao chiang_khong chiang_mai chiang_rai chiang_saen hot lampang lamphun mae_hong_son
             muang_jam muang_ngao muang_wang muang_yuam mueng_thoen nan omkoi phayao phrae pua
-            sariang thung_yang wiang_fang
+            sariang thung_yang wiang_fang phou_mountains_et khun_tan_range thongchai_range karen_jungle chanthaburi_jungle sankamphaeng_mountains phetchabun_mountains
+            dawna_range1 luang_prabang_range1 ko_samui dawna_range2 kra_jungle thalang sankalakhiri_et bilauktaung_range1
          }
 
          include = "south_east_asia_monarchy"
@@ -5259,8 +5280,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5281,8 +5301,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5302,7 +5321,7 @@ countries = {
             jinjam seosan yeongdong yeonsan andong bonghwa boseongbu dongnae gaeryeong geochang
             geoje gyeongju hadong hapcheon jinju miryang mungyeong namhae sacheon sangju
             seongju seonsan taegu uian uiseong ulju yeongcheon yeongdeok yeongil yeongju
-            yeongyang
+            yeongyang hekusando
          }
 
          #include = "republic"
@@ -5312,8 +5331,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5335,8 +5353,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5350,7 +5367,7 @@ countries = {
             banska_bystrica bardejov bratislava gemer hlohovec holic humenne kosice kremnica krupina
             levoca liptovsky_mikulas lubica nitra oravsky_podzamok podmuran povazska_bystrica presov prievidza rimavska_sobota
             roznava samorin stary_tekov trencin trnava turciansky_svaty_martin turna zemplin zilina zvolen
-            komarom
+            komarom western_carpathians1 western_carpathians2
          }
 
          #include = "republic"
@@ -5360,8 +5377,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5373,7 +5389,7 @@ countries = {
 
          own_control_core = {
             buzet bled gorizia ilirska_bistrica kocevje kranj ljubljana metlika novo_mesto postojna
-            skofja_loka tolmin olsnica celje lasko maribor ptuj slovenj_gradec
+            skofja_loka tolmin olsnica celje lasko maribor ptuj slovenj_gradec julian_alps
          }
 
          #include = "republic"
@@ -5383,8 +5399,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5405,8 +5420,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5421,8 +5435,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -5443,8 +5456,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5456,7 +5468,10 @@ countries = {
 
          own_control_core = {
             mu_ngava nendo nggela rendova vanikoro cheke_holo ghari isatabu kolombangara kwaio
-            kwaraae makira marovo mono roviana saa vaghua vangunu
+            kwaraae makira marovo mono roviana saa vaghua vangunu tauu_atoll luangiua_atoll
+            nukumanu_atoll makira_jungle ulawa indispensable_reefs bougainville_jungle isatabu_jungle roviana_lagoon lavukal nggatokae zabana_jungle
+            ranongga marovo_lagoon vaghena manning_atoll choiseul_jungle tehaolei_atoll anuta_atoll tikopia_atoll reef_atoll duff_islands
+            kergelen heard_island
          }
 
          #include = "catholic_monarchy"
@@ -5466,8 +5481,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5492,8 +5506,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5505,7 +5518,7 @@ countries = {
 
          own_control_core = {
             el_ayum erigavo maduna buhoodle las_khorey maydh ruguda burao oodweyne hargeisa
-            amud zeila el_sheikh berbera fardawsa siyara xagal el_darad
+            amud zeila el_sheikh berbera fardawsa siyara xagal el_darad somalian_mountains
          }
 
          #include = "republic"
@@ -5515,8 +5528,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5537,8 +5549,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5585,7 +5596,9 @@ countries = {
             puente_arzobispo puertollano requena san_clemente siguenza talavera_de_la_reina toledo tomelloso torralba ucles
             villapalacios villarobledo zorita alcoy alicante ares_del_maestre ayora bunol castellon_de_la_plana chelva
             denia elche gandia jativa lliria llucena morella orihuela peniscola valencia
-            puigcerda
+            puigcerda filambres_range subbetic_range nevada_range madrona_range segura_range iberian_system moncayo_range urbion_peaks demanda_range
+            east_cantabrian_mountains west_cantabrian_mountains picos_de_europa ancares_range leon_mountains cabrera_range francia_mountains eastern_central_system3 bejar_mountains eastern_central_system1
+            eastern_central_system2 western_central_system south_eastern_pyrenees central_pyrenees south_western_pyrenees3 south_western_pyrenees1 south_western_pyrenees2
          }
 
          #include = "republic"
@@ -5595,8 +5608,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5619,8 +5631,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5643,8 +5654,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5665,8 +5675,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5682,8 +5691,9 @@ countries = {
             shendi singa soba wad_madani ain_farah barah dilling ed_daein el_obeid kadugli
             kebkabiya kosa kujunung malha masa_sud mornei nuba_sud nyala shakka taweisha
             teqali towing uri wadi_el_melik wara waylula zankor abu_hamed al_jeblien badi
-            berber deraheib dongola ed_debba el_metemma faras karima kerma korti omdurman
-            sai selima shemkhiya suakin
+            berber deraheib dongola ed_debba el_metemma karima kerma korti omdurman sai
+            selima shemkhiya suakin sahara_passage_et14 sahel_corridor30 sahel_corridor29 east_nubian_desert horn_desert_corridor3 faras west_nubian_desert
+            sahel_corridor28 sahel_corridor27 connector_egypt13 western_desert_et1 sahara_passage_et13 sahel_corridor26 erg_selima
          }
 
          #include = "republic"
@@ -5693,8 +5703,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5705,7 +5714,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            ndyuka neekeari paramaribo pereru_tepu pokigron witagron
+            ndyuka neekeari paramaribo pereru_tepu pokigron witagron guayana_jungle
          }
 
          #include = "catholic_monarchy"
@@ -5715,8 +5724,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5737,8 +5745,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5764,7 +5771,8 @@ countries = {
             grythyttan hamrange heby hedemora hedesunda idre josse kolmarden leksand linde
             malung mora nas nora nordmark norrtalje nykoping ockelbo oppunda orebro
             orsa riseberga sala skinskatteberg soderbarke sodertalje stockholm stora_tuna strangnas tierp
-            tingvalla uppsala varnum vasteras hornborg konghalla stromstad uddevalla
+            tingvalla uppsala varnum vasteras hornborg konghalla stromstad uddevalla skanderna n_jamtland_wasteland
+            s_jamtland_wasteland
          }
 
          #include = "catholic_monarchy"
@@ -5774,8 +5782,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5790,7 +5797,8 @@ countries = {
             lucerne martigny monthey saanen schaffhausen sion thun wolhusen altdorf chur
             davos disentis frauenfeld glarus ilanz kyburg mesocco sarnen schwyz st_gallen
             tarasp toggenburg werdenberg zuoz zurich bienne delemont fribourg gruyere neuchatel
-            solothurn geneve lausanne montreux nyon yverdon_les_bains basel
+            solothurn geneve lausanne montreux nyon yverdon_les_bains basel rhaetian_alps4 lepontine_alps2 silvretta_alps
+            glarner_alps stein_glacier bernese_alps
          }
 
          #include = "republic"
@@ -5800,8 +5808,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5817,7 +5824,8 @@ countries = {
             kafartab khanaser latakia manbij marrat maskanah masyaf nabek nawa qastal
             qusayr qutayfah salamiyya tartus zardana abu_kemal bara_iraq barqaid hasakah rahba
             ras_ayn tunanir arak bosra burraq deir_ez_zor ithriya qaryatayn salkhad sukhnah
-            suwayda tabqah tadmur taybah
+            suwayda tabqah tadmur taybah syrian_desert_corridor1 al_jazair_desert syrian_desert12 syrian_desert_corridor7 syrian_desert4 syrian_desert3
+            mountain_druze
          }
 
          #include = "republic"
@@ -5827,8 +5835,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5841,7 +5848,7 @@ countries = {
          own_control_core = {
             amis arikun babuza basai ishbukun kavalan ketagalan kulun lloa makatao
             mayrinax paiwan pakuali papora rukai seediq siraya squliq takbanuao takitudu
-            taokas truku tsou new79
+            taokas truku tsou new79 yushan nanhudashan xueshan
          }
 
          #include = "republic"
@@ -5851,8 +5858,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5865,7 +5871,8 @@ countries = {
          own_control_core = {
             aiwanj farkhor gharm gunt hissar hulbuk karakol kulob muksu munk
             murghab oksu qalai_khumb qubodijon roshtqala sangvor shighnan shuman vakhs vamar
-            vanch wesgird asht ayni isfara khujand panjakent ura_tyube
+            vanch wesgird asht ayni isfara khujand panjakent ura_tyube pamir7 pamir8
+            hindu_kush5 pamir6 pamir5 hissar_mountains3 hissar_mountains4 hissar_mountains2
          }
 
          #include = "republic"
@@ -5875,8 +5882,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5894,7 +5900,7 @@ countries = {
             mbinga mbunga mitimiri north_ngindo pogoro sagara songo_mnara west_gogo west_hehe west_ngindo
             lindi matengo mikindani nindi north_meetto north_yao machame arusha bagamoyo burunge
             dakawa dar_es_salaam east_aasax idodomya misasa mkwaja mpwapwa pangani ras_mkumbuu sandawe
-            shambala tanga usambara usangi utondwe west_aasax zanzibar zigula
+            shambala tanga usambara usangi utondwe west_aasax zanzibar zigula mount_meru kipengere_range
          }
 
          #include = "republic"
@@ -5904,8 +5910,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5916,7 +5921,8 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            haapai tongatapu vauvau
+            haapai tongatapu vauvau eua haapai_atoll tongatapu_atoll niuafo_ou niuatoputapu_atoll zephyr_atoll futuna
+            cook_knolls niuoku_atoll rotuma_atoll rotuma bayonnaise_banks kosciusko_bank
          }
 
          #include = "polynesian_monarchy"
@@ -5926,8 +5932,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5948,8 +5953,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5970,8 +5974,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -5992,8 +5995,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6007,7 +6009,8 @@ countries = {
             barkdiz kusk merv pandjih darganata gazanjyk huday_dag kyzyl_su nyzvar orta_kuyu
             talaikhan_ata temir_baba urgench uzboy vezir akhsisek amol_turkmenabad daya_kathyn firabr kelif
             kerki khoja_idat_kala navidakh abiward anew dehistan durun faraveh ganlygala konjikala
-            sarlawuk tejend etrek
+            sarlawuk tejend etrek karakum_desert5 karakum_desert4 karakum_desert6 karakum_desert3 karakum_corridor1 karakum_desert1 karakum_desert2
+            small_balkhan big_balkhan
          }
 
          #include = "republic"
@@ -6017,8 +6020,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6033,7 +6035,7 @@ countries = {
             douz el_fahs el_jem el_kef el_ksour feriana gabes gafsa hammamet jama_TUN
             kairouan kasserine kebili kelibia kesra madas madjul mahdia mahres mateur
             medjez_el_bab monastir nabeul nefta sbiba sbikha sejnane sfaqes sidi_fredj souk_el_arba
-            sousse subaytila tabarka tebourba thala tozeur tunis zaghouan
+            sousse subaytila tabarka tebourba thala tozeur tunis zaghouan west_grand_erg_oriental2
          }
 
          #include = "republic"
@@ -6043,8 +6045,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6090,7 +6091,13 @@ countries = {
             ilic kagizman karakilise kars keban kelkit kemah kuzucan malazgirt mus
             palu pertek sebinkarahisar semdinli siran sivrice surmali tatvan tekman tercan
             tutak van varto ani igdir ardahan artanuji ispir oltu panaskerti
-            parkhali savsat tortum
+            parkhali savsat tortum east_pontus_mountains_1 kose_mountains_2 kose_mountains_1 west_pontus_mountains_2 west_pontus_mountains_1 koroglu_mountains_1 koroglu_mountains_2
+            ilgaz_mountains ak_mountains middle_taurus_8 middle_taurus_7 middle_taurus_6 middle_taurus_2 middle_taurus_5 middle_taurus_4 middle_taurus_3 nur_mountains_2
+            nur_mountains_1 hodul_mountains melendiz_mountains west_taurus_5 sultan_mountains_1 middle_taurus_1 sultan_mountains_3 west_taurus_2 sandikli_mountains west_taurus_3
+            erenler_mountains sultan_mountains_2 west_taurus_1 west_taurus_4 otlukbeli_mountains mercan_mountains_1 east_taurus_1 east_taurus_9 east_pontus_mountains_2 east_taurus_2
+            east_taurus_8 karacadag karagol_mountains east_taurus_3 karasu_aras_mountains mercan_mountains_2 suphan_mountains east_taurus_7 east_taurus_5 mescit_mountains
+            kars_mountains_1 kars_mountains_2 yalnizcam_mountains east_pontus_mountains_3 kars_mountains_3 east_taurus_4 aladag_mountains zagros_mountains_et2 zagros_mountains2 lesser_caucasus_mountains3
+            lesser_caucasus_mountains9
          }
 
          #include = "republic"
@@ -6100,8 +6107,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6112,7 +6118,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            funafuti_atoll nukufetau_atoll
+            funafuti_atoll nukufetau_atoll nui_atoll niutao nanumanga nanumea_atoll
          }
 
          #include = "catholic_monarchy"
@@ -6122,8 +6128,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6134,7 +6139,8 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            sir_bani_yas abu_dhabi al_ayn al_dhaid dubai julfar khor_fakkan marawah sharjah
+            sir_bani_yas abu_dhabi al_ayn al_dhaid dubai julfar khor_fakkan marawah sharjah rub_al_khali4
+            rub_al_khali3
          }
 
          own_control_conquered = {
@@ -6148,8 +6154,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6161,7 +6166,7 @@ countries = {
 
          own_control_core = {
             acholi bigo_bya_mugenyi buddu buganda busoga isinguro karamoja katwe kibengo kibiro
-            lango mubemde ndorwa north_buganda pawir pubungu rubaga rugombe teso
+            lango mubemde ndorwa north_buganda pawir pubungu rubaga rugombe teso west_eastern_rift_mountains
          }
 
          #include = "republic"
@@ -6171,8 +6176,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6209,7 +6213,7 @@ countries = {
             domakha huliaipole konski_vody kreminna kuchugur kyrylivka lysychansk melitopol oleksandrivka posad
             shyrokyne tokmak vasylivka velyka_novosilka bielska_sloboda bilovodsk novopskov aslan_horod enice ordu_bazar
             qalancaq rohat_kermen velyka_lepetykha aqmecit jurchi kaffa qarasuvbazar qirq_yer seyitler soldaia
-            solkhat theodoro vosporo kezlev or_qapi kalay lusta
+            solkhat theodoro vosporo kezlev or_qapi kalay lusta eastern_carpathians1 eastern_carpathians2
          }
 
          #include = "republic"
@@ -6219,8 +6223,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6235,8 +6238,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -6258,8 +6260,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6481,7 +6482,19 @@ countries = {
             usa52 usa50 usa51 usa53 usa57 usa481 usa484 usa483 usa495 usa494
             usa493 usa482 usa492 usa477 usa472 usa473 usa480 usa470 usa491 usa471
             usa479 usa488 usa486 usa485 usa487 usa476 usa489 usa475 usa469 usa468
-            usa478 usa474 usa465 usa490 usa464 usa462 usa466 usa463 usa467
+            usa478 usa474 usa465 usa490 usa464 usa462 usa466 usa463 usa467 cumberland_mountains_9
+            shenandoah_mountains cumberland_mountains_8 cumberland_mountains_7 cumberland_mountains_6 cumberland_mountains cumberland_mountains_3 shady_valley_wasteland blue_ridge_mountains_2 cumberland_mountains_5 cumberland_mountains_4
+            cumberland_mountains_2 tanasee_ridge great_smokies blue_ridge_mountains walden_ridge chattahoochee_forest nantahala_forest cohutta_mountains kuwohi ouachita_mts
+            ouachita_ok channel_islands nomlaki_range chumawi_range klamath_range south_cascade central_cascade north_cascade badlands_mt_2 sw_ktunaxa_ranges
+            rockies_mt selish_range_n nd_badlands selish_range_s badlands_sd_n badlands_mt great_belt_mountains little_belt_mountains bighorn_mountains dukundeka
+            agaidika_range bannock_range arapaho shoshonne laramie_range bear_river_e bear_river_w tosa_konoki dzil_ligai_mountains colorado
+            east_yuttahih grand_teton atsa_kudok_wa c_nuchiu_range nuchiu_range nuwuvi_wasteland yuttahih toyabe sierra_nevada_c grand_canyon
+            pagayuat nuwuvi_desert newe_wasteland atigun_pass chumash_ranges inyo_mountains sierra_nevada_s coast_mountains_et nabesna_forest_et gwichin_uplands_et
+            wrangell_mountains_et central_forest chandalar_forest chugach_mtns tanana_forest alaska yukon_flats alaska_range koyukon_forest dall_plains
+            togiagamiut_forest deg_xit_an_forest dena_ina_uplands yukkhana yukonikhotana gwazhal_mountains koyukuk_forest malemiut_plains kugirukuk kobuk
+            noatak utqiagvik gwazhal_hills kugmiut_uplands chichijima kita_iwo_jima hahajima iwo_jima uracas maug
+            agrihan alamagan pagan_island noos anatahan rota guahan_atoll nikumaroro_atoll manra_atoll orona_atoll
+            kanton_atoll mauna_loa nihoa mokumanamana kanemilohai_atoll
          }
 
          #include = "republic"
@@ -6491,8 +6504,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6508,7 +6520,8 @@ countries = {
             andijan bogiston bukhara chach chiroqchi dimishk fanakat fergana guzor ishtixon
             jizzakh karmana kasan kish_shahrisabz kokand koson marghinan muborak nasaf nuket
             nurota paikend paykend pishagar pop_fargana primkent quva rishton samarkand tambybulak
-            tim_samarkand uchquduq vardanzi yangirabod zarafshon zomin
+            tim_samarkand uchquduq vardanzi yangirabod zarafshon zomin ust_yurt_plateau3 ust_yurt_plateau4 kyzylkum_corridor5 kyzylkum_corridor6
+            kyzylkum_corridor2 kyzylkum_desert3 kyzylkum_corridor3 kyzylkum_desert4 kyzylkum_desert2 hissar_mountains1 tian_shan15
          }
 
          #include = "republic"
@@ -6518,8 +6531,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6541,8 +6553,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6557,8 +6568,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -6575,7 +6585,8 @@ countries = {
             yaracuy anaco araya aro cachamay caroni cumana cumanacoa cumanagoto guanipa
             kai_kara kalina karu_pana kumarakapay maturin orinucu paraguachoa parepona tucupita tumeremo
             turuepano uyapari arapuey cabimas capatarida chama_venezuela coro jauregui kukuta marakaaya
-            mukas paraguana perija tucanca yukpa
+            mukas paraguana perija tucanca yukpa amazon_jungle_et2 amazon_jungle_et6 orinoco_delta_jungle kalina_jungle monagua_jungle
+            lesser_antilles_wastelands merida_mountains catatumbo_jungle gayon_mountains tama_mountains_et
          }
 
          #include = "republic"
@@ -6585,8 +6596,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6607,6 +6617,7 @@ countries = {
             nga_lac nghe_ann nhat_nam quang_uyen quang_yen quan_da_chau quynh_lam quy_chau quy_hoa son_la
             tam_dai thai_binh thai_nguyen thang_long thanh_hoa that_nguyen thien_quan thien_truong tho_hoang thuan_chau
             thuy_vi thu_vat trang_an tuyen_hoa tuyen_quang van_ban van_don van_kiep vo_nhai vu_ninh
+            fan_si_mountains1 phou_den_din_mountains_et fan_si_mountains2 fan_si_mountains3 annamese_range2 annamese_range4 annamese_range_et chu_yang_sin_mountains annamese_range7 annamese_range5
          }
 
          #include = "republic"
@@ -6616,8 +6627,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6628,7 +6638,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            al_mahbes
+            al_mahbes al_kuwayra sahara_passage_et3 idjil erg_amatlich_et2 erg_amatlich
          }
 
          our_cores_conquered_by_others = {
@@ -6642,8 +6652,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6661,7 +6670,8 @@ countries = {
             harib hays hudaida huraydah hutayb ibb juban jurrah kawkaban khalfut
             khayrij lahj lawdar marib markha mawza mikhlaf_al_hubishiyah mudhaykirah musaymir nisab
             qishn qulensya radaa rakhyah rumah_yemen sayun shabwa shibam shuqra taizz
-            tarim yahr zabid zinjibar
+            tarim yahr zabid zinjibar abdalkuri_island kamaran_islands_wasteland haraz_mountains4 haraz_mountains3 haraz_mountains2 haraz_mountains1
+            rub_al_khali_corridor6 rub_al_khali_corridor5 rub_al_khali12 rub_al_khali2 rub_al_khali10 rub_al_khali_corridor8 rub_al_khali_corridor7 rub_al_khali13 rub_al_khali11
          }
 
          #include = "republic"
@@ -6671,8 +6681,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6702,8 +6711,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -6718,7 +6726,7 @@ countries = {
             nkankezi zinjanja charumani chibvumani chipagwe chipukuswi chomuruvuti great_zimbabwe mabveni majiri
             matendere muchuchu naletale pamuuyu zvipadze abutua angwa bumbuzi chedzurgwe chisvingo
             chitomborwizi dhlo_dhlo inyanga kasekete khami massapa matanda_aChiwawa matemba mtoko mtoli
-            muyove nembudziya nyarinde rimuka ruanga sebakwe tere tsindi zvongombe
+            muyove nembudziya nyarinde rimuka ruanga sebakwe tere tsindi zvongombe north_manica_highlands
          }
 
          #include = "republic"
@@ -6728,7 +6736,6 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }}
 }
