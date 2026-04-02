@@ -3975,7 +3975,7 @@ countries = {
             cocomacan copuz cuauhtitlan hnahnu huaxcama huayacocotla ixtachichimecapan jalpan kerhiretarhu metztitlan
             mixquiahuala mo_o_ti nat_tha_hi otomi oxtlipan ozuluama pame panuco pechichitane penlamu
             tamtoc tanchaycha tangamanga tetzapotitlan tollan tutotepec tziuhcoac uza xilotepec xiriquitzio
-            otatitlan colha maya_jungle nube_flan chimalapa_jungle guiigu_yudxi nudo_zempoaltepetl citlaltepetl_mountains tlacopan tepozan_mountains
+            otatitlan maya_jungle nube_flan chimalapa_jungle guiigu_yudxi nudo_zempoaltepetl citlaltepetl_mountains tlacopan tepozan_mountains
             ajusco_mountains popocatepetl_mountains toluca_mountains teotepec lobos_mountains viga_mountains fria_mountains guadalupe_island revillagigedo_islands colima_mountains
             magdalenas madre_mountains lacandon_jungle
          }
