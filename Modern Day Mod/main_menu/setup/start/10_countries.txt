@@ -1042,10 +1042,10 @@ countries = {
       }
 
 
-      CAT = {
-         country_rank = rank_county
-
-       }
+      #CAT = {
+      #   country_rank = rank_county
+      #
+      #}
 
 
       CHAD = {
@@ -3916,10 +3916,10 @@ countries = {
       }
 
 
-      MER = {
-         country_rank = rank_county
-
-       }
+      #MER = {
+      #   country_rank = rank_county
+      #
+      #}
 
 
       MEX = {
