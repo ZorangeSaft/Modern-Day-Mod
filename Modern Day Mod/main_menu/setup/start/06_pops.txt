@@ -195519,13 +195519,13 @@ locations = {
    }
    talaha = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 28.048
          type = tribesmen
@@ -195613,13 +195613,13 @@ locations = {
    }
    hulawen = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 24.169
          type = tribesmen
@@ -195627,13 +195627,13 @@ locations = {
    }
    shangjing = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 29.802
          type = tribesmen
@@ -195641,13 +195641,13 @@ locations = {
    }
    zhaozhou_jurchen = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 20.920
          type = tribesmen
@@ -195667,7 +195667,7 @@ locations = {
          type = peasants
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 110.728
          type = tribesmen
@@ -195693,7 +195693,7 @@ locations = {
          type = peasants
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 9.688
          type = tribesmen
@@ -195859,7 +195859,7 @@ locations = {
          type = peasants
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 18.180
          type = tribesmen
@@ -195885,7 +195885,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 10.295
          type = tribesmen
@@ -195905,7 +195905,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 1.797
          type = tribesmen
@@ -196069,7 +196069,7 @@ locations = {
          type = peasants
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 46.804
          type = tribesmen
@@ -196095,7 +196095,7 @@ locations = {
          type = peasants
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 7.770
          type = tribesmen
@@ -196957,7 +196957,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 2.450
          type = tribesmen
@@ -196977,7 +196977,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 1.564
          type = tribesmen
@@ -197003,7 +197003,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.227
          type = tribesmen
@@ -197023,7 +197023,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.262
          type = tribesmen
@@ -197083,7 +197083,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.315
          type = tribesmen
@@ -197103,7 +197103,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.333
          type = tribesmen
@@ -197179,7 +197179,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.351
          type = tribesmen
@@ -197187,13 +197187,13 @@ locations = {
    }
    urmi = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 1.496
          type = tribesmen
@@ -197331,7 +197331,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 1.164
          type = tribesmen
@@ -197433,7 +197433,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 2.391
          type = tribesmen
@@ -197481,13 +197481,13 @@ locations = {
    }
    dalaiketun = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 40.055
          type = tribesmen
@@ -197501,13 +197501,13 @@ locations = {
    }
    hailun = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 33.331
          type = tribesmen
@@ -197515,13 +197515,13 @@ locations = {
    }
    hulan = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 35.902
          type = tribesmen
@@ -197529,13 +197529,13 @@ locations = {
    }
    bayan_susu = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 16.993
          type = tribesmen
@@ -197543,13 +197543,13 @@ locations = {
    }
    futi = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 13.821
          type = tribesmen
@@ -197569,7 +197569,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 5.813
          type = tribesmen
@@ -197615,7 +197615,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 1.666
          type = tribesmen
@@ -197789,7 +197789,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 11.693
          type = tribesmen
@@ -197809,7 +197809,7 @@ locations = {
          type = peasants
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 10.687
          type = tribesmen
@@ -197909,7 +197909,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 4.496
          type = tribesmen
@@ -197917,13 +197917,13 @@ locations = {
    }
    bira = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 1.480
          type = tribesmen
@@ -198087,13 +198087,13 @@ locations = {
    }
    nemeri = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 22.273
          type = tribesmen
@@ -198135,13 +198135,13 @@ locations = {
    }
    hvlan = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 22.675
          type = tribesmen
@@ -198479,13 +198479,13 @@ locations = {
    }
    tyrma = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 2.487
          type = tribesmen
@@ -198499,13 +198499,13 @@ locations = {
    }
    arkhara = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 1.997
          type = tribesmen
@@ -198531,7 +198531,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.268
          type = tribesmen
@@ -198557,7 +198557,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.279
          type = tribesmen
@@ -198579,13 +198579,13 @@ locations = {
    }
    bidzhan = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 2.352
          type = tribesmen
@@ -198775,13 +198775,13 @@ locations = {
    }
    kur = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 3.972
          type = tribesmen
@@ -198789,13 +198789,13 @@ locations = {
    }
    kukan = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 1.785
          type = tribesmen
@@ -198803,13 +198803,13 @@ locations = {
    }
    sutara = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 1.582
          type = tribesmen
@@ -198871,13 +198871,13 @@ locations = {
    }
    simmi = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 2.066
          type = tribesmen
@@ -198897,7 +198897,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 1.758
          type = tribesmen
@@ -198943,7 +198943,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.343
          type = tribesmen
@@ -198963,7 +198963,7 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.449
          type = tribesmen
@@ -199099,7 +199099,7 @@ locations = {
          type = peasants
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 3.340
          type = tribesmen
@@ -199127,13 +199127,13 @@ locations = {
    }
    chalin = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 12.128
          type = tribesmen
@@ -199141,13 +199141,13 @@ locations = {
    }
    tulguur = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 22.111
          type = tribesmen
@@ -199155,13 +199155,13 @@ locations = {
    }
    jiajin = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 5.461
          type = tribesmen
@@ -199175,13 +199175,13 @@ locations = {
    }
    wanhufu = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 6.651
          type = tribesmen
@@ -199189,13 +199189,13 @@ locations = {
    }
    taowen = {
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = nanai_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 4.306
          type = tribesmen
@@ -199283,13 +199283,13 @@ locations = {
    }
    ougen = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 24.065
          type = tribesmen
@@ -199297,13 +199297,13 @@ locations = {
    }
    zhalong = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 30.939
          type = tribesmen
@@ -199311,13 +199311,13 @@ locations = {
    }
    sart = {
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 0.004
          type = clergy
       }
       define_pop = {
-         culture = solon_culture
+         culture = swedish
          religion = tungusic_shamanism
          size = 25.779
          type = tribesmen
@@ -247021,16 +247021,19 @@ locations = {
    }
    tatahuitalpan = {
       define_pop = {
+         culture = swedish
          religion = catholic
          size = 0.018
          type = clergy
       }
       define_pop = {
+         culture = swedish
          religion = catholic
          size = 48.259
          type = peasants
       }
       define_pop = {
+         culture = swedish
          religion = catholic
          size = 65.434
          type = tribesmen
@@ -248400,21 +248403,25 @@ locations = {
    }
    itzamkanac = {
       define_pop = {
+         culture = swedish
          religion = catholic
          size = 0.015
          type = nobles
       }
       define_pop = {
+         culture = swedish
          religion = catholic
          size = 0.033
          type = clergy
       }
       define_pop = {
+         culture = swedish
          religion = catholic
          size = 10.018
          type = peasants
       }
       define_pop = {
+         culture = swedish
          religion = catholic
          size = 18.239
          type = tribesmen
@@ -248562,16 +248569,19 @@ locations = {
    }
    namaan = {
       define_pop = {
+         culture = swedish
          religion = catholic
          size = 0.020
          type = clergy
       }
       define_pop = {
+         culture = swedish
          religion = catholic
          size = 3.300
          type = peasants
       }
       define_pop = {
+         culture = swedish
          religion = catholic
          size = 6.826
          type = tribesmen

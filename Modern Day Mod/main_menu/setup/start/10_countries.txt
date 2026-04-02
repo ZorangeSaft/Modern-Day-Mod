@@ -996,7 +996,7 @@ countries = {
             rupert_plateau wawa_uplands english_river_uplands ogoki_uplands chochocouane_hills eastmain_hills matagami_depression ishpatina_ridge abitibi_uplands penokean_hills
             nemegosenda_uplands sanikiluaq quebec_torngats torngat_mountains ungava_peninsula larch_plateau labrador_hills peribonka_hills matapedia_highlands whale_lowlands
             george_river_plateau caniapiscau_plateau great_whale_plateau la_grande_hills labrador_highlands opiscoteo_hills otish_mountains manicouagan_depression manouanis_massif manicouagan_plateau
-            northern_notre_dame_mountains laurentian_massif valin_mountains mealy_mountains mecatina_plateau hamilton_highlands chic_choc_mountains sainte_marguerite_plateau magpie_massif miquelon
+            northern_notre_dame_mountains laurentian_massif valin_mountains mealy_mountains mecatina_plateau hamilton_highlands chic_choc_mountains sainte_marguerite_plateau magpie_massif
             annieopsquotch_mountains newfoundland_highlands long_range_mountains mecatina_hills canaan_bog james_bay_lowlands otadaonanis winisk_uplands wabigoon_uplands porcupine_hills
             attawapiskat_lowlands hudson_bay_lowlands southampton_island baffin_island severn_uplands arctic_archipelago lac_seul_upland hayes_river_upland silsby_lake_upland indian_lake_upland
             nejanilini_uplands nunavut_uplands churchill_river_upland wekusko_upland reindeer_lake_upland seal_river_upland kazan_uplands tlicho_uplands turili_uplands mid_boreal_upland
@@ -1830,10 +1830,6 @@ countries = {
             napo_jungle quijos napo nambue_jungle
          }
 
-         own_control_conquered = {
-            kichwa kofan napo puyu quijos siona
-         }
-
          #include = "republic"
          include = "expl_mdm_whole_world"
 
@@ -1842,7 +1838,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-          }
+         }
       }
 
 
@@ -2009,10 +2005,6 @@ countries = {
             dakkar degehabur dire_dawa dolo geledi gode harar harro_walabu jeldesa kelafo
             liban limey mormor seru sheikh_hussein tulu_nama_dun tulu_walal awrtable northern_ethiopian_mountains horn_deserts
             bale ethiopian_mountains north_east_ethiopian_mountains goba central_east_ethiopian_mountains south_east_ethiopian_mountains central_west_ethiopian_mountains south_west_ethiopian_mountains
-         }
-
-         own_control_conquered = {
-            bale goba hargaya
          }
 
          #include = "republic"
@@ -4278,10 +4270,6 @@ countries = {
             middelburg nijmegen rotterdam the_hague tiel utrecht zutphen
          }
 
-         own_control_conquered = {
-            walichi
-         }
-
          include = "expl_mdm_whole_world"
 
          government = {
@@ -6344,10 +6332,6 @@ countries = {
             rub_al_khali3
          }
 
-         own_control_conquered = {
-            liwa
-         }
-
          #include = "republic"
          include = "expl_mdm_whole_world"
 
@@ -6728,7 +6712,7 @@ countries = {
             jizzakh karmana kasan kish_shahrisabz kokand koson marghinan muborak nasaf nuket
             nurota paikend paykend pishagar pop_fargana primkent quva rishton samarkand tambybulak
             tim_samarkand uchquduq vardanzi yangirabod zarafshon zomin ust_yurt_plateau3 ust_yurt_plateau4 kyzylkum_corridor5 kyzylkum_corridor6
-            kyzylkum_corridor2 kyzylkum_desert3 kyzylkum_corridor3 kyzylkum_desert4 kyzylkum_desert2 hissar_mountains1 tian_shan15
+            kyzylkum_desert3 tian_shan15
          }
 
          #include = "republic"

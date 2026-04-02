@@ -77,7 +77,7 @@ market_manager = {
 	add_market = youloumain #st Vincent and the grenadines
 	add_market = kamahuya #grenada
 	add_market = ichirouganaim #barbados
-	add_market = cairiana #trinidad and tobago
+	#add_market = cairiana #trinidad and tobago #fixing bug
 	add_market = curacaute #curaçao/curacao, part of the dutch caribbean
 
 
@@ -337,7 +337,7 @@ market_manager = {
 	add_market = brussels
 	add_market = minsk
 	add_market = abomey
-	add_market = thimbu
+	#add_market = thimbu fixing bug
 	add_market = ntsweng
 	add_market = barsalogho
 	add_market = sredets
