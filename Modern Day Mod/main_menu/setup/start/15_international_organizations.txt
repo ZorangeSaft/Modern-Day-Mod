@@ -1,5 +1,19 @@
 international_organization_manager = {
 
+	#nato
+	add_international_organization = {
+		type = mdm_nato
+		creation_date = 1949.4.4
+		members = { BEL CAN CZEC DAN FRA GER GRE HUN ICE ITA LUX NED NOR POL POR SPA TURK GBR USA }
+		areas = {
+
+		}
+
+		laws = {
+
+		}
+	}
+
 	#eu european union
 	add_international_organization = {
 		type = mdm_european_union
@@ -13,4 +27,127 @@ international_organization_manager = {
 
 		}
 	}
+
+	#un united nations
+	#add_international_organization = {
+		#type = mdm_united_nations
+		#creation_date = 1945.10.24
+		#members = { 
+		#	#AFGH ALB ALG ANBR ANGO ANR ARGE ARM AUST AZER BAHA BAHR BANG BARB BEI BEL BELA BELI BEN BHUT BOLI BOSH BOTS BRAZ BUFA BUL BUU CAFR CAME CAN CHAD CHI CHIL COLO COMO CONG COST CPVR CRO CUBA CYP CZEC DAN DGL DJIB DOMI DOMR DRCO ECUA EGY ELSA EQGU ERIT ESTO ESWA ETH FIJI FIN FRA GABO GAMB GBIS GBR GEO GER GHAN GRE GREN GUAT GUIN GUYA HAB HAIT HOND HUN ICE INDI INDN IRAN IRAQ IRE ISRA ITA IVOR JAMA JAP JORD KAZK KENY KHM KIRI KUWA KYRG LAOS LATV LEBA LESO LIBE LIBY LIEC LIT LUX MACE MADA MAL MALA MALT MALW MARS MART MAUR MER MEX MGE MICR MOLD MONAC MOR MOZA MYAN NAMI NED NICR NIGE NIGR NKOR NOR NPL NZEA OMA PAKI PALU PANA PAPU PARA PERU PHIL POL POR QATA RMN RUS RWA SAFR SAM SANM SAUD SENE SEYC SIA SKNE SKOR SLEO SLOK SLOV SLUC SNG SOLO SOMA SPA SRLA STPR SUDA SURI SVGR SWE SYRI TAJI TANZ TOG TOGO TRTO TUKM TUN TURK UAEM UGAN UKR URUG USA UZBE VANU VENE VIET YEM ZAMB ZMW 
+		#}
+	#}
+
+	#opec
+	add_international_organization = {
+		type = mdm_opec
+		creation_date = 1960.9.14
+		members = { ALG INDN IRAN IRAQ KUWA LIBY NIGE QATA SAUD UAEM VENE }
+		areas = {
+
+		}
+
+		laws = {
+
+		}
+	}
+
+	#asean
+	add_international_organization = {
+		type = mdm_asean
+		creation_date = 1967.8.8
+		members = { BUU KHM INDN LAOS MALA MYAN PHIL SNG SIA VIET }
+		areas = {
+
+		}
+
+		laws = {
+
+		}
+	}
+
+	#african union, starts out as organisation of african unity
+	add_international_organization = {
+		type = mdm_african_union
+		creation_date = 1963.5.25 #2002.7.9 #starts out as Organisation of African Unity, needs even later where that gets dissolved (renamed) to african union
+		members = { ALG ANGO BEN BOTS BUFA BUU CAFR CAME CPVR CHAD COMO CONG DRCO DJIB EGY EQGU ERIT ETH ESWA GABO GAMB GBIS GHAN GUIN IVOR KENY LESO LIBE LIBY MADA MAL MALW MART MAUR MOZA NAMI NIGE NIGR RWA SAFR SENE SEYC SLEO SOMA STPR SUDA TANZ TOGO TUN UGAN WSAH ZAMB ZMW }
+		areas = {
+
+		}
+
+		laws = {
+
+		}
+	}
+
+	#mercosur
+	add_international_organization = {
+		type = mdm_mercusor
+		creation_date = 1991.3.26
+		members = { ARGE BRAZ PARA URUG }
+		areas = {
+
+		}
+
+		laws = {
+
+		}
+	}
+
+	#arab league
+	add_international_organization = {
+		type = mdm_arab_league
+		creation_date = 1945.3.22
+		members = { ALG BAHR COMO DJIB EGY IRAQ JORD KUWA LEBA LIBY MAUR MOR OMA PALE QATA SAUD SOMA SUDA SYRI TUN UAEM YEM }
+		areas = {
+
+		}
+
+		laws = {
+
+		}
+	}
+
+	#caricom
+	add_international_organization = {
+		type = mdm_caricom
+		creation_date = 1973.8.1
+		members = { ANBR BAHA BARB BELI DOMI GREN GUYA JAMA SKNE SLUC SVGR SURI TRTO }
+		areas = {
+
+		}
+
+		laws = {
+
+		}
+	}
+
+	#ecowas
+	add_international_organization = {
+		type = mdm_ecowas
+		creation_date = 1975.5.28
+		members = { BEN BUFA CPVR GAMB GHAN GBIS GUIN IVOR LIBE MALA MAUR NIGE NIGR SENE SLEO TOGO }
+		areas = {
+
+		}
+
+		laws = {
+
+		}
+	}
+
+	#andean community
+	add_international_organization = {
+		type = mdm_andean_community
+		creation_date = 1969.5.26
+		members = { BOLI COLO ECUA PERU VENE }
+		areas = {
+
+		}
+
+		laws = {
+
+		}
+	}
+
+
 }
