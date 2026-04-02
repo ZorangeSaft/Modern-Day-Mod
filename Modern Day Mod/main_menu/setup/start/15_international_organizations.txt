@@ -1,3 +1,16 @@
 international_organization_manager = {
 
+	#eu european union
+	add_international_organization = {
+		type = mdm_european_union
+		creation_date = 1993.11.1
+		members = { HAB BEL DAN FIN FRA GER GRE IRE ITA LUX NED POR SPA SWE GBR }
+		areas = {
+
+		}
+
+		laws = {
+
+		}
+	}
 }
