@@ -5,15 +5,526 @@
 
  mapmode_mdm_aluminium_ore_deposit_name: "Aluminium Ore Deposits"
  MAPMODE_MDM_ALUMINIUM_ORE_DEPOSIT: "#T $mapmode_mdm_aluminium_ore_deposit_name$#!\nThis colors [locations|e] by the size of aluminium ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_aluminium_ore_deposit_size|e] variable, which represents the amount of aluminium ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize aluminium ore extraction and economic efficiency."
- MDM_ALUMINIUM_ORE_DEPOSIT_SIZE_TOOLTIP_KEY_HAS_DEPOSIT: "[ROOT.GetLocation.GetName] has an [ShowGoodsName('aluminium_ore')] deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_aluminium_ore_deposit_size').GetValue|Y]."
- MDM_ALUMINIUM_ORE_DEPOSIT_SIZE_TOOLTIP_KEY_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an [ShowGoodsName('aluminium_ore')] ore deposit."
- MDM_ALUMINIUM_ORE_DEPOSIT_SIZE_TOOLTIP_KEY_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have [ShowGoodsName('aluminium_ore')] deposits."
+ MAPMODE_MDM_ALUMINIUM_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an aluminium ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_aluminium_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_ALUMINIUM_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an aluminium ore deposit."
+ MAPMODE_MDM_ALUMINIUM_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have aluminium ore deposits."
 
- mdm_aluminium_ore_deposit_pink_legend_key: "100,000+ deposit"
- mdm_aluminium_ore_deposit_dark_blue_legend_key: "10,000 deposit"
- mdm_aluminium_ore_deposit_light_blue_legend_key: "1,000 deposit"
- mdm_aluminium_ore_deposit_green_legend_key: "100 deposit"
- mdm_aluminium_ore_deposit_yellow_legend_key: "10 deposit"
- mdm_aluminium_ore_deposit_red_legend_key: "1 deposit"
- mdm_aluminium_ore_deposit_dark_red_legend_key: "0 deposit"
- mdm_aluminium_ore_deposit_black_legend_key: "No deposit data"
+ mdm_aluminium_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_aluminium_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_aluminium_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_aluminium_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_aluminium_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_aluminium_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_aluminium_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_aluminium_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #beryllium ore deposit mapmode
+
+ mapmode_mdm_beryllium_ore_deposit_name: "Beryllium Ore Deposits"
+ MAPMODE_MDM_BERYLLIUM_ORE_DEPOSIT: "#T $mapmode_mdm_beryllium_ore_deposit_name$#!\nThis colors [locations|e] by the size of beryllium ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_beryllium_ore_deposit_size|e] variable, which represents the amount of beryllium ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize beryllium ore extraction and economic efficiency."
+ MAPMODE_MDM_BERYLLIUM_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an beryllium ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_beryllium_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_BERYLLIUM_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an beryllium ore deposit."
+ MAPMODE_MDM_BERYLLIUM_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have beryllium ore deposits."
+
+ mdm_beryllium_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_beryllium_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_beryllium_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_beryllium_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_beryllium_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_beryllium_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_beryllium_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_beryllium_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #copper ore deposit mapmode
+
+ mapmode_mdm_copper_ore_deposit_name: "Copper Ore Deposits"
+ MAPMODE_MDM_COPPER_ORE_DEPOSIT: "#T $mapmode_mdm_copper_ore_deposit_name$#!\nThis colors [locations|e] by the size of copper ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_copper_ore_deposit_size|e] variable, which represents the amount of copper ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize copper ore extraction and economic efficiency."
+ MAPMODE_MDM_COPPER_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an copper ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_copper_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_COPPER_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an copper ore deposit."
+ MAPMODE_MDM_COPPER_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have copper ore deposits."
+
+ mdm_copper_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_copper_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_copper_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_copper_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_copper_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_copper_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_copper_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_copper_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #gold ore deposit mapmode
+
+ mapmode_mdm_gold_ore_deposit_name: "Gold Ore Deposits"
+ MAPMODE_MDM_GOLD_ORE_DEPOSIT: "#T $mapmode_mdm_gold_ore_deposit_name$#!\nThis colors [locations|e] by the size of gold ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_gold_ore_deposit_size|e] variable, which represents the amount of gold ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize gold ore extraction and economic efficiency."
+ MAPMODE_MDM_GOLD_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an gold ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_gold_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_GOLD_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an gold ore deposit."
+ MAPMODE_MDM_GOLD_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have gold ore deposits."
+
+ mdm_gold_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_gold_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_gold_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_gold_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_gold_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_gold_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_gold_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_gold_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #iron ore deposit mapmode
+
+ mapmode_mdm_iron_ore_deposit_name: "Iron Ore Deposits"
+ MAPMODE_MDM_IRON_ORE_DEPOSIT: "#T $mapmode_mdm_iron_ore_deposit_name$#!\nThis colors [locations|e] by the size of iron ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_iron_ore_deposit_size|e] variable, which represents the amount of iron ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize iron ore extraction and economic efficiency."
+ MAPMODE_MDM_IRON_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an iron ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_iron_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_IRON_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an iron ore deposit."
+ MAPMODE_MDM_IRON_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have iron ore deposits."
+
+ mdm_iron_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_iron_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_iron_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_iron_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_iron_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_iron_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_iron_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_iron_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #lead ore deposit mapmode
+
+ mapmode_mdm_lead_ore_deposit_name: "Lead Ore Deposits"
+ MAPMODE_MDM_LEAD_ORE_DEPOSIT: "#T $mapmode_mdm_lead_ore_deposit_name$#!\nThis colors [locations|e] by the size of lead ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_lead_ore_deposit_size|e] variable, which represents the amount of lead ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize lead ore extraction and economic efficiency."
+ MAPMODE_MDM_LEAD_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an lead ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_lead_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_LEAD_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an lead ore deposit."
+ MAPMODE_MDM_LEAD_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have lead ore deposits."
+
+ mdm_lead_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_lead_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_lead_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_lead_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_lead_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_lead_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_lead_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_lead_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #lithium_brine ore deposit mapmode
+
+ mapmode_mdm_lithium_brine_ore_deposit_name: "Lithium Brine Ore Deposits"
+ MAPMODE_MDM_LITHIUM_BRINE_ORE_DEPOSIT: "#T $mapmode_mdm_lithium_brine_ore_deposit_name$#!\nThis colors [locations|e] by the size of lithium_brine ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_lithium_brine_ore_deposit_size|e] variable, which represents the amount of lithium_brine ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize lithium_brine ore extraction and economic efficiency."
+ MAPMODE_MDM_LITHIUM_BRINE_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an lithium_brine ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_lithium_brine_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_LITHIUM_BRINE_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an lithium_brine ore deposit."
+ MAPMODE_MDM_LITHIUM_BRINE_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have lithium_brine ore deposits."
+
+ mdm_lithium_brine_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_lithium_brine_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_lithium_brine_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_lithium_brine_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_lithium_brine_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_lithium_brine_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_lithium_brine_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_lithium_brine_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #lithium ore deposit mapmode
+
+ mapmode_mdm_lithium_ore_deposit_name: "Lithium Ore Deposits"
+ MAPMODE_MDM_LITHIUM_ORE_DEPOSIT: "#T $mapmode_mdm_lithium_ore_deposit_name$#!\nThis colors [locations|e] by the size of lithium ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_lithium_ore_deposit_size|e] variable, which represents the amount of lithium ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize lithium ore extraction and economic efficiency."
+ MAPMODE_MDM_LITHIUM_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an lithium ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_lithium_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_LITHIUM_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an lithium ore deposit."
+ MAPMODE_MDM_LITHIUM_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have lithium ore deposits."
+
+ mdm_lithium_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_lithium_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_lithium_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_lithium_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_lithium_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_lithium_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_lithium_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_lithium_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #magnesium ore deposit mapmode
+
+ mapmode_mdm_magnesium_ore_deposit_name: "Magnesium Ore Deposits"
+ MAPMODE_MDM_MAGNESIUM_ORE_DEPOSIT: "#T $mapmode_mdm_magnesium_ore_deposit_name$#!\nThis colors [locations|e] by the size of magnesium ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_magnesium_ore_deposit_size|e] variable, which represents the amount of magnesium ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize magnesium ore extraction and economic efficiency."
+ MAPMODE_MDM_MAGNESIUM_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an magnesium ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_magnesium_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_MAGNESIUM_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an magnesium ore deposit."
+ MAPMODE_MDM_MAGNESIUM_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have magnesium ore deposits."
+
+ mdm_magnesium_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_magnesium_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_magnesium_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_magnesium_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_magnesium_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_magnesium_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_magnesium_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_magnesium_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #manganese ore deposit mapmode
+
+ mapmode_mdm_manganese_ore_deposit_name: "Manganese Ore Deposits"
+ MAPMODE_MDM_MANGANESE_ORE_DEPOSIT: "#T $mapmode_mdm_manganese_ore_deposit_name$#!\nThis colors [locations|e] by the size of manganese ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_manganese_ore_deposit_size|e] variable, which represents the amount of manganese ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize manganese ore extraction and economic efficiency."
+ MAPMODE_MDM_MANGANESE_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an manganese ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_manganese_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_MANGANESE_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an manganese ore deposit."
+ MAPMODE_MDM_MANGANESE_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have manganese ore deposits."
+
+ mdm_manganese_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_manganese_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_manganese_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_manganese_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_manganese_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_manganese_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_manganese_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_manganese_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #molybdenum ore deposit mapmode
+
+ mapmode_mdm_molybdenum_ore_deposit_name: "Molybdenum Ore Deposits"
+ MAPMODE_MDM_MOLYBDENUM_ORE_DEPOSIT: "#T $mapmode_mdm_molybdenum_ore_deposit_name$#!\nThis colors [locations|e] by the size of molybdenum ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_molybdenum_ore_deposit_size|e] variable, which represents the amount of molybdenum ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize molybdenum ore extraction and economic efficiency."
+ MAPMODE_MDM_MOLYBDENUM_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an molybdenum ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_molybdenum_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_MOLYBDENUM_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an molybdenum ore deposit."
+ MAPMODE_MDM_MOLYBDENUM_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have molybdenum ore deposits."
+
+ mdm_molybdenum_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_molybdenum_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_molybdenum_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_molybdenum_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_molybdenum_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_molybdenum_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_molybdenum_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_molybdenum_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #nickel ore deposit mapmode
+
+ mapmode_mdm_nickel_ore_deposit_name: "Nickel Ore Deposits"
+ MAPMODE_MDM_NICKEL_ORE_DEPOSIT: "#T $mapmode_mdm_nickel_ore_deposit_name$#!\nThis colors [locations|e] by the size of nickel ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_nickel_ore_deposit_size|e] variable, which represents the amount of nickel ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize nickel ore extraction and economic efficiency."
+ MAPMODE_MDM_NICKEL_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an nickel ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_nickel_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_NICKEL_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an nickel ore deposit."
+ MAPMODE_MDM_NICKEL_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have nickel ore deposits."
+
+ mdm_nickel_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_nickel_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_nickel_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_nickel_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_nickel_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_nickel_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_nickel_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_nickel_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #niobium ore deposit mapmode
+
+ mapmode_mdm_niobium_ore_deposit_name: "Niobium Ore Deposits"
+ MAPMODE_MDM_NIOBIUM_ORE_DEPOSIT: "#T $mapmode_mdm_niobium_ore_deposit_name$#!\nThis colors [locations|e] by the size of niobium ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_niobium_ore_deposit_size|e] variable, which represents the amount of niobium ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize niobium ore extraction and economic efficiency."
+ MAPMODE_MDM_NIOBIUM_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an niobium ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_niobium_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_NIOBIUM_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an niobium ore deposit."
+ MAPMODE_MDM_NIOBIUM_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have niobium ore deposits."
+
+ mdm_niobium_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_niobium_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_niobium_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_niobium_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_niobium_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_niobium_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_niobium_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_niobium_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #platinum_group ore deposit mapmode
+
+ mapmode_mdm_platinum_group_ore_deposit_name: "Platinum Group Ore Deposits"
+ MAPMODE_MDM_PLATINUM_GROUP_ORE_DEPOSIT: "#T $mapmode_mdm_platinum_group_ore_deposit_name$#!\nThis colors [locations|e] by the size of platinum_group ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_platinum_group_ore_deposit_size|e] variable, which represents the amount of platinum_group ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize platinum_group ore extraction and economic efficiency."
+ MAPMODE_MDM_PLATINUM_GROUP_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an platinum_group ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_platinum_group_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_PLATINUM_GROUP_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an platinum_group ore deposit."
+ MAPMODE_MDM_PLATINUM_GROUP_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have platinum_group ore deposits."
+
+ mdm_platinum_group_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_platinum_group_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_platinum_group_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_platinum_group_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_platinum_group_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_platinum_group_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_platinum_group_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_platinum_group_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #rare_earth ore deposit mapmode
+
+ mapmode_mdm_rare_earth_ore_deposit_name: "Rare Earth Ore Deposits"
+ MAPMODE_MDM_RARE_EARTH_ORE_DEPOSIT: "#T $mapmode_mdm_rare_earth_ore_deposit_name$#!\nThis colors [locations|e] by the size of rare_earth ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_rare_earth_ore_deposit_size|e] variable, which represents the amount of rare_earth ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize rare_earth ore extraction and economic efficiency."
+ MAPMODE_MDM_RARE_EARTH_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an rare_earth ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_rare_earth_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_RARE_EARTH_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an rare_earth ore deposit."
+ MAPMODE_MDM_RARE_EARTH_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have rare_earth ore deposits."
+
+ mdm_rare_earth_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_rare_earth_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_rare_earth_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_rare_earth_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_rare_earth_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_rare_earth_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_rare_earth_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_rare_earth_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #silver ore deposit mapmode
+
+ mapmode_mdm_silver_ore_deposit_name: "Silver Ore Deposits"
+ MAPMODE_MDM_SILVER_ORE_DEPOSIT: "#T $mapmode_mdm_silver_ore_deposit_name$#!\nThis colors [locations|e] by the size of silver ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_silver_ore_deposit_size|e] variable, which represents the amount of silver ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize silver ore extraction and economic efficiency."
+ MAPMODE_MDM_SILVER_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an silver ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_silver_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_SILVER_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an silver ore deposit."
+ MAPMODE_MDM_SILVER_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have silver ore deposits."
+
+ mdm_silver_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_silver_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_silver_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_silver_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_silver_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_silver_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_silver_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_silver_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #strontium ore deposit mapmode
+
+ mapmode_mdm_strontium_ore_deposit_name: "Strontium Ore Deposits"
+ MAPMODE_MDM_STRONTIUM_ORE_DEPOSIT: "#T $mapmode_mdm_strontium_ore_deposit_name$#!\nThis colors [locations|e] by the size of strontium ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_strontium_ore_deposit_size|e] variable, which represents the amount of strontium ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize strontium ore extraction and economic efficiency."
+ MAPMODE_MDM_STRONTIUM_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an strontium ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_strontium_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_STRONTIUM_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an strontium ore deposit."
+ MAPMODE_MDM_STRONTIUM_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have strontium ore deposits."
+
+ mdm_strontium_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_strontium_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_strontium_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_strontium_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_strontium_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_strontium_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_strontium_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_strontium_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #tantalum ore deposit mapmode
+
+ mapmode_mdm_tantalum_ore_deposit_name: "Tantalum Ore Deposits"
+ MAPMODE_MDM_TANTALUM_ORE_DEPOSIT: "#T $mapmode_mdm_tantalum_ore_deposit_name$#!\nThis colors [locations|e] by the size of tantalum ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_tantalum_ore_deposit_size|e] variable, which represents the amount of tantalum ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize tantalum ore extraction and economic efficiency."
+ MAPMODE_MDM_TANTALUM_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an tantalum ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_tantalum_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_TANTALUM_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an tantalum ore deposit."
+ MAPMODE_MDM_TANTALUM_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have tantalum ore deposits."
+
+ mdm_tantalum_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_tantalum_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_tantalum_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_tantalum_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_tantalum_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_tantalum_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_tantalum_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_tantalum_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #tin ore deposit mapmode
+
+ mapmode_mdm_tin_ore_deposit_name: "Tin Ore Deposits"
+ MAPMODE_MDM_TIN_ORE_DEPOSIT: "#T $mapmode_mdm_tin_ore_deposit_name$#!\nThis colors [locations|e] by the size of tin ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_tin_ore_deposit_size|e] variable, which represents the amount of tin ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize tin ore extraction and economic efficiency."
+ MAPMODE_MDM_TIN_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an tin ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_tin_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_TIN_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an tin ore deposit."
+ MAPMODE_MDM_TIN_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have tin ore deposits."
+
+ mdm_tin_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_tin_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_tin_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_tin_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_tin_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_tin_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_tin_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_tin_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #titanium ore deposit mapmode
+
+ mapmode_mdm_titanium_ore_deposit_name: "Titanium Ore Deposits"
+ MAPMODE_MDM_TITANIUM_ORE_DEPOSIT: "#T $mapmode_mdm_titanium_ore_deposit_name$#!\nThis colors [locations|e] by the size of titanium ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_titanium_ore_deposit_size|e] variable, which represents the amount of titanium ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize titanium ore extraction and economic efficiency."
+ MAPMODE_MDM_TITANIUM_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an titanium ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_titanium_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_TITANIUM_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an titanium ore deposit."
+ MAPMODE_MDM_TITANIUM_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have titanium ore deposits."
+
+ mdm_titanium_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_titanium_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_titanium_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_titanium_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_titanium_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_titanium_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_titanium_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_titanium_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #tungsten ore deposit mapmode
+
+ mapmode_mdm_tungsten_ore_deposit_name: "Tungsten Ore Deposits"
+ MAPMODE_MDM_TUNGSTEN_ORE_DEPOSIT: "#T $mapmode_mdm_tungsten_ore_deposit_name$#!\nThis colors [locations|e] by the size of tungsten ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_tungsten_ore_deposit_size|e] variable, which represents the amount of tungsten ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize tungsten ore extraction and economic efficiency."
+ MAPMODE_MDM_TUNGSTEN_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an tungsten ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_tungsten_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_TUNGSTEN_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an tungsten ore deposit."
+ MAPMODE_MDM_TUNGSTEN_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have tungsten ore deposits."
+
+ mdm_tungsten_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_tungsten_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_tungsten_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_tungsten_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_tungsten_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_tungsten_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_tungsten_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_tungsten_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #uranium ore deposit mapmode
+
+ mapmode_mdm_uranium_ore_deposit_name: "Uranium Ore Deposits"
+ MAPMODE_MDM_URANIUM_ORE_DEPOSIT: "#T $mapmode_mdm_uranium_ore_deposit_name$#!\nThis colors [locations|e] by the size of uranium ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_uranium_ore_deposit_size|e] variable, which represents the amount of uranium ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize uranium ore extraction and economic efficiency."
+ MAPMODE_MDM_URANIUM_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an uranium ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_uranium_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_URANIUM_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an uranium ore deposit."
+ MAPMODE_MDM_URANIUM_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have uranium ore deposits."
+
+ mdm_uranium_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_uranium_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_uranium_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_uranium_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_uranium_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_uranium_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_uranium_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_uranium_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #vanadium ore deposit mapmode
+
+ mapmode_mdm_vanadium_ore_deposit_name: "Vanadium Ore Deposits"
+ MAPMODE_MDM_VANADIUM_ORE_DEPOSIT: "#T $mapmode_mdm_vanadium_ore_deposit_name$#!\nThis colors [locations|e] by the size of vanadium ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_vanadium_ore_deposit_size|e] variable, which represents the amount of vanadium ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize vanadium ore extraction and economic efficiency."
+ MAPMODE_MDM_VANADIUM_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an vanadium ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_vanadium_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_VANADIUM_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an vanadium ore deposit."
+ MAPMODE_MDM_VANADIUM_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have vanadium ore deposits."
+
+ mdm_vanadium_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_vanadium_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_vanadium_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_vanadium_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_vanadium_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_vanadium_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_vanadium_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_vanadium_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #zinc ore deposit mapmode
+
+ mapmode_mdm_zinc_ore_deposit_name: "Zinc Ore Deposits"
+ MAPMODE_MDM_ZINC_ORE_DEPOSIT: "#T $mapmode_mdm_zinc_ore_deposit_name$#!\nThis colors [locations|e] by the size of zinc ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_zinc_ore_deposit_size|e] variable, which represents the amount of zinc ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize zinc ore extraction and economic efficiency."
+ MAPMODE_MDM_ZINC_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an zinc ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_zinc_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_ZINC_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an zinc ore deposit."
+ MAPMODE_MDM_ZINC_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have zinc ore deposits."
+
+ mdm_zinc_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_zinc_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_zinc_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_zinc_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_zinc_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_zinc_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_zinc_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_zinc_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #zirconium ore deposit mapmode
+
+ mapmode_mdm_zirconium_ore_deposit_name: "Zirconium Ore Deposits"
+ MAPMODE_MDM_ZIRCONIUM_ORE_DEPOSIT: "#T $mapmode_mdm_zirconium_ore_deposit_name$#!\nThis colors [locations|e] by the size of zirconium ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_zirconium_ore_deposit_size|e] variable, which represents the amount of zirconium ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize zirconium ore extraction and economic efficiency."
+ MAPMODE_MDM_ZIRCONIUM_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an zirconium ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_zirconium_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_ZIRCONIUM_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an zirconium ore deposit."
+ MAPMODE_MDM_ZIRCONIUM_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have zirconium ore deposits."
+
+ mdm_zirconium_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_zirconium_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_zirconium_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_zirconium_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_zirconium_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_zirconium_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_zirconium_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_zirconium_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #coal ore deposit mapmode
+
+ mapmode_mdm_coal_ore_deposit_name: "Coal Ore Deposits"
+ MAPMODE_MDM_COAL_ORE_DEPOSIT: "#T $mapmode_mdm_coal_ore_deposit_name$#!\nThis colors [locations|e] by the size of coal ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_coal_ore_deposit_size|e] variable, which represents the amount of coal ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize coal ore extraction and economic efficiency."
+ MAPMODE_MDM_COAL_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an coal ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_coal_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_COAL_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an coal ore deposit."
+ MAPMODE_MDM_COAL_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have coal ore deposits."
+
+ mdm_coal_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_coal_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_coal_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_coal_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_coal_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_coal_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_coal_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_coal_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #gems ore deposit mapmode
+
+ mapmode_mdm_gems_ore_deposit_name: "Gems Ore Deposits"
+ MAPMODE_MDM_GEMS_ORE_DEPOSIT: "#T $mapmode_mdm_gems_ore_deposit_name$#!\nThis colors [locations|e] by the size of gems ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_gems_ore_deposit_size|e] variable, which represents the amount of gems ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize gems ore extraction and economic efficiency."
+ MAPMODE_MDM_GEMS_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an gems ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_gems_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_GEMS_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an gems ore deposit."
+ MAPMODE_MDM_GEMS_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have gems ore deposits."
+
+ mdm_gems_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_gems_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_gems_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_gems_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_gems_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_gems_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_gems_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_gems_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #marble ore deposit mapmode
+
+ mapmode_mdm_marble_ore_deposit_name: "Marble Ore Deposits"
+ MAPMODE_MDM_MARBLE_ORE_DEPOSIT: "#T $mapmode_mdm_marble_ore_deposit_name$#!\nThis colors [locations|e] by the size of marble ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_marble_ore_deposit_size|e] variable, which represents the amount of marble ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize marble ore extraction and economic efficiency."
+ MAPMODE_MDM_MARBLE_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an marble ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_marble_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_MARBLE_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an marble ore deposit."
+ MAPMODE_MDM_MARBLE_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have marble ore deposits."
+
+ mdm_marble_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_marble_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_marble_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_marble_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_marble_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_marble_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_marble_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_marble_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #pure_quartz ore deposit mapmode
+
+ mapmode_mdm_pure_quartz_ore_deposit_name: "Pure Quartz Ore Deposits"
+ MAPMODE_MDM_PURE_QUARTZ_ORE_DEPOSIT: "#T $mapmode_mdm_pure_quartz_ore_deposit_name$#!\nThis colors [locations|e] by the size of pure_quartz ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_pure_quartz_ore_deposit_size|e] variable, which represents the amount of pure_quartz ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize pure_quartz ore extraction and economic efficiency."
+ MAPMODE_MDM_PURE_QUARTZ_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an pure_quartz ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_pure_quartz_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_PURE_QUARTZ_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an pure_quartz ore deposit."
+ MAPMODE_MDM_PURE_QUARTZ_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have pure_quartz ore deposits."
+
+ mdm_pure_quartz_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_pure_quartz_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_pure_quartz_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_pure_quartz_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_pure_quartz_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_pure_quartz_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_pure_quartz_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_pure_quartz_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #stone ore deposit mapmode
+
+ mapmode_mdm_stone_ore_deposit_name: "Stone Ore Deposits"
+ MAPMODE_MDM_STONE_ORE_DEPOSIT: "#T $mapmode_mdm_stone_ore_deposit_name$#!\nThis colors [locations|e] by the size of stone ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_stone_ore_deposit_size|e] variable, which represents the amount of stone ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize stone ore extraction and economic efficiency."
+ MAPMODE_MDM_STONE_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an stone ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_stone_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_STONE_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an stone ore deposit."
+ MAPMODE_MDM_STONE_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have stone ore deposits."
+
+ mdm_stone_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_stone_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_stone_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_stone_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_stone_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_stone_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_stone_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_stone_ore_deposit_size_black_legend_key: "No deposit data"
+
+ #limestone ore deposit mapmode
+
+ mapmode_mdm_limestone_ore_deposit_name: "Limestone Ore Deposits"
+ MAPMODE_MDM_LIMESTONE_ORE_DEPOSIT: "#T $mapmode_mdm_limestone_ore_deposit_name$#!\nThis colors [locations|e] by the size of limestone ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_limestone_ore_deposit_size|e] variable, which represents the amount of limestone ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize limestone ore extraction and economic efficiency."
+ MAPMODE_MDM_LIMESTONE_ORE_DEPOSIT_TT_LAND: "[ROOT.GetLocation.GetName] has an limestone ore deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_limestone_ore_deposit_size').GetValue|Y]."
+ MAPMODE_MDM_LIMESTONE_ORE_DEPOSIT_TT_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an limestone ore deposit."
+ MAPMODE_MDM_LIMESTONE_ORE_DEPOSIT_TT_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have limestone ore deposits."
+
+ mdm_limestone_ore_deposit_size_pink_legend_key: "100,000+ deposit"
+ mdm_limestone_ore_deposit_size_dark_blue_legend_key: "10,000 deposit"
+ mdm_limestone_ore_deposit_size_light_blue_legend_key: "1,000 deposit"
+ mdm_limestone_ore_deposit_size_green_legend_key: "100 deposit"
+ mdm_limestone_ore_deposit_size_yellow_legend_key: "10 deposit"
+ mdm_limestone_ore_deposit_size_red_legend_key: "1 deposit"
+ mdm_limestone_ore_deposit_size_dark_red_legend_key: "0 deposit"
+ mdm_limestone_ore_deposit_size_black_legend_key: "No deposit data"
+

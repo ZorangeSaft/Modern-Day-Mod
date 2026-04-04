@@ -1,7 +1,11 @@
 ﻿#mdm modern day mod
 
 ore_deposit_aluminium_1000 = {
-	location = {
-		london
+	#location = {
+	#	london
+	#}
+
+	area = {
+		home_counties_area
 	}
 }

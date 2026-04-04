@@ -109,7 +109,17 @@ mdm_on_game_start = {
       every_location_in_scripted_geography = {
         set_variable = {
 			    name = mdm_aluminium_ore_deposit_size
-			    value = 1000
+          
+			    #value = random_integer #1000
+          #modulo = 100000 #gives random value from -100000 to 100000
+          #abs = yes #makes the number postitive
+
+          #integer_range = {
+					#	min = 0
+					#	max = 100000
+					#}
+
+          value = { 0 100000 }
 			  }
       }
     }
