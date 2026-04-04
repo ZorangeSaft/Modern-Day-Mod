@@ -1,0 +1,19 @@
+﻿l_english:
+ ###### mdm modern day mod
+
+ #aluminium ore deposit mapmode
+
+ mapmode_mdm_aluminium_ore_deposit_name: "Aluminium Ore Deposits"
+ MAPMODE_MDM_ALUMINIUM_ORE_DEPOSIT: "#T $mapmode_mdm_aluminium_ore_deposit_name$#!\nThis colors [locations|e] by the size of aluminium ore deposits in the [location|e].\n\nThe mapmode shows the value of the [mdm_aluminium_ore_deposit_size|e] variable, which represents the amount of aluminium ore resources available at this location.\n\n@adm! #color_yellow Strategy#! @adm!\nBuild mining infrastructure in locations with the largest deposits to maximize aluminium ore extraction and economic efficiency."
+ MDM_ALUMINIUM_ORE_DEPOSIT_SIZE_TOOLTIP_KEY_HAS_DEPOSIT: "[ROOT.GetLocation.GetName] has an [ShowGoodsName('aluminium_ore')] deposit size of [ROOT.GetLocation.MakeScope.Var('mdm_aluminium_ore_deposit_size').GetValue|Y]."
+ MDM_ALUMINIUM_ORE_DEPOSIT_SIZE_TOOLTIP_KEY_NO_DEPOSIT: "[ROOT.GetLocation.GetName] does not have an [ShowGoodsName('aluminium_ore')] ore deposit."
+ MDM_ALUMINIUM_ORE_DEPOSIT_SIZE_TOOLTIP_KEY_WATER: "[ROOT.GetLocation.GetName] is not land so it does not have [ShowGoodsName('aluminium_ore')] deposits."
+
+ mdm_aluminium_ore_deposit_pink_legend_key: "100,000+ deposit"
+ mdm_aluminium_ore_deposit_dark_blue_legend_key: "10,000 deposit"
+ mdm_aluminium_ore_deposit_light_blue_legend_key: "1,000 deposit"
+ mdm_aluminium_ore_deposit_green_legend_key: "100 deposit"
+ mdm_aluminium_ore_deposit_yellow_legend_key: "10 deposit"
+ mdm_aluminium_ore_deposit_red_legend_key: "1 deposit"
+ mdm_aluminium_ore_deposit_dark_red_legend_key: "0 deposit"
+ mdm_aluminium_ore_deposit_black_legend_key: "No deposit data"
