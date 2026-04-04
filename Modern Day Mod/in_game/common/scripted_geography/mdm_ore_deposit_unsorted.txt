@@ -1,0 +1,187 @@
+﻿#mdm modern day mod
+
+ore_deposit_aluminium_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_beryllium_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_copper_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_gold_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_iron_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_lead_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_lithium_brine_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_lithium_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_magnesium_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_manganese_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_molybdenum_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_nickel_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_niobium_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_platinum_group_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_rare_earth_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_silver_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_strontium_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_tantalum_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_tin_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_titanium_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_tungsten_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_uranium_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_vanadium_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_zinc_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_zirconium_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_coal_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_gems_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_marble_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_pure_quartz_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_stone_1 = {
+	location = {
+		london
+	}
+}
+
+ore_deposit_limestone_1 = {
+	location = {
+		london
+	}
+}

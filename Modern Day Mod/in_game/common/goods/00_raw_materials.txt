@@ -380,19 +380,6 @@ gold_ore = {
 	color = rgb { 180 140 60 } #ai
 	default_market_price = 10 #ai
 	transport_cost = 2 #ai
-
-	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
-	
-	ai_rgo_expansion_priority = 0.2
-	
-	demand_add = {
-		nobles = 0.025
-	}	
-	
-	wealth_impact_threshold = {
-		all = 1.05
-	}
-
 }
 
 iron_ore = { #by far the most produced metal, for steel
@@ -401,9 +388,6 @@ iron_ore = { #by far the most produced metal, for steel
 	color = rgb { 120 100 90 } #ai
 	default_market_price = 1.2 #ai
 	transport_cost = 4 #ai
-	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
-	
-	ai_rgo_expansion_priority = 0.025
 }
 
 lead_ore = {
@@ -452,15 +436,6 @@ helium = { #not sure if mercury is important enough to be its own good in the mo
 	color = rgb { 160 140 140 } #ai
 	default_market_price = 2 #ai
 	transport_cost = 4 #ai
-	
-
-	demand_add = {
-		all = 0.00005
-	}	
-	
-	wealth_impact_threshold = {
-		all = 1.0
-	}
 }
 
 molybdenum_ore = { #also often byproduct of copper or tungesten mining
@@ -509,17 +484,6 @@ silver_ore = {
 	color = rgb { 180 180 190 } #ai
 	default_market_price = 8 #ai
 	transport_cost = 1 #ai
-	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
-	
-	ai_rgo_expansion_priority = 0.2
-	
-	demand_add = {
-		nobles = 0.025
-	}
-	
-	wealth_impact_threshold = {
-		all = 1.05
-	}
 }
 
 strontium_ore = { #strontium mostly used in ferrite magnets
