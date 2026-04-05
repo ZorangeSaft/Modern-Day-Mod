@@ -21,7 +21,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-         }
+          }
       }
 
 
@@ -80,6 +80,8 @@ countries = {
             heir_selection = lottery_election
 
              # ruler = alb_bajram_begaj
+
+
          }
       }
 
@@ -117,7 +119,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-         }
+          }
       }
 
 
@@ -139,7 +141,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-         }
+          }
       }
 
 
@@ -182,7 +184,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-         }
+          }
       }
 
 
@@ -996,17 +998,17 @@ countries = {
             rupert_plateau wawa_uplands english_river_uplands ogoki_uplands chochocouane_hills eastmain_hills matagami_depression ishpatina_ridge abitibi_uplands penokean_hills
             nemegosenda_uplands sanikiluaq quebec_torngats torngat_mountains ungava_peninsula larch_plateau labrador_hills peribonka_hills matapedia_highlands whale_lowlands
             george_river_plateau caniapiscau_plateau great_whale_plateau la_grande_hills labrador_highlands opiscoteo_hills otish_mountains manicouagan_depression manouanis_massif manicouagan_plateau
-            northern_notre_dame_mountains laurentian_massif valin_mountains mealy_mountains mecatina_plateau hamilton_highlands chic_choc_mountains sainte_marguerite_plateau magpie_massif
-            annieopsquotch_mountains newfoundland_highlands long_range_mountains mecatina_hills canaan_bog james_bay_lowlands otadaonanis winisk_uplands wabigoon_uplands porcupine_hills
-            attawapiskat_lowlands hudson_bay_lowlands southampton_island baffin_island severn_uplands arctic_archipelago lac_seul_upland hayes_river_upland silsby_lake_upland indian_lake_upland
-            nejanilini_uplands nunavut_uplands churchill_river_upland wekusko_upland reindeer_lake_upland seal_river_upland kazan_uplands tlicho_uplands turili_uplands mid_boreal_upland
-            foster_upland robins_lake_upland thelon_river_upland northern_arctic_uplands mostoos_upland stony_mountain_uplands muskeg_upland athabasca_plains eynard_upland coppermine_river_upland
-            beaver_forest omineca_mountains kahntah_trail lodgepole_uplands utikuma_uplands saddle_hills_2 saddle_hills buffalo_head_hills birch_mountains beaver_plain
-            hawk_hills dehcho_plains horn_plateau caribou_mountains southern_plains dakelh_range dehcho_uplands sahtu_uplands horton_uplands dehcho_range
-            mackenzie_uplands inuvialuit_uplands kynocks_forest kaska_forest mackenzie_mtns haen_uplands gwichin_uplands dan_ki_forest nabesna_forest wrangell_mtns
-            dezadeash_trail chilkootg_trail shushtone_forest kechika_trail teslin_trail ediziza_trail tses_kiya_trail tahltan_forest cassiar_mountains sekani_forest
-            spatsizi_forest kinaskan_trail ediziza_forest chilcotin_mtns strathacona_range thompson_mtns kwakwala_range n_shuswap_mtns e_shuswap_mtns s_shuswap_mtns
-            ce_ktunaxa_ranges se_ktunaxa_ranges nc_ktunaxa_ranges ne_ktunaxa_ranges cw_ktunaxa_ranges sinixt_range
+            northern_notre_dame_mountains laurentian_massif valin_mountains mealy_mountains mecatina_plateau hamilton_highlands chic_choc_mountains sainte_marguerite_plateau magpie_massif annieopsquotch_mountains
+            newfoundland_highlands long_range_mountains mecatina_hills canaan_bog james_bay_lowlands otadaonanis winisk_uplands wabigoon_uplands porcupine_hills attawapiskat_lowlands
+            hudson_bay_lowlands southampton_island baffin_island severn_uplands arctic_archipelago lac_seul_upland hayes_river_upland silsby_lake_upland indian_lake_upland nejanilini_uplands
+            nunavut_uplands churchill_river_upland wekusko_upland reindeer_lake_upland seal_river_upland kazan_uplands tlicho_uplands turili_uplands mid_boreal_upland foster_upland
+            robins_lake_upland thelon_river_upland northern_arctic_uplands mostoos_upland stony_mountain_uplands muskeg_upland athabasca_plains eynard_upland coppermine_river_upland beaver_forest
+            omineca_mountains kahntah_trail lodgepole_uplands utikuma_uplands saddle_hills_2 saddle_hills buffalo_head_hills birch_mountains beaver_plain hawk_hills
+            dehcho_plains horn_plateau caribou_mountains southern_plains dakelh_range dehcho_uplands sahtu_uplands horton_uplands dehcho_range mackenzie_uplands
+            inuvialuit_uplands kynocks_forest kaska_forest mackenzie_mtns haen_uplands gwichin_uplands dan_ki_forest nabesna_forest wrangell_mtns dezadeash_trail
+            chilkootg_trail shushtone_forest kechika_trail teslin_trail ediziza_trail tses_kiya_trail tahltan_forest cassiar_mountains sekani_forest spatsizi_forest
+            kinaskan_trail ediziza_forest chilcotin_mtns strathacona_range thompson_mtns kwakwala_range n_shuswap_mtns e_shuswap_mtns s_shuswap_mtns ce_ktunaxa_ranges
+            se_ktunaxa_ranges nc_ktunaxa_ranges ne_ktunaxa_ranges cw_ktunaxa_ranges sinixt_range
          }
 
          include = "expl_mdm_whole_world"
@@ -1827,7 +1829,7 @@ countries = {
             macas machala malacatos manta mindu otavalo pailon panzaleo pukamuru puna
             quito sangay shabalula tacunga tsachila waranka yaguachi yaguarzongo yazne amazon_jungle_et9
             cajas_mountains solamaco_mountains duco_mountains chimborazo_volcano sangay_volcano ami_mountains sangay_jungle llanganates_jungle kichwa puyu
-            napo_jungle quijos napo nambue_jungle
+            napo_jungle quijos napo nambue_jungle siona kofan
          }
 
          #include = "republic"
@@ -1838,7 +1840,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-         }
+          }
       }
 
 
@@ -2004,7 +2006,7 @@ countries = {
             sharka soddo worabe ziqwala north_sakuye gambela gore arabi aware awbare
             dakkar degehabur dire_dawa dolo geledi gode harar harro_walabu jeldesa kelafo
             liban limey mormor seru sheikh_hussein tulu_nama_dun tulu_walal awrtable northern_ethiopian_mountains horn_deserts
-            bale ethiopian_mountains north_east_ethiopian_mountains goba central_east_ethiopian_mountains south_east_ethiopian_mountains central_west_ethiopian_mountains south_west_ethiopian_mountains
+            bale ethiopian_mountains north_east_ethiopian_mountains goba central_east_ethiopian_mountains south_east_ethiopian_mountains central_west_ethiopian_mountains south_west_ethiopian_mountains hargaya
          }
 
          #include = "republic"
@@ -3286,8 +3288,7 @@ countries = {
             zhanybek aksay_pointic kalmyk karatobe kisikkamys kulagin oral ryn sarayjuk saryadyn
             shyngyrlau talowski taskala terekti ushtagan zhympity kyzylkum_corridor3 aral_kum_corridor1 kyzylkum_corridor1 kyzylkum_desert4
             kyzylkum_corridor4 kyzylkum_desert2 kyzylkum_desert kyzylkum_desert5 ust_yurt_plateau1 dead_kultuk_sor ust_yurt_plateau2 aral_karakum_desert moiynkum_desert hunger_steppe
-            taukum_desert saryesik_atyrau_desert alatau targabatay_mountains altay_mountains_et3 hissar_mountains1 gaoligongshan_et wusun borohoro1 ugam_range1
-            tian_shan10
+            taukum_desert saryesik_atyrau_desert alatau targabatay_mountains altay_mountains_et3 gaoligongshan_et wusun borohoro1 ugam_range1 tian_shan10
          }
 
          #include = "republic"
@@ -3975,9 +3976,9 @@ countries = {
             cocomacan copuz cuauhtitlan hnahnu huaxcama huayacocotla ixtachichimecapan jalpan kerhiretarhu metztitlan
             mixquiahuala mo_o_ti nat_tha_hi otomi oxtlipan ozuluama pame panuco pechichitane penlamu
             tamtoc tanchaycha tangamanga tetzapotitlan tollan tutotepec tziuhcoac uza xilotepec xiriquitzio
-            otatitlan maya_jungle nube_flan chimalapa_jungle guiigu_yudxi nudo_zempoaltepetl citlaltepetl_mountains tlacopan tepozan_mountains
-            ajusco_mountains popocatepetl_mountains toluca_mountains teotepec lobos_mountains viga_mountains fria_mountains guadalupe_island revillagigedo_islands colima_mountains
-            magdalenas madre_mountains lacandon_jungle
+            otatitlan maya_jungle nube_flan chimalapa_jungle guiigu_yudxi nudo_zempoaltepetl citlaltepetl_mountains tlacopan tepozan_mountains ajusco_mountains
+            popocatepetl_mountains toluca_mountains teotepec lobos_mountains viga_mountains fria_mountains guadalupe_island revillagigedo_islands colima_mountains magdalenas
+            madre_mountains lacandon_jungle
          }
 
          #include = "republic"
@@ -6329,7 +6330,7 @@ countries = {
 
          own_control_core = {
             sir_bani_yas abu_dhabi al_ayn al_dhaid dubai julfar khor_fakkan marawah sharjah rub_al_khali4
-            rub_al_khali3
+            rub_al_khali3 liwa
          }
 
          #include = "republic"
@@ -6712,7 +6713,7 @@ countries = {
             jizzakh karmana kasan kish_shahrisabz kokand koson marghinan muborak nasaf nuket
             nurota paikend paykend pishagar pop_fargana primkent quva rishton samarkand tambybulak
             tim_samarkand uchquduq vardanzi yangirabod zarafshon zomin ust_yurt_plateau3 ust_yurt_plateau4 kyzylkum_corridor5 kyzylkum_corridor6
-            kyzylkum_desert3 tian_shan15
+            kyzylkum_desert3 tian_shan15 kyzylkum_corridor2 hissar_mountains1
          }
 
          #include = "republic"
