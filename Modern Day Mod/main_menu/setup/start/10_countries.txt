@@ -4273,7 +4273,7 @@ countries = {
             roermond venlo weert hulst appingedam assen coevorden deventer groningen harlingen
             kampen leeuwarden meppel oldenzaal sloten stavoren wedde wolvega zwolle alkmaar
             amersfoort amsterdam apeldoorn arnhem doetinchem dordrecht geertruidenberg harderwijk hoorn leiden
-            middelburg nijmegen rotterdam the_hague tiel utrecht zutphen
+            middelburg nijmegen rotterdam the_hague tiel utrecht zutphen new93
          }
 
          include = "expl_mdm_whole_world"
