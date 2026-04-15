@@ -1431,7 +1431,7 @@ countries = {
             betou impfondo ouesso gabun loeme olenda sette aduma apinji assan
             bobaka bobangi djundu ganda lefini lope madembe makabana makaka makoua_congo
             massabo mayumba mombote monsol ncando ngato ogowe sanga_pumbo ubangi yumba
-            buali manguenzo congo_jungle_et6 mbaka_jungle lope_jungle waka_jungle
+            buali manguenzo congo_jungle_et6 mbaka_jungle lope_jungle waka_jungle congo_jungle_et2
          }
 
          #include = "republic"
@@ -2137,7 +2137,7 @@ countries = {
          own_control_core = {
             adyumba bakele_kongo banjabi bapunu bateke_kongo boowe conkouati igumbi_andele kwilu lambarene
             lolo makokou mitsogo_kongo mpongwe ncomi ngume nguyi nyanga ogoowe_kongo okanja
-            oyem rembo seke_gabun shake_kongo congo_jungle_et2 congo_jungle_et1 niefang_jungle gabun_jungle
+            oyem rembo seke_gabun shake_kongo congo_jungle_et1 niefang_jungle gabun_jungle
          }
 
          #include = "republic"
@@ -3188,9 +3188,9 @@ countries = {
             kulykol sasykkol shoindykol shoptikol siberia_tenteksor zharkol akkol bayanaul bozok_astana kyzylzhar
             presnowka shybyndy siletiteniz stanitsa_kokchetavskaya staroye tarankol zhalauly bokey botkul ganyushkino
             zhanybek aksay_pointic kalmyk karatobe kisikkamys kulagin oral ryn sarayjuk saryadyn
-            shyngyrlau talowski taskala terekti ushtagan zhympity kyzylkum_corridor3 aral_kum_corridor1 kyzylkum_corridor1 kyzylkum_desert4
-            kyzylkum_corridor4 kyzylkum_desert2 kyzylkum_desert kyzylkum_desert5 ust_yurt_plateau1 dead_kultuk_sor ust_yurt_plateau2 aral_karakum_desert moiynkum_desert hunger_steppe
-            taukum_desert saryesik_atyrau_desert alatau targabatay_mountains altay_mountains_et3 gaoligongshan_et wusun borohoro1 ugam_range1 tian_shan10
+            shyngyrlau talowski taskala terekti ushtagan zhympity aral_kum_corridor1 kyzylkum_corridor1 kyzylkum_corridor4 kyzylkum_desert
+            kyzylkum_desert5 ust_yurt_plateau1 dead_kultuk_sor ust_yurt_plateau2 aral_karakum_desert moiynkum_desert hunger_steppe taukum_desert saryesik_atyrau_desert alatau
+            targabatay_mountains altay_mountains_et3 gaoligongshan_et wusun borohoro1 ugam_range1 tian_shan10
          }
 
          #include = "republic"
@@ -6525,7 +6525,7 @@ countries = {
             jizzakh karmana kasan kish_shahrisabz kokand koson marghinan muborak nasaf nuket
             nurota paikend paykend pishagar pop_fargana primkent quva rishton samarkand tambybulak
             tim_samarkand uchquduq vardanzi yangirabod zarafshon zomin ust_yurt_plateau3 ust_yurt_plateau4 kyzylkum_corridor5 kyzylkum_corridor6
-            kyzylkum_desert3 tian_shan15 kyzylkum_corridor2 hissar_mountains1
+            kyzylkum_desert3 tian_shan15 kyzylkum_corridor2 hissar_mountains1 kyzylkum_corridor3 kyzylkum_desert2 kyzylkum_desert4
          }
 
          #include = "republic"
