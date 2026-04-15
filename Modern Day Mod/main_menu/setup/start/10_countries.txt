@@ -5831,7 +5831,7 @@ countries = {
             qusayr qutayfah salamiyya tartus zardana abu_kemal bara_iraq barqaid hasakah rahba
             ras_ayn tunanir arak bosra burraq deir_ez_zor ithriya qaryatayn salkhad sukhnah
             suwayda tabqah tadmur taybah syrian_desert_corridor1 al_jazair_desert syrian_desert12 syrian_desert_corridor7 syrian_desert4 syrian_desert3
-            mountain_druze
+            mountain_druze antilebanon_mountains3
          }
 
          #include = "republic"
