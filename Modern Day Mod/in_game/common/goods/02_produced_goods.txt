@@ -350,6 +350,62 @@ cement = {
 	transport_cost = 6 #ai
 }
 
+ceramic = { #ai
+	category = produced
+	color = rgb { 210 180 150 } #ai
+	default_market_price = 1.5 #ai
+	transport_cost = 5 #ai
+}
+
+fiberglass = { #ai
+	category = produced
+	color = rgb { 230 230 200 } #ai
+	default_market_price = 2.5 #ai
+	transport_cost = 3 #ai
+}
+
+rubber = { #ai
+	category = produced
+	color = rgb { 40 40 40 } #ai
+	default_market_price = 2.0 #ai
+	transport_cost = 3 #ai
+}
+
+insulation = { #ai
+	category = produced
+	color = rgb { 255 220 180 } #ai
+	default_market_price = 1.2 #ai
+	transport_cost = 4 #ai
+}
+
+adhesive = { #ai
+	category = produced
+	color = rgb { 200 180 140 } #ai
+	default_market_price = 1.8 #ai
+	transport_cost = 3 #ai
+}
+
+sealant = { #ai
+	category = produced
+	color = rgb { 180 180 180 } #ai
+	default_market_price = 1.6 #ai
+	transport_cost = 3 #ai
+}
+
+paint = { #ai
+	category = produced
+	color = rgb { 120 140 180 } #ai
+	default_market_price = 1.4 #ai
+	transport_cost = 4 #ai
+}
+
+utilities = { #ai
+	category = produced
+	color = rgb { 255 200 50 } #ai
+	default_market_price = 5.0 #ai
+	transport_cost = 4 #ai
+}
+
 
 
 #oil products

@@ -1,0 +1,790 @@
+﻿#cvegvegchange
+
+#topography change (draining wetlands)
+
+cveg_topo_wetlands_to_flatland = { #jungle is very wet forest, instead of even denser forest, so it is jungle to woods instead of jungle to forest
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers #needs at least something defined, and laborers make the most sense
+	
+	employment_size = 0.001 #needs some number to be defined
+	category = infrastructure_category
+
+	st_meg = yes #megalopolis expansion
+	st_met = yes #megalopolis expansion
+	city = yes
+	town = yes
+	rural_settlement = yes
+
+	price = cveg_topo_wetlands_to_flatland_price
+	build_time = cveg_topo_wetlands_to_flatland_build_time
+	
+	forbidden_for_estates = yes
+	
+	location_potential = { #there is an invisible AND at the start of location_potential
+		topography = wetlands #pretty much any wetland can be drained, some are just much harder like in siberia
+		NOT = {
+			has_location_modifier = wsf_wetlands_to_flatland #cant build if it is already being drained
+		}
+		#you are allowed to both drain a wetland and change vegetation at the same time
+		NOT = {
+			any_buildings_in_location = { #this removes the building from the list, which i personally like
+				building_levels_under_construction > 0
+				building_type = building_type:cveg_topo_wetlands_to_flatland
+			}
+		}
+		trigger_if = {
+			limit = { has_variable = cveg_temporary_remove_topo_building }
+			custom_tooltip = {
+				text = cveg_temporary_topo_building_tooltip #so you cant build it immediately after the last one finishes, to avoid it getting deleted
+				NOT = { has_variable = cveg_temporary_remove_topo_building }
+			}
+		}
+	}
+
+	unique_production_methods = {
+		cveg_topo_wetlands_to_flatland_maintenance = { #the name of these always have to be different from building to building to work
+			tools = 0.01 #needs at least something defined
+			category = building_maintenance
+		}
+	}
+
+	on_construction_started	= {
+		location = {
+			add_location_modifier = {
+				modifier = wsf_topo_change_ongoing #people moving in to work on the change of topography, and also going away from their other possible local jobs, also just done for balance
+			}
+		}
+	}
+
+	on_construction_ended = { #means that the modifier gets removed both when the building is done, and if you cancel it before it is done
+		location = {
+			remove_location_modifier = wsf_topo_change_ongoing
+		}
+	}
+
+	on_built = {
+		location = {
+			wsf_set_topo_to_flatland = yes #drains the wetland into flatland, doesnt have to clear anything
+			set_variable = { #also possible with a decaying modifier instead, but variable is less visible to the player and better for performance
+	 			name = cveg_temporary_remove_topo_building #name doesnt matter, just has to be the same as the remove_if check, but should be different from other buildings you want to be buildable at the same time, like draining wetlands and changing vegetation like here
+	  			months = 2 #2 months instead of 1, because if you build the building in the middle of the month it wouldnt remove it, because the variable would run out first
+			}
+		}
+	}
+
+	construction_demand = cveg_topo_wetlands_to_flatland_construction
+
+	modifier = { #this is only added so the AI knows what the building does so that it builds it, since the building gets removed on the month tick and the actual modifier applied
+		movement_cost = -0.5
+   		local_distance_from_capital_speed_propagation = 0.25
+   		defender = -1
+    	local_frontage_allowed = 3
+    	local_rgo_build_time = -0.25
+    	local_road_building_time = -1.0
+    	local_monthly_development_modifier = 0.30
+    	local_monthly_food_modifier = 0.1
+	}
+
+	remove_if = {
+		location = {
+			has_variable = cveg_temporary_remove_topo_building #the game first builds the building, and then on the month tick checks if the variable is there, so the building can both be build and then removed quickly afterwards
+		}
+	}
+	
+}
+
+
+
+#cutting down dense vegetation, doesnt change rgo
+
+cveg_veg_jungle_to_woods = { #jungle is very wet forest, instead of even denser forest, so it is jungle to woods instead of jungle to forest
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers #needs at least something defined, and laborers make the most sense
+	
+	employment_size = 0.001 #needs some number to be defined
+	category = infrastructure_category
+
+	st_meg = yes #megalopolis expansion
+	st_met = yes #megalopolis expansion
+	city = yes
+	town = yes
+	rural_settlement = yes
+
+	price = cveg_veg_jungle_to_woods_price
+	build_time = cveg_veg_jungle_to_woods_build_time
+	
+	forbidden_for_estates = yes
+	
+	location_potential = { #there is an invisible AND at the start of location_potential
+		wsf_is_jungle = yes #has to be jungle to turn into woods
+		wsf_is_woods = no #cant convert to woods if it is already woods
+		#didnt add any more requirements because you can cut down any jungle really, just very labor intensive and expensive
+		cveg_is_changing_vegetation = no #so you cant build 2 of the same type of conflicting veg change buildings at once, like both grasslands to woods and grasslands to farmland
+		trigger_if = {
+			limit = { has_variable = cveg_temporary_remove_veg_building }
+			custom_tooltip = {
+				text = cveg_temporary_remove_veg_building_tooltip #custom tooltip because otherwise it just shows "does not have variable cveg_temporary_remove_veg_building" which is very unclear to the player
+				NOT = { has_variable = cveg_temporary_remove_veg_building }
+			}
+		}
+	}
+
+	unique_production_methods = {
+		cveg_veg_jungle_to_woods_maintenance = { #the name of these always have to be different from building to building to work
+			tools = 0.01 #needs at least something defined
+			category = building_maintenance
+		}
+	}
+
+	on_construction_started	= {
+		location = {
+			add_location_modifier = {
+				modifier = wsf_veg_change_ongoing #people moving in to work on the change of vegetation, and also going away from their other possible local jobs, also just done for balance
+			}
+		}
+	}
+
+	on_construction_ended = { #means that the modifier gets removed both when the building is done, and if you cancel it before it is done
+		location = {
+			remove_location_modifier = wsf_veg_change_ongoing
+		}
+	}
+
+	on_built = {
+		location = {
+			wsf_clear_veg_effect = yes #clears all change vegetation modifiers, no matter what, so no double modifiers or other confusion is possible
+			wsf_set_veg_to_woods = yes #changes vegetation to woods based on what the correct modifier for that would be
+			set_variable = { #also possible with a decaying modifier instead, but variable is less visible to the player and better for performance
+	 			name = cveg_temporary_remove_veg_building #name doesnt matter, just has to be the same as the remove_if check
+	  			months = 2 #2 months instead of 1, because if you build the building in the middle of the month it wouldnt remove it, because the variable would run out first
+			}
+		}
+	}
+
+	construction_demand = cveg_veg_jungle_to_woods_construction
+
+	modifier = { #this is only added so the AI knows what the building does so that it builds it, since the building gets removed on the month tick and the actual modifier applied
+		movement_cost = -0.75
+    	local_distance_from_capital_speed_propagation = 0.375
+    	local_frontage_allowed = 2
+    	local_rgo_build_time = -0.5
+    	local_road_building_time = -2.50
+    	local_monthly_development_modifier = 0.10
+   		supply_limit = 2
+	}
+
+	remove_if = {
+		location = {
+			has_variable = cveg_temporary_remove_veg_building #the game first builds the building, and then on the month tick checks if the variable is there, so the building can both be build and then removed quickly afterwards
+		}
+	}
+	
+}
+
+cveg_veg_forest_to_woods = {
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers #needs at least something defined, and laborers make the most sense
+	
+	employment_size = 0.001 #needs some number to be defined
+	category = infrastructure_category
+
+	st_meg = yes #megalopolis expansion
+	st_met = yes #megalopolis expansion
+	city = yes
+	town = yes
+	rural_settlement = yes
+
+	price = cveg_veg_forest_to_woods_price
+	build_time = cveg_veg_forest_to_woods_build_time
+	
+	forbidden_for_estates = yes
+	
+	location_potential = { #there is an invisible AND at the start of location_potential
+		wsf_is_forest = yes #has to be forest to turn into woods
+		wsf_is_woods = no #cant convert to woods if it is already woods
+		#didnt add any more requirements because you can cut down pretty much any forest, just some are more labor intensive and expensive than others
+		cveg_is_changing_vegetation = no #so you cant build 2 of the same type of conflicting veg change buildings at once, like both grasslands to woods and grasslands to farmland
+		trigger_if = {
+			limit = { has_variable = cveg_temporary_remove_veg_building }
+			custom_tooltip = {
+				text = cveg_temporary_remove_veg_building_tooltip #custom tooltip because otherwise it just shows "does not have variable cveg_temporary_remove_veg_building" which is very unclear to the player
+				NOT = { has_variable = cveg_temporary_remove_veg_building }
+			}
+		}
+	}
+
+	unique_production_methods = {
+		cveg_veg_forest_to_woods_maintenance = { #the name of these always have to be different from building to building to work
+			tools = 0.01 #needs at least something defined
+			category = building_maintenance
+		}
+	}
+
+	on_construction_started	= {
+		location = {
+			add_location_modifier = {
+				modifier = wsf_veg_change_ongoing #people moving in to work on the change of vegetation, and also going away from their other possible local jobs, also just done for balance
+			}
+		}
+	}
+
+	on_construction_ended = { #means that the modifier gets removed both when the building is done, and if you cancel it before it is done
+		location = {
+			remove_location_modifier = wsf_veg_change_ongoing
+		}
+	}
+
+	on_built = {
+		location = {
+			wsf_clear_veg_effect = yes #clears all change vegetation modifiers, no matter what, so no double modifiers or other confusion is possible
+			wsf_set_veg_to_woods = yes #changes vegetation to woods based on what the correct modifier for that would be
+			set_variable = { #also possible with a decaying modifier instead, but variable is less visible to the player and better for performance
+	 			name = cveg_temporary_remove_veg_building #name doesnt matter, just has to be the same as the remove_if check
+	  			months = 2 #2 months instead of 1, because if you build the building in the middle of the month it wouldnt remove it, because the variable would run out first
+			}
+		}
+	}
+
+	construction_demand = cveg_veg_forest_to_woods_construction
+
+	modifier = { #this is only added so the AI knows what the building does so that it builds it, since the building gets removed on the month tick and the actual modifier applied
+		movement_cost = -0.25
+		local_distance_from_capital_speed_propagation = 0.125
+		local_frontage_allowed = 1
+		local_rgo_build_time = -0.33
+		local_road_building_time = -0.50
+		local_population_capacity = 25
+		local_monthly_development_modifier = 0.05
+		local_monthly_food_modifier = 0.1
+		supply_limit = 2
+	}
+
+	remove_if = {
+		location = {
+			has_variable = cveg_temporary_remove_veg_building #the game first builds the building, and then on the month tick checks if the variable is there, so the building can both be build and then removed quickly afterwards
+		}
+	}
+	
+}
+
+
+
+#creating new grazing land, changes rgo to one of 3: livestock, wool, horses
+
+cveg_veg_woods_to_grasslands = {
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers #needs at least something defined, and laborers make the most sense
+	
+	employment_size = 0.001 #needs some number to be defined
+	category = infrastructure_category
+
+	st_meg = yes #megalopolis expansion
+	st_met = yes #megalopolis expansion
+	city = yes
+	town = yes
+	rural_settlement = yes
+
+	price = cveg_veg_woods_to_grasslands_price
+	build_time = cveg_veg_woods_to_grasslands_build_time
+	
+	forbidden_for_estates = yes
+	
+	location_potential = { #there is an invisible AND at the start of location_potential
+		wsf_is_woods = yes #has to be woods to turn into grasslands
+		wsf_is_grasslands = no #cant convert to grasslands if it is already grasslands
+		#does not have a continent requirement because livestock exists everywhere in vanilla
+		#didnt add any more because you can cut down any woods really and convert them to grasslands, as long as you have shepards to maintain them
+		cveg_is_changing_vegetation = no #so you cant build 2 of the same type of conflicting veg change buildings at once, like both grasslands to woods and grasslands to farmland
+		trigger_if = {
+			limit = { has_variable = cveg_temporary_remove_veg_building }
+			custom_tooltip = {
+				text = cveg_temporary_remove_veg_building_tooltip #custom tooltip because otherwise it just shows "does not have variable cveg_temporary_remove_veg_building" which is very unclear to the player
+				NOT = { has_variable = cveg_temporary_remove_veg_building }
+			}
+		}
+	}
+
+	unique_production_methods = {
+		cveg_veg_woods_to_grasslands_maintenance = { #the name of these always have to be different from building to building to work
+			tools = 0.01 #needs at least something defined
+			category = building_maintenance
+		}
+	}
+
+	on_construction_started	= {
+		location = {
+			add_location_modifier = {
+				modifier = wsf_veg_change_ongoing #people moving in to work on the change of vegetation, and also going away from their other possible local jobs, also just done for balance
+			}
+		}
+	}
+
+	on_construction_ended = { #means that the modifier gets removed both when the building is done, and if you cancel it before it is done
+		location = {
+			remove_location_modifier = wsf_veg_change_ongoing
+		}
+	}
+
+	on_built = {
+		location = {
+			wsf_clear_veg_effect = yes #clears all change vegetation modifiers, no matter what, so no double modifiers or other confusion is possible
+			wsf_set_veg_to_grasslands = yes #changes vegetation to grasslands based on what the correct modifier for that would be
+			set_variable = { #also possible with a decaying modifier instead, but variable is less visible to the player and better for performance
+	 			name = cveg_temporary_remove_veg_building #name doesnt matter, just has to be the same as the remove_if check
+	  			months = 2 #2 months instead of 1, because if you build the building in the middle of the month it wouldnt remove it, because the variable would run out first
+			}
+		}
+	}
+
+	construction_demand = cveg_veg_woods_to_grasslands_construction
+
+	modifier = { #this is only added so the AI knows what the building does so that it builds it, since the building gets removed on the month tick and the actual modifier applied
+		movement_cost = -0.25
+		local_distance_from_capital_speed_propagation = 0.125
+		defender = -1
+		local_frontage_allowed = 2
+		local_road_building_time = -0.50
+		local_monthly_development_modifier = 0.20
+	}
+
+	remove_if = {
+		location = {
+			has_variable = cveg_temporary_remove_veg_building #the game first builds the building, and then on the month tick checks if the variable is there, so the building can both be build and then removed quickly afterwards
+		}
+	}
+	
+}
+
+#no building for horses, as those are supposed to be uniquely more common in the steppes, and i feel like it would just be extra clutter when usually you wouldnt want it
+
+
+
+#upcycling grasslands into woods to grow lumber in regions like persia
+
+cveg_veg_grasslands_to_woods = { #i dont think the AI will ever build this because it thinks it gives negative effects
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers #needs at least something defined, and laborers make the most sense
+	
+	employment_size = 0.001 #needs some number to be defined
+	category = infrastructure_category
+
+	st_meg = yes #megalopolis expansion
+	st_met = yes #megalopolis expansion
+	city = yes
+	town = yes
+	rural_settlement = yes
+
+	price = cveg_veg_grasslands_to_woods_price
+	build_time = cveg_veg_grasslands_to_woods_build_time
+	
+	forbidden_for_estates = yes
+	
+	location_potential = { #there is an invisible AND at the start of location_potential
+		wsf_has_desirable_rgo = no #you cant grow a forest on desireable rgos, but you can grow it on farmland
+		wsf_is_grasslands = yes #has to be grasslands to turn into woods
+		wsf_is_woods = no #cant convert to woods if it is already woods
+		NAND = { #can only grow forests in arid places in mountains and hills, because those are usually wetter
+			OR = {
+				climate = arid
+				climate = cold_arid
+			}
+			OR = {
+				topography = flatland
+				topography = wetlands
+				topography = plateau
+			}
+		}
+		#didnt add any more requirements because you can cut down pretty much any forest, just some are more labor intensive and expensive than others
+		cveg_is_changing_vegetation = no #so you cant build 2 of the same type of conflicting veg change buildings at once, like both grasslands to woods and grasslands to farmland
+		trigger_if = {
+			limit = { has_variable = cveg_temporary_remove_veg_building }
+			custom_tooltip = {
+				text = cveg_temporary_remove_veg_building_tooltip #custom tooltip because otherwise it just shows "does not have variable cveg_temporary_remove_veg_building" which is very unclear to the player
+				NOT = { has_variable = cveg_temporary_remove_veg_building }
+			}
+		}
+	}
+
+	unique_production_methods = {
+		cveg_veg_grasslands_to_woods_maintenance = { #the name of these always have to be different from building to building to work
+			tools = 0.01 #needs at least something defined
+			category = building_maintenance
+		}
+	}
+
+	on_construction_started	= {
+		location = {
+			add_location_modifier = {
+				modifier = wsf_veg_change_ongoing #people moving in to work on the change of vegetation, and also going away from their other possible local jobs, also just done for balance
+			}
+		}
+	}
+
+	on_construction_ended = { #means that the modifier gets removed both when the building is done, and if you cancel it before it is done
+		location = {
+			remove_location_modifier = wsf_veg_change_ongoing
+		}
+	}
+
+	on_built = {
+		location = {
+			wsf_clear_veg_effect = yes #clears all change vegetation modifiers, no matter what, so no double modifiers or other confusion is possible
+			wsf_set_veg_to_woods = yes #changes vegetation to woods based on what the correct modifier for that would be
+			set_variable = { #also possible with a decaying modifier instead, but variable is less visible to the player and better for performance
+	 			name = cveg_temporary_remove_veg_building #name doesnt matter, just has to be the same as the remove_if check
+	  			months = 2 #2 months instead of 1, because if you build the building in the middle of the month it wouldnt remove it, because the variable would run out first
+			}
+			change_raw_material = goods:lumber
+		}
+	}
+
+	construction_demand = cveg_veg_grasslands_to_woods_construction
+
+	modifier = { #this is only added so the AI knows what the building does so that it builds it, since the building gets removed on the month tick and the actual modifier applied
+		movement_cost = 0.25
+		local_distance_from_capital_speed_propagation = -0.125
+		defender = 1
+		local_frontage_allowed = -2
+		local_road_building_time = 0.50
+		local_monthly_development_modifier = -0.20
+	}
+
+	remove_if = {
+		location = {
+			has_variable = cveg_temporary_remove_veg_building #the game first builds the building, and then on the month tick checks if the variable is there, so the building can both be build and then removed quickly afterwards
+		}
+	}
+	
+}
+
+
+
+#farmland conversions
+
+cveg_veg_grasslands_to_farmland = {
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers #needs at least something defined, and laborers make the most sense
+	
+	employment_size = 0.001 #needs some number to be defined
+	category = infrastructure_category
+
+	st_meg = yes #megalopolis expansion
+	st_met = yes #megalopolis expansion
+	city = yes
+	town = yes
+	rural_settlement = yes
+
+	price = cveg_veg_grasslands_to_farmland_price
+	build_time = cveg_veg_grasslands_to_farmland_build_time
+	
+	forbidden_for_estates = yes
+	
+	location_potential = { #there is an invisible AND at the start of location_potential
+		wsf_is_grasslands = yes #has to be grasslands to turn into farmland, mostly for balance and simplicity
+		NOR = { #cant be either arctic, mountains, or hills, mostly for balance and realism
+			climate = arctic #too cold
+			topography = mountains #too mountainous
+		}
+		wsf_is_farmland = no #cant convert to farmland if it is already farmland, works regardless if it is farmland via normal vegetation or modifiers
+		OR = { #either has to be next to a river, or next to a lake that isnt a salt pan, or on a wetland, or mediterranean and flatland, mostly for balance and realism
+			has_river = yes #you need water to farm
+			AND = { #has to be a lake but not a salt pan, so only fresh water counbts
+				is_adjacent_to_lake = yes #you need water to farm
+				NOT = { #salt pans are counted as lakes, so checks that no neighboring location can be a salt pan, so only fresh water lakes count
+					any_neighbor_location = { #would be performance intensive if used in large numbers, but since it is only used in places where a lake is adjacent, it's fine
+						topography = salt_pans #cant farm with salt water
+					}
+				}
+			}
+			topography = wetlands #were very often drained historically to make farmland
+			AND = {
+				climate = mediterranean #just very good climate for farming
+				topography = flatland #so you cant just build it everywhere mediteranean
+			}
+		}
+		cveg_is_changing_vegetation = no #so you cant build 2 of the same type of conflicting veg change buildings at once, like both grasslands to woods and grasslands to farmland
+		trigger_if = {
+			limit = { has_variable = cveg_temporary_remove_veg_building }
+			custom_tooltip = {
+				text = cveg_temporary_remove_veg_building_tooltip #custom tooltip because otherwise it just shows "does not have variable cveg_temporary_remove_veg_building" which is very unclear to the player
+				NOT = { has_variable = cveg_temporary_remove_veg_building }
+			}
+		}
+	}
+
+	unique_production_methods = {
+		cveg_veg_grasslands_to_farmland_maintenance = { #the name of these always have to be different from building to building to work
+			tools = 0.01 #needs at least something defined
+			category = building_maintenance
+		}
+	}
+
+	on_construction_started	= {
+		location = {
+			add_location_modifier = {
+				modifier = wsf_veg_change_ongoing #people moving in to work on the change of vegetation, and also going away from their other possible local jobs, also just done for balance
+			}
+		}
+	}
+
+	on_construction_ended = { #means that the modifier gets removed both when the building is done, and if you cancel it before it is done
+		location = {
+			remove_location_modifier = wsf_veg_change_ongoing
+		}
+	}
+
+	on_built = {
+		location = {
+			wsf_clear_veg_effect = yes #clears all change vegetation modifiers, no matter what, so no double modifiers or other confusion is possible
+			wsf_set_veg_to_farmland = yes #changes vegetation to farmland based on what the correct modifier for that would be, no matter what the actual basegame vegetation is defined as. if it is already farmland, no modifier gets applied and the old one just gets cleared
+			set_variable = { #also possible with a decaying modifier instead, but variable is less visible to the player and better for performance
+	 			name = cveg_temporary_remove_veg_building #name doesnt matter, just has to be the same as the remove_if check
+	  			months = 2 #2 months instead of 1, because if you build the building in the middle of the month it wouldnt remove it, because the variable would run out first
+			}
+		}
+	}
+
+	construction_demand = cveg_veg_grasslands_to_farmland_construction
+
+	modifier = { #this is only added so the AI knows what the building does so that it builds it, since the building gets removed on the month tick and the actual modifier applied
+		movement_cost = 0.10
+		local_distance_from_capital_speed_propagation = -0.05
+		local_road_building_time = 0.20
+		local_population_capacity = 50
+		local_monthly_development_modifier = 0.10
+		local_max_rgo_size_modifier = 0.10
+		local_monthly_food_modifier = 0.23
+		supply_limit = 3
+	}
+
+	remove_if = {
+		location = {
+			has_variable = cveg_temporary_remove_veg_building #the game first builds the building, and then on the month tick checks if the variable is there, so the building can both be build and then removed quickly afterwards
+		}
+	}	
+}
+
+
+#more grazing rgo buildings
+
+cveg_veg_sparse_to_grasslands = {
+	is_foreign = no
+	max_levels = 1
+	pop_type = laborers #needs at least something defined, and laborers make the most sense
+	
+	employment_size = 0.001 #needs some number to be defined
+	category = infrastructure_category
+
+	st_meg = yes #megalopolis expansion
+	st_met = yes #megalopolis expansion
+	city = yes
+	town = yes
+	rural_settlement = yes
+
+	price = cveg_veg_sparse_to_grasslands_price
+	build_time = cveg_veg_sparse_to_grasslands_build_time
+	
+	forbidden_for_estates = yes
+	
+	location_potential = { #there is an invisible AND at the start of location_potential
+		wsf_is_sparse = yes #has to be sparse to turn into grasslands
+		wsf_is_grasslands = no #cant convert to grasslands if it is already grasslands
+		NOT = {
+			climate = arctic #too cold for herding animals, and just in general
+		}
+		OR = { #either has to be next to a river, or next to a lake that isnt a salt pan, or on a wetland, or mediterranean and flatland, mostly for balance and realism
+			has_river = yes #you need water to farm
+			AND = { #has to be a lake but not a salt pan, so only fresh water counbts
+				is_adjacent_to_lake = yes #you need water to farm
+				NOT = { #salt pans are counted as lakes, so checks that no neighboring location can be a salt pan, so only fresh water lakes count
+					any_neighbor_location = { #would be performance intensive if used in large numbers, but since it is only used in places where a lake is adjacent, it's fine
+						topography = salt_pans #cant farm with salt water
+					}
+				}
+			}
+			topography = wetlands #were very often drained historically to make farmland or other types of more useful land
+			climate = mediterranean #just very good climate for farming and other activities
+			climate = cold_arid #can turn pretty much any cold arid place into grasslands with enough grazing animals according to ai, just takes a while and is a lot of work, and can easily get set back by winters culling the herd
+			AND = {
+				climate = arid #mountains, hills and plateaus in deserts could support grazing animals if done rightl, and would also be pretty seasonal
+				OR = {
+					topography = mountains
+					topography = hills
+					topography = plateau #not perfectly accurate for making grasslands, but could still support livestock if done right
+				}
+			}
+		}
+		cveg_is_changing_vegetation = no #so you cant build 2 of the same type of conflicting veg change buildings at once, like both grasslands to woods and grasslands to farmland
+		trigger_if = {
+			limit = { has_variable = cveg_temporary_remove_veg_building }
+			custom_tooltip = {
+				text = cveg_temporary_remove_veg_building_tooltip #custom tooltip because otherwise it just shows "does not have variable cveg_temporary_remove_veg_building" which is very unclear to the player
+				NOT = { has_variable = cveg_temporary_remove_veg_building }
+			}
+		}
+	}
+
+	unique_production_methods = {
+		cveg_veg_sparse_to_grasslands_maintenance = { #the name of these always have to be different from building to building to work
+			tools = 0.01 #needs at least something defined
+			category = building_maintenance
+		}
+	}
+
+	on_construction_started	= {
+		location = {
+			add_location_modifier = {
+				modifier = wsf_veg_change_ongoing #people moving in to work on the change of vegetation, and also going away from their other possible local jobs, also just done for balance
+			}
+		}
+	}
+
+	on_construction_ended = { #means that the modifier gets removed both when the building is done, and if you cancel it before it is done
+		location = {
+			remove_location_modifier = wsf_veg_change_ongoing
+		}
+	}
+
+	on_built = {
+		location = {
+			wsf_clear_veg_effect = yes #clears all change vegetation modifiers, no matter what, so no double modifiers or other confusion is possible
+			wsf_set_veg_to_grasslands = yes #changes vegetation to grasslands based on what the correct modifier for that would be
+			set_variable = { #also possible with a decaying modifier instead, but variable is less visible to the player and better for performance
+	 			name = cveg_temporary_remove_veg_building #name doesnt matter, just has to be the same as the remove_if check
+	  			months = 2 #2 months instead of 1, because if you build the building in the middle of the month it wouldnt remove it, because the variable would run out first
+			}
+		}
+	}
+
+	construction_demand = cveg_veg_sparse_to_grasslands_construction
+
+	modifier = { #this is only added so the AI knows what the building does so that it builds it, since the building gets removed on the month tick and the actual modifier applied
+		local_road_building_time = 0.10
+		local_population_capacity = 25
+		local_monthly_food_modifier = 0.1
+		supply_limit = 2
+	}
+
+	remove_if = {
+		location = {
+			has_variable = cveg_temporary_remove_veg_building #the game first builds the building, and then on the month tick checks if the variable is there, so the building can both be build and then removed quickly afterwards
+		}
+	}
+	
+}
+
+cveg_veg_desert_to_grasslands = {
+	is_foreign = no
+	max_levels = 1 #wouldnt make sense to have more than 1 level, because the building is only a utility to not have to make a UI and to make it so the AI can easily use it as well
+	pop_type = laborers #needs at least something defined, and laborers make the most sense
+	
+	employment_size = 0.001 #needs some number to be defined
+	category = infrastructure_category
+
+	st_meg = yes #megalopolis expansion
+	st_met = yes #megalopolis expansion
+	city = yes
+	town = yes
+	rural_settlement = yes
+
+	price = cveg_veg_desert_to_grasslands_price
+	build_time = cveg_veg_desert_to_grasslands_build_time
+	
+	forbidden_for_estates = yes #dont want the estates cutting down all your forests in the mini standalone version, but could be an idea for a mod, since if you owned a bunch of land, you could often choose to cut down woods as you please
+	
+	location_potential = { #there is an invisible AND at the start of location_potential
+		wsf_is_desert = yes #has to be desert to turn into grasslands
+		wsf_is_grasslands = no #cant convert to grasslands if it is already grasslands
+		NOT = {
+			climate = arctic #too cold for herding animals, and just in general
+		}
+		OR = { #either has to be next to a river, or next to a lake that isnt a salt pan, or on a wetland, or mediterranean and flatland, mostly for balance and realism
+			has_river = yes #you need water to farm
+			AND = { #has to be a lake but not a salt pan, so only fresh water counbts
+				is_adjacent_to_lake = yes #you need water to farm
+				NOT = { #salt pans are counted as lakes, so checks that no neighboring location can be a salt pan, so only fresh water lakes count
+					any_neighbor_location = { #would be performance intensive if used in large numbers, but since it is only used in places where a lake is adjacent, it's fine
+						topography = salt_pans #cant farm with salt water
+					}
+				}
+			}
+			topography = wetlands #were very often drained historically to make farmland or other types of more useful land
+			climate = mediterranean #just very good climate for farming and other activities
+			climate = cold_arid #can turn pretty much any cold arid place into grasslands with enough grazing animals according to ai, just takes a while and is a lot of work, and can easily get set back by winters culling the herd
+			AND = {
+				climate = arid #mountains, hills and plateaus in deserts could support grazing animals if done rightl, and would also be pretty seasonal
+				OR = {
+					topography = mountains
+					topography = hills
+					topography = plateau #not perfectly accurate for making grasslands, but could still support livestock if done right
+				}
+			}
+		}
+		cveg_is_changing_vegetation = no #so you cant build 2 of the same type of conflicting veg change buildings at once, like both grasslands to woods and grasslands to farmland
+		trigger_if = {
+			limit = { has_variable = cveg_temporary_remove_veg_building }
+			custom_tooltip = {
+				text = cveg_temporary_remove_veg_building_tooltip #custom tooltip because otherwise it just shows "does not have variable cveg_temporary_remove_veg_building" which is very unclear to the player
+				NOT = { has_variable = cveg_temporary_remove_veg_building }
+			}
+		}
+	}
+
+	unique_production_methods = {
+		cveg_veg_desert_to_grasslands_maintenance = { #the name of these always have to be different from building to building to work, doesnt matter what the name actually is tho
+			tools = 0.01 #needs at least something defined, tools are hardcoded and should be present in every market anyway
+			category = building_maintenance
+		}
+	}
+
+	on_construction_started	= {
+		location = {
+			add_location_modifier = {
+				modifier = wsf_veg_change_ongoing #people moving in to work on the change of vegetation, and also going away from their other possible local jobs, also just done for balance
+			}
+		}
+	}
+
+	on_construction_ended = { #means that the modifier gets removed both when the building is done, and if you cancel it before it is done
+		location = {
+			remove_location_modifier = wsf_veg_change_ongoing
+		}
+	}
+
+	on_built = {
+		location = {
+			wsf_clear_veg_effect = yes #clears all change vegetation modifiers, no matter what, so no double modifiers or other confusion is possible
+			wsf_set_veg_to_grasslands = yes #changes vegetation to grasslands based on what the correct modifier for that would be
+			set_variable = { #also possible with a decaying modifier instead, but variable is less visible to the player and better for performance
+ 				name = cveg_temporary_remove_veg_building #name doesnt matter, just has to be the same as the remove_if check
+  				months = 2 #2 months instead of 1, because if you build the building in the middle of the month it wouldnt remove it, because the variable would run out first
+			}
+		}
+	}
+
+	construction_demand = cveg_veg_desert_to_grasslands_construction
+
+	modifier = { #this is only added so the AI knows what the building does so that it builds it, since the building gets removed on the month tick and the actual modifier applied
+		movement_cost = -0.1
+		local_distance_from_capital_speed_propagation = 0.05
+		local_rgo_build_time = -0.5
+		local_road_building_time = -1.0
+		local_population_capacity = 40
+		local_monthly_development_modifier = 0.33
+		local_monthly_food_modifier = 0.43
+		supply_limit = 7
+	}
+
+	remove_if = {
+		location = {
+			has_variable = cveg_temporary_remove_veg_building #the game first builds the building, and then on the month tick checks if the variable is there, so the building can both be build and then removed quickly afterwards
+		}
+	}
+	
+}

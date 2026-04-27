@@ -1080,6 +1080,32 @@
  cement: "Cement"
  cement_desc: "Cement description"
 
+ ceramic: "Ceramic" #ai
+ ceramic_desc: "Ceramic materials including tiles, sanitary fixtures, and electrical insulators. Essential for bathrooms, electrical systems, and heat-resistant construction elements." #ai
+
+ fiberglass: "Fiberglass" #ai
+ fiberglass_desc: "Glass fiber materials used for reinforcement in construction. Key component in [ShowGoodsName('insulation')], structural composite panels, and modern building materials." #ai
+
+ rubber: "Rubber" #ai
+ rubber_desc: "Elastomer materials for seals, gaskets, expansion joints, and vibration dampening. Critical for infrastructure durability and mechanical isolation in buildings." #ai
+
+ insulation: "Insulation" #ai
+ insulation_desc: "Thermal and acoustic insulation materials for energy efficiency and comfort. Can be produced from [ShowGoodsName('fiberglass')] or mineral wool." #ai
+
+ adhesive: "Adhesive" #ai
+ adhesive_desc: "Bonding agents and resins for joining construction materials. Made from [ShowGoodsName('plastic')], used in everything from structural epoxies to general-purpose adhesives." #ai
+
+ sealant: "Sealant" #ai
+ sealant_desc: "Weatherproofing and gap-filling materials that prevent water, air, and dust infiltration. Made from [ShowGoodsName('plastic')] or [ShowGoodsName('rubber')], essential for building durability." #ai
+
+ paint: "Paint" #ai
+ paint_desc: "Protective coatings and finishes providing aesthetic appeal and protection against the elements. Made from pigments combined with [ShowGoodsName('plastic')] or [ShowGoodsName('adhesive')]." #ai
+
+ utilities: "Utilities" #ai
+ utilities_desc: "Building infrastructure systems including electrical distribution, HVAC equipment, fire safety systems, and building automation. Requires [ShowGoodsName('copper')], [ShowGoodsName('steel')], and [ShowGoodsName('plastic')]." #ai
+
+ #\n\n[ShowBuildingTypeName('building_name')]
+
 
 
  #expertise goods
