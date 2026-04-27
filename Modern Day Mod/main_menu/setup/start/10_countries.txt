@@ -53,7 +53,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = afgh_hibatullah_akhundzada
+             # ruler = afgh_hibatullah_akhundzada
          }
       }
 
@@ -76,7 +76,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = alb_bajram_begaj
+             # ruler = alb_bajram_begaj
          }
       }
 
@@ -1310,7 +1310,8 @@ countries = {
             borohoro2 tian_shan24 tian_shan6 tian_shan3 pamir2 taklamakan1 tian_shan1 pamir1 altay_mountains_et1 mongol_altay_mountains_et
             tibet_passage_et2 karakoram1 karakoram_et1 kunlun1 tibet_passage_et1 taklamakan5 karakoram4 himalaya7 himalaya14 himalaya8
             gangdise8 himalaya9 himalaya10 himalaya13 himalaya11 himalaya15 himalaya12 gangdise5 himalaya16 himalaya18
-            nyainqentanglha3 himalaya19 himalaya20 himalaya21 xueshan_yunnan nushan saur_et shan_hills2 fan_si_mountains_et
+            nyainqentanglha3 himalaya19 himalaya20 himalaya21 xueshan_yunnan nushan saur_et shan_hills2 fan_si_mountains_et new115
+            new114 new113 new116 new107 new108 new109 new110 new111 new112
          }
 
          #include = "republic"
@@ -2320,7 +2321,7 @@ countries = {
             vaihingen waldburg waldsee welzheim wertingen baden bensheim bonndorf bruchsal buchen
             calw durlach erbach freiburg furstenberg germersheim hachberg heidelberg heilbronn kaiserslautern
             landau_rhineland leiningen mosbach mullheim nagold neustadt_an_der_haardt oberkirch oberndorf offenburg pirmasens
-            sinsheim speyer villingen waldshut zweibrucken
+            sinsheim speyer villingen waldshut zweibrucken amrum_island_wasteland
          }
 
          #include = "republic"
@@ -4141,7 +4142,8 @@ countries = {
             roermond venlo weert hulst appingedam assen coevorden deventer groningen harlingen
             kampen leeuwarden meppel oldenzaal sloten stavoren wedde wolvega zwolle alkmaar
             amersfoort amsterdam apeldoorn arnhem doetinchem dordrecht geertruidenberg harderwijk hoorn leiden
-            middelburg nijmegen rotterdam the_hague tiel utrecht zutphen new93
+            middelburg nijmegen rotterdam the_hague tiel utrecht zutphen new93 new119 new117
+            new118 new130
          }
 
          include = "expl_mdm_whole_world"
@@ -4402,7 +4404,7 @@ countries = {
             rub_al_khali5 new781 new780 new779 new778 new777 new809 new818 new829 new820
             new815 new814 new828 new807 new827 new822 new823 new812 new824 new821
             new816 new806 new785 new782 new784 new817 new783 new810 new825 new826
-            new813 new808 new819 new811
+            new813 new808 new819 new811 new105
          }
 
          #include = "muslim_monarchy"
@@ -5841,7 +5843,7 @@ countries = {
             qusayr qutayfah salamiyya tartus zardana abu_kemal bara_iraq barqaid hasakah rahba
             ras_ayn tunanir arak bosra burraq deir_ez_zor ithriya qaryatayn salkhad sukhnah
             suwayda tabqah tadmur taybah syrian_desert_corridor1 al_jazair_desert syrian_desert12 syrian_desert_corridor7 syrian_desert4 syrian_desert3
-            mountain_druze antilebanon_mountains3
+            mountain_druze antilebanon_mountains3 new101 new102 new104 new103
          }
 
          #include = "republic"
@@ -6508,7 +6510,8 @@ countries = {
             utqiagvik gwazhal_hills kugmiut_uplands chichijima kita_iwo_jima hahajima iwo_jima uracas maug agrihan
             alamagan pagan_island noos anatahan rota guahan_atoll nikumaroro_atoll manra_atoll orona_atoll kanton_atoll
             mauna_loa nihoa mokumanamana kanemilohai_atoll kauo papa_apoho_atoll holaniku_atoll kuaihelani_atoll holoikauaua_atoll vieques_island
-            mona_island aburakeiru
+            mona_island aburakeiru new128 new129 new126 new127 new125 new124 new123 new122
+            new121 new120
          }
 
          #include = "republic"
