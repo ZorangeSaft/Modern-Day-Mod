@@ -53,7 +53,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = afgh_hibatullah_akhundzada
+             # ruler = afgh_hibatullah_akhundzada
          }
       }
 
@@ -76,7 +76,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = alb_bajram_begaj
+             # ruler = alb_bajram_begaj
          }
       }
 
@@ -2880,7 +2880,10 @@ countries = {
             zagros_mountains13 elburz_mountains10 elburz_mountains9 zagros_mountains10 elburz_mountains8 zagros_mountains14 elburz_mountains7 dasht_kavir1 elburz_mountains6 zagros_mountains11
             zagros_mountains9 zagros_mountains3 zagros_mountains8 zagros_mountains7 zagros_mountains6 elburz_mountains5 zagros_mountains5 elburz_mountains4 elburz_mountains3 elburz_mountains2
             elburz_mountains1 zagros_mountains4 qaradagh_mountains4 qaradagh_mountains2 qaradagh_mountains3 qaradagh_mountains1 east_taurus_6 zagros_mountains1 zagros_mountains_et1 mahabad
-            zagros_mountains21 dasht_lut3 khorasan_mountains1 khorasan_mountains2
+            zagros_mountains21 dasht_lut3 khorasan_mountains1 khorasan_mountains2 new926 new914 new921 new930 new919 new916
+            new910 new932 new934 new936 new931 new935 new933 new922 new911 new927
+            new929 new912 new918 new924 new909 new928 new915 new923 new913 new925
+            new917 new907 new920 new908
          }
 
          #include = "muslim_monarchy"
@@ -2908,7 +2911,12 @@ countries = {
             tuz_khurma ukbara wasit zuwayr al_sinn anah balad duhok haditha mosul
             qayyarah rutba sinjar tal_afar sahrazur sulaymaniyah amadiya zakho syrian_desert_corridor9 syrian_desert_corridor3
             syrian_desert_corridor6 syrian_desert_corridor13 tharthar jazair syrian_desert5 syrian_desert_corridor12 syrian_desert_corridor5 syrian_desert6 syrian_desert_corridor_et syrian_desert7
-            al_ijarah syrian_desert_corridor8
+            al_ijarah syrian_desert_corridor8 new851 new854 new849 new852 new857 new853 new847 new905
+            new856 new850 new848 new855 new863 new902 new860 new885 new883 new886
+            new880 new888 new887 new884 new903 new904 new901 new895 new889 new906
+            new899 new891 new900 new897 new894 new893 new898 new890 new892 new896
+            new876 new858 new879 new881 new878 new877 new861 new859 new862 new882
+            syrian_desert11
          }
 
          #include = "republic"
@@ -3145,7 +3153,8 @@ countries = {
 
          own_control_core = {
             al_quwayrah amman aqaba azraq irbid karak maan madaba ruwaished shoubak
-            syrian_desert_corridor10 syrian_desert_corridor4 syrian_desert_corridor2 syrian_desert13 jordan_desert_corridor1 syrian_desert2 syrian_desert1
+            syrian_desert_corridor10 syrian_desert_corridor4 syrian_desert_corridor2 syrian_desert13 jordan_desert_corridor1 syrian_desert2 syrian_desert1 new874 new870 new872
+            new875 new873 new871 new95
          }
 
          #include = "muslim_monarchy"
@@ -3302,7 +3311,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            ash_shuaybah kazimah qurain syrian_desert14
+            ash_shuaybah kazimah qurain syrian_desert14 new100 new99
          }
 
          #include = "muslim_monarchy"
@@ -5156,23 +5165,24 @@ countries = {
             sabya samakh tabalah tanomah tathlith turbah yadamah rub_al_khali_corridor1 shaybah al_jafurah1
             rumah_jarrarah_corridor al_jafurah2 ad_dahna4 ad_dahna5 ad_dibdibah tanumah_mashdhubah_corridor ad_dahna3 ad_dahna2 ad_dahna1 syrian_desert_corridor11
             syrian_desert9 syrian_desert10 an_nafud4 ash_shamli_tayma_corridor an_nafud3 bir_fajr_tayma_corridor bir_fajr_basithah_corridor an_nafud2 an_nafud1 syrian_desert8
-            rub_al_khali_corridor12 ar_rakbah2 ar_rakbah1 rub_al_khali_corridor10 rub_al_khali1 rub_al_khali_corridor9 rub_al_khali15 syrian_desert11 new836 new837
-            new831 new833 new832 new838 new840 new834 new793 new795 new796 new843
-            new835 new792 new830 new794 new846 new839 new790 new791 new842 new841
-            new797 new845 new844 new787 new788 new789 new786 new708 new626 new628
-            new639 new641 new638 new637 new636 new631 new630 new621 new644 new640
-            new643 new642 new635 new634 new632 new648 new647 new633 new625 new624
-            new629 new623 new727 new701 new622 new611 new612 new619 new620 new732
-            new714 new610 new616 new618 new608 new609 new614 new615 new617 new698
-            new711 new739 new605 new607 new613 new604 new601 new606 new675 new703
-            new673 new724 new603 new650 new657 new600 new672 new646 new649 new645
-            new715 new734 new736 new654 new602 new656 new653 new651 new652 new655
-            new716 new697 new719 new676 new694 new725 new700 new729 new693 new713
-            new704 new723 new692 new691 new687 new685 new681 new686 new683 new682
-            new680 new678 new677 new689 new695 new679 new684 new690 new740 new735
-            new726 new688 new705 new710 new674 new720 new707 new730 new718 new737
-            new733 new706 new717 new702 new728 new742 new696 new741 new722 new709
-            new731 new712 new721 new738 new699 new1 new658 new671 sharurah
+            rub_al_khali_corridor12 ar_rakbah2 ar_rakbah1 rub_al_khali_corridor10 rub_al_khali1 rub_al_khali_corridor9 rub_al_khali15 new836 new837 new831
+            new833 new832 new838 new840 new834 new793 new795 new796 new843 new835
+            new792 new830 new794 new846 new839 new790 new791 new842 new841 new797
+            new845 new844 new787 new788 new789 new786 new708 new626 new628 new639
+            new641 new638 new637 new636 new631 new630 new621 new644 new640 new643
+            new642 new635 new634 new632 new648 new647 new633 new625 new624 new629
+            new623 new727 new701 new622 new611 new612 new619 new620 new732 new714
+            new610 new616 new618 new608 new609 new614 new615 new617 new698 new711
+            new739 new605 new607 new613 new604 new601 new606 new675 new703 new673
+            new724 new603 new650 new657 new600 new672 new646 new649 new645 new715
+            new734 new736 new654 new602 new656 new653 new651 new652 new655 new716
+            new697 new719 new676 new694 new725 new700 new729 new693 new713 new704
+            new723 new692 new691 new687 new685 new681 new686 new683 new682 new680
+            new678 new677 new689 new695 new679 new684 new690 new740 new735 new726
+            new688 new705 new710 new674 new720 new707 new730 new718 new737 new733
+            new706 new717 new702 new728 new742 new696 new741 new722 new709 new731
+            new712 new721 new738 new699 new1 new658 new671 sharurah new97 new98
+            new867 new864 new865 new866
          }
 
          #include = "muslim_monarchy"
@@ -6147,7 +6157,7 @@ countries = {
          own_control_core = {
             sir_bani_yas abu_dhabi al_ayn al_dhaid dubai julfar khor_fakkan marawah sharjah rub_al_khali4
             rub_al_khali3 liwa new661 new660 new659 new664 new663 new662 new666 new667
-            new665 new668 new669 new670
+            new665 new668 new669 new670 new96
          }
 
          #include = "republic"
