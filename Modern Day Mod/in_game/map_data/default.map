@@ -1,4 +1,4 @@
-provinces = "locations.png"
+﻿provinces = "locations.png"
 rivers = "rivers.png"
 topology = "heightmap.heightmap"
 adjacencies = "adjacencies.csv"
@@ -1195,6 +1195,62 @@ lakes = {
 
 	iro_lake kurile_lake
 	ulakhan_kyuel_lake ozero_sytygan_lake ozero_kubuy_lake ozero_orotko_lake ozero_laydy_kyuyel_lake elgygytgyn_lake munduyskoye_lake
+
+
+
+
+	###mdm modern day mod
+	#mass added new lakes
+	lake1 lake2 lake3 lake4 lake5 lake6 lake7 lake8 lake9 lake10 lake11 lake12 lake13 lake14 lake15 lake16 lake17 lake18 lake19 lake20
+	lake21 lake22 lake23 lake24 lake25 lake26 lake27 lake28 lake29 lake30 lake31 lake32 lake33 lake34 lake35 lake36 lake37 lake38 lake39 lake40
+	lake41 lake42 lake43 lake44 lake45 lake46 lake47 lake48 lake49 lake50 lake51 lake52 lake53 lake54 lake55 lake56 lake57 lake58 lake59 lake60
+	lake61 lake62 lake63 lake64 lake65 lake66 lake67 lake68 lake69 lake70 lake71 lake72 lake73 lake74 lake75 lake76 lake77 lake78 lake79 lake80
+	lake81 lake82 lake83 lake84 lake85 lake86 lake87 lake88 lake89 lake90 lake91 lake92 lake93 lake94 lake95 lake96 lake97 lake98 lake99 lake100
+	lake101 lake102 lake103 lake104 lake105 lake106 lake107 lake108 lake109 lake110 lake111 lake112 lake113 lake114 lake115 lake116 lake117 lake118 lake119 lake120
+	lake121 lake122 lake123 lake124 lake125 lake126 lake127 lake128 lake129 lake130 lake131 lake132 lake133 lake134 lake135 lake136 lake137 lake138 lake139 lake140
+	lake141 lake142 lake143 lake144 lake145 lake146 lake147 lake148 lake149 lake150 lake151 lake152 lake153 lake154 lake155 lake156 lake157 lake158 lake159 lake160
+	lake161 lake162 lake163 lake164 lake165 lake166 lake167 lake168 lake169 lake170 lake171 lake172 lake173 lake174 lake175 lake176 lake177 lake178 lake179 lake180
+	lake181 lake182 lake183 lake184 lake185 lake186 lake187 lake188 lake189 lake190 lake191 lake192 lake193 lake194 lake195 lake196 lake197 lake198 lake199 lake200
+	lake201 lake202 lake203 lake204 lake205 lake206 lake207 lake208 lake209 lake210 lake211 lake212 lake213 lake214 lake215 lake216 lake217 lake218 lake219 lake220
+	lake221 lake222 lake223 lake224 lake225 lake226 lake227 lake228 lake229 lake230 lake231 lake232 lake233 lake234 lake235 lake236 lake237 lake238 lake239 lake240
+	lake241 lake242 lake243 lake244 lake245 lake246 lake247 lake248 lake249 lake250 lake251 lake252 lake253 lake254 lake255 lake256 lake257 lake258 lake259 lake260
+	lake261 lake262 lake263 lake264 lake265 lake266 lake267 lake268 lake269 lake270 lake271 lake272 lake273 lake274 lake275 lake276 lake277 lake278 lake279 lake280
+	lake281 lake282 lake283 lake284 lake285 lake286 lake287 lake288 lake289 lake290 lake291 lake292 lake293 lake294 lake295 lake296 lake297 lake298 lake299 lake300
+	lake301 lake302 lake303 lake304 lake305 lake306 lake307 lake308 lake309 lake310 lake311 lake312 lake313 lake314 lake315 lake316 lake317 lake318 lake319 lake320
+	lake321 lake322 lake323 lake324 lake325 lake326 lake327 lake328 lake329 lake330 lake331 lake332 lake333 lake334 lake335 lake336 lake337 lake338 lake339 lake340
+	lake341 lake342 lake343 lake344 lake345 lake346 lake347 lake348 lake349 lake350 lake351 lake352 lake353 lake354 lake355 lake356 lake357 lake358 lake359 lake360
+	lake361 lake362 lake363 lake364 lake365 lake366 lake367 lake368 lake369 lake370 lake371 lake372 lake373 lake374 lake375 lake376 lake377 lake378 lake379 lake380
+	lake381 lake382 lake383 lake384 lake385 lake386 lake387 lake388 lake389 lake390 lake391 lake392 lake393 lake394 lake395 lake396 lake397 lake398 lake399 lake400
+	lake401 lake402 lake403 lake404 lake405 lake406 lake407 lake408 lake409 lake410 lake411 lake412 lake413 lake414 lake415 lake416 lake417 lake418 lake419 lake420
+	lake421 lake422 lake423 lake424 lake425 lake426 lake427 lake428 lake429 lake430 lake431 lake432 lake433 lake434 lake435 lake436 lake437 lake438 lake439 lake440
+	lake441 lake442 lake443 lake444 lake445 lake446 lake447 lake448 lake449 lake450 lake451 lake452 lake453 lake454 lake455 lake456 lake457 lake458 lake459 lake460
+	lake461 lake462 lake463 lake464 lake465 lake466 lake467 lake468 lake469 lake470 lake471 lake472 lake473 lake474 lake475 lake476 lake477 lake478 lake479 lake480
+	lake481 lake482 lake483 lake484 lake485 lake486 lake487 lake488 lake489 lake490 lake491 lake492 lake493 lake494 lake495 lake496 lake497 lake498 lake499 lake500
+	lake501 lake502 lake503 lake504 lake505 lake506 lake507 lake508 lake509 lake510 lake511 lake512 lake513 lake514 lake515 lake516 lake517 lake518 lake519 lake520
+	lake521 lake522 lake523 lake524 lake525 lake526 lake527 lake528 lake529 lake530 lake531 lake532 lake533 lake534 lake535 lake536 lake537 lake538 lake539 lake540
+	lake541 lake542 lake543 lake544 lake545 lake546 lake547 lake548 lake549 lake550 lake551 lake552 lake553 lake554 lake555 lake556 lake557 lake558 lake559 lake560
+	lake561 lake562 lake563 lake564 lake565 lake566 lake567 lake568 lake569 lake570 lake571 lake572 lake573 lake574 lake575 lake576 lake577 lake578 lake579 lake580
+	lake581 lake582 lake583 lake584 lake585 lake586 lake587 lake588 lake589 lake590 lake591 lake592 lake593 lake594 lake595 lake596 lake597 lake598 lake599 lake600
+	lake601 lake602 lake603 lake604 lake605 lake606 lake607 lake608 lake609 lake610 lake611 lake612 lake613 lake614 lake615 lake616 lake617 lake618 lake619 lake620
+	lake621 lake622 lake623 lake624 lake625 lake626 lake627 lake628 lake629 lake630 lake631 lake632 lake633 lake634 lake635 lake636 lake637 lake638 lake639 lake640
+	lake641 lake642 lake643 lake644 lake645 lake646 lake647 lake648 lake649 lake650 lake651 lake652 lake653 lake654 lake655 lake656 lake657 lake658 lake659 lake660
+	lake661 lake662 lake663 lake664 lake665 lake666 lake667 lake668 lake669 lake670 lake671 lake672 lake673 lake674 lake675 lake676 lake677 lake678 lake679 lake680
+	lake681 lake682 lake683 lake684 lake685 lake686 lake687 lake688 lake689 lake690 lake691 lake692 lake693 lake694 lake695 lake696 lake697 lake698 lake699 lake700
+	lake701 lake702 lake703 lake704 lake705 lake706 lake707 lake708 lake709 lake710 lake711 lake712 lake713 lake714 lake715 lake716 lake717 lake718 lake719 lake720
+	lake721 lake722 lake723 lake724 lake725 lake726 lake727 lake728 lake729 lake730 lake731 lake732 lake733 lake734 lake735 lake736 lake737 lake738 lake739 lake740
+	lake741 lake742 lake743 lake744 lake745 lake746 lake747 lake748 lake749 lake750 lake751 lake752 lake753 lake754 lake755 lake756 lake757 lake758 lake759 lake760
+	lake761 lake762 lake763 lake764 lake765 lake766 lake767 lake768 lake769 lake770 lake771 lake772 lake773 lake774 lake775 lake776 lake777 lake778 lake779 lake780
+	lake781 lake782 lake783 lake784 lake785 lake786 lake787 lake788 lake789 lake790 lake791 lake792 lake793 lake794 lake795 lake796 lake797 lake798 lake799 lake800
+	lake801 lake802 lake803 lake804 lake805 lake806 lake807 lake808 lake809 lake810 lake811 lake812 lake813 lake814 lake815 lake816 lake817 lake818 lake819 lake820
+	lake821 lake822 lake823 lake824 lake825 lake826 lake827 lake828 lake829 lake830 lake831 lake832 lake833 lake834 lake835 lake836 lake837 lake838 lake839 lake840
+	lake841 lake842 lake843 lake844 lake845 lake846 lake847 lake848 lake849 lake850 lake851 lake852 lake853 lake854 lake855 lake856 lake857 lake858 lake859 lake860
+	lake861 lake862 lake863 lake864 lake865 lake866 lake867 lake868 lake869 lake870 lake871 lake872 lake873 lake874 lake875 lake876 lake877 lake878 lake879 lake880
+	lake881 lake882 lake883 lake884 lake885 lake886 lake887 lake888 lake889 lake890 lake891 lake892 lake893 lake894 lake895 lake896 lake897 lake898 lake899 lake900
+	lake901 lake902 lake903 lake904 lake905 lake906 lake907 lake908 lake909 lake910 lake911 lake912 lake913 lake914 lake915 lake916 lake917 lake918 lake919 lake920
+	lake921 lake922 lake923 lake924 lake925 lake926 lake927 lake928 lake929 lake930 lake931 lake932 lake933 lake934 lake935 lake936 lake937 lake938 lake939 lake940
+	lake941 lake942 lake943 lake944 lake945 lake946 lake947 lake948 lake949 lake950 lake951 lake952 lake953 lake954 lake955 lake956 lake957 lake958 lake959 lake960
+	lake961 lake962 lake963 lake964 lake965 lake966 lake967 lake968 lake969 lake970 lake971 lake972 lake973 lake974 lake975 lake976 lake977 lake978 lake979 lake980
+	lake981 lake982 lake983 lake984 lake985 lake986 lake987 lake988 lake989 lake990 lake991 lake992 lake993 lake994 lake995 lake996 lake997 lake998 lake999 lake1000
 } 
 
 #####################
