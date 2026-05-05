@@ -628,7 +628,7 @@ countries = {
 
          own_control_core = {
             bihac borac doboj drijeva dubica gacko glamoc glaz gradiski_brod jajce
-            kljuc konjic kozara livno mostar nevesinje olovo soli srb srebrenica
+            kljuc konjic kozara livno mostar nevesinje olovo soli srebrenica
             srebrenik teocak trebinje ustikolina vrhbosna zenica visegrad dinaric_alps2 dinaric_alps3 dinaric_alps4
          }
 
@@ -1520,7 +1520,7 @@ countries = {
             brac crikvenica dubrovnik kaseg knin krk makarska metkovic novigrad otocac
             pag pazin pola rijeka rovinj senj sibenik sinj slano split
             zadar bjelovar ilok karlovac koprivnica kutina osijek pakrac petrinja pozega
-            sisak slunj varazdin vaska virovitica vukovar zagreb cakovec mohacs dinaric_alps1
+            sisak slunj srb varazdin vaska virovitica vukovar zagreb cakovec mohacs dinaric_alps1
             dinaric_alps9 lastovo_island_wasteland
          }
 
