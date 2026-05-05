@@ -161,7 +161,7 @@ countries = {
             south_letota aco ambaca amboim ambriz ambrizete ayo bondo bramas bumbe
             cabinda_kongo cahenda calumbo chimuande demba dondo egito gunza_anbamba icalo imbangala
             kabafa karia kassanje_malemba katobe_a_mubebe kuido kulembe kuneni kusike labolo libolo
-            loge longa luanda lucala luquemba malanji malemba matamba mbaba mbangala
+            loge longa lower_pinda luanda lucala luquemba malanji malemba matamba mbaba mbangala
             mbanza_soyo mbondo mecumba mumbos mussende mussul muxima muxima_ayo nanboa_angonga nbengo
             ndalatando ndembo ngololo nogui nsolu oacco pende_kongo pove pungo_ndongo quibala
             samba_kongo shanfana soyo sumbis tamba tamba_ambriz tende jonga_pansa kafsanji kajenje
@@ -1241,8 +1241,8 @@ countries = {
             muli nakchu nubzur nyachukha nyarong pasho pema pembar pome rahor
             rima riwoche rongpo samda sampheling sangacho sangme sershul serta shar_yelpuk
             sho shopando shukden shukjung sibda sok tangkya tengchen tromge trotsang
-            tsakhalkho waerhdje wara_kham yangdzong yungdrung zhanggu baryang dargyeling drangtse dungkar
-            dzongkar gartok gyanema khyunglung ormogang purang rala rutok tashigang tokchen
+            tsakhalkho waerhdje wara_kham yangdzong yungdrung zhanggu baryang dargyeling dungkar
+            dzongkar gartok gyanema khyunglung ormogang purang rala rutok tokchen
             toling tradun tsaparang tsherlung chorten_nyima dingri ganden_delingshar gonga_chode gyantse jonang
             lhadrak namling nenying ngamring nyalam pelmo ralung sakya shigatse tagmo_lingkha
             tropu tsangdram buchu chikchar daklha_gampo damzhung densatil drigung galo gongkar
@@ -2741,7 +2741,7 @@ countries = {
             datia aravali_range thar_desert_bikaner little_rann_of_kutch thar_desert thar_desert_2 tharparkar_desert simlipal_hills gorumahisani_range himalaya3
             himalaya1 karakoram2 himalayas_chanda_3 pir_panjal_range pangi_range kashmiri_himalayas pir_panjal_range_2 himalaya6 himalayas_chanda himalayas_chanda_2
             himalaya5 himalaya2 himalaya_et1 himalaya_et2 himalaya23 himalaya_et9 himalaya_et10 himalaya_et11 himalaya_et12 naga_hills_et1
-            naga_hills_et2 naga_hills_et3 naga_hills1 himalaya_et7 barren_island
+            naga_hills_et2 naga_hills_et3 naga_hills1 himalaya_et7 barren_island drangtse tashigang 
          }
 
          #include = "republic"
@@ -4111,7 +4111,7 @@ countries = {
             katima lukana mamele ombongo basarwa hoachanas kharakhoen khaugoan khowesen ogain
             xam aakhoe aonin bayei damara ezorongondo haiom himba namaqua otjozondjii
             ovaherero owambo tjimba hambukushu juhoansi kwangali najama odonga omatako omuthiya
-            oukwanyama uukwambi xun etosha_salt_pan ombombo_mountains lower_pinda otjiwarongo_mountains hakos_mountains mocamedes_desert garibams
+            oukwanyama uukwambi xun etosha_salt_pan ombombo_mountains otjiwarongo_mountains hakos_mountains mocamedes_desert garibams
             tsau tsaris_mountains namib_desert nakop kharooan bondelswarts karas
          }
 
