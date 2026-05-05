@@ -104,6 +104,7 @@ countries = {
             ghardaia_el_golea_corridor sahel_corridor34 el_djouf3 tabelbala_charouine_corridor tabelbala_taghaza_corridor1 el_eglab_masif2 tanezrouft_desert_et2 tanezrouft_desert_et1 tademait_plateau1 grand_erg_occidental
             plain_tamlelt1 skikda_mountain sbiba_mountain western_tablate_mountain tablate_mountain northern_tedemait eastern_tablate_mountain tellatlas bades_mountain2 burg_bu_mountain2
             burg_bu_mountain1 stif_mountain bades_mountain1 talak_desert_et1 sahara_passage_et8 sahel_corridor21 abalessa_djanet_corridor sahel_corridor23 tenere_et1
+			el_djouf4 sahel_corridor32 sahara_passage_et6 el_djouf_et5 sahara_passage_et7 
          }
 
          #include = "republic"
@@ -4017,9 +4018,9 @@ countries = {
             skoura tafraout taghjijt tagmadert tamdoult taroudant tata_MOR taznakht tazzarine tidsi
             tiout tissint tiznit tizounine todgha aousserd bojador dakhla laayoune smara
             tantan western_rif plain_of_tamlelt_et1 plain_of_tamlelt_et2 plain_tamlelt4 moulouya_corridor3 lower_rif rif north_middle_atlas south_middle_atlas2
-            sahel_corridor32 plain_tamlelt2 east_high_atlas ksar_es_souk_bechar_corridor moulouya_corridor2 plain_tamlelt3 moulouya_corridor1 sahel_corridor08 beni_sabih_tabelbala_corridor south_middle_atlas1
+            plain_tamlelt2 east_high_atlas ksar_es_souk_bechar_corridor moulouya_corridor2 plain_tamlelt3 moulouya_corridor1 sahel_corridor08 beni_sabih_tabelbala_corridor south_middle_atlas1
             western_high_atlas2 eastern_high_atlas1 eastern_anti_atlas eastern_high_atlas2 high_atlas1 western_high_atlas1 high_atlas2 middle_high_atlas anti_atlas2 anti_atlas1
-            el_djouf_et4 sahara_passage_et6 sahara_passage_et7 el_djouf5 el_eglab_massif_et1 el_djouf_et5 sahel_corridor31 el_djouf4 el_djouf_et3 el_djouf2
+            el_djouf_et4 el_djouf5 el_eglab_massif_et1 sahel_corridor31 el_djouf_et3 el_djouf2
             sahel_corridor33 el_djouf1 erg_amatlich al_kuwayra al_mahbes
          }
 
