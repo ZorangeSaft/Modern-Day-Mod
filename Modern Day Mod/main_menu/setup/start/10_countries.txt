@@ -2032,7 +2032,7 @@ countries = {
             sastmola sauvo savonranta sjundea storkyro sysma tavastehus veckelax vederlax viitasaari
             villmanstrand vora ilomantsi joensuu juuka lieksa mohko nurmes vartsila brahestad
             enare enontakis ivalo kajana kasivarren kemijarvi kiemi kittila korvala kuhmo
-            kuivaniemi kuusamo mourionska nunnanen paltamo posio pudasjarvi ranua rovaniemi salla
+            kuivaniemi kuusamo nunnanen paltamo posio pudasjarvi ranua rovaniemi salla
             savukoski siikalatva simo sodankyla sotkamo suomussalmi taivalkoski uleaborg utajarvi utsjoki
             kastelholm lapland_taiga1
          }
@@ -5787,7 +5787,7 @@ countries = {
             helsingborg kungsbacka laholm lund malmo osby ronneby solvesborg varberg arboga
             avesta enkoping falun farnebo floda fryksdal gefle gillberg goksholm grange
             grythyttan hamrange heby hedemora hedesunda idre josse kolmarden leksand linde
-            malung mora nas nora nordmark norrtalje nykoping ockelbo oppunda orebro
+            malung mora mourionska nas nora nordmark norrtalje nykoping ockelbo oppunda orebro
             orsa riseberga sala skinskatteberg soderbarke sodertalje stockholm stora_tuna strangnas tierp
             tingvalla uppsala varnum vasteras hornborg konghalla stromstad uddevalla skanderna n_jamtland_wasteland
             s_jamtland_wasteland
