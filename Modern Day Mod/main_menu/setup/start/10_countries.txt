@@ -2967,7 +2967,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            acre beersheba jaffa majdal safed sughar umm_rashrash negev_desert
+            acre beersheba jaffa majdal safed sughar umm_rashrash negev_desert new95 
          }
 
          control_core = {
@@ -3156,7 +3156,7 @@ countries = {
          own_control_core = {
             al_quwayrah amman aqaba azraq irbid karak maan madaba ruwaished shoubak
             syrian_desert_corridor10 syrian_desert_corridor4 syrian_desert_corridor2 syrian_desert13 jordan_desert_corridor1 syrian_desert2 syrian_desert1 new874 new870 new872
-            new875 new873 new871 new95
+            new875 new873 new871 
          }
 
          #include = "muslim_monarchy"
