@@ -1253,6 +1253,16 @@ NAMI = {
 }
 
 
+NCYP = {
+	color = rgb { 227  10  23 } #{ 166  203  80 } # red from flag
+	color2 = rgb { 227  10  23 } #{ 166  203  80 }
+	culture_definition = turkish_culture
+	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
 NED = {
 	color = rgb { 203  138  74 } #{ 220  138  57 }
 	color2 = rgb { 203  138  74 } #{ 220  138  57 }

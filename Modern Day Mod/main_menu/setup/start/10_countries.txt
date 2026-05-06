@@ -1567,7 +1567,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            famagusta kyrenia larnaca limassol morphou nicosia_cyp paphos
+            larnaca limassol nicosia_cyp paphos
          }
 
          #include = "catholic_monarchy"
@@ -4124,6 +4124,28 @@ countries = {
             ruler = random
             heir_selection = lottery_election
           }
+      }
+
+
+      NCYP = {
+         capital = morphou			#should be North Nicosia
+         # government = {ruler = ncyp_dervis_eroglu }
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            famagusta kyrenia morphou
+         }
+
+         #include = "catholic_monarchy"
+         include = "expl_mdm_whole_world"
+
+         government = {
+            type = republic
+            ruler = random
+            heir_selection = lottery_election
+
+          }
       }
 
 
