@@ -164,7 +164,7 @@ countries = {
             kabafa karia kassanje_malemba katobe_a_mubebe kuido kulembe kuneni kusike labolo libolo
             loge longa lower_pinda luanda lucala luquemba malanji malemba matamba mbaba mbangala
             mbanza_soyo mbondo mecumba mumbos mussende mussul muxima muxima_ayo nanboa_angonga nbengo
-            ndalatando ndembo ngololo nogui nsolu oacco pende_kongo pove pungo_ndongo quibala
+            najama ndalatando ndembo ngololo nogui nsolu oacco pende_kongo pove pungo_ndongo quibala
             samba_kongo shanfana soyo sumbis tamba tamba_ambriz tende jonga_pansa kafsanji kajenje
             kakoba kiluata kimbundu kisenge lubalo lucapa makunda minungo muata_musembo muconda
             mulunda sakambunje saurimo tala_mugongo
@@ -4111,7 +4111,7 @@ countries = {
          own_control_core = {
             katima lukana mamele ombongo basarwa hoachanas kharakhoen khaugoan khowesen ogain
             xam aakhoe aonin bayei damara ezorongondo haiom himba namaqua otjozondjii
-            ovaherero owambo tjimba hambukushu juhoansi kwangali najama odonga omatako omuthiya
+            ovaherero owambo tjimba hambukushu juhoansi kwangali odonga omatako omuthiya
             oukwanyama uukwambi xun etosha_salt_pan ombombo_mountains otjiwarongo_mountains hakos_mountains mocamedes_desert garibams
             tsau tsaris_mountains namib_desert nakop kharooan bondelswarts karas
          }
