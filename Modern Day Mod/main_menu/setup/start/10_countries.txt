@@ -1567,7 +1567,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            larnaca limassol nicosia_cyp paphos
+            larnaca limassol nicosia_cyp paphos new133
          }
 
          #include = "catholic_monarchy"
@@ -2231,6 +2231,7 @@ countries = {
             strabane orkney shetland st_helena ochil_hills pennines_01 pennines_03 pennines_02 north_york_moors pennines_06
             pennines_05 pennines_04 cambrian_mountains snowdon berwyn_range dartmoor brecon_beacons ben_nevis cairngorm ben_klibreck
             fannichs carn_eige scilly_isles georgia_isle tristan_da_cunha_island gough_island malliouhana ariogana ascensao
+			new132 new131
          }
 
          include = "expl_mdm_whole_world"
@@ -4128,13 +4129,13 @@ countries = {
 
 
       NCYP = {
-         capital = morphou			#should be North Nicosia
+         capital = new134			#should be North Nicosia
          # government = {ruler = ncyp_dervis_eroglu }
          country_rank = rank_duchy
          starting_technology_level = 3
 
          own_control_core = {
-            famagusta kyrenia morphou
+            famagusta kyrenia morphou new134
          }
 
          #include = "catholic_monarchy"
