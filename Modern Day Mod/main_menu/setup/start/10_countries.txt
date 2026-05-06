@@ -1409,7 +1409,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            maore ngazidja nzwani
+            ngazidja nzwani
          }
 
          #include = "republic"
@@ -2056,7 +2056,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            reunion carucairi iguanacaera cayenne iaremappo kourou maroni palikur alluyes angers
+            reunion maore carucairi iguanacaera cayenne iaremappo kourou maroni palikur alluyes angers
             bauge beaumont_au_maine beaupreau belleme chateau_du_loir chateau_gontier laval le_lude le_mans loudun
             mayenne mortagne passavant sable sainte_suzanne saumur senonches st_calais villaines allegre
             aurillac bourbon brioude chambon clermont herment huriel jaligny mauriac molins
