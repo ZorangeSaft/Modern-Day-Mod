@@ -348,7 +348,7 @@ english_language = {
 		#general english dialects
 
 		mdm_corporate_english_dialect = {
-			patronym_suffix_son = "patronym_suffix_english_son"
+			patronym_suffix_son = "patronym_suffix_english_son" #dialects in other files dont have this so unsure if needed really
 			patronym_suffix_daughter = "patronym_suffix_english_son"
 		}
 

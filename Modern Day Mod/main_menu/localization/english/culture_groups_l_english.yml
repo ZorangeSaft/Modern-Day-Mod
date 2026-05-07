@@ -479,6 +479,14 @@
  mdm_brazilian_group_desc: "The people of brazil, the largest country in south america, a land of rainforests, beaches, and vibrant culture"
 
 
+
+ #regional latin america culture groups
+
+ mdm_hispanic_group: "Hispanic"
+ mdm_hispanic_group_desc: "The Spanish speakers of Latin America" #latin america could be a scripted geography, could be cool
+
+
+
  #regional chinese
 
  mdm_pearl_river_group: "Pearl River"

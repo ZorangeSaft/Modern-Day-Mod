@@ -1,0 +1,131 @@
+#####mdm modern day mod
+
+castilian = { 
+	language = castilian_dialect
+	
+	color = map_CAS
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		leonese = kindred
+		andalusi = enemy
+		galician = kindred
+		moroccan = negative
+	}
+	
+	culture_groups = {
+		mdm_hispanosphere_group iberian_group
+	}
+}
+
+#andalusian removed
+
+aragonese = { 
+	language = aragonese_dialect
+	
+	color = rgb { 192 113 116 }
+	
+	tags = { catalan_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		catalan = positive
+	}
+	
+	culture_groups = {
+		iberian_group
+		pyrenean_group
+		mdm_hispanosphere_group
+	}
+}
+
+basque = { 
+	language = basque_language
+	
+	color = map_NAV
+	
+	tags = { basque_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	use_patronym = yes
+	
+	culture_groups = {
+		iberian_group
+		pyrenean_group
+		mdm_hispanosphere_group
+	}
+}
+
+catalan = { 
+	language = catalan_dialect
+	
+	color = rgb { 181 59 2 }
+	
+	tags = { catalan_gfx iberian_gfx occitan_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		aragonese = positive
+	}
+	
+	culture_groups = {
+		iberian_group
+		mdm_hispanosphere_group
+	}
+}
+
+galician = { 
+	language = galician_dialect
+	
+	color = map_GLC
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		castilian = kindred
+	}
+	
+	culture_groups = {
+		iberian_group mdm_hispanosphere_group mdm_lusosphere_group #might be better to add one just for portuguese and galician, but that also kind of feels like a waste, not sure
+	}
+}
+
+leonese = { 
+	language = leonese_dialect
+	
+	color = map_LON
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		castilian = kindred
+	}
+	
+	culture_groups = {
+		iberian_group
+		mdm_hispanosphere_group
+	}
+}
+
+
+
+#####mdm modern day mod
+
+#mexico / latin america cultures (placeholder)
+
+mdm_mexican_culture = {
+	language = castilian_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}

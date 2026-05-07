@@ -556,9 +556,6 @@ zuni_group = {
 
 #colonial culture groups
 
-mdm_hispanosphere_group = { #spain and former spanish colonies
-}
-
 mdm_francosphere_group = { #france and current and former french colonies
 }
 
@@ -660,6 +657,17 @@ mdm_lusosphere_group = { #portugal and former portuguese colonies
 }
 
 mdm_brazilian_group = { #all of brazil
+}
+
+
+
+
+#hispanosphere culture groups
+
+mdm_hispanosphere_group = { #spain and former spanish colonies
+}
+
+mdm_hispanic_group = { #all of latin america
 }
 
 
