@@ -32,7 +32,7 @@ mdm_canavieiro_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nordestino_group mdm_matuto_group
 	}
 }
 
@@ -47,7 +47,7 @@ mdm_eastern_sertanejo_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nordestino_group mdm_sertanejo_group
 	}
 }
 
@@ -62,7 +62,7 @@ mdm_sertanejo_baiano_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nordestino_group mdm_sertanejo_group
 	}
 }
 
@@ -77,7 +77,7 @@ mdm_sertanejo_araguaio_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nordestino_group mdm_sertanejo_group
 	}
 }
 
@@ -92,7 +92,7 @@ mdm_northern_jangadeiro_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nordestino_group mdm_matuto_group
 	}
 }
 
@@ -107,7 +107,7 @@ mdm_franciscano_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nordestino_group mdm_sertanejo_group mdm_baiano_group
 	}
 }
 
@@ -122,7 +122,7 @@ mdm_soteropolitano_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nordestino_group mdm_baiano_group
 	}
 }
 
@@ -137,7 +137,7 @@ mdm_southern_jangadeiro_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nordestino_group mdm_matuto_group mdm_baiano_group
 	}
 }
 
@@ -152,7 +152,7 @@ mdm_sul_baiano_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nordestino_group mdm_baiano_group
 	}
 }
 
@@ -168,7 +168,7 @@ mdm_marajoara_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nortista_group mdm_amazonida_group
 	}
 }
 
@@ -183,7 +183,7 @@ mdm_east_caboclo_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nortista_group mdm_amazonida_group
 	}
 }
 
@@ -198,7 +198,7 @@ mdm_west_caboclo_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nortista_group mdm_amazonida_group
 	}
 }
 
@@ -213,7 +213,7 @@ mdm_bragantino_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nortista_group mdm_amazonida_group
 	}
 }
 
@@ -228,7 +228,7 @@ mdm_maranhense_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nordestino_group mdm_amazonida_group
 	}
 }
 
@@ -244,7 +244,7 @@ mdm_paulistano_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sudestino_group mdm_paulista_group
 	}
 }
 
@@ -259,7 +259,7 @@ mdm_valparaibano_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sudestino_group mdm_caipira_group mdm_paulista_group mdm_valparaibano_group
 	}
 }
 
@@ -274,7 +274,7 @@ mdm_sul_mineiro_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sudestino_group mdm_mineiro_group mdm_caipira_group mdm_valparaibano_group
 	}
 }
 
@@ -289,7 +289,7 @@ mdm_mineiro_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sudestino_group mdm_mineiro_group
 	}
 }
 
@@ -304,7 +304,7 @@ mdm_sorocabano_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sudestino_group mdm_caipira_group mdm_tropeiro_group mdm_paulista_group
 	}
 }
 
@@ -319,7 +319,7 @@ mdm_tietense_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sudestino_group mdm_caipira_group mdm_paulista_group
 	}
 }
 
@@ -334,7 +334,7 @@ mdm_curitibano_faxinalense_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sulista_group mdm_caipira_group mdm_tropeiro_group
 	}
 }
 
@@ -349,7 +349,7 @@ mdm_rio_grandino_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sudestino_group mdm_caipira_group mdm_paulista_group mdm_boiadeiro_group
 	}
 }
 
@@ -364,7 +364,7 @@ mdm_pioneiro_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_centro_oestino_group mdm_sudestino_group mdm_caipira_group mdm_moncoeiro_group
 	}
 }
 
@@ -379,7 +379,7 @@ mdm_capiau_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_centro_oestino_group mdm_caipira_group mdm_boiadeiro_group
 	}
 }
 
@@ -394,7 +394,7 @@ mdm_cuiabano_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_centro_oestino_group mdm_caipira_group mdm_moncoeiro_group
 	}
 }
 
@@ -409,7 +409,7 @@ mdm_pantaneiro_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_centro_oestino_group mdm_caipira_group mdm_moncoeiro_group
 	}
 }
 
@@ -424,7 +424,7 @@ mdm_caicara_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sudestino_group mdm_paulista_group
 	}
 }
 
@@ -440,7 +440,7 @@ mdm_pampeano_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sulista_group mdm_gaucho_group
 	}
 }
 
@@ -455,7 +455,7 @@ mdm_missioneiro_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sulista_group mdm_gaucho_group
 	}
 }
 
@@ -470,7 +470,7 @@ mdm_litoraneo_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sulista_group mdm_gaucho_group
 	}
 }
 
@@ -485,7 +485,7 @@ mdm_serrano_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sulista_group mdm_gaucho_group mdm_tropeiro_group mdm_biriva_group
 	}
 }
 
@@ -500,7 +500,7 @@ mdm_campeiro_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sulista_group
 	}
 }
 
@@ -515,7 +515,7 @@ mdm_acoriano_catarinense_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sulista_group
 	}
 }
 
@@ -531,7 +531,7 @@ mdm_carioca_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sudestino_group mdm_fluminense_group
 	}
 }
 
@@ -546,7 +546,7 @@ mdm_fluminense_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sudestino_group mdm_fluminense_group
 	}
 }
 
@@ -561,7 +561,7 @@ mdm_capixaba_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sudestino_group
 	}
 }
 
@@ -576,7 +576,7 @@ mdm_araguaio_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_centro_oestino_group
 	}
 }
 
@@ -591,7 +591,7 @@ mdm_geraizeiro_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_sudestino_group mdm_baiano_group mdm_mineiro_group mdm_nordestino_group
 	}
 }
 
@@ -607,7 +607,7 @@ mdm_brasiliense_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_centro_oestino_group
 	}
 }
 
@@ -622,6 +622,6 @@ mdm_serra_amazonico_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_nortista_group mdm_centro_oestino_group
 	}
 }

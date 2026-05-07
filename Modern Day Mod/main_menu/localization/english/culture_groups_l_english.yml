@@ -478,6 +478,60 @@
  mdm_brazilian_group: "Brazilian"
  mdm_brazilian_group_desc: "The people of brazil, the largest country in south america, a land of rainforests, beaches, and vibrant culture"
 
+ mdm_nortista_group: "Nortista"
+ mdm_nortista_group_desc: "MISSING DESCRIPTION"
+
+ mdm_nordestino_group: "Nordestino"
+ mdm_nordestino_group_desc: "MISSING DESCRIPTION"
+
+ mdm_sudestino_group: "Sudestino"
+ mdm_sudestino_group_desc: "MISSING DESCRIPTION"
+
+ mdm_sulista_group: "Sulista"
+ mdm_sulista_group_desc: "MISSING DESCRIPTION"
+
+ mdm_centro_oestino_group: "Centro-Oestino"
+ mdm_centro_oestino_group_desc: "MISSING DESCRIPTION"
+
+ mdm_matuto_group: "Matuto"
+ mdm_matuto_group_desc: "MISSING DESCRIPTION"
+
+ mdm_sertanejo_group: "Sertanejo"
+ mdm_sertanejo_group_desc: "MISSING DESCRIPTION"
+
+ mdm_baiano_group: "Baiano"
+ mdm_baiano_group_desc: "MISSING DESCRIPTION"
+
+ mdm_mineiro_group: "Mineiro"
+ mdm_mineiro_group_desc: "MISSING DESCRIPTION"
+
+ mdm_fluminense_group: "Fluminense"
+ mdm_fluminense_group_desc: "MISSING DESCRIPTION"
+
+ mdm_paulista_group: "Paulista"
+ mdm_paulista_group_desc: "MISSING DESCRIPTION"
+
+ mdm_caipira_group: "Caipira"
+ mdm_caipira_group_desc: "MISSING DESCRIPTION"
+
+ mdm_tropeiro_group: "Tropeiro"
+ mdm_tropeiro_group_desc: "MISSING DESCRIPTION"
+
+ mdm_biriva_group: "Biriva"
+ mdm_biriva_group_desc: "MISSING DESCRIPTION"
+
+ mdm_valparaibano_group: "Valparaibano"
+ mdm_valparaibano_group_desc: "MISSING DESCRIPTION"
+
+ mdm_boiadeiro_group: "Boiadeiro"
+ mdm_boiadeiro_group_desc: "MISSING DESCRIPTION"
+
+ mdm_moncoeiro_group: "Monçoeiro"
+ mdm_moncoeiro_group_desc: "MISSING DESCRIPTION"
+
+ mdm_gaucho_group: "Gaúcho"
+ mdm_gaucho_group_desc: "MISSING DESCRIPTION"
+
 
 
  #regional latin america culture groups

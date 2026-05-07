@@ -659,6 +659,59 @@ mdm_lusosphere_group = { #portugal and former portuguese colonies
 mdm_brazilian_group = { #all of brazil
 }
 
+mdm_nortista_group = { #northern brazil
+}
+
+mdm_nordestino_group = { #northeast brazil
+}
+
+mdm_sudestino_group = { #southeast brazil
+}
+
+mdm_sulista_group = { #southern brazil
+}
+
+mdm_centro_oestino_group = { #center-western brazil
+}
+
+mdm_matuto_group = { #coastal northeastern brazil
+}
+
+mdm_sertanejo_group = { #inland northeastern brazil
+}
+
+mdm_baiano_group = { #bahia brazil
+}
+
+mdm_mineiro_group = { #minas gerais brazil
+}
+
+mdm_fluminense_group = { #rio de janeiro state brazil
+}
+
+mdm_paulista_group = { #sao paulo state brazil
+}
+
+mdm_caipira_group = { #caipira cultures of brazil
+}
+
+mdm_tropeiro_group = { #tropeiro cultures of brazil
+}
+
+mdm_biriva_group = { #biriva cultures of brazil
+}
+
+mdm_valparaibano_group = { #valparaibano caipiras of brazil
+}
+
+mdm_boiadeiro_group = { #boiadeiro caipiras of brazil
+}
+
+mdm_moncoeiro_group = { #monçoeiro caipiras of brazil
+}
+
+mdm_gaucho_group = { #rio grande do sul brazil
+}
 
 
 
