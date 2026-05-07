@@ -3134,7 +3134,7 @@ countries = {
             takashima toki tone tsuga tsukama usui yoshiki habomai hidaka_mountains ishikari_mountains
             ulleungdo izu_islands echigo_mountains kii_mountains mount_fuji okuchichibu_mountains asama_mountains mikuni_mountains akaishi_mountains yatsugatake_mountains
             kiso_mountains mount_ontake hida_mountains mount_haku mount_tsurugi ishizuchi_mountains geiyo_islands_wastelands mishima_island koshikishima satsunan_islands
-            kumejima
+            kumejima iwo_jima kita_iwo_jima hahajima chichijima 
          }
 
          #include = "japanese_clan"
@@ -6531,7 +6531,7 @@ countries = {
             nuwuvi_desert newe_wasteland atigun_pass chumash_ranges inyo_mountains sierra_nevada_s coast_mountains_et nabesna_forest_et gwichin_uplands_et wrangell_mountains_et
             central_forest chandalar_forest chugach_mtns tanana_forest alaska yukon_flats alaska_range koyukon_forest dall_plains togiagamiut_forest
             deg_xit_an_forest dena_ina_uplands yukkhana yukonikhotana gwazhal_mountains koyukuk_forest malemiut_plains kugirukuk kobuk noatak
-            utqiagvik gwazhal_hills kugmiut_uplands chichijima kita_iwo_jima hahajima iwo_jima uracas maug agrihan
+            utqiagvik gwazhal_hills kugmiut_uplands uracas maug agrihan
             alamagan pagan_island noos anatahan rota guahan_atoll nikumaroro_atoll manra_atoll orona_atoll kanton_atoll
             mauna_loa nihoa mokumanamana kanemilohai_atoll kauo papa_apoho_atoll holaniku_atoll kuaihelani_atoll holoikauaua_atoll vieques_island
             mona_island aburakeiru new128 new129 new126 new127 new125 new124 new123 new122
