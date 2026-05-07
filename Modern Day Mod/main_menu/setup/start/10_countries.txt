@@ -2740,7 +2740,7 @@ countries = {
             s_nallamalla astamba_dongar n_nallamalla harishchandra_range khandesh_mountains khandesh_mountains_2 gondwana_hills nimar_mountains eastern_ghats_jeypore gondwana_hills_2
             eastern_ghats_kalahandi eastern_ghats_south_odisha eastern_ghats_south_bastar bastar_impassable sitanadi_hills malkala_range_2 malkala_range gondwana_hills_3 garhjat_range southern_hazirabagh_range
             mainpat ramgarh_hills upar_ghat mailan_hills kherigarh great_rann_of_kutch biswan khairabad firuzabad_bahraich bhurwara
-            datia aravali_range thar_desert_bikaner little_rann_of_kutch thar_desert thar_desert_2 tharparkar_desert simlipal_hills gorumahisani_range himalaya3
+            datia aravali_range thar_desert_bikaner little_rann_of_kutch thar_desert thar_desert_2 simlipal_hills gorumahisani_range himalaya3
             himalaya1 karakoram2 himalayas_chanda_3 pir_panjal_range pangi_range kashmiri_himalayas pir_panjal_range_2 himalaya6 himalayas_chanda himalayas_chanda_2
             himalaya5 himalaya2 himalaya_et1 himalaya_et2 himalaya23 himalaya_et9 himalaya_et10 himalaya_et11 himalaya_et12 naga_hills_et1
             naga_hills_et2 naga_hills_et3 naga_hills1 himalaya_et7 barren_island drangtse tashigang 
@@ -4468,7 +4468,7 @@ countries = {
             islamkot jhal jhatpat kandiaro kashmore kotri kot_lalu lahri laribandar manora
             mansura mithri moro_sindh muhammad_tur nagarparkar naserpur paat rajabar ranikot rohri
             sehwan shadodkot shikarpur siwi sonda sui_pakistan sukkur thatta umarkot vingur
-            wanga_bazar thar_desert_3 suleiman_range_6 kirtar_range_2 kharan_desert2 kharan_desert3 kharan_desert1 kirtar_range suleiman_range_7 suleiman_range_2
+            wanga_bazar thar_desert_3 tharparkar_desert suleiman_range_6 kirtar_range_2 kharan_desert2 kharan_desert3 kharan_desert1 kirtar_range suleiman_range_7 suleiman_range_2
             suleiman_range_3 suleiman_range_9 suleiman_range_5 suleiman_range_8 suleiman_range_1 salt_range_3 thal_desert thal_desert_2 salt_range nanga_parbat
             pir_panjal_range_3 karakoram3 hindu_kush8 hindu_kush10 hindu_kush9 hindu_kush7 hindu_kush4 mashkel
          }
