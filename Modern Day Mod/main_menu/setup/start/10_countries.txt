@@ -252,7 +252,7 @@ countries = {
 
          own_control_core = {
             amberd artashavan bjni gagi gladzor goris kapan_armenia kayen khor_virap kumayri
-            lori sotk spitak tatev yerevan lesser_caucasus_et2 lesser_caucasus_et3 lesser_caucasus_mountains10 lesser_caucasus_mountains7 lesser_caucasus_mountains5
+            lori sotk spitak tatev yerevan lesser_caucasus_et3 lesser_caucasus_mountains10 lesser_caucasus_mountains7 lesser_caucasus_mountains5
             lesser_caucasus_et1
          }
 
@@ -344,7 +344,7 @@ countries = {
             hereti qakh agsu aresh baciravan baku barda beylagan bilasuvar ganja
             gardman goychay javad lemberan mahmudabad maraza mughan niyazabad qabala qobustan
             quba salyan shabran shaki shamakhi shamkir shirvan vartashen zardab caucasus_et2
-            greater_caucasus_mountains10 lesser_caucasus_mountains8 lesser_caucasus_mountains6
+            greater_caucasus_mountains10 lesser_caucasus_mountains8 lesser_caucasus_mountains6 lesser_caucasus_et2 
          }
 
          #include = "republic"
@@ -3024,7 +3024,7 @@ countries = {
             schio spilimbergo tolmezzo treviso udine venice verona vicenza bolzano brixen
             bruneck cavalese cles merano riva rovereto silandro sterzing trento villandro
             pragelato dolomite_alps6 dolomite_alps2 otztal_alps1 dolomite_alps7 dolomite_alps1 dolomite_alps5 rhaetian_alps7 dolomite_alps4 rhaetian_alps8
-            rhaetian_alps3 rhaetian_alps2 rhaetian_alps1 rhaetian_alps6 pennine_alps2 graian_alps2 cottian_alps3 cottian_alps2 ligurian_alps mount_stromboli
+            rhaetian_alps3 rhaetian_alps2 rhaetian_alps6 pennine_alps2 graian_alps2 cottian_alps3 cottian_alps2 ligurian_alps mount_stromboli
             mount_etna southern_apennines central_apennines7 central_apennines6 central_apennines5 central_apennines4 central_apennines3 central_apennines2 central_apennines1 gennargentu_mountains
             north_apennines rhaetian_alps5 pantelleria lampedusa dolomite_alps3 lepontine_alps1
          }
@@ -5641,6 +5641,7 @@ countries = {
             puigcerda filambres_range subbetic_range nevada_range madrona_range segura_range iberian_system moncayo_range urbion_peaks demanda_range
             east_cantabrian_mountains west_cantabrian_mountains picos_de_europa ancares_range leon_mountains cabrera_range francia_mountains eastern_central_system3 bejar_mountains eastern_central_system1
             eastern_central_system2 western_central_system south_eastern_pyrenees central_pyrenees south_western_pyrenees3 south_western_pyrenees1 south_western_pyrenees2
+			new135
          }
 
          #include = "republic"
@@ -5840,7 +5841,7 @@ countries = {
             davos disentis frauenfeld glarus ilanz kyburg mesocco sarnen schwyz st_gallen
             tarasp toggenburg werdenberg zuoz zurich bienne delemont fribourg gruyere neuchatel
             solothurn geneve lausanne montreux nyon yverdon_les_bains basel rhaetian_alps4 lepontine_alps2 silvretta_alps
-            glarner_alps stein_glacier bernese_alps
+            glarner_alps stein_glacier bernese_alps rhaetian_alps1 
          }
 
          #include = "republic"
