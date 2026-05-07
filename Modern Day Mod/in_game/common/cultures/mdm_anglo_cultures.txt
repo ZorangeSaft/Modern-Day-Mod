@@ -242,7 +242,7 @@ mdm_alaskan_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group
 	}
 }
 
@@ -261,7 +261,7 @@ mdm_cascadian_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_cascadian_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_cascadian_group
 	}
 }
 
@@ -280,7 +280,7 @@ mdm_jefferson_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group mdm_cascadian_group #not sure about these 2 groups
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group mdm_cascadian_group #not sure about these 2 groups
 	}
 }
 
@@ -296,7 +296,7 @@ mdm_north_coast_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
 	}
 }
 
@@ -312,7 +312,7 @@ mdm_bay_area_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group mdm_metroamerican_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group mdm_metroamerican_group
 	}
 }
 
@@ -328,7 +328,7 @@ mdm_central_coast_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
 	}
 }
 
@@ -344,7 +344,7 @@ mdm_central_valley_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
 	}
 }
 
@@ -360,7 +360,7 @@ mdm_sierra_nevada_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group
 	}
 }
 
@@ -376,7 +376,7 @@ mdm_socal_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group mdm_metroamerican_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_west_coast_group mdm_californian_group mdm_metroamerican_group
 	}
 }
 
@@ -395,7 +395,7 @@ mdm_columbia_plateau_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
 	}
 }
 
@@ -411,7 +411,7 @@ mdm_great_basin_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
 	}
 }
 
@@ -427,7 +427,7 @@ mdm_southwest_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
 	}
 }
 
@@ -443,7 +443,7 @@ mdm_mezquital_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group mdm_texan_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group mdm_texan_group
 	}
 }
 
@@ -459,7 +459,7 @@ mdm_rocky_mountains_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
 	}
 }
 
@@ -475,7 +475,7 @@ mdm_mormon_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group
 	}
 }
 
@@ -491,7 +491,7 @@ mdm_northern_great_plains_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_great_plains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_great_plains_group
 	}
 }
 
@@ -507,7 +507,7 @@ mdm_black_hills_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group mdm_great_plains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group mdm_great_plains_group
 	}
 }
 
@@ -523,7 +523,7 @@ mdm_front_range_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group mdm_great_plains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_rocky_mountains_group mdm_great_plains_group
 	}
 }
 
@@ -539,7 +539,7 @@ mdm_southern_great_plains_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_great_plains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_frontier_group mdm_great_plains_group
 	}
 }
 
@@ -558,7 +558,7 @@ mdm_upper_midwest_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_plains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_plains_group
 	}
 }
 
@@ -574,7 +574,7 @@ mdm_lower_midwest_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_plains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_plains_group
 	}
 }
 
@@ -590,7 +590,7 @@ mdm_northwoods_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_lakes_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_lakes_group
 	}
 }
 
@@ -606,7 +606,7 @@ mdm_great_lakes_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_lakes_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_lakes_group
 	}
 }
 
@@ -622,7 +622,7 @@ mdm_chicagoland_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_lakes_group mdm_metroamerican_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_midwest_group mdm_great_lakes_group mdm_metroamerican_group
 	}
 }
 
@@ -638,7 +638,7 @@ mdm_ohio_river_valley_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_midwest_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_midwest_group
 	}
 }
 
@@ -657,7 +657,7 @@ mdm_woodland_new_england_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_new_england_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_new_england_group
 	}
 }
 
@@ -673,7 +673,7 @@ mdm_maritime_new_england_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_new_england_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_new_england_group
 	}
 }
 
@@ -689,7 +689,7 @@ mdm_upstate_new_york_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_great_lakes_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_great_lakes_group
 	}
 }
 
@@ -705,7 +705,7 @@ mdm_new_york_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_metroamerican_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_metroamerican_group
 	}
 }
 
@@ -721,7 +721,7 @@ mdm_northern_appalachia_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_appalachian_group mdm_great_lakes_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_appalachian_group mdm_great_lakes_group
 	}
 }
 
@@ -737,7 +737,7 @@ mdm_mid_atlantic_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_southern_group mdm_metroamerican_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_southern_group mdm_metroamerican_group
 	}
 }
 
@@ -753,7 +753,7 @@ mdm_chesapeake_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_southern_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_northeast_group mdm_southern_group
 	}
 }
 
@@ -772,7 +772,7 @@ mdm_ozark_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_southern_group
 	}
 }
 
@@ -788,7 +788,7 @@ mdm_upper_south_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_southern_group
 	}
 }
 
@@ -804,7 +804,7 @@ mdm_southern_appalachian_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_appalachian_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_appalachian_group
 	}
 }
 
@@ -820,7 +820,7 @@ mdm_piedmont_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_southern_group
 	}
 }
 
@@ -836,7 +836,7 @@ mdm_atlantic_southern_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_southern_group
 	}
 }
 
@@ -852,7 +852,7 @@ mdm_deep_south_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_southern_group
 	}
 }
 
@@ -868,7 +868,7 @@ mdm_central_florida_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_floridian_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_floridian_group
 	}
 }
 
@@ -884,7 +884,7 @@ mdm_gulf_coast_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_southern_group
 	}
 }
 
@@ -900,7 +900,7 @@ mdm_cajun_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_southern_group
 	}
 }
 
@@ -916,7 +916,7 @@ mdm_texan_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_texan_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_texan_group
 	}
 }
 
@@ -932,7 +932,7 @@ mdm_rio_grande_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_texan_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_southern_group mdm_texan_group
 	}
 }
 
@@ -951,7 +951,7 @@ mdm_south_florida_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_us_caribbean_group mdm_floridian_group mdm_metroamerican_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_us_caribbean_group mdm_floridian_group mdm_metroamerican_group
 	}
 }
 
@@ -986,7 +986,7 @@ mdm_hawaiian_culture = { #for american hawaiian things, there should possibly be
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_american_group mdm_us_pacific_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_american_group mdm_us_pacific_group
 	}
 }
 
@@ -1007,7 +1007,7 @@ mdm_british_columbian_culture = { #temporary name
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group mdm_west_coast_group mdm_cascadian_group 
+		mdm_anglosphere_group mdm_anglo_american_group mdm_canadian_group mdm_west_coast_group mdm_cascadian_group 
 	}
 }
 
@@ -1023,7 +1023,7 @@ mdm_interior_culture = { #temporary name
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group mdm_rocky_mountains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_canadian_group mdm_rocky_mountains_group
 	}
 }
 
@@ -1039,7 +1039,7 @@ mdm_praire_culture = { #temporary name
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group mdm_great_plains_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_canadian_group mdm_great_plains_group
 	}
 }
 
@@ -1055,7 +1055,7 @@ mdm_northerner_culture = { #temporary name
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_canadian_group
 	}
 }
 
@@ -1071,7 +1071,7 @@ mdm_ontario_culture = { #temporary name
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group mdm_great_lakes_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_canadian_group mdm_great_lakes_group
 	}
 }
 
@@ -1087,7 +1087,7 @@ mdm_quebec_culture = {
 	}
 
 	culture_groups = {
-		mdm_canadian_group mdm_francophone_group mdm_french_canadian_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
+		mdm_canadian_group mdm_francosphere_group mdm_french_canadian_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
 	}
 }
 
@@ -1103,7 +1103,7 @@ mdm_northern_quebec_culture = {
 	}
 
 	culture_groups = {
-		mdm_canadian_group mdm_francophone_group mdm_french_canadian_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
+		mdm_canadian_group mdm_francosphere_group mdm_french_canadian_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
 	}
 }
 
@@ -1119,7 +1119,7 @@ mdm_acadian_culture = {
 	}
 
 	culture_groups = {
-		mdm_canadian_group mdm_francophone_group mdm_french_canadian_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
+		mdm_canadian_group mdm_francosphere_group mdm_french_canadian_group #not in anglo american group, maby it should be, but anglo american is renamed north american instead ?
 	}
 }
 
@@ -1135,7 +1135,7 @@ mdm_maritimes_culture = { #temporary name
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_canadian_group
 	}
 }
 
@@ -1151,6 +1151,6 @@ mdm_new_foundland_and_labrador_culture = { #temporary name
 	}
 
 	culture_groups = {
-		mdm_anglo_group mdm_anglo_american_group mdm_canadian_group
+		mdm_anglosphere_group mdm_anglo_american_group mdm_canadian_group
 	}
 }

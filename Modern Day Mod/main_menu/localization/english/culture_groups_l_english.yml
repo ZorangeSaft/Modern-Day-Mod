@@ -387,23 +387,23 @@
 
  #colonial culture groups
 
- mdm_anglo_group: "Anglo"
- mdm_anglo_group_desc: "The diverse cultures of the Anglosphere"
+ mdm_anglosphere_group: "Anglosphere"
+ mdm_anglosphere_group_desc: "The diverse cultures of the Anglosphere"
 
  mdm_anglo_american_group: "Anglo-American"
  mdm_anglo_american_group_desc: "The shared cultural heritage of the United States and Canada"
 
- mdm_hispanic_group: "Hispanic"
- mdm_hispanic_group_desc: "The diverse cultures of the Hispanic world, united under language and shared history of their former empire"
+ mdm_hispanosphere_group: "Hispanosphere"
+ mdm_hispanosphere_group_desc: "The diverse cultures of the Hispanic world, united under language and shared history of their former empire"
 
- mdm_francophone_group: "Francophone"
- mdm_francophone_group_desc: "The diverse cultures of the Francophone world, united under language and shared history of their former empire"
+ mdm_francosphere_group: "Francosphere"
+ mdm_francosphere_group_desc: "The diverse cultures of the Francophone world, united under language and shared history of their former empire"
 
- mdm_lusophone_group: "Lusophone"
- mdm_lusophone_group_desc: "The diverse cultures of the Lusophone world, united under language and shared history of their former empire"
+ mdm_lusosphere_group: "Lusosphere"
+ mdm_lusosphere_group_desc: "The diverse cultures of the Lusophone world, united under language and shared history of their former empire"
 
- mdm_soviet_group: "Soviet"
- mdm_soviet_group_desc: "The diverse cultures of the former Soviet Union, united under shared history of their former empire"
+ mdm_post_soviet_group: "Post-Soviet"
+ mdm_post_soviet_group_desc: "The diverse cultures of the former Soviet Union, united under shared history of their former empire"
 
 
  #us and canada culture groups

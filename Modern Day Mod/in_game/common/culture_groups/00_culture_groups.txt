@@ -573,7 +573,7 @@ mdm_caribbean_group = {
 
 #anglo culture groups
 
-mdm_anglo_group = { #all british colonial cultures
+mdm_anglosphere_group = { #all british colonial cultures
 }
 
 mdm_anglo_american_group = { #us and canada
@@ -642,16 +642,16 @@ mdm_us_pacific_group = { #hawaii and other pacific islands like guam
 
 #colonial culture groups
 
-mdm_hispanic_group = { #spain and former spanish colonies
+mdm_hispanosphere_group = { #spain and former spanish colonies
 }
 
-mdm_francophone_group = { #france and current and former french colonies
+mdm_francosphere_group = { #france and current and former french colonies
 }
 
-mdm_lusophone_group = { #portugal and former portuguese colonies
+mdm_lusosphere_group = { #portugal and former portuguese colonies
 }
 
-mdm_soviet_group = { #russia and former soviet countries, maby only have this if you can remove culture groups dynamically ?
+mdm_post_soviet_group = { #russia and former soviet countries, maby only have this if you can remove culture groups dynamically ?
 }
 
 

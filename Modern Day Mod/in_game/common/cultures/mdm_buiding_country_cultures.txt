@@ -18,7 +18,7 @@ mdm_macau_culture = {
 		confucian_group
 		mdm_pearl_river_group
 		mdm_metrochinese_group
-		mdm_lusophone_group
+		mdm_lusosphere_group
 	}
 }
 
@@ -38,7 +38,7 @@ mdm_hong_kong_culture = {
 		confucian_group
 		mdm_pearl_river_group
 		mdm_metrochinese_group
-		mdm_anglo_group
+		mdm_anglosphere_group
 	}
 }
 
