@@ -713,6 +713,9 @@ mdm_moncoeiro_group = { #monçoeiro caipiras of brazil
 mdm_gaucho_group = { #rio grande do sul brazil
 }
 
+mdm_amazonida_group = { #colonial-era amazon brazil
+}
+
 
 
 #hispanosphere culture groups
