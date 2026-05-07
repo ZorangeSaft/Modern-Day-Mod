@@ -2910,3 +2910,58 @@
  mdm_maritime_new_england_dialect: "Maritime New England"
  mdm_woodland_new_england_dialect: "Woodland New England"
  mdm_maritimes_dialect: "Maritimer"
+
+
+
+
+ #brazil cultures
+
+ mdm_canavieiro_culture: "Canavieiro"
+ mdm_eastern_sertanejo_culture: "Eastern Sertanejo"
+ mdm_sertanejo_baiano_culture: "Sertanejo Baiano"
+ mdm_sertanejo_araguaio_culture: "Sertanejo Araguaio"
+ mdm_northern_jangadeiro_culture: "Northern Jangadeiro"
+ mdm_franciscano_culture: "Franciscano"
+ mdm_soteropolitano_culture: "Soteropolitano"
+ mdm_southern_jangadeiro_culture: "Southern Jangadeiro"
+ mdm_sul_baiano_culture: "Sul-Baiano"
+
+ mdm_marajoara_culture: "Marajoara"
+ mdm_east_caboclo_culture: "East Caboclo"
+ mdm_west_caboclo_culture: "West Caboclo"
+ mdm_bragantino_culture: "Bragantino"
+ mdm_maranhense_culture: "Maranhense"
+
+ mdm_paulistano_culture: "Paulistano"
+ mdm_valparaibano_culture: "Valparaibano"
+ mdm_sul_mineiro_culture: "Sul-Mineiro"
+ mdm_mineiro_culture: "Mineiro"
+ mdm_sorocabano_culture: "Sorocabano"
+ mdm_tietense_culture: "Tietense"
+ mdm_curitibano_faxinalense_culture: "Curitibano-Faxinalense"
+ mdm_rio_grandino_culture: "Rio-Grandino"
+ mdm_pioneiro_culture: "Pioneiro"
+ mdm_capiau_culture: "Capiau"
+ mdm_cuiabano_culture: "Cuiabano"
+ mdm_pantaneiro_culture: "Pantaneiro"
+ mdm_caicara_culture: "Caicara"
+
+ mdm_pampeano_culture: "Pampeano"
+ mdm_missioneiro_culture: "Missioneiro"
+ mdm_litoraneo_culture: "Litoraneo"
+ mdm_serrano_culture: "Serrano"
+ mdm_campeiro_culture: "Campeiro"
+ mdm_acoriano_catarinense_culture: "Acoriano Catarinense"
+
+ mdm_carioca_culture: "Carioca"
+ mdm_fluminense_culture: "Fluminense"
+ mdm_capixaba_culture: "Capixaba"
+ mdm_araguaio_culture: "Araguaio"
+ mdm_geraizeiro_culture: "Geraizeiro"
+
+ mdm_brasiliense_culture: "Brasiliense"
+ mdm_serra_amazonico_culture: "Serra-Amazonico"
+
+ #brazil dialects
+
+ mdm_brazilian_dialect: "Brazilian Portuguese"

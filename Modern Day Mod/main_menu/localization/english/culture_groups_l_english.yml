@@ -472,6 +472,13 @@
  mdm_us_pacific_group_desc: "The people of the us pacific territories, a land of remote islands and diverse cultures"
 
 
+
+ #regional brazil culture groups
+
+ mdm_brazilian_group: "Brazilian"
+ mdm_brazilian_group_desc: "The people of brazil, the largest country in south america, a land of rainforests, beaches, and vibrant culture"
+
+
  #regional chinese
 
  mdm_pearl_river_group: "Pearl River"

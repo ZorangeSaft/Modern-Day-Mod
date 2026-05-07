@@ -554,11 +554,24 @@ zuni_group = {
 #####mdm modern day mod
 
 
+#colonial culture groups
+
+mdm_hispanosphere_group = { #spain and former spanish colonies
+}
+
+mdm_francosphere_group = { #france and current and former french colonies
+}
+
+mdm_post_soviet_group = { #russia and former soviet countries, maby only have this if you can remove culture groups dynamically ?
+}
+
+
 
 #internationalism culture groups
 
 mdm_internationalism_group = { #internationalist cultures like UN and EU ?
 }
+
 
 
 #regional culture groups
@@ -571,7 +584,7 @@ mdm_caribbean_group = {
 
 
 
-#anglo culture groups
+#anglosphere culture groups
 
 mdm_anglosphere_group = { #all british colonial cultures
 }
@@ -640,19 +653,15 @@ mdm_us_pacific_group = { #hawaii and other pacific islands like guam
 }
 
 
-#colonial culture groups
 
-mdm_hispanosphere_group = { #spain and former spanish colonies
-}
-
-mdm_francosphere_group = { #france and current and former french colonies
-}
+#lusosphere culture groups
 
 mdm_lusosphere_group = { #portugal and former portuguese colonies
 }
 
-mdm_post_soviet_group = { #russia and former soviet countries, maby only have this if you can remove culture groups dynamically ?
+mdm_brazilian_group = { #all of brazil
 }
+
 
 
 #chinese culture groups

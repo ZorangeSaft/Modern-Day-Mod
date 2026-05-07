@@ -1,0 +1,150 @@
+﻿portuguese_language = {
+
+	color = map_POR
+
+	family = romance_language_family
+
+	male_names = {
+		name_alexander name_alexis name_alphonse name_alvar name_ambrose name_anthony
+		name_balthazar.name_charles name_bernard
+		name_charles
+		name_dennis name_diego
+		name_edward name_emmanuel
+		name_ferdinand name_francis
+		name_garcia
+		name_henry
+		name_james name_joachim name_john name_joseph
+		name_louis
+		name_michael
+		name_nicholas
+		name_peter name_philip
+		name_sancho name_sebastian
+		name_theodosius
+
+		name_abraham name_andrew name_august name_augustine
+		name_bartholomew
+		name_caesar name_cajetan name_casper name_christopher name_constantine name_cosmas
+		name_damian name_daniel name_dominic
+		name_eusebius
+		name_gabriel name_george name_giles name_gonzalo name_gregory
+		name_hermenegild name_hieronymus
+		name_ignatius
+		name_laurence name_lupus
+		name_mark name_martin name_matthias
+		name_nuno
+		name_peter.name_constantine
+		name_raphael name_raymond name_rocco name_roderick
+		name_simeon name_stephen
+		name_thomas
+		name_valentine name_vasco name_vincent
+		name_william			
+	}
+	female_names = {
+		name_amelia name_anna Asuncion
+		name_barbara name_beatrix name_benedicta name_blanche
+		name_catherine name_clementine
+		name_dorothy
+		name_eleanor name_elizabeth name_emmanuelle name_eugenie
+		name_frances name_frances.name_josephine
+		name_januaria name_jesus_female name_joanna
+		name_margaret name_marianne name_marianne.name_victoria name_mary name_mary.name_anna
+		name_paula name_philippa
+		name_theresa
+		name_susan
+
+		name_agnes name_aldonza name_antonia
+		name_berengaria
+		name_charlotte name_christine name_claire name_clemence name_constance
+		name_dominica
+		name_emily
+		name_grace name_guiomar
+		name_helen
+		name_josephine name_julianne
+		name_louise name_lucrece
+		name_madeleine name_michaela
+		name_rosa
+		name_sabine name_sancha
+		name_thomassine
+		name_victoria
+		name_yolande		
+	}
+	dynasty_names = {
+		almeida_dynasty andrade_dynasty avis
+		braganca_dynasty
+		carvalho_dynasty coimbra crato
+		eca_dynasty
+		da_gama_dynasty
+		de_Lafoes lencastre_dynasty
+		mascarenhas_dynasty de_melo_dynasty
+		noronha_dynasty
+		osorio_dynasty
+		Pacheco
+		silva_dynasty
+		teles_silva_dynasty
+		vasconcelos_dynasty viseu
+	}
+	lowborn = {		
+		Abreu_Covilha name_alphonse de_Almada almeida_dynasty de_Almeida Alvares Alvares_Cunha Alvares_Pereira Alvim andrade_dynasty de_Andrade de_Anes Antunes Araujo de_Arruda de_Ataide De_avis de_Azevedo
+		Baia Barreiro Barreiros Barreto de_Barros de_Beja Bezerra Boitaca de_Borba Botelho de_Braga De_braganca Brito de_Brito
+		Cabral da_Camara de_Camoens Cao_POR Carneiro carvalho_dynasty de_Carvalho de_Castilho Cesar_Meneses Coelho de_Coimbra Contreiras de_Contreiras Correia Corte_Real da_Costa Costa Couto da_Covilha de_Crato da_Cunha
+		Dias
+		d_Eca Eanes de_Escobar Esteves_Veiga
+		de_Faro Fernandes Fernandes_Vilagarcia Ferreira Figueiredo de_Flon Furtado_Mendoca
+		da_gama_dynasty name_giles Gil_Taboada Giraldes Goncalves de_Gois de_Gouveia
+		Henriques
+		de_Lafoes de_Lagos Leal de_Lemos de_Lencastre de_Lima da_Limia Lobo Lopes
+		Machado Machado_Castro de_Magalhaes Manoel de_Mascarenhas de_Matos de_melo_dynasty Mendes de_Mendoca mendoca_rolim_moura_barreto Mexia Monteiro de_Moscoso de_Moura_Rolim
+		da_Nobrega Nogueira de_Noronha Nunes
+		de_Oliveira Oliveira de_Orta
+		del_Padron pimentel_dynasty Pinheiro do_Po
+		de_Quiroga
+		Rangel de_Rajoy Ramalho Ramires de_Resende da_Ressurreicao Rodrigues Rolim_Moura Rua Rubi
+		da_Sa Salema Sampaio Sandoval de_Santa_Ines silva_dynasty da_Silva de_Silves Soares Soares_Figueroa Sotomaior Sousa de_Sousa Sousa_Coutinho Sousa_Tavares
+		Teles_Meneses teles_silva_dynasty de_Teive Teixeira de_Torralva Torres
+		do_Vale de_Vasconcelos Vaz da_Veiga da_Vide Vicente Vieira de_Viseu de_Vuzi
+	}
+	patronym_suffix_son = "patronym_suffix_portuguese_son"
+	patronym_suffix_daughter = "patronym_suffix_portuguese_daughter"
+
+	location_prefix = "location_prefix_portuguese"
+	
+	dialects = {
+		galician_dialect = {
+			male_names = {
+				name_alphonse name_anthony name_aurelius # Also should be name_alphonse.alternative: Alonso
+				name_balthazar.name_charles
+				name_charles
+				name_diego
+				name_ferdinand name_francis name_froila
+				name_gabriel name_garcia
+				name_henry
+				name_john name_joseph name_joseph.name_ferdinand
+				name_louis
+				name_ordono
+				name_pelagius name_peter name_philip
+				name_ramiro
+				name_sancho
+			}
+			female_names = {
+				name_amelia name_ambrosia name_anna name_antonia
+				name_beatrix
+				name_catherine name_catherine.name_michaela name_charlotte name_charlotte.name_joachima name_constance
+				name_eleanor name_elizabeth name_elizabeth.name_claire.name_eugenie name_eugenie
+				name_joanna name_josephine name_julie
+				name_louise name_louise.name_ferdinanda
+				name_marianne name_mary name_mary.name_anna
+				name_theresa
+				name_urraca
+				name_zenaida
+			}
+			dynasty_names = {
+			}
+		}
+		portuguese_dialect = {
+			default = yes
+		}
+		mdm_brazilian_dialect = {
+
+		}
+	}
+}

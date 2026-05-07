@@ -1,0 +1,627 @@
+#####mdm modern day mod
+
+portuguese = { #portugal portuguese
+	language = portuguese_dialect
+	
+	color = map_POR
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+	
+	culture_groups = {
+		mdm_lusosphere_group iberian_group
+	}
+}
+
+
+#####mdm modern day mod
+
+#brazil regional cultures
+
+#northeast / sertanejo categories
+mdm_canavieiro_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {216 122 18}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group mdm_brazilian_group
+	}
+}
+
+mdm_eastern_sertanejo_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {233 124 27}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_sertanejo_baiano_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {191 110 26}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_sertanejo_araguaio_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {214 129 43}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_northern_jangadeiro_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {255 175 63}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_franciscano_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {255 120 41}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_soteropolitano_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {122 74 40}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_southern_jangadeiro_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {187 144 111}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_sul_baiano_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {176 120 72}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+#amazon / caboclo categories
+mdm_marajoara_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {57 136 31}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_east_caboclo_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {72 153 38}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_west_caboclo_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {68 186 44}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_bragantino_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {129 199 110}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_maranhense_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {185 205 108}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+#southeast / south categories
+mdm_paulistano_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {122 46 43}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_valparaibano_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {145 0 0}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_sul_mineiro_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {168 53 48}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_mineiro_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {227 129 143}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_sorocabano_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {226 0 0}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_tietense_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {170 0 0}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_curitibano_faxinalense_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {173 92 145}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_rio_grandino_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {212 41 58}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_pioneiro_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {175 77 77}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_capiau_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {255 54 54}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_cuiabano_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {209 43 60}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_pantaneiro_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {227 124 124}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_caicara_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {255 191 26}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+#southern categories
+mdm_pampeano_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {64 190 207}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_missioneiro_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {82 154 191}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_litoraneo_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {117 219 227}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_serrano_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {161 152 240}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_campeiro_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {183 143 227}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_acoriano_catarinense_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {227 92 191}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+#rio de janeiro / espirito santo categories
+mdm_carioca_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {126 173 28}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_fluminense_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {170 227 84}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_capixaba_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {176 80 199}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_araguaio_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {240 139 102}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_geraizeiro_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {240 185 149}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+#central / brasilia categories
+mdm_brasiliense_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {224 224 224}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
+
+mdm_serra_amazonico_culture = {
+	language = portuguese_dialect
+	
+	color = rgb {210 193 108}
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group mdm_brazilian_group
+	}
+}
