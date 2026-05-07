@@ -2938,20 +2938,20 @@
  mdm_mineiro_culture: "Mineiro"
  mdm_sorocabano_culture: "Sorocabano"
  mdm_tietense_culture: "Tietense"
- mdm_curitibano_faxinalense_culture: "Curitibano-Faxinalense"
+ mdm_curitibano_faxinalense_culture: "Curitibano"
  mdm_rio_grandino_culture: "Rio-Grandino"
  mdm_pioneiro_culture: "Pioneiro"
  mdm_capiau_culture: "Capiau"
  mdm_cuiabano_culture: "Cuiabano"
  mdm_pantaneiro_culture: "Pantaneiro"
- mdm_caicara_culture: "Caicara"
+ mdm_caicara_culture: "Caiçara"
 
  mdm_pampeano_culture: "Pampeano"
  mdm_missioneiro_culture: "Missioneiro"
- mdm_litoraneo_culture: "Litoraneo"
+ mdm_litoraneo_culture: "Litorâneo"
  mdm_serrano_culture: "Serrano"
  mdm_campeiro_culture: "Campeiro"
- mdm_acoriano_catarinense_culture: "Acoriano Catarinense"
+ mdm_acoriano_catarinense_culture: "Açoriano Catarinense"
 
  mdm_carioca_culture: "Carioca"
  mdm_fluminense_culture: "Fluminense"
@@ -2960,7 +2960,7 @@
  mdm_geraizeiro_culture: "Geraizeiro"
 
  mdm_brasiliense_culture: "Brasiliense"
- mdm_serra_amazonico_culture: "Serra-Amazonico"
+ mdm_serra_amazonico_culture: "Serra-Amazônico"
 
  #brazil dialects
 
