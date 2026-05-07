@@ -53,7 +53,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = afgh_hibatullah_akhundzada
+             # ruler = afgh_hibatullah_akhundzada
          }
       }
 
@@ -76,7 +76,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = alb_bajram_begaj
+             # ruler = alb_bajram_begaj
          }
       }
 
@@ -103,8 +103,8 @@ countries = {
             grand_erg_occidental_east2 west_grand_erg_oriental1 ain_abalessa_corridor timimoun_qulaia_corridor grand_erg_occidental_east1 ain_salah_el_golea_corridor tademait_plateau2 ouargla_el_golea_corridor el_eglab_masif1 el_golea
             ghardaia_el_golea_corridor sahel_corridor34 el_djouf3 tabelbala_charouine_corridor tabelbala_taghaza_corridor1 el_eglab_masif2 tanezrouft_desert_et2 tanezrouft_desert_et1 tademait_plateau1 grand_erg_occidental
             plain_tamlelt1 skikda_mountain sbiba_mountain western_tablate_mountain tablate_mountain northern_tedemait eastern_tablate_mountain tellatlas bades_mountain2 burg_bu_mountain2
-            burg_bu_mountain1 stif_mountain bades_mountain1 talak_desert_et1 sahara_passage_et8 sahel_corridor21 abalessa_djanet_corridor sahel_corridor23 tenere_et1
-			el_djouf4 sahel_corridor32 sahara_passage_et6 el_djouf_et5 sahara_passage_et7 
+            burg_bu_mountain1 stif_mountain bades_mountain1 talak_desert_et1 sahara_passage_et8 sahel_corridor21 abalessa_djanet_corridor sahel_corridor23 tenere_et1 el_djouf4
+            sahel_corridor32 sahara_passage_et6 el_djouf_et5 sahara_passage_et7
          }
 
          #include = "republic"
@@ -162,12 +162,12 @@ countries = {
             south_letota aco ambaca amboim ambriz ambrizete ayo bondo bramas bumbe
             cabinda_kongo cahenda calumbo chimuande demba dondo egito gunza_anbamba icalo imbangala
             kabafa karia kassanje_malemba katobe_a_mubebe kuido kulembe kuneni kusike labolo libolo
-            loge longa lower_pinda luanda lucala luquemba malanji malemba matamba mbaba mbangala
-            mbanza_soyo mbondo mecumba mumbos mussende mussul muxima muxima_ayo nanboa_angonga nbengo
-            najama ndalatando ndembo ngololo nogui nsolu oacco pende_kongo pove pungo_ndongo quibala
-            samba_kongo shanfana soyo sumbis tamba tamba_ambriz tende jonga_pansa kafsanji kajenje
-            kakoba kiluata kimbundu kisenge lubalo lucapa makunda minungo muata_musembo muconda
-            mulunda sakambunje saurimo tala_mugongo
+            loge longa lower_pinda luanda lucala luquemba malanji malemba matamba mbaba
+            mbangala mbanza_soyo mbondo mecumba mumbos mussende mussul muxima muxima_ayo nanboa_angonga
+            nbengo najama ndalatando ndembo ngololo nogui nsolu oacco pende_kongo pove
+            pungo_ndongo quibala samba_kongo shanfana soyo sumbis tamba tamba_ambriz tende jonga_pansa
+            kafsanji kajenje kakoba kiluata kimbundu kisenge lubalo lucapa makunda minungo
+            muata_musembo muconda mulunda sakambunje saurimo tala_mugongo
          }
 
          #include = "republic"
@@ -252,8 +252,7 @@ countries = {
 
          own_control_core = {
             amberd artashavan bjni gagi gladzor goris kapan_armenia kayen khor_virap kumayri
-            lori sotk spitak tatev yerevan lesser_caucasus_et3 lesser_caucasus_mountains10 lesser_caucasus_mountains7 lesser_caucasus_mountains5
-            lesser_caucasus_et1
+            lori sotk spitak tatev yerevan lesser_caucasus_et3 lesser_caucasus_mountains10 lesser_caucasus_mountains7 lesser_caucasus_mountains5 lesser_caucasus_et1
          }
 
          #include = "republic"
@@ -344,7 +343,7 @@ countries = {
             hereti qakh agsu aresh baciravan baku barda beylagan bilasuvar ganja
             gardman goychay javad lemberan mahmudabad maraza mughan niyazabad qabala qobustan
             quba salyan shabran shaki shamakhi shamkir shirvan vartashen zardab caucasus_et2
-            greater_caucasus_mountains10 lesser_caucasus_mountains8 lesser_caucasus_mountains6 lesser_caucasus_et2 
+            greater_caucasus_mountains10 lesser_caucasus_mountains8 lesser_caucasus_mountains6 lesser_caucasus_et2
          }
 
          #include = "republic"
@@ -629,8 +628,8 @@ countries = {
 
          own_control_core = {
             bihac borac doboj drijeva dubica gacko glamoc glaz gradiski_brod jajce
-            kljuc konjic kozara livno mostar nevesinje olovo soli srebrenica
-            srebrenik teocak trebinje ustikolina vrhbosna zenica visegrad dinaric_alps2 dinaric_alps3 dinaric_alps4
+            kljuc konjic kozara livno mostar nevesinje olovo soli srebrenica srebrenik
+            teocak trebinje ustikolina vrhbosna zenica visegrad dinaric_alps2 dinaric_alps3 dinaric_alps4
          }
 
          include = "eastern_european_monarchy"
@@ -733,7 +732,20 @@ countries = {
             kayabi_jungle xingu_amazon_jungle tapajos_amazon_jungle massaco_jungle mequens_jungle pantanal_forest_et amazon_jungle_et15 pantanal_swamp purus_amazon_jungle amazon_jungle
             negro_amazon_jungle amazon_jungle_et7 solimoes_amazon_jungle jiboia_jungle maxakali_jungle piaui_jungle tacuru_jungle auwe_jungle arariboia_jungle saraua_jungle
             piratuba_jungle jundiai_forest itajuba_forest camanducaia_forest atibaia_forest paraibuna_forest baependi_forest cunhambebe_forest tamoio_forest mogi_forest
-            marataiama_forest bocaiuva_forest pinhais_forest goitaca nononai_forest fernando_noronha
+            marataiama_forest bocaiuva_forest pinhais_forest goitaca nononai_forest fernando_noronha new375 new376 new377 new383
+            new378 new360 new382 new372 new374 new371 new370 new379 new380 new362
+            new373 new369 new365 new366 new368 new367 new364 new358 new361 new350
+            new357 new356 new359 new355 new339 new389 new335 new381 new387 new384
+            new390 new354 new363 new348 new333 new334 new331 new332 new344 new346
+            new347 new345 new968 new330 new327 new967 new343 new342 new349 new328
+            new392 new326 new329 new323 new324 new325 new322 new321 new317 new316
+            new319 new320 new318 new338 new336 new310 new308 new337 new314 new309
+            new304 new315 new312 new313 new998 new962 new997 new303 new1000 new993
+            new999 new305 new302 new301 new300 new307 new992 new966 new391 new385
+            new386 new353 new352 new351 new996 new970 new971 new982 new963 new306
+            new969 new959 new985 new973 new960 new986 new987 new991 new989 new988
+            new990 new961 new965 new994 new995 new983 new957 new958 new978 new977
+            new974 new972 new980 new975 new979 new976
          }
 
          #include = "republic"
@@ -1242,77 +1254,77 @@ countries = {
             muli nakchu nubzur nyachukha nyarong pasho pema pembar pome rahor
             rima riwoche rongpo samda sampheling sangacho sangme sershul serta shar_yelpuk
             sho shopando shukden shukjung sibda sok tangkya tengchen tromge trotsang
-            tsakhalkho waerhdje wara_kham yangdzong yungdrung zhanggu baryang dargyeling dungkar
-            dzongkar gartok gyanema khyunglung ormogang purang rala rutok tokchen
-            toling tradun tsaparang tsherlung chorten_nyima dingri ganden_delingshar gonga_chode gyantse jonang
-            lhadrak namling nenying ngamring nyalam pelmo ralung sakya shigatse tagmo_lingkha
-            tropu tsangdram buchu chikchar daklha_gampo damzhung densatil drigung galo gongkar
-            gonpatsi gyama gyamda lhasa lhodrak lho_taklung metog nedong nyemo rigyal
-            rinpung_yarlung samye taklung tragor trigu tsora tsurphu zangchen zhokha banan
-            baxian bishan changshou_changshou daning_kuizhou dazu dianjiang dingyuan dongxiang_dazhou fengdu fengjie
-            fuzhou_sichuan hejiang jiangan jiangjin jianshi kaizhou liangshan linjiang luzhou mingtong
-            nanchuan naxi qijiang rongchang shizhao shizhu taiping tongchuan_dazhou tongliang wanzhou
-            wulong wushan xinning_dazhou yongchuan yunyang beishe changning_changning daguan danleng dayi
-            dechang diaomen dongchuan emei fushun guihua gulin hanyuan heizhang huichuan_dechang
-            huili jiajiang jianchang_sichuan kuozhou leibo lizhou_mahu longyou_jiading lugu luoji luojiao
-            luozuoguan lushan_yazhou mabian mahu mala mangbu meizhou mingshan mingyi muchuan
-            nanxi pengshan pingchuan puge pujiang_qiongzhou qianwei qiaojia qingfu qingshen qiongbu
-            qiongzhou rongjing rongxian rongzhou runyan shimian suzhou tangdan weiyuan_jiading wumeng
-            wusa xuanhua yandao yibin yongning yongshan yunlian zhaoban zhehai zhenxi_lizhou
-            zuosuo anyue anzhou baoning_maozhou cangxi chengdu dazhasi dazhu deyang fuzhou_songpan
-            guanzhou gurkyang heishui hongyuan huacheng huaying jiachuan jiangyou jianzhou jingyan
-            jintang jinyuan langzhong lezhi linshui liujiang maerkang miangu mianzhou mianzhu
-            muge nanbu nanchong nanjiang neijiang pengxi pengzhou pingwu pixian puan
-            qingchuan qiongxi qixian_tongchuan qujiang_guangan renshou rinpung shehong shifang shiquan_maozhou shuangliu
-            songzhou_songpan suining tongjiang wenchuan wenshan xiangru xiaoxi xichong xindu yanting
-            yilong yingshan_shunqing yuechi zengkou zhangming zhaohua zhongjiang zitong zixian ziyang_zizhong
-            anding_suzhou anyuan baiting chijin dangcheng datong_xining ganzhou gaotai guazhou gulang
-            gushan haomen hongshui jinchang jinta kuyu_shazhou liyuan nianbo niuquanzi qidaban
-            qilian shandan shazhou suzhou_gansu xiliang xining yangguan yongchang_ganzhou zhenfan zhuanglang
-            anbian anding anhua ansai baimachen baoan chongxin dingbian dingrong dingyuan_lingzhou
-            fuchuan_ningxia fugu fushi fuzhou_yanan ganquan guangan heshui huachi huaiyuan_mizhi huanzhou_qingyang
-            huating_pingliang jiazhou jingbian jingchuan jingning kaicheng_guyuan kaiguang lingtai lingwu lingzhou
-            longde luochuan mingsha mizhi ningxia ningzhou pingliang qingjian sanchuan shenmu
-            shuiluo suide xianzhou yanchang yanchi yanchuan yichuan yijun yingli zhenning_qingyang
-            zhenrong zhenyuan zhongbu amchok baimaguan chengji chengzhou didao dingxi fuqiang
-            huizhou huizhou_gongchang jiezhou kangu kedang kuntokling lanzhou liangdang lidian liulin
-            longxi_gongchang lutang minzhou ningyuan_gongchang qinan qingshui sancha sangqu taktsang tanchang
-            tewo tongwei tso_gon weiyuan_lintao wenxian_gongchang xigu xihe_huizhou zhangxian baishui baoji
-            chengcheng chenggu chunhua daan duoshui fengxiang foping fucheng fufeng fuping_xian
-            goupingguan guochuan hancheng hanyin heyang_xian huayin huayuan huazhou huxian jingyang
-            jingzhao lantian liangquan lintong linyou liquan liuba longan longzhou_fengxiang lueyang
-            luonan meixian nanzheng ningshan pingli pucheng qianyang qianyou qianzhou qishan
-            sanshui_binzhou sanyao sanyuan shangluo shangnan shangzhou shanyang shiquan tongguan_tongchuan tongzhou
-            weinan xianning_xian xianyang xicheng xinping xixiang xunyang yangyuan yangzhou yongshou
-            zhenan zhouzhi ziyang_xingan beshbalik bortala burqin chinggil dunla geziyandun gonganbao
-            guchung hami hoboksar jeminay jing kara_irtysh kutubi kuytun lukchun manas
-            mori nazhi pichan qanbalik qocho toksun turpan ulan_us ulungur urghtbulaq
-            urumqi usu_xinjiang utbulaq yangjibaliq yuanhu zhekdeliq aksu akto amtogor artush
-            bailongdui bai_xinjiang barchuk bosten bugur charchan charklik dashahai guma jingyu
-            karakax karasahr kargilik kashgar keriya khotan kizilsu kucha kuerchu kumkol
-            kumtura kumux kurla lop loulan maralbexi mazar_tagh miran niya payzawat
-            poskam qietai qira qumbash raskam sanju sarikol shayar tatrang tikenliq
-            tokkuzak uqturpan waxxari yalingkuo yarkand yingisar yopurga yulduz zarafshan phari
-            huanzhou dongliangting baochang fuzhou zhongdu chagannur gaoyuan julu neiqiu renxian
-            shahe xingtai yulin lingling qiyang dongan_yongzhou xiushan youyang pengshui qianjiang_shaoqing
-            lengshuitan guiyang_hengyang dartsedo lhagang baurang zeku hezhou dingqiang guide sailahai
-            jishi muxihe quge mendong selephu samten eastern_korean_mountains1 wulingshan jingshan_mountains wushan_mountains
-            dabashan2 dabashan1 qinlingshan7 qinlingshan4 liupanshan funiushan1 funiushan2 qinlingshan5 taihangshan6 taihangshan5
-            taihangshan4 taihangshan2 taihangshan7 taihangshan8 taihangshan9 taihangshan3 yanshan_mountains3 taihangshan10 yanshan_mountains2 taihangshan1
-            yanshan_mountains1 changshan_islands_wastelands nanling1 nanling2 wugangshan wanyangshan wuyishan2 jiulingshan wuyishan1 nanling3
-            nanling4 hengduanshan10 nyainqentanglha4 nyainqentanglha2 nyainqentanglha1 gangdise3 gangdise4 lunggar2 gangdise6 lunggar1
-            gangdise2 gangdise7 gangdise1 tanggula3 kunlun2 ustun_tag changtang hoh_xil_mountains2 kunlun3 kunlun10
-            kunlun9 altun_shan1 taklamakan3 taklamakan2 taklamakan4 tanggula2 kunlun8 kunlun6 altun_shan2 kumtag2
-            jurhen_ui kumtag1 qinlingshan3 altun_shan3 qinlingshan2 kunlun4 qinlingshan6 kunlun7 qilianshan4 tsaidam_dunes
-            qilianshan3 qilianshan2 qilianshan1 badain_jarain_desert2 tengger_desert badain_jarain_desert1 ulan_buh_desert kunlun5 qinlingshan1 bayan_har_mountains1
-            bayan_har_mountains2 dalungsai hengduanshan7 hengduanshan8 tanggula1 nyainqentanglha6 hengduanshan9 nyainqentanglha5 hengduanshan6 hengduanshan1
-            hengduanshan5 hengduanshan3 qingshuilangshan2 hengduanshan2 hengduanshan4 qingshuilangshan ailaoshan duyangshan mazongshan kumtag3
-            barkol_mountains bodga_shan atas_bogd_mountains_et gurbantunggut saur balruq kuruktag tian_shan5 tian_shan4 borohoro3
-            borohoro2 tian_shan24 tian_shan6 tian_shan3 pamir2 taklamakan1 tian_shan1 pamir1 altay_mountains_et1 mongol_altay_mountains_et
-            tibet_passage_et2 karakoram1 karakoram_et1 kunlun1 tibet_passage_et1 taklamakan5 karakoram4 himalaya7 himalaya14 himalaya8
-            gangdise8 himalaya9 himalaya10 himalaya13 himalaya11 himalaya15 himalaya12 gangdise5 himalaya16 himalaya18
-            nyainqentanglha3 himalaya19 himalaya20 himalaya21 xueshan_yunnan nushan saur_et shan_hills2 fan_si_mountains_et new115
-            new114 new113 new116 new107 new108 new109 new110 new111 new112
+            tsakhalkho waerhdje wara_kham yangdzong yungdrung zhanggu baryang dargyeling dungkar dzongkar
+            gartok gyanema khyunglung ormogang purang rala rutok tokchen toling tradun
+            tsaparang tsherlung chorten_nyima dingri ganden_delingshar gonga_chode gyantse jonang lhadrak namling
+            nenying ngamring nyalam pelmo ralung sakya shigatse tagmo_lingkha tropu tsangdram
+            buchu chikchar daklha_gampo damzhung densatil drigung galo gongkar gonpatsi gyama
+            gyamda lhasa lhodrak lho_taklung metog nedong nyemo rigyal rinpung_yarlung samye
+            taklung tragor trigu tsora tsurphu zangchen zhokha banan baxian bishan
+            changshou_changshou daning_kuizhou dazu dianjiang dingyuan dongxiang_dazhou fengdu fengjie fuzhou_sichuan hejiang
+            jiangan jiangjin jianshi kaizhou liangshan linjiang luzhou mingtong nanchuan naxi
+            qijiang rongchang shizhao shizhu taiping tongchuan_dazhou tongliang wanzhou wulong wushan
+            xinning_dazhou yongchuan yunyang beishe changning_changning daguan danleng dayi dechang diaomen
+            dongchuan emei fushun guihua gulin hanyuan heizhang huichuan_dechang huili jiajiang
+            jianchang_sichuan kuozhou leibo lizhou_mahu longyou_jiading lugu luoji luojiao luozuoguan lushan_yazhou
+            mabian mahu mala mangbu meizhou mingshan mingyi muchuan nanxi pengshan
+            pingchuan puge pujiang_qiongzhou qianwei qiaojia qingfu qingshen qiongbu qiongzhou rongjing
+            rongxian rongzhou runyan shimian suzhou tangdan weiyuan_jiading wumeng wusa xuanhua
+            yandao yibin yongning yongshan yunlian zhaoban zhehai zhenxi_lizhou zuosuo anyue
+            anzhou baoning_maozhou cangxi chengdu dazhasi dazhu deyang fuzhou_songpan guanzhou gurkyang
+            heishui hongyuan huacheng huaying jiachuan jiangyou jianzhou jingyan jintang jinyuan
+            langzhong lezhi linshui liujiang maerkang miangu mianzhou mianzhu muge nanbu
+            nanchong nanjiang neijiang pengxi pengzhou pingwu pixian puan qingchuan qiongxi
+            qixian_tongchuan qujiang_guangan renshou rinpung shehong shifang shiquan_maozhou shuangliu songzhou_songpan suining
+            tongjiang wenchuan wenshan xiangru xiaoxi xichong xindu yanting yilong yingshan_shunqing
+            yuechi zengkou zhangming zhaohua zhongjiang zitong zixian ziyang_zizhong anding_suzhou anyuan
+            baiting chijin dangcheng datong_xining ganzhou gaotai guazhou gulang gushan haomen
+            hongshui jinchang jinta kuyu_shazhou liyuan nianbo niuquanzi qidaban qilian shandan
+            shazhou suzhou_gansu xiliang xining yangguan yongchang_ganzhou zhenfan zhuanglang anbian anding
+            anhua ansai baimachen baoan chongxin dingbian dingrong dingyuan_lingzhou fuchuan_ningxia fugu
+            fushi fuzhou_yanan ganquan guangan heshui huachi huaiyuan_mizhi huanzhou_qingyang huating_pingliang jiazhou
+            jingbian jingchuan jingning kaicheng_guyuan kaiguang lingtai lingwu lingzhou longde luochuan
+            mingsha mizhi ningxia ningzhou pingliang qingjian sanchuan shenmu shuiluo suide
+            xianzhou yanchang yanchi yanchuan yichuan yijun yingli zhenning_qingyang zhenrong zhenyuan
+            zhongbu amchok baimaguan chengji chengzhou didao dingxi fuqiang huizhou huizhou_gongchang
+            jiezhou kangu kedang kuntokling lanzhou liangdang lidian liulin longxi_gongchang lutang
+            minzhou ningyuan_gongchang qinan qingshui sancha sangqu taktsang tanchang tewo tongwei
+            tso_gon weiyuan_lintao wenxian_gongchang xigu xihe_huizhou zhangxian baishui baoji chengcheng chenggu
+            chunhua daan duoshui fengxiang foping fucheng fufeng fuping_xian goupingguan guochuan
+            hancheng hanyin heyang_xian huayin huayuan huazhou huxian jingyang jingzhao lantian
+            liangquan lintong linyou liquan liuba longan longzhou_fengxiang lueyang luonan meixian
+            nanzheng ningshan pingli pucheng qianyang qianyou qianzhou qishan sanshui_binzhou sanyao
+            sanyuan shangluo shangnan shangzhou shanyang shiquan tongguan_tongchuan tongzhou weinan xianning_xian
+            xianyang xicheng xinping xixiang xunyang yangyuan yangzhou yongshou zhenan zhouzhi
+            ziyang_xingan beshbalik bortala burqin chinggil dunla geziyandun gonganbao guchung hami
+            hoboksar jeminay jing kara_irtysh kutubi kuytun lukchun manas mori nazhi
+            pichan qanbalik qocho toksun turpan ulan_us ulungur urghtbulaq urumqi usu_xinjiang
+            utbulaq yangjibaliq yuanhu zhekdeliq aksu akto amtogor artush bailongdui bai_xinjiang
+            barchuk bosten bugur charchan charklik dashahai guma jingyu karakax karasahr
+            kargilik kashgar keriya khotan kizilsu kucha kuerchu kumkol kumtura kumux
+            kurla lop loulan maralbexi mazar_tagh miran niya payzawat poskam qietai
+            qira qumbash raskam sanju sarikol shayar tatrang tikenliq tokkuzak uqturpan
+            waxxari yalingkuo yarkand yingisar yopurga yulduz zarafshan phari huanzhou dongliangting
+            baochang fuzhou zhongdu chagannur gaoyuan julu neiqiu renxian shahe xingtai
+            yulin lingling qiyang dongan_yongzhou xiushan youyang pengshui qianjiang_shaoqing lengshuitan guiyang_hengyang
+            dartsedo lhagang baurang zeku hezhou dingqiang guide sailahai jishi muxihe
+            quge mendong selephu samten eastern_korean_mountains1 wulingshan jingshan_mountains wushan_mountains dabashan2 dabashan1
+            qinlingshan7 qinlingshan4 liupanshan funiushan1 funiushan2 qinlingshan5 taihangshan6 taihangshan5 taihangshan4 taihangshan2
+            taihangshan7 taihangshan8 taihangshan9 taihangshan3 yanshan_mountains3 taihangshan10 yanshan_mountains2 taihangshan1 yanshan_mountains1 changshan_islands_wastelands
+            nanling1 nanling2 wugangshan wanyangshan wuyishan2 jiulingshan wuyishan1 nanling3 nanling4 hengduanshan10
+            nyainqentanglha4 nyainqentanglha2 nyainqentanglha1 gangdise3 gangdise4 lunggar2 gangdise6 lunggar1 gangdise2 gangdise7
+            gangdise1 tanggula3 kunlun2 ustun_tag changtang hoh_xil_mountains2 kunlun3 kunlun10 kunlun9 altun_shan1
+            taklamakan3 taklamakan2 taklamakan4 tanggula2 kunlun8 kunlun6 altun_shan2 kumtag2 jurhen_ui kumtag1
+            qinlingshan3 altun_shan3 qinlingshan2 kunlun4 qinlingshan6 kunlun7 qilianshan4 tsaidam_dunes qilianshan3 qilianshan2
+            qilianshan1 badain_jarain_desert2 tengger_desert badain_jarain_desert1 ulan_buh_desert kunlun5 qinlingshan1 bayan_har_mountains1 bayan_har_mountains2 dalungsai
+            hengduanshan7 hengduanshan8 tanggula1 nyainqentanglha6 hengduanshan9 nyainqentanglha5 hengduanshan6 hengduanshan1 hengduanshan5 hengduanshan3
+            qingshuilangshan2 hengduanshan2 hengduanshan4 qingshuilangshan ailaoshan duyangshan mazongshan kumtag3 barkol_mountains bodga_shan
+            atas_bogd_mountains_et gurbantunggut saur balruq kuruktag tian_shan5 tian_shan4 borohoro3 borohoro2 tian_shan24
+            tian_shan6 tian_shan3 pamir2 taklamakan1 tian_shan1 pamir1 altay_mountains_et1 mongol_altay_mountains_et tibet_passage_et2 karakoram1
+            karakoram_et1 kunlun1 tibet_passage_et1 taklamakan5 karakoram4 himalaya7 himalaya14 himalaya8 gangdise8 himalaya9
+            himalaya10 himalaya13 himalaya11 himalaya15 himalaya12 gangdise5 himalaya16 himalaya18 nyainqentanglha3 himalaya19
+            himalaya20 himalaya21 xueshan_yunnan nushan saur_et shan_hills2 fan_si_mountains_et new115 new114 new113
+            new116 new107 new108 new109 new110 new111 new112
          }
 
          #include = "republic"
@@ -1521,8 +1533,8 @@ countries = {
             brac crikvenica dubrovnik kaseg knin krk makarska metkovic novigrad otocac
             pag pazin pola rijeka rovinj senj sibenik sinj slano split
             zadar bjelovar ilok karlovac koprivnica kutina osijek pakrac petrinja pozega
-            sisak slunj srb varazdin vaska virovitica vukovar zagreb cakovec mohacs dinaric_alps1
-            dinaric_alps9 lastovo_island_wasteland
+            sisak slunj srb varazdin vaska virovitica vukovar zagreb cakovec mohacs
+            dinaric_alps1 dinaric_alps9 lastovo_island_wasteland
          }
 
          #include = "republic"
@@ -2033,9 +2045,9 @@ countries = {
             sastmola sauvo savonranta sjundea storkyro sysma tavastehus veckelax vederlax viitasaari
             villmanstrand vora ilomantsi joensuu juuka lieksa mohko nurmes vartsila brahestad
             enare enontakis ivalo kajana kasivarren kemijarvi kiemi kittila korvala kuhmo
-            kuivaniemi kuusamo nunnanen paltamo posio pudasjarvi ranua rovaniemi salla
-            savukoski siikalatva simo sodankyla sotkamo suomussalmi taivalkoski uleaborg utajarvi utsjoki
-            kastelholm lapland_taiga1
+            kuivaniemi kuusamo nunnanen paltamo posio pudasjarvi ranua rovaniemi salla savukoski
+            siikalatva simo sodankyla sotkamo suomussalmi taivalkoski uleaborg utajarvi utsjoki kastelholm
+            lapland_taiga1
          }
 
          #include = "republic"
@@ -2056,67 +2068,67 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            reunion maore carucairi iguanacaera cayenne iaremappo kourou maroni palikur alluyes angers
-            bauge beaumont_au_maine beaupreau belleme chateau_du_loir chateau_gontier laval le_lude le_mans loudun
-            mayenne mortagne passavant sable sainte_suzanne saumur senonches st_calais villaines allegre
-            aurillac bourbon brioude chambon clermont herment huriel jaligny mauriac molins
-            montaigut montlucon riom saint_flour st_gerand thiers tour_auvergne vichy vic_le_comte vodable
-            blain brest carhaix chateaubriant chateaulin chatelaudren dol fougeres guerande hennebont
-            josselin le_faou machecoul monfort_sur_meu nantes ploermel quimper quimperle redon rennes
-            rohan saint_brieuc saint_malo st_pol_de_leon treguier vannes vitre aignay arnay autun
-            auxerre auxonne avallon beaune cercy chalon_sur_saone charolles chateau_chinon chatillon_sur_seine dijon
-            donzy louhans macon montcenis montreuillon nevers semur_en_auxois semur_en_brionnais st_pierre_de_moutier bar_sur_aube
-            bar_sur_seine brienne broyes chalons_champagne chateau_porcien chateau_thierry chaumont choiseul epernay grancey
-            grandpre joigny joinville langres la_mothe_en_bassigny meaux menehould mouzon nogent_sur_seine provins
-            reims rethel rosnay saint_florentin sens tonnerre troyes vaucouleurs vertus villemaur
-            vitry_en_pertois baume besancon dole gray luxeuil montbeliard montbozon orgelet ornans
-            poligny pontarlier saint_claude salins_les_bains vesoul aire aspet auch bayonne dax
-            labrit lectoure lisle_jourdain mauleon mimizan mirande mont_de_marsan muret nogaro oloron
-            orthez pau saint_gaudens saint_jean_pied_de_port saint_lizier tarbes tartas tosse agen bazas
-            belin benauges bergerac bordeaux cahors castelnau_de_medoc condom entraigues figeac gourdon
-            la_teste_de_buch lesparre_medoc libourne limeuil marmande millau montauban montflanquin nerac perigueux
-            peyrusse riberac rodez sarlat sauveterre_de_guyenne st_affrique villefranche beauvais braine brie_comte_robert
-            chaumont_vexin clermont_en_beauvaisis corbeil coucy crepy laon mantes melun monfort_lamaury montmorency
-            nemours noyon paris roucy senlis soissons agde albi beziers carcassonne
-            castelnaudary castres chalancon chateauneuf_de_randon fenouillet florac foix french_ales lautrec lavaur
-            le_puy limoux lodeve melgueil mende mirepoix montlaur montpellier narbonne nimes
-            pamiers peyre privas saint_pons st_ambroix toulouse tournon uzes verdun_sur_garonne villemur
-            viviers aixe aubusson bellac bourganeuf brosse charroux gueret limoges nontron
-            rochechouart segur st_leonard thiviers tulle turenne ussel ventadour arches bar_le_duc
-            bitche clermont_en_argonne darney epinal etain fresnes ligny longwy luneville metz
-            mirecourt morhange nancy neufchateau_des_vosges saarwerden saint_avold saint_die saint_mihiel salm sarrebourg
-            sarreguemines toul verdun vic_sur_seille wallerfangen bage beaujeu belley bourg_en_bresse feurs
-            gex lyon montbrison perreux riverie roanne saint_etienne thoire trevoux villars
-            alencon argentan arques aumale avranches bayeux bernay caen cherbourg coutances
-            domfront evreux falaise fecamp gisors harcourt laigle lisieux longueville louviers
-            mortain pont_audemer pont_douilly rouen st_sauveur tancarville vire amboise auneau beaugency
-            blois bourges boussac chartres chateaudun chateauroux chatillon_sur_indre chinon dreux etampes
-            gien issoudun lignieres loches montargis orleans romorantin sancerre sancoins st_aignan
-            sully tours vendome vierzon vitry_aux_loges abbeville amiens arras bapaume bethune
-            boulogne_sur_mer breteuil calais cambrai corbie guise hesdin hirson lens marle
-            montreuil nesle peronne ribemont saint_omer saint_pol saint_quentin angouleme aulnay beauvoir
-            chabanais chatellerault cognac fontenay jonzac la_rochelle la_roche_sur_yon lusignan mauleon_poitou montaigu
-            montendre montmorillon niort oleron parthenay poitiers rochefort royan saintes st_jean_dangely
-            talmont thouars aix_en_provence apt arles avignon barcelonnette barjols brignoles castellane
-            digne draguignan forcalquier frejus grasse marseille nice orange puget_theniers sisteron
-            tarascon toulon annecy briancon chambery condorcet die evian faucigny gap
-            grenoble la_mure la_roche_sur_foron la_tour_du_pin mevouillon moutiers romans saint_jean_de_maurienne saint_marceilin sallanches
-            valence vienne odello perpignan prades ajaccio aleria bastia bonifacio calvi
-            corte sartene vico cassel douai dunkirk lille maubeuge montmedy thionville
-            valenciennes belfort benfeld colmar ensisheim ferrette haguenau lichtenberg mulhouse murbach
-            strasbourg zabern ajie cemuhi drehu fwai ndrumbea nengone numee nyelayu
-            ouvea_atoll paici tiri xaracuu yuanga uvea_atoll apataki_atoll aratika_atoll fakarava_atoll kauehi_atoll
-            raraka_atoll toau_atoll faaite_atoll tahanea_atoll taungataki_atoll mangareva manihi_atoll marutea takaroa_atoll miquelon
-            north_eastern_pyrenees2 north_eastern_pyrenees1 north_western_pyrenees pennine_alps1 graian_alps1 dauphine_alps2 cottian_alps1 maritime_alps1 dauphine_alps1 vercors_massif
-            massif_central vivarais_mountains dore_mountains amazon_jungle_et4 corsican_mountains nosy_ampela kwenyii beautemps_beaupre_atoll new_caledonia_barrier_reef_1 belep
-            new_caledonia_barrier_reef_2 entrecasteaux_atoll marotiri oparo raivavae_atoll raivavae tubuai_atoll tubuai rurutu nororotu_atoll
-            rimatara oeno_atoll pitcairn ducie_atoll henderson caroline hiva_oa ua_pou ua_huka nuku_hiva
-            eiao puka_puka_atoll napuka_atoll motutunga_atoll haraiki_atoll nganaa_nui_atoll hereheretue_atoll fangatau_atoll raroia_atoll taenga_atoll
-            rekareka_atoll makemo_atoll acteon reao reitoru_atoll tauere_atoll hikueru_atoll taunga_tauranga_atoll tatakoto papakena_atoll
-            paraoa_atoll marokau_atoll nengonengo_atoll haorangi_atoll nukutavake tematagi_atoll anuanuraro_atoll nihiru_atoll manuae_atoll maupihaa_atoll
-            motu_one_atoll mehetia rangiroa_atoll havaii arutua_atoll pora_pora_atoll pora_pora havaii_atoll maupiti_atoll aopuni_atoll
-            maiao tahiti_atoll tahiti moorea_atoll moorea tetiaroa_atoll huahine_atoll huahine makatea_atoll kaukura_atoll
-            tikehau_atoll saint_paul_island kergelen walichi
+            reunion maore carucairi iguanacaera cayenne iaremappo kourou maroni palikur alluyes
+            angers bauge beaumont_au_maine beaupreau belleme chateau_du_loir chateau_gontier laval le_lude le_mans
+            loudun mayenne mortagne passavant sable sainte_suzanne saumur senonches st_calais villaines
+            allegre aurillac bourbon brioude chambon clermont herment huriel jaligny mauriac
+            molins montaigut montlucon riom saint_flour st_gerand thiers tour_auvergne vichy vic_le_comte
+            vodable blain brest carhaix chateaubriant chateaulin chatelaudren dol fougeres guerande
+            hennebont josselin le_faou machecoul monfort_sur_meu nantes ploermel quimper quimperle redon
+            rennes rohan saint_brieuc saint_malo st_pol_de_leon treguier vannes vitre aignay arnay
+            autun auxerre auxonne avallon beaune cercy chalon_sur_saone charolles chateau_chinon chatillon_sur_seine
+            dijon donzy louhans macon montcenis montreuillon nevers semur_en_auxois semur_en_brionnais st_pierre_de_moutier
+            bar_sur_aube bar_sur_seine brienne broyes chalons_champagne chateau_porcien chateau_thierry chaumont choiseul epernay
+            grancey grandpre joigny joinville langres la_mothe_en_bassigny meaux menehould mouzon nogent_sur_seine
+            provins reims rethel rosnay saint_florentin sens tonnerre troyes vaucouleurs vertus
+            villemaur vitry_en_pertois baume besancon dole gray luxeuil montbeliard montbozon orgelet
+            ornans poligny pontarlier saint_claude salins_les_bains vesoul aire aspet auch bayonne
+            dax labrit lectoure lisle_jourdain mauleon mimizan mirande mont_de_marsan muret nogaro
+            oloron orthez pau saint_gaudens saint_jean_pied_de_port saint_lizier tarbes tartas tosse agen
+            bazas belin benauges bergerac bordeaux cahors castelnau_de_medoc condom entraigues figeac
+            gourdon la_teste_de_buch lesparre_medoc libourne limeuil marmande millau montauban montflanquin nerac
+            perigueux peyrusse riberac rodez sarlat sauveterre_de_guyenne st_affrique villefranche beauvais braine
+            brie_comte_robert chaumont_vexin clermont_en_beauvaisis corbeil coucy crepy laon mantes melun monfort_lamaury
+            montmorency nemours noyon paris roucy senlis soissons agde albi beziers
+            carcassonne castelnaudary castres chalancon chateauneuf_de_randon fenouillet florac foix french_ales lautrec
+            lavaur le_puy limoux lodeve melgueil mende mirepoix montlaur montpellier narbonne
+            nimes pamiers peyre privas saint_pons st_ambroix toulouse tournon uzes verdun_sur_garonne
+            villemur viviers aixe aubusson bellac bourganeuf brosse charroux gueret limoges
+            nontron rochechouart segur st_leonard thiviers tulle turenne ussel ventadour arches
+            bar_le_duc bitche clermont_en_argonne darney epinal etain fresnes ligny longwy luneville
+            metz mirecourt morhange nancy neufchateau_des_vosges saarwerden saint_avold saint_die saint_mihiel salm
+            sarrebourg sarreguemines toul verdun vic_sur_seille wallerfangen bage beaujeu belley bourg_en_bresse
+            feurs gex lyon montbrison perreux riverie roanne saint_etienne thoire trevoux
+            villars alencon argentan arques aumale avranches bayeux bernay caen cherbourg
+            coutances domfront evreux falaise fecamp gisors harcourt laigle lisieux longueville
+            louviers mortain pont_audemer pont_douilly rouen st_sauveur tancarville vire amboise auneau
+            beaugency blois bourges boussac chartres chateaudun chateauroux chatillon_sur_indre chinon dreux
+            etampes gien issoudun lignieres loches montargis orleans romorantin sancerre sancoins
+            st_aignan sully tours vendome vierzon vitry_aux_loges abbeville amiens arras bapaume
+            bethune boulogne_sur_mer breteuil calais cambrai corbie guise hesdin hirson lens
+            marle montreuil nesle peronne ribemont saint_omer saint_pol saint_quentin angouleme aulnay
+            beauvoir chabanais chatellerault cognac fontenay jonzac la_rochelle la_roche_sur_yon lusignan mauleon_poitou
+            montaigu montendre montmorillon niort oleron parthenay poitiers rochefort royan saintes
+            st_jean_dangely talmont thouars aix_en_provence apt arles avignon barcelonnette barjols brignoles
+            castellane digne draguignan forcalquier frejus grasse marseille nice orange puget_theniers
+            sisteron tarascon toulon annecy briancon chambery condorcet die evian faucigny
+            gap grenoble la_mure la_roche_sur_foron la_tour_du_pin mevouillon moutiers romans saint_jean_de_maurienne saint_marceilin
+            sallanches valence vienne odello perpignan prades ajaccio aleria bastia bonifacio
+            calvi corte sartene vico cassel douai dunkirk lille maubeuge montmedy
+            thionville valenciennes belfort benfeld colmar ensisheim ferrette haguenau lichtenberg mulhouse
+            murbach strasbourg zabern ajie cemuhi drehu fwai ndrumbea nengone numee
+            nyelayu ouvea_atoll paici tiri xaracuu yuanga uvea_atoll apataki_atoll aratika_atoll fakarava_atoll
+            kauehi_atoll raraka_atoll toau_atoll faaite_atoll tahanea_atoll taungataki_atoll mangareva manihi_atoll marutea takaroa_atoll
+            miquelon north_eastern_pyrenees2 north_eastern_pyrenees1 north_western_pyrenees pennine_alps1 graian_alps1 dauphine_alps2 cottian_alps1 maritime_alps1 dauphine_alps1
+            vercors_massif massif_central vivarais_mountains dore_mountains amazon_jungle_et4 corsican_mountains nosy_ampela kwenyii beautemps_beaupre_atoll new_caledonia_barrier_reef_1
+            belep new_caledonia_barrier_reef_2 entrecasteaux_atoll marotiri oparo raivavae_atoll raivavae tubuai_atoll tubuai rurutu
+            nororotu_atoll rimatara oeno_atoll pitcairn ducie_atoll henderson caroline hiva_oa ua_pou ua_huka
+            nuku_hiva eiao puka_puka_atoll napuka_atoll motutunga_atoll haraiki_atoll nganaa_nui_atoll hereheretue_atoll fangatau_atoll raroia_atoll
+            taenga_atoll rekareka_atoll makemo_atoll acteon reao reitoru_atoll tauere_atoll hikueru_atoll taunga_tauranga_atoll tatakoto
+            papakena_atoll paraoa_atoll marokau_atoll nengonengo_atoll haorangi_atoll nukutavake tematagi_atoll anuanuraro_atoll nihiru_atoll manuae_atoll
+            maupihaa_atoll motu_one_atoll mehetia rangiroa_atoll havaii arutua_atoll pora_pora_atoll pora_pora havaii_atoll maupiti_atoll
+            aopuni_atoll maiao tahiti_atoll tahiti moorea_atoll moorea tetiaroa_atoll huahine_atoll huahine makatea_atoll
+            kaukura_atoll tikehau_atoll saint_paul_island kergelen walichi
          }
 
          #include = "republic"
@@ -2230,8 +2242,8 @@ countries = {
             coleraine derry downpatrick dungannon dunluce enniskillen iveagh magherafelt newtownards oriel
             strabane orkney shetland st_helena ochil_hills pennines_01 pennines_03 pennines_02 north_york_moors pennines_06
             pennines_05 pennines_04 cambrian_mountains snowdon berwyn_range dartmoor brecon_beacons ben_nevis cairngorm ben_klibreck
-            fannichs carn_eige scilly_isles georgia_isle tristan_da_cunha_island gough_island malliouhana ariogana ascensao
-			new132 new131
+            fannichs carn_eige scilly_isles georgia_isle tristan_da_cunha_island gough_island malliouhana ariogana ascensao new132
+            new131
          }
 
          include = "expl_mdm_whole_world"
@@ -2740,10 +2752,10 @@ countries = {
             s_nallamalla astamba_dongar n_nallamalla harishchandra_range khandesh_mountains khandesh_mountains_2 gondwana_hills nimar_mountains eastern_ghats_jeypore gondwana_hills_2
             eastern_ghats_kalahandi eastern_ghats_south_odisha eastern_ghats_south_bastar bastar_impassable sitanadi_hills malkala_range_2 malkala_range gondwana_hills_3 garhjat_range southern_hazirabagh_range
             mainpat ramgarh_hills upar_ghat mailan_hills kherigarh great_rann_of_kutch biswan khairabad firuzabad_bahraich bhurwara
-            datia aravali_range thar_desert_bikaner little_rann_of_kutch thar_desert thar_desert_2 simlipal_hills gorumahisani_range himalaya3
-            himalaya1 karakoram2 himalayas_chanda_3 pir_panjal_range pangi_range kashmiri_himalayas pir_panjal_range_2 himalaya6 himalayas_chanda himalayas_chanda_2
-            himalaya5 himalaya2 himalaya_et1 himalaya_et2 himalaya23 himalaya_et9 himalaya_et10 himalaya_et11 himalaya_et12 naga_hills_et1
-            naga_hills_et2 naga_hills_et3 naga_hills1 himalaya_et7 barren_island drangtse tashigang 
+            datia aravali_range thar_desert_bikaner little_rann_of_kutch thar_desert thar_desert_2 simlipal_hills gorumahisani_range himalaya3 himalaya1
+            karakoram2 himalayas_chanda_3 pir_panjal_range pangi_range kashmiri_himalayas pir_panjal_range_2 himalaya6 himalayas_chanda himalayas_chanda_2 himalaya5
+            himalaya2 himalaya_et1 himalaya_et2 himalaya23 himalaya_et9 himalaya_et10 himalaya_et11 himalaya_et12 naga_hills_et1 naga_hills_et2
+            naga_hills_et3 naga_hills1 himalaya_et7 barren_island drangtse tashigang
          }
 
          #include = "republic"
@@ -2886,7 +2898,9 @@ countries = {
             zagros_mountains21 dasht_lut3 khorasan_mountains1 khorasan_mountains2 new926 new914 new921 new930 new919 new916
             new910 new932 new934 new936 new931 new935 new933 new922 new911 new927
             new929 new912 new918 new924 new909 new928 new915 new923 new913 new925
-            new917 new907 new920 new908
+            new917 new907 new920 new908 new943 new953 new947 new938 new945 new939
+            new944 new950 new940 new942 new956 new951 new941 new954 new948 new937
+            new949 new952 new955 new946
          }
 
          #include = "muslim_monarchy"
@@ -2968,7 +2982,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            acre beersheba jaffa majdal safed sughar umm_rashrash negev_desert new95 
+            acre beersheba jaffa majdal safed sughar umm_rashrash negev_desert new95
          }
 
          control_core = {
@@ -3024,9 +3038,9 @@ countries = {
             schio spilimbergo tolmezzo treviso udine venice verona vicenza bolzano brixen
             bruneck cavalese cles merano riva rovereto silandro sterzing trento villandro
             pragelato dolomite_alps6 dolomite_alps2 otztal_alps1 dolomite_alps7 dolomite_alps1 dolomite_alps5 rhaetian_alps7 dolomite_alps4 rhaetian_alps8
-            rhaetian_alps3 rhaetian_alps2 rhaetian_alps6 pennine_alps2 graian_alps2 cottian_alps3 cottian_alps2 ligurian_alps mount_stromboli
-            mount_etna southern_apennines central_apennines7 central_apennines6 central_apennines5 central_apennines4 central_apennines3 central_apennines2 central_apennines1 gennargentu_mountains
-            north_apennines rhaetian_alps5 pantelleria lampedusa dolomite_alps3 lepontine_alps1
+            rhaetian_alps3 rhaetian_alps2 rhaetian_alps6 pennine_alps2 graian_alps2 cottian_alps3 cottian_alps2 ligurian_alps mount_stromboli mount_etna
+            southern_apennines central_apennines7 central_apennines6 central_apennines5 central_apennines4 central_apennines3 central_apennines2 central_apennines1 gennargentu_mountains north_apennines
+            rhaetian_alps5 pantelleria lampedusa dolomite_alps3 lepontine_alps1
          }
 
          #include = "republic"
@@ -3134,7 +3148,7 @@ countries = {
             takashima toki tone tsuga tsukama usui yoshiki habomai hidaka_mountains ishikari_mountains
             ulleungdo izu_islands echigo_mountains kii_mountains mount_fuji okuchichibu_mountains asama_mountains mikuni_mountains akaishi_mountains yatsugatake_mountains
             kiso_mountains mount_ontake hida_mountains mount_haku mount_tsurugi ishizuchi_mountains geiyo_islands_wastelands mishima_island koshikishima satsunan_islands
-            kumejima iwo_jima kita_iwo_jima hahajima chichijima 
+            kumejima iwo_jima kita_iwo_jima hahajima chichijima tarama yonaguni
          }
 
          #include = "japanese_clan"
@@ -3157,7 +3171,7 @@ countries = {
          own_control_core = {
             al_quwayrah amman aqaba azraq irbid karak maan madaba ruwaished shoubak
             syrian_desert_corridor10 syrian_desert_corridor4 syrian_desert_corridor2 syrian_desert13 jordan_desert_corridor1 syrian_desert2 syrian_desert1 new874 new870 new872
-            new875 new873 new871 
+            new875 new873 new871
          }
 
          #include = "muslim_monarchy"
@@ -4019,10 +4033,12 @@ countries = {
             skoura tafraout taghjijt tagmadert tamdoult taroudant tata_MOR taznakht tazzarine tidsi
             tiout tissint tiznit tizounine todgha aousserd bojador dakhla laayoune smara
             tantan western_rif plain_of_tamlelt_et1 plain_of_tamlelt_et2 plain_tamlelt4 moulouya_corridor3 lower_rif rif north_middle_atlas south_middle_atlas2
-            plain_tamlelt2 east_high_atlas ksar_es_souk_bechar_corridor moulouya_corridor2 plain_tamlelt3 moulouya_corridor1 sahel_corridor08 beni_sabih_tabelbala_corridor south_middle_atlas1
-            western_high_atlas2 eastern_high_atlas1 eastern_anti_atlas eastern_high_atlas2 high_atlas1 western_high_atlas1 high_atlas2 middle_high_atlas anti_atlas2 anti_atlas1
-            el_djouf_et4 el_djouf5 el_eglab_massif_et1 sahel_corridor31 el_djouf_et3 el_djouf2
-            sahel_corridor33 el_djouf1 erg_amatlich al_kuwayra al_mahbes
+            plain_tamlelt2 east_high_atlas ksar_es_souk_bechar_corridor moulouya_corridor2 plain_tamlelt3 moulouya_corridor1 sahel_corridor08 beni_sabih_tabelbala_corridor south_middle_atlas1 western_high_atlas2
+            eastern_high_atlas1 eastern_anti_atlas eastern_high_atlas2 high_atlas1 western_high_atlas1 high_atlas2 middle_high_atlas anti_atlas2 anti_atlas1 el_djouf_et4
+            el_djouf5 el_eglab_massif_et1 sahel_corridor31 el_djouf_et3 el_djouf2 sahel_corridor33 el_djouf1 erg_amatlich al_kuwayra al_mahbes
+            new6003 new6015 new6016 new6018 new6002 new6004 new6009 new6011 new6008 new6019
+            new6000 new6005 new6010 new6013 new6020 new6001 new6006 new6007 new6017 new6012
+            new6014
          }
 
          #include = "muslim_monarchy"
@@ -4112,9 +4128,9 @@ countries = {
          own_control_core = {
             katima lukana mamele ombongo basarwa hoachanas kharakhoen khaugoan khowesen ogain
             xam aakhoe aonin bayei damara ezorongondo haiom himba namaqua otjozondjii
-            ovaherero owambo tjimba hambukushu juhoansi kwangali odonga omatako omuthiya
-            oukwanyama uukwambi xun etosha_salt_pan ombombo_mountains otjiwarongo_mountains hakos_mountains mocamedes_desert garibams
-            tsau tsaris_mountains namib_desert nakop kharooan bondelswarts karas
+            ovaherero owambo tjimba hambukushu juhoansi kwangali odonga omatako omuthiya oukwanyama
+            uukwambi xun etosha_salt_pan ombombo_mountains otjiwarongo_mountains hakos_mountains mocamedes_desert garibams tsau tsaris_mountains
+            namib_desert nakop kharooan bondelswarts karas
          }
 
          #include = "republic"
@@ -4128,8 +4144,13 @@ countries = {
       }
 
 
+      NAV = {
+         country_rank = rank_county
+       }
+
+
       NCYP = {
-         capital = new134			#should be North Nicosia
+         capital = new134 #should be North Nicosia
          # government = {ruler = ncyp_dervis_eroglu }
          country_rank = rank_duchy
          starting_technology_level = 3
@@ -4145,14 +4166,8 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
-
-
-      NAV = {
-         country_rank = rank_county
-       }
 
 
       NED = {
@@ -4468,9 +4483,9 @@ countries = {
             islamkot jhal jhatpat kandiaro kashmore kotri kot_lalu lahri laribandar manora
             mansura mithri moro_sindh muhammad_tur nagarparkar naserpur paat rajabar ranikot rohri
             sehwan shadodkot shikarpur siwi sonda sui_pakistan sukkur thatta umarkot vingur
-            wanga_bazar thar_desert_3 tharparkar_desert suleiman_range_6 kirtar_range_2 kharan_desert2 kharan_desert3 kharan_desert1 kirtar_range suleiman_range_7 suleiman_range_2
-            suleiman_range_3 suleiman_range_9 suleiman_range_5 suleiman_range_8 suleiman_range_1 salt_range_3 thal_desert thal_desert_2 salt_range nanga_parbat
-            pir_panjal_range_3 karakoram3 hindu_kush8 hindu_kush10 hindu_kush9 hindu_kush7 hindu_kush4 mashkel
+            wanga_bazar thar_desert_3 tharparkar_desert suleiman_range_6 kirtar_range_2 kharan_desert2 kharan_desert3 kharan_desert1 kirtar_range suleiman_range_7
+            suleiman_range_2 suleiman_range_3 suleiman_range_9 suleiman_range_5 suleiman_range_8 suleiman_range_1 salt_range_3 thal_desert thal_desert_2 salt_range
+            nanga_parbat pir_panjal_range_3 karakoram3 hindu_kush8 hindu_kush10 hindu_kush9 hindu_kush7 hindu_kush4 mashkel
          }
 
          #include = "republic"
@@ -5640,8 +5655,7 @@ countries = {
             denia elche gandia jativa lliria llucena morella orihuela peniscola valencia
             puigcerda filambres_range subbetic_range nevada_range madrona_range segura_range iberian_system moncayo_range urbion_peaks demanda_range
             east_cantabrian_mountains west_cantabrian_mountains picos_de_europa ancares_range leon_mountains cabrera_range francia_mountains eastern_central_system3 bejar_mountains eastern_central_system1
-            eastern_central_system2 western_central_system south_eastern_pyrenees central_pyrenees south_western_pyrenees3 south_western_pyrenees1 south_western_pyrenees2
-			new135
+            eastern_central_system2 western_central_system south_eastern_pyrenees central_pyrenees south_western_pyrenees3 south_western_pyrenees1 south_western_pyrenees2 new135
          }
 
          #include = "republic"
@@ -5812,10 +5826,10 @@ countries = {
             helsingborg kungsbacka laholm lund malmo osby ronneby solvesborg varberg arboga
             avesta enkoping falun farnebo floda fryksdal gefle gillberg goksholm grange
             grythyttan hamrange heby hedemora hedesunda idre josse kolmarden leksand linde
-            malung mora mourionska nas nora nordmark norrtalje nykoping ockelbo oppunda orebro
-            orsa riseberga sala skinskatteberg soderbarke sodertalje stockholm stora_tuna strangnas tierp
-            tingvalla uppsala varnum vasteras hornborg konghalla stromstad uddevalla skanderna n_jamtland_wasteland
-            s_jamtland_wasteland
+            malung mora mourionska nas nora nordmark norrtalje nykoping ockelbo oppunda
+            orebro orsa riseberga sala skinskatteberg soderbarke sodertalje stockholm stora_tuna strangnas
+            tierp tingvalla uppsala varnum vasteras hornborg konghalla stromstad uddevalla skanderna
+            n_jamtland_wasteland s_jamtland_wasteland
          }
 
          #include = "catholic_monarchy"
@@ -5841,7 +5855,7 @@ countries = {
             davos disentis frauenfeld glarus ilanz kyburg mesocco sarnen schwyz st_gallen
             tarasp toggenburg werdenberg zuoz zurich bienne delemont fribourg gruyere neuchatel
             solothurn geneve lausanne montreux nyon yverdon_les_bains basel rhaetian_alps4 lepontine_alps2 silvretta_alps
-            glarner_alps stein_glacier bernese_alps rhaetian_alps1 
+            glarner_alps stein_glacier bernese_alps rhaetian_alps1
          }
 
          #include = "republic"
@@ -6532,11 +6546,10 @@ countries = {
             nuwuvi_desert newe_wasteland atigun_pass chumash_ranges inyo_mountains sierra_nevada_s coast_mountains_et nabesna_forest_et gwichin_uplands_et wrangell_mountains_et
             central_forest chandalar_forest chugach_mtns tanana_forest alaska yukon_flats alaska_range koyukon_forest dall_plains togiagamiut_forest
             deg_xit_an_forest dena_ina_uplands yukkhana yukonikhotana gwazhal_mountains koyukuk_forest malemiut_plains kugirukuk kobuk noatak
-            utqiagvik gwazhal_hills kugmiut_uplands uracas maug agrihan
-            alamagan pagan_island noos anatahan rota guahan_atoll nikumaroro_atoll manra_atoll orona_atoll kanton_atoll
-            mauna_loa nihoa mokumanamana kanemilohai_atoll kauo papa_apoho_atoll holaniku_atoll kuaihelani_atoll holoikauaua_atoll vieques_island
-            mona_island aburakeiru new128 new129 new126 new127 new125 new124 new123 new122
-            new121 new120
+            utqiagvik gwazhal_hills kugmiut_uplands uracas maug agrihan alamagan pagan_island noos anatahan
+            rota guahan_atoll nikumaroro_atoll manra_atoll orona_atoll kanton_atoll mauna_loa nihoa mokumanamana kanemilohai_atoll
+            kauo papa_apoho_atoll holaniku_atoll kuaihelani_atoll holoikauaua_atoll vieques_island mona_island aburakeiru new128 new129
+            new126 new127 new125 new124 new123 new122 new121 new120
          }
 
          #include = "republic"
