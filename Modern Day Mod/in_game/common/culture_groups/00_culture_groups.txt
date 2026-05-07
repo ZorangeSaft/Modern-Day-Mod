@@ -670,6 +670,24 @@ mdm_hispanosphere_group = { #spain and former spanish colonies
 mdm_hispanic_group = { #all of latin america
 }
 
+mdm_mexican_group = { #mexico
+}
+
+mdm_central_american_group = { #central america
+}
+
+mdm_andean_group = { #andean south america
+}
+
+mdm_colombian_group = { #colombia and venezuela
+}
+
+mdm_southern_cone_group = { #chile, argentina, uruguay
+}
+
+mdm_argentine_group = { #argentina
+}
+
 
 
 #chinese culture groups

@@ -485,6 +485,24 @@
  mdm_hispanic_group: "Hispanic"
  mdm_hispanic_group_desc: "The Spanish speakers of Latin America" #latin america could be a scripted geography, could be cool
 
+ mdm_mexican_group: "Mexican"
+ mdm_mexican_group_desc: "The people of Mexico"
+
+ mdm_central_american_group: "Central American"
+ mdm_central_american_group_desc: "The people of Central America"
+
+ mdm_andean_group: "Andean"
+ mdm_andean_group_desc: "The people of the Andes"
+
+ mdm_colombian_group: "Colombian"
+ mdm_colombian_group_desc: "The people of Colombia and Venezuela"
+
+ mdm_southern_cone_group: "Southern Cone"
+ mdm_southern_cone_group_desc: "The people of the Southern Cone"
+
+ mdm_argentine_group: "Argentine"
+ mdm_argentine_group_desc: "The people of Argentina"
+
 
 
  #regional chinese
