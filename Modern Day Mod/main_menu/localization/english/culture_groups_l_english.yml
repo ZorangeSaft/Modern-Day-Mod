@@ -409,10 +409,10 @@
  #us and canada culture groups
 
  mdm_canadian_group: "Canadian"
- mdm_canadian_group_desc: "Canada, the great north"
+ mdm_canadian_group_desc: "Canada, the Great North"
 
  mdm_french_canadian_group: "French Canadian"
- mdm_french_canadian_group_desc: "The descendents of french north america"
+ mdm_french_canadian_group_desc: "The descendents of French North America"
 
  mdm_american_group: "American"
  mdm_american_group_desc: "The United States of America, the great cultural melting pot"
@@ -424,116 +424,116 @@
  mdm_west_coast_group_desc: "The western coast of the United States and Canada, from California to British Columbia"
 
  mdm_californian_group: "Californian"
- mdm_californian_group_desc: "California, the golden state, the place where metal first learned to think, the center of the worlds entertainment, the elysium at the end of american manifest destiny"
+ mdm_californian_group_desc: "California, the Golden State, the place where metal first learned to think, the center of the worlds entertainment, the Elysium at the end of American Manifest Destiny"
 
  mdm_cascadian_group: "Cascadian"
  mdm_cascadian_group_desc: "The Pacific Northwest, from northern California to British Columbia, a land of forests, mountains, and lots of rain"
 
  mdm_frontier_group: "Frontier"
- mdm_frontier_group_desc: "The decendents of the great american frontier"
+ mdm_frontier_group_desc: "The decendents of the Great American Frontier"
 
  mdm_rocky_mountains_group: "Rocky Mountains"
- mdm_rocky_mountains_group_desc: "The people of the rocky mountains, north americas greatest mountain range"
+ mdm_rocky_mountains_group_desc: "The people of the Rocky Mountains, North Americas greatest mountain range"
 
  mdm_great_plains_group: "Great Plains"
- mdm_great_plains_group_desc: "The people of the great plains, the breadbasket of north america"
+ mdm_great_plains_group_desc: "The people of the Great Plains, the breadbasket of North America"
 
  mdm_midwest_group: "Midwest"
- mdm_midwest_group_desc: "The people of the midwest, the heartland of america"
+ mdm_midwest_group_desc: "The people of the Midwest, the heartland of America"
 
  mdm_great_lakes_group: "Great Lakes"
- mdm_great_lakes_group_desc: "The people of the great lakes region, the freshwater sea of north america"
+ mdm_great_lakes_group_desc: "The people of the Great Lakes region, the freshwater sea of North America"
 
  mdm_northeast_group: "Northeast"
- mdm_northeast_group_desc: "The people of the northeast, the cradle of america"
+ mdm_northeast_group_desc: "The people of the Northeast, the cradle of America"
 
  mdm_new_england_group: "New England"
- mdm_new_england_group_desc: "The people of new england, the land of pilgrims, patriots, and picturesque autumns"
+ mdm_new_england_group_desc: "The people of New England, the land of pilgrims, patriots, and picturesque autumns"
 
  mdm_southern_group: "Southern"
- mdm_southern_group_desc: "The people of the american south, the land of hospitality and tradition"
+ mdm_southern_group_desc: "The people of the American South, the land of hospitality and tradition"
 
  mdm_texan_group: "Texan"
- mdm_texan_group_desc: "The people of texas, the lone star state, a land of cowboys, oil, and wide open spaces"
+ mdm_texan_group_desc: "The people of Texas, the Lone Star State, a land of cowboys, oil, and wide open spaces"
 
  mdm_metroamerican_group: "Metro American"
- mdm_metroamerican_group_desc: "The people of americas largest metropolitan areas, the centers of culture, commerce, and innovation"
+ mdm_metroamerican_group_desc: "The people of America's largest metropolitan areas, the centers of culture, commerce, and innovation"
 
  mdm_appalachian_group: "Appalachian"
- mdm_appalachian_group_desc: "The people of the appalachian mountains, a land of rolling hills, coal mines, and bluegrass music"
+ mdm_appalachian_group_desc: "The people of the Appalachian mountains, a land of rolling hills, coal mines, and bluegrass music"
 
  mdm_floridian_group: "Floridian"
- mdm_floridian_group_desc: "The people of florida, the sunshine state, a land of beaches, swamps, and theme parks"
+ mdm_floridian_group_desc: "The people of Florida, the Sunshine State, a land of beaches, swamps, and theme parks"
 
  mdm_us_caribbean_group: "US Caribbean"
- mdm_us_caribbean_group_desc: "The people of the us caribbean territories, a land of tropical islands and vibrant cultures"
+ mdm_us_caribbean_group_desc: "The people of the us Caribbean territories, a land of tropical islands and vibrant cultures"
 
  mdm_us_pacific_group: "US Pacific"
- mdm_us_pacific_group_desc: "The people of the us pacific territories, a land of remote islands and diverse cultures"
+ mdm_us_pacific_group_desc: "The people of the us Pacific territories, a land of remote islands and diverse cultures"
 
 
 
  #regional brazil culture groups
 
  mdm_brazilian_group: "Brazilian"
- mdm_brazilian_group_desc: "The people of brazil, the largest country in south america, a land of rainforests, beaches, and vibrant culture"
+ mdm_brazilian_group_desc: "Brazil, the Tropical Country blessed by God and beautiful by its own nature"
 
  mdm_nortista_group: "Nortista"
- mdm_nortista_group_desc: "MISSING DESCRIPTION"
+ mdm_nortista_group_desc: "The people of northern Brazil, tied to the Amazon river and rainforest"
 
  mdm_nordestino_group: "Nordestino"
- mdm_nordestino_group_desc: "MISSING DESCRIPTION"
+ mdm_nordestino_group_desc: "The people of northeastern Brazil, a semi-arid land defined by its periods of drought"
 
  mdm_sudestino_group: "Sudestino"
- mdm_sudestino_group_desc: "MISSING DESCRIPTION"
+ mdm_sudestino_group_desc: "The people of southeastern Brazil, the historic center of agriculture, mining and political power"
 
  mdm_sulista_group: "Sulista"
- mdm_sulista_group_desc: "MISSING DESCRIPTION"
+ mdm_sulista_group_desc: "The people of southern Brazil, a land of cattle ranching and more temperate climates"
 
  mdm_centro_oestino_group: "Centro-Oestino"
- mdm_centro_oestino_group_desc: "MISSING DESCRIPTION"
+ mdm_centro_oestino_group_desc: "The people of center-western Brazil, the new agricultural frontier full of new opportunities"
 
  mdm_matuto_group: "Matuto"
- mdm_matuto_group_desc: "MISSING DESCRIPTION"
+ mdm_matuto_group_desc: "The people of Brazil's northeastern coast, a land famed for its beaches and fishing"
 
  mdm_sertanejo_group: "Sertanejo"
- mdm_sertanejo_group_desc: "MISSING DESCRIPTION"
+ mdm_sertanejo_group_desc: "The people of Brazil's northeastern interior, a land defined by its hot, dry and challenging landscape"
 
  mdm_baiano_group: "Baiano"
- mdm_baiano_group_desc: "MISSING DESCRIPTION"
+ mdm_baiano_group_desc: "The people of Bahia, a land known for its African roots and the cradle of Portuguese colonization"
 
  mdm_mineiro_group: "Mineiro"
- mdm_mineiro_group_desc: "MISSING DESCRIPTION"
+ mdm_mineiro_group_desc: "The people of Minas Gerais, a land famed for its mineral, agricultural and culinary wealth"
 
  mdm_fluminense_group: "Fluminense"
- mdm_fluminense_group_desc: "MISSING DESCRIPTION"
+ mdm_fluminense_group_desc: "The people of the State of Rio de Janeiro, a land of vibrant culture and natural beauty"
 
  mdm_paulista_group: "Paulista"
- mdm_paulista_group_desc: "MISSING DESCRIPTION"
+ mdm_paulista_group_desc: "The people of the State of São Paulo, the locomotive of Brazil, a land of industry and commerce"
 
  mdm_caipira_group: "Caipira"
- mdm_caipira_group_desc: "MISSING DESCRIPTION"
+ mdm_caipira_group_desc: "The descendants of the Bandeirantes, frontiersmen and explorers of colonial Brazil, famed for their cattle ranching"
 
  mdm_tropeiro_group: "Tropeiro"
- mdm_tropeiro_group_desc: "MISSING DESCRIPTION"
+ mdm_tropeiro_group_desc: "The descendants of settlers on the route of the Tropeiros, whose bullwacking trails lead to the eventual spread of settlements south from São Paulo"
 
  mdm_biriva_group: "Biriva"
- mdm_biriva_group_desc: "MISSING DESCRIPTION"
+ mdm_biriva_group_desc: "The descendants of the farthest reaches of Caipira and Tropeiro settlers who grew to form their own identity in the hinterlands of Brazil's southernmost states"
 
  mdm_valparaibano_group: "Valparaibano"
- mdm_valparaibano_group_desc: "MISSING DESCRIPTION"
+ mdm_valparaibano_group_desc: "The descendants of the group of Bandeirantes who set out east from São Paulo and settled around the upper Paraíba river and further inland from there"
 
  mdm_boiadeiro_group: "Boiadeiro"
- mdm_boiadeiro_group_desc: "MISSING DESCRIPTION"
+ mdm_boiadeiro_group_desc: "The descendants of the group of Bandeirantes who set out north from São Paulo and developed a great affinity to cattle ranching"
 
  mdm_moncoeiro_group: "Monçoeiro"
- mdm_moncoeiro_group_desc: "MISSING DESCRIPTION"
+ mdm_moncoeiro_group_desc: "The descendants of the group of Bandeirantes who set out west from São Paulo and pioneered the limits of the Brazilian frontier"
 
  mdm_gaucho_group: "Gaúcho"
- mdm_gaucho_group_desc: "MISSING DESCRIPTION"
+ mdm_gaucho_group_desc: "The people of Rio Grande do Sul, a land known for its beef barbecues and musical traditions"
 
- mdm_amazonida_group: "Gaúcho"
- mdm_amazonida_group_desc: "MISSING DESCRIPTION"
+ mdm_amazonida_group: "Amazonida"
+ mdm_amazonida_group_desc: "The people who trace their origins to the colonial efforts of the Portuguese in the Amazon, rather than from more modern settlement"
 
 
 
