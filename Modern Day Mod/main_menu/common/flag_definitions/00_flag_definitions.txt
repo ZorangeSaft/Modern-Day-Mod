@@ -4077,6 +4077,13 @@ NAV = { # Navarre
 	}
 }
 
+NCYP = { # mdm modern day mod Northern Cyprus
+	flag_definition = {
+		coa = mdm_NCYP_today
+		priority = 1
+	}
+}
+
 NED = { # mdm modern day mod Netherlands
 	flag_definition = {
 		coa = mdm_NED_today
