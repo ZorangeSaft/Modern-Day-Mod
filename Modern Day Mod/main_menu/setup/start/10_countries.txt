@@ -5850,10 +5850,10 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            bellinzona locarno lugano aarau baden_im_aargau bern brig burgdorf_emmental frutigen interlaken
-            lucerne martigny monthey saanen schaffhausen sion thun wolhusen altdorf chur
-            davos disentis frauenfeld glarus ilanz kyburg mesocco sarnen schwyz st_gallen
-            tarasp toggenburg werdenberg zuoz zurich bienne delemont fribourg gruyere neuchatel
+            bellinzona locarno lugano aarau baden_im_aargau bern brig burgdorf_emmental spiez interlaken
+            lucerne martigny monthey saanen schaffhausen sion thun sursee altdorf chur
+            davos disentis frauenfeld glarus ilanz winterthur mesocco sarnen schwyz st_gallen
+            tarasp toggenburg buchs zuoz zurich bienne delemont fribourg gruyere neuchatel
             solothurn geneve lausanne montreux nyon yverdon_les_bains basel rhaetian_alps4 lepontine_alps2 silvretta_alps
             glarner_alps stein_glacier bernese_alps rhaetian_alps1
          }

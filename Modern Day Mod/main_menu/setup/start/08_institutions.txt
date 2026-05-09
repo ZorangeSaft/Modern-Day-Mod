@@ -5466,7 +5466,7 @@ locations = {
       feudalism = yes
       legalism = yes
    }
-   kyburg = {
+   winterthur = {
       feudalism = yes
       legalism = yes
    }
@@ -5498,11 +5498,11 @@ locations = {
       feudalism = yes
       legalism = yes
    }
-   frutigen = {
+   spiez = {
       feudalism = yes
       legalism = yes
    }
-   werdenberg = {
+   buchs = {
       feudalism = yes
       legalism = yes
    }
@@ -5518,7 +5518,7 @@ locations = {
       feudalism = yes
       legalism = yes
    }
-   wolhusen = {
+   sursee = {
       feudalism = yes
       legalism = yes
    }
