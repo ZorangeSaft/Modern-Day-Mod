@@ -23391,7 +23391,7 @@ locations = {
          type = peasants
       }
    }
-   kyburg = {
+   winterthur = {
       define_pop = {
          culture = danube_bavarian
          religion = catholic
@@ -23533,7 +23533,7 @@ locations = {
          type = peasants
       }
    }
-   frutigen = {
+   spiez = {
       define_pop = {
          culture = high_alemannic
          religion = catholic
@@ -23553,7 +23553,7 @@ locations = {
          type = peasants
       }
    }
-   werdenberg = {
+   buchs = {
       define_pop = {
          culture = high_alemannic
          religion = catholic
@@ -23615,7 +23615,7 @@ locations = {
          type = peasants
       }
    }
-   wolhusen = {
+   sursee = {
       define_pop = {
          culture = high_alemannic
          religion = catholic
