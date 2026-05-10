@@ -1361,6 +1361,23 @@ mdm_LUX_today = { # mdm modern day mod Luxembourg
 	color3 = rgb { 0 165 225 }
 }
 
+mdm_MACA_today = { # mdm modern day mod Macau
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 6 118 98 }
+
+	colored_emblem = {
+		texture = "mdm_ce_lotus_macau.dds"
+		color1 = "white"
+		instance = { position = { 0.5 0.55 } scale = { 0.459 0.459 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stars_macau.dds"
+		color1 = rgb { 255 223 30 }
+		instance = { position = { 0.5 0.303 } scale = { 0.333 0.333 } }
+	}
+}
+
 mdm_MACE_today = { # mdm modern day mod North Macedonia
 	pattern = "mdm_pattern_sun_north_macedonia.dds"
 	color1 = rgb { 217 27 33 }

@@ -3391,6 +3391,13 @@ LVA = { # Baltic formable
 	}
 }
 
+MACA = { # mdm modern day mod Macau
+	flag_definition = {
+		coa = mdm_MACA_today
+		priority = 1
+	}
+}
+
 MACE = { # mdm modern day mod North Macedonia
 	flag_definition = {
 		coa = mdm_MACE_today
