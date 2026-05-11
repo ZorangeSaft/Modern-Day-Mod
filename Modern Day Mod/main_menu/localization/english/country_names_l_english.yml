@@ -24,6 +24,8 @@
  ARGE_ADJ: "Argentine"
  ARM: "Armenia"
  ARM_ADJ: "Armenian"
+ ARTS: "Nagorno-Karabakh"       #changed to Artsakh in 2017
+ ARTS_ADJ: "Nagorno-Karabakh"       #changed to Artsakhi in 2017
  AUST: "Australia"
  AUST_ADJ: "Australian"
  AZER: "Azerbaijan"

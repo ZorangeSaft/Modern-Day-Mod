@@ -266,6 +266,29 @@ countries = {
       }
 
 
+      ARTS = {
+         capital = shusha
+         # government = {ruler = arts_anushavan_danielyan }
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+			shusha goroz haterk gandzasar kashatagh lesser_caucasus_et2
+			new136 new137 new139
+         }
+
+         #include = "republic"
+         include = "expl_mdm_whole_world"
+
+         government = {
+            type = republic
+            ruler = random
+            heir_selection = lottery_election
+
+          }
+      }
+
+
       AUST = {
          capital = ngarigo
          # government = {ruler = aust_anthony_albanese }
@@ -339,11 +362,12 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            lankaran gandzasar goroz haterk julfa kashatagh khunani nakhchivan shusha balakan
+            lankaran   julfa  khunani nakhchivan balakan
             hereti qakh agsu aresh baciravan baku barda beylagan bilasuvar ganja
             gardman goychay javad lemberan mahmudabad maraza mughan niyazabad qabala qobustan
             quba salyan shabran shaki shamakhi shamkir shirvan vartashen zardab caucasus_et2
-            greater_caucasus_mountains10 lesser_caucasus_mountains8 lesser_caucasus_mountains6 lesser_caucasus_et2
+            greater_caucasus_mountains10 lesser_caucasus_mountains8 lesser_caucasus_mountains6 
+			new138
          }
 
          #include = "republic"

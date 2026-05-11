@@ -78,6 +78,16 @@ ARM = { #went to colorwheel and picked purple
 }
 
 
+ARTS = {
+	color = rgb { 204  187  186 } #{ 80  20  140 }
+	color2 = rgb { 204  187  186 } #{ 80  20  140 }
+	culture_definition = armenian_culture
+	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
+	description_category = diplomatic
+	difficulty = 2
+}
+
+
 AUST = {
 	color = rgb { 57  143  97 } #{ 144  60  75 }
 	color2 = rgb { 57  143  97 } #{ 144  60  75 }
