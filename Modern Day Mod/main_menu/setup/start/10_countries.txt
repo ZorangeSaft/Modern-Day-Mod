@@ -3462,7 +3462,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            baalbek beirut deir_qamar sidon tripoli_syria antilebanon_mountains1 antilebanon_mountains2 lebanon_mountains
+            baalbek beirut deir_qamar sidon tripoli_syria antilebanon_mountains1 lebanon_mountains
          }
 
          #include = "republic"
@@ -5920,7 +5920,7 @@ countries = {
             qusayr qutayfah salamiyya tartus zardana abu_kemal bara_iraq barqaid hasakah rahba
             ras_ayn tunanir arak bosra burraq deir_ez_zor ithriya qaryatayn salkhad sukhnah
             suwayda tabqah tadmur taybah syrian_desert_corridor1 al_jazair_desert syrian_desert12 syrian_desert_corridor7 syrian_desert4 syrian_desert3
-            mountain_druze antilebanon_mountains3 new101 new102 new104 new103
+            mountain_druze antilebanon_mountains2 antilebanon_mountains3 new101 new102 new104 new103
          }
 
          #include = "republic"
