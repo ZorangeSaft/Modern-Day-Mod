@@ -2386,7 +2386,7 @@ countries = {
 
          own_control_core = {
             amorgos andros candia chania chios elounda eretreia gergeri hagios_pavlos ikaria
-            imbros karpathos karystos kleisoura kos kymi kythnos lemnos milos mitilene
+            karpathos karystos kleisoura kos kymi kythnos lemnos milos mitilene
             molyvos mykonos naxos negroponte oreos rethymno rodos samos siteia sporades
             viannos konitsa drama edessa florina giannitsa grevena gynaikokastro hatera kassandreia
             kastoria kavala kilkis mount_athos ostrovo polygyros rentina serres servia siatista
@@ -6128,7 +6128,7 @@ countries = {
             marash molevon mut samsat silifke sis tarsus ulnia adranos aslanapa
             atpazari ayvacik balikesir balya bandirma bayramic bergama biga bigadic bilecik
             bursa can canakkale domanic dursunbey edremit emet eynegol gonen goynuk
-            harmancik inonu izmit iznik kutahya lapseki manyas mihalic nalli silli
+            harmancik imbros inonu izmit iznik kutahya lapseki manyas mihalic nalli silli
             simav sogut soma sultanonu susurluk tavsanli uskudar akcasehir akkus akyazi
             amasra arac bafra bartin bayramlu bolu boyabat devrekani eregli gerede
             gerze giresun gorele gumushane inebolu kastamonu khupati konrapa kure_i_mamure mengen
