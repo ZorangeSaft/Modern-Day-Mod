@@ -2263,7 +2263,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            akhaltsikhe alaverdi anaklia batumi bodbe dmanisi dusheti gori gremi khikhani
+            akhaltsikhe alaverdi anaklia batumi bodbe dmanisi dusheti gori gremi jariekhi khikhani 
             khornabuji kldekari kutaisi lentekhi mtskheta ozurgeti poti_caucasus rustavi shorapani skande
             tbilisi telavi tmogvi tsageri tsesi vartsikhe omalo caucasus_et3 caucasus_et4 shatili
             lesser_caucasus_mountains4 caucasus_et5 greater_caucasus_mountains3 ushguli akhalkalaki lesser_caucasus_mountains1 lesser_caucasus_mountains2 tsalenjikha
@@ -5040,7 +5040,7 @@ countries = {
             shuya_karelia shyoltozero sordavala suikujarvi suojarvi tunkuo uhtuo vazhiny akkala alakurti
             dalniye_zelentsy kantalahti kashkarantsy kiltina kola koliskoj luujarvi maaselka mootka nuorttijarvi
             olenitsa pechenga ponoi prirechnyi pyalitsa raivke semiostrov suonikyla svyatoy_nos tetrino
-            umba varzuga hanasaki kasriskari jariekhi ayon omok_upplands5 chuvan_upplands1 omok_upplands3 omok_upplands2
+            umba varzuga hanasaki kasriskari ayon omok_upplands5 chuvan_upplands1 omok_upplands3 omok_upplands2
             omok_upplands4 kolyma_upplands1 kolyma_river anjuj_river omok_upplands1 peninsula_uplands5 chauchu_trail3 erri_uplands2 erri_uplands1 peninsula_uplands4
             anauls_uplands2 chuvan_upplands2 anauls_uplands3 anadyr_river o_mnmilin_uplands1 anadyr_trail yeropol_river chauchu_trail2 chauchu_trail1 alyutor_range1
             koryak_uplands5 koryak_uplands4 yamsk_range2 yamsk_range1 koryak_uplands3 kedon_range peninsula_uplands3 peninsula_uplands2 koryak_uplands1 koryak_uplands2
@@ -5059,7 +5059,7 @@ countries = {
             nenets russian_wastelands_2 russian_wastelands_5 russian_wastelands_4 russian_wastelands_7 russian_wastelands_10 russian_wastelands_6 kolguyev russian_wastelands_8 kanin_peninsula
             russian_wastelands_1 kola_taiga lapland_taiga4 lapland_taiga3 karelia_taiga2 karelia_taiga1 lapland_taiga2 yamsk_range3 maya_range1 maya_range2
             duse_alin yam_alin bureya aldan_upplands2 aldan_upplands1 olyokma_upplands6 olyokma_upplands4 olyokma_upplands2 olyokma_upplands3 khan_khentii_mountains_et
-            khan_khentii3 eastern_sayan_mountains3 eastern_sayan_mountains1 tannu_ola_mountains2 tannu_ola_mountains1 altay_forest_wasteland_1 western_sayan_mountains altay_mountains altay_forest_wasteland_2 greater_caucasus_mountains5
+            khan_khentii3 eastern_sayan_mountains3 eastern_sayan_mountains1 tannu_ola_mountains2 tannu_ola_mountains1 altay_forest_wasteland_1 western_sayan_mountains altay_mountains altay_forest_wasteland_2 
             greater_caucasus_mountains4 greater_caucasus_mountains2 greater_caucasus_mountains1 caucasus_et1 greater_caucasus_mountains8 greater_caucasus_mountains7 greater_caucasus_mountains9 makanru shasukotan repunmoshiri
             rasshua
          }
@@ -5596,7 +5596,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            kvenipnevi tsagvli
+            kvenipnevi tsagvli greater_caucasus_mountains5
          }
 
          #include = "republic"
@@ -6267,7 +6267,7 @@ countries = {
             domakha huliaipole konski_vody kreminna kuchugur kyrylivka lysychansk melitopol oleksandrivka posad
             shyrokyne tokmak vasylivka velyka_novosilka bielska_sloboda bilovodsk novopskov aslan_horod enice ordu_bazar
             qalancaq rohat_kermen velyka_lepetykha aqmecit jurchi kaffa qarasuvbazar qirq_yer seyitler soldaia
-            solkhat theodoro vosporo kezlev or_qapi kalay lusta eastern_carpathians1 eastern_carpathians2
+            solkhat theodoro vosporo kezlev or_qapi kalay lusta eastern_carpathians1 eastern_carpathians2 crimean_mountains
          }
 
          #include = "republic"
