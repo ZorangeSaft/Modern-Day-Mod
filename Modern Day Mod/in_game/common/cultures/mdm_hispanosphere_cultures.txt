@@ -1,25 +1,52 @@
-#####mdm modern day mod
+# mdm modern day mod
 
-castilian = { 
-	language = castilian_dialect
+mdm_spanish_culture = { 
+	language = mdm_spanish_language
 	
 	color = map_CAS
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
 	opinions = {
-		leonese = kindred
-		andalusi = enemy
-		galician = kindred
-		moroccan = negative
+
 	}
 	
 	culture_groups = {
-		mdm_hispanosphere_group iberian_group
+		iberian_group
 	}
 }
 
-#andalusian removed
+mdm_valencian_culture = { 
+	language = mdm_valencian_dialect
+	
+	color = rgb { 210 110 8 }
+	
+	tags = { catalan_gfx iberian_gfx occitan_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+	
+	culture_groups = {
+		iberian_group
+	}
+}
+
+mdm_llanito_culture = { 
+	language = mdm_llanito_dialect
+	
+	color = rgb { 255 70 40 }
+	
+	tags = { catalan_gfx iberian_gfx occitan_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+	
+	culture_groups = {
+		iberian_group
+	}
+}
 
 aragonese = { 
 	language = aragonese_dialect
@@ -35,6 +62,23 @@ aragonese = {
 	culture_groups = {
 		iberian_group
 		pyrenean_group
+		mdm_hispanosphere_group
+	}
+}
+
+leonese = { 
+	language = leonese_dialect
+	
+	color = map_LON
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		castilian = kindred
+	}
+	
+	culture_groups = {
+		iberian_group
 		mdm_hispanosphere_group
 	}
 }
@@ -67,39 +111,6 @@ catalan = {
 
 	opinions = {
 		aragonese = positive
-	}
-	
-	culture_groups = {
-		iberian_group
-		mdm_hispanosphere_group
-	}
-}
-
-galician = { 
-	language = galician_dialect
-	
-	color = map_GLC
-	
-	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
-
-	opinions = {
-		castilian = kindred
-	}
-	
-	culture_groups = {
-		iberian_group mdm_hispanosphere_group mdm_lusosphere_group #might be better to add one just for portuguese and galician, but that also kind of feels like a waste, not sure
-	}
-}
-
-leonese = { 
-	language = leonese_dialect
-	
-	color = map_LON
-	
-	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
-
-	opinions = {
-		castilian = kindred
 	}
 	
 	culture_groups = {

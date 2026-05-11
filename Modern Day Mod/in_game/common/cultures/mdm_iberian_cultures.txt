@@ -1,0 +1,147 @@
+﻿mdm_aragonese_culture = { 
+	language = mdm_aragonese_dialect
+	
+	color = rgb { 192 113 116 }
+	
+	tags = { catalan_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+	
+	culture_groups = {
+		iberian_group
+		pyrenean_group
+	}
+}
+
+mdm_asturleonese_culture = { 
+	language = mdm_asturleonese_dialect
+	
+	color = map_LON
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+	
+	culture_groups = {
+		iberian_group
+	}
+}
+
+mdm_basque_culture = { 
+	language = mdm_basque_language
+	
+	color = map_NAV
+	
+	tags = { basque_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	use_patronym = yes
+	
+	culture_groups = {
+		iberian_group
+		pyrenean_group
+	}
+}
+
+mdm_catalan_culture = { 
+	language = mdm_catalan_dialect
+	
+	color = rgb { 181 59 2 }
+	
+	tags = { catalan_gfx iberian_gfx occitan_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+	
+	culture_groups = {
+		iberian_group
+	}
+}
+
+mdm_galician_culture = { 
+	language = mdm_galician_dialect
+	
+	color = map_GLC
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+	
+	culture_groups = {
+		iberian_group
+	}
+}
+
+mdm_portuguese_culture = { 
+	language = mdm_portuguese_dialect
+	
+	color = map_POR
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+	
+	culture_groups = {
+		iberian_group
+	}
+}
+
+mdm_spanish_culture = { 
+	language = mdm_spanish_language
+	
+	color = map_CAS
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+	
+	culture_groups = {
+		iberian_group
+	}
+}
+
+mdm_valencian_culture = { 
+	language = mdm_valencian_dialect
+	
+	color = rgb { 210 110 8 }
+	
+	tags = { catalan_gfx iberian_gfx occitan_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+	
+	culture_groups = {
+		iberian_group
+	}
+}
+
+mdm_llanito_culture = { 
+	language = mdm_llanito_dialect
+	
+	color = rgb { 255 70 40 }
+	
+	tags = { catalan_gfx iberian_gfx occitan_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+	
+	culture_groups = {
+		iberian_group
+	}
+}

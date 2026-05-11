@@ -1,6 +1,6 @@
-#####mdm modern day mod
+# mdm modern day mod
 
-portuguese = { #portugal portuguese
+portuguese = { # portugal portuguese
 	language = portuguese_dialect
 	
 	color = map_POR
@@ -15,8 +15,23 @@ portuguese = { #portugal portuguese
 	}
 }
 
+galician = {
+	language = galician_dialect
+	
+	color = map_GLC
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
-#####mdm modern day mod
+	opinions = {
+		castilian = kindred
+	}
+	
+	culture_groups = {
+		iberian_group mdm_hispanosphere_group mdm_lusosphere_group #might be better to add one just for portuguese and galician, but that also kind of feels like a waste, not sure
+	}
+}
+
+# mdm modern day mod
 
 #brazil regional cultures
 
