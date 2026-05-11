@@ -3,7 +3,7 @@
 	"id":	"modern.day.mod",
     "game_id" : "eu5",
 	"version":	"0.0.1",
-	"supported_game_version":	"1.0.*",
+	"supported_game_version":	"1.1.4",
 	"short_description":	"Modern Day Mod",
 	"tags":	["Overhaul"],
 	"relationships":	[],
