@@ -389,7 +389,7 @@ COOK = {
 CPVR = {
 	color = rgb { 0 53 148 } # Cabo Verde flag blue
 	color2 = rgb { 0 53 148 }
-	culture_definition = portuguese
+	culture_definition = mdm_cabo_verdean_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1686,7 +1686,7 @@ SOSE = { #color of the yellow on their flag
 SPA = {
 	color = rgb { 242  205  94 } #{ 231  181  12 }
 	color2 = rgb { 242  205  94 } #{ 231  181  12 }
-	culture_definition = castilian
+	culture_definition = mdm_spanish_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2

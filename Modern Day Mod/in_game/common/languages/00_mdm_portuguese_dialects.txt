@@ -143,8 +143,7 @@
 		portuguese_dialect = {
 			default = yes
 		}
-		mdm_brazilian_dialect = {
-
-		}
+		mdm_brazilian_dialect = {}
+		mdm_kriolu_dialect = {}
 	}
 }

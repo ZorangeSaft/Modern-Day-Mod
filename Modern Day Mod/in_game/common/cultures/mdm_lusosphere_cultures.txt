@@ -640,3 +640,20 @@ mdm_serra_amazonico_culture = {
 		mdm_lusosphere_group mdm_brazilian_group mdm_nortista_group mdm_centro_oestino_group
 	}
 }
+
+# african cultures
+
+mdm_cabo_verdean_culture = {
+	language = mdm_kriolu_dialect
+	
+	color = rgb { 60 130 160 }
+	
+	tags = { portuguese_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_lusosphere_group
+	}
+}
