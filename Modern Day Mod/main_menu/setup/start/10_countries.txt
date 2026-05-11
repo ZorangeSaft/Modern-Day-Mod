@@ -10,7 +10,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            pitsunda anacopia sukhumi lata_georgia bedia caucasus_et6 new85
+            pitsunda anacopia sukhumi lata_georgia bedia caucasus_et6 new85 new140
          }
 
          #include = "republic"
