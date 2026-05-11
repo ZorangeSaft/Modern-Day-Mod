@@ -697,7 +697,7 @@ countries = {
          include = "expl_mdm_whole_world"
 
          our_cores_conquered_by_others = {
-			bannoni buka naasioi rapoisi_jungle rotokas tinputz
+			bannoni buka carteret_atoll mallum_atoll naasioi rapoisi_jungle rotokas tinputz
 		 }
 
        }
