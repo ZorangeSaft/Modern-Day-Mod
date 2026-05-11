@@ -41,3 +41,14 @@ NAV = {
 
 	
 }
+
+
+BOUG = {
+	color = rgb { 0  71  171 } #cobalt blue, the specific blue the flag is defined as
+	color2 = rgb { 0  71  171 }
+
+	culture_definition = tiri_culture
+	religion_definition = catholic
+
+	
+}

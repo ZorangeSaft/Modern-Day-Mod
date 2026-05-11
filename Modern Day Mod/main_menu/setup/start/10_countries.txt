@@ -691,6 +691,18 @@ countries = {
       }
 
 
+      BOUG = {
+         capital = rotokas		#arawa, destroyed in 1998 and capital moved to buka
+         country_rank = rank_county
+         include = "expl_mdm_whole_world"
+
+         our_cores_conquered_by_others = {
+			bannoni buka naasioi rapoisi_jungle rotokas tinputz
+		 }
+
+       }
+
+
       BRAZ = {
          capital = ava_canoeiro
          # government = {ruler = braz_luiz_inacio_lula_da_silva }
@@ -1048,7 +1060,9 @@ countries = {
 
 
       CAT = {
-         country_rank = rank_county
+         capital = barcelona
+         country_rank = rank_duchy
+         include = "expl_mdm_whole_world"
        }
 
 
