@@ -1696,7 +1696,7 @@ interlaken = 556f6f
 saanen = 446a56
 burgdorf_emmental = cc641f
 aarau = 776442
-kyburg = 22736a
+winterthur = 22736a
 schaffhausen = 227751
 frauenfeld = 4477ab
 st_gallen = 777983
@@ -1704,13 +1704,13 @@ glarus = 227b3d
 chur = bb7c06
 zuoz = 118783
 tarasp = 448138
-frutigen = 338729
-werdenberg = 226efb
+spiez = 338729
+buchs = 226efb
 bellinzona = 22860b
 
 toggenburg = bb6838
 disentis = 002add
-wolhusen = 7747f6
+sursee = 7747f6
 baden_im_aargau = bbc224
 
 lake_neuchatel = 1192ce

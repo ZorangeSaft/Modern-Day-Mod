@@ -1220,13 +1220,13 @@ europe = {
 			}
 			central_switzerland_area = {
 				bern_province = {
-					bern burgdorf_emmental saanen thun frutigen interlaken
+					bern burgdorf_emmental saanen thun spiez interlaken
 				}
 				oberwallis_province = {
 					brig sion martigny monthey bernese_alps stein_glacier lepontine_alps1
 				}
 				aargau_province = {
-					aarau baden_im_aargau lucerne wolhusen lake_lucerne
+					aarau baden_im_aargau lucerne sursee lake_lucerne
 				}
 			}
 			eastern_switzerland_area = {
@@ -1237,7 +1237,7 @@ europe = {
 					tarasp zuoz disentis davos chur ilanz mesocco silvretta_alps glarner_alps lepontine_alps2 rhaetian_alps1 rhaetian_alps4
 				}
 				thurgau_province = {
-					zurich werdenberg st_gallen frauenfeld toggenburg kyburg lake_zurich
+					zurich buchs st_gallen frauenfeld toggenburg winterthur lake_zurich
 				}
 			}
 			western_switzerland_area = {

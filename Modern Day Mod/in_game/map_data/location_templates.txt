@@ -1469,7 +1469,7 @@ bern = { topography = hills vegetation = farmland climate = temperate_oceanic_cl
 burgdorf_emmental = { topography = hills vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = livestock}
 saanen = { topography = mountains vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = arpitan raw_material = lumber}
 thun = { topography = hills vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = millet}
-frutigen = { topography = mountains vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = wool}
+spiez = { topography = mountains vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = wool}
 interlaken = { topography = mountains vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = stone}
 brig = { topography = mountains vegetation = forest climate = temperate_continental_humid_climate religion = catholic culture = high_alemannic raw_material = millet}
 sion = { topography = mountains vegetation = forest climate = temperate_continental_humid_climate religion = catholic culture = arpitan raw_material = iron_ore}
@@ -1481,7 +1481,7 @@ lepontine_alps1 = { topography = mountains vegetation = desert climate = tundra_
 aarau = { topography = hills vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = legumes}
 baden_im_aargau = { topography = flatland vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = clay}
 lucerne = { topography = plateau vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = fiber_crops}
-wolhusen = { topography = hills vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = fruit}
+sursee = { topography = hills vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = fruit}
 lake_lucerne = { topography = lakes climate = temperate_oceanic_climate}
 schwyz = { topography = mountains vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = iron_ore}
 glarus = { topography = mountains vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = fur}
@@ -1500,11 +1500,11 @@ lepontine_alps2 = { topography = mountains vegetation = sparse climate = tundra_
 rhaetian_alps1 = { topography = mountains vegetation = desert climate = tundra_climate religion = catholic culture = swedish raw_material = clay }
 rhaetian_alps4 = { topography = mountains vegetation = sparse climate = tundra_climate religion = catholic culture = swedish raw_material = clay }
 zurich = { topography = plateau vegetation = farmland climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = wheat}
-werdenberg = { topography = mountains vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = wild_game}
+buchs = { topography = mountains vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = wild_game}
 st_gallen = { topography = hills vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = millet}
 frauenfeld = { topography = flatland vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = livestock}
 toggenburg = { topography = hills vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = wool}
-kyburg = { topography = flatland vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = medicaments}
+winterthur = { topography = flatland vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = high_alemannic raw_material = medicaments}
 lake_zurich = { topography = lakes climate = temperate_oceanic_climate}
 geneve = { topography = flatland vegetation = farmland climate = temperate_oceanic_climate religion = catholic culture = arpitan raw_material = silk}
 nyon = { topography = hills vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = arpitan raw_material = wine}
