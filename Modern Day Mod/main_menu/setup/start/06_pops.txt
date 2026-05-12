@@ -43933,13 +43933,13 @@ locations = {
    }
    gibraltar = {
       define_pop = {
-         culture = mdm_llanito_culture
+         culture = mdm_gibraltarian_culture
          religion = catholic
          size = 0.008
          type = clergy
       }
       define_pop = {
-         culture = mdm_llanito_culture
+         culture = mdm_gibraltarian_culture
          religion = catholic
          size = 3.553
          type = peasants

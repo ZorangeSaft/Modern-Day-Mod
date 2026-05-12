@@ -1,7 +1,7 @@
 # mdm modern day mod
 
 mdm_spanish_culture = { 
-	language = mdm_spanish_language
+	language = spanish_dialect
 	
 	color = map_CAS
 	
@@ -29,10 +29,11 @@ mdm_valencian_culture = {
 	
 	culture_groups = {
 		iberian_group
+		mdm_hispanosphere_group
 	}
 }
 
-mdm_llanito_culture = { 
+mdm_gibraltarian_culture = { 
 	language = mdm_llanito_dialect
 	
 	color = rgb { 255 70 40 }
@@ -45,6 +46,7 @@ mdm_llanito_culture = {
 	
 	culture_groups = {
 		iberian_group
+		mdm_hispanosphere_group
 	}
 }
 

@@ -191,8 +191,9 @@ mdm_spanish_language = {
 			patronym_suffix_son = "patronym_suffix_aragonese_son"
 			patronym_suffix_daughter = "patronym_suffix_aragonese_son"
 		}
-		castilian_dialect = {}
-		ladino_dialect = {}
+		spanish_dialect = {
+			default = yes
+		}
 		leonese_dialect = {
 			male_names = {
 				name_alphonse name_anthony name_aurelius # Also should be name_alphonse.alternative: Alonso
