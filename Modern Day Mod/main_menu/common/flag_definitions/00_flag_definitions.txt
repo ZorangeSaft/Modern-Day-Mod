@@ -1123,6 +1123,13 @@ BOU = { # Bourbonnais
 	}
 }
 
+BOUG = { # mdm modern day mod Bougainville
+	flag_definition = {
+		coa = mdm_BOUG_today
+		priority = 1
+	}
+}
+
 BRA = { # Brandenburg
 	flag_definition = {
 		coa = BRA

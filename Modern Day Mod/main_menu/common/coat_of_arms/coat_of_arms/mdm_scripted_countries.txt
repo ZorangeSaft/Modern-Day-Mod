@@ -310,6 +310,26 @@ mdm_BOTS_today = { # mdm modern day mod Botswana
 	color3 = "white"
 }
 
+mdm_BOUG_today = { # mdm modern day mod Bougainville
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 0 129 }
+
+	colored_emblem = {
+		texture = "mdm_ce_kapkap_bougainville.dds"
+		color1 = "black"
+		color2 = "white"
+		color3 = rgb { 0 154 0 }
+		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_upe_bougainville.dds"
+		color1 = "white"
+		color2 = rgb { 255 0 0 }
+		instance = { position = { 0.5 0.5 } scale = { 0.431 0.431 } }
+	}
+}
+
 mdm_BRAZ_today = { # mdm modern day mod Brazil
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 149 62 }
