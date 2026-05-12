@@ -1357,8 +1357,8 @@ countries = {
             qilianshan1 badain_jarain_desert2 tengger_desert badain_jarain_desert1 ulan_buh_desert kunlun5 qinlingshan1 bayan_har_mountains1 bayan_har_mountains2 dalungsai
             hengduanshan7 hengduanshan8 tanggula1 nyainqentanglha6 hengduanshan9 nyainqentanglha5 hengduanshan6 hengduanshan1 hengduanshan5 hengduanshan3
             qingshuilangshan2 hengduanshan2 hengduanshan4 qingshuilangshan ailaoshan duyangshan mazongshan kumtag3 barkol_mountains bodga_shan
-            atas_bogd_mountains_et gurbantunggut saur balruq kuruktag tian_shan5 tian_shan4 borohoro3 borohoro2 tian_shan24
-            tian_shan6 tian_shan3 pamir2 taklamakan1 tian_shan1 pamir1 altay_mountains_et1 mongol_altay_mountains_et tibet_passage_et2 karakoram1
+            atas_bogd_mountains_et gurbantunggut saur balruq kuruktag tian_shan5 tian_shan4 borohoro3 borohoro2 borohoro1 tian_shan24
+            tian_shan6 tian_shan3 taklamakan1 tian_shan1 pamir1 altay_mountains_et1 mongol_altay_mountains_et tibet_passage_et2 karakoram1
             karakoram_et1 kunlun1 tibet_passage_et1 taklamakan5 karakoram4 himalaya7 himalaya14 himalaya8 gangdise8 himalaya9
             himalaya10 himalaya13 himalaya11 himalaya15 himalaya12 gangdise5 himalaya16 himalaya18 nyainqentanglha3 himalaya19
             himalaya20 himalaya21 xueshan_yunnan nushan saur_et shan_hills2 fan_si_mountains_et new115 new114 new113
@@ -3254,7 +3254,7 @@ countries = {
             zhanybek aksay_pointic kalmyk karatobe kisikkamys kulagin oral ryn sarayjuk saryadyn
             shyngyrlau talowski taskala terekti ushtagan zhympity aral_kum_corridor1 kyzylkum_corridor1 kyzylkum_corridor4 kyzylkum_desert
             kyzylkum_desert5 ust_yurt_plateau1 dead_kultuk_sor ust_yurt_plateau2 aral_karakum_desert moiynkum_desert hunger_steppe taukum_desert saryesik_atyrau_desert alatau
-            targabatay_mountains altay_mountains_et3 gaoligongshan_et wusun borohoro1 ugam_range1 tian_shan10
+            targabatay_mountains altay_mountains_et3 gaoligongshan_et wusun ugam_range1 tian_shan9 tian_shan10 tian_shan23 
          }
 
          #include = "republic"
@@ -3390,8 +3390,8 @@ countries = {
             daroot_korgon arslanbob burchmullo cholok_kaiyn chon_naryn dakhkat gulcha jalalabad_fergana jumgal karasuu
             kerben ketmen_tobe konibodom koshoy_korgon naryn osh uzkand balasagun balykchy barskoon
             dzhul harandzuvan kochkor kysmyci nuzket san_tash tekabket yangi soltobe tian_shan22
-            tian_shan23 tian_shan8 tian_shan21 tian_shan13 tian_shan2 tian_shan11 tian_shan12 tian_shan19 tian_shan9 tian_shan20
-            tian_shan14 ugam_range2 tian_shan18 tian_shan7 tian_shan16
+            tian_shan8 tian_shan21 tian_shan13 tian_shan2 tian_shan11 tian_shan12 tian_shan19 tian_shan20
+            tian_shan14 tian_shan18 tian_shan7 tian_shan16
          }
 
          #include = "republic"
@@ -5967,7 +5967,8 @@ countries = {
             aiwanj farkhor gharm gunt hissar hulbuk karakol kulob muksu munk
             murghab oksu qalai_khumb qubodijon roshtqala sangvor shighnan shuman vakhs vamar
             vanch wesgird asht ayni isfara khujand panjakent ura_tyube pamir7 pamir8
-            hindu_kush5 pamir6 pamir5 hissar_mountains3 hissar_mountains4 hissar_mountains2
+            hindu_kush5 pamir6 pamir5 hissar_mountains4 hissar_mountains2
+			new141 pamir2 
          }
 
          #include = "republic"
@@ -6614,7 +6615,7 @@ countries = {
             jizzakh karmana kasan kish_shahrisabz kokand koson marghinan muborak nasaf nuket
             nurota paikend paykend pishagar pop_fargana primkent quva rishton samarkand tambybulak
             tim_samarkand uchquduq vardanzi yangirabod zarafshon zomin ust_yurt_plateau3 ust_yurt_plateau4 kyzylkum_corridor5 kyzylkum_corridor6
-            kyzylkum_desert3 tian_shan15 kyzylkum_corridor2 hissar_mountains1 kyzylkum_corridor3 kyzylkum_desert2 kyzylkum_desert4
+            kyzylkum_desert3 tian_shan15 kyzylkum_corridor2 hissar_mountains1 hissar_mountains3 kyzylkum_corridor3 kyzylkum_desert2 kyzylkum_desert4 ugam_range2 new142
          }
 
          #include = "republic"
