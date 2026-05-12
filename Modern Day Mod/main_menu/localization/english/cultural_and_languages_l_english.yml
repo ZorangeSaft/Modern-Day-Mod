@@ -1,4 +1,13 @@
 ﻿l_english:
+ # mdm modern day mod
+ mdm_spanish_culture: "Spanish"
+ mdm_spanish_language: "Spanish"
+ mdm_spanish_dialect: "Spanish"
+ mdm_valencian_culture: "Valencian"
+ mdm_valencian_dialect: "Valencian"
+ mdm_gibraltarian_culture: "Gibraltarian"
+ mdm_llanito_dialect: "Llanito"
+
  # Cultural Templates
  #
  #
