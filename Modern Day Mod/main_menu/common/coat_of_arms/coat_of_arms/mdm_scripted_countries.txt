@@ -424,6 +424,19 @@ mdm_CAN_today = { # mdm modern day mod Canada
 	}
 }
 
+mdm_CASCA_today = { # mdm modern day mod Cascadia
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 18 28 192 }
+	color2 = "white"
+	color3 = rgb { 8 93 5 }
+
+	colored_emblem = {
+		texture = "mdm_ce_cascadia.dds"
+		color1 = rgb { 0 34 0 }
+		instance = { position = { 0.501 0.515 } scale = { 0.97 0.97 } }
+	}
+}
+
 mdm_CHAD_today = { # mdm modern day mod Chad
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 0 32 91 }
