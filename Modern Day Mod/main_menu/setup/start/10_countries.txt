@@ -41,7 +41,7 @@ countries = {
             pangvay qalat_ghilji qala_fateh qarnin rudbar_sistan shahr_sabz shindand tarinkot wazakhwa zaranj
             zarghun_shahr khost urgun asadabad_kunar hajiabad parun araska fayzabad ishkashim jurm
             kham_bahar qila_panjeh ragh sarhad sar_sang shiveh zebak hindu_kush6 pamir4 pamir3
-            hindu_kush2 tora_bora_mountains tora_bora_mountains_et suleiman_range_et1 suleiman_range_et2 dasht_registan dasht_tarakun dasht_khash dasht_margoh hindu_kush3
+            hindu_kush2 tora_bora_mountains_et suleiman_range_et1 suleiman_range_et2 dasht_registan dasht_tarakun dasht_khash dasht_margoh hindu_kush3
             hindu_kush1 paropamisus_mountains5 paropamisus_mountains4 paropamisus_mountains3 paropamisus_mountains2 paropamisus_mountains1 paropamisus_mountains7 dasht_khaf1 dasht_khaf2
          }
 
@@ -4521,7 +4521,7 @@ countries = {
             islamkot jhal jhatpat kandiaro kashmore kotri kot_lalu lahri laribandar manora
             mansura mithri moro_sindh muhammad_tur nagarparkar naserpur paat rajabar ranikot rohri
             sehwan shadodkot shikarpur siwi sonda sui_pakistan sukkur thatta umarkot vingur
-            wanga_bazar thar_desert_3 tharparkar_desert suleiman_range_6 kirtar_range_2 kharan_desert2 kharan_desert3 kharan_desert1 kirtar_range suleiman_range_7
+            wanga_bazar thar_desert_3 tharparkar_desert tora_bora_mountains suleiman_range_6 kirtar_range_2 kharan_desert2 kharan_desert3 kharan_desert1 kirtar_range suleiman_range_7
             suleiman_range_2 suleiman_range_3 suleiman_range_9 suleiman_range_5 suleiman_range_8 suleiman_range_1 salt_range_3 thal_desert thal_desert_2 salt_range
             nanga_parbat pir_panjal_range_3 karakoram3 hindu_kush8 hindu_kush10 hindu_kush9 hindu_kush7 hindu_kush4 mashkel
          }
