@@ -1361,7 +1361,7 @@ countries = {
             tian_shan6 tian_shan3 taklamakan1 tian_shan1 pamir1 altay_mountains_et1 mongol_altay_mountains_et tibet_passage_et2 karakoram1
             karakoram_et1 kunlun1 tibet_passage_et1 taklamakan5 karakoram4 himalaya7 himalaya14 himalaya8 gangdise8 himalaya9
             himalaya10 himalaya13 himalaya11 himalaya15 himalaya12 gangdise5 himalaya16 himalaya18 nyainqentanglha3 himalaya19
-            himalaya20 himalaya21 xueshan_yunnan nushan saur_et shan_hills2 fan_si_mountains_et new115 new114 new113
+            himalaya20 himalaya21 xueshan_yunnan nushan saur_et fan_si_mountains_et new115 new114 new113
             new116 new107 new108 new109 new110 new111 new112
          }
 
@@ -4142,7 +4142,7 @@ countries = {
             mong_yang mong_yawng muse namhkan namhsan nam_thing ngasingu shwegu siri_do takawng
             taunggyi ta_shwe_htan wetwin yawnghwe bilauktaung_range_et1 bilauktaung_range2 bilauktaung_range3 bilauktaung_range_et2 arakan_mountains2 pegu_jungle
             karen_hills3 karen_jungle_et daen_lao_range shan_hills3 karen_hills2 nwamethin_jungle karen_hills1 arakan_mountains1 pandaung_range chin_hills3
-            chin_hills2 chin_hills1 mangin_range1 shan_hills1 namsam_range gaoligongshan1 naga_hills2 naga_hills3 mangin_range2 naga_hills4
+            chin_hills2 chin_hills1 mangin_range1 shan_hills1 shan_hills2 namsam_range gaoligongshan1 naga_hills2 naga_hills3 mangin_range2 naga_hills4
             sagaing_jungle kumon_range gaoligongshan2
          }
 
