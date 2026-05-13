@@ -1,0 +1,132 @@
+# mdm modern day mod
+
+french = {
+	language = french_language
+	
+	color = map_FRA
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		angevin = kindred
+		berrichon = kindred
+		burgundian = kindred
+		champenais = kindred
+		franc_comtois = kindred
+		gallo = kindred
+		lorrain = kindred
+		norman = kindred
+		picard = kindred
+		poitevin = kindred
+		saintongeais = kindred
+		walloon = kindred
+	}
+	
+	culture_groups = {
+		mdm_francosphere_group
+		french_group
+	}
+}
+
+breton = { 
+	language = breton_dialect
+	
+	color = map_BRI
+	
+	tags = { breton_gfx french_gfx celtic_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		gallo = kindred
+		welsh = positive
+		cornish = kindred
+	}
+	
+	culture_groups = {
+		mdm_francosphere_group
+		celtic_group
+		french_group
+	}
+}
+
+franc_comtois = {
+	language = mdm_franc_comtois_dialect
+	
+	color = rgb { 65 34 39 }
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		angevin = kindred
+		berrichon = kindred
+		burgundian = kindred
+		champenais = kindred
+		french = kindred
+		gallo = kindred
+		lorrain = kindred
+		norman = kindred
+		picard = kindred
+		poitevin = kindred
+		saintongeais = kindred
+		walloon = kindred
+	}
+	
+	culture_groups = {
+		mdm_francosphere_group
+		french_group
+		swiss_group
+	}
+}
+
+arpitan = { 
+	language = arpitan_dialect
+	
+	color = map_arpitan
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		auvergnat = positive
+		gascon = positive
+		limousin = positive
+		languedocien = positive
+		provencal = positive
+		vivaro_alpine = positive
+	}
+	
+	culture_groups = {
+		mdm_francosphere_group
+		french_group
+		swiss_group
+	}
+}
+
+walloon = { 
+	language = francique_dialect
+
+	
+	color = map_LIE
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		angevin = kindred
+		berrichon = kindred
+		burgundian = kindred
+		champenais = kindred
+		franc_comtois = kindred
+		french = kindred
+		gallo = kindred
+		lorrain = kindred
+		norman = kindred
+		picard = kindred
+		poitevin = kindred
+		saintongeais = kindred
+	}
+	
+	culture_groups = {
+		netherlandish_group
+		mdm_francosphere_group
+		french_group
+		german_group
+	}
+}

@@ -753,3 +753,10 @@ mdm_pearl_river_group = { #hong kong and macau
 
 mdm_metrochinese_group = { #big chinese cities, similar to metroamerican
 }
+
+
+
+#francosphere culture groups
+
+mdm_francosphere_group = { #france and former french colonies
+}
