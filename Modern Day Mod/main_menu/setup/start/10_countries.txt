@@ -41,8 +41,8 @@ countries = {
             pangvay qalat_ghilji qala_fateh qarnin rudbar_sistan shahr_sabz shindand tarinkot wazakhwa zaranj
             zarghun_shahr khost urgun asadabad_kunar hajiabad parun araska fayzabad ishkashim jurm
             kham_bahar qila_panjeh ragh sarhad sar_sang shiveh zebak hindu_kush6 pamir4 pamir3
-            hindu_kush2 tora_bora_mountains_et suleiman_range_et1 suleiman_range_et2 dasht_registan dasht_tarakun dasht_khash dasht_margoh hindu_kush3
-            hindu_kush1 paropamisus_mountains5 paropamisus_mountains4 paropamisus_mountains3 paropamisus_mountains2 paropamisus_mountains1 paropamisus_mountains7 dasht_khaf1 dasht_khaf2
+            hindu_kush2 tora_bora_mountains_et suleiman_range_et1 suleiman_range_et2 dasht_registan dasht_tarakun dasht_khash dasht_margoh hindu_kush3 hindu_kush1
+            paropamisus_mountains5 paropamisus_mountains4 paropamisus_mountains3 paropamisus_mountains2 paropamisus_mountains1 paropamisus_mountains7 dasht_khaf1 dasht_khaf2
          }
 
          #include = "republic"
@@ -53,7 +53,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = afgh_hibatullah_akhundzada
+             # ruler = afgh_hibatullah_akhundzada
          }
       }
 
@@ -76,7 +76,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = alb_bajram_begaj
+             # ruler = alb_bajram_begaj
          }
       }
 
@@ -273,8 +273,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-			shusha goroz haterk gandzasar kashatagh lesser_caucasus_et2
-			new136 new137 new139
+            shusha goroz haterk gandzasar kashatagh lesser_caucasus_et2 new136 new137 new139
          }
 
          #include = "republic"
@@ -284,8 +283,7 @@ countries = {
             type = republic
             ruler = random
             heir_selection = lottery_election
-
-          }
+          }
       }
 
 
@@ -362,12 +360,10 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            lankaran   julfa  khunani nakhchivan balakan
-            hereti qakh agsu aresh baciravan baku barda beylagan bilasuvar ganja
-            gardman goychay javad lemberan mahmudabad maraza mughan niyazabad qabala qobustan
-            quba salyan shabran shaki shamakhi shamkir shirvan vartashen zardab caucasus_et2
-            greater_caucasus_mountains10 lesser_caucasus_mountains8 lesser_caucasus_mountains6 
-			new138
+            lankaran julfa khunani nakhchivan balakan hereti qakh agsu aresh baciravan
+            baku barda beylagan bilasuvar ganja gardman goychay javad lemberan mahmudabad
+            maraza mughan niyazabad qabala qobustan quba salyan shabran shaki shamakhi
+            shamkir shirvan vartashen zardab caucasus_et2 greater_caucasus_mountains10 lesser_caucasus_mountains8 lesser_caucasus_mountains6 new138
          }
 
          #include = "republic"
@@ -692,15 +688,15 @@ countries = {
 
 
       BOUG = {
-         capital = rotokas		#arawa, destroyed in 1998 and capital moved to buka
+         capital = rotokas #arawa, destroyed in 1998 and capital moved to buka
          country_rank = rank_county
-         include = "expl_mdm_whole_world"
 
          our_cores_conquered_by_others = {
-			bannoni buka carteret_atoll mallum_atoll naasioi rapoisi_jungle rotokas tinputz
-		 }
+            bannoni buka carteret_atoll mallum_atoll naasioi rapoisi_jungle rotokas tinputz
+         }
 
-       }
+         include = "expl_mdm_whole_world"
+       }
 
 
       BRAZ = {
@@ -781,7 +777,13 @@ countries = {
             new386 new353 new352 new351 new996 new970 new971 new982 new963 new306
             new969 new959 new985 new973 new960 new986 new987 new991 new989 new988
             new990 new961 new965 new994 new995 new983 new957 new958 new978 new977
-            new974 new972 new980 new975 new979 new976
+            new974 new972 new980 new975 new979 new976 new1009 new1011 new1010 new1001
+            new1004 new1002 new1005 new1003 new1007 new1006 new1008 new411 new407 new416
+            new415 new417 new414 new418 new419 new403 new406 new420 new422 new412
+            new413 new421 new399 new393 new400 new410 new395 new402 new401 new409
+            new404 new408 new397 new423 new396 new425 new424 new394 new405 new426
+            new427 new429 new428 new430 new439 new438 new433 new434 new435 new436
+            new437 new432 new431
          }
 
          #include = "republic"
@@ -1062,6 +1064,7 @@ countries = {
       CAT = {
          capital = barcelona
          country_rank = rank_duchy
+
          include = "expl_mdm_whole_world"
        }
 
@@ -1357,12 +1360,12 @@ countries = {
             qilianshan1 badain_jarain_desert2 tengger_desert badain_jarain_desert1 ulan_buh_desert kunlun5 qinlingshan1 bayan_har_mountains1 bayan_har_mountains2 dalungsai
             hengduanshan7 hengduanshan8 tanggula1 nyainqentanglha6 hengduanshan9 nyainqentanglha5 hengduanshan6 hengduanshan1 hengduanshan5 hengduanshan3
             qingshuilangshan2 hengduanshan2 hengduanshan4 qingshuilangshan ailaoshan duyangshan mazongshan kumtag3 barkol_mountains bodga_shan
-            atas_bogd_mountains_et gurbantunggut saur balruq kuruktag tian_shan5 tian_shan4 borohoro3 borohoro2 borohoro1 tian_shan24
-            tian_shan6 tian_shan3 taklamakan1 tian_shan1 pamir1 altay_mountains_et1 mongol_altay_mountains_et tibet_passage_et2 karakoram1
+            atas_bogd_mountains_et gurbantunggut saur balruq kuruktag tian_shan5 tian_shan4 borohoro3 borohoro2 borohoro1
+            tian_shan24 tian_shan6 tian_shan3 taklamakan1 tian_shan1 pamir1 altay_mountains_et1 mongol_altay_mountains_et tibet_passage_et2 karakoram1
             karakoram_et1 kunlun1 tibet_passage_et1 taklamakan5 karakoram4 himalaya7 himalaya14 himalaya8 gangdise8 himalaya9
             himalaya10 himalaya13 himalaya11 himalaya15 himalaya12 gangdise5 himalaya16 himalaya18 nyainqentanglha3 himalaya19
-            himalaya20 himalaya21 xueshan_yunnan nushan saur_et fan_si_mountains_et new115 new114 new113
-            new116 new107 new108 new109 new110 new111 new112
+            himalaya20 himalaya21 xueshan_yunnan nushan saur_et fan_si_mountains_et new115 new114 new113 new116
+            new107 new108 new109 new110 new111 new112
          }
 
          #include = "republic"
@@ -2301,10 +2304,10 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            akhaltsikhe alaverdi anaklia batumi bodbe dmanisi dusheti gori gremi jariekhi khikhani 
-            khornabuji kldekari kutaisi lentekhi mtskheta ozurgeti poti_caucasus rustavi shorapani skande
-            tbilisi telavi tmogvi tsageri tsesi vartsikhe omalo caucasus_et3 caucasus_et4 shatili
-            lesser_caucasus_mountains4 caucasus_et5 greater_caucasus_mountains3 ushguli akhalkalaki lesser_caucasus_mountains1 lesser_caucasus_mountains2 tsalenjikha
+            akhaltsikhe alaverdi anaklia batumi bodbe dmanisi dusheti gori gremi jariekhi
+            khikhani khornabuji kldekari kutaisi lentekhi mtskheta ozurgeti poti_caucasus rustavi shorapani
+            skande tbilisi telavi tmogvi tsageri tsesi vartsikhe omalo caucasus_et3 caucasus_et4
+            shatili lesser_caucasus_mountains4 caucasus_et5 greater_caucasus_mountains3 ushguli akhalkalaki lesser_caucasus_mountains1 lesser_caucasus_mountains2 tsalenjikha
          }
 
          our_cores_conquered_by_others = {
@@ -2424,18 +2427,18 @@ countries = {
 
          own_control_core = {
             amorgos andros candia chania chios elounda eretreia gergeri hagios_pavlos ikaria
-            karpathos karystos kleisoura kos kymi kythnos lemnos milos mitilene
-            molyvos mykonos naxos negroponte oreos rethymno rodos samos siteia sporades
-            viannos konitsa drama edessa florina giannitsa grevena gynaikokastro hatera kassandreia
-            kastoria kavala kilkis mount_athos ostrovo polygyros rentina serres servia siatista
-            thasos thessaloniki veria andravida andritsaina argos astros chalandritsa corinth damala
-            ermioni kalamata kalavryta karytaina kyparissia kythira leuktron modon monemvasia mystras
-            nafplio oitylo patras pontikokastro tripolitsa veligosti vostitsa xylokastro angelokastron arta
-            atalanti athens bodonitsa cephalonia corfu demetrias elassona farsala gravia ioannina
-            karditsa karpenisi larissa leukas livadeia loidoriki megara nafpaktos neopatras parga
-            preveza pyli salona stomio thebes trikala tyrnavos vonitsa zakynthos zetounion
-            demotica komotini traianopolis xanthia peloponnesian_mountains2 peloponnesian_mountains1 pindus_mountains12 pindus_mountains9 mount_olympos pindus_mountains10
-            pindus_mountains8 pindus_mountains11 pindus_mountains7 pindus_mountains6 pindus_mountains5
+            karpathos karystos kleisoura kos kymi kythnos lemnos milos mitilene molyvos
+            mykonos naxos negroponte oreos rethymno rodos samos siteia sporades viannos
+            konitsa drama edessa florina giannitsa grevena gynaikokastro hatera kassandreia kastoria
+            kavala kilkis mount_athos ostrovo polygyros rentina serres servia siatista thasos
+            thessaloniki veria andravida andritsaina argos astros chalandritsa corinth damala ermioni
+            kalamata kalavryta karytaina kyparissia kythira leuktron modon monemvasia mystras nafplio
+            oitylo patras pontikokastro tripolitsa veligosti vostitsa xylokastro angelokastron arta atalanti
+            athens bodonitsa cephalonia corfu demetrias elassona farsala gravia ioannina karditsa
+            karpenisi larissa leukas livadeia loidoriki megara nafpaktos neopatras parga preveza
+            pyli salona stomio thebes trikala tyrnavos vonitsa zakynthos zetounion demotica
+            komotini traianopolis xanthia peloponnesian_mountains2 peloponnesian_mountains1 pindus_mountains12 pindus_mountains9 mount_olympos pindus_mountains10 pindus_mountains8
+            pindus_mountains11 pindus_mountains7 pindus_mountains6 pindus_mountains5
          }
 
          #include = "republic"
@@ -3254,7 +3257,7 @@ countries = {
             zhanybek aksay_pointic kalmyk karatobe kisikkamys kulagin oral ryn sarayjuk saryadyn
             shyngyrlau talowski taskala terekti ushtagan zhympity aral_kum_corridor1 kyzylkum_corridor1 kyzylkum_corridor4 kyzylkum_desert
             kyzylkum_desert5 ust_yurt_plateau1 dead_kultuk_sor ust_yurt_plateau2 aral_karakum_desert moiynkum_desert hunger_steppe taukum_desert saryesik_atyrau_desert alatau
-            targabatay_mountains altay_mountains_et3 gaoligongshan_et wusun ugam_range1 tian_shan9 tian_shan10 tian_shan23 
+            targabatay_mountains altay_mountains_et3 gaoligongshan_et wusun ugam_range1 tian_shan9 tian_shan10 tian_shan23
          }
 
          #include = "republic"
@@ -3390,8 +3393,8 @@ countries = {
             daroot_korgon arslanbob burchmullo cholok_kaiyn chon_naryn dakhkat gulcha jalalabad_fergana jumgal karasuu
             kerben ketmen_tobe konibodom koshoy_korgon naryn osh uzkand balasagun balykchy barskoon
             dzhul harandzuvan kochkor kysmyci nuzket san_tash tekabket yangi soltobe tian_shan22
-            tian_shan8 tian_shan21 tian_shan13 tian_shan2 tian_shan11 tian_shan12 tian_shan19 tian_shan20
-            tian_shan14 tian_shan18 tian_shan7 tian_shan16
+            tian_shan8 tian_shan21 tian_shan13 tian_shan2 tian_shan11 tian_shan12 tian_shan19 tian_shan20 tian_shan14 tian_shan18
+            tian_shan7 tian_shan16
          }
 
          #include = "republic"
@@ -4142,8 +4145,8 @@ countries = {
             mong_yang mong_yawng muse namhkan namhsan nam_thing ngasingu shwegu siri_do takawng
             taunggyi ta_shwe_htan wetwin yawnghwe bilauktaung_range_et1 bilauktaung_range2 bilauktaung_range3 bilauktaung_range_et2 arakan_mountains2 pegu_jungle
             karen_hills3 karen_jungle_et daen_lao_range shan_hills3 karen_hills2 nwamethin_jungle karen_hills1 arakan_mountains1 pandaung_range chin_hills3
-            chin_hills2 chin_hills1 mangin_range1 shan_hills1 shan_hills2 namsam_range gaoligongshan1 naga_hills2 naga_hills3 mangin_range2 naga_hills4
-            sagaing_jungle kumon_range gaoligongshan2
+            chin_hills2 chin_hills1 mangin_range1 shan_hills1 shan_hills2 namsam_range gaoligongshan1 naga_hills2 naga_hills3 mangin_range2
+            naga_hills4 sagaing_jungle kumon_range gaoligongshan2
          }
 
          #include = "republic"
@@ -4521,9 +4524,9 @@ countries = {
             islamkot jhal jhatpat kandiaro kashmore kotri kot_lalu lahri laribandar manora
             mansura mithri moro_sindh muhammad_tur nagarparkar naserpur paat rajabar ranikot rohri
             sehwan shadodkot shikarpur siwi sonda sui_pakistan sukkur thatta umarkot vingur
-            wanga_bazar thar_desert_3 tharparkar_desert tora_bora_mountains suleiman_range_6 kirtar_range_2 kharan_desert2 kharan_desert3 kharan_desert1 kirtar_range suleiman_range_7
-            suleiman_range_2 suleiman_range_3 suleiman_range_9 suleiman_range_5 suleiman_range_8 suleiman_range_1 salt_range_3 thal_desert thal_desert_2 salt_range
-            nanga_parbat pir_panjal_range_3 karakoram3 hindu_kush8 hindu_kush10 hindu_kush9 hindu_kush7 hindu_kush4 mashkel
+            wanga_bazar thar_desert_3 tharparkar_desert tora_bora_mountains suleiman_range_6 kirtar_range_2 kharan_desert2 kharan_desert3 kharan_desert1 kirtar_range
+            suleiman_range_7 suleiman_range_2 suleiman_range_3 suleiman_range_9 suleiman_range_5 suleiman_range_8 suleiman_range_1 salt_range_3 thal_desert thal_desert_2
+            salt_range nanga_parbat pir_panjal_range_3 karakoram3 hindu_kush8 hindu_kush10 hindu_kush9 hindu_kush7 hindu_kush4 mashkel
          }
 
          #include = "republic"
@@ -5078,28 +5081,27 @@ countries = {
             shuya_karelia shyoltozero sordavala suikujarvi suojarvi tunkuo uhtuo vazhiny akkala alakurti
             dalniye_zelentsy kantalahti kashkarantsy kiltina kola koliskoj luujarvi maaselka mootka nuorttijarvi
             olenitsa pechenga ponoi prirechnyi pyalitsa raivke semiostrov suonikyla svyatoy_nos tetrino
-            umba varzuga hanasaki kasriskari ayon omok_upplands5 chuvan_upplands1 omok_upplands3 omok_upplands2
-            omok_upplands4 kolyma_upplands1 kolyma_river anjuj_river omok_upplands1 peninsula_uplands5 chauchu_trail3 erri_uplands2 erri_uplands1 peninsula_uplands4
-            anauls_uplands2 chuvan_upplands2 anauls_uplands3 anadyr_river o_mnmilin_uplands1 anadyr_trail yeropol_river chauchu_trail2 chauchu_trail1 alyutor_range1
-            koryak_uplands5 koryak_uplands4 yamsk_range2 yamsk_range1 koryak_uplands3 kedon_range peninsula_uplands3 peninsula_uplands2 koryak_uplands1 koryak_uplands2
-            o_mnmilin_uplands2 kerek_uplands anauls_uplands1 kamchatka_trail2 kamchatka_uplands5 alyutor_range2 kamchatka_uplands1 kamchatka_uplands2 kamchatka_trail1 kamchatka_uplands3
-            peninsula_uplands1 kamchatka_uplands4 kolyma_trail kolyma_upplands2 magadan_range omchikan_range kolyma_highlands soyangi_trail yukaghyr_upplands1 arga_tas_upplands
-            orgulaax_trail yukaghyr_upplands2 yukaghyr_upplands3 indigiir_trail uyandina_trail siberian_forests_1 okam_range siberian_tundra_4 siberian_hills_5 siberian_hills_6
-            chondon_tundra ayan_mai1 ayan_mai2 hakandya_uppland siberian_hills_3 siberian_hills_4 ol_de_trail siberian_tundra_5 uolya_trail siberian_tundra_10
-            puur_trail siberian_tundra_3 aldan_upplands3 dulgalaax_trail yana_plateau siberian_hills_2 siberian_tundra_7 siberian_tundra_6 siberian_tundra_9 lungxa_upplands1
-            lena_trail1 lena_trail2 siberian_hills_1 siberian_hills_7 siberian_tundra_8 aldan_upplands4 lungxa_upplands2 dippa_upplands ecigeen_upplands lena_trail3
-            siniaia_upplands biryuk_uplands sakha_uplands olyokma_upplands5 siberian_forests_4 vitim_upplands olyokma_upplands1 xamaxar_uplands2 chona_trail makarixa_uplands
-            neryunda_uplands siberian_wasteland_17 altay_forest_wasteland_3 siberian_wasteland_14 siberian_wasteland_16 siberian_wasteland_15 siberian_wasteland_9 siberian_wasteland_7 xamaxar_uplands1 markhaya_trail
-            siberian_wasteland_8 vilyuy_trail siberian_wasteland_6 tunguska_trail6 tunguska_trail5 nidym siberian_forests_6 tunguska_trail4 uchami tunguska_trail3
-            tutonchany tunguska_trail2 nimde siberian_forests_2 siberian_wasteland_13 siberian_wasteland_11 tunguska_trail1 siberian_forests_5 siberian_forests_3 siberian_hills_8
-            shuryshkar siberian_tundra_1 siberian_wasteland_10 siberian_tundra_2 siberian_wasteland_12 yamal yuzhny siberian_wasteland_2 siberian_wasteland_3 siberian_wasteland_5
-            perm_forest_3 sverdlovsk_forest_1 ural_mountains2 siberian_wasteland_4 siberian_wasteland_1 ural_mountains ural_forest perm_forest russian_wastelands_9 west_siberian_forests
-            nenets russian_wastelands_2 russian_wastelands_5 russian_wastelands_4 russian_wastelands_7 russian_wastelands_10 russian_wastelands_6 kolguyev russian_wastelands_8 kanin_peninsula
-            russian_wastelands_1 kola_taiga lapland_taiga4 lapland_taiga3 karelia_taiga2 karelia_taiga1 lapland_taiga2 yamsk_range3 maya_range1 maya_range2
-            duse_alin yam_alin bureya aldan_upplands2 aldan_upplands1 olyokma_upplands6 olyokma_upplands4 olyokma_upplands2 olyokma_upplands3 khan_khentii_mountains_et
-            khan_khentii3 eastern_sayan_mountains3 eastern_sayan_mountains1 tannu_ola_mountains2 tannu_ola_mountains1 altay_forest_wasteland_1 western_sayan_mountains altay_mountains altay_forest_wasteland_2 
-            greater_caucasus_mountains4 greater_caucasus_mountains2 greater_caucasus_mountains1 caucasus_et1 greater_caucasus_mountains8 greater_caucasus_mountains7 greater_caucasus_mountains9 makanru shasukotan repunmoshiri
-            rasshua
+            umba varzuga hanasaki kasriskari ayon omok_upplands5 chuvan_upplands1 omok_upplands3 omok_upplands2 omok_upplands4
+            kolyma_upplands1 kolyma_river anjuj_river omok_upplands1 peninsula_uplands5 chauchu_trail3 erri_uplands2 erri_uplands1 peninsula_uplands4 anauls_uplands2
+            chuvan_upplands2 anauls_uplands3 anadyr_river o_mnmilin_uplands1 anadyr_trail yeropol_river chauchu_trail2 chauchu_trail1 alyutor_range1 koryak_uplands5
+            koryak_uplands4 yamsk_range2 yamsk_range1 koryak_uplands3 kedon_range peninsula_uplands3 peninsula_uplands2 koryak_uplands1 koryak_uplands2 o_mnmilin_uplands2
+            kerek_uplands anauls_uplands1 kamchatka_trail2 kamchatka_uplands5 alyutor_range2 kamchatka_uplands1 kamchatka_uplands2 kamchatka_trail1 kamchatka_uplands3 peninsula_uplands1
+            kamchatka_uplands4 kolyma_trail kolyma_upplands2 magadan_range omchikan_range kolyma_highlands soyangi_trail yukaghyr_upplands1 arga_tas_upplands orgulaax_trail
+            yukaghyr_upplands2 yukaghyr_upplands3 indigiir_trail uyandina_trail siberian_forests_1 okam_range siberian_tundra_4 siberian_hills_5 siberian_hills_6 chondon_tundra
+            ayan_mai1 ayan_mai2 hakandya_uppland siberian_hills_3 siberian_hills_4 ol_de_trail siberian_tundra_5 uolya_trail siberian_tundra_10 puur_trail
+            siberian_tundra_3 aldan_upplands3 dulgalaax_trail yana_plateau siberian_hills_2 siberian_tundra_7 siberian_tundra_6 siberian_tundra_9 lungxa_upplands1 lena_trail1
+            lena_trail2 siberian_hills_1 siberian_hills_7 siberian_tundra_8 aldan_upplands4 lungxa_upplands2 dippa_upplands ecigeen_upplands lena_trail3 siniaia_upplands
+            biryuk_uplands sakha_uplands olyokma_upplands5 siberian_forests_4 vitim_upplands olyokma_upplands1 xamaxar_uplands2 chona_trail makarixa_uplands neryunda_uplands
+            siberian_wasteland_17 altay_forest_wasteland_3 siberian_wasteland_14 siberian_wasteland_16 siberian_wasteland_15 siberian_wasteland_9 siberian_wasteland_7 xamaxar_uplands1 markhaya_trail siberian_wasteland_8
+            vilyuy_trail siberian_wasteland_6 tunguska_trail6 tunguska_trail5 nidym siberian_forests_6 tunguska_trail4 uchami tunguska_trail3 tutonchany
+            tunguska_trail2 nimde siberian_forests_2 siberian_wasteland_13 siberian_wasteland_11 tunguska_trail1 siberian_forests_5 siberian_forests_3 siberian_hills_8 shuryshkar
+            siberian_tundra_1 siberian_wasteland_10 siberian_tundra_2 siberian_wasteland_12 yamal yuzhny siberian_wasteland_2 siberian_wasteland_3 siberian_wasteland_5 perm_forest_3
+            sverdlovsk_forest_1 ural_mountains2 siberian_wasteland_4 siberian_wasteland_1 ural_mountains ural_forest perm_forest russian_wastelands_9 west_siberian_forests nenets
+            russian_wastelands_2 russian_wastelands_5 russian_wastelands_4 russian_wastelands_7 russian_wastelands_10 russian_wastelands_6 kolguyev russian_wastelands_8 kanin_peninsula russian_wastelands_1
+            kola_taiga lapland_taiga4 lapland_taiga3 karelia_taiga2 karelia_taiga1 lapland_taiga2 yamsk_range3 maya_range1 maya_range2 duse_alin
+            yam_alin bureya aldan_upplands2 aldan_upplands1 olyokma_upplands6 olyokma_upplands4 olyokma_upplands2 olyokma_upplands3 khan_khentii_mountains_et khan_khentii3
+            eastern_sayan_mountains3 eastern_sayan_mountains1 tannu_ola_mountains2 tannu_ola_mountains1 altay_forest_wasteland_1 western_sayan_mountains altay_mountains altay_forest_wasteland_2 greater_caucasus_mountains4 greater_caucasus_mountains2
+            greater_caucasus_mountains1 caucasus_et1 greater_caucasus_mountains8 greater_caucasus_mountains7 greater_caucasus_mountains9 makanru shasukotan repunmoshiri rasshua
          }
 
          #include = "republic"
@@ -5967,8 +5969,7 @@ countries = {
             aiwanj farkhor gharm gunt hissar hulbuk karakol kulob muksu munk
             murghab oksu qalai_khumb qubodijon roshtqala sangvor shighnan shuman vakhs vamar
             vanch wesgird asht ayni isfara khujand panjakent ura_tyube pamir7 pamir8
-            hindu_kush5 pamir6 pamir5 hissar_mountains4 hissar_mountains2
-			new141 pamir2 
+            hindu_kush5 pamir6 pamir5 hissar_mountains4 hissar_mountains2 new141 pamir2
          }
 
          #include = "republic"
@@ -6167,33 +6168,33 @@ countries = {
             marash molevon mut samsat silifke sis tarsus ulnia adranos aslanapa
             atpazari ayvacik balikesir balya bandirma bayramic bergama biga bigadic bilecik
             bursa can canakkale domanic dursunbey edremit emet eynegol gonen goynuk
-            harmancik imbros inonu izmit iznik kutahya lapseki manyas mihalic nalli silli
-            simav sogut soma sultanonu susurluk tavsanli uskudar akcasehir akkus akyazi
-            amasra arac bafra bartin bayramlu bolu boyabat devrekani eregli gerede
-            gerze giresun gorele gumushane inebolu kastamonu khupati konrapa kure_i_mamure mengen
-            mesudiye mudurnu rize safranbolu samsun sinop surmene taskopru terme trebizond
-            ulus unye yenicepazari akhisar alaiye alasehir antalya ayasuluk balat banaz
-            birgi bodrum burdur cesme cine demirci dinar egirdir elmali finike
-            foca gediz gokabat golhisar gordes guzelhisar honaz isparta istanoz karahisar_i_teke
-            kas kula lazkiye manavgat manisa marmaris megri menemen milas mugla
-            nazilli selinti seyhli smyrna stefani tavas tire uluborlu urla usak
-            yuksekkum birecik cermik cizre diyarbekir dunaysir egil ergani eruh harran
-            hasankeyf hazro heni kozluk kulp mardin mayyafariqin midyat nusaybin sason
-            savur siirt sirnak siverek suruc urfa viransehir antioch arsuz artah
-            ayntab dluk kilis trapessac bayazit catalca constantinople corlu edirne enez
-            gallipoli hayrabolu kesan kirklareli kiyikoy luleburgaz malgara rodoscuk silivri vize
-            adakli ahlat bahcesaray bargiri baskale bayburt bingol bitlis catak cemisgezek
-            ercis erzincan erzurum genc hakkari harput hasankale hinis hizan hosap
-            ilic kagizman karakilise kars keban kelkit kemah kuzucan malazgirt mus
-            palu pertek sebinkarahisar semdinli siran sivrice surmali tatvan tekman tercan
-            tutak van varto ani igdir ardahan artanuji ispir oltu panaskerti
-            parkhali savsat tortum east_pontus_mountains_1 kose_mountains_2 kose_mountains_1 west_pontus_mountains_2 west_pontus_mountains_1 koroglu_mountains_1 koroglu_mountains_2
-            ilgaz_mountains ak_mountains middle_taurus_8 middle_taurus_7 middle_taurus_6 middle_taurus_2 middle_taurus_5 middle_taurus_4 middle_taurus_3 nur_mountains_2
-            nur_mountains_1 hodul_mountains melendiz_mountains west_taurus_5 sultan_mountains_1 middle_taurus_1 sultan_mountains_3 west_taurus_2 sandikli_mountains west_taurus_3
-            erenler_mountains sultan_mountains_2 west_taurus_1 west_taurus_4 otlukbeli_mountains mercan_mountains_1 east_taurus_1 east_taurus_9 east_pontus_mountains_2 east_taurus_2
-            east_taurus_8 karacadag karagol_mountains east_taurus_3 karasu_aras_mountains mercan_mountains_2 suphan_mountains east_taurus_7 east_taurus_5 mescit_mountains
-            kars_mountains_1 kars_mountains_2 yalnizcam_mountains east_pontus_mountains_3 kars_mountains_3 east_taurus_4 aladag_mountains zagros_mountains_et2 zagros_mountains2 lesser_caucasus_mountains3
-            lesser_caucasus_mountains9
+            harmancik imbros inonu izmit iznik kutahya lapseki manyas mihalic nalli
+            silli simav sogut soma sultanonu susurluk tavsanli uskudar akcasehir akkus
+            akyazi amasra arac bafra bartin bayramlu bolu boyabat devrekani eregli
+            gerede gerze giresun gorele gumushane inebolu kastamonu khupati konrapa kure_i_mamure
+            mengen mesudiye mudurnu rize safranbolu samsun sinop surmene taskopru terme
+            trebizond ulus unye yenicepazari akhisar alaiye alasehir antalya ayasuluk balat
+            banaz birgi bodrum burdur cesme cine demirci dinar egirdir elmali
+            finike foca gediz gokabat golhisar gordes guzelhisar honaz isparta istanoz
+            karahisar_i_teke kas kula lazkiye manavgat manisa marmaris megri menemen milas
+            mugla nazilli selinti seyhli smyrna stefani tavas tire uluborlu urla
+            usak yuksekkum birecik cermik cizre diyarbekir dunaysir egil ergani eruh
+            harran hasankeyf hazro heni kozluk kulp mardin mayyafariqin midyat nusaybin
+            sason savur siirt sirnak siverek suruc urfa viransehir antioch arsuz
+            artah ayntab dluk kilis trapessac bayazit catalca constantinople corlu edirne
+            enez gallipoli hayrabolu kesan kirklareli kiyikoy luleburgaz malgara rodoscuk silivri
+            vize adakli ahlat bahcesaray bargiri baskale bayburt bingol bitlis catak
+            cemisgezek ercis erzincan erzurum genc hakkari harput hasankale hinis hizan
+            hosap ilic kagizman karakilise kars keban kelkit kemah kuzucan malazgirt
+            mus palu pertek sebinkarahisar semdinli siran sivrice surmali tatvan tekman
+            tercan tutak van varto ani igdir ardahan artanuji ispir oltu
+            panaskerti parkhali savsat tortum east_pontus_mountains_1 kose_mountains_2 kose_mountains_1 west_pontus_mountains_2 west_pontus_mountains_1 koroglu_mountains_1
+            koroglu_mountains_2 ilgaz_mountains ak_mountains middle_taurus_8 middle_taurus_7 middle_taurus_6 middle_taurus_2 middle_taurus_5 middle_taurus_4 middle_taurus_3
+            nur_mountains_2 nur_mountains_1 hodul_mountains melendiz_mountains west_taurus_5 sultan_mountains_1 middle_taurus_1 sultan_mountains_3 west_taurus_2 sandikli_mountains
+            west_taurus_3 erenler_mountains sultan_mountains_2 west_taurus_1 west_taurus_4 otlukbeli_mountains mercan_mountains_1 east_taurus_1 east_taurus_9 east_pontus_mountains_2
+            east_taurus_2 east_taurus_8 karacadag karagol_mountains east_taurus_3 karasu_aras_mountains mercan_mountains_2 suphan_mountains east_taurus_7 east_taurus_5
+            mescit_mountains kars_mountains_1 kars_mountains_2 yalnizcam_mountains east_pontus_mountains_3 kars_mountains_3 east_taurus_4 aladag_mountains zagros_mountains_et2 zagros_mountains2
+            lesser_caucasus_mountains3 lesser_caucasus_mountains9
          }
 
          #include = "republic"
