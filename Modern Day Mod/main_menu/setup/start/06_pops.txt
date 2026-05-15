@@ -80006,4 +80006,6244 @@ new3 = {
          type = peasants
       }
    }
+   usa1 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa2 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa3 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa4 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa5 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa6 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa7 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa8 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa9 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa10 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa11 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa12 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa13 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa14 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa15 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa16 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa17 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa18 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa19 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa20 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa21 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa22 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa23 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa24 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa25 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa26 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa27 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa28 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa29 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa30 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa31 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa32 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa33 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa34 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa35 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa36 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa37 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa38 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa39 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa40 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa41 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa42 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa43 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa44 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa45 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa46 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa47 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa48 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa49 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa50 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa51 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa52 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa53 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa54 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa55 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa56 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa57 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa58 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa59 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa60 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa61 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa62 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa63 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa64 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa65 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa66 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa67 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa68 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa69 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa70 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa71 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa72 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa73 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa74 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa75 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa76 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa77 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa78 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa79 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa80 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa81 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa82 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa83 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa84 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa85 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa86 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa87 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa88 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa89 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa90 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa91 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa92 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa93 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa94 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa95 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa96 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa97 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa98 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa99 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa100 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa101 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa102 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa103 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa104 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa105 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa106 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa107 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa108 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa109 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa110 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa111 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa112 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa113 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa114 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa115 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa116 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa117 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa118 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa119 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa120 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa121 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa122 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa123 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa124 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa125 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa126 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa127 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa128 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa129 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa130 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa131 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa132 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa133 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa134 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa135 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa136 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa137 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa138 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa139 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa140 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa141 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa142 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa143 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa144 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa145 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa146 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa147 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa148 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa149 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa150 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa151 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa152 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa153 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa154 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa155 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa156 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa157 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa158 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa159 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa160 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa161 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa162 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa163 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa164 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa165 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa166 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa167 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa168 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa169 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa170 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa171 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa172 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa173 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa174 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa175 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa176 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa177 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa178 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa179 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa180 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa181 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa182 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa183 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa184 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa185 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa186 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa187 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa188 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa189 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa190 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa191 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa192 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa193 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa194 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa195 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa196 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa197 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa198 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa199 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa200 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa201 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa202 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa203 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa204 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa205 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa206 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa207 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa208 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa209 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa210 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa211 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa212 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa213 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa214 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa215 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa216 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa217 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa218 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa219 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa220 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa221 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa222 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa223 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa224 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa225 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa226 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa227 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa228 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa229 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa230 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa231 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa232 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa233 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa234 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa235 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa236 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa237 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa238 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa239 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa240 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa241 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa242 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa243 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa244 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa245 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa246 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa247 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa248 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa249 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa250 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa251 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa252 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa253 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa254 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa255 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa256 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa257 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa258 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa259 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa260 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa261 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa262 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa263 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa264 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa265 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa266 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa267 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa268 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa269 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa270 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa271 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa272 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa273 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa274 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa275 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa276 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa277 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa278 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa279 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa280 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa281 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa282 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa283 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa284 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa285 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa286 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa287 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa288 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa289 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa290 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa291 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa292 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa293 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa294 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa295 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa296 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa297 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa298 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa299 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa300 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa301 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa302 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa303 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa304 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa305 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa306 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa307 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa308 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa309 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa310 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa311 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa312 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa313 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa314 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa315 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa316 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa317 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa318 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa319 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa320 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa321 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa322 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa323 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa324 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa325 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa326 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa327 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa328 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa329 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa330 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa331 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa332 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa333 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa334 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa335 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa336 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa337 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa338 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa339 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa340 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa341 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa342 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa343 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa344 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa345 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa346 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa347 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa348 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa349 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa350 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa351 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa352 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa353 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa354 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa355 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa356 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa357 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa358 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa359 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa360 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa361 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa362 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa363 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa364 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa365 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa366 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa367 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa368 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa369 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa370 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa371 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa372 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa373 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa374 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa375 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa376 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa377 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa378 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa379 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa380 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa381 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa382 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa383 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa384 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa385 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa386 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa387 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa388 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa389 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa390 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa391 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa392 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa393 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa394 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa395 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa396 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa397 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa398 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa399 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa400 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa401 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa402 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa403 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa404 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa405 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa406 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa407 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa408 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa409 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa410 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa411 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa412 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa413 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa414 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa415 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa416 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa417 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa418 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa419 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa420 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa421 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa422 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa423 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa424 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa425 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa426 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa427 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa428 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa429 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa430 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa431 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa432 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa433 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa434 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa435 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa436 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa437 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa438 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa439 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa440 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa441 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa442 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa443 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa444 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa445 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa446 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa447 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa448 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa449 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa450 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa451 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa452 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa453 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa454 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa455 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa456 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa457 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa458 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa459 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa460 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa461 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa462 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa463 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa464 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa465 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa466 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa467 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa468 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa469 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa470 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa471 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa472 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa473 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa474 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa475 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa476 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa477 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa478 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa479 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa480 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa481 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa482 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa483 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa484 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa485 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa486 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa487 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa488 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa489 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa490 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa491 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa492 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa493 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa494 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa495 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa496 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa497 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa498 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa499 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa500 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa501 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa502 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa503 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa504 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa505 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa506 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa507 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa508 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa509 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa510 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa511 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa512 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa513 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa514 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa515 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa516 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa517 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa518 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa519 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa520 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa521 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa522 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa523 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa524 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa525 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa526 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa527 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa528 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa529 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa530 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa531 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa532 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa533 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa534 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa535 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa536 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa537 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa538 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa539 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa540 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa541 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa542 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa543 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa544 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa545 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa546 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa547 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa548 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa549 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa550 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa551 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa552 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa553 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa554 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa555 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa556 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa557 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa558 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa559 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa560 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa561 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa562 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa563 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa564 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa565 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa566 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa567 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa568 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa569 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa570 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa571 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa572 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa573 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa574 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa575 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa576 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa577 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa578 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa579 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa580 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa581 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa582 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa583 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa584 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa585 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa586 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa587 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa588 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa589 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa590 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa591 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa592 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa593 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa594 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa595 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa596 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa597 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa598 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa599 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   usa600 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz1 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz2 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz3 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz4 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz5 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz6 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz7 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz8 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz9 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz10 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz11 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz12 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz13 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz14 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz15 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz16 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz17 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz18 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz19 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz20 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz21 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz22 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz23 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz24 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz25 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz26 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz27 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz28 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz29 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz30 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz31 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz32 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz33 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz34 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz35 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz36 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz37 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz38 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz39 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz40 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz41 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz42 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz43 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz44 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz45 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz46 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz47 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz48 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz49 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz50 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz51 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz52 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz53 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz54 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz55 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz56 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz57 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz58 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz59 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz60 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz61 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz62 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz63 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz64 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz65 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz66 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz67 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz68 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz69 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz70 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz71 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz72 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz73 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz74 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz75 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz76 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz77 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz78 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz79 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz80 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz81 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz82 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz83 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz84 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz85 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz86 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz87 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz88 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz89 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz90 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz91 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz92 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz93 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz94 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz95 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz96 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz97 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz98 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz99 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz100 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz101 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz102 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz103 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz104 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz105 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz106 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz107 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz108 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz109 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz110 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz111 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz112 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz113 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz114 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz115 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz116 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz117 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz118 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz119 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz120 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz121 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz122 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz123 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz124 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz125 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz126 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz127 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz128 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz129 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz130 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz131 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz132 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz133 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz134 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz135 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz136 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz137 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz138 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz139 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz140 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz141 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz142 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz143 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz144 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz145 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz146 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz147 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz148 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz149 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz150 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz151 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz152 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz153 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz154 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz155 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz156 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz157 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz158 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz159 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz160 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz161 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz162 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz163 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz164 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz165 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz166 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz167 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz168 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz169 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz170 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz171 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz172 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz173 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz174 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz175 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz176 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz177 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz178 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz179 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   nz180 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
 }
