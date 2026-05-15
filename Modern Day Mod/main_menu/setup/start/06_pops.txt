@@ -124306,4 +124306,292 @@ new3 = {
          type = peasants
       }
    }
+   anchorage = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   dezadeash_trail = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   chilkootg_trail = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   teslin_trail = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   kechika_trail = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   tses_kiya_trail = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   ediziza_trail = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   kinaskan_trail = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   kahntah_trail = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   salt_lake_city = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   schuylkill = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   anaco = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   hacarigua = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   guaquire = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   guarico = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   guamontey = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   ipire = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   saipuru = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   ashca = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   isabela_island = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   santa_cruz_island = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   santiago_islands = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   syrian_desert_corridor2 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   syrian_desert_corridor4 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   syrian_desert_corridor10 = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   te_tai_aorere = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   hurunui = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   tupirvialuit = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   koroc = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   kinngait = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   amadjuak = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   kimmirut = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   iqaluit = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   iglunga = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   pangnirtung = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
+   magdalenas = {
+      define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }
+   }
 }
