@@ -1,0 +1,255 @@
+﻿#####mdm modern day mod
+
+###EUROPE
+
+BNLX = {			#mdm united Benelux
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = low_franconian
+	religion_definition = catholic
+
+	
+}
+
+
+CZSK = {			#mdm reformed Czechoslovakia
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = czech
+	religion_definition = catholic
+
+	
+}
+
+
+IBER = {			#mdm Iberia
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = mdm_spanish_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MIED = {			#mdm Intermarium
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = mazovian
+	religion_definition = catholic
+
+	
+}
+
+
+NVRU = {			#mdm Novorossiya
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = muscovite #culture_definition = mdm_novorussian_culture
+	religion_definition = catholic
+
+	
+}
+
+
+PLLT = {			#mdm reformed Poland-Lithuania
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = mazovian
+	religion_definition = catholic
+
+	
+}
+
+
+SCA = {			#mdm Scandinavia
+	color = rgb { 62 122 189 }
+	color2 = rgb { 62 122 189 }
+	culture_definition = swedish
+	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
+}
+
+
+USSR = {			#mdm reformed Soviet Union, may also be also used for the Union State
+	color = rgb { 204 0 0 }			#taken from wikipedia flag
+	color2 = rgb { 204 0 0 }
+
+	culture_definition = muscovite
+	religion_definition = catholic
+
+	
+}
+
+
+YUGO = {			#mdm reformed Yugoslavia, perhaps also used to represent the proposed Balkania between Serbia, Montenegro and Kosovo?
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = serbian
+	religion_definition = catholic
+
+	
+}
+
+
+ZAPA = {			#mdm Zapadoslavia
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = mazovian
+	religion_definition = catholic
+
+	
+}
+
+###ASIA
+
+ARAB = {			#mdm Arabia
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = najdi_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CANA = {			#mdm Canaan AKA the one-state solution
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = samaritan_culture
+	religion_definition = catholic
+
+	
+}
+
+
+GULF = {			#mdm united Persian Gulf Arab states, proposed around 2011-2012 by King of Saudi Arabia
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = najdi_culture
+	religion_definition = catholic
+
+	
+}
+
+
+KORE = {			#mdm united Korea
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = korean_culture #culture_definition = mdm_south_korean_culture
+	religion_definition = catholic
+
+	
+}
+
+
+TRKE = {			#mdm Turkestan
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = khazak
+	religion_definition = catholic
+
+	
+}
+
+###AFRICA
+
+EAF = {			#mdm East Africa / East African Federation
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = swahili_culture
+	religion_definition = catholic
+
+	
+}
+
+
+SAHE = {			#mdm Sahel / Alliance of Sahel States
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = bambara
+	religion_definition = catholic
+
+	
+}
+
+
+SNGM = {			#mdm Senegambia
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = wolof
+	religion_definition = catholic
+
+	
+}
+
+
+WAU = {			#mdm West Africa / West African Union
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = bambara
+	religion_definition = catholic
+
+	
+}
+
+###AMERICAS
+
+CAME = {			#mdm Central America
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = mdm_mexican_culture #culture_definition = mdm_central_american_culture
+	religion_definition = catholic
+
+	
+}
+
+
+GCOL = {			#mdm reformed Gran Colombia, proposed by Hugo Chaves and later Nicolás Maduro
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = mdm_mexican_culture #culture_definition = mdm_colombian_culture
+	religion_definition = catholic
+
+	
+}
+
+
+PEBO = {			#mdm reformed Peru-Bolivia, proposed by Peru to Bolivia in 2011, cabinets held joint meetings but that was the end of it
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = mdm_mexican_culture #culture_definition = mdm_peruvian_culture
+	religion_definition = catholic
+
+	
+}
+
+
+WIND = {			#mdm Windward Union
+	color = rgb { 0 0 0 } 		#color tbd
+	color2 = rgb { 0 0 0 } 		#color tbd
+
+	culture_definition = mdm_mexican_culture #culture_definition = mdm_peruvian_culture
+	religion_definition = catholic
+
+	
+}
