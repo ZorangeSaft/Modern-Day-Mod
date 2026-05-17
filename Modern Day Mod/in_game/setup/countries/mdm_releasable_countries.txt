@@ -599,6 +599,56 @@ USWY = {			#Wyoming
 	
 }
 
+
+USAS = {			#American Samoa
+	color = rgb { 22  39  90 }
+	color2 = rgb { 22  39  90 }
+	culture_definition = maohi_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USGU = {			#Guam
+	color = rgb { 0  25  100 }
+	color2 = rgb { 0  25  100 }
+	culture_definition = hagatna
+	religion_definition = catholic
+
+	
+}
+
+
+USMP = {			#Northern Mariana Islands
+	color = rgb { 194  194  10 }
+	color2 = rgb { 194  194  10 }
+	culture_definition = hagatna
+	religion_definition = catholic
+
+	
+}
+
+
+USPR = {			#Puerto Rico
+	color = rgb { 78  205  196 }
+	color2 = rgb { 78  205  196 }
+	culture_definition = mdm_puerto_rican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USVI = {			#US Virgin Islands
+	color = rgb { 255  107  107 }
+	color2 = rgb { 255  107  107 }
+	culture_definition = mdm_puerto_rican_culture
+	religion_definition = catholic
+
+	
+}
+
 #US State formables
 
 CSA = {			#Confederates / Southern USA
