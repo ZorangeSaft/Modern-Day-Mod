@@ -1508,6 +1508,7 @@ countries = {
 
          own_control_core = {
             rarotonga_atoll aitutaki_atoll mangaia nga_pu_toru manuae_atoll_cook avarau
+			manihiki rakahanga te_ulu_o_te_watu tongareva 
          }
 
          #include = "republic"
@@ -2058,7 +2059,7 @@ countries = {
             beqa_lagoon burebasaga fulaga_atoll kabara_atoll kandavu kubuna moce_atoll ngau qelelevu_atoll taveuni
             vanua_balavu_atoll vanua_levu yasawa vatoa ono_i_llau_atoll bukatatonoa_atoll lakeba vanua_vatu cicia viti_levu_atoll
             navatu_reef totoya_atoll thikombia moala moala_atoll ngau_atoll kadavu_atoll makogai_atoll ovalau koro_island
-            ovalau_atoll cacau_levu_atoll yasawa_atoll
+            ovalau_atoll cacau_levu_atoll yasawa_atoll rotuma_atoll rotuma 
          }
 
          #include = "republic"
@@ -2158,12 +2159,12 @@ countries = {
             calvi corte sartene vico cassel douai dunkirk lille maubeuge montmedy
             thionville valenciennes belfort benfeld colmar ensisheim ferrette haguenau lichtenberg mulhouse
             murbach strasbourg zabern ajie cemuhi drehu fwai ndrumbea nengone numee
-            nyelayu ouvea_atoll paici tiri xaracuu yuanga uvea_atoll apataki_atoll aratika_atoll fakarava_atoll
+            nyelayu ouvea_atoll paici tiri xaracuu yuanga uvea_atoll apataki_atoll aratika_atoll fakarava_atoll futuna cook_knolls 
             kauehi_atoll raraka_atoll toau_atoll faaite_atoll tahanea_atoll taungataki_atoll mangareva manihi_atoll marutea takaroa_atoll
             miquelon north_eastern_pyrenees2 north_eastern_pyrenees1 north_western_pyrenees pennine_alps1 graian_alps1 dauphine_alps2 cottian_alps1 maritime_alps1 dauphine_alps1
             vercors_massif massif_central vivarais_mountains dore_mountains amazon_jungle_et4 corsican_mountains nosy_ampela kwenyii beautemps_beaupre_atoll new_caledonia_barrier_reef_1
             belep new_caledonia_barrier_reef_2 entrecasteaux_atoll marotiri oparo raivavae_atoll raivavae tubuai_atoll tubuai rurutu
-            nororotu_atoll rimatara oeno_atoll pitcairn ducie_atoll henderson caroline hiva_oa ua_pou ua_huka
+            nororotu_atoll rimatara oeno_atoll pitcairn ducie_atoll henderson hiva_oa ua_pou ua_huka bayonnaise_banks 
             nuku_hiva eiao puka_puka_atoll napuka_atoll motutunga_atoll haraiki_atoll nganaa_nui_atoll hereheretue_atoll fangatau_atoll raroia_atoll
             taenga_atoll rekareka_atoll makemo_atoll acteon reao reitoru_atoll tauere_atoll hikueru_atoll taunga_tauranga_atoll tatakoto
             papakena_atoll paraoa_atoll marokau_atoll nengonengo_atoll haorangi_atoll nukutavake tematagi_atoll anuanuraro_atoll nihiru_atoll manuae_atoll
@@ -3328,6 +3329,7 @@ countries = {
          own_control_core = {
             abaiang_atoll abemama_atoll butaritari_atoll maiana_atoll nonouti_atoll onotoa_atoll tabiteuea_atoll tarawa_atoll kiritimati tabuaeran
             arorae banaba beru_atoll aranuka_atoll kiritimati_atoll teraina kingman_reff palmyra_atoll
+			caroline kanton_atoll manra_atoll orona_atoll malden nikumaroro_atoll starbuck
          }
 
          #include = "republic"
@@ -4459,7 +4461,7 @@ countries = {
             tararua tauranga te_tairawhiti urewera wairarapa wairoa waitangi wellington whakatane whanganui
             whangarei rekohu akaroa hurunui kahurangi kaiapoi kaikoura kaitangata mahitahi mawhera
             motupohue okarito otakou otepoti puari rakaia rakiura taramakau tauihu te_tai_aorere
-            timaru waihopai whakatu tongareva nukunonu_atoll nz9 nz8 nz7 nz10 nz11
+            timaru waihopai whakatu nukunonu_atoll nz9 nz8 nz7 nz10 nz11
             nz12 nz5 nz6 nz4 nz1 nz3 nz2 nz16 nz15 nz13
             nz18 nz17 nz22 nz14 nz20 nz30 nz21 nz29 nz28 nz27
             nz25 taranaki nz33 nz34 nz40 nz32 nz31 nz41 taupo nz26
@@ -4478,8 +4480,7 @@ countries = {
             nz169 nz152 nz153 manapouri_lake nz166 nz165 nz167 nz154 nz161 hauroko_lake
             nz160 wakatipu_lake nz146 nz155 nz157 nz163 nz156 nz162 nz180 nz143
             nz144 nz145 nz128 nz135 nz129 nz138 nz126 nz159 nz127 nz130
-            nz133 nz132 nz151 nz131 nz158 southern_alps ruapehu atafu_atoll malden starbuck
-            rakahanga manihiki te_ulu_o_te_watu
+            nz133 nz132 nz151 nz131 nz158 southern_alps ruapehu atafu_atoll  
          }
 
          include = "expl_mdm_whole_world"
@@ -6044,8 +6045,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            haapai tongatapu vauvau eua haapai_atoll tongatapu_atoll niuafo_ou niuatoputapu_atoll zephyr_atoll futuna
-            cook_knolls niuoku_atoll rotuma_atoll rotuma bayonnaise_banks kosciusko_bank
+            haapai tongatapu vauvau eua haapai_atoll tongatapu_atoll niuafo_ou niuatoputapu_atoll zephyr_atoll 
          }
 
          #include = "polynesian_monarchy"
@@ -6241,7 +6241,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            funafuti_atoll nukufetau_atoll nui_atoll niutao nanumanga nanumea_atoll
+            funafuti_atoll nukufetau_atoll nui_atoll niuoku_atoll niutao nanumanga nanumea_atoll kosciusko_bank
          }
 
          #include = "catholic_monarchy"
@@ -6613,7 +6613,7 @@ countries = {
             central_forest chandalar_forest chugach_mtns tanana_forest alaska yukon_flats alaska_range koyukon_forest dall_plains togiagamiut_forest
             deg_xit_an_forest dena_ina_uplands yukkhana yukonikhotana gwazhal_mountains koyukuk_forest malemiut_plains kugirukuk kobuk noatak
             utqiagvik gwazhal_hills kugmiut_uplands uracas maug agrihan alamagan pagan_island noos anatahan
-            rota guahan_atoll nikumaroro_atoll manra_atoll orona_atoll kanton_atoll mauna_loa nihoa mokumanamana kanemilohai_atoll
+            rota guahan_atoll mauna_loa nihoa mokumanamana kanemilohai_atoll
             kauo papa_apoho_atoll holaniku_atoll kuaihelani_atoll holoikauaua_atoll vieques_island mona_island aburakeiru new128 new129
             new126 new127 new125 new124 new123 new122 new121 new120
          }
