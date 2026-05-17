@@ -52,3 +52,615 @@ BOUG = {
 
 	
 }
+
+###UNITED STATES
+
+USAL = {			#Alabama
+	color = rgb { 220  19  61 } #crimson
+	color2 = rgb { 220  19  61 }
+
+	culture_definition = mdm_deep_south_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USAK = {			#Alaska
+	color = rgb { 15  32  75 } #dark blue from flag
+	color2 = rgb { 15  32  75 }
+
+	culture_definition = mdm_alaskan_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USAZ = {			#Arizona
+	color = rgb { 184  115  51 } #copper
+	color2 = rgb { 184  115  51 }
+
+	culture_definition = mdm_southwest_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USAR = {			#Arkansas
+	color = rgb { 45  110  64 } #forest green
+	color2 = rgb { 45  110  64 }
+
+	culture_definition = mdm_deep_south_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USCA = {			#California
+	color = rgb { 212  175  55 } #Gold, state color of California
+	color2 = rgb { 212  175  55 }
+
+	culture_definition = mdm_central_valley_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USCO = {			#Colorado
+	color = rgb { 170  39  4 } #state's name comes from the rusty redness of the river
+	color2 = rgb { 170  39  4 }
+
+	culture_definition = mdm_front_range_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USCT = {			#Connecticut
+	color = rgb { 0  53  107 } #Yale blue, lots of states in this area will use blue, they need to be very distinct
+	color2 = rgb { 0  53  107 }
+
+	culture_definition = mdm_maritime_new_england_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USDE = {			#Delaware
+	color = rgb { 102  156  164 } #Colonial blue from flag, lots of states in this area will use blue, they need to be very distinct
+	color2 = rgb { 102  156  164 }
+
+	culture_definition = mdm_chesapeake_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USDC = {			#District of Columbia
+	color = rgb { 227  224  205 } #aged marble
+	color2 = rgb { 227  224  205 }
+
+	culture_definition = mdm_mid_atlantic_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USFL = {			#Florida
+	color = rgb { 244  215  114 } #Sunshine color for the sunshine state
+	color2 = rgb { 244  215  114 }
+
+	culture_definition = mdm_central_florida_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USGA = {			#Georgia
+	color = rgb { 251  177  150 } #peach for obvious reasons
+	color2 = rgb { 251  177  150 }
+
+	culture_definition = mdm_deep_south_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USHI = {			#Hawaii
+	color = rgb { 221  56  70 } #hibiscus red
+	color2 = rgb { 221  56  70 }
+
+	culture_definition = mdm_hawaiian_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USID = {			#Idaho
+	color = rgb { 183  146  104 } #potato brown for potato state
+	color2 = rgb { 183  146  104 }
+
+	culture_definition = mdm_mormon_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USIL = {			#Illinois
+	color = rgb { 154  205  50 }
+	color2 = rgb { 154  205  50 }
+
+	culture_definition = mdm_lower_midwest_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USIN = {			#Indiana
+	color = rgb { 67  78  82 }
+	color2 = rgb { 67  78  82 }
+
+	culture_definition = mdm_ohio_river_valley_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USIA = {			#Iowa
+	color = rgb { 255  203  5 } #maize, AKA corn
+	color2 = rgb { 255  203  5 }
+
+	culture_definition = mdm_lower_midwest_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USKS = {			#Kansas
+	color = rgb { 218  189  152 } #wheat
+	color2 = rgb { 218  189  152 }
+
+	culture_definition = mdm_southern_great_plains_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USKY = {			#Kentucky
+	color = rgb { 153  101  21 } #fried chicken
+	color2 = rgb { 153  101  21 }
+
+	culture_definition = mdm_upper_south_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USLA = {			#Louisiana
+	color = rgb { 66  37  117 } #cajun purple
+	color2 = rgb { 66  37  117 }
+
+	culture_definition = mdm_cajun_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USME = {			#Maine
+	color = rgb { 1  121  111 }
+	color2 = rgb { 1  121  111 }
+
+	culture_definition = mdm_maritime_new_england_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USMD = {			#Maryland
+	color = rgb { 240  204  61 }
+	color2 = rgb { 240  204  61 }
+
+	culture_definition = mdm_mid_atlantic_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USMA = {			#Massachusetts
+	color = rgb { 166  10  61 }	#cranberry
+	color2 = rgb { 166  10  61 }
+
+	culture_definition = mdm_maritime_new_england_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USMI = {			#Michigan
+	color = rgb { 0  39  76 } #Maize and Blue
+	color2 = rgb { 0  39  76 }
+
+	culture_definition = mdm_great_lakes_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USMN = {			#Minnesota
+	color = rgb { 75  0  129 }
+	color2 = rgb { 75  0  129 }
+
+	culture_definition = mdm_upper_midwest_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USMS = {			#Mississippi
+	color = rgb { 10  30  64 } #old glory blue
+	color2 = rgb { 10  30  64 }
+
+	culture_definition = mdm_deep_south_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USMO = {			#Missouri
+	color = rgb { 0  75  141 }
+	color2 = rgb { 0  75  141 }
+
+	culture_definition = mdm_lower_midwest_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USMT = {			#Montana
+	color = rgb { 135  206  235 } #sky blue
+	color2 = rgb { 135  206  235 }
+
+	culture_definition = mdm_rocky_mountains_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USNE = {			#Nebraska
+	color = rgb { 255  36  0 } #scarlet red "go big red"
+	color2 = rgb { 255  36  0 }
+
+	culture_definition = mdm_lower_midwest_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USNV = {			#Nevada
+	color = rgb { 195  195  195 } #silver
+	color2 = rgb { 195  195  195 }
+
+	culture_definition = mdm_great_basin_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USNH = {			#New Hampshire
+	color = rgb { 103  103  103 } #granite
+	color2 = rgb { 103  103  103 }
+
+	culture_definition = mdm_maritime_new_england_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USNJ = {			#New Jersey
+	color = rgb { 6  64  43 }
+	color2 = rgb { 6  64  43 }
+
+	culture_definition = mdm_mid_atlantic_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USNM = {			#New Mexico
+	color = rgb { 48  213  200 }	#turquoise, but totally not for any illicit reasons
+	color2 = rgb { 48  213  200 }
+
+	culture_definition = mdm_southwest_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USNY = {			#New York
+	color = rgb { 51  93  219 }	#royal blue
+	color2 = rgb { 51  93  219 }
+
+	culture_definition = mdm_upstate_new_york_culture	#since that's where albany is
+	religion_definition = catholic
+
+	
+}
+
+
+USNC = {			#North Carolina
+	color = rgb { 182  219  248 }	#carolina blue
+	color2 = rgb { 182  219  248 }
+
+	culture_definition = mdm_piedmont_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USND = {			#North Dakota
+	color = rgb { 26  63  46 }
+	color2 = rgb { 26  63  46 }
+	culture_definition = mdm_upper_midwest_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USOH = {			#Ohio
+	color = rgb { 196  30  58 }	#cardinal red, together with buckeye blue are the main colors of ohio, but Michigan is already blue and these enemies must have stark contrast
+	color2 = rgb { 196  30  58 }
+	culture_definition = mdm_ohio_river_valley_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USOK = {			#Oklahoma
+	color = rgb { 255  253  208 }	#cream, together with crimson, are most widespread state colors
+	color2 = rgb { 255  253  208 }
+	culture_definition = mdm_southern_great_plains_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USOR = {			#Oregon
+	color = rgb { 0  0  128 }	#navy blue, state color together with gold
+	color2 = rgb { 0  0  128 }
+	culture_definition = mdm_cascadian_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USPA = {			#Pennsylvania
+	color = rgb { 126  119  82 }	#liberty bell
+	color2 = rgb { 126  119  82 }
+	culture_definition = mdm_mid_atlantic_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USRI = {			#Rhode Island
+	color = rgb { 253  186  46 }	#yellow from flag
+	color2 = rgb { 253  186  46 }
+	culture_definition = mdm_maritime_new_england_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USSC = {			#South Carolina
+	color = rgb { 0  51  102 }	#blue from flag
+	color2 = rgb { 0  51  102 }
+	culture_definition = mdm_atlantic_southern_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USSD = {			#South Dakota
+	color = rgb { 255  243  128 }	#plains yellow
+	color2 = rgb { 255  243  128 }
+	culture_definition = mdm_northern_great_plains_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USTN = {			#Tennessee
+	color = rgb { 255  130  0 }	#Tennessee Orange
+	color2 = rgb { 255  130  0 }
+	culture_definition = mdm_upper_south_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USTX = {			#Texas
+	color = rgb { 191  87  0 } #Texas Orange
+	color2 = rgb { 191  87  0 }
+
+	culture_definition = mdm_texan_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USUT = {			#Utah
+	color = rgb { 226  83  54 }	#Terracotta
+	color2 = rgb { 226  83  54 }
+	culture_definition = mdm_mormon_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USVT = {			#Vermont
+	color = rgb { 0  127  10 }	#Green Mountain State
+	color2 = rgb { 0  127  10 }
+	culture_definition = mdm_woodland_new_england_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USVA = {			#Virginia
+	color = rgb { 227  66  52 }	#vermilion
+	color2 = rgb { 227  66  52 }
+	culture_definition = mdm_piedmont_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USWA = {			#Washington
+	color = rgb { 0  132  61 }	#taken from flag, defined as Irish green
+	color2 = rgb { 0  132  61 }
+	culture_definition = mdm_cascadian_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USWV = {			#West Virginia
+	color = rgb { 16  18  20 }	#coal black
+	color2 = rgb { 16  18  20 }
+	culture_definition = mdm_southern_appalachian_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USWI = {			#Wisconsin
+	color = rgb { 255  166  0 }	#american cheese
+	color2 = rgb { 255  166  0 }
+	culture_definition = mdm_great_lakes_culture
+	religion_definition = catholic
+
+	
+}
+
+
+USWY = {			#Wyoming
+	color = rgb { 73  47  36 }	#brown is a proposed state color referencing cowboys and buffalo
+	color2 = rgb { 73  47  36 }
+	culture_definition = mdm_front_range_culture
+	religion_definition = catholic
+
+	
+}
+
+#US State formables
+
+CSA = {			#Confederates / Southern USA
+	color = rgb { 127  130  124 } #Confederate soldier gray
+	color2 = rgb { 127  130  124 }
+
+	culture_definition = mdm_deep_south_culture
+	religion_definition = catholic
+
+	
+}
+
+
+GPLA = {			#Great Plains
+	color = rgb { 201  153  113 }
+	color2 = rgb { 201  153  113 }
+
+	culture_definition = mdm_southern_great_plains_culture
+	religion_definition = catholic
+
+	
+}
+
+
+GLAK = {			#Great Lakes
+	color = rgb { 6  45  93 }
+	color2 = rgb { 6  45  93 }
+
+	culture_definition = mdm_great_lakes_culture
+	religion_definition = catholic
+
+	
+}
+
+
+ROCK = {			#Rockies
+	color = rgb { 189  168  151 }
+	color2 = rgb { 189  168  151 }
+
+	culture_definition = mdm_rocky_mountains_culture
+	religion_definition = catholic
+
+	
+}
+
+
+NAFR = {			#New Afrika
+	color = rgb { 40  40  40 } #they obviously represent their movement with black
+	color2 = rgb { 40  40  40 }
+
+	culture_definition = mdm_deep_south_culture			#might need a specific african-american culture
+	religion_definition = catholic
+
+	
+}
+
+NENG = {			#New England
+	color = rgb { 0  99  56 } #Pine green from flag
+	color2 = rgb { 0  99  56 }
+
+	culture_definition = mdm_maritime_new_england_culture
+	religion_definition = catholic
+
+	
+}
