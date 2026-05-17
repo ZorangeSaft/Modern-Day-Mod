@@ -3327,7 +3327,7 @@ countries = {
 
          own_control_core = {
             abaiang_atoll abemama_atoll butaritari_atoll maiana_atoll nonouti_atoll onotoa_atoll tabiteuea_atoll tarawa_atoll kiritimati tabuaeran
-            arorae beru_atoll aranuka_atoll kiritimati_atoll teraina kingman_reff palmyra_atoll
+            arorae banaba beru_atoll aranuka_atoll kiritimati_atoll teraina kingman_reff palmyra_atoll
          }
 
          #include = "republic"
@@ -3977,7 +3977,7 @@ countries = {
          own_control_core = {
             ulithi_atoll woleai_atoll yap chuuk kosrae pohnpei poluwat_atoll pulusuk_atoll satawan_atoll pohnpei_atoll
             ngatik_atoll oroluk_atoll minto_atoll namoluk_atoll losap_atoll hall_atoll chuuk_lagoon helene_atoll namonuito_atoll elgin_atoll
-            pulap_atoll caroline_atoll angaur lamotrek_atoll piagailoe_atoll west_faru_atoll faraulep_atoll belau ngulu_atoll belau_atoll
+            pulap_atoll caroline_atoll angaur lamotrek_atoll piagailoe_atoll west_faru_atoll faraulep_atoll ngulu_atoll 
             mokil_atoll ebon_atoll namorik_atoll
          }
 
@@ -4182,6 +4182,28 @@ countries = {
             ruler = random
             heir_selection = lottery_election
           }
+      }
+
+
+      NAUR = {
+         capital = nauru
+         # government = {ruler = naur_rene_harris }
+         country_rank = rank_county
+         starting_technology_level = 3
+
+         own_control_core = {
+            nauru
+         }
+
+         #include = "republic"
+         include = "expl_mdm_whole_world"
+
+         government = {
+            type = republic
+            ruler = random
+            heir_selection = lottery_election
+
+          }
       }
 
 
@@ -4565,6 +4587,10 @@ countries = {
          # government = {ruler = palu_surangel_whipps_jr. }
          country_rank = rank_duchy
          starting_technology_level = 3
+
+         own_control_core = {
+			belau belau_atoll
+         }
 
          #include = "republic"
          include = "expl_mdm_whole_world"
