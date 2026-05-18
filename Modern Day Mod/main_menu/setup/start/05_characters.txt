@@ -11,7 +11,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	aust_john_mcewen = {
 #		first_name = { name = john_mcewen }
@@ -23,7 +23,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	can_richard_bennett = {
 #		first_name = { name = richard_bennett }
@@ -636,7 +636,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	cuba_carlos_prio_socarras = {
 #		first_name = { name = carlos_prio_socarras }
@@ -1611,7 +1611,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	aust_harolt_holt = {
 #		first_name = { name = harolt_holt }
@@ -1623,7 +1623,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	aust_william_mcmahon = {
 #		first_name = { name = william_mcmahon }
@@ -1635,7 +1635,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	boli_gualberto_villarroel = {
 #		first_name = { name = gualberto_villarroel }
@@ -1829,7 +1829,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	arge_hector_jose_campora = {
 #		first_name = { name = hector_jose_campora }
@@ -1841,7 +1841,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	colo_guillermo_leon_velancia_munoz = {
 #		first_name = { name = guillermo_leon_velancia_munoz }
@@ -2039,7 +2039,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	braz_ranieri_mazzilli = {
 #		first_name = { name = ranieri_mazzilli }
@@ -2309,7 +2309,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	bul_todor_zhivkov = {
 #		first_name = { name = todor_zhivkov }
@@ -2957,7 +2957,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	arge_juan_carlos_ongania = {
 #		first_name = { name = juan_carlos_ongania }
@@ -2969,7 +2969,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	bei_sayf_ad_din_iii_bolkiah = {
 #		first_name = { name = sayf_ad_din }
@@ -3102,7 +3102,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	bang_ahsanuddin_chowdhury = {
 #		first_name = { name = ahsanuddin_chowdhury }
@@ -3330,7 +3330,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	bang_abu_sadat_mohammad_sayem = {
 #		first_name = { name = abu_sadat_mohammad_sayem }
@@ -3552,7 +3552,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	braz_janio_quadros = {
 #		first_name = { name = janio_quadros }
@@ -3792,7 +3792,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	bang_khondaker_mostaq_ahmad = {
 #		first_name = { name = khondaker_mostaq_ahmad }
@@ -4334,7 +4334,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	bang_sheikh_mujibur_rahman = {
 #		first_name = { name = sheikh_mujibur_rahman }
@@ -4996,7 +4996,7 @@
 #		birth = luanda
 #		culture = ambundu
 #		religion = secularism
-#		tag = ANGO
+#		tag = ANG
 #	}
 #	bhut_jigme_dorji_wangchuck_1 = {
 #		first_name = { name = jigme_dorji }
@@ -5362,7 +5362,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	ecua_guillermo_rodriguez_lara = {
 #		first_name = { name = guillermo_rodriguez_lara }
@@ -5735,7 +5735,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	boli_luis_adolfo_siles_salinas = {
 #		first_name = { name = luis_adolfo_siles_salinas }
@@ -5989,7 +5989,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	afgh_abdul_rahim_hatef = {
 #		first_name = { name = abdul_rahim_hatef }
@@ -6001,7 +6001,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	afgh_sibghatullah_mojaddedi = {
 #		first_name = { name = sibghatullah_mojaddedi }
@@ -6013,7 +6013,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	arge_leopoldo_galtieri = {
 #		first_name = { name = leopoldo_galtieri }
@@ -6025,7 +6025,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	bang_abdur_rahman_biswas = {
 #		first_name = { name = abdur_rahman_biswas }
@@ -6341,7 +6341,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	boli_david_padilla = {
 #		first_name = { name = david_padilla }
@@ -6548,7 +6548,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	esto_arnold_ruutel = {
 #		first_name = { name = arnold_ruutel }
@@ -6717,7 +6717,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	alb_alfred_moisiu = {
 #		first_name = { name = alfred_moisiu }
@@ -6753,7 +6753,7 @@
 #		birth = luanda
 #		culture = ambundu
 #		religion = secularism
-#		tag = ANGO
+#		tag = ANG
 #	}
 #	arge_carlos_lacoste = {
 #		first_name = { name = carlos_lacoste }
@@ -6765,7 +6765,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	aust_bob_hawke = {
 #		first_name = { name = bob_hawke }
@@ -6777,7 +6777,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	bang_zillur_rahman = {
 #		first_name = { name = zillur_rahman }
@@ -6998,7 +6998,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	aust_malcolm_fraser = {
 #		first_name = { name = malcolm_fraser }
@@ -7010,7 +7010,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	baha_lynden_pindling = {
 #		first_name = { name = lynden_pindling }
@@ -7351,7 +7351,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	bahr_isa_al_khalifa_1 = {
 #		first_name = { name = isa }
@@ -9407,7 +9407,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	boli_guido_vildoso = {
 #		first_name = { name = guido_vildoso }
@@ -10150,7 +10150,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	boli_jaime_paz_zamora = {
 #		first_name = { name = jaime_paz_zamora }
@@ -10389,7 +10389,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	braz_michael_temer = {
 #		first_name = { name = michael_temer }
@@ -10829,7 +10829,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	bufa_jean_baptiste_ouedraogo = {
 #		first_name = { name = jean_baptiste_ouedraogo }
@@ -11141,7 +11141,7 @@
 #		birth = luanda
 #		culture = ambundu
 #		religion = secularism
-#		tag = ANGO
+#		tag = ANG
 #	}
 #	bhut_jigme_singye_wangchuck_1 = {
 #		first_name = { name = jigme_singye }
@@ -11974,7 +11974,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	bang_abdul_hamid = {
 #		first_name = { name = abdul_hamid }
@@ -13043,7 +13043,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	afgh_mohammad_najibullah = {
 #		first_name = { name = mohammad_najibullah }
@@ -13055,7 +13055,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	arge_adolfo_rodriguez_saa = {
 #		first_name = { name = adolfo_rodriguez_saa }
@@ -13067,7 +13067,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	baha_hubert_ingraham = {
 #		first_name = { name = hubert_ingraham }
@@ -13693,7 +13693,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	bang_mohammed_shahabuddin = {
 #		first_name = { name = mohammed_shahabuddin }
@@ -14192,7 +14192,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	bosh_ivo_miro_jovic = {
 #		first_name = { name = ivo_miro_jovic }
@@ -14611,7 +14611,7 @@
 #		birth = wadadli
 #		culture = english #british_caribbean
 #		religion = secularism
-#		tag = ANBR
+#		tag = ABR
 #	}
 #	baha_philip_davis = {
 #		first_name = { name = philip_davis }
@@ -15374,7 +15374,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	arm_armen_sarkissian = {
 #		first_name = { name = armen_sarkissian }
@@ -15733,7 +15733,7 @@
 #		birth = luanda
 #		culture = ambundu
 #		religion = catholic
-#		tag = ANGO
+#		tag = ANG
 #	}
 #	arm_robert_kocharyan = {
 #		first_name = { name = robert_kocharyan }
@@ -15769,7 +15769,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	baha_hubert_minnis = {
 #		first_name = { name = hubert_minnis }
@@ -16736,7 +16736,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	alb_bamir_topi = {
 #		first_name = { name = bamir_topi }
@@ -16760,7 +16760,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	aust_tony_abbott = {
 #		first_name = { name = tony_abbott }
@@ -16772,7 +16772,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	barb_erskine_sandiford = {
 #		first_name = { name = erskine_sandiford }
@@ -17219,7 +17219,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	arge_alberto_fernandez = {
 #		first_name = { name = alberto_fernandez }
@@ -17231,7 +17231,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = secularism
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	arm_vahagn_khachaturyan = {
 #		first_name = { name = vahagn_khachaturyan }
@@ -17934,7 +17934,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	aust_julia_gillard = {
 #		first_name = { name = julia_gillard }
@@ -17946,7 +17946,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	azer_ayaz_mutallibov = {
 #		first_name = { name = ayaz_mutallibov }
@@ -18451,7 +18451,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = catholic
-#		tag = AUST
+#		tag = AST
 #	}
 #	azer_heydar_aliyev = {
 #		first_name = { name = heydar_aliyev }
@@ -18787,7 +18787,7 @@
 #		birth = wadadli
 #		culture = english #british_caribbean
 #		religion = secularism
-#		tag = ANBR
+#		tag = ABR
 #	}
 #	barb_owen_arthur = {
 #		first_name = { name = owen_arthur }
@@ -19559,7 +19559,7 @@
 #		birth = yunggai
 #		culture = british_australian
 #		religion = secularism
-#		tag = AUST
+#		tag = AST
 #	}
 #	beli_said_musa = {
 #		first_name = { name = said_musa }
@@ -19963,7 +19963,7 @@
 #		birth = tuvicha_mini
 #		culture = castilian #iberian_la_platan
 #		religion = catholic
-#		tag = ARGE
+#		tag = ARG
 #	}
 #	bots_duma_boko = {
 #		first_name = { name = duma_boko }
@@ -20192,7 +20192,7 @@
 #		birth = kabul
 #		culture = afghan_culture
 #		religion = sunni
-#		tag = AFGH
+#		tag = AFG
 #	}
 #	cafr_alexandre_ferdinand_nguendet = {
 #		first_name = { name = alexandre_ferdinand_nguendet }
@@ -20450,7 +20450,7 @@
 #		birth = wadadli
 #		culture = english #british_caribbean
 #		religion = secularism
-#		tag = ANBR
+#		tag = ABR
 #	}
 #	bei_al_muhtadee_billah_bolkiah = {
 #		first_name = { name = al_muhtadee_billah }
@@ -21310,7 +21310,7 @@
 #		birth = wadadli
 #		culture = english #british_caribbean
 #		religion = lutheran
-#		tag = ANBR
+#		tag = ABR
 #	}
 #	bhut_jigyel_ugyen_wangchuck = {
 #		first_name = { name = jigyel_ugyen }

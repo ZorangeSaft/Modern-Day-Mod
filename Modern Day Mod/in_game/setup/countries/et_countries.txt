@@ -1,4 +1,4 @@
-ABKH = { #hoi4 color
+ABK = { #hoi4 color
 	color = rgb { 51 204 51 }
 	color2 = rgb  { 51 204 51 }
 	culture_definition = mingrelian_culture
@@ -8,7 +8,7 @@ ABKH = { #hoi4 color
 }
 
 
-AFGH = {
+AFG = {
 	color = rgb { 64  160  167 } #{ 102  128  52 }
 	color2 = rgb  { 64  160  167 } #{ 102  128  52 }
 	culture_definition = afghan_culture
@@ -38,7 +38,7 @@ ALG = {
 }
 
 
-ANBR = {
+ABR = {
 	color = rgb { 149  74  49 }
 	color2 = rgb { 149  74  49 }
 	culture_definition = english #british_caribbean
@@ -48,7 +48,7 @@ ANBR = {
 }
 
 
-ANGO = {
+ANG = {
 	color = rgb { 206 17 39 } # Angola flag red #{ 159 54 27 } # Angola flag average color
 	color2 = rgb { 206 17 39 }
 	culture_definition = ambundu
@@ -58,7 +58,7 @@ ANGO = {
 }
 
 
-ARGE = {
+ARG = {
 	color = rgb { 145  157  236 } #{ 101  102  163 }
 	color2 = rgb { 145  157  236 } #{ 101  102  163 }
 	culture_definition = castilian #iberian_la_platan
@@ -78,7 +78,7 @@ ARM = { #went to colorwheel and picked purple
 }
 
 
-ARTS = {
+ART = {
 	color = rgb { 204  187  186 } #{ 80  20  140 }
 	color2 = rgb { 204  187  186 } #{ 80  20  140 }
 	culture_definition = armenian_culture
@@ -88,7 +88,7 @@ ARTS = {
 }
 
 
-AUST = {
+AST = {
 	color = rgb { 57  143  97 } #{ 144  60  75 }
 	color2 = rgb { 57  143  97 } #{ 144  60  75 }
 	culture_definition = british_australian

@@ -343,9 +343,9 @@ ABA = { # Alba
 	}
 }
 
-ABKH = { # mdm modern day mod Abkhazia
+ABK = { # mdm modern day mod Abkhazia
 	flag_definition = {
-		coa = mdm_ABKH_today
+		coa = mdm_ABK_today
 		priority = 1
 	}
 }
@@ -393,9 +393,9 @@ ADU = { # Al Andalus
 	}	
 }
 
-AFGH = { # mdm modern day mod Afghanistan
+AFG = { # mdm modern day mod Afghanistan
 	flag_definition = {
-		coa = mdm_AFGH_today
+		coa = mdm_AFG_today
 		priority = 1
 	}
 }
@@ -446,9 +446,9 @@ ALG = { # mdm modern day mod Algeria
 	}
 }
 
-ANBR = { # mdm modern day mod Antigua and Barbuda
+ABR = { # mdm modern day mod Antigua and Barbuda
 	flag_definition = {
-		coa = mdm_ANBR_today
+		coa = mdm_ABR_today
 		priority = 1
 	}
 }
@@ -526,9 +526,9 @@ ANG = { # Angoulême - with the cadency mark if Orléans exists
 	}
 }
 
-ANGO = { # mdm modern day mod Angola
+ANG = { # mdm modern day mod Angola
 	flag_definition = {
-		coa = mdm_ANGO_today
+		coa = mdm_ANG_today
 		priority = 1
 	}
 }
@@ -694,9 +694,9 @@ ARB = { # Arborea
 	}
 }
 
-ARGE = { # mdm modern day mod Argentina
+ARG = { # mdm modern day mod Argentina
 	flag_definition = {
-		coa = mdm_ARGE_today
+		coa = mdm_ARG_today
 		priority = 1
 	}
 }
@@ -813,9 +813,9 @@ ATR = { # Astrakhan
 	}
 }
 
-AUST = { # mdm modern day mod Australia
+AST = { # mdm modern day mod Australia
 	flag_definition = {
-		coa = mdm_AUST_today
+		coa = mdm_AST_today
 		priority = 1
 	}
 }
