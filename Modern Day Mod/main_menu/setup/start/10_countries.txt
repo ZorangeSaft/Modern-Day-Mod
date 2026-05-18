@@ -2164,7 +2164,7 @@ countries = {
             miquelon north_eastern_pyrenees2 north_eastern_pyrenees1 north_western_pyrenees pennine_alps1 graian_alps1 dauphine_alps2 cottian_alps1 maritime_alps1 dauphine_alps1
             vercors_massif massif_central vivarais_mountains dore_mountains amazon_jungle_et4 corsican_mountains nosy_ampela kwenyii beautemps_beaupre_atoll new_caledonia_barrier_reef_1
             belep new_caledonia_barrier_reef_2 entrecasteaux_atoll marotiri oparo raivavae_atoll raivavae tubuai_atoll tubuai rurutu
-            nororotu_atoll rimatara oeno_atoll pitcairn ducie_atoll henderson hiva_oa ua_pou ua_huka bayonnaise_banks 
+            nororotu_atoll rimatara hiva_oa ua_pou ua_huka bayonnaise_banks 
             nuku_hiva eiao puka_puka_atoll napuka_atoll motutunga_atoll haraiki_atoll nganaa_nui_atoll hereheretue_atoll fangatau_atoll raroia_atoll
             taenga_atoll rekareka_atoll makemo_atoll acteon reao reitoru_atoll tauere_atoll hikueru_atoll taunga_tauranga_atoll tatakoto
             papakena_atoll paraoa_atoll marokau_atoll nengonengo_atoll haorangi_atoll nukutavake tematagi_atoll anuanuraro_atoll nihiru_atoll manuae_atoll
@@ -2284,8 +2284,9 @@ countries = {
             coleraine derry downpatrick dungannon dunluce enniskillen iveagh magherafelt newtownards oriel
             strabane orkney shetland st_helena ochil_hills pennines_01 pennines_03 pennines_02 north_york_moors pennines_06
             pennines_05 pennines_04 cambrian_mountains snowdon berwyn_range dartmoor brecon_beacons ben_nevis cairngorm ben_klibreck
-            fannichs carn_eige scilly_isles georgia_isle tristan_da_cunha_island gough_island malliouhana ariogana ascensao new132
-            new131
+            fannichs carn_eige scilly_isles georgia_isle tristan_da_cunha_island gough_island malliouhana ariogana ascensao 
+			oeno_atoll pitcairn henderson ducie_atoll 
+			new132 new131
          }
 
          include = "expl_mdm_whole_world"
