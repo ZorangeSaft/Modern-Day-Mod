@@ -355,7 +355,7 @@ countries = {
 
 
       AZER = {
-         capital = shirvan
+         capital = baku
          # government = {ruler = azer_ilham_aliyev }
          country_rank = rank_duchy
          starting_technology_level = 3
@@ -2641,7 +2641,7 @@ countries = {
 
 
       HUN = {
-         capital = abrahamtelke
+         capital = pest
          # government = {ruler = hun_tamas_sulyok }
          country_rank = rank_duchy
          starting_technology_level = 3
@@ -5508,7 +5508,7 @@ countries = {
 
 
       SLOV = {
-         capital = gorizia
+         capital = ljubljana
          # government = {ruler = slov_natasa_pirc_musar }
          country_rank = rank_duchy
          starting_technology_level = 3
@@ -6781,7 +6781,7 @@ countries = {
 
 
       YEM = {
-         capital = taizz
+         capital = sana_yemen
          # government = {ruler = yem_mahdi_al_mashat }
          country_rank = rank_county
          starting_technology_level = 3
