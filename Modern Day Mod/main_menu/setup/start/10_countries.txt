@@ -341,6 +341,7 @@ countries = {
             pamkala tarntanya tidni wanbiri wanbirujurari willeuroo windakan wirameju wirangu yalata
             badhu oxley_wilds alpine_mountains wadbilliga_mountains blue_mountains kosciuszko_mountains strzelecki_desert sturt_stony_desert simpson_desert south_australian_desert
             pedrika_desert great_victoria_desert tanami_desert great_sandy_desert gibson_desert western_australian_desert little_sandy_desert bellona_reef
+			norfolk frederick_reef lord_howe_island 
          }
 
          include = "expl_mdm_whole_world"
@@ -6544,7 +6545,7 @@ countries = {
             red_rock rock_springs routt ruby_valley savery sinclair split_rock sweetwater tavaputs taveewach
             taviwac teewinot tondzaosha to_aheedliinii tukudika uintah uncompaghre wamsutter wasatch washakie
             winimuc yapudttka hagatna saipan hilo kaua_i ka_u kohala kona lahaina
-            maui moloka_i honolulu tutuila usa301 usa302 usa298 usa297 usa310 usa300
+            maui moloka_i honolulu tutuila manua usa301 usa302 usa298 usa297 usa310 usa300
             usa309 usa306 usa311 usa307 usa305 usa314 usa303 usa299 usa351 usa315
             usa308 usa312 usa352 usa304 usa316 usa348 usa318 usa319 usa313 usa349
             usa317 usa347 usa324 usa353 usa328 usa323 usa354 usa356 usa327 usa559
