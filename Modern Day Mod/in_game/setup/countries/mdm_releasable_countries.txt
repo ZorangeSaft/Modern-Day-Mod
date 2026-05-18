@@ -714,3 +714,155 @@ NENG = {			#New England
 
 	
 }
+
+###CANADA
+
+CAON = {			#Ontario
+	color = rgb { 52  101  53 }
+	color2 = rgb { 52  101  53 }
+	culture_definition = mdm_ontario_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CAQC = {			#Quebec
+	color = rgb { 44  44  149 }
+	color2 = rgb { 44  44  149 }
+	culture_definition = mdm_quebec_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CANS = {			#Nova Scotia
+	color = rgb { 16  41  202 }
+	color2 = rgb { 16  41  202 }
+	culture_definition = mdm_maritimes_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CANB = {			#New Brunswick
+	color = rgb { 131  101  85 }
+	color2 = rgb { 131  101  85 }
+	culture_definition = mdm_maritimes_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CAMB = {			#Manitoba
+	color = rgb { 200  16  46 }
+	color2 = rgb { 200  16  46 }
+	culture_definition = mdm_northerner_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CABC = {			#British Columbia
+	color = rgb { 24  75  69 }
+	color2 = rgb { 24  75  69 }
+	culture_definition = mdm_british_columbian_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CAPE = {			#Prince Edward Island
+	color = rgb { 166  89  166 }
+	color2 = rgb { 166  89  166 }
+	culture_definition = mdm_maritimes_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CASK = {			#Saskatchewan
+	color = rgb { 219  204  82 }
+	color2 = rgb { 219  204  82 }
+	culture_definition = mdm_praire_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CAAB = {			#Alberta
+	color = rgb { 0  53  148 }	#Alberta Blue
+	color2 = rgb { 0  53  148 }
+	culture_definition = mdm_praire_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CANL = {			#Newfoundland and Labrador
+	color = rgb { 255  153  204 }	#tricolour pink
+	color2 = rgb { 255  153  204 }
+	culture_definition = mdm_new_foundland_and_labrador_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CANT = {			#Northwest Territories
+	color = rgb { 189  221  218 }
+	color2 = rgb { 189  221  218 }
+	culture_definition = mdm_northerner_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CAYT = {			#Yukon
+	color = rgb { 229  236  165 }	#light gold
+	color2 = rgb { 229  236  165 }
+	culture_definition = mdm_northerner_culture
+	religion_definition = catholic
+
+	
+}
+
+
+CANU = {			#Nunavut
+	color = rgb { 236  191  191 }
+	color2 = rgb { 236  191  191 }
+	culture_definition = mdm_northerner_culture
+	religion_definition = catholic
+
+	
+}
+
+#Canada province formables
+
+WCAN = {			#West Canada
+	color = rgb { 103  51  1 }
+	color2 = rgb { 103  51  1 }
+	culture_definition = mdm_praire_culture
+	religion_definition = catholic
+
+	
+}
+
+
+ACAD = {			#Acadia
+	color = rgb { 57  158  214 }
+	color2 = rgb { 57  158  214 }
+	culture_definition = mdm_praire_culture
+	religion_definition = catholic
+
+	
+}

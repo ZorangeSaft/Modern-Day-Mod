@@ -1076,7 +1076,7 @@ mdm_ontario_culture = { #temporary name
 }
 
 mdm_quebec_culture = {
-	language = french_language #todo: add quebec dialect (neccesary)
+	language = french_language #todo: add quebec dialect (necessary)
 	
 	color = rgb {44 44 149}
 	
@@ -1092,7 +1092,7 @@ mdm_quebec_culture = {
 }
 
 mdm_northern_quebec_culture = {
-	language = french_language #todo: add quebec dialect (neccesary)
+	language = french_language #todo: add quebec dialect (necessary)
 	
 	color = rgb {49 78 91} #2 parts quebec blue, 3 parts boreal green
 	
@@ -1108,7 +1108,7 @@ mdm_northern_quebec_culture = {
 }
 
 mdm_acadian_culture = {
-	language = french_language #todo: add quebec dialect (neccesary)
+	language = french_language #todo: add quebec dialect (necessary)
 	
 	color = rgb {57 158 214}
 	
