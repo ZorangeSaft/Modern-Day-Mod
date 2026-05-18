@@ -1393,7 +1393,7 @@ countries = {
             quiquilhue rangkawe uthan_uthatun waykuche wenteche isluga kolla loa achen caguatl
             chain_chaitun ciaike enoo haiyuwel hamhmam horsh_aiken ilalumaala inalumaala jautok jetarktetqal
             kauwes kcewite kelaelkces kolser koy_aike paine pari_aike puyu_huapi saelam tawokser
-            utumaala yeskumaala rapa_nui chak_xana_volcano_et aucanquilcha_volcano_et1 llullaillaco_volcano pissis_mountains_et huemui_mountains new72 new76
+            utumaala yeskumaala rapa_nui chak_xana_volcano_et aucanquilcha_volcano_et1 llullaillaco_volcano pissis_mountains_et huemui_mountains juan_fernandez_islands new72 new76
             new78 new68 new67 huemules_forest new51 new32 new48 new45 new18 new74
             new73 new69 new55 new71 new70 new60 new63 new62 new66 new65
             new64 new77 new40 new44 new56 new38 new37 new39 new49 new42
@@ -3802,7 +3802,7 @@ countries = {
 
          own_control_core = {
             ailinglaplap_atoll bikini_atoll enewetak_atoll jaluit_atoll kwajalein_atoll namu_atoll rongelap_atoll rongerik_atoll ujae_atoll ailuk_atoll
-            arno_atoll aur_atoll erikub_atoll likiep_atoll majuro_atoll maloelap_atoll mili_atoll taka_atoll wotje_atoll bikar_atoll
+            arno_atoll aur_atoll erikub_atoll likiep_atoll majuro_atoll maloelap_atoll mili_atoll minto_atoll namoluk_atoll taka_atoll wotje_atoll bikar_atoll
             taongi_atoll ailinginae_atoll ebon_atoll wotho_atoll ujelang_atoll 
          }
 
@@ -3979,7 +3979,7 @@ countries = {
 
          own_control_core = {
             ulithi_atoll woleai_atoll yap chuuk kosrae pohnpei poluwat_atoll pulusuk_atoll satawan_atoll pohnpei_atoll
-            ngatik_atoll oroluk_atoll minto_atoll namoluk_atoll losap_atoll hall_atoll chuuk_lagoon helene_atoll namonuito_atoll elgin_atoll
+            ngatik_atoll oroluk_atoll losap_atoll hall_atoll chuuk_lagoon helene_atoll namonuito_atoll elgin_atoll
             pulap_atoll caroline_atoll lamotrek_atoll piagailoe_atoll west_faru_atoll faraulep_atoll ngulu_atoll 
             mokil_atoll namorik_atoll
          }
