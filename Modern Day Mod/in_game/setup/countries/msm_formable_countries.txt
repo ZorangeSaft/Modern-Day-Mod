@@ -1,7 +1,7 @@
 ﻿#####mdm modern day mod
 
 ###EUROPE
-#BENEL
+
 BNLX = {			#mdm united Benelux
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
@@ -12,7 +12,7 @@ BNLX = {			#mdm united Benelux
 	
 }
 
-#CZESO
+
 CZSK = {			#mdm reformed Czechoslovakia
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
@@ -34,7 +34,7 @@ IBER = {			#mdm Iberia
 	
 }
 
-#INTER
+
 MIED = {			#mdm Intermarium
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
@@ -45,8 +45,8 @@ MIED = {			#mdm Intermarium
 	
 }
 
-#NOVOR
-NVRU = {			#mdm Novorossiya
+
+NROS = {			#mdm Novorossiya
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
 
@@ -56,7 +56,7 @@ NVRU = {			#mdm Novorossiya
 	
 }
 
-#POLIT
+
 PLLT = {			#mdm reformed Poland-Lithuania
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
@@ -67,8 +67,8 @@ PLLT = {			#mdm reformed Poland-Lithuania
 	
 }
 
-#SCAND
-SCA = {			#mdm Scandinavia
+
+SCAN = {			#mdm Scandinavia
 	color = rgb { 62 122 189 }
 	color2 = rgb { 62 122 189 }
 	culture_definition = swedish
@@ -120,7 +120,7 @@ ARAB = {			#mdm Arabia
 	
 }
 
-#CANAN
+
 CANA = {			#mdm Canaan AKA the one-state solution
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
@@ -142,7 +142,7 @@ GULF = {			#mdm united Persian Gulf Arab states, proposed around 2011-2012 by Ki
 	
 }
 
-#KOREA
+
 KORE = {			#mdm united Korea
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
@@ -153,8 +153,8 @@ KORE = {			#mdm united Korea
 	
 }
 
-#TURKE
-TRKE = {			#mdm Turkestan
+
+TURK = {			#mdm Turkestan
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
 
@@ -166,7 +166,7 @@ TRKE = {			#mdm Turkestan
 
 ###AFRICA
 
-EAF = {			#mdm East Africa / East African Federation
+EAFR = {			#mdm East Africa / East African Federation
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
 
@@ -176,7 +176,7 @@ EAF = {			#mdm East Africa / East African Federation
 	
 }
 
-#SAHEL
+
 SAHE = {			#mdm Sahel / Alliance of Sahel States
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
@@ -187,7 +187,7 @@ SAHE = {			#mdm Sahel / Alliance of Sahel States
 	
 }
 
-#SENGA
+
 SNGM = {			#mdm Senegambia
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
@@ -198,8 +198,8 @@ SNGM = {			#mdm Senegambia
 	
 }
 
-#WESAF
-WAU = {			#mdm West Africa / West African Union
+
+WAFR = {			#mdm West Africa / West African Union
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
 
@@ -210,7 +210,7 @@ WAU = {			#mdm West Africa / West African Union
 }
 
 ###AMERICAS
-#CENAM
+
 CAME = {			#mdm Central America
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
