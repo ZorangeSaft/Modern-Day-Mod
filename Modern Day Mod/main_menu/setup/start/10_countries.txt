@@ -701,7 +701,7 @@ countries = {
 
 
       BRAZ = {
-         capital = ava_canoeiro
+         capital = paranoa
          # government = {ruler = braz_luiz_inacio_lula_da_silva }
          country_rank = rank_duchy
          starting_technology_level = 3
@@ -3803,7 +3803,7 @@ countries = {
 
          own_control_core = {
             ailinglaplap_atoll bikini_atoll enewetak_atoll jaluit_atoll kwajalein_atoll namu_atoll rongelap_atoll rongerik_atoll ujae_atoll ailuk_atoll
-            arno_atoll aur_atoll erikub_atoll likiep_atoll majuro_atoll maloelap_atoll mili_atoll minto_atoll namoluk_atoll taka_atoll wotje_atoll bikar_atoll
+            arno_atoll aur_atoll erikub_atoll likiep_atoll majuro_atoll maloelap_atoll mili_atoll minto_atoll namorik_atoll taka_atoll wotje_atoll bikar_atoll
             taongi_atoll ailinginae_atoll ebon_atoll wotho_atoll ujelang_atoll 
          }
 
@@ -3982,7 +3982,7 @@ countries = {
             ulithi_atoll woleai_atoll yap chuuk kosrae pohnpei poluwat_atoll pulusuk_atoll satawan_atoll pohnpei_atoll
             ngatik_atoll oroluk_atoll losap_atoll hall_atoll chuuk_lagoon helene_atoll namonuito_atoll elgin_atoll
             pulap_atoll caroline_atoll lamotrek_atoll piagailoe_atoll west_faru_atoll faraulep_atoll ngulu_atoll 
-            mokil_atoll namorik_atoll
+            mokil_atoll namoluk_atoll 
          }
 
          #include = "republic"
