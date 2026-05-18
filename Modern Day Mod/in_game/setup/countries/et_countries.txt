@@ -97,7 +97,7 @@ AST = {
 	difficulty = 2
 }
 
-
+#AZE
 AZER = {
 	color = rgb { 69  151  49 } #{ 80  20  140 }
 	color2 = rgb { 69  151  49 } #{ 80  20  140 }
@@ -107,7 +107,7 @@ AZER = {
 	difficulty = 2
 }
 
-
+#BHS
 BAHA = {
 	color = rgb { 204 255 204 } #{ 119  184  249 }
 	color2 = rgb { 204 255 204 } #{ 119  184  249 }
@@ -117,7 +117,7 @@ BAHA = {
 	difficulty = 2
 }
 
-
+#BHR
 BAHR = {
 	color = rgb { 218 41 28 } # Bahrain flag color
 	color2 = rgb { 218 41 28 }
@@ -127,7 +127,7 @@ BAHR = {
 	difficulty = 2
 }
 
-
+#BAN
 BANG = {
 	color = rgb { 204 204 0 } #{ 78  206 49 }
 	color2 = rgb { 204 204 0 } #{ 78  206 49 }
@@ -137,6 +137,7 @@ BANG = {
 	difficulty = 2
 }
 
+#BAR
 BARB = {
 	color = rgb { 49  84  169 }
 	color2 = rgb { 49  84  169 }
@@ -146,6 +147,7 @@ BARB = {
 	difficulty = 2
 }
 
+#BRU
 BEI = {
 	color = rgb { 230 230 0 } #{ 41  89  174 }
 	color2 = rgb { 230 230 0 } #{ 41  89  174 }
@@ -165,7 +167,7 @@ BEL = {
 	difficulty = 2
 }
 
-
+#BYE (BYELORUSSIA)
 BELA = {
 	color = rgb { 180 220 190 } #{ 166  231  160 }
 	color2 = rgb { 180 220 190 } #{ 166  231  160 }
@@ -175,7 +177,7 @@ BELA = {
 	difficulty = 2
 }
 
-
+#BLZ
 BELI = {
 	color = rgb { 0 204 204 } #{ 84  20  102 }
 	color2 = rgb { 0 204 204 } #{ 84  20  102 }
@@ -195,7 +197,7 @@ BEN = {
 	difficulty = 2
 }
 
-
+#BHU
 BHUT = { #the color of the orange on their irl flag
 	color = rgb { 255 103 32 } #{ 152  130  191 } #{ 93  180  76 }
 	color2 = rgb { 255 103 32 } #{ 152  130  191 } #{ 93  180  76 }
@@ -205,7 +207,7 @@ BHUT = { #the color of the orange on their irl flag
 	difficulty = 2
 }
 
-
+#BOL
 BOLI = {
 	color = rgb { 255  180  136 } #{ 24  180  92 }
 	color2 = rgb { 255  180  136 } #{ 24  180  92 }
@@ -215,7 +217,7 @@ BOLI = {
 	difficulty = 2
 }
 
-
+#BAH
 BOSH = {
 	color = rgb { 204 102 0 } #{ 220  147  110 }
 	color2 = rgb { 204 102 0 } #{ 220  147  110 }
@@ -225,7 +227,7 @@ BOSH = {
 	difficulty = 2
 }
 
-
+#BOT
 BOTS = {
 	color = rgb { 109 171 211 } # Botswana flag blue
 	color2 = rgb { 109 171 211 }
@@ -235,7 +237,7 @@ BOTS = {
 	difficulty = 2
 }
 
-
+#BRA
 BRAZ = {
 	color = rgb { 76  145  63 } #{ 129  177  125 }
 	color2 = rgb { 76  145  63 } #{ 129  177  125 }
@@ -245,7 +247,7 @@ BRAZ = {
 	difficulty = 2
 }
 
-
+#BKF
 BUFA = {
 	color = rgb { 177 124 60 } # Burkina Faso flag average color
 	color2 = rgb { 177 124 60 }
@@ -275,7 +277,7 @@ BUU = {
 	difficulty = 2
 }
 
-
+#CAF
 CAFR = {
 	color = rgb { 198 166 134 } # Central African Republic flag average color
 	color2 = rgb { 199 166 134 }
@@ -285,7 +287,7 @@ CAFR = {
 	difficulty = 2
 }
 
-
+#CAM
 CAME = {
 	color = rgb { 187 38 57 } # Cameroon flag red mixed 3 to 1 with grey { 127 127 127 }
 	color2 = rgb { 187 38 57 }
@@ -305,7 +307,7 @@ CAN = {
 	difficulty = 2
 }
 
-
+#CHA
 CHAD = {
 	color = rgb {254 205 8 } # Chad flag yellow #{ 0 32 91 } # Chad flag blue
 	color2 = rgb {254 205 8 }
@@ -315,7 +317,7 @@ CHAD = {
 	difficulty = 2
 }
 
-
+#CHE
 CHEC = { #color of the green on their irl flag
 	color = rgb { 39 116 53 }
 	color2 = rgb { 39 116 53 }
@@ -325,7 +327,7 @@ CHEC = { #color of the green on their irl flag
 	difficulty = 2
 }
 
-
+#CHN
 CHI = { #color of the red on their irl flag
 	color = rgb { 238 28 37 } #{ 82  2  15 } #{ 255  195  0 }
 	color2 = rgb { 238 28 37 } #{ 82  2  15 } #{ 255  195  0 }
@@ -335,7 +337,7 @@ CHI = { #color of the red on their irl flag
 	difficulty = 2
 }
 
-
+#CHL
 CHIL = {
 	color = rgb { 155  101  107 } #{ 236  159  89 }
 	color2 = rgb { 155  101  107 } #{ 236  159  89 }
@@ -345,7 +347,7 @@ CHIL = {
 	difficulty = 2
 }
 
-
+#COL
 COLO = {
 	color = rgb { 222  187  91 } #{ 89  140  176 }
 	color2 = rgb { 222  187  91 } #{ 89  140  176 }
@@ -355,7 +357,7 @@ COLO = {
 	difficulty = 2
 }
 
-
+#COM
 COMO = {
 	color = rgb { 0 59 166 } # Comoros flag blue
 	color2 = rgb { 0 59 166 }
@@ -365,7 +367,7 @@ COMO = {
 	difficulty = 2
 }
 
-
+#CON
 CONG = {
 	color = rgb { 251 223 73 } # Republic of the Congo emblem yellow
 	color2 = rgb { 251 223 73 }
@@ -375,7 +377,7 @@ CONG = {
 	difficulty = 2
 }
 
-
+#COS
 COST = { #went to color wheel and picked golden yellow
 	color = rgb { 237  165  21 } #{ 152  130  191 } #{ 114  100  192 }
 	color2 = rgb { 237  165  21 } #{ 152  130  191 } #{ 114  100  192 }
@@ -385,7 +387,7 @@ COST = { #went to color wheel and picked golden yellow
 	difficulty = 2
 }
 
-
+#COO
 COOK = {
 	color = rgb { 206 142 2 } #golden color taken from https://en.wikipedia.org/wiki/Arthropodium_cirratum#/media/File:Rengarenga_flower_(Arthropodium_cirrhatum).jpg
 	color2 = rgb { 206 142 2 }
@@ -395,7 +397,7 @@ COOK = {
 	difficulty = 2
 }
 
-
+#CVE
 CPVR = {
 	color = rgb { 0 53 148 } # Cabo Verde flag blue
 	color2 = rgb { 0 53 148 }
@@ -415,7 +417,7 @@ CRO = {
 	difficulty = 2
 }
 
-
+#CUB
 CUBA = { #went to color wheel and picked teal
 	color = rgb { 34  224  170 } #{ 152  130  191 } #{ 19  124  139 }
 	color2 = rgb { 34  224  170 } #{ 152  130  191 } #{ 19  124  139 }
@@ -435,7 +437,7 @@ CYP = {
 	difficulty = 2
 }
 
-
+#CZE
 CZEC = {
 	color = rgb { 54  167  156 } #{ 151  129  4 }
 	color2 = rgb { 54  167  156 } #{ 151  129  4 }
@@ -455,7 +457,7 @@ DAN = {
 	difficulty = 2
 }
 
-
+#MDV
 DGL = { #the maldives
 	color = rgb { 178 255 102 } #{ 191  25  25 }
 	color2 = rgb { 178 255 102 } #{ 191  25  25 }
@@ -465,7 +467,7 @@ DGL = { #the maldives
 	difficulty = 2
 }
 
-
+#DJI
 DJIB = {
 	color = rgb { 106 180 232 } # Djibouti flag blue
 	color2 = rgb { 106 180 232 }
@@ -475,7 +477,7 @@ DJIB = {
 	difficulty = 2
 }
 
-
+#DMN
 DOMI = { #not in hoi4
 	color = rgb { 69  184  119 }
 	color2 = rgb { 69  184  119 }
@@ -485,7 +487,7 @@ DOMI = { #not in hoi4
 	difficulty = 2
 }
 
-
+#DOM
 DOMR = { #didnt use hoi4 color here
 	color = rgb { 199  124  69 } #{ 152  130  191 } #{ 199  124  69 }
 	color2 = rgb { 199  124  69 } #{ 152  130  191 } #{ 199  124  69 }
@@ -495,7 +497,7 @@ DOMR = { #didnt use hoi4 color here
 	difficulty = 2
 }
 
-
+#DRC
 DRCO = {
 	color = rgb { 0 128 255 } # Democratic Republic of the Congo flag blue
 	color2 = rgb { 0 128 255 }
@@ -505,7 +507,7 @@ DRCO = {
 	difficulty = 2
 }
 
-
+#ECU
 ECUA = {
 	color = rgb { 249  146  98 } #{ 184  140  92 }
 	color2 = rgb { 249  146  98 } #{ 184  140  92 }
@@ -525,7 +527,7 @@ EGY = {
 	difficulty = 2
 }
 
-
+#ELS
 ELSA = { #didnt use hoi4 color here
 	color = rgb { 134  170  42 } #{ 152  130  191 } #{ 134  170  42 }
 	color2 = rgb { 134  170  42 } #{ 152  130  191 } #{ 134  170  42 }
@@ -535,7 +537,7 @@ ELSA = { #didnt use hoi4 color here
 	difficulty = 2
 }
 
-
+#EGU
 EQGU = {
 	color = rgb { 255 255 255 } # Equatorial Guinea flag white
 	color2 = rgb { 255 255 255 }
@@ -545,7 +547,7 @@ EQGU = {
 	difficulty = 2
 }
 
-
+#ERI
 ERIT = {
 	color = rgb { 178 64 83 } # Eritrea flag red mixed 1 to 1 with grey { 127 127 127 }
 	color2 = rgb { 178 64 83 }
@@ -555,7 +557,7 @@ ERIT = {
 	difficulty = 2
 }
 
-
+#EST
 ESTO = {
 	color = rgb { 76  157  195 } #{ 248  125  125 }
 	color2 = rgb { 76  157  195 } #{ 248  125  125 }
@@ -565,7 +567,7 @@ ESTO = {
 	difficulty = 2
 }
 
-
+#ESW
 ESWA = {
 	color = rgb { 179 4 4 } # Eswatini flag red
 	color2 = rgb { 179 4 4 }
@@ -575,6 +577,7 @@ ESWA = {
 	difficulty = 2
 }
 
+#ETI
 ETIM = {
 	color = rgb { 255 200 4 } # Timor-Leste flag yellow
 	color2 = rgb { 255 200 4 }
@@ -594,7 +597,7 @@ ETH = {
 	difficulty = 2
 }
 
-
+#FIJ
 FIJI = {
 	color = rgb { 0 204 204 } #{ 130 180 215 }
 	color2 = rgb { 0 204 204 } #{ 130 180 215 }
@@ -624,7 +627,7 @@ FRA = { #didnt use hoi4 color here
 	difficulty = 2
 }
 
-
+#GAB
 GABO = {
 	color = rgb { 58 117 196 } # Gabon flag blue
 	color2 = rgb { 58 117 196 }
@@ -634,7 +637,7 @@ GABO = {
 	difficulty = 2
 }
 
-
+#GAM
 GAMB = {
 	color = rgb { 67 80 170 } # Gambia flag blue (symbolizing the river) mixed 3 to 1 with white
 	color2 = rgb { 67 80 170 }
@@ -644,7 +647,7 @@ GAMB = {
 	difficulty = 2
 }
 
-
+#GBI
 GBIS = {
 	color = rgb { 0 158 73 } #Guinea-Bissau flag green #{ 63 63 63 } # Guinea-Bissau flag black (lighted up)
 	color2 = rgb { 0 158 73 }
@@ -684,7 +687,7 @@ GER = {
 	difficulty = 2
 }
 
-
+#GHA
 GHAN = {
 	color = rgb { 252 210 14 } # Ghana flag yellow
 	color2 = rgb { 252 210 14 }
@@ -704,7 +707,7 @@ GRE = {
 	difficulty = 2
 }
 
-
+#GRL
 GREN = { #not in hoi4
 	color = rgb { 69  134  99 }
 	color2 = rgb { 69  134  99 }
@@ -714,7 +717,7 @@ GREN = { #not in hoi4
 	difficulty = 2
 }
 
-
+#GUA
 GUAT = { #didnt use hoi4 color here
 	color = rgb { 124  120  222 } #{ 152  130  191 } #{ 124  120  222 }
 	color2 = rgb { 124  120  222 } #{ 152  130  191 } #{ 124  120  222 }
@@ -724,7 +727,7 @@ GUAT = { #didnt use hoi4 color here
 	difficulty = 2
 }
 
-
+#GUI
 GUIN = { #didnt use hoi4 color
 	color = rgb { 169  97  48 } #{ 102 153 255 } #{ 169  97  48 }
 	color2 = rgb { 169  97  48 } #{ 102 153 255 } #{ 169  97  48 }
@@ -734,7 +737,7 @@ GUIN = { #didnt use hoi4 color
 	difficulty = 2
 }
 
-
+#GUY
 GUYA = {
 	color = rgb { 255 204 153 } #{ 124  180  92 }
 	color2 = rgb { 255 204 153 } #{ 124  180  92 }
@@ -744,7 +747,7 @@ GUYA = {
 	difficulty = 2
 }
 
-
+#AUT
 HAB = { #austria
 	color = rgb { 224  228  255 } #{ 170  43  21 }
 	color2 = rgb { 224  228  255 } #{ 170  43  21 }
@@ -754,7 +757,7 @@ HAB = { #austria
 	difficulty = 2
 }
 
-
+#HAI
 HAIT = { #didnt use hoi4 color here
 	color = rgb { 139  179  207 } #{ 152  130  191 } #{ 139  179  207 }
 	color2 = rgb { 139  179  207 } #{ 152  130  191 } #{ 139  179  207 }
@@ -764,7 +767,7 @@ HAIT = { #didnt use hoi4 color here
 	difficulty = 2
 }
 
-
+#HON
 HOND = {
 	color = rgb { 100  125  175 } #{ 64  40  152 }
 	color2 = rgb { 100  125  175 } #{ 64  40  152 }
@@ -774,7 +777,7 @@ HOND = {
 	difficulty = 2
 }
 
-
+#HKG
 HOKO = { #hong kong
 	color = rgb { 239  21  32 } #red from their flag
 	color2 = rgb { 239  21  32 }
@@ -804,7 +807,7 @@ ICE = {
 	difficulty = 2
 }
 
-
+#IND
 INDI = {
 	color = rgb { 255  113  0 }
 	color2 = rgb { 255  113  0 }
@@ -814,7 +817,7 @@ INDI = {
 	difficulty = 2
 }
 
-
+#INS
 INDN = {
 	color = rgb { 128  158  118 } #{ 200  66  167 }
 	color2 = rgb { 128  158  118 } #{ 200  66  167 }
@@ -824,7 +827,7 @@ INDN = {
 	difficulty = 2
 }
 
-
+#IRN
 IRAN = {
 	color = rgb { 71  113  97 } #{ 255  124  76 }
 	color2 = rgb { 71  113  97 } #{ 255  124  76 }
@@ -834,7 +837,7 @@ IRAN = {
 	difficulty = 2
 }
 
-
+#IRQ
 IRAQ = {
 	color = rgb { 178  114  99 } #{ 153  138  161 }
 	color2 = rgb { 178  114  99 } #{ 153  138  161 }
@@ -854,7 +857,7 @@ IRE = {
 	difficulty = 2
 }
 
-
+#ISR
 ISRA = { #picked a light blue with color wheel because i couldnt find the eu4 light blue color
 	color = rgb { 90 195 255 } #{ 211 230 211 } #{ 152  130  191 } #{ 70  70  160 }
 	color2 = rgb { 90 195 255 } #{ 211 230 211 } #{ 152  130  191 } #{ 70  70  160 }
@@ -874,7 +877,7 @@ ITA = {
 	difficulty = 2
 }
 
-
+#IVO
 IVOR = {
 	color = rgb {240 228 210} # Pantone "Pearled Ivory" color #{ 255 131 0 } # Côte d'Ivoire flag orange
 	color2 = rgb {240 228 210}
@@ -884,7 +887,7 @@ IVOR = {
 	difficulty = 2
 }
 
-
+#JAM
 JAMA = {
 	color = rgb { 102 102 0 } #{ 189  224  69 }
 	color2 = rgb { 102 102 0 } #{ 189  224  69 }
@@ -904,7 +907,7 @@ JAP = {
 	difficulty = 2
 }
 
-
+#JOR
 JORD = {
 	color = rgb { 111  55  78 } #{ 0  100  130 }
 	color2 = rgb { 111  55  78 } #{ 0  100  130 }
@@ -914,7 +917,7 @@ JORD = {
 	difficulty = 2
 }
 
-
+#KAZ
 KAZK = {
 	color = rgb { 75  184  203 } #{ 138  180  219 }
 	color2 = rgb { 75  184  203 } #{ 138  180  219 }
@@ -924,7 +927,7 @@ KAZK = {
 	difficulty = 2
 }
 
-
+#KEN
 KENY = {
 	color = rgb { 205 64 64 } # Kenya flag red mixed 3 to 1 with white
 	color2 = rgb { 205 64 64 }
@@ -934,7 +937,7 @@ KENY = {
 	difficulty = 2
 }
 
-
+#KIR
 KIRI = {
 	color = rgb { 201 8 8 } # Kiribati flag red
 	color2 = rgb { 201 8 8 }
@@ -944,7 +947,7 @@ KIRI = {
 	difficulty = 2
 }
 
-
+#KOS
 KOSO = {
 	color = rgb { 208 166 80 } #{ 26  102  57 }
 	color2 = rgb { 208 166 80 } #{ 26  102  57 }
@@ -954,7 +957,7 @@ KOSO = {
 	difficulty = 2
 }
 
-
+#KUW
 KUWA = {
 	color = rgb { 153 76 0 } #{ 0  160  180 }
 	color2 = rgb { 153 76 0 } #{ 0  160  180 }
@@ -973,6 +976,7 @@ KHM = { #cambodia, didnt use hoi4 color here
 	difficulty = 2
 }
 
+#KYR
 KYRG = {
 	color = rgb { 153 76 0 } #{ 194  0  85 }
 	color2 = rgb { 153 76 0 } #{ 194  0  85 }
@@ -982,7 +986,7 @@ KYRG = {
 	difficulty = 2
 }
 
-
+#LAO
 LAOS = {
 	color = rgb { 30  71  190 } #{ 230  66  48 }
 	color2 = rgb { 30  71  190 } #{ 230  66  48 }
@@ -992,7 +996,7 @@ LAOS = {
 	difficulty = 2
 }
 
-
+#LAT
 LATV = {
 	color = rgb { 112  90  87 } #{ 90  30  10 }
 	color2 = rgb { 112  90  87 } #{ 90  30  10 }
@@ -1002,7 +1006,7 @@ LATV = {
 	difficulty = 2
 }
 
-
+#LEB
 LEBA = {
 	color = rgb { 130  150  60 } #{ 225  110  25 }
 	color2 = rgb { 130  150  60 } #{ 225  110  25 }
@@ -1012,7 +1016,7 @@ LEBA = {
 	difficulty = 2
 }
 
-
+#LES
 LESO = {
 	color = rgb { 0 155 66 } # Lesotho flag green
 	color2 = rgb { 0 155 66 }
@@ -1022,7 +1026,7 @@ LESO = {
 	difficulty = 2
 }
 
-
+#LBR
 LIBE = {
 	color = rgb { 0 35 104 } # Liberia flag blue
 	color2 = rgb { 0 35 104 }
@@ -1032,7 +1036,7 @@ LIBE = {
 	difficulty = 2
 }
 
-
+#LIB
 LIBY = {
 	color = rgb { 59 158 88 } #10 parts { 0 129 64 } Gadaffi Libya flag green, 2 parts white and 1 part yellow on this https://colordesigner.io/color-mixer, could change to { 39 39 39 } after he dies # Libya flag black (lighted up)
 	color2 = rgb { 59 158 88 }
@@ -1052,7 +1056,7 @@ LIT = {
 	difficulty = 2
 }
 
-
+#LIE
 LIEC = {
 	color = rgb { 0 39 128 } #blue from their flag
 	color2 = rgb { 0 39 128 }
@@ -1072,7 +1076,7 @@ LUX = {
 	difficulty = 2
 }
 
-
+#MCU
 MACA = {
 	color = rgb { 6 118 98 } #green from their flag
 	color2 = rgb { 6 118 98 }
@@ -1082,7 +1086,7 @@ MACA = {
 	difficulty = 2
 }
 
-
+#MAC
 MACE = {
 	color = rgb { 255 51 51 } #{ 210  210  10 }
 	color2 = rgb { 255 51 51 } #{ 210  210  10 }
@@ -1092,7 +1096,7 @@ MACE = {
 	difficulty = 2
 }
 
-
+#MAD
 MADA = {
 	color = rgb { 249 64 55 } # Madagascar flag orange
 	color2 = rgb { 249 64 55 }
@@ -1112,7 +1116,7 @@ MAL = {
 	difficulty = 2
 }
 
-
+#MLY
 MALA = {
 	color = rgb { 100  96  197 } #{ 100  146  217 }
 	color2 = rgb { 100  96  197 } #{ 100  146  217 }
@@ -1122,7 +1126,7 @@ MALA = {
 	difficulty = 2
 }
 
-
+#MLW
 MALW = {
 	color = rgb { 207 9 33 } # Malawi flag red #{ 140 98 35 } # Malawi flag average color
 	color2 = rgb { 207 9 33 } 
@@ -1132,7 +1136,7 @@ MALW = {
 	difficulty = 2
 }
 
-
+#MSH
 MARS = { #not in hoi4
 	color = rgb { 89  17  112 }
 	color2 = rgb { 89  17  112 }
@@ -1142,7 +1146,7 @@ MARS = { #not in hoi4
 	difficulty = 2
 }
 
-
+#MAU
 MART = {
 	color = rgb { 0 135 87 } # Mauritius flag green
 	color2 = rgb { 0 135 87 }
@@ -1152,7 +1156,7 @@ MART = {
 	difficulty = 2
 }
 
-
+#MRT
 MAUR = {
 	color = rgb { 255 216 0 } # Mauritania flag yellow
 	color2 = rgb { 255 216 0 }
@@ -1162,7 +1166,7 @@ MAUR = {
 	difficulty = 2
 }
 
-
+#MLT
 MALT = {
 	color = rgb { 208 12 38 } # Malta flag red
 	color2 = rgb { 208 12 38 }
@@ -1192,7 +1196,7 @@ MGE = {
 	difficulty = 2
 }
 
-
+#MIC
 MICR = {
 	color = rgb { 118 179 222 } #{ 189  117  212 }
 	color2 = rgb { 118 179 222 } #{ 189  117  212 }
@@ -1202,7 +1206,7 @@ MICR = {
 	difficulty = 2
 }
 
-
+#MOL
 MOLD = {
 	color = rgb { 192 131 110 } # Moldova flag average color
 	color2 = rgb { 192 131 110 }
@@ -1212,7 +1216,7 @@ MOLD = {
 	difficulty = 2
 }
 
-
+#MNT
 MONT = {
 	color = rgb { 171  107  109 } #{ 39  108  140 }
 	color2 = rgb { 171  107  109 } #{ 39  108  140 }
@@ -1232,7 +1236,7 @@ MOR = { #didnt use hoi4 color
 	difficulty = 2
 }
 
-
+#MOZ
 MOZA = {
 	color = rgb { 0 113 104 }  # Mozambique flag green
 	color2 = rgb { 0 113 104 }
@@ -1242,7 +1246,7 @@ MOZA = {
 	difficulty = 2
 }
 
-
+#MYA
 MYAN = {
 	color = rgb { 76 153 0 } #{ 185  181  80 }
 	color2 = rgb { 76 153 0 } #{ 185  181  80 }
@@ -1252,7 +1256,7 @@ MYAN = {
 	difficulty = 2
 }
 
-
+#NAM
 NAMI = {
 	color = rgb { 0 155 66 } # Namibia flag green
 	color2 = rgb { 0 155 66 }
@@ -1262,7 +1266,7 @@ NAMI = {
 	difficulty = 2
 }
 
-
+#NAU
 NAUR = {
 	color = rgb { 30 0 105 }
 	color2 = rgb { 30 0 105 }
@@ -1272,7 +1276,7 @@ NAUR = {
 	difficulty = 2
 }
 
-
+#NCY
 NCYP = {
 	color = rgb { 227  10  23 } #{ 166  203  80 } # red from flag
 	color2 = rgb { 227  10  23 } #{ 166  203  80 }
@@ -1292,7 +1296,7 @@ NED = {
 	difficulty = 2
 }
 
-
+#NIC
 NICR = { #went to color wheel and picked light blue
 	color = rgb { 113 204 235 } #{ 152  130  191 } #{ 174  40  202 }
 	color2 = rgb { 113 204 235 } #{ 152  130  191 } #{ 174  40  202 }
@@ -1302,7 +1306,7 @@ NICR = { #went to color wheel and picked light blue
 	difficulty = 2
 }
 
-
+#NGR
 NIGE = {
 	color = rgb { 225 83 5 } # Niger flag orange
 	color2 = rgb { 225 83 5 }
@@ -1312,7 +1316,7 @@ NIGE = {
 	difficulty = 2
 }
 
-
+#NIU
 NIUE = {
 	color = rgb { 254 222 0 } #yellow from their flag
 	color2 = rgb { 254 222 0 }
@@ -1322,7 +1326,7 @@ NIUE = {
 	difficulty = 2
 }
 
-
+#NGA
 NIGR = {
 	color = rgb { 1 134 82 }  # Nigeria flag green
 	color2 = rgb { 1 134 82 }
@@ -1332,7 +1336,7 @@ NIGR = {
 	difficulty = 2
 }
 
-
+#NKO
 NKOR = { #not in hoi4, used chinas hoi4 color as it's very red
 	color = rgb { 82  2  15 } #{ 255  195  0 } #{ 74  196  123 }
 	color2 = rgb { 82  2  15 } #{ 255  195  0 } #{ 74  196  123 }
@@ -1362,7 +1366,7 @@ NPL = { #didnt use hoi4 color
 	difficulty = 2
 }
 
-
+#NZE
 NZEA = {
 	color = rgb { 152  130  191 } #{ 79  37  128 }
 	color2 = rgb { 152  130  191 } #{ 79  37  128 }
@@ -1382,7 +1386,7 @@ OMA = { #didnt use hoi4 color
 	difficulty = 2
 }
 
-
+#PAK
 PAKI = {
 	color = rgb { 0 102 0 } #{ 10  135  92 }
 	color2 = rgb { 0 102 0 } #{ 10  135  92 }
@@ -1392,7 +1396,7 @@ PAKI = {
 	difficulty = 2
 }
 
-
+#PAL
 PALE = { #used the color of the green on their irl flag
 	color = rgb { 20 153 84 } #{ 170  125  80 } #{ 50  200  160 }
 	color2 = rgb { 20 153 84 } #{ 170  125  80 } #{ 50  200  160 }
@@ -1402,7 +1406,7 @@ PALE = { #used the color of the green on their irl flag
 	difficulty = 2
 }
 
-
+#PLU
 PALU = {
 	color = rgb { 151 153 255 } #{ 89  217  212 }
 	color2 = rgb { 151 153 255 } #{ 89  217  212 }
@@ -1412,7 +1416,7 @@ PALU = {
 	difficulty = 2
 }
 
-
+#PAN
 PANA = {
 	color = rgb { 152  130  191 } #{ 144  140  92 }
 	color2 = rgb { 152  130  191 } #{ 144  140  92 }
@@ -1422,7 +1426,7 @@ PANA = {
 	difficulty = 2
 }
 
-
+#PNG
 PAPU = {
 	color = rgb { 149 79 45 } # Papua New Guinea flag average color
 	color2 = rgb { 149 79 45 }
@@ -1432,7 +1436,7 @@ PAPU = {
 	difficulty = 2
 }
 
-
+#PAR
 PARA = {
 	color = rgb { 57  113  228 } #{ 75  188  60 }
 	color2 = rgb { 57  113  228 } #{ 75  188  60 }
@@ -1442,7 +1446,7 @@ PARA = {
 	difficulty = 2
 }
 
-
+#PER
 PERU = {
 	color = rgb { 196  189  204 } #{ 124  140  162 }
 	color2 = rgb { 196  189  204 } #{ 124  140  162 }
@@ -1452,7 +1456,7 @@ PERU = {
 	difficulty = 2
 }
 
-
+#PHI
 PHIL = {
 	color = rgb { 0 40 195 } #{ 220  116  197 }
 	color2 = rgb { 0 40 195 } #{ 220  116  197 }
@@ -1482,7 +1486,7 @@ POR = {
 	difficulty = 2
 }
 
-
+#QAT
 QATA = {
 	color = rgb { 138 21 56 } # Qatar flag color
 	color2 = rgb { 138 21 56 }
@@ -1522,7 +1526,7 @@ RWA = {
 	difficulty = 2
 }
 
-
+#SAF
 SAFR = {
 	color = rgb { 199 124 69 } # Color of unknown origin
 	color2 = rgb { 199 124 69 }
@@ -1542,7 +1546,7 @@ SAM = {
 	difficulty = 2
 }
 
-
+#SMA
 SANM = { #san marino
 	color = rgb { 94 183 229 } #light blue from the flag of san marino
 	color2 = rgb { 94 183 229 }
@@ -1552,7 +1556,7 @@ SANM = { #san marino
 	difficulty = 2
 }
 
-
+#SAU
 SAUD = { #didnt use hoi4 color
 	color = rgb { 0  128  53 } #{ 171  190  152 } #{ 0  128  53 }
 	color2 = rgb { 0  128  53 } #{ 171  190  152 } #{ 0  128  53 }
@@ -1562,7 +1566,7 @@ SAUD = { #didnt use hoi4 color
 	difficulty = 2
 }
 
-
+#SEN
 SENE = {
 	color = rgb { 207 45 27 } # Senegal C.O.A orange
 	color2 = rgb { 207 45 27 }
@@ -1582,7 +1586,7 @@ SER = {
 	difficulty = 2
 }
 
-
+#SEY
 SEYC = {
 	color = rgb { 254 210 63 } # Seychelles flag yellow
 	color2 = rgb { 254 210 63 }
@@ -1602,7 +1606,7 @@ SIA = { #didnt use hoi4 color here
 	difficulty = 2
 }
 
-
+#SKN
 SKNE = { #not in hoi4
 	color = rgb { 189  74  169 }
 	color2 = rgb { 189  74  169 }
@@ -1612,7 +1616,7 @@ SKNE = { #not in hoi4
 	difficulty = 2
 }
 
-
+#SKO
 SKOR = { #didnt use hoi4 korea color
 	color = rgb { 20  132  232 } #{ 255  240  195 } #{ 20  132  232 }
 	color2 = rgb { 20  132  232 } #{ 255  240  195 } #{ 20  132  232 }
@@ -1622,7 +1626,7 @@ SKOR = { #didnt use hoi4 korea color
 	difficulty = 2
 }
 
-
+#SLE
 SLEO = {
 	color = rgb { 0 115 199 } # Sierra Leone flag blue
 	color2 = rgb { 0 115 199 }
@@ -1632,7 +1636,7 @@ SLEO = {
 	difficulty = 2
 }
 
-
+#SLK
 SLOK = { #picked a gray blueish color in color wheel as i could not find the value for the hoi4 color
 	color = { 168 179 186 } #{ 54  167  156 } #{ 34 131 193 }
 	color2 = rgb { 168 179 186 } #{ 54  167  156 } #{ 34 131 193 }
@@ -1642,7 +1646,7 @@ SLOK = { #picked a gray blueish color in color wheel as i could not find the val
 	difficulty = 2
 }
 
-
+#SLV
 SLOV = {
 	color = rgb { 102 178 255 } #{ 106  12  187 }
 	color2 = rgb { 102 178 255 } #{ 106  12  187 }
@@ -1652,7 +1656,7 @@ SLOV = {
 	difficulty = 2
 }
 
-
+#SLU
 SLUC = { #not in hoi4
 	color = rgb { 109  124  229 }
 	color2 = rgb { 109  124  229 }
@@ -1662,7 +1666,7 @@ SLUC = { #not in hoi4
 	difficulty = 2
 }
 
-
+#SOL
 SOLO = {
 	color = rgb { 0 81 186 } # Solomon Islands flag blue
 	color2 = rgb { 0 81 186 }
@@ -1672,7 +1676,7 @@ SOLO = {
 	difficulty = 2
 }
 
-
+#SOM
 SOMA = {
 	color = rgb { 63 144 223 } # Somalia flag blue
 	color2 = rgb { 63 144 223 }
@@ -1682,7 +1686,7 @@ SOMA = {
 	difficulty = 2
 }
 
-
+#SML
 SOML = {
 	color = rgb { 0 109 27 } # Somaliland flag green
 	color2 = rgb { 0 109 27 }
@@ -1692,7 +1696,7 @@ SOML = {
 	difficulty = 2
 }
 
-
+#SOS
 SOSE = { #color of the yellow on their flag
 	color = rgb { 255 207 0 }
 	color2 = rgb { 255 207 0 }
@@ -1712,7 +1716,7 @@ SPA = {
 	difficulty = 2
 }
 
-
+#SRI
 SRLA = {
 	color = rgb { 204 0 102 } #{ 80  143  95 }
 	color2 = rgb { 204 0 102 } #{ 80  143  95 }
@@ -1722,7 +1726,7 @@ SRLA = {
 	difficulty = 2
 }
 
-
+#SSU
 SSUD = {
 	color = rgb { 0 183 242 } # South Sudan flag blue
 	color2 = rgb { 0 183 242 }
@@ -1732,7 +1736,7 @@ SSUD = {
 	difficulty = 2
 }
 
-
+#STP
 STPR = {
 	color = rgb { 0 152 54 } # São Tomé and Príncipe flag green
 	color2 = rgb { 0 152 54 }
@@ -1742,7 +1746,7 @@ STPR = {
 	difficulty = 2
 }
 
-
+#SUD
 SUDA = {
 	color = rgb { 151 123 55 } # Sudan emblem (gold version) gold
 	color2 = rgb { 151 123 55 }
@@ -1752,7 +1756,7 @@ SUDA = {
 	difficulty = 2
 }
 
-
+#SUR
 SURI = {
 	color = rgb { 255 178 102 } #{ 194  180  112 }
 	color2 = rgb { 255 178 102 } #{ 194  180  112 }
@@ -1762,7 +1766,7 @@ SURI = {
 	difficulty = 2
 }
 
-
+#SVG
 SVGR = { #not in hoi4
 	color = rgb { 129  174  159 }
 	color2 = rgb { 129  174  159 }
@@ -1792,7 +1796,7 @@ SWI = { #the color of the red on their irl flag
 	difficulty = 2
 }
 
-
+#SYR
 SYRI = {
 	color = rgb { 100  100  150 } #{ 125  110  225 }
 	color2 = rgb { 100  100  150 } #{ 125  110  225 }
@@ -1802,7 +1806,7 @@ SYRI = {
 	difficulty = 2
 }
 
-
+#TAI
 TAIW = { #hoi4 formosa color
 	color = rgb { 0 128 128 } #{ 155  35  200 }
 	color2 = rgb { 0 128 128 } #{ 155  35  200 }
@@ -1812,7 +1816,7 @@ TAIW = { #hoi4 formosa color
 	difficulty = 2
 }
 
-
+#TAJ
 TAJI = {
 	color = rgb { 51 102 0 } #{ 96  104  49 }
 	color2 = rgb { 51 102 0 } #{ 96  104  49 }
@@ -1822,7 +1826,7 @@ TAJI = {
 	difficulty = 2
 }
 
-
+#TZN
 TANZ = {
 	color = rgb { 30 181 58 } # Tanzania flag green
 	color2 = rgb { 30 181 58 }
@@ -1842,7 +1846,7 @@ TOG = { #not in hoi4
 	difficulty = 2
 }
 
-
+#TGO
 TOGO = {
 	color = rgb { 188 145 55 } # Togo flag (no star) average color
 	color2 = rgb { 188 145 55 }
@@ -1852,6 +1856,7 @@ TOGO = {
 	difficulty = 2
 }
 
+#TNI
 TRAN = { #hoi4 soviet union color
 	color = rgb { 125  13  24 }
 	color2 = rgb { 125  13  24 }
@@ -1861,7 +1866,7 @@ TRAN = { #hoi4 soviet union color
 	difficulty = 2
 }
 
-
+#TAT
 TRTO = {
 	color = rgb { 96 96 96 } #{ 169  44  69 }
 	color2 = rgb { 96 96 96 } #{ 169  44  69 }
@@ -1871,7 +1876,7 @@ TRTO = {
 	difficulty = 2
 }
 
-
+#TMN
 TUKM = {
 	color = rgb { 0 76 153 } #{ 66  155  75 }
 	color2 = rgb { 0 76 153 } #{ 66  155  75 }
@@ -1891,7 +1896,7 @@ TUN = { #didnt use hoi4 color
 	difficulty = 2
 }
 
-
+#TUR
 TURK = {
 	color = rgb { 171  190  152 } #{ 166  203  80 }
 	color2 = rgb { 171  190  152 } #{ 166  203  80 }
@@ -1901,7 +1906,7 @@ TURK = {
 	difficulty = 2
 }
 
-
+#TUV
 TUVL = { #not in hoi4
 	color = rgb { 89  147  192 }
 	color2 = rgb { 89  147  192 }
@@ -1911,7 +1916,7 @@ TUVL = { #not in hoi4
 	difficulty = 2
 }
 
-
+#UAE
 UAEM = {
 	color = rgb {153 126 83 } # Emirates (airline) logo gold
 	color2 = rgb {153 126 83 }
@@ -1921,7 +1926,7 @@ UAEM = {
 	difficulty = 2
 }
 
-
+#UGA
 UGAN = {
 	color = rgb { 218 0 1 } # Uganda flag red #{ 197 126 0 } # Uganda flag (no emblem) average color
 	color2 = rgb { 218 0 1 }
@@ -1941,7 +1946,7 @@ UKR = { #used the color of the blue on their irl flag
 	difficulty = 2
 }
 
-
+#URU
 URUG = {
 	color = rgb { 171  190  152 } #{ 95  188  250 }
 	color2 = rgb { 171  190  152 } #{ 95  188  250 }
@@ -1961,7 +1966,7 @@ USA = {
 	difficulty = 2
 }
 
-
+#UZB
 UZBE = {
 	color = rgb { 0 102 102 } #{ 151  98  224 }
 	color2 = rgb { 0 102 102 } #{ 151  98  224 }
@@ -1971,7 +1976,7 @@ UZBE = {
 	difficulty = 2
 }
 
-
+#VAN
 VANU = {
 	color = rgb { 0 150 65 } # Vanuatu flag green
 	color2 = rgb { 0 150 65 }
@@ -1981,7 +1986,7 @@ VANU = {
 	difficulty = 2
 }
 
-
+#VEN
 VENE = {
 	color = rgb { 171  190  152 } #{ 213  82  109 }
 	color2 = rgb { 171  190  152 } #{ 213  82  109 }
@@ -1991,7 +1996,7 @@ VENE = {
 	difficulty = 2
 }
 
-
+#VIE
 VIET = { #the color of the yellow on their irl flag
 	color = rgb { 255 205 0 } #{ 230  223  50 } #{ 170  187  40 }
 	color2 = rgb { 255 205 0 } #{ 230  223  50 } #{ 170  187  40 }
@@ -2011,7 +2016,7 @@ YEM = { #didnt use hoi4 color
 	difficulty = 2
 }
 
-
+#WSA
 WSAH = {
 	color = rgb { 197 9 20 } #red from their flag, temporary
 	color2 = rgb { 197 9 20 }
@@ -2021,7 +2026,7 @@ WSAH = {
 	difficulty = 2
 }
 
-
+#ZAM
 ZAMB = {
 	color = rgb { 249 153 13 } # Zambia flag orange
 	color2 = rgb { 249 153 13 }
@@ -2031,7 +2036,7 @@ ZAMB = {
 	difficulty = 2
 }
 
-
+#ZIM
 ZMW = {
 	color = rgb { 243 195 0 } # Zimbabwe C.O.A. (Zimbabwe Bird) yellow
 	color2 = rgb { 243 195 0 }
