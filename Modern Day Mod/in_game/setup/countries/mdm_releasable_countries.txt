@@ -987,3 +987,324 @@ AUJB = {			#Jervis Bay
 
 	
 }
+
+###MEXICO
+
+MXAG = {			#Aguascalientes
+	color = rgb { 202  154  0 }
+	color2 = rgb { 202  154  0 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXBC = {			#Baja California
+	color = rgb { 193  143  50 } #Yellow and Ochre are the most associated colors, so here's Yellow Ochre
+	color2 = rgb { 193  143  50 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXBS = {			#Baja California Sur
+	color = rgb { 120  206  204 } #mexicali turquoise, state ismost associated with turquoise waters
+	color2 = rgb { 120  206  204 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXCM = {			#Campeche
+	color = rgb { 24  13  11 }	#color of Palo de Campeche extract, famed for black dye
+	color2 = rgb { 24  13  11 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXCS = {			#Chiapas
+	color = rgb { 0  103  78 }
+	color2 = rgb { 0  103  78 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXCH = {			#Chihuahua
+	color = rgb { 251  116  168 }	#state colors are red and white, so pink
+	color2 = rgb { 251  116  168 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXCO = {			#Coahuila
+	color = rgb { 60  34  12 }
+	color2 = rgb { 60  34  12 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXCL = {			#Colima
+	color = rgb { 157  41  51 }	#cochneal is the color associated with this state
+	color2 = rgb { 157  41  51 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXDF = {			#Federal District / Mexico City
+	color = rgb { 114  128  105 }	#grey and green have been used as institutional colors for many decades here
+	color2 = rgb { 114  128  105 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXDG = {			#Durango
+	color = rgb { 0  123  60 }	#from flag
+	color2 = rgb { 0  123  60 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXGT = {			#Guanajuato
+	color = rgb { 246  181  17 } #historic colonial buildings are often painted this shade of yellow here
+	color2 = rgb { 246  181  17 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXGR = {			#Guerrero
+	color = rgb { 249  215  61 }
+	color2 = rgb { 249  215  61 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXHG = {			#Hidalgo
+	color = rgb { 0  139  139 }
+	color2 = rgb { 0  139  139 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXJA = {			#Jalisco
+	color = rgb { 0  56  150 } #state colors are blue and gold, blue taken from flag
+	color2 = rgb { 0  56  150 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXMX = {			#México State
+	color = rgb { 100  3  40 }
+	color2 = rgb { 100  3  40 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXMC = {			#Michoacán
+	color = rgb { 242  92  5 }	#mexican marigold flowers
+	color2 = rgb { 242  92  5 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXMO = {			#Morelos
+	color = rgb { 49  95  44 }	#green taken from government's graphical identity page, made brighter to increase contrast with neighboring states
+	color2 = rgb { 49  95  44 }	#tbd
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXNA = {			#Nayarit
+	color = rgb { 0  159  60 }	#from coat of arms
+	color2 = rgb { 0  159  60 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXNL = {			#Nuevo León
+	color = rgb { 32  80  146 }	#state color is blue
+	color2 = rgb { 32  80  146 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXOA = {			#Oaxaca
+	color = rgb { 163  176  158 }	#cantera verde green-gray color
+	color2 = rgb { 163  176  158 }	#tbd
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXPU = {			#Puebla
+	color = rgb { 0  71  171 }	#cobalt blue associated with localceramics
+	color2 = rgb { 0  71  171 }	#tbd
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXQT = {			#Querétaro
+	color = rgb { 0  15  73 }	#navy blue is the state color
+	color2 = rgb { 0  15  73 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXQR = {			#Quintana Roo
+	color = rgb { 0  107  108 }	#mayan blue, also blue for cancún's waters
+	color2 = rgb { 0  107  108 }	#tbd
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXSL = {			#San Luis Potosí
+	color = rgb { 64  152  202 }	
+	color2 = rgb { 64  152  202 }	#tbd
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXSI = {			#Sinaloa
+	color = rgb { 190  21  50 }	#taken from coat of arms
+	color2 = rgb { 190  21  50 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXSO = {			#Sonora
+	color = rgb { 255  131  0 }	#official shade of orange used in sonora
+	color2 = rgb { 255  131  0  }	#tbd
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXTB = {			#Tabasco
+	color = rgb { 160  39  18 }	#state colors are green and red, taking red from tabasco sauce cause there's a lot of states here that prefer green
+	color2 = rgb { 160  39  18 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXTM = {			#Tamaulipas
+	color = rgb { 205  133  63 }	#light brown/caramel associated with cuera tamaulipeca clothes
+	color2 = rgb { 205  133  63 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXTL = {			#Tlaxcala
+	color = rgb { 228  0  124 }	#tlaxcala is the birthplace of mexican rose
+	color2 = rgb { 228  0  124 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXVE = {			#Veracruz
+	color = rgb { 245  245  245 }	#state color is white, related to the traditional jarocho dress
+	color2 = rgb { 245  245  245 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXYU = {			#Yucatán
+	color = rgb { 234  173  4 }	#Izamal yellow, famous town in Yucatan is painted this color
+	color2 = rgb { 234  173  4 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
+
+
+MXZA = {			#Zacatecas
+	color = rgb { 223  200  201 }	#cantera rosa rocks
+	color2 = rgb { 223  200  201 }
+	culture_definition = mdm_mexican_culture
+	religion_definition = catholic
+
+	
+}
