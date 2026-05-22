@@ -124226,86 +124226,6 @@ new3 = {
          type = peasants
       }
    }
-   wainwright_inlet = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
-   point_barrow = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
-   tigvariak_island = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
-   barter_island = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
-   mackenzie_estuary = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
-   inuvialuit_coast = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
-   amundsen_gulf = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
-   dolphin_and_union_strait = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
-   coronation_gulf = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
-   dease_strait = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
    anchorage = {
       define_pop = {
          culture = mdm_socal_culture
@@ -124466,7 +124386,7 @@ new3 = {
          type = peasants
       }
    }
-   santa_cruz_island = {
+   santa_cruz_islands = {
       define_pop = {
          culture = mdm_socal_culture
          religion = catholic

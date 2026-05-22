@@ -613,7 +613,7 @@ USAS = {			#American Samoa
 USGU = {			#Guam
 	color = rgb { 0  25  100 }
 	color2 = rgb { 0  25  100 }
-	culture_definition = hagatna
+	culture_definition = mdm_socal_culture #hagatna #clearing error log
 	religion_definition = catholic
 
 	
@@ -623,7 +623,7 @@ USGU = {			#Guam
 USMP = {			#Northern Mariana Islands
 	color = rgb { 194  194  10 }
 	color2 = rgb { 194  194  10 }
-	culture_definition = hagatna
+	culture_definition = mdm_socal_culture #hagatna #clearing error log
 	religion_definition = catholic
 
 	

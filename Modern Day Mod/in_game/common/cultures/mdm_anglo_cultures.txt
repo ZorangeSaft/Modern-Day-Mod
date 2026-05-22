@@ -1154,3 +1154,26 @@ mdm_new_foundland_and_labrador_culture = { #temporary name
 		mdm_anglosphere_group mdm_anglo_american_group mdm_canadian_group
 	}
 }
+
+
+
+
+
+
+#just putting this here to clear error log
+
+british_australian = {
+	language = mdm_maritimes_dialect
+	
+	color = rgb {0 0 255}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+	}
+}

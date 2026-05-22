@@ -452,7 +452,7 @@ mdm_metalothermic_reduction_facility = {
             output = 0.8
         }
         mdm_metalothermic_reduction_facility_titanium = {
-            rutile = 1
+            titanium_ore = 1
             magnesium = 0.2
             chlorine = 0.2
             electricity = 7

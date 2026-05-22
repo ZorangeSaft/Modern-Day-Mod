@@ -1237,7 +1237,7 @@
  tantalum_desc: "Produced in an [ShowBuildingTypeName('mdm_acid_leaching_plant')] from [ShowGoodsName('tantalum_ore')]."
 
  titanium: "Titanium"
- titanium_desc: "Produced in a [ShowBuildingTypeName('mdm_metalothermic_reduction_facility')] from [ShowGoodsName('rutile')]."
+ titanium_desc: "Produced in a [ShowBuildingTypeName('mdm_metalothermic_reduction_facility')] from [ShowGoodsName('titanium_ore')]."
 
  tin: "Tin"
  tin_desc: "Produced in a [ShowBuildingTypeName('mdm_tin_blast_furnace')] from [ShowGoodsName('tin_ore')]."

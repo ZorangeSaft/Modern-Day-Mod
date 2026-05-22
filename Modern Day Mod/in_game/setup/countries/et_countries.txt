@@ -1,4 +1,4 @@
-ABK = { #hoi4 color
+ABK = { #hoi4 color      #if a country has "#clearing error log" in this file it means their culture got changed to something wrong temporarily, needs to be fixed later
 	color = rgb { 51 204 51 }
 	color2 = rgb  { 51 204 51 }
 	culture_definition = mingrelian_culture
@@ -301,7 +301,7 @@ CAME = {
 CAN = {
 	color = rgb { 233  59  59 } #{ 94  117  55 }
 	color2 = rgb { 233  59  59 } #{ 94  117  55 }
-	culture_definition = mdm_ontarian_culture
+	culture_definition = mdm_ontario_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -911,7 +911,7 @@ JAP = {
 JORD = {
 	color = rgb { 111  55  78 } #{ 0  100  130 }
 	color2 = rgb { 111  55  78 } #{ 0  100  130 }
-	culture_definition = palestinian
+	culture_definition = mdm_socal_culture #palestinian #clearing error log
 	religion_definition = sunni
 	description_category = diplomatic
 	difficulty = 2
@@ -921,7 +921,7 @@ JORD = {
 KAZK = {
 	color = rgb { 75  184  203 } #{ 138  180  219 }
 	color2 = rgb { 75  184  203 } #{ 138  180  219 }
-	culture_definition = khazak
+	culture_definition = mdm_socal_culture #khazak #clearing error log
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1060,7 +1060,7 @@ LIT = {
 LIEC = {
 	color = rgb { 0 39 128 } #blue from their flag
 	color2 = rgb { 0 39 128 }
-	culture_definition = high_alemanic
+	culture_definition = high_alemannic
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1090,7 +1090,7 @@ MACA = {
 MACE = {
 	color = rgb { 255 51 51 } #{ 210  210  10 }
 	color2 = rgb { 255 51 51 } #{ 210  210  10 }
-	culture_definition = macedonian
+	culture_definition = bulgarian #macedonian #clearing error log
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1130,7 +1130,7 @@ MALA = {
 MALW = {
 	color = rgb { 207 9 33 } # Malawi flag red #{ 140 98 35 } # Malawi flag average color
 	color2 = rgb { 207 9 33 } 
-	culture_definition = sena
+	culture_definition = nyamwezi_culture #sena #clearing error log
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1240,7 +1240,7 @@ MOR = { #didnt use hoi4 color
 MOZA = {
 	color = rgb { 0 113 104 }  # Mozambique flag green
 	color2 = rgb { 0 113 104 }
-	culture_definition = bantu
+	culture_definition = herero #bantu #clearing error log
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1370,7 +1370,7 @@ NPL = { #didnt use hoi4 color
 NZEA = {
 	color = rgb { 152  130  191 } #{ 79  37  128 }
 	color2 = rgb { 152  130  191 } #{ 79  37  128 }
-	culture_definition = british_oceanian
+	culture_definition = english #british_oceanian clearing error log
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1400,7 +1400,7 @@ PAKI = {
 PALE = { #used the color of the green on their irl flag
 	color = rgb { 20 153 84 } #{ 170  125  80 } #{ 50  200  160 }
 	color2 = rgb { 20 153 84 } #{ 170  125  80 } #{ 50  200  160 }
-	culture_definition = palestinian
+	culture_definition = mdm_socal_culture #palestinian #clearing error log
 	religion_definition = sunni
 	description_category = diplomatic
 	difficulty = 2
@@ -1760,7 +1760,7 @@ SUDA = {
 SURI = {
 	color = rgb { 255 178 102 } #{ 194  180  112 }
 	color2 = rgb { 255 178 102 } #{ 194  180  112 }
-	culture_definition = germanic_colombian
+	culture_definition = mdm_socal_culture #germanic_colombian #clearing error log
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1810,7 +1810,7 @@ SYRI = {
 TAIW = { #hoi4 formosa color
 	color = rgb { 0 128 128 } #{ 155  35  200 }
 	color2 = rgb { 0 128 128 } #{ 155  35  200 }
-	culture_definition = taiwanese
+	culture_definition = mdm_socal_culture #taiwanese #clearing error log
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1960,7 +1960,7 @@ URUG = {
 USA = {
 	color = rgb { 67  123  237 } #{ 69  157  208 }
 	color2 = rgb { 67  123  237 } #{ 69  157  208 }
-	culture_definition = american
+	culture_definition = mdm_mid_atlantic_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2

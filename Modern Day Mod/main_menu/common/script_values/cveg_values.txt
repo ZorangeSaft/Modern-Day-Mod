@@ -1,0 +1,11 @@
+﻿#cvegvegchange
+
+cveg_topo_wetlands_to_flatland_build_time = 18000 #50 years   # changed from 60 to 50, felt too long in game #ai says 60 years, and also 50-100 years in general
+
+cveg_veg_jungle_to_woods_build_time = 14400 #40 years   #ai says 40-70 years
+cveg_veg_forest_to_woods_build_time = 10800 #30 years   #ai says 30-50 years
+cveg_veg_woods_to_grasslands_build_time = 9000 #25 years   #ai says 80-120 years, but says individual tree stumps rot over 20-30 years
+cveg_veg_grasslands_to_woods_build_time = 21600 #60 years   #ai says 40-60 or 60-80 years depending on how big the wood has to be you need, for ships it should be longer, but his is just a shorter average for gameplay
+cveg_veg_grasslands_to_farmland_build_time = 10800 #30 years   #ai says 20-40 years, takes long time to convert entire location to farmland
+cveg_veg_sparse_to_grasslands_build_time =  14400 #40 years   #ai says 30-60 years, but also 40-50 years with bigger population
+cveg_veg_desert_to_grasslands_build_time = 18000 #50 years   #ai says 50-60 years, because of it needing a double transition for first creating soil and then the grass itself

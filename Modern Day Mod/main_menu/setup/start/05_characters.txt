@@ -1,6 +1,6 @@
 ﻿#Remember to write sons and daughters ALWAYS after their parents to avoid crashes
 
-#character_db={
+character_db={
 #	arge_arturo_umberto_illia = {
 #		first_name = { name = arturo_umberto_illia }
 #		adm = 45
@@ -21777,4 +21777,4 @@
 #		religion = lutheran
 #		tag = SWE
 #	}
-#}
+}

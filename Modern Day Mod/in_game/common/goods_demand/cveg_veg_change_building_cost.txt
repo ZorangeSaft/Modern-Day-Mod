@@ -1,0 +1,60 @@
+﻿#cvegvegchange
+
+#just made up the numbers based on vibes
+
+#reduced all goods numbers to 1/10, as they were a massive drain beforehand, with insane tool shortages
+
+cveg_topo_wetlands_to_flatland_construction = {
+	tools = 2 #pretty intensive to drain a wetland
+	stone = 0.8 #stuff like drainage canals
+	lumber = 0.6 #stuff like windmills
+
+	category = building_construction
+}
+
+cveg_veg_jungle_to_woods_construction = {
+	tools = 1.2
+
+	category = building_construction
+}
+
+cveg_veg_forest_to_woods_construction = {
+	tools = 1
+
+	category = building_construction
+}
+
+cveg_veg_woods_to_grasslands_construction = {
+	tools = 0.8
+	livestock = 0.2 #just a few to remove the smaller stuff that gets left over when a forest is cleared
+
+	category = building_construction
+}
+
+cveg_veg_grasslands_to_woods_construction = {
+	tools = 1.2
+
+	category = building_construction
+}
+
+cveg_veg_grasslands_to_farmland_construction = {
+	tools = 1.5
+	stone = 0.5 #need infrastructure to support the farmland
+	lumber = 0.5 #need infrastructure to support the farmland
+
+	category = building_construction
+}
+
+cveg_veg_sparse_to_grasslands_construction = {
+	tools = 0.5
+	livestock = 1 #everywhere in vanilla has lifestock
+
+	category = building_construction
+}
+
+cveg_veg_desert_to_grasslands_construction = {
+	tools = 0.7
+	livestock = 1.2 #everywhere in vanilla has lifestock
+
+	category = building_construction
+}

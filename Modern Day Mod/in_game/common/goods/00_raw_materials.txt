@@ -709,3 +709,20 @@ helium = { #also on earth obviously but moon mining for fusion reactors would be
 	default_market_price = 3.5 #ai
 	transport_cost = 1 #ai
 }
+
+
+
+
+
+
+
+
+#just adding this to clear error log
+
+goods_gold = {
+	method = mining
+	category = raw_material
+	color = rgb { 180 140 60 } #ai
+	default_market_price = 10 #ai
+	transport_cost = 2 #ai
+}

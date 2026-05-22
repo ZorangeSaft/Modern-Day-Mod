@@ -1,0 +1,18 @@
+﻿#cvegvegchange
+
+#to make sure you cant build 2 different types of veg changes at the same time, like both grassland to farmland and grassland to woods
+
+cveg_is_changing_vegetation = { #so you cant build 2 of the same type of conflicting veg change buildings at once
+	any_buildings_in_location = {
+		building_levels_under_construction > 0
+		OR = {
+			building_type = building_type:cveg_veg_jungle_to_woods
+			building_type = building_type:cveg_veg_forest_to_woods
+			building_type = building_type:cveg_veg_woods_to_grasslands
+			building_type = building_type:cveg_veg_grasslands_to_woods
+			building_type = building_type:cveg_veg_grasslands_to_farmland
+			building_type = building_type:cveg_veg_sparse_to_grasslands
+			building_type = building_type:cveg_veg_desert_to_grasslands
+		}
+	}
+}

@@ -79,243 +79,243 @@ mdm_electrical_grid = {
 
 ###cell towers
 
-mdm_5g_cell_tower = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = laborers
-	
-	employment_size = mdm_default_employment
-	category = infrastructure_category
-
-	obsolete = mdm_4g_cell_tower
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_default_price
-	build_time = mdm_default_build_time
-
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_5g_cell_tower_maintenance = {
-			electricity = 1
-			electrical_expertise = 0.05
-			industrial_expertise = 0.01
-			category = building_maintenance
-		}
-	}
-
-	modifier = {
-		local_proximity_source = 5
-		local_max_control = 5
-		local_production_efficiency = 0.05
-        local_monthly_development_modifier = 0.05
-		local_peasants_estate_power = 0.05
-		local_burghers_estate_power = 0.04
-		local_clergy_estate_power = 0.03
-		local_nobles_estate_power = 0.01
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_4g_cell_tower = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = laborers
-	
-	employment_size = mdm_default_employment
-	category = infrastructure_category
-
-	obsolete = mdm_3g_cell_tower
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_default_price
-	build_time = mdm_default_build_time
-
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_4g_cell_tower_maintenance = {
-			electricity = 1
-			electrical_expertise = 0.04
-			industrial_expertise = 0.01
-			category = building_maintenance
-		}
-	}
-
-	modifier = {
-		local_proximity_source = 4
-		local_max_control = 4
-		local_production_efficiency = 0.04
-        local_monthly_development_modifier = 0.04
-		local_peasants_estate_power = 0.04
-		local_burghers_estate_power = 0.03
-		local_clergy_estate_power = 0.02
-		local_nobles_estate_power = 0.01
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_3g_cell_tower = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = laborers
-	
-	employment_size = mdm_default_employment
-	category = infrastructure_category
-
-	obsolete = mdm_2g_cell_tower
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_default_price
-	build_time = mdm_default_build_time
-
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_3g_cell_tower_maintenance = {
-			electricity = 1
-			electrical_expertise = 0.03
-			industrial_expertise = 0.01
-			category = building_maintenance
-		}
-	}
-
-	modifier = {
-		local_proximity_source = 3
-		local_max_control = 3
-		local_production_efficiency = 0.03
-        local_monthly_development_modifier = 0.03
-		local_peasants_estate_power = 0.03
-		local_burghers_estate_power = 0.02
-		local_clergy_estate_power = 0.01
-		local_nobles_estate_power = 0.01
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_2g_cell_tower = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = laborers
-
-	obsolete = mdm_1g_cell_tower
-	
-	employment_size = mdm_default_employment
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_default_price
-	build_time = mdm_default_build_time
-
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_2g_cell_tower_maintenance = {
-			electricity = 1
-			electrical_expertise = 0.02
-			industrial_expertise = 0.01
-			category = building_maintenance
-		}
-	}
-
-	modifier = {
-		local_proximity_source = 2
-		local_max_control = 2
-		local_production_efficiency = 0.02
-        local_monthly_development_modifier = 0.02
-		local_peasants_estate_power = 0.02
-		local_burghers_estate_power = 0.01
-		local_clergy_estate_power = 0.01
-		local_nobles_estate_power = 0.01
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
-
-mdm_1g_cell_tower = {
-	is_foreign = no
-	max_levels = mdm_location_rank_max_level
-	pop_type = laborers
-	
-	employment_size = mdm_default_employment
-	category = infrastructure_category
-	
-	megalopolis = yes
-	metropolis = yes
-	major_city = yes
-	city = yes
-	town = yes
-	village = yes
-	rural_settlement = yes
-
-	price = mdm_default_price
-	build_time = mdm_default_build_time
-
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
-
-	unique_production_methods = {
-		mdm_1g_cell_tower_maintenance = {
-			electricity = 1
-			electrical_expertise = 0.01
-			industrial_expertise = 0.01
-			category = building_maintenance
-		}
-	}
-
-	modifier = {
-		local_proximity_source = 1
-		local_max_control = 1
-		local_production_efficiency = 0.01
-        local_monthly_development_modifier = 0.01
-		local_peasants_estate_power = 0.01
-		local_burghers_estate_power = 0.01
-		local_clergy_estate_power = 0.01
-		local_nobles_estate_power = 0.01
-	}
-
-	construction_demand = mdm_default_construction_demand
-}
+#mdm_5g_cell_tower = {
+#	is_foreign = no
+#	max_levels = mdm_location_rank_max_level
+#	pop_type = laborers
+#	
+#	employment_size = mdm_default_employment
+#	category = infrastructure_category
+#
+#	obsolete = mdm_4g_cell_tower
+#	
+#	megalopolis = yes
+#	metropolis = yes
+#	major_city = yes
+#	city = yes
+#	town = yes
+#	village = yes
+#	rural_settlement = yes
+#
+#	price = mdm_default_price
+#	build_time = mdm_default_build_time
+#
+#	location_potential = {
+#		has_building = building_type:mdm_electrical_grid
+#	}
+#
+#	unique_production_methods = {
+#		mdm_5g_cell_tower_maintenance = {
+#			electricity = 1
+#			electrical_expertise = 0.05
+#			industrial_expertise = 0.01
+#			category = building_maintenance
+#		}
+#	}
+#
+#	modifier = {
+#		local_proximity_source = 5
+#		local_max_control = 5
+#		local_production_efficiency = 0.05
+#        local_monthly_development_modifier = 0.05
+#		local_peasants_estate_power = 0.05
+#		local_burghers_estate_power = 0.04
+#		local_clergy_estate_power = 0.03
+#		local_nobles_estate_power = 0.01
+#	}
+#
+#	construction_demand = mdm_default_construction_demand
+#}
+#
+#mdm_4g_cell_tower = {
+#	is_foreign = no
+#	max_levels = mdm_location_rank_max_level
+#	pop_type = laborers
+#	
+#	employment_size = mdm_default_employment
+#	category = infrastructure_category
+#
+#	obsolete = mdm_3g_cell_tower
+#	
+#	megalopolis = yes
+#	metropolis = yes
+#	major_city = yes
+#	city = yes
+#	town = yes
+#	village = yes
+#	rural_settlement = yes
+#
+#	price = mdm_default_price
+#	build_time = mdm_default_build_time
+#
+#	location_potential = {
+#		has_building = building_type:mdm_electrical_grid
+#	}
+#
+#	unique_production_methods = {
+#		mdm_4g_cell_tower_maintenance = {
+#			electricity = 1
+#			electrical_expertise = 0.04
+#			industrial_expertise = 0.01
+#			category = building_maintenance
+#		}
+#	}
+#
+#	modifier = {
+#		local_proximity_source = 4
+#		local_max_control = 4
+#		local_production_efficiency = 0.04
+#        local_monthly_development_modifier = 0.04
+#		local_peasants_estate_power = 0.04
+#		local_burghers_estate_power = 0.03
+#		local_clergy_estate_power = 0.02
+#		local_nobles_estate_power = 0.01
+#	}
+#
+#	construction_demand = mdm_default_construction_demand
+#}
+#
+#mdm_3g_cell_tower = {
+#	is_foreign = no
+#	max_levels = mdm_location_rank_max_level
+#	pop_type = laborers
+#	
+#	employment_size = mdm_default_employment
+#	category = infrastructure_category
+#
+#	obsolete = mdm_2g_cell_tower
+#	
+#	megalopolis = yes
+#	metropolis = yes
+#	major_city = yes
+#	city = yes
+#	town = yes
+#	village = yes
+#	rural_settlement = yes
+#
+#	price = mdm_default_price
+#	build_time = mdm_default_build_time
+#
+#	location_potential = {
+#		has_building = building_type:mdm_electrical_grid
+#	}
+#
+#	unique_production_methods = {
+#		mdm_3g_cell_tower_maintenance = {
+#			electricity = 1
+#			electrical_expertise = 0.03
+#			industrial_expertise = 0.01
+#			category = building_maintenance
+#		}
+#	}
+#
+#	modifier = {
+#		local_proximity_source = 3
+#		local_max_control = 3
+#		local_production_efficiency = 0.03
+#        local_monthly_development_modifier = 0.03
+#		local_peasants_estate_power = 0.03
+#		local_burghers_estate_power = 0.02
+#		local_clergy_estate_power = 0.01
+#		local_nobles_estate_power = 0.01
+#	}
+#
+#	construction_demand = mdm_default_construction_demand
+#}
+#
+#mdm_2g_cell_tower = {
+#	is_foreign = no
+#	max_levels = mdm_location_rank_max_level
+#	pop_type = laborers
+#
+#	obsolete = mdm_1g_cell_tower
+#	
+#	employment_size = mdm_default_employment
+#	category = infrastructure_category
+#	
+#	megalopolis = yes
+#	metropolis = yes
+#	major_city = yes
+#	city = yes
+#	town = yes
+#	village = yes
+#	rural_settlement = yes
+#
+#	price = mdm_default_price
+#	build_time = mdm_default_build_time
+#
+#	location_potential = {
+#		has_building = building_type:mdm_electrical_grid
+#	}
+#
+#	unique_production_methods = {
+#		mdm_2g_cell_tower_maintenance = {
+#			electricity = 1
+#			electrical_expertise = 0.02
+#			industrial_expertise = 0.01
+#			category = building_maintenance
+#		}
+#	}
+#
+#	modifier = {
+#		local_proximity_source = 2
+#		local_max_control = 2
+#		local_production_efficiency = 0.02
+#        local_monthly_development_modifier = 0.02
+#		local_peasants_estate_power = 0.02
+#		local_burghers_estate_power = 0.01
+#		local_clergy_estate_power = 0.01
+#		local_nobles_estate_power = 0.01
+#	}
+#
+#	construction_demand = mdm_default_construction_demand
+#}
+#
+#mdm_1g_cell_tower = {
+#	is_foreign = no
+#	max_levels = mdm_location_rank_max_level
+#	pop_type = laborers
+#	
+#	employment_size = mdm_default_employment
+#	category = infrastructure_category
+#	
+#	megalopolis = yes
+#	metropolis = yes
+#	major_city = yes
+#	city = yes
+#	town = yes
+#	village = yes
+#	rural_settlement = yes
+#
+#	price = mdm_default_price
+#	build_time = mdm_default_build_time
+#
+#	location_potential = {
+#		has_building = building_type:mdm_electrical_grid
+#	}
+#
+#	unique_production_methods = {
+#		mdm_1g_cell_tower_maintenance = {
+#			electricity = 1
+#			electrical_expertise = 0.01
+#			industrial_expertise = 0.01
+#			category = building_maintenance
+#		}
+#	}
+#
+#	modifier = {
+#		local_proximity_source = 1
+#		local_max_control = 1
+#		local_production_efficiency = 0.01
+#        local_monthly_development_modifier = 0.01
+#		local_peasants_estate_power = 0.01
+#		local_burghers_estate_power = 0.01
+#		local_clergy_estate_power = 0.01
+#		local_nobles_estate_power = 0.01
+#	}
+#
+#	construction_demand = mdm_default_construction_demand
+#}
 
 
 

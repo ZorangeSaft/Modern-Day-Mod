@@ -161,7 +161,6 @@ kyzylkum_desert5 = { topography = flatland vegetation = desert climate = cold_ar
 ugam_range1 = { topography = mountains vegetation = sparse climate = continental religion = catholic culture = swedish raw_material = clay }
 ugam_range2 = { topography = mountains vegetation = sparse climate = continental religion = catholic culture = swedish raw_material = clay }
 tian_shan16 = { topography = mountains vegetation = sparse climate = continental religion = catholic culture = swedish raw_material = clay }
-#tian_shan17 = { topography = mountains vegetation = sparse climate = continental}
 hissar_mountains4 = { topography = mountains vegetation = sparse climate = continental religion = catholic culture = swedish raw_material = clay }
 tian_shan18 = { topography = mountains vegetation = sparse climate = continental religion = catholic culture = swedish raw_material = clay }
 tian_shan19 = { topography = mountains vegetation = sparse climate = continental religion = catholic culture = swedish raw_material = clay }
@@ -25989,7 +25988,7 @@ raukolafken_lake = { topography = lakes climate = temperate_oceanic_climate}
 riniwe_lake = { topography = lakes climate = temperate_oceanic_climate}
 xailafken_lake = { topography = lakes climate = temperate_oceanic_climate}
 kalafken_lake = { topography = lakes climate = subtropical_highland_climate}
-juan_fernandez_islands = { topography = hills vegetation = sparse climate = temperate_oceanic_climate}
+juan_fernandez_islands = { culture = mdm_socal_culture raw_material = fish religion = catholic topography = hills vegetation = sparse climate = temperate_oceanic_climate}
 atacames_cape = { topography = coastal_ocean climate = tropical_rainforest_climate}
 pasado_cape = { topography = coastal_ocean climate = tropical_rainforest_climate}
 lorenzo_cape = { topography = coastal_ocean climate = hot_arid_desert_climate}
@@ -27486,8 +27485,8 @@ ohau_lake = { topography = high_lakes climate = temperate_oceanic_climate religi
 pukaki_lake = { topography = high_lakes climate = temperate_oceanic_climate religion = catholic culture = swedish raw_material = clay }
 tekapo_lake = { topography = high_lakes climate = temperate_oceanic_climate religion = catholic culture = swedish raw_material = clay }
 rekohu = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = fish natural_harbor_suitability = 0.00}
-lord_howe_island = { topography = hills vegetation = jungle climate = temperate_oceanic_climate}
-norfolk = { topography = hills vegetation = jungle climate = temperate_oceanic_climate}
+lord_howe_island = { culture = mdm_socal_culture raw_material = fish religion = catholic topography = hills vegetation = jungle climate = temperate_oceanic_climate}
+norfolk = { culture = mdm_socal_culture raw_material = fish religion = catholic topography = hills vegetation = jungle climate = temperate_oceanic_climate}
 motu_maha = { topography = hills vegetation = woods climate = temperate_oceanic_climate religion = tapu_religion culture = maori_culture raw_material = fish natural_harbor_suitability = 0.00}
 rekohu_coast = { topography = coastal_ocean climate = temperate_oceanic_climate}
 kekerengu_bank = { topography = coastal_ocean climate = temperate_oceanic_climate }
@@ -28037,7 +28036,7 @@ atafu_atoll = { topography = atoll vegetation = woods climate = tropical_rainfor
 savaii = { topography = mountains vegetation = forest climate = tropical_rainforest_climate religion = tapu_religion culture = tagata_samoa_culture raw_material = fruit natural_harbor_suitability = 0.00}
 upolu = { topography = hills vegetation = forest climate = tropical_rainforest_climate religion = tapu_religion culture = tagata_samoa_culture raw_material = lumber natural_harbor_suitability = 0.00}
 tutuila = { topography = flatland vegetation = jungle climate = tropical_rainforest_climate religion = tapu_religion culture = tagata_samoa_culture raw_material = fish natural_harbor_suitability = 1.00}
-manua = { topography = hills vegetation = jungle climate = tropical_rainforest_climate}
+manua = { culture = mdm_socal_culture raw_material = fish religion = catholic topography = hills vegetation = jungle climate = tropical_rainforest_climate}
 mulinuu_cape = { topography = coastal_ocean climate = tropical_rainforest_climate}
 fagasa_bay = { topography = coastal_ocean climate = tropical_rainforest_climate}
 taputapu_cape = { topography = coastal_ocean climate = tropical_rainforest_climate}
@@ -28544,7 +28543,7 @@ entrecasteaux_atoll = { topography = atoll vegetation = desert climate = tropica
 new_caledonia_barrier_reef_1 = { topography = atoll vegetation = desert climate = tropical_rainforest_climate religion = catholic culture = swedish raw_material = clay }
 new_caledonia_barrier_reef_2 = { topography = atoll vegetation = desert climate = tropical_rainforest_climate religion = catholic culture = swedish raw_material = clay }
 bellona_reef = { topography = atoll vegetation = desert climate = tropical_rainforest_climate religion = catholic culture = swedish raw_material = clay }
-frederick_reef = { topography = atoll vegetation = desert climate = tropical_rainforest_climate}
+frederick_reef = { topography = atoll culture = mdm_socal_culture raw_material = fish religion = catholic vegetation = desert climate = tropical_rainforest_climate}
 nengone = { topography = flatland vegetation = jungle climate = tropical_rainforest_climate religion = kanak_religion culture = nengone_culture raw_material = fruit natural_harbor_suitability = 0.00}
 drehu = { topography = flatland vegetation = jungle climate = tropical_rainforest_climate religion = kanak_religion culture = drehu_culture raw_material = fish natural_harbor_suitability = 0.00}
 ouvea_atoll = { topography = atoll vegetation = forest climate = tropical_rainforest_climate religion = kanak_religion culture = drehu_culture raw_material = fruit natural_harbor_suitability = 0.00}

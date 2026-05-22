@@ -1,0 +1,95 @@
+﻿l_english:
+ #cvegvegchange
+
+
+ #wetlands mapmode
+
+ mapmode_cveg_wetlands_name: "Wetlands"
+ MAPMODE_CVEG_WETLANDS: "#T $mapmode_cveg_wetlands_name$#!\nThis colors [locations|e] based on if they are a [ShowTopographyName('wetlands')], if they are actively being drained into [ShowTopographyName('flatland')], or if they have already been drained."
+ MAPMODE_CVEG_TOPOGRAPHY_TT_WATER: "[ROOT.GetLocation.GetName] is not a land [location|e] so it cannot be [ShowTopographyName('wetlands')]."
+
+ MAPMODE_CVEG_TOPOGRAPHY_TT_LAND_WETLANDS: "[ROOT.GetLocation.GetName] is [ShowTopographyName('wetlands')]"
+ MAPMODE_CVEG_TOPOGRAPHY_TT_LAND_DRAINING_WETLANDS: "[ROOT.GetLocation.GetName] is currently being drained into [ShowTopographyName('flatland')]."
+ MAPMODE_CVEG_TOPOGRAPHY_TT_LAND_DRAINED_WETLANDS: "[ROOT.GetLocation.GetName] used to be [ShowTopographyName('wetlands')], but it has been drained into [ShowTopographyName('flatland')]."
+ MAPMODE_CVEG_TOPOGRAPHY_TT_LAND_NOT_WETLANDS: "[ROOT.GetLocation.GetName] is not and never was [ShowTopographyName('wetlands')]."
+
+ MAPMODE_CVEG_TOPOGRAPHY_TT_LAND_FALLBACK: "Fallback, something went wrong."
+
+
+ cveg_wetlands_drained_wetlands_legend_key: "Drained Wetlands"
+ cveg_wetlands_is_draining_legend_key: "Wetlands being drained"
+ cveg_wetlands_is_wetlands_legend_key: "Undrained Wetlands"
+ cveg_wetlands_not_wetlands_legend_key: "Not Wetlands"
+
+
+
+ #Buildings
+
+ #topography change (draining wetlands)
+
+ cveg_temporary_remove_topo_building_tooltip: "There is a 2 month cooldown after building a topography changing building to avoid bugs"
+
+ cveg_topo_wetlands_to_flatland: "Drain [ShowTopographyName('wetlands')]"
+ cveg_topo_wetlands_to_flatland_desc: "Drain and stabilize local [ShowTopographyName('wetlands')] into [ShowTopographyName('flatland')] to make the [location|e] easier to traverse and develop.\n\nCan be built on any [ShowTopographyName('wetlands')]."
+ cveg_topo_wetlands_to_flatland_maintenance: "This building will get removed on the month tick once built"
+ cveg_topo_wetlands_to_flatland_price: "Drain Wetlands Price"
+ cveg_topo_wetlands_to_flatland_construction: "Drain Wetlands Construction"
+
+
+ #cutting down dense vegetation, no rgo change
+
+ cveg_temporary_remove_veg_building_tooltip: "There is a 2 month cooldown after building a vegetation changing building to avoid bugs"
+
+ cveg_veg_jungle_to_woods: "Cut down [ShowVegetationName('jungle')]"
+ cveg_veg_jungle_to_woods_desc: "Change the local [vegetation|e] of this [location|e] from [ShowVegetationName('jungle')] to [ShowVegetationName('woods')].\n\nCan be built anywhere.\n\nDoes not change the current [rgo|e] good."
+ cveg_veg_jungle_to_woods_maintenance: "This building will get removed on the month tick once built"
+ cveg_veg_jungle_to_woods_price: "Cut down Jungle Price"
+ cveg_veg_jungle_to_woods_construction: "Cut down Jungle Construction"
+
+ cveg_veg_forest_to_woods: "Cut down [ShowVegetationName('forest')]"
+ cveg_veg_forest_to_woods_desc: "Change the local [vegetation|e] of this [location|e] from [ShowVegetationName('forest')] to [ShowVegetationName('woods')].\n\nCan be built anywhere.\n\nDoes not change the current [rgo|e] good."
+ cveg_veg_forest_to_woods_maintenance: "This building will get removed on the month tick once built"
+ cveg_veg_forest_to_woods_price: "Cut down Forest Price"
+ cveg_veg_forest_to_woods_construction: "Cut down Forest Construction"
+
+ cveg_veg_woods_to_grasslands: "Cut down [ShowVegetationName('woods')]"
+ cveg_veg_woods_to_grasslands_desc: "Change the local [vegetation|e] of this [location|e] from [ShowVegetationName('woods')] to [ShowVegetationName('grasslands')].\n\nCan be built anywhere.\n\nDoes not change the current [rgo|e]."
+ cveg_veg_woods_to_grasslands_maintenance: "This building will get removed on the month tick once built"
+ cveg_veg_woods_to_grasslands_price: "Cut down Woods Price"
+ cveg_veg_woods_to_grasslands_construction: "Cut down Woods Construction"
+
+
+
+ #grow new forests for lumber rgo
+
+ cveg_veg_grasslands_to_woods: "Grow [ShowVegetationName('woods')] for [ShowGoodsName('lumber')]"
+ cveg_veg_grasslands_to_woods_desc: "Change the local [vegetation|e] of this [location|e] from [ShowVegetationName('grasslands')] to [ShowVegetationName('woods')] and set the local [rgo|e] good to [ShowGoodsName('lumber')].\n\nCan be built anywhere, except in [ShowClimateName('arid')] and [ShowClimateName('cold_arid')] climates, where it can only be built on [ShowTopographyName('mountains')] and [ShowTopographyName('hills')].\n\nCannot be built on the following [rgo|e]s due to their importance and scarcity:\n\n[ShowGoodsName('iron')], [ShowGoodsName('goods_gold')], [ShowGoodsName('silver')], [ShowGoodsName('tin')], [ShowGoodsName('copper')], [ShowGoodsName('coal')], [ShowGoodsName('saltpeter')], [ShowGoodsName('lead')], [ShowGoodsName('gems')], [ShowGoodsName('amber')], [ShowGoodsName('mercury')], [ShowGoodsName('pearls')], [ShowGoodsName('marble')], [ShowGoodsName('alum')], [ShowGoodsName('silk')], and [ShowGoodsName('dyes')]."
+ cveg_veg_grasslands_to_woods_maintenance: "This building will get removed on the month tick once built"
+ cveg_veg_grasslands_to_woods_price: "Grow Woods Price"
+ cveg_veg_grasslands_to_woods_construction: "Grow Woods Construction"
+
+
+ 
+ #change to farmland
+
+ cveg_veg_grasslands_to_farmland: "Cultivate [ShowVegetationName('farmland')]"
+ cveg_veg_grasslands_to_farmland_desc: "Change the local [vegetation|e] of this [location|e] from [ShowVegetationName('grasslands')] to [ShowVegetationName('farmland')].\n\nCannot be built in [ShowClimateName('arctic')] climate or on [ShowTopographyName('mountains')].\nRequires either a [river|e], fresh-water lake adjacency (not [ShowTopographyName('salt_pans')]), [ShowTopographyName('wetlands')] topography, or [ShowClimateName('mediterranean')] [ShowTopographyName('flatland')].\n\nDoes not change the current [rgo|e]."
+ cveg_veg_grasslands_to_farmland_maintenance: "This building will get removed on the month tick once built"
+ cveg_veg_grasslands_to_farmland_price: "Cultivate Farmland Price"
+ cveg_veg_grasslands_to_farmland_construction: "Cultivate Farmland Construction"
+
+
+
+ #upcycle to better grazing land
+
+ cveg_veg_sparse_to_grasslands: "Cultivate [ShowVegetationName('grasslands')]"
+ cveg_veg_sparse_to_grasslands_desc: "Change the local [vegetation|e] of this [location|e] from [ShowVegetationName('sparse')] to [ShowVegetationName('grasslands')].\n\nCan be built on [ShowVegetationName('sparse')] outside [ShowClimateName('arctic')] climate.\n\nRequires either a [river|e], fresh-water lake adjacency (not [ShowTopographyName('salt_pans')]), [ShowTopographyName('wetlands')] topography, [ShowClimateName('mediterranean')] climate, [ShowClimateName('cold_arid')] climate, or a [ShowClimateName('arid')] climate with [ShowTopographyName('mountains')], [ShowTopographyName('hills')], or [ShowTopographyName('plateau')] topography.\n\nDoes not change the current [rgo|e]."
+ cveg_veg_sparse_to_grasslands_maintenance: "This building will get removed on the month tick once built"
+ cveg_veg_sparse_to_grasslands_price: "Cultivate Grasslands (Sparse) Price"
+ cveg_veg_sparse_to_grasslands_construction: "Cultivate Grasslands (Sparse) Construction"
+
+ cveg_veg_desert_to_grasslands: "Cultivate [ShowVegetationName('grasslands')]"
+ cveg_veg_desert_to_grasslands_desc: "Change the local [vegetation|e] of this [location|e] from [ShowVegetationName('desert')] to [ShowVegetationName('grasslands')].\n\nCan be built on [ShowVegetationName('desert')] outside [ShowClimateName('arctic')] climate.\n\nRequires either a [river|e], fresh-water lake adjacency (not [ShowTopographyName('salt_pans')]), [ShowTopographyName('wetlands')] topography, [ShowClimateName('mediterranean')] climate, [ShowClimateName('cold_arid')] climate, or a [ShowClimateName('arid')] climate with [ShowTopographyName('mountains')], [ShowTopographyName('hills')], or [ShowTopographyName('plateau')] topography.\n\nDoes not change the current [rgo|e]."
+ cveg_veg_desert_to_grasslands_maintenance: "This building will get removed on the month tick once built"
+ cveg_veg_desert_to_grasslands_price: "Cultivate Grasslands (Desert) Price"
+ cveg_veg_desert_to_grasslands_construction: "Cultivate Grasslands (Desert) Construction"

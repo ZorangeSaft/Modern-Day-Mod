@@ -30,7 +30,7 @@ VATIC = {
 	color = rgb { 211 211 211 } #basegame pope color
 	color2 = rgb { 211 211 211 }
 
-	culture_definition = mdm_papal_culture
+	culture_definition = mdm_socal_culture #mdm_papal_culture #clearing error log
 	religion_definition = catholic
 
 	description_category = diplomatic
