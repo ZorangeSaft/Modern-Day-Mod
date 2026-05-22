@@ -1,4 +1,5 @@
-locations = {   stockholm = {      define_pop = {         culture = swedish         religion = catholic         size = 0.032         type = nobles      }      define_pop = {         culture = swedish         religion = catholic         size = 0.097         type = clergy      }      define_pop = {         culture = swedish         religion = catholic         size = 0.910         type = burghers      }      define_pop = {         culture = holsatian         religion = catholic         size = 0.740         type = burghers      }      define_pop = {         culture = lower_saxon         religion = catholic         size = 0.440         type = burghers      }      define_pop = {         culture = swedish         religion = catholic         size = 26.626         type = peasants      }      define_pop = {         culture = finnish         religion = catholic         size = 0.974         type = peasants      }   }
+locations = {   
+   stockholm = {      define_pop = {         culture = swedish         religion = catholic         size = 0.032         type = nobles      }      define_pop = {         culture = swedish         religion = catholic         size = 0.097         type = clergy      }      define_pop = {         culture = swedish         religion = catholic         size = 0.910         type = burghers      }      define_pop = {         culture = holsatian         religion = catholic         size = 0.740         type = burghers      }      define_pop = {         culture = lower_saxon         religion = catholic         size = 0.440         type = burghers      }      define_pop = {         culture = swedish         religion = catholic         size = 26.626         type = peasants      }      define_pop = {         culture = finnish         religion = catholic         size = 0.974         type = peasants      }   }
    norrtalje = {      define_pop = {         culture = swedish         religion = catholic         size = 0.009         type = clergy      }      define_pop = {         culture = swedish         religion = catholic         size = 10.763         type = peasants      }   }
    nykoping = {      define_pop = {         culture = swedish         religion = catholic         size = 0.009         type = clergy      }      define_pop = {         culture = swedish         religion = catholic         size = 12.755         type = peasants      }   }
    arboga = {      define_pop = {         culture = swedish         religion = catholic         size = 0.009         type = clergy      }      define_pop = {         culture = swedish         religion = catholic         size = 8.810         type = peasants      }   }
@@ -107363,14 +107364,6 @@ new3 = {
       }
    }
    channel_islands = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
-   porto_santo = {
       define_pop = {
          culture = mdm_socal_culture
          religion = catholic
