@@ -28285,7 +28285,7 @@ tabiteuea_atoll = { topography = atoll vegetation = woods climate = tropical_rai
 onotoa_atoll = { topography = atoll vegetation = woods climate = tropical_rainforest_climate religion = tapu_religion culture = i_kiribati_culture raw_material = fish natural_harbor_suitability = 0.00}
 beru_atoll = { topography = atoll vegetation = woods climate = tropical_rainforest_climate religion = catholic culture = swedish raw_material = clay }
 arorae = { topography = flatland vegetation = woods climate = tropical_rainforest_climate religion = catholic culture = swedish raw_material = clay }
-banaba = { topography = flatland vegetation = forest climate = tropical_rainforest_climate}
+banaba = { culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = forest climate = tropical_rainforest_climate}
 arorae_coast = { topography = coastal_ocean climate = tropical_rainforest_climate}
 tamana_coast = { topography = coastal_ocean climate = tropical_rainforest_climate}
 onotoa_coast = { topography = coastal_ocean climate = tropical_rainforest_climate}

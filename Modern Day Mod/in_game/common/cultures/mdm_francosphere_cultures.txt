@@ -130,3 +130,31 @@ walloon = {
 		german_group
 	}
 }
+
+
+
+
+
+#clearing error log
+
+provencal = { 
+	language = occitan_dialect
+	
+	color = map_PROV
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		auvergnat = positive
+		gascon = positive
+		limousin = positive
+		languedocien = positive
+		arpitan = positive
+		vivaro_alpine = positive
+	}
+	
+	culture_groups = {
+		mdm_francosphere_group
+		french_group
+	}
+}
