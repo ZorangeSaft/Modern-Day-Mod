@@ -1,0 +1,679 @@
+﻿#wsfvegchange
+
+
+#all the following modifiers were generated as the calculated difference between vegetation 1 and 2, 
+#so for example wsf_jungle_to_forest would now make the location function as forest instead of jungle based on the modifiers
+
+#most of these were generated with the inbuilt vscode github copilot, based on 2 examples and the modifiers these 
+#vegetations have defined in game/in_game/common/vegetation/00_default.txt, which is also recommended for doing a lot of modifiers
+
+
+#jungle conversion
+
+wsf_jungle_to_forest = {
+    game_data = { category = location }
+
+    wsf_is_forest_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.5
+    local_distance_from_capital_speed_propagation = 0.25
+    local_frontage_allowed = 1
+    local_rgo_build_time = -0.17
+    local_road_building_time = -2.0
+    local_population_capacity = -25
+    local_monthly_development_modifier = 0.05
+    local_monthly_food_modifier = -0.1
+}
+
+wsf_jungle_to_woods = {
+    game_data = { category = location }
+
+    wsf_is_woods_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.75
+    local_distance_from_capital_speed_propagation = 0.375
+    local_frontage_allowed = 2
+    local_rgo_build_time = -0.5
+    local_road_building_time = -2.50
+    local_monthly_development_modifier = 0.10
+    supply_limit = 2
+}
+
+wsf_jungle_to_grasslands = {
+    game_data = { category = location }
+
+    wsf_is_grasslands_modifier = yes #just so it has a good icon
+
+    movement_cost = -1.0
+    local_distance_from_capital_speed_propagation = 0.5
+    defender = -1
+    local_frontage_allowed = 4
+    local_rgo_build_time = -0.5
+    local_road_building_time = -3.0
+    local_monthly_development_modifier = 0.30
+    supply_limit = 2
+}
+
+wsf_jungle_to_farmland = {
+    game_data = { category = location }
+
+    wsf_is_farmland_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.90
+    local_distance_from_capital_speed_propagation = 0.45
+    defender = -1
+    local_frontage_allowed = 4
+    local_rgo_build_time = -0.5
+    local_road_building_time = -2.80
+    local_population_capacity = 50
+    local_monthly_development_modifier = 0.40
+    local_max_rgo_size_modifier = 0.10
+    local_monthly_food_modifier = 0.23
+    supply_limit = 5
+}
+
+wsf_jungle_to_sparse = {
+    game_data = { category = location }
+
+    wsf_is_sparse_modifier = yes #just so it has a good icon
+
+    movement_cost = -1.0
+    local_distance_from_capital_speed_propagation = 0.5
+    defender = -1
+    local_frontage_allowed = 4
+    local_rgo_build_time = -0.5
+    local_road_building_time = -3.10
+    local_population_capacity = -25
+    local_monthly_development_modifier = 0.30
+    local_monthly_food_modifier = -0.1
+}
+
+wsf_jungle_to_desert = {
+    game_data = { category = location }
+
+    wsf_is_desert_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.9
+    local_distance_from_capital_speed_propagation = 0.45
+    defender = -1
+    local_frontage_allowed = 4
+    local_road_building_time = -2.0
+    local_population_capacity = -40
+    local_monthly_development_modifier = -0.03
+    local_monthly_food_modifier = -0.43
+    supply_limit = -5
+}
+
+
+
+#forest conversion
+
+wsf_forest_to_jungle = {
+    game_data = { category = location }
+
+    wsf_is_jungle_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.5
+    local_distance_from_capital_speed_propagation = -0.25
+    local_frontage_allowed = -1
+    local_rgo_build_time = 0.17
+    local_road_building_time = 2.0
+    local_population_capacity = 25
+    local_monthly_development_modifier = -0.05
+    local_monthly_food_modifier = 0.1
+}
+
+wsf_forest_to_woods = {
+    game_data = { category = location }
+
+    wsf_is_woods_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.25
+    local_distance_from_capital_speed_propagation = 0.125
+    local_frontage_allowed = 1
+    local_rgo_build_time = -0.33
+    local_road_building_time = -0.50
+    local_population_capacity = 25
+    local_monthly_development_modifier = 0.05
+    local_monthly_food_modifier = 0.1
+    supply_limit = 2
+}
+
+wsf_forest_to_grasslands = {
+    game_data = { category = location }
+
+    wsf_is_grasslands_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.5
+    local_distance_from_capital_speed_propagation = 0.25
+    defender = -1
+    local_frontage_allowed = 3
+    local_rgo_build_time = -0.33
+    local_road_building_time = -1.0
+    local_population_capacity = 25
+    local_monthly_development_modifier = 0.25
+    local_monthly_food_modifier = 0.1
+    supply_limit = 2
+}
+
+wsf_forest_to_farmland = {
+    game_data = { category = location }
+
+    wsf_is_farmland_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.40
+    local_distance_from_capital_speed_propagation = 0.20
+    defender = -1
+    local_frontage_allowed = 3
+    local_rgo_build_time = -0.33
+    local_road_building_time = -0.80
+    local_population_capacity = 75
+    local_monthly_development_modifier = 0.35
+    local_max_rgo_size_modifier = 0.10
+    local_monthly_food_modifier = 0.33
+    supply_limit = 5
+}
+
+wsf_forest_to_sparse = {
+    game_data = { category = location }
+
+    wsf_is_sparse_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.5
+    local_distance_from_capital_speed_propagation = 0.25
+    defender = -1
+    local_frontage_allowed = 3
+    local_rgo_build_time = -0.33
+    local_road_building_time = -1.10
+    local_monthly_development_modifier = 0.25
+}
+
+wsf_forest_to_desert = {
+    game_data = { category = location }
+
+    wsf_is_desert_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.4
+    local_distance_from_capital_speed_propagation = 0.20
+    defender = -1
+    local_frontage_allowed = 3
+    local_road_building_time = 0.0
+    local_population_capacity = -15
+    local_monthly_development_modifier = -0.08
+    local_monthly_food_modifier = -0.33
+    supply_limit = -5
+}
+
+
+
+#woods conversion
+
+wsf_woods_to_jungle = {
+    game_data = { category = location }
+
+    wsf_is_jungle_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.75
+    local_distance_from_capital_speed_propagation = -0.375
+    local_frontage_allowed = -2
+    local_rgo_build_time = 0.5
+    local_road_building_time = 2.50
+    local_monthly_development_modifier = -0.10
+    supply_limit = -2
+}
+
+wsf_woods_to_forest = {
+    game_data = { category = location }
+
+    wsf_is_forest_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.25
+    local_distance_from_capital_speed_propagation = -0.125
+    local_frontage_allowed = -1
+    local_rgo_build_time = 0.33
+    local_road_building_time = 0.50
+    local_population_capacity = -25
+    local_monthly_development_modifier = -0.05
+    local_monthly_food_modifier = -0.1
+    supply_limit = -2
+}
+
+wsf_woods_to_grasslands = {
+    game_data = { category = location }
+
+    wsf_is_grasslands_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.25
+    local_distance_from_capital_speed_propagation = 0.125
+    defender = -1
+    local_frontage_allowed = 2
+    local_road_building_time = -0.50
+    local_monthly_development_modifier = 0.20
+}
+
+wsf_woods_to_farmland = {
+    game_data = { category = location }
+
+    wsf_is_farmland_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.15
+    local_distance_from_capital_speed_propagation = 0.075
+    defender = -1
+    local_frontage_allowed = 2
+    local_road_building_time = -0.30
+    local_population_capacity = 50
+    local_monthly_development_modifier = 0.30
+    local_max_rgo_size_modifier = 0.10
+    local_monthly_food_modifier = 0.23
+    supply_limit = 3
+}
+
+wsf_woods_to_sparse = {
+    game_data = { category = location }
+
+    wsf_is_sparse_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.25
+    local_distance_from_capital_speed_propagation = 0.125
+    defender = -1
+    local_frontage_allowed = 2
+    local_road_building_time = -0.60
+    local_population_capacity = -25
+    local_monthly_development_modifier = 0.20
+    local_monthly_food_modifier = -0.1
+    supply_limit = -2
+}
+
+wsf_woods_to_desert = {
+    game_data = { category = location }
+
+    wsf_is_desert_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.15
+    local_distance_from_capital_speed_propagation = 0.075
+    defender = -1
+    local_frontage_allowed = 2
+    local_road_building_time = 0.50
+    local_population_capacity = -40
+    local_monthly_development_modifier = -0.13
+    local_monthly_food_modifier = -0.43
+    supply_limit = -7
+}
+
+
+
+#grasslands conversion
+
+wsf_grasslands_to_jungle = {
+    game_data = { category = location }
+
+    wsf_is_jungle_modifier = yes #just so it has a good icon
+
+    movement_cost = 1.0
+    local_distance_from_capital_speed_propagation = -0.5
+    defender = 1
+    local_frontage_allowed = -4
+    local_rgo_build_time = 0.5
+    local_road_building_time = 3.0
+    local_monthly_development_modifier = -0.30
+    supply_limit = -2
+}
+
+wsf_grasslands_to_forest = {
+    game_data = { category = location }
+
+    wsf_is_forest_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.5
+    local_distance_from_capital_speed_propagation = -0.25
+    defender = 1
+    local_frontage_allowed = -3
+    local_rgo_build_time = 0.33
+    local_road_building_time = 1.0
+    local_population_capacity = -25
+    local_monthly_development_modifier = -0.25
+    local_monthly_food_modifier = -0.1
+    supply_limit = -2
+}
+
+wsf_grasslands_to_woods = {
+    game_data = { category = location }
+
+    wsf_is_woods_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.25
+    local_distance_from_capital_speed_propagation = -0.125
+    defender = 1
+    local_frontage_allowed = -2
+    local_road_building_time = 0.50
+    local_monthly_development_modifier = -0.20
+}
+
+wsf_grasslands_to_farmland = {
+    game_data = { category = location }
+
+    wsf_is_farmland_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.10
+    local_distance_from_capital_speed_propagation = -0.05
+    local_road_building_time = 0.20
+    local_population_capacity = 50
+    local_monthly_development_modifier = 0.10
+    local_max_rgo_size_modifier = 0.10
+    local_monthly_food_modifier = 0.23
+    supply_limit = 3
+}
+
+wsf_grasslands_to_sparse = {
+    game_data = { category = location }
+
+    wsf_is_sparse_modifier = yes #just so it has a good icon
+
+    local_road_building_time = -0.10
+    local_population_capacity = -25
+    local_monthly_food_modifier = -0.1
+    supply_limit = -2
+}
+
+wsf_grasslands_to_desert = {
+    game_data = { category = location }
+
+    wsf_is_desert_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.1
+    local_distance_from_capital_speed_propagation = -0.05
+    local_rgo_build_time = 0.5
+    local_road_building_time = 1.0
+    local_population_capacity = -40
+    local_monthly_development_modifier = -0.33
+    local_monthly_food_modifier = -0.43
+    supply_limit = -7
+}
+
+
+
+#farmland conversion
+
+wsf_farmland_to_jungle = {
+    game_data = { category = location }
+
+    wsf_is_jungle_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.90
+    local_distance_from_capital_speed_propagation = -0.45
+    defender = 1
+    local_frontage_allowed = -4
+    local_rgo_build_time = 0.5
+    local_road_building_time = 2.80
+    local_population_capacity = -50
+    local_monthly_development_modifier = -0.40
+    local_max_rgo_size_modifier = -0.10
+    local_monthly_food_modifier = -0.23
+    supply_limit = -5
+}
+
+wsf_farmland_to_forest = {
+    game_data = { category = location }
+
+    wsf_is_forest_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.40
+    local_distance_from_capital_speed_propagation = -0.20
+    defender = 1
+    local_frontage_allowed = -3
+    local_rgo_build_time = 0.33
+    local_road_building_time = 0.80
+    local_population_capacity = -75
+    local_monthly_development_modifier = -0.35
+    local_max_rgo_size_modifier = -0.10
+    local_monthly_food_modifier = -0.33
+    supply_limit = -5
+}
+
+wsf_farmland_to_woods = {
+    game_data = { category = location }
+
+    wsf_is_woods_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.15
+    local_distance_from_capital_speed_propagation = -0.075
+    defender = 1
+    local_frontage_allowed = -2
+    local_road_building_time = 0.30
+    local_population_capacity = -50
+    local_monthly_development_modifier = -0.30
+    local_max_rgo_size_modifier = -0.10
+    local_monthly_food_modifier = -0.23
+    supply_limit = -3
+}
+
+wsf_farmland_to_grasslands = {
+    game_data = { category = location }
+
+    wsf_is_grasslands_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.10
+    local_distance_from_capital_speed_propagation = 0.05
+    local_road_building_time = -0.20
+    local_population_capacity = -50
+    local_monthly_development_modifier = -0.10
+    local_max_rgo_size_modifier = -0.10
+    local_monthly_food_modifier = -0.23
+    supply_limit = -3
+}
+
+wsf_farmland_to_sparse = {
+    game_data = { category = location }
+
+    wsf_is_sparse_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.10
+    local_distance_from_capital_speed_propagation = 0.05
+    local_road_building_time = -0.30
+    local_population_capacity = -75
+    local_monthly_development_modifier = -0.10
+    local_max_rgo_size_modifier = -0.10
+    local_monthly_food_modifier = -0.33
+    supply_limit = -5
+}
+
+wsf_farmland_to_desert = {
+    game_data = { category = location }
+
+    wsf_is_desert_modifier = yes #just so it has a good icon
+
+    local_rgo_build_time = 0.5
+    local_road_building_time = 0.80
+    local_population_capacity = -90
+    local_monthly_development_modifier = -0.43
+    local_max_rgo_size_modifier = -0.10
+    local_monthly_food_modifier = -0.66
+    supply_limit = -10
+}
+
+
+
+#sparse conversion
+
+wsf_sparse_to_jungle = {
+    game_data = { category = location }
+
+    wsf_is_jungle_modifier = yes #just so it has a good icon
+
+    movement_cost = 1.0
+    local_distance_from_capital_speed_propagation = -0.5
+    defender = 1
+    local_frontage_allowed = -4
+    local_rgo_build_time = 0.5
+    local_road_building_time = 3.10
+    local_population_capacity = 25
+    local_monthly_development_modifier = -0.30
+    local_monthly_food_modifier = 0.1
+}
+
+wsf_sparse_to_forest = {
+    game_data = { category = location }
+
+    wsf_is_forest_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.5
+    local_distance_from_capital_speed_propagation = -0.25
+    defender = 1
+    local_frontage_allowed = -3
+    local_rgo_build_time = 0.33
+    local_road_building_time = 1.10
+    local_monthly_development_modifier = -0.25
+}
+
+wsf_sparse_to_woods = {
+    game_data = { category = location }
+
+    wsf_is_woods_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.25
+    local_distance_from_capital_speed_propagation = -0.125
+    defender = 1
+    local_frontage_allowed = -2
+    local_road_building_time = 0.60
+    local_population_capacity = 25
+    local_monthly_development_modifier = -0.20
+    local_monthly_food_modifier = 0.1
+    supply_limit = 2
+}
+
+wsf_sparse_to_grasslands = {
+    game_data = { category = location }
+
+    wsf_is_grasslands_modifier = yes #just so it has a good icon
+
+    local_road_building_time = 0.10
+    local_population_capacity = 25
+    local_monthly_food_modifier = 0.1
+    supply_limit = 2
+}
+
+wsf_sparse_to_farmland = {
+    game_data = { category = location }
+
+    wsf_is_farmland_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.10
+    local_distance_from_capital_speed_propagation = -0.05
+    local_road_building_time = 0.30
+    local_monthly_development_modifier = 0.10
+    local_max_rgo_size_modifier = 0.10
+    local_monthly_food_modifier = 0.33
+    local_population_capacity = 75
+    supply_limit = 5
+}
+
+wsf_sparse_to_desert = {
+    game_data = { category = location }
+
+    wsf_is_desert_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.1
+    local_distance_from_capital_speed_propagation = -0.05
+    local_rgo_build_time = 0.5
+    local_road_building_time = 1.1
+    local_monthly_development_modifier = -0.33
+    local_monthly_food_modifier = -0.33
+    local_population_capacity = -15
+    supply_limit = -5
+}
+
+
+
+#desert conversion
+
+wsf_desert_to_jungle = {
+    game_data = { category = location }
+
+    wsf_is_jungle_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.9
+    local_distance_from_capital_speed_propagation = -0.45
+    defender = 1
+    local_frontage_allowed = -4
+    local_road_building_time = 2.0
+    local_population_capacity = 40
+    local_monthly_development_modifier = 0.03
+    local_monthly_food_modifier = 0.43
+    supply_limit = 5
+}
+
+wsf_desert_to_forest = {
+    game_data = { category = location }
+
+    wsf_is_forest_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.4
+    local_distance_from_capital_speed_propagation = -0.20
+    defender = 1
+    local_frontage_allowed = -3
+    local_road_building_time = 0.0
+    local_population_capacity = 15
+    local_monthly_development_modifier = 0.08
+    local_monthly_food_modifier = 0.33
+    supply_limit = 5
+}
+
+wsf_desert_to_woods = {
+    game_data = { category = location }
+
+    wsf_is_woods_modifier = yes #just so it has a good icon
+
+    movement_cost = 0.15
+    local_distance_from_capital_speed_propagation = -0.075
+    defender = 1
+    local_frontage_allowed = -2
+    local_road_building_time = -0.50
+    local_population_capacity = 40
+    local_monthly_development_modifier = 0.13
+    local_monthly_food_modifier = 0.43
+    supply_limit = 7
+}
+
+wsf_desert_to_grasslands = {
+    game_data = { category = location }
+
+    wsf_is_grasslands_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.1
+    local_distance_from_capital_speed_propagation = 0.05
+    local_rgo_build_time = -0.5
+    local_road_building_time = -1.0
+    local_population_capacity = 40
+    local_monthly_development_modifier = 0.33
+    local_monthly_food_modifier = 0.43
+    supply_limit = 7
+}
+
+wsf_desert_to_farmland = {
+    game_data = { category = location }
+
+    wsf_is_farmland_modifier = yes #just so it has a good icon
+
+    local_rgo_build_time = -0.5
+    local_road_building_time = -0.80
+    local_monthly_development_modifier = 0.43
+    local_max_rgo_size_modifier = 0.10
+    local_monthly_food_modifier = 0.66
+    local_population_capacity = 90
+    supply_limit = 10
+}
+
+wsf_desert_to_sparse = {
+    game_data = { category = location }
+
+    wsf_is_sparse_modifier = yes #just so it has a good icon
+
+    movement_cost = -0.1
+    local_distance_from_capital_speed_propagation = 0.05
+    local_rgo_build_time = -0.5
+    local_road_building_time = -1.1
+    local_monthly_development_modifier = 0.33
+    local_monthly_food_modifier = 0.33
+    local_population_capacity = 15
+    supply_limit = 5
+}

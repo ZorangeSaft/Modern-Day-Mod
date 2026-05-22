@@ -1,0 +1,424 @@
+﻿#wsfvegchange
+
+
+
+#changed vegetation
+
+wsf_is_jungle = {
+	OR = { #it is ether vegetation based jungle or modifier based jungle, converted from something else
+		vegetation = jungle
+		has_location_modifier = wsf_forest_to_jungle
+		has_location_modifier = wsf_woods_to_jungle
+		has_location_modifier = wsf_grasslands_to_jungle
+		has_location_modifier = wsf_farmland_to_jungle
+		has_location_modifier = wsf_sparse_to_jungle
+		has_location_modifier = wsf_desert_to_jungle
+	}
+	NOR = { #it is not jungle that has been converted away by a modifier. doesnt need to check for vegetation = jungle as well, 
+			#because jungle_to_x should only ever apply to jungles, otherwise something went wrong
+		has_location_modifier = wsf_jungle_to_forest
+		has_location_modifier = wsf_jungle_to_woods
+		has_location_modifier = wsf_jungle_to_grasslands
+		has_location_modifier = wsf_jungle_to_farmland
+		has_location_modifier = wsf_jungle_to_sparse
+		has_location_modifier = wsf_jungle_to_desert
+	}
+}
+
+wsf_is_forest = {
+	OR = {
+		has_location_modifier = wsf_jungle_to_forest
+		vegetation = forest
+		has_location_modifier = wsf_woods_to_forest
+		has_location_modifier = wsf_grasslands_to_forest
+		has_location_modifier = wsf_farmland_to_forest
+		has_location_modifier = wsf_sparse_to_forest
+		has_location_modifier = wsf_desert_to_forest
+	}
+	NOR = {
+		has_location_modifier = wsf_forest_to_jungle
+		has_location_modifier = wsf_forest_to_woods
+		has_location_modifier = wsf_forest_to_grasslands
+		has_location_modifier = wsf_forest_to_farmland
+		has_location_modifier = wsf_forest_to_sparse
+		has_location_modifier = wsf_forest_to_desert
+	}
+}
+
+wsf_is_woods = {
+	OR = {
+		has_location_modifier = wsf_jungle_to_woods
+		has_location_modifier = wsf_forest_to_woods
+		vegetation = woods
+		has_location_modifier = wsf_grasslands_to_woods
+		has_location_modifier = wsf_farmland_to_woods
+		has_location_modifier = wsf_sparse_to_woods
+		has_location_modifier = wsf_desert_to_woods
+	}
+	NOR = {
+		has_location_modifier = wsf_woods_to_jungle
+		has_location_modifier = wsf_woods_to_forest
+		has_location_modifier = wsf_woods_to_grasslands
+		has_location_modifier = wsf_woods_to_farmland
+		has_location_modifier = wsf_woods_to_sparse
+		has_location_modifier = wsf_woods_to_desert
+	}
+}
+
+wsf_is_grasslands = {
+	OR = {
+		has_location_modifier = wsf_jungle_to_grasslands
+		has_location_modifier = wsf_forest_to_grasslands
+		has_location_modifier = wsf_woods_to_grasslands
+		vegetation = grasslands
+		has_location_modifier = wsf_farmland_to_grasslands
+		has_location_modifier = wsf_sparse_to_grasslands
+		has_location_modifier = wsf_desert_to_grasslands
+	}
+	NOR = {
+		has_location_modifier = wsf_grasslands_to_jungle
+		has_location_modifier = wsf_grasslands_to_forest
+		has_location_modifier = wsf_grasslands_to_woods
+		has_location_modifier = wsf_grasslands_to_farmland
+		has_location_modifier = wsf_grasslands_to_sparse
+		has_location_modifier = wsf_grasslands_to_desert
+	}
+}
+
+wsf_is_farmland = {
+	OR = {
+		has_location_modifier = wsf_jungle_to_farmland
+		has_location_modifier = wsf_forest_to_farmland
+		has_location_modifier = wsf_woods_to_farmland
+		has_location_modifier = wsf_grasslands_to_farmland
+		vegetation = farmland
+		has_location_modifier = wsf_sparse_to_farmland
+		has_location_modifier = wsf_desert_to_farmland
+	}
+	NOR = {
+		has_location_modifier = wsf_farmland_to_jungle
+		has_location_modifier = wsf_farmland_to_forest
+		has_location_modifier = wsf_farmland_to_woods
+		has_location_modifier = wsf_farmland_to_grasslands
+		has_location_modifier = wsf_farmland_to_sparse
+		has_location_modifier = wsf_farmland_to_desert
+	}
+}
+
+wsf_is_sparse = {
+	OR = {
+		has_location_modifier = wsf_jungle_to_sparse
+		has_location_modifier = wsf_forest_to_sparse
+		has_location_modifier = wsf_woods_to_sparse
+		has_location_modifier = wsf_grasslands_to_sparse
+		has_location_modifier = wsf_farmland_to_sparse
+		vegetation = sparse
+		has_location_modifier = wsf_desert_to_sparse
+	}
+	NOR = {
+		has_location_modifier = wsf_sparse_to_jungle
+		has_location_modifier = wsf_sparse_to_forest
+		has_location_modifier = wsf_sparse_to_woods
+		has_location_modifier = wsf_sparse_to_grasslands
+		has_location_modifier = wsf_sparse_to_farmland
+		has_location_modifier = wsf_sparse_to_desert
+	}
+}
+
+wsf_is_desert = {
+	OR = {
+		has_location_modifier = wsf_jungle_to_desert
+		has_location_modifier = wsf_forest_to_desert
+		has_location_modifier = wsf_woods_to_desert
+		has_location_modifier = wsf_grasslands_to_desert
+		has_location_modifier = wsf_farmland_to_desert
+		has_location_modifier = wsf_sparse_to_desert
+		vegetation = desert
+	}
+	NOR = {
+		has_location_modifier = wsf_desert_to_jungle
+		has_location_modifier = wsf_desert_to_forest
+		has_location_modifier = wsf_desert_to_woods
+		has_location_modifier = wsf_desert_to_grasslands
+		has_location_modifier = wsf_desert_to_farmland
+		has_location_modifier = wsf_desert_to_sparse
+	}
+}
+
+
+
+
+
+
+
+
+
+
+#changed topography
+
+wsf_is_flatland = {
+	OR = {
+		topography = flatland
+		has_location_modifier = wsf_mountains_to_flatland
+		has_location_modifier = wsf_hills_to_flatland
+		has_location_modifier = wsf_plateau_to_flatland
+		has_location_modifier = wsf_wetlands_to_flatland
+	}
+	NOR = {
+		has_location_modifier = wsf_flatland_to_mountains
+		has_location_modifier = wsf_flatland_to_hills
+		has_location_modifier = wsf_flatland_to_plateau
+		has_location_modifier = wsf_flatland_to_wetlands
+	}
+}
+
+wsf_is_mountains = {
+	OR = {
+		has_location_modifier = wsf_flatland_to_mountains
+		topography = mountains
+		has_location_modifier = wsf_hills_to_mountains
+		has_location_modifier = wsf_plateau_to_mountains
+		has_location_modifier = wsf_wetlands_to_mountains
+	}
+	NOR = {
+		has_location_modifier = wsf_mountains_to_flatland
+		has_location_modifier = wsf_mountains_to_hills
+		has_location_modifier = wsf_mountains_to_plateau
+		has_location_modifier = wsf_mountains_to_wetlands
+	}
+}
+
+wsf_is_hills = {
+	OR = {
+		has_location_modifier = wsf_flatland_to_hills
+		has_location_modifier = wsf_mountains_to_hills
+		topography = hills
+		has_location_modifier = wsf_plateau_to_hills
+		has_location_modifier = wsf_wetlands_to_hills
+	}
+	NOR = {
+		has_location_modifier = wsf_hills_to_flatland
+		has_location_modifier = wsf_hills_to_mountains
+		has_location_modifier = wsf_hills_to_plateau
+		has_location_modifier = wsf_hills_to_wetlands
+	}
+}
+
+wsf_is_plateau = {
+	OR = {
+		has_location_modifier = wsf_flatland_to_plateau
+		has_location_modifier = wsf_mountains_to_plateau
+		has_location_modifier = wsf_hills_to_plateau
+		topography = plateau
+		has_location_modifier = wsf_wetlands_to_plateau
+	}
+	NOR = {
+		has_location_modifier = wsf_plateau_to_flatland
+		has_location_modifier = wsf_plateau_to_mountains
+		has_location_modifier = wsf_plateau_to_hills
+		has_location_modifier = wsf_plateau_to_wetlands
+	}
+}
+
+wsf_is_wetlands = {
+	OR = {
+		has_location_modifier = wsf_flatland_to_wetlands
+		has_location_modifier = wsf_mountains_to_wetlands
+		has_location_modifier = wsf_hills_to_wetlands
+		has_location_modifier = wsf_plateau_to_wetlands
+		topography = wetlands
+	}
+	NOR = {
+		has_location_modifier = wsf_wetlands_to_flatland
+		has_location_modifier = wsf_wetlands_to_mountains
+		has_location_modifier = wsf_wetlands_to_hills
+		has_location_modifier = wsf_wetlands_to_plateau
+	}
+}
+
+
+
+
+
+
+
+
+
+
+#changed climate
+
+wsf_is_tropical = {
+	OR = {
+		climate = tropical
+		has_location_modifier = wsf_subtropical_to_tropical
+		has_location_modifier = wsf_oceanic_to_tropical
+		has_location_modifier = wsf_arid_to_tropical
+		has_location_modifier = wsf_cold_arid_to_tropical
+		has_location_modifier = wsf_mediterranean_to_tropical
+		has_location_modifier = wsf_continental_to_tropical
+		has_location_modifier = wsf_arctic_to_tropical
+	}
+	NOR = {
+		has_location_modifier = wsf_tropical_to_subtropical
+		has_location_modifier = wsf_tropical_to_oceanic
+		has_location_modifier = wsf_tropical_to_arid
+		has_location_modifier = wsf_tropical_to_cold_arid
+		has_location_modifier = wsf_tropical_to_mediterranean
+		has_location_modifier = wsf_tropical_to_continental
+		has_location_modifier = wsf_tropical_to_arctic
+	}
+}
+
+wsf_is_subtropical = {
+	OR = {
+		has_location_modifier = wsf_tropical_to_subtropical
+		climate = subtropical
+		has_location_modifier = wsf_oceanic_to_subtropical
+		has_location_modifier = wsf_arid_to_subtropical
+		has_location_modifier = wsf_cold_arid_to_subtropical
+		has_location_modifier = wsf_mediterranean_to_subtropical
+		has_location_modifier = wsf_continental_to_subtropical
+		has_location_modifier = wsf_arctic_to_subtropical
+	}
+	NOR = {
+		has_location_modifier = wsf_subtropical_to_tropical
+		has_location_modifier = wsf_subtropical_to_oceanic
+		has_location_modifier = wsf_subtropical_to_arid
+		has_location_modifier = wsf_subtropical_to_cold_arid
+		has_location_modifier = wsf_subtropical_to_mediterranean
+		has_location_modifier = wsf_subtropical_to_continental
+		has_location_modifier = wsf_subtropical_to_arctic
+	}
+}
+
+wsf_is_oceanic = {
+	OR = {
+		has_location_modifier = wsf_tropical_to_oceanic
+		has_location_modifier = wsf_subtropical_to_oceanic
+		climate = oceanic
+		has_location_modifier = wsf_arid_to_oceanic
+		has_location_modifier = wsf_cold_arid_to_oceanic
+		has_location_modifier = wsf_mediterranean_to_oceanic
+		has_location_modifier = wsf_continental_to_oceanic
+		has_location_modifier = wsf_arctic_to_oceanic
+	}
+	NOR = {
+		has_location_modifier = wsf_oceanic_to_tropical
+		has_location_modifier = wsf_oceanic_to_subtropical
+		has_location_modifier = wsf_oceanic_to_arid
+		has_location_modifier = wsf_oceanic_to_cold_arid
+		has_location_modifier = wsf_oceanic_to_mediterranean
+		has_location_modifier = wsf_oceanic_to_continental
+		has_location_modifier = wsf_oceanic_to_arctic
+	}
+}
+
+wsf_is_arid = {
+	OR = {
+		has_location_modifier = wsf_tropical_to_arid
+		has_location_modifier = wsf_subtropical_to_arid
+		has_location_modifier = wsf_oceanic_to_arid
+		climate = arid
+		has_location_modifier = wsf_cold_arid_to_arid
+		has_location_modifier = wsf_mediterranean_to_arid
+		has_location_modifier = wsf_continental_to_arid
+		has_location_modifier = wsf_arctic_to_arid
+	}
+	NOR = {
+		has_location_modifier = wsf_arid_to_tropical
+		has_location_modifier = wsf_arid_to_subtropical
+		has_location_modifier = wsf_arid_to_oceanic
+		has_location_modifier = wsf_arid_to_cold_arid
+		has_location_modifier = wsf_arid_to_mediterranean
+		has_location_modifier = wsf_arid_to_continental
+		has_location_modifier = wsf_arid_to_arctic
+	}
+}
+
+wsf_is_cold_arid = {
+	OR = {
+		has_location_modifier = wsf_tropical_to_cold_arid
+		has_location_modifier = wsf_subtropical_to_cold_arid
+		has_location_modifier = wsf_oceanic_to_cold_arid
+		has_location_modifier = wsf_arid_to_cold_arid
+		climate = cold_arid
+		has_location_modifier = wsf_mediterranean_to_cold_arid
+		has_location_modifier = wsf_continental_to_cold_arid
+		has_location_modifier = wsf_arctic_to_cold_arid
+	}
+	NOR = {
+		has_location_modifier = wsf_cold_arid_to_tropical
+		has_location_modifier = wsf_cold_arid_to_subtropical
+		has_location_modifier = wsf_cold_arid_to_oceanic
+		has_location_modifier = wsf_cold_arid_to_arid
+		has_location_modifier = wsf_cold_arid_to_mediterranean
+		has_location_modifier = wsf_cold_arid_to_continental
+		has_location_modifier = wsf_cold_arid_to_arctic
+	}
+}
+
+wsf_is_mediterranean = {
+	OR = {
+		has_location_modifier = wsf_tropical_to_mediterranean
+		has_location_modifier = wsf_subtropical_to_mediterranean
+		has_location_modifier = wsf_oceanic_to_mediterranean
+		has_location_modifier = wsf_arid_to_mediterranean
+		has_location_modifier = wsf_cold_arid_to_mediterranean
+		climate = mediterranean
+		has_location_modifier = wsf_continental_to_mediterranean
+		has_location_modifier = wsf_arctic_to_mediterranean
+	}
+	NOR = {
+		has_location_modifier = wsf_mediterranean_to_tropical
+		has_location_modifier = wsf_mediterranean_to_subtropical
+		has_location_modifier = wsf_mediterranean_to_oceanic
+		has_location_modifier = wsf_mediterranean_to_arid
+		has_location_modifier = wsf_mediterranean_to_cold_arid
+		has_location_modifier = wsf_mediterranean_to_continental
+		has_location_modifier = wsf_mediterranean_to_arctic
+	}
+}
+
+wsf_is_continental = {
+	OR = {
+		has_location_modifier = wsf_tropical_to_continental
+		has_location_modifier = wsf_subtropical_to_continental
+		has_location_modifier = wsf_oceanic_to_continental
+		has_location_modifier = wsf_arid_to_continental
+		has_location_modifier = wsf_cold_arid_to_continental
+		has_location_modifier = wsf_mediterranean_to_continental
+		climate = continental
+		has_location_modifier = wsf_arctic_to_continental
+	}
+	NOR = {
+		has_location_modifier = wsf_continental_to_tropical
+		has_location_modifier = wsf_continental_to_subtropical
+		has_location_modifier = wsf_continental_to_oceanic
+		has_location_modifier = wsf_continental_to_arid
+		has_location_modifier = wsf_continental_to_cold_arid
+		has_location_modifier = wsf_continental_to_mediterranean
+		has_location_modifier = wsf_continental_to_arctic
+	}
+}
+
+wsf_is_arctic = {
+	OR = {
+		has_location_modifier = wsf_tropical_to_arctic
+		has_location_modifier = wsf_subtropical_to_arctic
+		has_location_modifier = wsf_oceanic_to_arctic
+		has_location_modifier = wsf_arid_to_arctic
+		has_location_modifier = wsf_cold_arid_to_arctic
+		has_location_modifier = wsf_mediterranean_to_arctic
+		has_location_modifier = wsf_continental_to_arctic
+		climate = arctic
+	}
+	NOR = {
+		has_location_modifier = wsf_arctic_to_tropical
+		has_location_modifier = wsf_arctic_to_subtropical
+		has_location_modifier = wsf_arctic_to_oceanic
+		has_location_modifier = wsf_arctic_to_arid
+		has_location_modifier = wsf_arctic_to_cold_arid
+		has_location_modifier = wsf_arctic_to_mediterranean
+		has_location_modifier = wsf_arctic_to_continental
+	}
+}

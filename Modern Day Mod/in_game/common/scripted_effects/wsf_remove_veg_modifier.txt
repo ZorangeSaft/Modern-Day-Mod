@@ -1,0 +1,163 @@
+﻿#wsfvegchange
+
+wsf_clear_veg_effect = { #removes all possible vegetation change modifiers
+	remove_location_modifier = wsf_jungle_to_forest
+	remove_location_modifier = wsf_jungle_to_woods
+	remove_location_modifier = wsf_jungle_to_grasslands
+	remove_location_modifier = wsf_jungle_to_farmland
+	remove_location_modifier = wsf_jungle_to_sparse
+	remove_location_modifier = wsf_jungle_to_desert
+	
+	remove_location_modifier = wsf_forest_to_jungle
+	remove_location_modifier = wsf_forest_to_woods
+	remove_location_modifier = wsf_forest_to_grasslands
+	remove_location_modifier = wsf_forest_to_farmland
+	remove_location_modifier = wsf_forest_to_sparse
+	remove_location_modifier = wsf_forest_to_desert
+	
+	remove_location_modifier = wsf_woods_to_jungle
+	remove_location_modifier = wsf_woods_to_forest
+	remove_location_modifier = wsf_woods_to_grasslands
+	remove_location_modifier = wsf_woods_to_farmland
+	remove_location_modifier = wsf_woods_to_sparse
+	remove_location_modifier = wsf_woods_to_desert
+	
+	remove_location_modifier = wsf_grasslands_to_jungle
+	remove_location_modifier = wsf_grasslands_to_forest
+	remove_location_modifier = wsf_grasslands_to_woods
+	remove_location_modifier = wsf_grasslands_to_farmland
+	remove_location_modifier = wsf_grasslands_to_sparse
+	remove_location_modifier = wsf_grasslands_to_desert
+	
+	remove_location_modifier = wsf_farmland_to_jungle
+	remove_location_modifier = wsf_farmland_to_forest
+	remove_location_modifier = wsf_farmland_to_woods
+	remove_location_modifier = wsf_farmland_to_grasslands
+	remove_location_modifier = wsf_farmland_to_sparse
+	remove_location_modifier = wsf_farmland_to_desert
+	
+	remove_location_modifier = wsf_sparse_to_jungle
+	remove_location_modifier = wsf_sparse_to_forest
+	remove_location_modifier = wsf_sparse_to_woods
+	remove_location_modifier = wsf_sparse_to_grasslands
+	remove_location_modifier = wsf_sparse_to_farmland
+	remove_location_modifier = wsf_sparse_to_desert
+	
+	remove_location_modifier = wsf_desert_to_jungle
+	remove_location_modifier = wsf_desert_to_forest
+	remove_location_modifier = wsf_desert_to_woods
+	remove_location_modifier = wsf_desert_to_grasslands
+	remove_location_modifier = wsf_desert_to_farmland
+	remove_location_modifier = wsf_desert_to_sparse
+}
+
+
+
+
+
+
+
+
+
+
+wsf_clear_topo_effect = { #removes all possible topography change modifiers
+	remove_location_modifier = wsf_flatland_to_mountains
+	remove_location_modifier = wsf_flatland_to_hills
+	remove_location_modifier = wsf_flatland_to_plateau
+	remove_location_modifier = wsf_flatland_to_wetlands
+
+	remove_location_modifier = wsf_mountains_to_flatland
+	remove_location_modifier = wsf_mountains_to_hills
+	remove_location_modifier = wsf_mountains_to_plateau
+	remove_location_modifier = wsf_mountains_to_wetlands
+
+	remove_location_modifier = wsf_hills_to_flatland
+	remove_location_modifier = wsf_hills_to_mountains
+	remove_location_modifier = wsf_hills_to_plateau
+	remove_location_modifier = wsf_hills_to_wetlands
+
+	remove_location_modifier = wsf_plateau_to_flatland
+	remove_location_modifier = wsf_plateau_to_mountains
+	remove_location_modifier = wsf_plateau_to_hills
+	remove_location_modifier = wsf_plateau_to_wetlands
+
+	remove_location_modifier = wsf_wetlands_to_flatland
+	remove_location_modifier = wsf_wetlands_to_mountains
+	remove_location_modifier = wsf_wetlands_to_hills
+	remove_location_modifier = wsf_wetlands_to_plateau
+}
+
+
+
+
+
+
+
+
+
+
+wsf_clear_climate_effect = { #removes all possible climate change modifiers
+	remove_location_modifier = wsf_tropical_to_subtropical
+	remove_location_modifier = wsf_tropical_to_oceanic
+	remove_location_modifier = wsf_tropical_to_arid
+	remove_location_modifier = wsf_tropical_to_cold_arid
+	remove_location_modifier = wsf_tropical_to_mediterranean
+	remove_location_modifier = wsf_tropical_to_continental
+	remove_location_modifier = wsf_tropical_to_arctic
+
+	remove_location_modifier = wsf_subtropical_to_tropical
+	remove_location_modifier = wsf_subtropical_to_oceanic
+	remove_location_modifier = wsf_subtropical_to_arid
+	remove_location_modifier = wsf_subtropical_to_cold_arid
+	remove_location_modifier = wsf_subtropical_to_mediterranean
+	remove_location_modifier = wsf_subtropical_to_continental
+	remove_location_modifier = wsf_subtropical_to_arctic
+
+	remove_location_modifier = wsf_oceanic_to_tropical
+	remove_location_modifier = wsf_oceanic_to_subtropical
+	remove_location_modifier = wsf_oceanic_to_arid
+	remove_location_modifier = wsf_oceanic_to_cold_arid
+	remove_location_modifier = wsf_oceanic_to_mediterranean
+	remove_location_modifier = wsf_oceanic_to_continental
+	remove_location_modifier = wsf_oceanic_to_arctic
+
+	remove_location_modifier = wsf_arid_to_tropical
+	remove_location_modifier = wsf_arid_to_subtropical
+	remove_location_modifier = wsf_arid_to_oceanic
+	remove_location_modifier = wsf_arid_to_cold_arid
+	remove_location_modifier = wsf_arid_to_mediterranean
+	remove_location_modifier = wsf_arid_to_continental
+	remove_location_modifier = wsf_arid_to_arctic
+
+	remove_location_modifier = wsf_cold_arid_to_tropical
+	remove_location_modifier = wsf_cold_arid_to_subtropical
+	remove_location_modifier = wsf_cold_arid_to_oceanic
+	remove_location_modifier = wsf_cold_arid_to_arid
+	remove_location_modifier = wsf_cold_arid_to_mediterranean
+	remove_location_modifier = wsf_cold_arid_to_continental
+	remove_location_modifier = wsf_cold_arid_to_arctic
+
+	remove_location_modifier = wsf_mediterranean_to_tropical
+	remove_location_modifier = wsf_mediterranean_to_subtropical
+	remove_location_modifier = wsf_mediterranean_to_oceanic
+	remove_location_modifier = wsf_mediterranean_to_arid
+	remove_location_modifier = wsf_mediterranean_to_cold_arid
+	remove_location_modifier = wsf_mediterranean_to_continental
+	remove_location_modifier = wsf_mediterranean_to_arctic
+
+	remove_location_modifier = wsf_continental_to_tropical
+	remove_location_modifier = wsf_continental_to_subtropical
+	remove_location_modifier = wsf_continental_to_oceanic
+	remove_location_modifier = wsf_continental_to_arid
+	remove_location_modifier = wsf_continental_to_cold_arid
+	remove_location_modifier = wsf_continental_to_mediterranean
+	remove_location_modifier = wsf_continental_to_arctic
+
+	remove_location_modifier = wsf_arctic_to_tropical
+	remove_location_modifier = wsf_arctic_to_subtropical
+	remove_location_modifier = wsf_arctic_to_oceanic
+	remove_location_modifier = wsf_arctic_to_arid
+	remove_location_modifier = wsf_arctic_to_cold_arid
+	remove_location_modifier = wsf_arctic_to_mediterranean
+	remove_location_modifier = wsf_arctic_to_continental
+}

@@ -1,0 +1,116 @@
+﻿#wsfvegchange
+
+#these are just so the location modifier can have an icon, because the icon it picks by default is the one of the first modifier in the block
+
+
+#vegetation change veg change
+
+#ongoing modifier
+
+wsf_is_changing_vegetation_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_changing_vegetation.dds"
+}
+
+
+#is veg modifiers
+
+wsf_is_jungle_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_jungle.dds"
+}
+
+wsf_is_forest_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_forest.dds"
+}
+
+wsf_is_woods_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_woods.dds"
+}
+
+wsf_is_grasslands_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_grasslands.dds"
+}
+
+wsf_is_farmland_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_farmland.dds"
+}
+
+wsf_is_sparse_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_sparse.dds"
+}
+
+wsf_is_desert_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_desert.dds"
+}
+
+
+
+
+
+#topography change
+
+#ongoing modifier
+
+wsf_is_changing_topography_modifier = { #just so it can have a good icon
+	positive = "gfx/interface/icons/modifier_types/wsf_is_changing_topography.dds"
+}
+
+
+#is topo modifiers
+
+wsf_is_flatland_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_flatland.dds"
+}
+
+wsf_is_mountains_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_mountains.dds"
+}
+
+wsf_is_hills_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_hills.dds"
+}
+
+wsf_is_plateau_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_plateau.dds"
+}
+
+wsf_is_wetlands_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_wetlands.dds"
+}
+
+
+
+
+
+#climate change
+
+wsf_is_tropical_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_tropical.dds"
+}
+
+wsf_is_subtropical_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_subtropical.dds"
+}
+
+wsf_is_oceanic_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_oceanic.dds"
+}
+
+wsf_is_arid_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_arid.dds"
+}
+
+wsf_is_cold_arid_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_cold_arid.dds"
+}
+
+wsf_is_mediterranean_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_mediterranean.dds"
+}
+
+wsf_is_continental_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_continental.dds"
+}
+
+wsf_is_arctic_modifier = {
+	positive = "gfx/interface/icons/modifier_types/wsf_is_arctic.dds"
+}

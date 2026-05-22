@@ -1,0 +1,186 @@
+﻿#wsfvegchange
+
+#file has to start with 000 so the modifiers come before the vanilla ones so they are at the top and their icon is used
+
+
+
+#these are just so the location modifier can have an icon
+
+
+#veg change
+
+#ongoing modifier
+
+wsf_is_changing_vegetation_modifier = { #just so it can have a good icon
+	boolean=yes
+	game_data = {
+		category = location
+	}
+}
+
+
+#is veg modifiers
+
+wsf_is_jungle_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_forest_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_woods_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_grasslands_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_farmland_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_sparse_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_desert_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+
+
+
+
+#topography change
+
+#ongoing modifier
+
+wsf_is_changing_topography_modifier = { #just so it can have a good icon
+	boolean=yes
+	game_data = {
+		category = location
+	}
+}
+
+
+#is topo modifiers
+
+wsf_is_flatland_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_mountains_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_hills_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_plateau_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_wetlands_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+
+
+
+
+#climate change
+
+wsf_is_tropical_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_subtropical_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_oceanic_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_arid_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_cold_arid_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_mediterranean_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_continental_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+wsf_is_arctic_modifier = {
+	boolean=yes
+	game_data={
+		category=location
+	}
+}

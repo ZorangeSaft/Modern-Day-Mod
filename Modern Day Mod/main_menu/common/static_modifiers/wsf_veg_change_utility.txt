@@ -1,0 +1,31 @@
+﻿#wsfvegchange
+
+#veg change
+
+wsf_veg_change_ongoing = {
+	game_data = {
+        category = location
+    }
+
+	wsf_is_changing_vegetation_modifier = yes #just so it can have a good icon
+
+    max_constructions_at_same_time = 1 #so changing the vegetation doesnt block you from building
+	local_migration_attraction = 0.2 #people moving to the place to work in changing the vegetation
+	local_production_efficiency = -0.2 #locals going away from their job to work in changing the vegetation, mostly balance
+}
+
+
+
+#topo change
+
+wsf_topo_change_ongoing = {
+	game_data = {
+		category = location
+	}
+
+	wsf_is_changing_topography_modifier = yes #just so it can have a good icon
+
+	max_constructions_at_same_time = 1 #so changing the topo doesnt block you from building
+	local_migration_attraction = 0.2 #people moving to the place to work in changing the topo
+	local_production_efficiency = -0.2 #locals going away from their job to work in changing the topo, mostly balance
+}

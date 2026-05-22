@@ -1,0 +1,948 @@
+﻿#wsfvegchange
+
+
+#set vegetation via static modifiers
+
+wsf_set_veg_to_jungle = { #gives the correct modifier to change the vegetation via modifier based on what the defined normal vegetation is
+	if = {
+		limit = {
+			vegetation = jungle
+		}
+		#do nothing, it is already jungle
+	}
+	else_if = {
+		limit = {
+			vegetation = forest
+		}
+		add_location_modifier = wsf_forest_to_jungle
+	}
+	else_if = {
+		limit = {
+			vegetation = woods
+		}
+		add_location_modifier = wsf_woods_to_jungle
+		}
+	else_if = {
+		limit = {
+			vegetation = grasslands
+		}
+		add_location_modifier = wsf_grasslands_to_jungle
+	}
+	else_if = {
+		limit = {
+			vegetation = farmland
+		}
+		add_location_modifier = wsf_farmland_to_jungle
+	}
+	else_if = {
+		limit = {
+			vegetation = sparse
+		}
+		add_location_modifier = wsf_sparse_to_jungle
+	}
+	else_if = {
+		limit = {
+			vegetation = desert
+		}
+		add_location_modifier = wsf_desert_to_jungle
+	}
+}
+
+
+
+wsf_set_veg_to_forest = {
+	if = {
+		limit = {
+			vegetation = jungle
+		}
+		add_location_modifier = wsf_jungle_to_forest
+	}
+	else_if = {
+		limit = {
+			vegetation = forest
+		}
+		#do nothing, it is already forest
+	}
+	else_if = {
+		limit = {
+			vegetation = woods
+		}
+		add_location_modifier = wsf_woods_to_forest
+		}
+	else_if = {
+		limit = {
+			vegetation = grasslands
+		}
+		add_location_modifier = wsf_grasslands_to_forest
+	}
+	else_if = {
+		limit = {
+			vegetation = farmland
+		}
+		add_location_modifier = wsf_farmland_to_forest
+	}
+	else_if = {
+		limit = {
+			vegetation = sparse
+		}
+		add_location_modifier = wsf_sparse_to_forest
+	}
+	else_if = {
+		limit = {
+			vegetation = desert
+		}
+		add_location_modifier = wsf_desert_to_forest
+	}
+}
+
+
+
+wsf_set_veg_to_woods = {
+	if = {
+		limit = {
+			vegetation = jungle
+		}
+		add_location_modifier = wsf_jungle_to_woods
+	}
+	else_if = {
+		limit = {
+			vegetation = forest
+		}
+		add_location_modifier = wsf_forest_to_woods
+	}
+	else_if = {
+		limit = {
+			vegetation = woods
+		}
+		#do nothing, it is already woods
+	}
+	else_if = {
+		limit = {
+			vegetation = grasslands
+		}
+		add_location_modifier = wsf_grasslands_to_woods
+	}
+	else_if = {
+		limit = {
+			vegetation = farmland
+		}
+		add_location_modifier = wsf_farmland_to_woods
+	}
+	else_if = {
+		limit = {
+			vegetation = sparse
+		}
+		add_location_modifier = wsf_sparse_to_woods
+	}
+	else_if = {
+		limit = {
+			vegetation = desert
+		}
+		add_location_modifier = wsf_desert_to_woods
+	}
+}
+
+
+
+wsf_set_veg_to_grasslands = {
+	if = {
+		limit = {
+			vegetation = jungle
+		}
+		add_location_modifier = wsf_jungle_to_grasslands
+	}
+	else_if = {
+		limit = {
+			vegetation = forest
+		}
+		add_location_modifier = wsf_forest_to_grasslands
+	}
+	else_if = {
+		limit = {
+			vegetation = woods
+		}
+		add_location_modifier = wsf_woods_to_grasslands
+	}
+	else_if = {
+		limit = {
+			vegetation = grasslands
+		}
+		#do nothing, it is already grasslands
+	}
+	else_if = {
+		limit = {
+			vegetation = farmland
+		}
+		add_location_modifier = wsf_farmland_to_grasslands
+	}
+	else_if = {
+		limit = {
+			vegetation = sparse
+		}
+		add_location_modifier = wsf_sparse_to_grasslands
+	}
+	else_if = {
+		limit = {
+			vegetation = desert
+		}
+		add_location_modifier = wsf_desert_to_grasslands
+	}
+}
+
+
+
+wsf_set_veg_to_farmland = {
+	if = {
+		limit = {
+			vegetation = jungle
+		}
+		add_location_modifier = wsf_jungle_to_farmland
+	}
+	else_if = {
+		limit = {
+			vegetation = forest
+		}
+		add_location_modifier = wsf_forest_to_farmland
+	}
+	else_if = {
+		limit = {
+			vegetation = woods
+		}
+		add_location_modifier = wsf_woods_to_farmland
+	}
+	else_if = {
+		limit = {
+			vegetation = grasslands
+		}
+		add_location_modifier = wsf_grasslands_to_farmland
+	}
+	else_if = {
+		limit = {
+			vegetation = farmland
+		}
+		#do nothing, it is already farmland
+	}
+	else_if = {
+		limit = {
+			vegetation = sparse
+		}
+		add_location_modifier = wsf_sparse_to_farmland
+	}
+	else_if = {
+		limit = {
+			vegetation = desert
+		}
+		add_location_modifier = wsf_desert_to_farmland
+	}
+}
+
+
+
+wsf_set_veg_to_sparse = {
+	if = {
+		limit = {
+			vegetation = jungle
+		}
+		add_location_modifier = wsf_jungle_to_sparse
+	}
+	else_if = {
+		limit = {
+			vegetation = forest
+		}
+		add_location_modifier = wsf_forest_to_sparse
+	}
+	else_if = {
+		limit = {
+			vegetation = woods
+		}
+		add_location_modifier = wsf_woods_to_sparse
+	}
+	else_if = {
+		limit = {
+			vegetation = grasslands
+		}
+		add_location_modifier = wsf_grasslands_to_sparse
+	}
+	else_if = {
+		limit = {
+			vegetation = farmland
+		}
+		add_location_modifier = wsf_farmland_to_sparse
+	}
+	else_if = {
+		limit = {
+			vegetation = sparse
+		}
+		#do nothing, it is already sparse
+	}
+	else_if = {
+		limit = {
+			vegetation = desert
+		}
+		add_location_modifier = wsf_desert_to_sparse
+	}
+}
+
+
+
+wsf_set_veg_to_desert = {
+	if = {
+		limit = {
+			vegetation = jungle
+		}
+		add_location_modifier = wsf_jungle_to_desert
+	}
+	else_if = {
+		limit = {
+			vegetation = forest
+		}
+		add_location_modifier = wsf_forest_to_desert
+	}
+	else_if = {
+		limit = {
+			vegetation = woods
+		}
+		add_location_modifier = wsf_woods_to_desert
+	}
+	else_if = {
+		limit = {
+			vegetation = grasslands
+		}
+		add_location_modifier = wsf_grasslands_to_desert
+	}
+	else_if = {
+		limit = {
+			vegetation = farmland
+		}
+		add_location_modifier = wsf_farmland_to_desert
+	}
+	else_if = {
+		limit = {
+			vegetation = sparse
+		}
+		add_location_modifier = wsf_sparse_to_desert
+	}
+	else_if = {
+		limit = {
+			vegetation = desert
+		}
+		#do nothing, it is already desert
+	}
+}
+
+
+
+
+
+
+
+
+
+
+#set topography via static modifiers
+
+wsf_set_topo_to_flatland = {
+	if = {
+		limit = {
+			topography = flatland
+		}
+		#do nothing, it is already flatland
+	}
+	else_if = {
+		limit = {
+			topography = mountains
+		}
+		add_location_modifier = wsf_mountains_to_flatland
+	}
+	else_if = {
+		limit = {
+			topography = hills
+		}
+		add_location_modifier = wsf_hills_to_flatland
+	}
+	else_if = {
+		limit = {
+			topography = plateau
+		}
+		add_location_modifier = wsf_plateau_to_flatland
+	}
+	else_if = {
+		limit = {
+			topography = wetlands
+		}
+		add_location_modifier = wsf_wetlands_to_flatland
+	}
+}
+
+
+
+wsf_set_topo_to_mountains = {
+	if = {
+		limit = {
+			topography = flatland
+		}
+		add_location_modifier = wsf_flatland_to_mountains
+	}
+	else_if = {
+		limit = {
+			topography = mountains
+		}
+		#do nothing, it is already mountains
+	}
+	else_if = {
+		limit = {
+			topography = hills
+		}
+		add_location_modifier = wsf_hills_to_mountains
+	}
+	else_if = {
+		limit = {
+			topography = plateau
+		}
+		add_location_modifier = wsf_plateau_to_mountains
+	}
+	else_if = {
+		limit = {
+			topography = wetlands
+		}
+		add_location_modifier = wsf_wetlands_to_mountains
+	}
+}
+
+
+
+wsf_set_topo_to_hills = {
+	if = {
+		limit = {
+			topography = flatland
+		}
+		add_location_modifier = wsf_flatland_to_hills
+	}
+	else_if = {
+		limit = {
+			topography = mountains
+		}
+		add_location_modifier = wsf_mountains_to_hills
+	}
+	else_if = {
+		limit = {
+			topography = hills
+		}
+		#do nothing, it is already hills
+	}
+	else_if = {
+		limit = {
+			topography = plateau
+		}
+		add_location_modifier = wsf_plateau_to_hills
+	}
+	else_if = {
+		limit = {
+			topography = wetlands
+		}
+		add_location_modifier = wsf_wetlands_to_hills
+	}
+}
+
+
+
+wsf_set_topo_to_plateau = {
+	if = {
+		limit = {
+			topography = flatland
+		}
+		add_location_modifier = wsf_flatland_to_plateau
+	}
+	else_if = {
+		limit = {
+			topography = mountains
+		}
+		add_location_modifier = wsf_mountains_to_plateau
+	}
+	else_if = {
+		limit = {
+			topography = hills
+		}
+		add_location_modifier = wsf_hills_to_plateau
+	}
+	else_if = {
+		limit = {
+			topography = plateau
+		}
+		#do nothing, it is already plateau
+	}
+	else_if = {
+		limit = {
+			topography = wetlands
+		}
+		add_location_modifier = wsf_wetlands_to_plateau
+	}
+}
+
+
+
+wsf_set_topo_to_wetlands = {
+	if = {
+		limit = {
+			topography = flatland
+		}
+		add_location_modifier = wsf_flatland_to_wetlands
+	}
+	else_if = {
+		limit = {
+			topography = mountains
+		}
+		add_location_modifier = wsf_mountains_to_wetlands
+	}
+	else_if = {
+		limit = {
+			topography = hills
+		}
+		add_location_modifier = wsf_hills_to_wetlands
+	}
+	else_if = {
+		limit = {
+			topography = plateau
+		}
+		add_location_modifier = wsf_plateau_to_wetlands
+	}
+	else_if = {
+		limit = {
+			topography = wetlands
+		}
+		#do nothing, it is already wetlands
+	}
+}
+
+
+
+
+
+
+
+
+
+
+#set climate via static modifiers
+
+wsf_set_climate_to_tropical = {
+	if = {
+		limit = {
+			climate = tropical
+		}
+		#do nothing, it is already tropical
+	}
+	else_if = {
+		limit = {
+			climate = subtropical
+		}
+		add_location_modifier = wsf_subtropical_to_tropical
+	}
+	else_if = {
+		limit = {
+			climate = oceanic
+		}
+		add_location_modifier = wsf_oceanic_to_tropical
+	}
+	else_if = {
+		limit = {
+			climate = arid
+		}
+		add_location_modifier = wsf_arid_to_tropical
+	}
+	else_if = {
+		limit = {
+			climate = cold_arid
+		}
+		add_location_modifier = wsf_cold_arid_to_tropical
+	}
+	else_if = {
+		limit = {
+			climate = mediterranean
+		}
+		add_location_modifier = wsf_mediterranean_to_tropical
+	}
+	else_if = {
+		limit = {
+			climate = continental
+		}
+		add_location_modifier = wsf_continental_to_tropical
+	}
+	else_if = {
+		limit = {
+			climate = arctic
+		}
+		add_location_modifier = wsf_arctic_to_tropical
+	}
+}
+
+
+
+wsf_set_climate_to_subtropical = {
+	if = {
+		limit = {
+			climate = tropical
+		}
+		add_location_modifier = wsf_tropical_to_subtropical
+	}
+	else_if = {
+		limit = {
+			climate = subtropical
+		}
+		#do nothing, it is already subtropical
+	}
+	else_if = {
+		limit = {
+			climate = oceanic
+		}
+		add_location_modifier = wsf_oceanic_to_subtropical
+	}
+	else_if = {
+		limit = {
+			climate = arid
+		}
+		add_location_modifier = wsf_arid_to_subtropical
+	}
+	else_if = {
+		limit = {
+			climate = cold_arid
+		}
+		add_location_modifier = wsf_cold_arid_to_subtropical
+	}
+	else_if = {
+		limit = {
+			climate = mediterranean
+		}
+		add_location_modifier = wsf_mediterranean_to_subtropical
+	}
+	else_if = {
+		limit = {
+			climate = continental
+		}
+		add_location_modifier = wsf_continental_to_subtropical
+	}
+	else_if = {
+		limit = {
+			climate = arctic
+		}
+		add_location_modifier = wsf_arctic_to_subtropical
+	}
+}
+
+
+
+wsf_set_climate_to_oceanic = {
+	if = {
+		limit = {
+			climate = tropical
+		}
+		add_location_modifier = wsf_tropical_to_oceanic
+	}
+	else_if = {
+		limit = {
+			climate = subtropical
+		}
+		add_location_modifier = wsf_subtropical_to_oceanic
+	}
+	else_if = {
+		limit = {
+			climate = oceanic
+		}
+		#do nothing, it is already oceanic
+	}
+	else_if = {
+		limit = {
+			climate = arid
+		}
+		add_location_modifier = wsf_arid_to_oceanic
+	}
+	else_if = {
+		limit = {
+			climate = cold_arid
+		}
+		add_location_modifier = wsf_cold_arid_to_oceanic
+	}
+	else_if = {
+		limit = {
+			climate = mediterranean
+		}
+		add_location_modifier = wsf_mediterranean_to_oceanic
+	}
+	else_if = {
+		limit = {
+			climate = continental
+		}
+		add_location_modifier = wsf_continental_to_oceanic
+	}
+	else_if = {
+		limit = {
+			climate = arctic
+		}
+		add_location_modifier = wsf_arctic_to_oceanic
+	}
+}
+
+
+
+wsf_set_climate_to_arid = {
+	if = {
+		limit = {
+			climate = tropical
+		}
+		add_location_modifier = wsf_tropical_to_arid
+	}
+	else_if = {
+		limit = {
+			climate = subtropical
+		}
+		add_location_modifier = wsf_subtropical_to_arid
+	}
+	else_if = {
+		limit = {
+			climate = oceanic
+		}
+		add_location_modifier = wsf_oceanic_to_arid
+	}
+	else_if = {
+		limit = {
+			climate = arid
+		}
+		#do nothing, it is already arid
+	}
+	else_if = {
+		limit = {
+			climate = cold_arid
+		}
+		add_location_modifier = wsf_cold_arid_to_arid
+	}
+	else_if = {
+		limit = {
+			climate = mediterranean
+		}
+		add_location_modifier = wsf_mediterranean_to_arid
+	}
+	else_if = {
+		limit = {
+			climate = continental
+		}
+		add_location_modifier = wsf_continental_to_arid
+	}
+	else_if = {
+		limit = {
+			climate = arctic
+		}
+		add_location_modifier = wsf_arctic_to_arid
+	}
+}
+
+
+
+wsf_set_climate_to_cold_arid = {
+	if = {
+		limit = {
+			climate = tropical
+		}
+		add_location_modifier = wsf_tropical_to_cold_arid
+	}
+	else_if = {
+		limit = {
+			climate = subtropical
+		}
+		add_location_modifier = wsf_subtropical_to_cold_arid
+	}
+	else_if = {
+		limit = {
+			climate = oceanic
+		}
+		add_location_modifier = wsf_oceanic_to_cold_arid
+	}
+	else_if = {
+		limit = {
+			climate = arid
+		}
+		add_location_modifier = wsf_arid_to_cold_arid
+	}
+	else_if = {
+		limit = {
+			climate = cold_arid
+		}
+		#do nothing, it is already cold_arid
+	}
+	else_if = {
+		limit = {
+			climate = mediterranean
+		}
+		add_location_modifier = wsf_mediterranean_to_cold_arid
+	}
+	else_if = {
+		limit = {
+			climate = continental
+		}
+		add_location_modifier = wsf_continental_to_cold_arid
+	}
+	else_if = {
+		limit = {
+			climate = arctic
+		}
+		add_location_modifier = wsf_arctic_to_cold_arid
+	}
+}
+
+
+
+wsf_set_climate_to_mediterranean = {
+	if = {
+		limit = {
+			climate = tropical
+		}
+		add_location_modifier = wsf_tropical_to_mediterranean
+	}
+	else_if = {
+		limit = {
+			climate = subtropical
+		}
+		add_location_modifier = wsf_subtropical_to_mediterranean
+	}
+	else_if = {
+		limit = {
+			climate = oceanic
+		}
+		add_location_modifier = wsf_oceanic_to_mediterranean
+	}
+	else_if = {
+		limit = {
+			climate = arid
+		}
+		add_location_modifier = wsf_arid_to_mediterranean
+	}
+	else_if = {
+		limit = {
+			climate = cold_arid
+		}
+		add_location_modifier = wsf_cold_arid_to_mediterranean
+	}
+	else_if = {
+		limit = {
+			climate = mediterranean
+		}
+		#do nothing, it is already mediterranean
+	}
+	else_if = {
+		limit = {
+			climate = continental
+		}
+		add_location_modifier = wsf_continental_to_mediterranean
+	}
+	else_if = {
+		limit = {
+			climate = arctic
+		}
+		add_location_modifier = wsf_arctic_to_mediterranean
+	}
+}
+
+
+
+wsf_set_climate_to_continental = {
+	if = {
+		limit = {
+			climate = tropical
+		}
+		add_location_modifier = wsf_tropical_to_continental
+	}
+	else_if = {
+		limit = {
+			climate = subtropical
+		}
+		add_location_modifier = wsf_subtropical_to_continental
+	}
+	else_if = {
+		limit = {
+			climate = oceanic
+		}
+		add_location_modifier = wsf_oceanic_to_continental
+	}
+	else_if = {
+		limit = {
+			climate = arid
+		}
+		add_location_modifier = wsf_arid_to_continental
+	}
+	else_if = {
+		limit = {
+			climate = cold_arid
+		}
+		add_location_modifier = wsf_cold_arid_to_continental
+	}
+	else_if = {
+		limit = {
+			climate = mediterranean
+		}
+		add_location_modifier = wsf_mediterranean_to_continental
+	}
+	else_if = {
+		limit = {
+			climate = continental
+		}
+		#do nothing, it is already continental
+	}
+	else_if = {
+		limit = {
+			climate = arctic
+		}
+		add_location_modifier = wsf_arctic_to_continental
+	}
+}
+
+
+
+wsf_set_climate_to_arctic = {
+	if = {
+		limit = {
+			climate = tropical
+		}
+		add_location_modifier = wsf_tropical_to_arctic
+	}
+	else_if = {
+		limit = {
+			climate = subtropical
+		}
+		add_location_modifier = wsf_subtropical_to_arctic
+	}
+	else_if = {
+		limit = {
+			climate = oceanic
+		}
+		add_location_modifier = wsf_oceanic_to_arctic
+	}
+	else_if = {
+		limit = {
+			climate = arid
+		}
+		add_location_modifier = wsf_arid_to_arctic
+	}
+	else_if = {
+		limit = {
+			climate = cold_arid
+		}
+		add_location_modifier = wsf_cold_arid_to_arctic
+	}
+	else_if = {
+		limit = {
+			climate = mediterranean
+		}
+		add_location_modifier = wsf_mediterranean_to_arctic
+	}
+	else_if = {
+		limit = {
+			climate = continental
+		}
+		add_location_modifier = wsf_continental_to_arctic
+	}
+	else_if = {
+		limit = {
+			climate = arctic
+		}
+		#do nothing, it is already arctic
+	}
+}

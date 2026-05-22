@@ -1,0 +1,81 @@
+﻿#wsfvegchange
+
+#this is a seperate file so mods can easily replace only this one, to make the definitions for the continents more granular for example, 
+#or to change them to fantasy continents. 
+#EDIT: fantasy mods should instead use vanilla continents to represent their equivalent places, anbennar did the same in eu4
+
+
+#rgos
+
+wsf_has_desirable_rgo = {
+	OR = { #mostly mining related, dont wanna remove those
+		raw_material = goods:iron
+		raw_material = goods:goods_gold
+		raw_material = goods:silver
+		raw_material = goods:tin
+		raw_material = goods:copper
+		raw_material = goods:coal
+		raw_material = goods:saltpeter
+		raw_material = goods:lead
+		raw_material = goods:gems
+		raw_material = goods:amber
+		raw_material = goods:mercury
+		raw_material = goods:pearls
+		raw_material = goods:marble
+		raw_material = goods:alum
+		raw_material = goods:silk
+		raw_material = goods:dyes
+	}
+}
+
+wsf_has_farming_rgo = { #UNUSED
+	OR = { #so already existing farming rgos dont get replaced when making farmland
+		raw_material = goods:wheat
+		raw_material = goods:millet #sturdy grains are called millet on the backend
+		raw_material = goods:maize
+		raw_material = goods:legumes
+		raw_material = goods:fruit
+		raw_material = goods:olives
+		raw_material = goods:rice
+		raw_material = goods:potato
+	}
+}
+
+
+
+#UNUSED, i tried to use random_list to make the veg change buildings randomly change the rgo, but random_list doesnt work on effects executed by buildings, and it also blew up the economy because the game is not designed for so many rgo changes
+
+#continents
+
+#every continent has legumes, fruit and livestock
+#only farmable and husbandry/grazing goods that give good in game have been added, and also horses for when making grasslands
+
+wsf_is_in_europe_equivalent = { #has wheat, sturdy grains, legumes, fruit, olives, livestock, wool, horses
+	OR = {
+		continent = continent:europe
+		sub_continent = sub_continent:north_africa #basegame north africa is included in europe instead of africa because of the similar rgos
+	}
+}
+
+wsf_is_in_asia_equivalent = { #has wheat, sturdy grains, legumes, fruit, rice, olives, livestock, wool, horses
+	continent = continent:asia
+}
+
+wsf_is_in_africa_equivalent = { #has wheat, sturdy grains, legumes, fruit, rice, livestock
+	continent = continent:africa
+	NOT = {
+		sub_continent = sub_continent:north_africa #basegame north africa is not included with africa because of the similar rgos it has to europe
+	}
+}
+
+wsf_is_in_north_america_equivalent = { #has maize, legumes, fruit, livestock in basegame
+	sub_continent = sub_continent:north_america #technically a subcontinent in game
+}
+
+wsf_is_in_south_america_equivalent = { #has maize, legumes, fruit, potatoes, livestock in basegame
+	sub_continent = sub_continent:south_america #technically a subcontinent in game, seperated because only the south has potatoes
+}
+
+wsf_is_in_australasia_equivalent = { #has sturdy grains, legumes, fruit, livestock
+	continent = continent:australasia
+}
