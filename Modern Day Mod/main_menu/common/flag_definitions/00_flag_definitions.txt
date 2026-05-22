@@ -487,45 +487,6 @@ ANC = { # Ancona
 	}
 }
 
-ANG = { # Angoulême - with the cadency mark if Orléans exists
-	flag_definition = {
-		coa = ANG
-		priority = 1
-	}
-	flag_definition = {
-		coa = ORL
-		priority = 10
-		trigger = {
-			coa_def_capetian_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = ORL_three_fleurs
-		priority = 11
-		trigger = {
-			coa_def_capetian_trigger = yes
-			coa_def_discovery_age_3_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = ANG_capetian
-		priority = 50
-		trigger = {
-			country_exists = c:ORL
-			coa_def_capetian_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = ANG_france
-		priority = 60
-		trigger = {
-			country_exists = c:ORL
-			coa_def_capetian_trigger = yes
-			coa_def_discovery_age_3_trigger = yes
-		}
-	}
-}
-
 ANG = { # mdm modern day mod Angola
 	flag_definition = {
 		coa = mdm_ANG_today

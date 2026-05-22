@@ -1,6 +1,0 @@
-﻿local_oil_output_modifier={
-	percent=yes
-	game_data={
-		category=location
-	}
-}

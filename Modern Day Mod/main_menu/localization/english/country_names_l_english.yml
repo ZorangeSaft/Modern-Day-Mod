@@ -443,7 +443,7 @@
  # Germany Name Fix Example by iomhar
  GER: "Germany"
  GER_ADJ: "German"
- GER_LONG: "Federal Republic of Germany"
+ #GER_LONG: "Federal Republic of Germany"
 
  #building based countries
  EUROP: "European Union"
