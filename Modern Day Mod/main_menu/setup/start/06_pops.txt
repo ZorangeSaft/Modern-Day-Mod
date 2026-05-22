@@ -122890,14 +122890,6 @@ new3 = {
          type = peasants
       }
    }
-   tian_shan17 = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
    hissar_mountains4 = {
       define_pop = {
          culture = mdm_socal_culture

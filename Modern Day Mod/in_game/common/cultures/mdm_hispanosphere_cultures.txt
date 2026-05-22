@@ -142,3 +142,27 @@ mdm_mexican_culture = {
 		mdm_hispanic_group
 	}
 }
+
+
+
+
+
+
+#added to clear error log
+
+castilian = { 
+	language = castilian_dialect
+	
+	color = rgb { 170 50 50 }
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		leonese = kindred
+	}
+	
+	culture_groups = {
+		iberian_group
+		mdm_hispanosphere_group
+	}
+}
