@@ -124,6 +124,18 @@ mdm_ARM_today = { # mdm modern day mod Armenia
 	color3 = rgb { 242 170 0 }
 }
 
+mdm_ART_today = { # mdm modern day mod Nagorno-Karabakh
+	pattern = "pattern_tricolor_horizontal_01.dds"
+	color1 = rgb { 218 0 10 }
+	color2 = rgb { 0 48 161 }
+	color3 = rgb { 242 170 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_nagorno_karabakh.dds"
+		color1 = "white"
+	}
+}
+
 mdm_AST_today = { # mdm modern day mod Australia
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 0 27 105 }

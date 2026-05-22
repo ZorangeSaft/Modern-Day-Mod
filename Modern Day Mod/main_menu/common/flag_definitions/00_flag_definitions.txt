@@ -715,6 +715,13 @@ ARS = { # Artois
 	}
 }
 
+ART = { # mdm modern day mod Nagorno-Karabakh
+	flag_definition = {
+		coa = mdm_ART_today
+		priority = 1
+	}
+}
+
 ASC = { # Ascoli   
 	flag_definition = {
 		coa = ASC
