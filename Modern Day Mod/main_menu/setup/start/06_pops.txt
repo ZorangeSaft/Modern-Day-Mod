@@ -20827,7 +20827,7 @@ locations = {
    tutonchany = {      define_pop = {         culture = uchami_culture         religion = tungusic_shamanism         size = 0.157         type = tribesmen      }   }
    nimde = {      define_pop = {         culture = uchami_culture         religion = tungusic_shamanism         size = 0.157         type = tribesmen      }   }
    erachimo = {      define_pop = {         culture = nganasan_culture         religion = samoyedic_paganism         size = 0.157         type = tribesmen      }   }
-      new1 = {
+   new1 = {
       define_pop = {
          culture = mdm_socal_culture
          religion = catholic
@@ -20843,7 +20843,7 @@ locations = {
          type = peasants
       }
    }
-new3 = {
+   new3 = {
       define_pop = {
          culture = mdm_socal_culture
          religion = catholic
