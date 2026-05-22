@@ -620,7 +620,6 @@
  norman_dialect: "Norman"
  burgundian_dialect: "Burgundian"
  angevin_dialect: "Armorican"
- mdm_walloon_dialect: "Walloon"
  poitevin_dialect: "Poitevin"
  arpitan_dialect: "Arpitan"
  basque_language: "$basque$"
@@ -632,7 +631,6 @@
  upper_german_dialect: "High German"
  alemannic_dialect: "Alemannic"
  yiddish_dialect: "Yiddish"
- dutch_dialect: "Dutch"
  albanian_language: "Albanian"
  finnish_language: "Finnic"
  finnish_dialect: "Finnish"
@@ -2984,3 +2982,20 @@
  #hispanosphere dialects
 
  mdm_mexican_dialect: "Mexican" #placeholder
+
+
+ mdm_dutch_group: "Dutch"
+ mdm_dutch_culture: "Dutch"
+ mdm_dutch_language: "Dutch"
+ mdm_dutch_dialect: "Dutch"
+
+ mdm_belgian_group: "Belgian"
+ mdm_walloon_culture: "Walloon"
+ mdm_walloon_dialect: "Walloon"
+
+ mdm_luxembourgish_group: "Luxembourgish"
+ mdm_luxembourgish_culture: "Luxembourgish"
+ mdm_luxembourgish_language: "Luxembourgish"
+ mdm_luxembourgish_dialect: "Luxembourgish"
+
+ mdm_benelux_group: "Benelux"

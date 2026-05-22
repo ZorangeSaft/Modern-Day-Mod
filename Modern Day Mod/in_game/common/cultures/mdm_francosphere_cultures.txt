@@ -111,6 +111,7 @@ walloon = {
 		mdm_francosphere_group
 		french_group
 		mdm_belgian_group
+		mdm_benelux_group
 	}
 }
 

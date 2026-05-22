@@ -1,0 +1,112 @@
+﻿mdm_dutch_language = {
+	color = map_dutch
+	family = germanic_language_family
+
+	patronym_suffix_son = "patronym_suffix_dutch_son"
+	patronym_suffix_daughter = "patronym_suffix_dutch_daughter"
+
+	male_names = {
+		#from language
+		name_alexander name_alfred name_albert name_abraham name_alphonse name_andrew name_anthony
+		name_baldwin name_balthazar name_bernard.name_sigmund name_bernard name_berthold 
+		name_casper name_charles name_christopher name_conrad name_constantine name_christian
+		name_erwin name_emmanuel name_ernest name_everard
+		name_frederick name_felix
+		name_george name_gerard name_godfrey name_gregory
+		name_henry name_hector
+		name_james name_john name_john.name_albert name_john.name_george
+		name_lambert name_leonard name_leopold name_laurence
+		name_mark name_matthias name_maurice name_maximilian 
+		name_nicholas
+		name_philip name_peter
+		name_reginar name_richard name_robert name_reginald
+		name_simeon name_stephen name_sigfrid
+		name_theodoric name_thomas name_theobald
+		name_victor name_walter
+
+		#from dialect
+		name_adrian name_agmund name_alvin name_ambrose name_arnold name_arnulf name_alberic
+		name_balderick name_bartholomew name_bavo
+		name_cornelius
+		name_david name_daniel name_douwe
+		name_edward name_egbert name_emmo name_engelbert name_edwin name_eggricus
+		name_florence name_fulbert name_francis
+		name_gerald name_gerulf name_gisbert name_gilbert name_gottschalk name_godwin name_gabriel name_gerben
+		name_herman name_hubert name_hugh name_hieronymus
+		name_isbrand name_isaac
+		name_joseph
+		name_louis name_leutwin name_leutbert
+		name_martin name_michael
+		name_oliver name_otto
+		name_paul
+		name_rudolf name_roland name_roger
+		name_sebastian name_sixtus name_sten
+		name_theudulf
+		name_vincent
+		name_wido name_walderam name_william
+		name_zechariah
+	}
+	female_names = {
+		#from language
+		name_adelaide name_amelia name_adela name_adriana name_angela name_alexandra name_anna name_ava name_agnes name_agatha name_anna.name_lisa
+		name_bridget name_barbara
+		name_catherine name_cecile name_claire name_clarice name_constance
+		name_dorothy
+		name_eleanor name_elisa name_elizabeth name_emily name_ester
+		name_frances
+		name_gertrude
+		name_helen
+		name_joanna name_judith name_julianne
+		name_laura name_lisa name_louise
+		name_madeleine name_margaret name_matilda name_mary name_mary.name_madeleine name_martha
+		name_petra
+		name_sophia name_susan
+		name_theresa
+		name_ursula
+		name_victoria
+		name_waltrude
+
+		#from dialect
+		name_ada name_aechte name_alice
+		name_beatrix name_benedicta name_blanchefleur
+		name_clemence
+		name_emma name_ermengard
+		name_ferdinanda name_frieda
+		name_gerda name_gudula
+		name_hildegard
+		name_ida name_irene
+		name_jacqueline name_jasmine name_josephine
+		name_ludwina
+		name_oda
+		name_philippa name_pieternelle name_petronilla
+		name_reinhild name_rosa.name_anna name_rosa
+		name_sigrid
+		name_tamara name_tiburge
+		name_wendel name_willelma name_wineke
+		name_yolande name_yvonne
+	}
+	dynasty_names = {
+		van_oranje van_wassenberg van_henegouwen
+		van_haspinga van_limburg van_lotharingen
+		van_leuven van_brabant van_egmont de_reginar van_julich_hengebach
+		van_loon von_geldern van_sulzbach
+		van_heinsberg van_de_veluwe de_graeff
+		van_brederode van_breda van_heemskerk van_glymes van_grimberghe
+		van_renesse van_wassenaer van_bronckhorst
+		van_keppel van_voorst_tot_voorst van_wisch van_kamerijk cirksena
+		van_diest van_montfoort Grelle_dynasty
+	}
+	lowborn = {
+		Bruegel Bogerman Stevin Elzevir Liorne Erasmus Grotius de_witt heinsius Arminius Gomarus
+		Post leeghwater van_leeuwenhoek de_ruyter
+
+		Uiterwijk de_ouden Sas de_jong janssen bakker van_dijk van_bergh visser smid meijer
+	}
+	location_prefix = "location_prefix_dutch"
+
+	dialects = {
+		mdm_dutch_dialect = {
+			default = yes
+		}
+	}
+}

@@ -1070,7 +1070,7 @@ LIEC = {
 LUX = {
 	color = rgb { 65  175  179 } #{ 53  140  73 }
 	color2 = rgb { 65  175  179 } #{ 53  140  73 }
-	culture_definition = rhine_franconian
+	culture_definition = mdm_luxembourgish_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1290,7 +1290,7 @@ NCYP = {
 NED = {
 	color = rgb { 203  138  74 } #{ 220  138  57 }
 	color2 = rgb { 203  138  74 } #{ 220  138  57 }
-	culture_definition = low_franconian
+	culture_definition = mdm_dutch_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2

@@ -760,14 +760,8 @@ mdm_francosphere_group = { #france and former french colonies
 
 
 
-#dutch culture groups
-
-mdm_dutch_group = {
-}
-
-
-
-#belgian culture groups
-
-mdm_belgian_group = {
-}
+#benelux culture groups
+mdm_benelux_group = {}
+mdm_dutch_group = {}
+mdm_belgian_group = {}
+mdm_luxembourgish_group = {}

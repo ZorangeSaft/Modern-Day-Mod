@@ -9041,7 +9041,7 @@ locations = {
    }
     luxembourg = {
       define_pop = {
-         culture = moselle_franconian
+         culture = mdm_luxembourgish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9057,7 +9057,7 @@ locations = {
    }
     vianden = {
       define_pop = {
-         culture = moselle_franconian
+         culture = mdm_luxembourgish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9081,7 +9081,7 @@ locations = {
    }
     arlon = {
       define_pop = {
-         culture = walloon
+         culture = mdm_luxembourgish_culture
          religion = catholic
          size = 1.000
          type = peasants
