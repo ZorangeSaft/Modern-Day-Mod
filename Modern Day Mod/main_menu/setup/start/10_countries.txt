@@ -19,8 +19,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -138,8 +136,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -160,8 +156,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -203,8 +197,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -225,8 +217,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -268,8 +258,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -291,8 +279,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -313,8 +299,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -381,8 +365,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -406,8 +388,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -428,8 +408,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -450,8 +428,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -476,8 +452,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -498,8 +472,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -520,8 +492,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -545,8 +515,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -579,8 +547,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -601,8 +567,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -624,8 +588,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -647,8 +609,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -680,8 +640,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -704,8 +662,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -729,8 +685,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -841,8 +795,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -867,8 +819,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -896,8 +846,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -918,8 +866,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -941,8 +887,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -968,8 +912,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1090,8 +1032,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1148,8 +1088,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1170,8 +1108,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1434,8 +1370,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1474,8 +1408,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1512,8 +1444,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1534,8 +1464,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1559,8 +1487,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1582,8 +1508,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1605,8 +1529,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1627,8 +1549,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1653,8 +1573,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1678,8 +1596,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1700,8 +1616,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1727,8 +1641,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1754,8 +1666,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1776,8 +1686,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1798,8 +1706,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1820,8 +1726,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1844,8 +1748,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1884,8 +1786,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1917,8 +1817,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1949,8 +1847,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1971,8 +1867,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -1993,8 +1887,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2016,8 +1908,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2040,8 +1930,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2062,8 +1950,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2094,8 +1980,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2116,8 +2000,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2157,8 +2039,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2188,8 +2068,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2270,8 +2148,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2294,8 +2170,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2316,8 +2190,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2338,8 +2210,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2389,8 +2259,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2418,8 +2286,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2484,8 +2350,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2509,8 +2373,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2549,8 +2411,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2571,8 +2431,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2596,8 +2454,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2620,8 +2476,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2643,8 +2497,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2673,8 +2525,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2696,8 +2546,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2718,8 +2566,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2742,8 +2588,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2769,8 +2613,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2793,8 +2635,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2918,8 +2758,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -2989,8 +2827,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3065,8 +2901,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3099,8 +2933,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3128,8 +2960,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3154,8 +2984,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3209,8 +3037,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3233,8 +3059,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3255,8 +3079,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3320,8 +3142,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3344,8 +3164,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3390,8 +3208,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3415,8 +3231,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3440,8 +3254,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3464,8 +3276,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3486,8 +3296,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3508,8 +3316,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3534,8 +3340,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3561,8 +3365,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3586,8 +3388,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3608,8 +3408,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3630,8 +3428,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3653,8 +3449,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3683,8 +3477,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3705,8 +3497,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3731,8 +3521,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3753,8 +3541,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3775,8 +3561,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3798,8 +3582,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3828,8 +3610,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3859,8 +3639,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3888,8 +3666,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3910,8 +3686,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3933,8 +3707,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3957,8 +3729,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -3979,8 +3749,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4005,8 +3773,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4081,8 +3847,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4116,8 +3880,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4141,8 +3903,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4168,8 +3928,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4207,8 +3965,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4246,8 +4002,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4275,8 +4029,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4315,8 +4067,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4341,8 +4091,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4363,8 +4111,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4391,8 +4137,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4417,8 +4161,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4441,8 +4183,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4469,8 +4209,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4505,8 +4243,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4527,8 +4263,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4555,8 +4289,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4587,8 +4319,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4614,8 +4344,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4658,8 +4386,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4687,8 +4413,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4730,8 +4454,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4751,8 +4473,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4773,8 +4493,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4797,8 +4515,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4830,8 +4546,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4855,8 +4569,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4900,8 +4612,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4934,8 +4644,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -4987,8 +4695,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5016,8 +4722,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5038,8 +4742,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5075,8 +4777,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5322,8 +5022,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5344,8 +5042,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5380,8 +5076,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5402,8 +5096,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5424,8 +5116,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5489,8 +5179,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5515,8 +5203,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5541,8 +5227,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5563,8 +5247,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5597,8 +5279,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5619,8 +5299,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5650,8 +5328,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5673,8 +5349,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5698,8 +5372,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5721,8 +5393,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5743,8 +5413,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5781,8 +5449,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5807,8 +5473,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5833,8 +5497,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5856,8 +5518,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5878,8 +5538,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5938,8 +5596,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5962,8 +5618,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -5986,8 +5640,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6008,8 +5660,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6037,8 +5687,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6059,8 +5707,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6081,8 +5727,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6119,8 +5763,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6146,8 +5788,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6174,8 +5814,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6198,8 +5836,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6223,8 +5859,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6252,8 +5886,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6274,8 +5906,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6296,8 +5926,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6318,8 +5946,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6340,8 +5966,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6366,8 +5990,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6392,8 +6014,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6455,8 +6075,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6477,8 +6095,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6501,8 +6117,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6524,8 +6138,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6572,8 +6184,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6611,8 +6221,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6857,8 +6465,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6885,8 +6491,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6908,8 +6512,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6953,8 +6555,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -6985,8 +6585,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -7012,8 +6610,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -7046,8 +6642,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -7077,8 +6671,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }
 
@@ -7103,8 +6695,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-            heir_selection = lottery_election
-
           }
       }}
 }

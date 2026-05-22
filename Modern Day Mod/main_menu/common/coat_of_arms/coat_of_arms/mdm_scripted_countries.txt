@@ -1376,7 +1376,7 @@ mdm_LIEC_today = { # mdm modern day mod Liechtenstein
 		texture = "mdm_ce_crown_liechtenstein.dds"
 		color1 = rgb { 255 217 58 }
 		color2 = "black"
-		instance = { position = { 0.222 0.237 0.5 } scale = { 0.3 0.3 } }
+		instance = { position = { 0.222 0.237 } scale = { 0.3 0.3 } }
 	}
 }
 

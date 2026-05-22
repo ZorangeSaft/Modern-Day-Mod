@@ -465,7 +465,7 @@ svendborg = { topography = flatland vegetation = grasslands climate = temperate_
 slesvig = { climate = temperate_oceanic_climate culture = lower_saxon raw_material = clay religion = catholic topography = flatland vegetation = woods }
 flensburg = { climate = temperate_oceanic_climate culture = lower_saxon natural_harbor_suitability = 0.75 raw_material = livestock religion = catholic topography = flatland vegetation = grasslands }
 eckernforde = { climate = temperate_oceanic_climate culture = lower_saxon natural_harbor_suitability = 0.40 raw_material = lumber religion = catholic topography = flatland vegetation = woods }
-amrum_island_wasteland = { topography = wetlands vegetation = grasslands climate = temperate_oceanic_climate}
+amrum_island_wasteland = { topography = wetlands vegetation = grasslands climate = temperate_oceanic_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 husum = { topography = wetlands vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = frisian raw_material = millet natural_harbor_suitability = 0.00}
 helsingborg = { climate = temperate_oceanic_climate culture = swedish natural_harbor_suitability = 0.25 raw_material = wheat religion = catholic topography = flatland vegetation = grasslands }
 lund = { climate = temperate_oceanic_climate culture = swedish raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
@@ -4653,7 +4653,7 @@ theodoro = { climate = subtropical_humid_climate culture = severian natural_harb
 qirq_yer = { climate = subtropical_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
 lusta = { climate = subtropical_humid_climate culture = severian raw_material = fruit religion = orthodox topography = hills vegetation = woods }
 qarasuvbazar = { climate = subtropical_humid_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
-crimean_mountains = { topography = mountains vegetation = woods climate = temperate_continental_humid_climate}
+crimean_mountains = { topography = mountains vegetation = woods climate = temperate_continental_humid_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 kaffa = { climate = cold_semiarid_steppe_climate culture = severian natural_harbor_suitability = 0.75 raw_material = wine religion = orthodox topography = flatland vegetation = grasslands }
 soldaia = { climate = subtropical_humid_climate culture = severian natural_harbor_suitability = 0.25 raw_material = fish religion = orthodox topography = flatland vegetation = grasslands }
 vosporo = { climate = cold_semiarid_steppe_climate culture = severian natural_harbor_suitability = 0.75 raw_material = fruit religion = orthodox topography = flatland vegetation = grasslands }
@@ -7590,7 +7590,7 @@ nabek = { topography = hills vegetation = sparse climate = cold_semiarid_steppe_
 qutayfah = { topography = plateau vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = levantine_culture raw_material = wool}
 antilebanon_mountains1 = { topography = mountains vegetation = woods climate = temperate_continental_climate religion = catholic culture = swedish raw_material = clay }
 antilebanon_mountains2 = { topography = mountains vegetation = forest climate = temperate_continental_climate religion = catholic culture = swedish raw_material = clay }
-antilebanon_mountains3 = { topography = mountains vegetation = woods climate = cold_semiarid_steppe_climate}
+antilebanon_mountains3 = { topography = mountains vegetation = woods climate = cold_semiarid_steppe_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 karak = { topography = hills vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = levantine_culture raw_material = wool}
 al_quwayrah = { topography = hills vegetation = desert climate = cold_arid_desert_climate religion = sunni culture = levantine_culture raw_material = wool}
 amman = { topography = hills vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = levantine_culture raw_material = legumes}
@@ -9712,8 +9712,8 @@ kumejima = { topography = flatland vegetation = forest climate = subtropical_hum
 miyakojima = { topography = flatland vegetation = forest climate = tropical_rainforest_climate religion = utaki_religion culture = ryukyu_culture raw_material = rice natural_harbor_suitability = 0.00}
 ishigaki = { topography = flatland vegetation = forest climate = tropical_rainforest_climate religion = utaki_religion culture = ryukyu_culture raw_material = fish natural_harbor_suitability = 0.00}
 iriomote = { topography = hills vegetation = forest climate = subtropical_humid_climate religion = utaki_religion culture = ryukyu_culture raw_material = fish natural_harbor_suitability = 0.00}
-yonaguni = { topography = flatland vegetation = forest climate = tropical_rainforest_climate}
-tarama = { topography = flatland vegetation = forest climate = tropical_rainforest_climate}
+yonaguni = { topography = flatland vegetation = forest climate = tropical_rainforest_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
+tarama = { topography = flatland vegetation = forest climate = tropical_rainforest_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 kujira_cape = { topography = coastal_ocean climate = subtropical_humid_climate}
 miyako_cape = { topography = coastal_ocean climate = subtropical_humid_climate}
 mifuga = { topography = inland_sea climate = subtropical_humid_climate}
@@ -18140,7 +18140,7 @@ north_eastern_atlantic58 = { topography = ocean climate = temperate_oceanic_clim
 north_eastern_atlantic60 = { topography = ocean climate = temperate_oceanic_climate}
 north_eastern_atlantic61 = { topography = ocean climate = temperate_oceanic_climate}
 ponta_delgada = { climate = temperate_oceanic_climate culture = portuguese raw_material = fish religion = guanche_religion topography = hills vegetation = forest }
-santa_maria = { topography = hills vegetation = forest climate = temperate_oceanic_climate}
+santa_maria = { topography = hills vegetation = forest climate = temperate_oceanic_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 angra = { climate = temperate_oceanic_climate culture = portuguese natural_harbor_suitability = 0.75 raw_material = fish religion = guanche_religion topography = hills vegetation = forest }
 horta = { climate = temperate_oceanic_climate culture = portuguese raw_material = fish religion = guanche_religion topography = hills vegetation = forest }
 santa_cruz_flores = { climate = temperate_oceanic_climate culture = portuguese raw_material = fish religion = guanche_religion topography = hills vegetation = forest }
@@ -18654,7 +18654,7 @@ kergelen = { topography = hills vegetation = grasslands climate = tundra_climate
 heard_island = { topography = mountains vegetation = desert climate = tundra_climate religion = catholic culture = swedish raw_material = clay }
 crozet_islands = { topography = hills vegetation = sparse climate = tundra_climate religion = catholic culture = swedish raw_material = clay }
 marion_island = { topography = hills vegetation = sparse climate = tundra_climate religion = catholic culture = swedish raw_material = clay }
-saint_paul_island = { topography = hills vegetation = grasslands climate = temperate_oceanic_climate}
+saint_paul_island = { topography = hills vegetation = grasslands climate = temperate_oceanic_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 goringhaikona = { topography = flatland vegetation = grasslands climate = cool_mediterranean_climate religion = kaggen_religion culture = khoemana_culture raw_material = fruit natural_harbor_suitability = 0.50}
 goringhaiqua = { topography = flatland vegetation = grasslands climate = cool_mediterranean_climate religion = kaggen_religion culture = khoemana_culture raw_material = fish natural_harbor_suitability = 0.00}
 paarl = { topography = hills vegetation = grasslands climate = hot_mediterranean_climate religion = kaggen_religion culture = khoemana_culture raw_material = fruit}
@@ -20688,7 +20688,7 @@ lucayoneque = { topography = flatland vegetation = grasslands climate = tropical
 bahama = { topography = flatland vegetation = grasslands climate = tropical_savanna_climate religion = zemi_religion culture = lucayo raw_material = cotton natural_harbor_suitability = 0.00}
 bavaro = { topography = flatland vegetation = jungle climate = tropical_rainforest_climate religion = zemi_religion culture = ciguayo_culture raw_material = fish natural_harbor_suitability = 0.00}
 yuma = { topography = flatland vegetation = jungle climate = tropical_savanna_climate religion = zemi_religion culture = taino_culture raw_material = fruit natural_harbor_suitability = 0.00}
-mona_island = { topography = hills vegetation = jungle climate = tropical_savanna_climate}
+mona_island = { topography = hills vegetation = jungle climate = tropical_savanna_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 hicayagua = { topography = flatland vegetation = jungle climate = tropical_savanna_climate religion = zemi_religion culture = taino_culture raw_material = cocoa natural_harbor_suitability = 0.00}
 cayacoa = { topography = flatland vegetation = jungle climate = tropical_savanna_climate religion = zemi_religion culture = taino_culture raw_material = maize natural_harbor_suitability = 0.00}
 yamasa = { topography = flatland vegetation = jungle climate = tropical_monsoon_climate religion = zemi_religion culture = taino_culture raw_material = copper_ore}
@@ -20935,14 +20935,14 @@ cape_canaveral = { topography = coastal_ocean climate = subtropical_humid_climat
 st_augustine_inlet = { topography = coastal_ocean climate = subtropical_humid_climate}
 altamaha_sound = { topography = coastal_ocean climate = subtropical_humid_climate}
 western_atlantic_high_sea1 = { topography = ocean climate = tropical_savanna_climate}
-ariogana = { topography = hills vegetation = jungle climate = tropical_savanna_climate}
+ariogana = { topography = hills vegetation = jungle climate = tropical_savanna_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 wadadli = { topography = flatland vegetation = jungle climate = tropical_savanna_climate religion = zemi_religion culture = igneri raw_material = fish natural_harbor_suitability = 0.00}
 liamuiga = { topography = hills vegetation = jungle climate = tropical_rainforest_climate religion = zemi_religion culture = igneri raw_material = fish natural_harbor_suitability = 0.00}
 walichi = { topography = flatland vegetation = jungle climate = tropical_savanna_climate religion = zemi_religion culture = igneri raw_material = fish natural_harbor_suitability = 0.20}
-malliouhana = { topography = flatland vegetation = jungle climate = tropical_savanna_climate}
+malliouhana = { topography = flatland vegetation = jungle climate = tropical_savanna_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 anegada = { topography = hills vegetation = jungle climate = tropical_savanna_climate religion = zemi_religion culture = igneri raw_material = cotton natural_harbor_suitability = 0.00}
-aburakeiru = { topography = hills vegetation = jungle climate = tropical_savanna_climate}
-vieques_island = { topography = hills vegetation = jungle climate = tropical_savanna_climate}
+aburakeiru = { topography = hills vegetation = jungle climate = tropical_savanna_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
+vieques_island = { topography = hills vegetation = jungle climate = tropical_savanna_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 ayay = { topography = flatland vegetation = jungle climate = tropical_savanna_climate religion = zemi_religion culture = igneri raw_material = fish natural_harbor_suitability = 0.00}
 carucairi = { topography = hills vegetation = jungle climate = tropical_rainforest_climate religion = zemi_religion culture = igneri raw_material = fish natural_harbor_suitability = 0.60}
 waitu_kubuli = { topography = mountains vegetation = jungle climate = tropical_rainforest_climate religion = zemi_religion culture = carib raw_material = fruit natural_harbor_suitability = 0.00}
@@ -25163,7 +25163,7 @@ paraiba = { topography = flatland vegetation = forest climate = tropical_savanna
 pegas = { topography = plateau vegetation = grasslands climate = hot_semiarid_steppe_climate religion = jurema_religion culture = pegas_culture raw_material = wild_game}
 coremas = { topography = flatland vegetation = woods climate = tropical_savanna_climate religion = jurema_religion culture = coremas_culture raw_material = legumes}
 quincu = { topography = flatland vegetation = grasslands climate = tropical_savanna_climate religion = jurema_religion culture = kiriri_culture raw_material = legumes}
-fernando_noronha = { topography = hills vegetation = grasslands climate = tropical_savanna_climate}
+fernando_noronha = { topography = hills vegetation = grasslands climate = tropical_savanna_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 kariri = { topography = flatland vegetation = forest climate = tropical_savanna_climate religion = jurema_religion culture = kiriri_culture raw_material = fish natural_harbor_suitability = 0.00}
 caete = { topography = flatland vegetation = grasslands climate = hot_semiarid_steppe_climate religion = namandu_religion culture = kaete_culture raw_material = wild_game}
 xoko = { topography = flatland vegetation = grasslands climate = hot_semiarid_steppe_climate religion = jurema_religion culture = xoco_culture raw_material = legumes}
@@ -27562,11 +27562,11 @@ kaua_i = { topography = hills vegetation = forest climate = tropical_rainforest_
 nihoa = { topography = atoll vegetation = forest climate = temperate_oceanic_climate religion = catholic culture = swedish raw_material = clay }
 mokumanamana = { topography = atoll vegetation = desert climate = temperate_oceanic_climate religion = catholic culture = swedish raw_material = clay }
 kanemilohai_atoll = { topography = atoll vegetation = desert climate = tropical_rainforest_climate religion = catholic culture = swedish raw_material = clay }
-kauo = { topography = atoll vegetation = sparse climate = temperate_oceanic_climate}
-papa_apoho_atoll = { topography = atoll vegetation = desert climate = tropical_rainforest_climate}
-holoikauaua_atoll = { topography = atoll vegetation = desert climate = tropical_rainforest_climate}
-kuaihelani_atoll = { topography = atoll vegetation = desert climate = tropical_rainforest_climate}
-holaniku_atoll = { topography = atoll vegetation = desert climate = temperate_oceanic_climate}
+kauo = { topography = atoll vegetation = sparse climate = temperate_oceanic_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
+papa_apoho_atoll = { topography = atoll vegetation = desert climate = tropical_rainforest_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
+holoikauaua_atoll = { topography = atoll vegetation = desert climate = tropical_rainforest_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
+kuaihelani_atoll = { topography = atoll vegetation = desert climate = tropical_rainforest_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
+holaniku_atoll = { topography = atoll vegetation = desert climate = temperate_oceanic_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 nihoa_coast_1 = { topography = coastal_ocean climate = tropical_rainforest_climate}
 nihoa_coast_2 = { topography = coastal_ocean climate = tropical_rainforest_climate}
 mokumanamana_coast_1 = { topography = coastal_ocean climate = tropical_rainforest_climate}
@@ -29055,7 +29055,7 @@ atlantic_southequatorialcurrent38 = { topography = deep_ocean climate = tropical
 atlantic_southequatorialcurrent39 = { topography = deep_ocean climate = tropical_rainforest_climate movement_assistance = { -87.68 -11.37 }}
 atlantic_southequatorialcurrent40 = { topography = deep_ocean climate = tropical_rainforest_climate movement_assistance = { 14.06 88.75 }}
 atlantic_sainthelenacurrent5 = { topography = deep_ocean climate = tropical_rainforest_climate movement_assistance = { -93.46 4.29 }}
-ascensao = { topography = flatland vegetation = jungle climate = tropical_rainforest_climate}
+ascensao = { topography = flatland vegetation = jungle climate = tropical_rainforest_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 st_helena = { topography = hills vegetation = grasslands climate = tropical_rainforest_climate religion = bantu_religion culture = herero raw_material = fish natural_harbor_suitability = 0.00}
 st_helena_coast_1 = { topography = coastal_ocean climate = tropical_rainforest_climate}
 st_helena_coast_2 = { topography = coastal_ocean climate = tropical_rainforest_climate}
@@ -29081,8 +29081,8 @@ atlantic_sainthelenacurrent2 = { topography = deep_ocean climate = tropical_rain
 atlantic_sainthelenacurrent3 = { topography = deep_ocean climate = tropical_rainforest_climate movement_assistance = { 14.06 88.75 }}
 atlantic_sainthelenacurrent4 = { topography = deep_ocean climate = tropical_rainforest_climate movement_assistance = { -11.13 107.21 }}
 bouvet_island = { topography = hills vegetation = sparse climate = subarctic_continental_humid_climate}
-tristan_da_cunha_island = { topography = hills vegetation = grasslands climate = temperate_oceanic_climate}
-gough_island = { topography = hills vegetation = grasslands climate = temperate_oceanic_climate}
+tristan_da_cunha_island = { topography = hills vegetation = grasslands climate = temperate_oceanic_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
+gough_island = { topography = hills vegetation = grasslands climate = temperate_oceanic_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
 tristan_coast = { topography = coastal_ocean climate = temperate_oceanic_climate}
 gough_coast = { topography = coastal_ocean climate = temperate_oceanic_climate}
 tristan_high_coast1 = { topography = ocean climate = temperate_oceanic_climate}

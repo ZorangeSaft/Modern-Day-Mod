@@ -1,4 +1,4 @@
-# mdm modern day mod
+﻿# mdm modern day mod
 
 mdm_spanish_language = {
 	color = map_CAS

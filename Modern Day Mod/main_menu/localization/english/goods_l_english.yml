@@ -36,8 +36,6 @@
  tar_desc: "Originally propped up as a cash crop, tar is a valuable ingredient of the ship-building business. Its appearance, that of a thick black liquid, is due to the aggressive distillation process that is required for its production. Tar is widely used as a seal for ship hulls and as a cheap way to waterproof sails."
  coal: "Coal"
  coal_desc: "Coal has a long history as a source of fuel, but it is not until the invention and dissemination of the practical steam engine that demand would take off. As the Industrial Revolution swept across Europe, the use and export or import of coal would become a major business and an integral part of a modern economy."
- iron: "Iron"
- iron_desc: "Iron represents not just iron, but other ferrous metals. Iron formed the basis of the metallurgical industry and was used extensively in the production of weapons and other military equipment."
  copper_ore: "Copper Ore"
  copper_ore_desc: "Copper has been one of the most important materials since the invention and diffusion of metallurgy thousands of years ago. Its use is very varied, as it can be worked alone, but also in alloys, such as bronze. This makes it especially important for weaponry, being essential in the early production of cannons."
  gold_ore: "Gold Ore"
@@ -92,8 +90,6 @@
  cannons_desc: "Although siege weapons have existed since antiquity, the discovery of gunpowder has given rise to some weapons with a potentially destructive power that has never been seen before. The ability to throw bigger projectiles at greater speed and distances than ever before will make all but the sturdiest of fortifications quickly fall before them, without mentioning the effect those projectiles can have when fired towards armies themselves."
  glass: "Glass"
  glass_desc: "Glass has been valued for centuries as a useful material for art, architecture, or simply the crafting of vessels for daily use. Eventually, as glassmaking techniques improved, glass would also become crucial to the scientific field of optics, with glass lenses being used in the fabrication of spectacles, telescopes, and a plethora of other devices with wide-ranging applications from maritime navigation to the natural sciences."
- steel: "Steel"
- steel_desc: "Steel is widely used for the crafting of weaponry and guns. Various of its qualities are used for different weapons, blunt steel for axes and high-quality steel for swords and knives. As such, steel is also employed as the main metal for the forging of equipment and tools."
  cloth: "Cloth"
  cloth_desc: "Cloth represents the various fabrics and clothing made from wool and linen. Later cotton, imported from India and the Americas, became a major material for cloth."
  wine: "Wine"
@@ -157,8 +153,6 @@
  fruit_desc: "Fruits cover a wide range of products found on trees such as citrus, bitter and sweet oranges, apples and more. For many, these products would be unattainable and a source of nutrition only for the elites. Nearly every region across the world is home to a different kind of fruit and the advent of global trade would go on to introduce different populations to various new fruits."
  marble: "Marble"
  marble_desc: "Marble has been used in sculptures and constructions since Antiquity, being considered a type of luxurious material due to its appearance and ductility. Some of the best works of art made by Renaissance and Baroque artists, such as Michelangelo or Bernini, are made of marble."
- mercury: "Mercury"
- mercury_desc: "$mercury$ is used for medicine, but will also be of great importance to refine gold and silver ores of lesser qualities in order to make them profitable."
  masonry: "Masonry"
  masonry_desc: "Construction techniques come in all shapes and sizes. The ability to fabricate smaller pieces with a regular size and shape to use in construction greatly increases not only the efficiency in which buildings can be constructed but also their durability once built."
  beeswax: "Beeswax"
@@ -1154,7 +1148,7 @@
  niobium_ore_desc: "Niobium ore decription"
 
  platinum_group_ores: "Platinum Group Ores" #catalysts, catalytic converters, also byproduct of nickel and copper mining in some places
- platinum_group_ores: "Platinum group ores description"
+ platinum_group_ores_desc: "Platinum group ores description"
 
  rare_earth_ores: "Rare Earth Ores"
  rare_earth_ores_desc: "Rare Earth ores description"
@@ -1365,7 +1359,7 @@
  combustion_cars_desc: "All Combustion Engine Vehicles"
 
  electric_cars: "Electric Cars"
- electric_cars: "ALl Electric Vehicles"
+ electric_cars_desc: "All Electric Vehicles"
 
  household_appliances: "Household Appliances"
  household_appliances_desc: "Fridge, Microwave, Dishwasher, Toaster, etc"
