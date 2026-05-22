@@ -7505,7 +7505,7 @@ locations = {
    }
     dusseldorf = {
       define_pop = {
-         culture = low_franconian
+         culture = ripuarian_franconian
          religion = catholic
          size = 1.000
          type = peasants
@@ -7729,7 +7729,7 @@ locations = {
    }
     wesel = {
       define_pop = {
-         culture = low_franconian
+         culture = westphalian
          religion = catholic
          size = 1.000
          type = peasants
@@ -7737,7 +7737,7 @@ locations = {
    }
     kleve = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -7745,7 +7745,7 @@ locations = {
    }
     mors = {
       define_pop = {
-         culture = low_franconian
+         culture = ripuarian_franconian
          religion = catholic
          size = 1.000
          type = peasants
@@ -7753,7 +7753,7 @@ locations = {
    }
     geldern = {
       define_pop = {
-         culture = low_franconian
+         culture = ripuarian_franconian
          religion = catholic
          size = 1.000
          type = peasants
@@ -7761,7 +7761,7 @@ locations = {
    }
     monchengladbach = {
       define_pop = {
-         culture = low_franconian
+         culture = ripuarian_franconian
          religion = catholic
          size = 1.000
          type = peasants
@@ -7769,7 +7769,7 @@ locations = {
    }
     essen = {
       define_pop = {
-         culture = low_franconian
+         culture = westphalian
          religion = catholic
          size = 1.000
          type = peasants
@@ -7841,7 +7841,7 @@ locations = {
    }
     roermond = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -7873,7 +7873,7 @@ locations = {
    }
     heinsberg = {
       define_pop = {
-         culture = low_franconian
+         culture = ripuarian_franconian
          religion = catholic
          size = 1.000
          type = peasants
@@ -8393,7 +8393,7 @@ locations = {
    }
     appingedam = {
       define_pop = {
-         culture = frisian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8401,7 +8401,7 @@ locations = {
    }
     wedde = {
       define_pop = {
-         culture = frisian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8409,7 +8409,7 @@ locations = {
    }
     groningen = {
       define_pop = {
-         culture = frisian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8449,7 +8449,7 @@ locations = {
    }
     assen = {
       define_pop = {
-         culture = westphalian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8457,7 +8457,7 @@ locations = {
    }
     coevorden = {
       define_pop = {
-         culture = westphalian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8465,7 +8465,7 @@ locations = {
    }
     meppel = {
       define_pop = {
-         culture = westphalian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8473,7 +8473,7 @@ locations = {
    }
     oldenzaal = {
       define_pop = {
-         culture = westphalian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8481,7 +8481,7 @@ locations = {
    }
     zwolle = {
       define_pop = {
-         culture = westphalian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8489,7 +8489,7 @@ locations = {
    }
     deventer = {
       define_pop = {
-         culture = westphalian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8497,7 +8497,7 @@ locations = {
    }
     harderwijk = {
       define_pop = {
-         culture = westphalian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8505,7 +8505,7 @@ locations = {
    }
     apeldoorn = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8513,7 +8513,7 @@ locations = {
    }
     arnhem = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8521,7 +8521,7 @@ locations = {
    }
     zutphen = {
       define_pop = {
-         culture = westphalian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8529,7 +8529,7 @@ locations = {
    }
     doetinchem = {
       define_pop = {
-         culture = westphalian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8537,7 +8537,7 @@ locations = {
    }
     amsterdam = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8545,7 +8545,7 @@ locations = {
    }
     hoorn = {
       define_pop = {
-         culture = frisian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8553,7 +8553,7 @@ locations = {
    }
     alkmaar = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8561,7 +8561,7 @@ locations = {
    }
     the_hague = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8569,7 +8569,7 @@ locations = {
    }
     rotterdam = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8577,7 +8577,7 @@ locations = {
    }
     dordrecht = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8585,7 +8585,7 @@ locations = {
    }
     leiden = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8593,7 +8593,7 @@ locations = {
    }
     venlo = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8601,7 +8601,7 @@ locations = {
    }
     weert = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8609,7 +8609,7 @@ locations = {
    }
     helmond = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8617,7 +8617,7 @@ locations = {
    }
     cuijk = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8625,7 +8625,7 @@ locations = {
    }
     hertogenbosch = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8633,7 +8633,7 @@ locations = {
    }
     eindhoven = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8641,7 +8641,7 @@ locations = {
    }
     utrecht = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8649,7 +8649,7 @@ locations = {
    }
     middelburg = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8657,7 +8657,7 @@ locations = {
    }
     hulst = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8665,7 +8665,7 @@ locations = {
    }
     breda = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8673,7 +8673,7 @@ locations = {
    }
     nijmegen = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8681,7 +8681,7 @@ locations = {
    }
     maastricht = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8689,7 +8689,7 @@ locations = {
    }
     wolvega = {
       define_pop = {
-         culture = westphalian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8697,7 +8697,7 @@ locations = {
    }
     kampen = {
       define_pop = {
-         culture = westphalian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8705,7 +8705,7 @@ locations = {
    }
     amersfoort = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8713,7 +8713,7 @@ locations = {
    }
     tiel = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8721,7 +8721,7 @@ locations = {
    }
     geertruidenberg = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8729,7 +8729,7 @@ locations = {
    }
     bergen_zoom = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8737,7 +8737,7 @@ locations = {
    }
     brussels = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8745,7 +8745,7 @@ locations = {
    }
     aalst = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8753,7 +8753,7 @@ locations = {
    }
     bruges = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8761,7 +8761,7 @@ locations = {
    }
     ostend = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8769,7 +8769,7 @@ locations = {
    }
     veurne = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8777,7 +8777,7 @@ locations = {
    }
     ypres = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8785,7 +8785,7 @@ locations = {
    }
     sint_niklaas = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8793,7 +8793,7 @@ locations = {
    }
     ghent = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8801,7 +8801,7 @@ locations = {
    }
     oudenaarde = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8809,7 +8809,7 @@ locations = {
    }
     antwerp = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8817,7 +8817,7 @@ locations = {
    }
     turnhout = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8825,7 +8825,7 @@ locations = {
    }
     mechelen = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8833,7 +8833,7 @@ locations = {
    }
     leuven = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8849,7 +8849,7 @@ locations = {
    }
     borgloon = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8857,7 +8857,7 @@ locations = {
    }
     hasselt = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8969,7 +8969,7 @@ locations = {
    }
     kortriik = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -8977,7 +8977,7 @@ locations = {
    }
     bree = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9081,7 +9081,7 @@ locations = {
    }
     arlon = {
       define_pop = {
-         culture = moselle_franconian
+         culture = walloon
          religion = catholic
          size = 1.000
          type = peasants
@@ -10457,15 +10457,9 @@ locations = {
    }
     winterthur = {
       define_pop = {
-         culture = danube_bavarian
-         religion = catholic
-         size = 1.000
-         type = peasants
-      }
-      define_pop = {
          culture = high_alemannic
          religion = catholic
-         size = 23.749
+         size = 1.000
          type = peasants
       }
    }
@@ -22971,7 +22965,7 @@ locations = {
    }
     cassel = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -22979,7 +22973,7 @@ locations = {
    }
     dunkirk = {
       define_pop = {
-         culture = low_franconian
+         culture = mdm_dutch_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -272899,7 +272893,7 @@ locations = {
     }
     new117 = {
        define_pop = {
-          culture = mdm_socal_culture
+          culture = mdm_dutch_culture
           religion = catholic
           size = 1
           type = peasants
@@ -272907,7 +272901,7 @@ locations = {
     }
     new118 = {
        define_pop = {
-          culture = mdm_socal_culture
+          culture = mdm_dutch_culture
           religion = catholic
           size = 1
           type = peasants
@@ -272915,7 +272909,7 @@ locations = {
     }
     new119 = {
        define_pop = {
-          culture = mdm_socal_culture
+          culture = mdm_dutch_culture
           religion = catholic
           size = 1
           type = peasants
@@ -273003,7 +272997,7 @@ locations = {
     }
     new130 = {
        define_pop = {
-          culture = mdm_socal_culture
+          culture = mdm_dutch_culture
           religion = catholic
           size = 1
           type = peasants
@@ -273227,7 +273221,7 @@ locations = {
     }
     new158 = {
        define_pop = {
-          culture = mdm_socal_culture
+          culture = mdm_dutch_culture
           religion = catholic
           size = 1
           type = peasants

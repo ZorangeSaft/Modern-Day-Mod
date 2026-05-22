@@ -757,3 +757,10 @@ mdm_metrochinese_group = { #big chinese cities, similar to metroamerican
 
 mdm_francosphere_group = { #france and former french colonies
 }
+
+
+
+#dutch culture groups
+
+mdd_dutch_group = {
+}
