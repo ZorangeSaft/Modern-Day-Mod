@@ -1,4 +1,4 @@
-# mdm modern day mod
+﻿# mdm modern day mod
 
 portuguese = { # portugal portuguese
 	language = portuguese_dialect

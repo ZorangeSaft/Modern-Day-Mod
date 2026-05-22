@@ -142,7 +142,7 @@ counting_house = {
 		counting_house_maintenance = {
 			paper = 0.2
 			books = 0.05
-			goods_gold = 0.05
+			gold_ore = 0.05
 			tools = 0.1
 			category = building_maintenance
 		}

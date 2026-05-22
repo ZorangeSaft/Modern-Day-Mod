@@ -1,4 +1,4 @@
-# mdm modern day mod
+﻿# mdm modern day mod
 
 french = {
 	language = french_language

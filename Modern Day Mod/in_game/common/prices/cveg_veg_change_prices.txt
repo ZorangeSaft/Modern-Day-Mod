@@ -1,0 +1,13 @@
+﻿#cvegvegchange
+
+#all prices suggested by google ai, just meant as a starting off point for actual balancing (you always need at least something to start with tho)
+
+cveg_topo_wetlands_to_flatland_price = {gold = 2500} #changed from 4000, not enough wetlands were being drained imo
+
+cveg_veg_jungle_to_woods_price = {gold = 800}
+cveg_veg_forest_to_woods_price = {gold = 200}
+cveg_veg_woods_to_grasslands_price = {gold = 350}
+cveg_veg_grasslands_to_woods_price = {gold = 1000}
+cveg_veg_grasslands_to_farmland_price = {gold = 1200}
+cveg_veg_sparse_to_grasslands_price = {gold = 450}
+cveg_veg_desert_to_grasslands_price = {gold = 2000} #changed from 3000, seemed a bit high for me

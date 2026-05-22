@@ -1,4 +1,4 @@
-# mdm modern day mod
+﻿# mdm modern day mod
 
 mdm_spanish_culture = { 
 	language = spanish_dialect
@@ -128,7 +128,7 @@ catalan = {
 #mexico / latin america cultures (placeholder)
 
 mdm_mexican_culture = {
-	language = castilian_dialect
+	language = spanish_dialect
 	
 	color = rgb {27 136 52}
 	

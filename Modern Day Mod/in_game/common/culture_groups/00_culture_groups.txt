@@ -556,9 +556,6 @@ zuni_group = {
 
 #colonial culture groups
 
-mdm_francosphere_group = { #france and current and former french colonies
-}
-
 mdm_post_soviet_group = { #russia and former soviet countries, maby only have this if you can remove culture groups dynamically ?
 }
 

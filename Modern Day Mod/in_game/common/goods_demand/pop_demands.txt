@@ -511,7 +511,7 @@ pop_demand = {
 		
 	}
 	
-	goods_gold = {
+	gold_ore = {
 		value = 1
 
 		#Some Cultures have preferences

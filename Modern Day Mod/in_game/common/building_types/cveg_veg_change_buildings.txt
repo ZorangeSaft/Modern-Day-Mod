@@ -10,8 +10,7 @@ cveg_topo_wetlands_to_flatland = { #jungle is very wet forest, instead of even d
 	employment_size = 0.001 #needs some number to be defined
 	category = infrastructure_category
 
-	st_meg = yes #megalopolis expansion
-	st_met = yes #megalopolis expansion
+	#
 	city = yes
 	town = yes
 	rural_settlement = yes
@@ -106,8 +105,7 @@ cveg_veg_jungle_to_woods = { #jungle is very wet forest, instead of even denser 
 	employment_size = 0.001 #needs some number to be defined
 	category = infrastructure_category
 
-	st_meg = yes #megalopolis expansion
-	st_met = yes #megalopolis expansion
+	#
 	city = yes
 	town = yes
 	rural_settlement = yes
@@ -191,8 +189,7 @@ cveg_veg_forest_to_woods = {
 	employment_size = 0.001 #needs some number to be defined
 	category = infrastructure_category
 
-	st_meg = yes #megalopolis expansion
-	st_met = yes #megalopolis expansion
+	#
 	city = yes
 	town = yes
 	rural_settlement = yes
@@ -282,8 +279,7 @@ cveg_veg_woods_to_grasslands = {
 	employment_size = 0.001 #needs some number to be defined
 	category = infrastructure_category
 
-	st_meg = yes #megalopolis expansion
-	st_met = yes #megalopolis expansion
+	#
 	city = yes
 	town = yes
 	rural_settlement = yes
@@ -373,8 +369,7 @@ cveg_veg_grasslands_to_woods = { #i dont think the AI will ever build this becau
 	employment_size = 0.001 #needs some number to be defined
 	category = infrastructure_category
 
-	st_meg = yes #megalopolis expansion
-	st_met = yes #megalopolis expansion
+	#
 	city = yes
 	town = yes
 	rural_settlement = yes
@@ -474,8 +469,7 @@ cveg_veg_grasslands_to_farmland = {
 	employment_size = 0.001 #needs some number to be defined
 	category = infrastructure_category
 
-	st_meg = yes #megalopolis expansion
-	st_met = yes #megalopolis expansion
+	#
 	city = yes
 	town = yes
 	rural_settlement = yes
@@ -581,8 +575,7 @@ cveg_veg_sparse_to_grasslands = {
 	employment_size = 0.001 #needs some number to be defined
 	category = infrastructure_category
 
-	st_meg = yes #megalopolis expansion
-	st_met = yes #megalopolis expansion
+	#
 	city = yes
 	town = yes
 	rural_settlement = yes
@@ -687,8 +680,7 @@ cveg_veg_desert_to_grasslands = {
 	employment_size = 0.001 #needs some number to be defined
 	category = infrastructure_category
 
-	st_meg = yes #megalopolis expansion
-	st_met = yes #megalopolis expansion
+	#
 	city = yes
 	town = yes
 	rural_settlement = yes
