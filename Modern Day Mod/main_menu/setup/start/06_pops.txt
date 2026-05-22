@@ -2773,11 +2773,31 @@ locations = {   stockholm = {      define_pop = {         culture = swedish     
    serpa = {      define_pop = {         culture = portuguese         religion = catholic         size = 0.008         type = clergy      }      define_pop = {         culture = portuguese         religion = catholic         size = 7.978         type = peasants      }   }
    mertola = {      define_pop = {         culture = portuguese         religion = catholic         size = 0.008         type = clergy      }      define_pop = {         culture = portuguese         religion = catholic         size = 13.973         type = peasants      }   }
    silves = {      define_pop = {         culture = portuguese         religion = catholic         size = 0.008         type = clergy      }      define_pop = {         culture = portuguese         religion = catholic         size = 15.499         type = peasants      }   }
-   ponta_delgada = {   }
+   ponta_delgada = { define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }  }
    santa_maria = {      define_pop = {         culture = portuguese         religion = catholic         size = 1.111         type = peasants      }   }
-   angra = {   }
-   horta = {   }
-   santa_cruz_flores = {   }
+   angra = {  define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      } }
+   horta = {  define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      } }
+   santa_cruz_flores = { define_pop = {
+         culture = mdm_socal_culture
+         religion = catholic
+         size = 1
+         type = peasants
+      }  }
    teguise = {      define_pop = {         culture = mdm_spanish_culture         religion = catholic         size = 2.529         type = peasants      }   }
    tamaraceite = {      define_pop = {         culture = mdm_spanish_culture         religion = catholic         size = 5.232         type = peasants      }   }
    hipalan = {      define_pop = {         culture = mdm_spanish_culture         religion = catholic         size = 1.954         type = peasants      }   }
@@ -3874,10 +3894,6 @@ locations = {   stockholm = {      define_pop = {         culture = swedish     
    faran = {      define_pop = {         culture = lower_egyptian_culture         religion = sunni         size = 0.016         type = clergy      }      define_pop = {         culture = bedouin_culture         religion = sunni         size = 5.498         type = tribesmen      }      define_pop = {         culture = coptic_culture         religion = miaphysite         size = 1.831         type = slaves      }   }
    el_tor = {      define_pop = {         culture = lower_egyptian_culture         religion = sunni         size = 0.016         type = clergy      }      define_pop = {         culture = coptic_culture         religion = miaphysite         size = 4.140         type = peasants      }      define_pop = {         culture = lower_egyptian_culture         religion = sunni         size = 1.266         type = peasants      }      define_pop = {         culture = bedouin_culture         religion = sunni         size = 3.040         type = tribesmen      }   }
    saint_katrine = {      define_pop = {         culture = lower_egyptian_culture         religion = sunni         size = 0.015         type = clergy      }      define_pop = {         culture = bedouin_culture         religion = sunni         size = 2.731         type = tribesmen      }      define_pop = {         culture = coptic_culture         religion = miaphysite         size = 2.623         type = slaves      }   }
-   ponta_delgada = {   }
-   angra = {   }
-   horta = {   }
-   santa_cruz_flores = {   }
    nuweiba = {      define_pop = {         culture = lower_egyptian_culture         religion = sunni         size = 0.009         type = clergy      }      define_pop = {         culture = bedouin_culture         religion = sunni         size = 4.453         type = tribesmen      }      define_pop = {         culture = coptic_culture         religion = miaphysite         size = 0.440         type = slaves      }   }
    cairo = {      define_pop = {         culture = lower_egyptian_culture         religion = sunni         size = 0.039         type = nobles      }      define_pop = {         culture = lower_egyptian_culture         religion = sunni         size = 0.201         type = clergy      }      define_pop = {         culture = lower_egyptian_culture         religion = sunni         size = 3.187         type = burghers      }      define_pop = {         culture = mizrahi         religion = judaism         size = 0.224         type = burghers      }      define_pop = {         culture = coptic_culture         religion = miaphysite         size = 1.077         type = burghers      }      define_pop = {         culture = lower_egyptian_culture         religion = sunni         size = 357.297         type = peasants      }      define_pop = {         culture = circassian_culture         religion = orthodox         size = 4.581         type = slaves      }      define_pop = {         culture = coptic_culture         religion = miaphysite         size = 99.647         type = slaves      }      define_pop = {         culture = coptic_culture         religion = orthodox         size = 47.200         type = slaves      }      define_pop = {         culture = mizrahi         religion = judaism         size = 15.733         type = slaves      }   }
    giza = {      define_pop = {         culture = lower_egyptian_culture         religion = sunni         size = 0.012         type = clergy      }      define_pop = {         culture = lower_egyptian_culture         religion = sunni         size = 160.597         type = peasants      }      define_pop = {         culture = coptic_culture         religion = miaphysite         size = 18.893         type = slaves      }      define_pop = {         culture = coptic_culture         religion = orthodox         size = 9.446         type = slaves      }   }
@@ -20810,14 +20826,6 @@ locations = {   stockholm = {      define_pop = {         culture = swedish     
    tutonchany = {      define_pop = {         culture = uchami_culture         religion = tungusic_shamanism         size = 0.157         type = tribesmen      }   }
    nimde = {      define_pop = {         culture = uchami_culture         religion = tungusic_shamanism         size = 0.157         type = tribesmen      }   }
    erachimo = {      define_pop = {         culture = nganasan_culture         religion = samoyedic_paganism         size = 0.157         type = tribesmen      }   }
-   new2 = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
       new1 = {
       define_pop = {
          culture = mdm_socal_culture
@@ -107331,14 +107339,6 @@ new3 = {
       }
    }
    mapun = {
-      define_pop = {
-         culture = mdm_socal_culture
-         religion = catholic
-         size = 1
-         type = peasants
-      }
-   }
-   santa_maria = {
       define_pop = {
          culture = mdm_socal_culture
          religion = catholic
