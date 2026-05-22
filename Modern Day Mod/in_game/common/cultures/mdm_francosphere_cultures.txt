@@ -19,7 +19,6 @@ french = {
 		picard = kindred
 		poitevin = kindred
 		saintongeais = kindred
-		walloon = kindred
 	}
 	
 	culture_groups = {
@@ -67,7 +66,6 @@ franc_comtois = {
 		picard = kindred
 		poitevin = kindred
 		saintongeais = kindred
-		walloon = kindred
 	}
 	
 	culture_groups = {
@@ -101,33 +99,18 @@ arpitan = {
 }
 
 walloon = { 
-	language = francique_dialect
+	language = mdm_walloon_dialect
 
-	
 	color = map_LIE
-	
+
 	tags = { french_gfx western_european_gfx european_gfx }
 
-	opinions = {
-		angevin = kindred
-		berrichon = kindred
-		burgundian = kindred
-		champenais = kindred
-		franc_comtois = kindred
-		french = kindred
-		gallo = kindred
-		lorrain = kindred
-		norman = kindred
-		picard = kindred
-		poitevin = kindred
-		saintongeais = kindred
-	}
-	
+	opinions = { }
+
 	culture_groups = {
-		netherlandish_group
 		mdm_francosphere_group
 		french_group
-		german_group
+		mdm_belgian_group
 	}
 }
 

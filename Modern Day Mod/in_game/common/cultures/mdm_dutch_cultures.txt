@@ -8,6 +8,6 @@
 	opinions = {}
 	
 	culture_groups = {
-		netherlandish_group
+		mdm_dutch_group
 	}
 }
