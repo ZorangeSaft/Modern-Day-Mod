@@ -1610,7 +1610,7 @@ CEOE = {			#Centro-Oeste
 }
 
 SUDE = {			#Sudeste
-	color = rgb { 152  69  48 }		#Local red earth
+	color = rgb { 152  69  48 }		#Local red earth, quoth the Rainbolt: 'this is Brazilian dirt'
 	color2 = rgb { 152  69  48 }
 	culture_definition = mdm_paulistano_culture
 	religion_definition = catholic
@@ -1622,6 +1622,15 @@ OSUL = {			#Sul (O Sul é meu país)
 	color = rgb { 0  7  124 }		#blue from the 'O Sul é meu País' movement
 	color2 = rgb { 0  7  124 }
 	culture_definition = mdm_curitibano_faxinalense_culture
+	religion_definition = catholic
+
+	
+}
+
+MTPB = {			#MATOPIBA
+	color = rgb { 211  81  11 }		#orange and red seem to be associated with the region
+	color2 = rgb { 211  81  11 }
+	culture_definition = mdm_sertanejo_araguaio_culture
 	religion_definition = catholic
 
 	
