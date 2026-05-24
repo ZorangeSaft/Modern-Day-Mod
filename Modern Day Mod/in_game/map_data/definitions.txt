@@ -2087,7 +2087,7 @@ europe = {
 				poltava_province = { poltava kremenchuk myrhorod velyki_sorochyntsi hovtva opishnya }
 			}
 			podolia_area = {
-				bratslav_province = { bratslav balta bershad drahushiv karabul savran }
+				bratslav_province = { bratslav balta bershad drahushiv ribnita savran }
 				eastern_podolia_province = { ushytsia khmilnyk letychiv mezhybozhe mohyliv_podilskyi rov }
 				torgovytsia_province = { torhovytsia teplyk tsybuliv uman zavallia }
 				vinnytsia_province = { vinnytsia buzhskyi pohrebyshche sokilets }

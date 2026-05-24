@@ -13463,7 +13463,7 @@ locations = {
          type = peasants
       }
    }
-    karabul = {
+    ribnita = {
       define_pop = {
          culture = ruthenian
          religion = orthodox

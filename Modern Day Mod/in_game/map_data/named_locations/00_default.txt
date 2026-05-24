@@ -2164,7 +2164,7 @@ bratslav = 229133
 balta = 33e8b0
 bershad = ee70d3
 drahushiv = 995a60
-karabul = 99c7f1
+ribnita = 99c7f1
 savran = 666383
 #Eastern Podolia
 ushytsia = aa561a

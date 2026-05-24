@@ -7014,7 +7014,7 @@ locations = {
       feudalism = yes
       legalism = yes
    }
-   karabul = {
+   ribnita = {
       feudalism = yes
       legalism = yes
    }

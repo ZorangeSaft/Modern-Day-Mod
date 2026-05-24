@@ -3919,7 +3919,7 @@ countries = {
          }
 
          our_cores_conquered_by_others = {
-            karabul iagorlic
+            ribnita iagorlic
          }
 
          #include = "republic"
@@ -5937,7 +5937,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            karabul iagorlic
+            ribnita iagorlic
          }
 
          #include = "republic"

@@ -4248,7 +4248,7 @@ bratslav = { topography = flatland vegetation = forest climate = temperate_conti
 balta = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = wild_game}
 bershad = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = lumber}
 drahushiv = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = wild_game}
-karabul = { climate = temperate_continental_humid_climate culture = moldovan raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
+ribnita = { climate = temperate_continental_humid_climate culture = moldovan raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
 savran = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = millet}
 ushytsia = { topography = hills vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = wild_game}
 khmilnyk = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = horses religion = orthodox topography = flatland vegetation = forest }
