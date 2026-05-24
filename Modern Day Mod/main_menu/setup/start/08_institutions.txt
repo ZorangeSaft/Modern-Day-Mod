@@ -19935,6 +19935,10 @@ locations = {
       feudalism = yes
       legalism = yes
    }
+   tiraspol = {
+      feudalism = yes
+      legalism = yes
+   }
    dashev = {
       feudalism = yes
       legalism = yes

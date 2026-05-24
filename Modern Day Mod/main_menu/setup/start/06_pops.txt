@@ -273139,7 +273139,7 @@ locations = {
           type = peasants
        }
     }
-    new148 = {
+    tiraspol = {
        define_pop = {
           culture = mdm_socal_culture
           religion = catholic

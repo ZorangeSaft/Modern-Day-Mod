@@ -3919,7 +3919,7 @@ countries = {
          }
 
          our_cores_conquered_by_others = {
-            ribnita dubasari
+            tiraspol ribnita dubasari
          }
 
          #include = "republic"
@@ -5930,13 +5930,13 @@ countries = {
 
 
       TRAN = {
-         capital = dubasari
+         capital = tiraspol
          # government = {ruler = random }
          country_rank = rank_duchy
          starting_technology_level = 3
 
          own_control_core = {
-            ribnita dubasari
+            tiraspol ribnita dubasari
          }
 
          #include = "republic"

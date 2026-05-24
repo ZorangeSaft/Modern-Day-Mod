@@ -29854,7 +29854,7 @@ new144 = { climate = arctic culture = mdm_socal_culture raw_material = fish reli
 new145 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new146 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new147 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
-new148 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
+tiraspol = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new149 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new150 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new151 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }

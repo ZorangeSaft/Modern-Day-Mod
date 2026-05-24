@@ -10,7 +10,7 @@
 					new81 new82 new83 new84 new85 new86 new87 new88 new89 new90 new91 new92 new93 new94 new95 new96 new97 new98 new99 new100
 					new101 new102 new103 new104 new105 new106 new107 new108 new109 new110 new111 new112 new113 new114 new115 new116 new117 new118 new119 new120
 					new121 new122 new123 new124 new125 new126 new127 new128 new129 new130 new131 new132 new133 new134 new135 new136 new137 new138 new139 new140
-					new141 new142 new143 new144 new145 new146 new147 new148 new149 new150 new151 new152 new153 new154 new155 new156 new157 new158 new159 new160
+					new141 new142 new143 new144 new145 new146 new147 tiraspol new149 new150 new151 new152 new153 new154 new155 new156 new157 new158 new159 new160
 					new161 new162 new163 new164 new165 new166 new167 new168 new169 new170 new171 new172 new173 new174 new175 new176 new177 new178 new179 new180
 					new181 new182 new183 new184 new185 new186 new187 new188 new189 new190 new191 new192 new193 new194 new195 new196 new197 new198 new199 new200
 				}
