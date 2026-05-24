@@ -5705,7 +5705,7 @@ locations = {
    }
     stettin = {
       define_pop = {
-         culture = markish
+         culture = eastern_pomeranian
          religion = catholic
          size = 1.000
          type = peasants
@@ -5865,7 +5865,7 @@ locations = {
    }
     ueckermunde = {
       define_pop = {
-         culture = polabian
+         culture = markish
          religion = catholic
          size = 1.000
          type = peasants
@@ -6209,7 +6209,7 @@ locations = {
    }
     eutin = {
       define_pop = {
-         culture = polabian
+         culture = holsatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -6249,7 +6249,7 @@ locations = {
    }
     berlin = {
       define_pop = {
-         culture = markish
+         culture = brandenburgish
          religion = catholic
          size = 1.000
          type = peasants
@@ -6273,7 +6273,7 @@ locations = {
    }
     angermunde = {
       define_pop = {
-         culture = polabian
+         culture = markish
          religion = catholic
          size = 1.000
          type = peasants
@@ -6281,7 +6281,7 @@ locations = {
    }
     havelberg = {
       define_pop = {
-         culture = markish
+         culture = brandenburgish
          religion = catholic
          size = 1.000
          type = peasants
@@ -6289,7 +6289,7 @@ locations = {
    }
     wittstock = {
       define_pop = {
-         culture = markish
+         culture = brandenburgish
          religion = catholic
          size = 1.000
          type = peasants
@@ -6297,7 +6297,7 @@ locations = {
    }
     ruppin = {
       define_pop = {
-         culture = markish
+         culture = brandenburgish
          religion = catholic
          size = 1.000
          type = peasants
@@ -6321,7 +6321,7 @@ locations = {
    }
     freienwalde = {
       define_pop = {
-         culture = polabian
+         culture = brandenburgish
          religion = catholic
          size = 1.000
          type = peasants
@@ -6417,7 +6417,7 @@ locations = {
    }
     potsdam = {
       define_pop = {
-         culture = polabian
+         culture = brandenburgish
          religion = catholic
          size = 1.000
          type = peasants
@@ -6425,7 +6425,7 @@ locations = {
    }
     herzfelde = {
       define_pop = {
-         culture = polabian
+         culture = brandenburgish
          religion = catholic
          size = 1.000
          type = peasants
@@ -6441,7 +6441,7 @@ locations = {
    }
     wittenberge = {
       define_pop = {
-         culture = markish
+         culture = brandenburgish
          religion = catholic
          size = 1.000
          type = peasants
@@ -6449,7 +6449,7 @@ locations = {
    }
     pritzwalk = {
       define_pop = {
-         culture = markish
+         culture = brandenburgish
          religion = catholic
          size = 1.000
          type = peasants
@@ -6457,7 +6457,7 @@ locations = {
    }
     treuenbrietzen = {
       define_pop = {
-         culture = polabian
+         culture = brandenburgish
          religion = catholic
          size = 1.000
          type = peasants
@@ -6657,7 +6657,7 @@ locations = {
    }
     dannenberg = {
       define_pop = {
-         culture = polabian
+         culture = lower_saxon
          religion = catholic
          size = 1.000
          type = peasants
@@ -273149,7 +273149,7 @@ locations = {
     }
     new149 = {
        define_pop = {
-          culture = mdm_socal_culture
+          culture = western_pomeranian
           religion = catholic
           size = 1
           type = peasants
