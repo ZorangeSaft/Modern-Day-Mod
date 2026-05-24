@@ -357,7 +357,7 @@ countries = {
             pamkala tarntanya tidni wanbiri wanbirujurari willeuroo windakan wirameju wirangu yalata
             badhu oxley_wilds alpine_mountains wadbilliga_mountains blue_mountains kosciuszko_mountains strzelecki_desert sturt_stony_desert simpson_desert south_australian_desert
             pedrika_desert great_victoria_desert tanami_desert great_sandy_desert gibson_desert western_australian_desert little_sandy_desert bellona_reef
-			norfolk frederick_reef lord_howe_island 
+			norfolk frederick_reef lord_howe_island heard_island
          }
 
          include = "expl_mdm_whole_world"
@@ -780,7 +780,7 @@ countries = {
             new386 new353 new352 new351 new996 new970 new971 new982 new963 new306
             new969 new959 new985 new973 new960 new986 new987 new991 new989 new988
             new990 new961 new965 new994 new995 new983 new957 new958 new978 new977
-            new974 new972 new980 new975 new979 new976 new1009 new1011 new1010 new1001
+            new974 new972 new980 new975 new979 new976 new1009 new1011 new1012 new1010 new1001
             new1004 new1002 new1005 new1003 new1007 new1006 new1008 new411 new407 new416
             new415 new417 new414 new418 new419 new403 new406 new420 new422 new412
             new413 new421 new399 new393 new400 new410 new395 new402 new401 new409
@@ -5464,7 +5464,6 @@ countries = {
             kwaraae makira marovo mono roviana saa vaghua vangunu tauu_atoll luangiua_atoll
             nukumanu_atoll makira_jungle ulawa indispensable_reefs bougainville_jungle isatabu_jungle roviana_lagoon lavukal nggatokae zabana_jungle
             ranongga marovo_lagoon vaghena manning_atoll choiseul_jungle tehaolei_atoll anuta_atoll tikopia_atoll reef_atoll duff_islands
-            heard_island
          }
 
          #include = "catholic_monarchy"
