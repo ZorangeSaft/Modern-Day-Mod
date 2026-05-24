@@ -220067,7 +220067,7 @@ locations = {
          type = peasants
       }
    }
-    nheteroia = {
+    niteroi = {
       define_pop = {
          culture = tupiniquim_culture
          religion = catholic
@@ -220091,7 +220091,7 @@ locations = {
          type = peasants
       }
    }
-    goana_para = {
+    rio_de_janeiro = {
       define_pop = {
          culture = tupiniquim_culture
          religion = catholic
@@ -220187,7 +220187,7 @@ locations = {
          type = peasants
       }
    }
-    gohayo = {
+    santos = {
       define_pop = {
          culture = tupiniquim_culture
          religion = catholic
@@ -220203,7 +220203,7 @@ locations = {
          type = peasants
       }
    }
-    jerubatuba = {
+    guarulhos = {
       define_pop = {
          culture = tupiniquim_culture
          religion = catholic
@@ -220211,7 +220211,7 @@ locations = {
          type = peasants
       }
    }
-    parnaiba = {
+    osasco = {
       define_pop = {
          culture = tupiniquim_culture
          religion = catholic
@@ -220219,7 +220219,7 @@ locations = {
          type = peasants
       }
    }
-    piratininga = {
+    sao_paulo = {
       define_pop = {
          culture = tupiniquim_culture
          religion = catholic
@@ -275099,7 +275099,7 @@ locations = {
           type = peasants
        }
     }
-    new393 = {
+    zona_oeste = {
        define_pop = {
           culture = mdm_socal_culture
           religion = catholic
@@ -275107,7 +275107,7 @@ locations = {
           type = peasants
        }
     }
-    new394 = {
+    sao_goncalo = {
        define_pop = {
           culture = mdm_socal_culture
           religion = catholic
@@ -275115,7 +275115,7 @@ locations = {
           type = peasants
        }
     }
-    new395 = {
+    tijuca = {
        define_pop = {
           culture = mdm_socal_culture
           religion = catholic
@@ -279643,7 +279643,7 @@ locations = {
           type = peasants
        }
     }
-    new961 = {
+    sao_bernardo_do_campo = {
        define_pop = {
           culture = mdm_socal_culture
           religion = catholic
@@ -280051,7 +280051,7 @@ locations = {
           type = peasants
        }
     }
-    new1012 = {
+    santo_amaro = {
        define_pop = {
           culture = mdm_socal_culture
           religion = catholic

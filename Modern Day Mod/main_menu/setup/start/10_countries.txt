@@ -745,12 +745,12 @@ countries = {
             sabarabucu santa_luzia sauipe sete_lagoas tanhacu truka tumbalala tupiniquim tuxa uaua
             xakriaba xoko aimore almenara aracuai ararayu_aba araritaguaba aruja atibaia bocaiuva
             borun caete_brasil campinas cananeia cantagalo caratinga caravelas conceicao coropo coutins
-            cunhambebe fanado goana_para gohayo gouveia guaitaca guaitaka guarapiri guaratingueta hahahae
+            cunhambebe fanado rio_de_janeiro santos gouveia guaitaca guaitaka guarapiri guaratingueta hahahae
             iguape itabira itacolomi itakangapyra itamarandiba itanhomi itaparica itapemirim itaperuna itaratim
-            ita_atiaia ita_kua_y itu jacarei jequitinhonha jerubatuba jose_calcado jucuru jundiai kapiwary
+            ita_atiaia ita_kua_y itu jacarei jequitinhonha guarulhos jose_calcado jucuru jundiai kapiwary
             kiri_kere krenak lorena mage malalis manhuacu marataiama mariana matipo maxakali
-            mogi_das_cruzes mogi_mirim mokaie mucuri mutum nac_nanuk nandu nanuque nheteroia nova_friburgo
-            paraibuna parnaiba pataxo pecanha piranga piratininga piray ponte_nova porte praiba_sul
+            mogi_das_cruzes mogi_mirim mokaie mucuri mutum nac_nanuk nandu nanuque niteroi nova_friburgo
+            paraibuna osasco pataxo pecanha piranga sao_paulo piray ponte_nova porte praiba_sul
             rio_pardo salinas santa_barbara sao_fidelis sao_luis_do_paraitinga sao_roque sao_sebastiao serro sorocaba tamoio
             tampruns tapuy taubate tijuco urucu vicosa y_uasu acroas akwe anambe
             apyawa araes araguaia areia arraias asurini auwe ava_canoeiro awa_brazil awen
@@ -779,12 +779,12 @@ countries = {
             new999 new305 new302 new301 new300 new307 new992 new966 new391 new385
             new386 new353 new352 new351 new996 new970 new971 new982 new963 new306
             new969 new959 new985 new973 new960 new986 new987 new991 new989 new988
-            new990 new961 new965 new994 new995 new983 new957 new958 new978 new977
-            new974 new972 new980 new975 new979 new976 new1009 new1011 new1012 new1010 new1001
+            new990 sao_bernardo_do_campo new965 new994 new995 new983 new957 new958 new978 new977
+            new974 new972 new980 new975 new979 new976 new1009 new1011 santo_amaro new1010 new1001
             new1004 new1002 new1005 new1003 new1007 new1006 new1008 new411 new407 new416
             new415 new417 new414 new418 new419 new403 new406 new420 new422 new412
-            new413 new421 new399 new393 new400 new410 new395 new402 new401 new409
-            new404 new408 new397 new423 new396 new425 new424 new394 new405 new426
+            new413 new421 new399 zona_oeste new400 new410 tijuca new402 new401 new409
+            new404 new408 new397 new423 new396 new425 new424 sao_goncalo new405 new426
             new427 new429 new428 new430 new439 new438 new433 new434 new435 new436
             new437 new432 new431
          }

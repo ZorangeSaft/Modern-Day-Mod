@@ -24,7 +24,7 @@
 					new321 new322 new323 new324 new325 new326 new327 new328 new329 new330 new331 new332 new333 new334 new335 new336 new337 new338 new339 new340
 					new341 new342 new343 new344 new345 new346 new347 new348 new349 new350 new351 new352 new353 new354 new355 new356 new357 new358 new359 new360
 					new361 new362 new363 new364 new365 new366 new367 new368 new369 new370 new371 new372 new373 new374 new375 new376 new377 new378 new379 new380
-					new381 new382 new383 new384 new385 new386 new387 new388 new389 new390 new391 new392 new393 new394 new395 new396 new397 new398 new399 new400
+					new381 new382 new383 new384 new385 new386 new387 new388 new389 new390 new391 new392 zona_oeste sao_goncalo tijuca new396 new397 new398 new399 new400
 				}
 				dummy_province_3 = {
 					new401 new402 new403 new404 new405 new406 new407 new408 new409 new410 new411 new412 new413 new414 new415 new416 new417 new418 new419 new420
@@ -59,11 +59,11 @@
 					new901 new902 new903 new904 new905 new906 new907 new908 new909 new910 new911 new912 new913 new914 new915 new916 new917 new918 new919 new920
 					new921 new922 new923 new924 new925 new926 new927 new928 new929 new930 new931 new932 new933 new934 new935 new936 new937 new938 new939 new940
 					new941 new942 new943 new944 new945 new946 new947 new948 new949 new950 new951 new952 new953 new954 new955 new956 new957 new958 new959 new960
-					new961 new962 new963 new964 new965 new966 new967 new968 new969 new970 new971 new972 new973 new974 new975 new976 new977 new978 new979 new980
+					sao_bernardo_do_campo new962 new963 new964 new965 new966 new967 new968 new969 new970 new971 new972 new973 new974 new975 new976 new977 new978 new979 new980
 					new981 new982 new983 new984 new985 new986 new987 new988 new989 new990 new991 new992 new993 new994 new995 new996 new997 new998 new999 new1000
 				}
 				dummy_province_new1 = {
-					new1001 new1002 new1003 new1004 new1005 new1006 new1007 new1008 new1009 new1010 new1011 new1012 new1013 new1014 new1015 new1016 new1017 new1018 new1019 new1020
+					new1001 new1002 new1003 new1004 new1005 new1006 new1007 new1008 new1009 new1010 new1011 santo_amaro new1013 new1014 new1015 new1016 new1017 new1018 new1019 new1020
 					new1021 new1022 new1023 new1024 new1025 new1026 new1027 new1028 new1029 new1030 new1031 new1032 new1033 new1034 new1035 new1036 new1037 new1038 new1039 new1040
 					new1041 new1042 new1043 new1044 new1045 new1046 new1047 new1048 new1049 new1050 new1051 new1052 new1053 new1054 new1055 new1056 new1057 new1058 new1059 new1060
 					new1061 new1062 new1063 new1064 new1065 new1066 new1067 new1068 new1069 new1070 new1071 new1072 new1073 new1074 new1075 new1076 new1077 new1078 new1079 new1080
@@ -9106,7 +9106,7 @@ america = {
 				}
 				guaratuba_province = {
 					 tamoio cunhambebe
-					iguape cananeia marataiama gohayo sao_sebastiao
+					iguape cananeia marataiama santos sao_sebastiao
 					mogi_forest tamoio_forest marataiama_forest
 				}
 				itu_province = {
@@ -9116,7 +9116,7 @@ america = {
 					mogi_mirim campinas jundiai
 				}
 				parnaiba_province = {
-					atibaia sao_roque jerubatuba parnaiba piratininga
+					atibaia sao_roque guarulhos osasco sao_paulo
 					aruja mogi_das_cruzes
 					jundiai_forest atibaia_forest camanducaia_forest
 				}
@@ -9144,7 +9144,7 @@ america = {
 				}
 				nheteroia_province = {
 					goitaca
-					kapiwary ararayu_aba nheteroia mage y_uasu goana_para ita_kua_y
+					kapiwary ararayu_aba niteroi mage y_uasu rio_de_janeiro ita_kua_y
 				}
 				piranga_province = {
 					santa_barbara caete_brasil itacolomi mariana ponte_nova piranga

@@ -65738,13 +65738,19 @@ locations = {
    }
    ararayu_aba = {
    }
-   nheteroia = {
+   niteroi = {
    }
    mage = {
    }
    y_uasu = {
    }
-   goana_para = {
+   rio_de_janeiro = {
+   }
+   tijuca = {
+   }
+   zona_oeste = {
+   }
+   sao_goncalo = {
    }
    ita_kua_y = {
    }
@@ -65768,15 +65774,19 @@ locations = {
    }
    jundiai = {
    }
-   gohayo = {
+   santos = {
    }
    sao_sebastiao = {
    }
-   jerubatuba = {
+   guarulhos = {
    }
-   parnaiba = {
+   osasco = {
    }
-   piratininga = {
+   sao_paulo = {
+   }
+   sao_bernardo_do_campo = {
+   }
+   santo_amaro = {
    }
    aruja = {
    }
