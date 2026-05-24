@@ -357,7 +357,7 @@ countries = {
             pamkala tarntanya tidni wanbiri wanbirujurari willeuroo windakan wirameju wirangu yalata
             badhu oxley_wilds alpine_mountains wadbilliga_mountains blue_mountains kosciuszko_mountains strzelecki_desert sturt_stony_desert simpson_desert south_australian_desert
             pedrika_desert great_victoria_desert tanami_desert great_sandy_desert gibson_desert western_australian_desert little_sandy_desert bellona_reef
-			norfolk frederick_reef lord_howe_island 
+			norfolk frederick_reef lord_howe_island heard_island
          }
 
          include = "expl_mdm_whole_world"
@@ -5464,7 +5464,6 @@ countries = {
             kwaraae makira marovo mono roviana saa vaghua vangunu tauu_atoll luangiua_atoll
             nukumanu_atoll makira_jungle ulawa indispensable_reefs bougainville_jungle isatabu_jungle roviana_lagoon lavukal nggatokae zabana_jungle
             ranongga marovo_lagoon vaghena manning_atoll choiseul_jungle tehaolei_atoll anuta_atoll tikopia_atoll reef_atoll duff_islands
-            heard_island
          }
 
          #include = "catholic_monarchy"
