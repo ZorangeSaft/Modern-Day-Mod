@@ -6713,7 +6713,7 @@ locations = {
    }
     emden = {
       define_pop = {
-         culture = frisian
+         culture = lower_saxon
          religion = catholic
          size = 1.000
          type = peasants
@@ -6721,7 +6721,7 @@ locations = {
    }
     jever = {
       define_pop = {
-         culture = frisian
+         culture = lower_saxon
          religion = catholic
          size = 1.000
          type = peasants
@@ -6729,7 +6729,7 @@ locations = {
    }
     aurich = {
       define_pop = {
-         culture = frisian
+         culture = lower_saxon
          religion = catholic
          size = 1.000
          type = peasants
@@ -6737,7 +6737,7 @@ locations = {
    }
     leer = {
       define_pop = {
-         culture = frisian
+         culture = lower_saxon
          religion = catholic
          size = 1.000
          type = peasants
@@ -6801,7 +6801,7 @@ locations = {
    }
     elsfleth = {
       define_pop = {
-         culture = frisian
+         culture = lower_saxon
          religion = catholic
          size = 1.000
          type = peasants
@@ -23253,7 +23253,7 @@ locations = {
    }
     saint_avold = {
       define_pop = {
-         culture = rhine_franconian
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -23269,7 +23269,7 @@ locations = {
    }
     belfort = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = franc_comtois
          religion = catholic
          size = 1.000
          type = peasants
@@ -23277,7 +23277,7 @@ locations = {
    }
     zabern = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -23285,7 +23285,7 @@ locations = {
    }
     strasbourg = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -23293,7 +23293,7 @@ locations = {
    }
     ensisheim = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -23301,7 +23301,7 @@ locations = {
    }
     ferrette = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -23317,7 +23317,7 @@ locations = {
    }
     wallerfangen = {
       define_pop = {
-         culture = moselle_franconian
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -23325,7 +23325,7 @@ locations = {
    }
     saarwerden = {
       define_pop = {
-         culture = rhine_franconian
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -23341,7 +23341,7 @@ locations = {
    }
     sarrebourg = {
       define_pop = {
-         culture = rhine_franconian
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -23349,7 +23349,7 @@ locations = {
    }
     thionville = {
       define_pop = {
-         culture = moselle_franconian
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -25333,7 +25333,7 @@ locations = {
    }
     sarreguemines = {
       define_pop = {
-         culture = rhine_franconian
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -25341,7 +25341,7 @@ locations = {
    }
     morhange = {
       define_pop = {
-         culture = rhine_franconian
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -25349,7 +25349,7 @@ locations = {
    }
     vic_sur_seille = {
       define_pop = {
-         culture = rhine_franconian
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -25389,7 +25389,7 @@ locations = {
    }
     benfeld = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -25397,7 +25397,7 @@ locations = {
    }
     colmar = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -25405,7 +25405,7 @@ locations = {
    }
     murbach = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -25413,7 +25413,7 @@ locations = {
    }
     mulhouse = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -372749,7 +372749,7 @@ locations = {
     }
     amrum_island_wasteland = {
        define_pop = {
-          culture = mdm_socal_culture
+         culture = frisian
           religion = catholic
           size = 1.000
           type = peasants
