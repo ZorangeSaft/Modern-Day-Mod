@@ -19931,7 +19931,7 @@ locations = {
       feudalism = yes
       legalism = yes
    }
-   iagorlic = {
+   dubasari = {
       feudalism = yes
       legalism = yes
    }

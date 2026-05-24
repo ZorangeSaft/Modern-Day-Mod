@@ -4695,7 +4695,7 @@ khadjibey = { topography = flatland vegetation = grasslands climate = cold_semia
 teligol = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = ruthenian raw_material = fish natural_harbor_suitability = 0.00}
 kuyanlik = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = livestock}
 ananiv = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = wool}
-iagorlic = { climate = temperate_continental_humid_climate culture = moldovan raw_material = clay religion = orthodox topography = flatland vegetation = grasslands }
+dubasari = { climate = temperate_continental_humid_climate culture = moldovan raw_material = clay religion = orthodox topography = flatland vegetation = grasslands }
 berezan_liman = { topography = lakes climate = cold_semiarid_steppe_climate}
 khadzhibey_liman = { topography = lakes climate = cold_semiarid_steppe_climate}
 kuialnyk_liman = { topography = lakes climate = cold_semiarid_steppe_climate}

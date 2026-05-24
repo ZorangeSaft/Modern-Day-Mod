@@ -55513,7 +55513,7 @@ locations = {
          type = peasants
       }
    }
-    iagorlic = {
+    dubasari = {
       define_pop = {
          culture = crimean
          religion = tengri
