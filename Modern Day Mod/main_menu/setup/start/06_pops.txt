@@ -7041,7 +7041,7 @@ locations = {
    }
     friesoythe = {
       define_pop = {
-         culture = lower_saxon
+         culture = frisian
          religion = catholic
          size = 1.000
          type = peasants
@@ -7425,7 +7425,7 @@ locations = {
    }
     aschach = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9089,7 +9089,7 @@ locations = {
    }
     augsburg = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9097,7 +9097,7 @@ locations = {
    }
     gunzburg = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9105,7 +9105,7 @@ locations = {
    }
     oettingen = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9113,7 +9113,7 @@ locations = {
    }
     dillingen = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9121,7 +9121,7 @@ locations = {
    }
     kempten = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9129,7 +9129,7 @@ locations = {
    }
     memmingen = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9137,7 +9137,7 @@ locations = {
    }
     krumbach = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9145,7 +9145,7 @@ locations = {
    }
     sonthofen = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9153,7 +9153,7 @@ locations = {
    }
     neuburg_an_der_donau = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9161,7 +9161,7 @@ locations = {
    }
     oberdorf = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9169,7 +9169,7 @@ locations = {
    }
     schongau = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9177,7 +9177,7 @@ locations = {
    }
     garmisch = {
       define_pop = {
-         culture = southern_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9185,7 +9185,7 @@ locations = {
    }
     rosenheim = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9193,7 +9193,7 @@ locations = {
    }
     berchtesgaden = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9201,7 +9201,7 @@ locations = {
    }
     traunstein = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9209,7 +9209,7 @@ locations = {
    }
     passau = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9217,7 +9217,7 @@ locations = {
    }
     bavaria_regen = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9225,7 +9225,7 @@ locations = {
    }
     grafenau = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9233,7 +9233,7 @@ locations = {
    }
     cham = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9241,7 +9241,7 @@ locations = {
    }
     leuchtenberg = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9249,7 +9249,7 @@ locations = {
    }
     wunsiedel = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9257,7 +9257,7 @@ locations = {
    }
     tirschenreuth = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9265,7 +9265,7 @@ locations = {
    }
     laufen = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9273,7 +9273,7 @@ locations = {
    }
     muhldorf = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9281,7 +9281,7 @@ locations = {
    }
     wasserburg = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9289,7 +9289,7 @@ locations = {
    }
     hof = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9297,7 +9297,7 @@ locations = {
    }
     kronach = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9305,7 +9305,7 @@ locations = {
    }
     tolz = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9313,7 +9313,7 @@ locations = {
    }
     miesbach = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9321,7 +9321,7 @@ locations = {
    }
     munich = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9329,7 +9329,7 @@ locations = {
    }
     weilheim = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9337,7 +9337,7 @@ locations = {
    }
     andechs = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9345,7 +9345,7 @@ locations = {
    }
     landsberg = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9353,7 +9353,7 @@ locations = {
    }
     ebersberg = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9361,7 +9361,7 @@ locations = {
    }
     erding = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9369,7 +9369,7 @@ locations = {
    }
     freising = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9377,7 +9377,7 @@ locations = {
    }
     friedberg = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9385,7 +9385,7 @@ locations = {
    }
     indersdorf = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9393,7 +9393,7 @@ locations = {
    }
     pfaffenhofen = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9401,7 +9401,7 @@ locations = {
    }
     ingolstadt = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9409,7 +9409,7 @@ locations = {
    }
     griesbach = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9417,7 +9417,7 @@ locations = {
    }
     kelheim = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9425,7 +9425,7 @@ locations = {
    }
     straubing = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9433,7 +9433,7 @@ locations = {
    }
     landshut = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9441,7 +9441,7 @@ locations = {
    }
     burghausen = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9449,7 +9449,7 @@ locations = {
    }
     eggenfelden = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9457,7 +9457,7 @@ locations = {
    }
     landau = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9465,7 +9465,7 @@ locations = {
    }
     regensburg = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9473,7 +9473,7 @@ locations = {
    }
     rottenburg = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9481,7 +9481,7 @@ locations = {
    }
     mallersdorf = {
       define_pop = {
-         culture = danube_bavarian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9489,7 +9489,7 @@ locations = {
    }
     eichstatt = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9497,7 +9497,7 @@ locations = {
    }
     weissenburg = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9505,7 +9505,7 @@ locations = {
    }
     rothenburg = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9513,7 +9513,7 @@ locations = {
    }
     dinkelsbuhl = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9521,7 +9521,7 @@ locations = {
    }
     neustadt = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9529,7 +9529,7 @@ locations = {
    }
     uffenheim = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9537,7 +9537,7 @@ locations = {
    }
     ansbach = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9545,7 +9545,7 @@ locations = {
    }
     kulmbach = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9553,7 +9553,7 @@ locations = {
    }
     bayreuth = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9561,7 +9561,7 @@ locations = {
    }
     pegnitz = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9569,7 +9569,7 @@ locations = {
    }
     nuremberg = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9577,7 +9577,7 @@ locations = {
    }
     sulzbach = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9585,7 +9585,7 @@ locations = {
    }
     schwabach = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9593,7 +9593,7 @@ locations = {
    }
     roding = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9601,7 +9601,7 @@ locations = {
    }
     burglengenfeld = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9609,7 +9609,7 @@ locations = {
    }
     amberg = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9617,7 +9617,7 @@ locations = {
    }
     eschenbach = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9625,7 +9625,7 @@ locations = {
    }
     neumarkt = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9633,7 +9633,7 @@ locations = {
    }
     parsberg = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9641,7 +9641,7 @@ locations = {
    }
     beilngries = {
       define_pop = {
-         culture = upper_palatine
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9649,7 +9649,7 @@ locations = {
    }
     forchheim = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9657,7 +9657,7 @@ locations = {
    }
     wurzburg = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9665,7 +9665,7 @@ locations = {
    }
     kitzingen = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9673,7 +9673,7 @@ locations = {
    }
     aschaffenburg = {
       define_pop = {
-         culture = rhine_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9681,7 +9681,7 @@ locations = {
    }
     miltenberg = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9689,7 +9689,7 @@ locations = {
    }
     lohr = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9697,7 +9697,7 @@ locations = {
    }
     bruckenau = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9705,7 +9705,7 @@ locations = {
    }
     coburg = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9713,7 +9713,7 @@ locations = {
    }
     lichtenfels = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9721,7 +9721,7 @@ locations = {
    }
     bamberg = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9729,7 +9729,7 @@ locations = {
    }
     schesslitz = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9737,7 +9737,7 @@ locations = {
    }
     hassfurt = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9745,7 +9745,7 @@ locations = {
    }
     schweinfurt = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9753,7 +9753,7 @@ locations = {
    }
     mellrichstadt = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9761,7 +9761,7 @@ locations = {
    }
     konigshofen = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9769,7 +9769,7 @@ locations = {
    }
     karlstadt = {
       define_pop = {
-         culture = east_franconian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9777,7 +9777,7 @@ locations = {
    }
     wertingen = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9785,7 +9785,7 @@ locations = {
    }
     illereichen = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -10193,7 +10193,7 @@ locations = {
    }
     immenstadt = {
       define_pop = {
-         culture = swabian
+         culture = bavarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -11353,7 +11353,7 @@ locations = {
    }
     cheb = {
       define_pop = {
-         culture = upper_palatine
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
