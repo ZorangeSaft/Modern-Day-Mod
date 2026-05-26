@@ -173,10 +173,6 @@
  southern_bavarian: "Southern Bavarian"
  swabian: "Swabian"
  upper_palatine: "Upper Palatine"
- mdm_bavarian_culture: "Bavarian"
- mdm_austrian_culture: "Austrian"
- mdm_tyrolean_culture: "Tyrolean"
-
 
  valencian: "Valencian"
  aragonese: "Aragonese"
@@ -3002,3 +2998,9 @@
  mdm_luxembourgish_dialect: "Luxembourgish"
 
  mdm_benelux_group: "Benelux"
+
+ mdm_alemannic_culture: "Alemannic"
+ mdm_bavarian_culture: "Bavarian"
+ mdm_austrian_culture: "Austrian"
+ mdm_tyrolean_culture: "Tyrolean"
+ mdm_vorarlbergian_culture: "Vorarlbergian"

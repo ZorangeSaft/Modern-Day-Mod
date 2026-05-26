@@ -9089,7 +9089,7 @@ locations = {
    }
     augsburg = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9097,7 +9097,7 @@ locations = {
    }
     gunzburg = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9105,7 +9105,7 @@ locations = {
    }
     oettingen = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9113,7 +9113,7 @@ locations = {
    }
     dillingen = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9121,7 +9121,7 @@ locations = {
    }
     kempten = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9129,7 +9129,7 @@ locations = {
    }
     memmingen = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9137,7 +9137,7 @@ locations = {
    }
     krumbach = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9145,7 +9145,7 @@ locations = {
    }
     sonthofen = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9161,7 +9161,7 @@ locations = {
    }
     oberdorf = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9169,7 +9169,7 @@ locations = {
    }
     schongau = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9777,7 +9777,7 @@ locations = {
    }
     wertingen = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9785,7 +9785,7 @@ locations = {
    }
     illereichen = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9793,7 +9793,7 @@ locations = {
    }
     mullheim = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9801,7 +9801,7 @@ locations = {
    }
     freiburg = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9809,7 +9809,7 @@ locations = {
    }
     waldshut = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9817,7 +9817,7 @@ locations = {
    }
     offenburg = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9825,7 +9825,7 @@ locations = {
    }
     baden = {
       define_pop = {
-         culture = rhine_franconian
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9833,7 +9833,7 @@ locations = {
    }
     villingen = {
       define_pop = {
-         culture = swabian
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9841,7 +9841,7 @@ locations = {
    }
     durlach = {
       define_pop = {
-         culture = rhine_franconian
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9849,7 +9849,7 @@ locations = {
    }
     bruchsal = {
       define_pop = {
-         culture = rhine_franconian
+         culture = swabian
          religion = catholic
          size = 1.000
          type = peasants
@@ -9865,7 +9865,7 @@ locations = {
    }
     oberkirch = {
       define_pop = {
-         culture = swabian
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9873,7 +9873,7 @@ locations = {
    }
     hachberg = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9921,7 +9921,7 @@ locations = {
    }
     konstanz = {
       define_pop = {
-         culture = swabian
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9929,7 +9929,7 @@ locations = {
    }
     uberlingen = {
       define_pop = {
-         culture = swabian
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -9937,7 +9937,7 @@ locations = {
    }
     ravensburg = {
       define_pop = {
-         culture = swabian
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10145,7 +10145,7 @@ locations = {
    }
     furstenberg = {
       define_pop = {
-         culture = swabian
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10153,7 +10153,7 @@ locations = {
    }
     bonndorf = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10185,7 +10185,7 @@ locations = {
    }
     stockach = {
       define_pop = {
-         culture = swabian
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10193,7 +10193,7 @@ locations = {
    }
     immenstadt = {
       define_pop = {
-         culture = mdm_bavarian_culture
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10249,7 +10249,7 @@ locations = {
    }
     bern = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10257,7 +10257,7 @@ locations = {
    }
     bienne = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10265,7 +10265,7 @@ locations = {
    }
     davos = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10281,7 +10281,7 @@ locations = {
    }
     solothurn = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10289,7 +10289,7 @@ locations = {
    }
     basel = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10329,7 +10329,7 @@ locations = {
    }
     brig = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10345,7 +10345,7 @@ locations = {
    }
     thun = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10353,7 +10353,7 @@ locations = {
    }
     lucerne = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10361,7 +10361,7 @@ locations = {
    }
     zurich = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10369,7 +10369,7 @@ locations = {
    }
     sarnen = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10377,7 +10377,7 @@ locations = {
    }
     schwyz = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10401,7 +10401,7 @@ locations = {
    }
     ilanz = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10417,7 +10417,7 @@ locations = {
    }
     altdorf = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10425,7 +10425,7 @@ locations = {
    }
     interlaken = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10433,7 +10433,7 @@ locations = {
    }
     saanen = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10441,7 +10441,7 @@ locations = {
    }
     burgdorf_emmental = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10449,7 +10449,7 @@ locations = {
    }
     aarau = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10457,7 +10457,7 @@ locations = {
    }
     winterthur = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10465,7 +10465,7 @@ locations = {
    }
     schaffhausen = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10473,7 +10473,7 @@ locations = {
    }
     frauenfeld = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10481,7 +10481,7 @@ locations = {
    }
     st_gallen = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10489,7 +10489,7 @@ locations = {
    }
     glarus = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10497,7 +10497,7 @@ locations = {
    }
     chur = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10505,7 +10505,7 @@ locations = {
    }
     zuoz = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10521,7 +10521,7 @@ locations = {
    }
     spiez = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10529,7 +10529,7 @@ locations = {
    }
     buchs = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10545,7 +10545,7 @@ locations = {
    }
     toggenburg = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10561,7 +10561,7 @@ locations = {
    }
     sursee = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10569,7 +10569,7 @@ locations = {
    }
     baden_im_aargau = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10577,7 +10577,7 @@ locations = {
    }
     bregenz = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_vorarlbergian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10585,7 +10585,7 @@ locations = {
    }
     bludenz = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_vorarlbergian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10705,7 +10705,7 @@ locations = {
    }
     feldkirch = {
       define_pop = {
-         culture = high_alemannic
+         culture = mdm_vorarlbergian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -24101,7 +24101,7 @@ locations = {
    }
     haguenau = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -25381,7 +25381,7 @@ locations = {
    }
     lichtenberg = {
       define_pop = {
-         culture = rhine_alemannic
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
