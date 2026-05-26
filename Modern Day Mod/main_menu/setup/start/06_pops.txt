@@ -11441,7 +11441,7 @@ locations = {
    }
     jihlava = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11449,7 +11449,7 @@ locations = {
    }
     dacice = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11457,7 +11457,7 @@ locations = {
    }
     znojmo = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11465,7 +11465,7 @@ locations = {
    }
     brno = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11473,7 +11473,7 @@ locations = {
    }
     bitov = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11481,7 +11481,7 @@ locations = {
    }
     hodonin = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11489,7 +11489,7 @@ locations = {
    }
     hradiste = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11505,7 +11505,7 @@ locations = {
    }
     olomouc = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11513,7 +11513,7 @@ locations = {
    }
     prerov = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11521,7 +11521,7 @@ locations = {
    }
     vyskov = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11529,7 +11529,7 @@ locations = {
    }
     vizovice = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11545,7 +11545,7 @@ locations = {
    }
     pribor = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11553,7 +11553,7 @@ locations = {
    }
     opava = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11561,7 +11561,7 @@ locations = {
    }
     fryvaldov = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11569,7 +11569,7 @@ locations = {
    }
     prostejov = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11577,7 +11577,7 @@ locations = {
    }
     pernstejn = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11633,7 +11633,7 @@ locations = {
    }
     klodzko = {
       define_pop = {
-         culture = czech
+         culture = greater_polish
          religion = catholic
          size = 1.000
          type = peasants
@@ -11649,7 +11649,7 @@ locations = {
    }
     zabreh = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11657,7 +11657,7 @@ locations = {
    }
     sumperk = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -11665,7 +11665,7 @@ locations = {
    }
     krnov = {
       define_pop = {
-         culture = moravian
+         culture = czech
          religion = catholic
          size = 1.000
          type = peasants
@@ -13641,7 +13641,7 @@ locations = {
    }
     biala_podlaska = {
       define_pop = {
-         culture = polesian_culture
+         culture = greater_polish
          religion = orthodox
          size = 1.000
          type = peasants
@@ -16609,7 +16609,7 @@ locations = {
    }
     humenne = {
       define_pop = {
-         culture = slovak
+         culture = rusyn_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -16689,7 +16689,7 @@ locations = {
    }
     kosice = {
       define_pop = {
-         culture = hungarian
+         culture = slovak
          religion = catholic
          size = 1.000
          type = peasants
@@ -16729,7 +16729,7 @@ locations = {
    }
     nitra = {
       define_pop = {
-         culture = hungarian
+         culture = slovak
          religion = catholic
          size = 1.000
          type = peasants
@@ -16745,7 +16745,7 @@ locations = {
    }
     stary_tekov = {
       define_pop = {
-         culture = hungarian
+         culture = slovak
          religion = catholic
          size = 1.000
          type = peasants
@@ -18177,7 +18177,7 @@ locations = {
    }
     trnava = {
       define_pop = {
-         culture = hungarian
+         culture = slovak
          religion = catholic
          size = 1.000
          type = peasants
