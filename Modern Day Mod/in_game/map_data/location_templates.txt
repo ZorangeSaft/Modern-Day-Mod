@@ -4248,7 +4248,7 @@ bratslav = { topography = flatland vegetation = forest climate = temperate_conti
 balta = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = wild_game}
 bershad = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = lumber}
 drahushiv = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = wild_game}
-karabul = { climate = temperate_continental_humid_climate culture = moldovan raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
+ribnita = { climate = temperate_continental_humid_climate culture = moldovan raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
 savran = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = millet}
 ushytsia = { topography = hills vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = wild_game}
 khmilnyk = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = horses religion = orthodox topography = flatland vegetation = forest }
@@ -4695,7 +4695,7 @@ khadjibey = { topography = flatland vegetation = grasslands climate = cold_semia
 teligol = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = ruthenian raw_material = fish natural_harbor_suitability = 0.00}
 kuyanlik = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = livestock}
 ananiv = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = wool}
-iagorlic = { climate = temperate_continental_humid_climate culture = moldovan raw_material = clay religion = orthodox topography = flatland vegetation = grasslands }
+dubasari = { climate = temperate_continental_humid_climate culture = moldovan raw_material = clay religion = orthodox topography = flatland vegetation = grasslands }
 berezan_liman = { topography = lakes climate = cold_semiarid_steppe_climate}
 khadzhibey_liman = { topography = lakes climate = cold_semiarid_steppe_climate}
 kuialnyk_liman = { topography = lakes climate = cold_semiarid_steppe_climate}
@@ -25233,7 +25233,7 @@ cunhambebe = { topography = flatland vegetation = forest climate = tropical_rain
 iguape = { topography = wetlands vegetation = forest climate = tropical_rainforest_climate religion = tunpa_religion culture = ava_culture raw_material = salt natural_harbor_suitability = 0.00}
 cananeia = { topography = hills vegetation = forest climate = tropical_rainforest_climate religion = tunpa_religion culture = ava_culture raw_material = fish natural_harbor_suitability = 0.00}
 marataiama = { topography = hills vegetation = forest climate = tropical_rainforest_climate religion = tunpa_religion culture = ava_culture raw_material = legumes}
-gohayo = { topography = wetlands vegetation = forest climate = tropical_rainforest_climate religion = namandu_religion culture = tupiniquim_culture raw_material = fish natural_harbor_suitability = 0.00}
+santos = { topography = wetlands vegetation = forest climate = tropical_rainforest_climate religion = namandu_religion culture = tupiniquim_culture raw_material = fish natural_harbor_suitability = 0.00}
 sao_sebastiao = { topography = flatland vegetation = forest climate = tropical_rainforest_climate religion = tunpa_religion culture = kanhgag_culture raw_material = fish natural_harbor_suitability = 0.20}
 mogi_forest = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = catholic culture = swedish raw_material = clay }
 tamoio_forest = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = catholic culture = swedish raw_material = clay }
@@ -25246,9 +25246,9 @@ campinas = { topography = hills vegetation = forest climate = subtropical_monsoo
 jundiai = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = tunpa_religion culture = ava_culture raw_material = lumber}
 atibaia = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = tunpa_religion culture = kanhgag_culture raw_material = lumber}
 sao_roque = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = namandu_religion culture = tupiniquim_culture raw_material = wild_game}
-jerubatuba = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = namandu_religion culture = tupiniquim_culture raw_material = clay}
-parnaiba = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = namandu_religion culture = tupiniquim_culture raw_material = lumber}
-piratininga = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = namandu_religion culture = tupiniquim_culture raw_material = lumber}
+guarulhos = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = namandu_religion culture = tupiniquim_culture raw_material = clay}
+osasco = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = namandu_religion culture = tupiniquim_culture raw_material = lumber}
+sao_paulo = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = namandu_religion culture = tupiniquim_culture raw_material = lumber}
 aruja = { topography = hills vegetation = forest climate = subtropical_monsoon_climate religion = namandu_religion culture = tupiniquim_culture raw_material = lumber}
 mogi_das_cruzes = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = namandu_religion culture = tupiniquim_culture raw_material = wild_game}
 jundiai_forest = { topography = hills vegetation = forest climate = subtropical_monsoon_climate religion = catholic culture = swedish raw_material = clay }
@@ -25292,10 +25292,10 @@ feia_lake = { topography = lakes climate = tropical_savanna_climate}
 goitaca = { topography = hills vegetation = forest climate = temperate_oceanic_climate religion = catholic culture = swedish raw_material = clay }
 kapiwary = { topography = flatland vegetation = forest climate = tropical_savanna_climate religion = namandu_religion culture = tupiniquim_culture raw_material = fish natural_harbor_suitability = 0.00}
 ararayu_aba = { topography = flatland vegetation = forest climate = tropical_savanna_climate religion = namandu_religion culture = tupiniquim_culture raw_material = fish natural_harbor_suitability = 0.00}
-nheteroia = { topography = flatland vegetation = forest climate = tropical_savanna_climate religion = namandu_religion culture = tupiniquim_culture raw_material = fish natural_harbor_suitability = 0.00}
+niteroi = { topography = flatland vegetation = forest climate = tropical_savanna_climate religion = namandu_religion culture = tupiniquim_culture raw_material = fish natural_harbor_suitability = 0.00}
 mage = { topography = flatland vegetation = forest climate = tropical_savanna_climate religion = namandu_religion culture = tupiniquim_culture raw_material = legumes natural_harbor_suitability = 0.00}
 y_uasu = { topography = flatland vegetation = forest climate = tropical_savanna_climate religion = namandu_religion culture = tupiniquim_culture raw_material = fish natural_harbor_suitability = 0.00}
-goana_para = { topography = flatland vegetation = forest climate = tropical_savanna_climate religion = namandu_religion culture = tupiniquim_culture raw_material = fish natural_harbor_suitability = 1.00}
+rio_de_janeiro = { topography = flatland vegetation = forest climate = tropical_savanna_climate religion = namandu_religion culture = tupiniquim_culture raw_material = fish natural_harbor_suitability = 1.00}
 ita_kua_y = { topography = flatland vegetation = forest climate = tropical_savanna_climate religion = namandu_religion culture = tupiniquim_culture raw_material = fish natural_harbor_suitability = 0.00}
 santa_barbara = { topography = hills vegetation = forest climate = subtropical_monsoon_climate religion = doi_wahire_religion culture = kren_culture raw_material = gold_ore}
 caete_brasil = { topography = hills vegetation = forest climate = subtropical_highland_climate religion = doi_wahire_religion culture = kren_culture raw_material = lumber}
@@ -29854,7 +29854,7 @@ new144 = { climate = arctic culture = mdm_socal_culture raw_material = fish reli
 new145 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new146 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new147 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
-new148 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
+tiraspol = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new149 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new150 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new151 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
@@ -30099,9 +30099,9 @@ new389 = { climate = arctic culture = mdm_socal_culture raw_material = fish reli
 new390 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new391 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new392 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
-new393 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
-new394 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
-new395 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
+zona_oeste = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
+sao_goncalo = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
+tijuca = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new396 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new397 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new398 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
@@ -30667,7 +30667,7 @@ new957 = { climate = arctic culture = mdm_socal_culture raw_material = fish reli
 new958 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new959 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new960 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
-new961 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
+sao_bernardo_do_campo = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new962 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new963 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new964 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
@@ -30718,7 +30718,7 @@ new1008 = { climate = arctic culture = mdm_socal_culture raw_material = fish rel
 new1009 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new1010 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new1011 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
-new1012 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
+santo_amaro = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new1013 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new1014 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }
 new1015 = { climate = arctic culture = mdm_socal_culture raw_material = fish religion = catholic topography = flatland vegetation = desert }

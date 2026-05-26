@@ -7014,7 +7014,7 @@ locations = {
       feudalism = yes
       legalism = yes
    }
-   karabul = {
+   ribnita = {
       feudalism = yes
       legalism = yes
    }
@@ -19931,7 +19931,11 @@ locations = {
       feudalism = yes
       legalism = yes
    }
-   iagorlic = {
+   dubasari = {
+      feudalism = yes
+      legalism = yes
+   }
+   tiraspol = {
       feudalism = yes
       legalism = yes
    }
@@ -65734,13 +65738,19 @@ locations = {
    }
    ararayu_aba = {
    }
-   nheteroia = {
+   niteroi = {
    }
    mage = {
    }
    y_uasu = {
    }
-   goana_para = {
+   rio_de_janeiro = {
+   }
+   tijuca = {
+   }
+   zona_oeste = {
+   }
+   sao_goncalo = {
    }
    ita_kua_y = {
    }
@@ -65764,15 +65774,19 @@ locations = {
    }
    jundiai = {
    }
-   gohayo = {
+   santos = {
    }
    sao_sebastiao = {
    }
-   jerubatuba = {
+   guarulhos = {
    }
-   parnaiba = {
+   osasco = {
    }
-   piratininga = {
+   sao_paulo = {
+   }
+   sao_bernardo_do_campo = {
+   }
+   santo_amaro = {
    }
    aruja = {
    }

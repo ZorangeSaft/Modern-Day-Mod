@@ -591,7 +591,7 @@ mdm_araguaio_culture = {
 	}
 
 	culture_groups = {
-		mdm_lusosphere_group mdm_brazilian_group mdm_centro_oestino_group
+		mdm_lusosphere_group mdm_brazilian_group mdm_centro_oestino_group mdm_nortista_group
 	}
 }
 

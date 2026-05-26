@@ -173,6 +173,9 @@
  southern_bavarian: "Southern Bavarian"
  swabian: "Swabian"
  upper_palatine: "Upper Palatine"
+ mdm_bavarian_culture: "Bavarian"
+ mdm_austrian_culture: "Austrian"
+ mdm_tyrolean_culture: "Tyrolean"
 
 
  valencian: "Valencian"

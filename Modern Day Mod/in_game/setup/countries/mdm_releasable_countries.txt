@@ -1308,3 +1308,330 @@ MXZA = {			#Zacatecas
 
 	
 }
+
+###BRAZIL
+
+BRAC = {			#Acre
+	color = rgb { 154  205  50 }		#green and yellow are state colors, so green-yellow
+	color2 = rgb { 154  205  50 }
+	culture_definition = mdm_serra_amazonico_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRAL = {			#Alagoas
+	color = rgb { 0  119  185 }		#state color is blue, shade taken from flag
+	color2 = rgb { 0  119  185 }
+	culture_definition = mdm_canavieiro_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRAP = {			#Amapá
+	color = rgb { 0  117  94 }		#using rainforest green
+	color2 = rgb { 0  117  94 }
+	culture_definition = mdm_marajoara_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRAM = {			#Amazonas
+	color = rgb { 20  80  18 }		#using deep jungle green
+	color2 = rgb { 20  80  18 }
+	culture_definition = mdm_west_caboclo_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRBA = {			#Bahia
+	color = rgb { 240  238  233 }		#state color is white, using an off-white
+	color2 = rgb { 240  238  233 }
+	culture_definition = mdm_soteropolitano_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRCE = {			#Ceará
+	color = rgb { 37  143  68 }		#state color is green, shade taken from flag
+	color2 = rgb { 37  143  68 }
+	culture_definition = mdm_northern_jangadeiro_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRDF = {			#Distrito Federal / Brasilia
+	color = rgb { 168  243  165 }		#colors representing the federal district are green and white, so using a pale green here
+	color2 = rgb { 168  243  165 }
+	culture_definition = mdm_brasiliense_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRES = {			#Espírito Santo
+	color = rgb { 240  155  190 }		#state color is pink, shade taken from flag
+	color2 = rgb { 240  155  190 }
+	culture_definition = mdm_capixaba_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRGO = {			#Goiás
+	color = rgb { 242  203  21 }		#'Flag yellow'
+	color2 = rgb { 242  203  21  }
+	culture_definition = mdm_capiau_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRMA = {			#Maranhão
+	color = rgb { 244  85  32 }		#state color is red, one of the reasons is the scarlet ibis, so using scarlet ibis red
+	color2 = rgb { 244  85  32 }
+	culture_definition = mdm_maranhense_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRMT = {			#Mato Grosso
+	color = rgb { 40  22  111 }		#state color is blue, shade taken from flag
+	color2 = rgb { 40  22  111 }
+	culture_definition = mdm_cuiabano_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRMS = {			#Mato Grosso do Sul
+	color = rgb { 116  133  0 }		#using swamp green in reference to the Pantanal
+	color2 = rgb { 116  133  0 }
+	culture_definition = mdm_pioneiro_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRMG = {			#Minas Gerais
+	color = rgb { 147  42  21 }		#state color is red, state is a huge producer of iron, red oxide is the shade used here because of that
+	color2 = rgb { 147  42  21 }
+	culture_definition = mdm_mineiro_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRPA = {			#Pará
+	color = rgb { 236  35  0 }		#state color is red, shade taken from flag
+	color2 = rgb { 236  35  0 }
+	culture_definition = mdm_marajoara_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRPB = {			#Paraíba
+	color = rgb { 100  0  0 }		#state colors are red and black, so using dark red
+	color2 = rgb { 100  0  0 }
+	culture_definition = mdm_canavieiro_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRPR = {			#Paraná
+	color = rgb { 86  92  67 }		#state color is green, using araucaria pine green, as that's a native regional tree
+	color2 = rgb { 86  92  67 }
+	culture_definition = mdm_curitibano_faxinalense_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRPE = {			#Pernambuco
+	color = rgb { 49  85  164 }		#state color is blue, shade taken from flag
+	color2 = rgb { 49  85  164 }
+	culture_definition = mdm_canavieiro_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRPI = {			#Piauí
+	color = rgb { 86  161  52 }		#state color is green, shade taken from flag
+	color2 = rgb { 86  161  52 }
+	culture_definition = mdm_eastern_sertanejo_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRRJ = {			#Rio de Janeiro
+	color = rgb { 0  175  239 }		#state color is sky blue, shade taken from flag
+	color2 = rgb { 0  175  239 }
+	culture_definition = mdm_carioca_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRRN = {			#Rio Grande do Norte
+	color = rgb { 195  245  92 }		#state colors are green, yellow and white, so using light yellow-green
+	color2 = rgb { 195  245  92 }
+	culture_definition = mdm_canavieiro_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRRS = {			#Rio Grande do Sul
+	color = rgb { 140  0  15 }		#state colors are green, yellow and red, with red being especially emblematic of gaúcho rebels' neckerchiefs, so red shade is taken from that 
+	color2 = rgb { 140  0  15 }
+	culture_definition = mdm_litoraneo_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRRO = {			#Rondônia
+	color = rgb { 140  159  117 }		#state colors are green and yellow, using the average color of the flag
+	color2 = rgb { 140  159  117 }
+	culture_definition = mdm_serra_amazonico_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRRR = {			#Roraima
+	color = rgb { 127  187  115 }		#state color is green, at this point I'm just picking a shade that doesn't clash with any of its neighbors
+	color2 = rgb { 127  187  115 }
+	culture_definition = mdm_west_caboclo_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRSC = {			#Santa Catarina
+	color = rgb { 116  206  57 }		#state color is light green, specifically the shade used on the flag, so I'm using it
+	color2 = rgb { 116  206  57 }
+	culture_definition = mdm_acoriano_catarinense_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRSP = {			#São Paulo
+	color = rgb { 65  45  45 }		#state colors are black, white and red, state also associated with heavy industrialization, so using a red-shifted dark grey
+	color2 = rgb { 65  45  45 }
+	culture_definition = mdm_paulistano_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRSE = {			#Sergipe
+	color = rgb { 170  164  83 }		#state colors are green and yellow, just using the average color of the flag
+	color2 = rgb { 170  164  83 }
+	culture_definition = mdm_southern_jangadeiro_culture
+	religion_definition = catholic
+
+	
+}
+
+
+BRTO = {			#Tocantins
+	color = rgb { 255  151  0 }		#state color is gold-orange
+	color2 = rgb { 255  151  0 }
+	culture_definition = mdm_araguaio_culture
+	religion_definition = catholic
+
+	
+}
+
+#Brazil State formables
+
+NORT = {			#Norte
+	color = rgb { 30  115  73 }		#Pantone Amazon Green
+	color2 = rgb { 0  0  0 }
+	culture_definition = mdm_marajoara_culture
+	religion_definition = catholic
+
+	
+}
+
+NORD = {			#Nordeste
+	color = rgb { 205  111  39 }		#'Nordeste Heat' color
+	color2 = rgb { 205  111  39 }
+	culture_definition = mdm_canavieiro_culture
+	religion_definition = catholic
+
+	
+}
+
+CEOE = {			#Centro-Oeste
+	color = rgb { 244  198  48 }		#Yellow Ipê Tree yellow
+	color2 = rgb { 244  198  48 }
+	culture_definition = mdm_cuiabano_culture
+	religion_definition = catholic
+
+	
+}
+
+SUDE = {			#Sudeste
+	color = rgb { 152  69  48 }		#Local red earth, quoth the Rainbolt: 'this is Brazilian dirt'
+	color2 = rgb { 152  69  48 }
+	culture_definition = mdm_paulistano_culture
+	religion_definition = catholic
+
+	
+}
+
+OSUL = {			#Sul (O Sul é meu país)
+	color = rgb { 0  7  124 }		#blue from the 'O Sul é meu País' movement
+	color2 = rgb { 0  7  124 }
+	culture_definition = mdm_curitibano_faxinalense_culture
+	religion_definition = catholic
+
+	
+}
+
+MTPB = {			#MATOPIBA
+	color = rgb { 211  81  11 }		#orange and red seem to be associated with the region
+	color2 = rgb { 211  81  11 }
+	culture_definition = mdm_sertanejo_araguaio_culture
+	religion_definition = catholic
+
+	
+}
