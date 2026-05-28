@@ -10385,7 +10385,7 @@ locations = {
    }
     mesocco = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10393,7 +10393,7 @@ locations = {
    }
     lugano = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10409,7 +10409,7 @@ locations = {
    }
     locarno = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10537,7 +10537,7 @@ locations = {
    }
     bellinzona = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -249303,7 +249303,7 @@ locations = {
    }
     reggiocal = {
       define_pop = {
-         culture = sicilian
+         culture = greek_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -249311,7 +249311,7 @@ locations = {
    }
     palmi = {
       define_pop = {
-         culture = sicilian
+         culture = neapolitan
          religion = catholic
          size = 1.000
          type = peasants
@@ -249319,7 +249319,7 @@ locations = {
    }
     gerace = {
       define_pop = {
-         culture = sicilian
+         culture = neapolitan
          religion = catholic
          size = 1.000
          type = peasants
@@ -249327,7 +249327,7 @@ locations = {
    }
     monteleone = {
       define_pop = {
-         culture = sicilian
+         culture = neapolitan
          religion = catholic
          size = 1.000
          type = peasants
@@ -249335,7 +249335,7 @@ locations = {
    }
     nicastro = {
       define_pop = {
-         culture = sicilian
+         culture = neapolitan
          religion = catholic
          size = 1.000
          type = peasants
@@ -249343,7 +249343,7 @@ locations = {
    }
     catanzaro = {
       define_pop = {
-         culture = sicilian
+         culture = neapolitan
          religion = catholic
          size = 1.000
          type = peasants
@@ -249351,7 +249351,7 @@ locations = {
    }
     cotrone = {
       define_pop = {
-         culture = sicilian
+         culture = neapolitan
          religion = catholic
          size = 1.000
          type = peasants
@@ -249479,7 +249479,7 @@ locations = {
    }
     gallipoliita = {
       define_pop = {
-         culture = sicilian
+         culture = neapolitan
          religion = catholic
          size = 1.000
          type = peasants
@@ -249487,7 +249487,7 @@ locations = {
    }
     lecce = {
       define_pop = {
-         culture = sicilian
+         culture = neapolitan
          religion = catholic
          size = 1.000
          type = peasants
@@ -249495,7 +249495,7 @@ locations = {
    }
     francavilla = {
       define_pop = {
-         culture = sicilian
+         culture = neapolitan
          religion = catholic
          size = 1.000
          type = peasants
@@ -249503,7 +249503,7 @@ locations = {
    }
     brindisi = {
       define_pop = {
-         culture = sicilian
+         culture = neapolitan
          religion = catholic
          size = 1.000
          type = peasants
@@ -249687,7 +249687,7 @@ locations = {
    }
     celano = {
       define_pop = {
-         culture = median
+         culture = neapolitan
          religion = catholic
          size = 1.000
          type = peasants
@@ -249983,7 +249983,7 @@ locations = {
    }
     pesaro = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250031,7 +250031,7 @@ locations = {
    }
     urbino = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250039,7 +250039,7 @@ locations = {
    }
     montefeltro = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250047,7 +250047,15 @@ locations = {
    }
     rimini = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
+         religion = catholic
+         size = 1.000
+         type = peasants
+      }
+   }
+    san_marino = {
+      define_pop = {
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250063,7 +250071,7 @@ locations = {
    }
     chiusi = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250071,7 +250079,7 @@ locations = {
    }
     montalcino = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250079,7 +250087,7 @@ locations = {
    }
     grosseto = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250087,7 +250095,7 @@ locations = {
    }
     piombino = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250095,7 +250103,7 @@ locations = {
    }
     massamar = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250103,7 +250111,7 @@ locations = {
    }
     siena = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250111,7 +250119,7 @@ locations = {
    }
     cortona = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250119,7 +250127,7 @@ locations = {
    }
     arezzo = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250127,7 +250135,7 @@ locations = {
    }
     sansepolcro = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250135,7 +250143,7 @@ locations = {
    }
     sanlorenzo = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250143,7 +250151,7 @@ locations = {
    }
     florence = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250151,7 +250159,7 @@ locations = {
    }
     poggibonsi = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250159,7 +250167,7 @@ locations = {
    }
     volterra = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250167,7 +250175,7 @@ locations = {
    }
     livorno = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250175,7 +250183,7 @@ locations = {
    }
     pontedera = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250183,7 +250191,7 @@ locations = {
    }
     pisa = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250191,7 +250199,7 @@ locations = {
    }
     pescia = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250199,7 +250207,7 @@ locations = {
    }
     prato = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250207,7 +250215,7 @@ locations = {
    }
     mangona = {
       define_pop = {
-         culture = emilian
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250215,7 +250223,7 @@ locations = {
    }
     pistoia = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250223,7 +250231,7 @@ locations = {
    }
     lucca = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250231,7 +250239,7 @@ locations = {
    }
     massa = {
       define_pop = {
-         culture = tuscan
+         culture = median
          religion = catholic
          size = 1.000
          type = peasants
@@ -250239,7 +250247,7 @@ locations = {
    }
     fosdinovo = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250247,7 +250255,7 @@ locations = {
    }
     modigliana = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250255,7 +250263,7 @@ locations = {
    }
     cesena = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250263,7 +250271,7 @@ locations = {
    }
     faenza = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250271,7 +250279,7 @@ locations = {
    }
     imola = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250279,7 +250287,7 @@ locations = {
    }
     ravenna = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250287,7 +250295,7 @@ locations = {
    }
     argenta = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250295,7 +250303,7 @@ locations = {
    }
     comacchio = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250303,7 +250311,7 @@ locations = {
    }
     ferrara = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250311,7 +250319,7 @@ locations = {
    }
     verona = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250319,7 +250327,7 @@ locations = {
    }
     medicina = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250327,7 +250335,7 @@ locations = {
    }
     bologna = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250335,7 +250343,7 @@ locations = {
    }
     vergato = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250343,7 +250351,7 @@ locations = {
    }
     frassinoro = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250351,7 +250359,7 @@ locations = {
    }
     modena = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250359,7 +250367,7 @@ locations = {
    }
     nonantola = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250367,7 +250375,7 @@ locations = {
    }
     mirandola = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250375,7 +250383,7 @@ locations = {
    }
     guastalla = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250383,7 +250391,7 @@ locations = {
    }
     reggioem = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250391,7 +250399,7 @@ locations = {
    }
     canossa = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250399,7 +250407,7 @@ locations = {
    }
     parma = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250407,7 +250415,7 @@ locations = {
    }
     berceto = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250415,7 +250423,7 @@ locations = {
    }
     sandonnino = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250423,7 +250431,7 @@ locations = {
    }
     fiorenzuola = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250431,7 +250439,7 @@ locations = {
    }
     bardi = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250439,7 +250447,7 @@ locations = {
    }
     rovegno = {
       define_pop = {
-         culture = ligurian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250447,7 +250455,7 @@ locations = {
    }
     bobbio = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250455,7 +250463,7 @@ locations = {
    }
     piacenza = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250463,7 +250471,7 @@ locations = {
    }
     sarzana = {
       define_pop = {
-         culture = ligurian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250471,7 +250479,7 @@ locations = {
    }
     lavagna = {
       define_pop = {
-         culture = ligurian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250479,7 +250487,7 @@ locations = {
    }
     genoa = {
       define_pop = {
-         culture = ligurian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250487,7 +250495,7 @@ locations = {
    }
     finalborgo = {
       define_pop = {
-         culture = ligurian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250495,7 +250503,7 @@ locations = {
    }
     albenga = {
       define_pop = {
-         culture = ligurian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250503,7 +250511,7 @@ locations = {
    }
     ventimiglia = {
       define_pop = {
-         culture = ligurian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250511,7 +250519,7 @@ locations = {
    }
     ceva = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250519,7 +250527,7 @@ locations = {
    }
     mondovi = {
       define_pop = {
-         culture = piedmontese
+         culture = french
          religion = catholic
          size = 1.000
          type = peasants
@@ -250543,7 +250551,7 @@ locations = {
    }
     carmagnola = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250551,7 +250559,7 @@ locations = {
    }
     alba = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250559,7 +250567,7 @@ locations = {
    }
     cairo_montenotte = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250567,7 +250575,7 @@ locations = {
    }
     alessandria = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250575,7 +250583,7 @@ locations = {
    }
     tortona = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250583,7 +250591,7 @@ locations = {
    }
     novi = {
       define_pop = {
-         culture = ligurian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250591,7 +250599,7 @@ locations = {
    }
     acqui = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250599,7 +250607,7 @@ locations = {
    }
     asti = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250607,7 +250615,7 @@ locations = {
    }
     turin = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250615,7 +250623,7 @@ locations = {
    }
     chieri = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250647,7 +250655,7 @@ locations = {
    }
     lanzo = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250655,7 +250663,7 @@ locations = {
    }
     casale = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250663,7 +250671,7 @@ locations = {
    }
     ivrea = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250671,7 +250679,7 @@ locations = {
    }
     vercelli = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250679,7 +250687,7 @@ locations = {
    }
     novara = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250687,7 +250695,7 @@ locations = {
    }
     varallo = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250695,7 +250703,7 @@ locations = {
    }
     arona = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250703,7 +250711,7 @@ locations = {
    }
     domodossola = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250711,7 +250719,7 @@ locations = {
    }
     chatillonaos = {
       define_pop = {
-         culture = arpitan
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250735,7 +250743,7 @@ locations = {
    }
     voghera = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250743,7 +250751,7 @@ locations = {
    }
     lomello = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250751,7 +250759,7 @@ locations = {
    }
     pavia = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250759,7 +250767,7 @@ locations = {
    }
     milano = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250767,7 +250775,7 @@ locations = {
    }
     rho = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250775,7 +250783,7 @@ locations = {
    }
     legnano = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250783,7 +250791,7 @@ locations = {
    }
     varese = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250791,7 +250799,7 @@ locations = {
    }
     monza = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250799,7 +250807,7 @@ locations = {
    }
     treviglio = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250807,7 +250815,7 @@ locations = {
    }
     como = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250815,7 +250823,7 @@ locations = {
    }
     lecco = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250823,7 +250831,7 @@ locations = {
    }
     chiavenna = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250831,7 +250839,7 @@ locations = {
    }
     tresivio = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250839,7 +250847,7 @@ locations = {
    }
     bormio = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250847,7 +250855,7 @@ locations = {
    }
     zogno = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250855,7 +250863,7 @@ locations = {
    }
     clusone = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250863,7 +250871,7 @@ locations = {
    }
     bergamo = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250871,7 +250879,7 @@ locations = {
    }
     cortenuova = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250879,7 +250887,7 @@ locations = {
    }
     lodi = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250887,7 +250895,7 @@ locations = {
    }
     soncino = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250895,7 +250903,7 @@ locations = {
    }
     cremona = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250903,7 +250911,7 @@ locations = {
    }
     casalmaggiore = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250911,7 +250919,7 @@ locations = {
    }
     breno = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250919,7 +250927,7 @@ locations = {
    }
     palazzolo = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250927,7 +250935,7 @@ locations = {
    }
     nozza = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250935,7 +250943,7 @@ locations = {
    }
     brescia = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250943,7 +250951,7 @@ locations = {
    }
     asola = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250951,7 +250959,7 @@ locations = {
    }
     salo_ita = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250959,7 +250967,7 @@ locations = {
    }
     goito = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250967,7 +250975,7 @@ locations = {
    }
     mantova = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250975,7 +250983,7 @@ locations = {
    }
     ostiglia = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250983,7 +250991,7 @@ locations = {
    }
     riva = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250991,7 +250999,7 @@ locations = {
    }
     rovereto = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -250999,7 +251007,7 @@ locations = {
    }
     trento = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251023,7 +251031,7 @@ locations = {
    }
     cles = {
       define_pop = {
-         culture = lombard
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251079,7 +251087,7 @@ locations = {
    }
     peschiera = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251087,7 +251095,7 @@ locations = {
    }
     legnago = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251095,7 +251103,7 @@ locations = {
    }
     rovigo = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251103,7 +251111,7 @@ locations = {
    }
     este = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251111,7 +251119,7 @@ locations = {
    }
     monselice = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251119,7 +251127,7 @@ locations = {
    }
     padova = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251127,7 +251135,7 @@ locations = {
    }
     vicenza = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251135,7 +251143,7 @@ locations = {
    }
     bassano = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251143,7 +251151,7 @@ locations = {
    }
     schio = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251151,7 +251159,7 @@ locations = {
    }
     chioggia = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251159,7 +251167,7 @@ locations = {
    }
     venice = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251167,7 +251175,7 @@ locations = {
    }
     mestre = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251175,7 +251183,7 @@ locations = {
    }
     treviso = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251183,7 +251191,7 @@ locations = {
    }
     castelfranco = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251191,7 +251199,7 @@ locations = {
    }
     conegliano = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251199,7 +251207,7 @@ locations = {
    }
     ceneda = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251207,7 +251215,7 @@ locations = {
    }
     feltre = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251215,7 +251223,7 @@ locations = {
    }
     belluno = {
       define_pop = {
-         culture = venetian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251303,7 +251311,7 @@ locations = {
    }
     ficarolo = {
       define_pop = {
-         culture = emilian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251311,7 +251319,7 @@ locations = {
    }
     biella = {
       define_pop = {
-         culture = piedmontese
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -251327,7 +251335,7 @@ locations = {
    }
     savona = {
       define_pop = {
-         culture = ligurian
+         culture = mdm_gallo_italic_culture
          religion = catholic
          size = 1.000
          type = peasants
