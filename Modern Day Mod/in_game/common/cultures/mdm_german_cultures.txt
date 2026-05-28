@@ -7,37 +7,7 @@ angrian = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -51,37 +21,7 @@ brandenburgish = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -95,37 +35,7 @@ eastern_pomeranian = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -139,37 +49,7 @@ eastphalian = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -183,8 +63,7 @@ hanseatic = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -199,37 +78,7 @@ holsatian = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -243,37 +92,7 @@ lower_saxon = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -287,37 +106,7 @@ markish = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -331,37 +120,7 @@ prussian = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -375,37 +134,7 @@ western_pomeranian = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -419,37 +148,7 @@ westphalian = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -466,37 +165,7 @@ east_franconian = {
 	
 	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -510,37 +179,7 @@ german_carpathian = { #https://en.wikipedia.org/wiki/Carpathian_Germans
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -555,37 +194,7 @@ german_silesian = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -599,37 +208,7 @@ german_transylvanian = { #https://en.wikipedia.org/wiki/Transylvanian_Saxons
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -644,37 +223,7 @@ low_franconian = {
 	
 	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		netherlandish_group
@@ -689,37 +238,7 @@ moselle_franconian = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -733,37 +252,7 @@ rhine_franconian = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -777,37 +266,7 @@ ripuarian_franconian = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -822,37 +281,7 @@ saxon = {
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -868,126 +297,7 @@ danube_bavarian = {
 	
 	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
-	
-	culture_groups = {
-		german_group
-	}
-}
-
-high_alemannic = {	#Swiss, non-Swabian Baden
-	language = alemannic_dialect
-	
-	color = map_SWI
-	
-	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
-	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
-	
-	culture_groups = {
-		german_group
-		swiss_group
-	}
-}
-
-rhine_alemannic = {
-	language = alemannic_dialect
-	
-	color = map_MLH
-	
-	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
-	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -1001,37 +311,7 @@ southern_bavarian = {
 	
 	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -1045,83 +325,38 @@ swabian = {
 	
 	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
 	}
 }
 
-upper_palatine = { 
+upper_palatine = {
 	language = upper_german_dialect
 	
 	color = map_PAL
 	
 	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
+		german_group
+	}
+}
+
+mdm_alemannic_culture = {
+	language = alemannic_dialect
+	
+	color = map_SWI
+	
+	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		swiss_group
 		german_group
 	}
 }
@@ -1133,36 +368,7 @@ mdm_bavarian_culture = {
 	
 	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		southern_bavarian = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_austrian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -1176,36 +382,7 @@ mdm_austrian_culture = {
 	
 	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_tyrolean_culture = positive
-	}
+	opinions = { }
 	
 	culture_groups = {
 		german_group
@@ -1219,36 +396,66 @@ mdm_tyrolean_culture = {
 	
 	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
 	
-	opinions = {
-		angrian = positive
-		brandenburgish = positive
-		eastern_pomeranian = positive
-		eastphalian = positive
-		holsatian = positive
-		lower_saxon = positive
-		markish = positive
-		prussian = positive
-		western_pomeranian = positive
-		westphalian = positive
-		east_franconian = positive
-		low_franconian = positive
-		german_carpathian = positive
-		german_silesian = positive
-		german_transylvanian = positive
-		moselle_franconian = positive
-		rhine_franconian = positive
-		ripuarian_franconian = positive
-		saxon = positive
-		danube_bavarian = positive
-		high_alemannic = positive
-		rhine_alemannic = positive
-		swabian = positive
-		upper_palatine = positive
-		frisian = positive
-		walloon = positive
-		mdm_bavarian_culture = positive
-		mdm_austrian_culture = positive
+	opinions = { }
+	
+	culture_groups = {
+		german_group
 	}
+}
+
+mdm_vorarlbergian_culture = {
+	language = alemannic_dialect
+	
+	color = rgb { 127 127 127 }
+	
+	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		german_group
+	}
+}
+
+
+mdm_low_german_culture = {
+	language = low_german_dialect
+	
+	color = map_WES
+	
+	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		german_group
+	}
+}
+
+
+mdm_east_german_culture = {
+	language = low_german_dialect
+	
+	color = map_BRA
+	
+	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		german_group
+	}
+}
+
+
+mdm_middle_german_culture = {
+	language = central_german_dialect
+	
+	color = map_HES
+	
+	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = { }
 	
 	culture_groups = {
 		german_group
