@@ -16385,7 +16385,7 @@ locations = {
    }
     halas = {
       define_pop = {
-         culture = cuman_culture
+         culture = hungarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -16449,7 +16449,7 @@ locations = {
    }
     felegyhaza = {
       define_pop = {
-         culture = cuman_culture
+         culture = hungarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -16777,7 +16777,7 @@ locations = {
    }
     jaszbereny = {
       define_pop = {
-         culture = jasz_culture
+         culture = hungarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -16913,7 +16913,7 @@ locations = {
    }
     karcag = {
       define_pop = {
-         culture = cuman_culture
+         culture = hungarian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222333,7 +222333,7 @@ locations = {
    }
     buzet = {
       define_pop = {
-         culture = croatian
+         culture = slovene
          religion = catholic
          size = 1.000
          type = peasants
@@ -251263,7 +251263,7 @@ locations = {
    }
     cividale = {
       define_pop = {
-         culture = friulian
+         culture = slovene
          religion = catholic
          size = 1.000
          type = peasants
