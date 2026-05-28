@@ -1,33 +1,18 @@
 war_manager = {
-	civil_war = {
-		
-	}
-
-	war = {
-		
-	}
-
-	war = {
-		
-	}
-	truce = { 
-	
-	}
-
-	truce = { 
-	
-	}
-
-	truce = { 
-	
-	}
-
-	truce = { 
-	
-	}
-
-	truce = {
-	
-	}
-	
+#	civil_war = {
+#		
+#	}
+#
+#	war = {
+#		
+#	}
+#
+#	truce = { 
+#	
+#	}
+#
+#	truce = {
+#	
+#	}
+#	
 }
