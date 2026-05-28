@@ -3009,3 +3009,8 @@
  mdm_gallo_italic_dialect: "Gallo-Italic"
  mdm_italian_language: "Italian"
  mdm_meridional_dialect: "Meridional"
+
+ mdm_middle_german_culture: "Middle German"
+ mdm_low_german_culture: "Low German"
+ mdm_southern_east_german_culture: "Southern East German"
+ mdm_northern_east_german_culture: "Northern East German"

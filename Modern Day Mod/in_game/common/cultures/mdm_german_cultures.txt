@@ -433,10 +433,25 @@ mdm_low_german_culture = {
 }
 
 
-mdm_east_german_culture = {
+mdm_northern_east_german_culture = {
 	language = low_german_dialect
 	
 	color = map_BRA
+	
+	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		german_group
+	}
+}
+
+
+mdm_southern_east_german_culture = {
+	language = central_german_dialect
+	
+	color = map_SAX
 	
 	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
 	
