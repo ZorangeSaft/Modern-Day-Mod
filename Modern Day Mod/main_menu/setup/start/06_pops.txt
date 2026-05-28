@@ -223133,7 +223133,7 @@ locations = {
    }
     kleisoura = {
       define_pop = {
-         culture = albanian
+         culture = greek_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223397,7 +223397,7 @@ locations = {
    }
     kleisoura_epirus = {
       define_pop = {
-         culture = aromanian
+         culture = albanian
          religion = orthodox
          size = 1.000
          type = peasants
