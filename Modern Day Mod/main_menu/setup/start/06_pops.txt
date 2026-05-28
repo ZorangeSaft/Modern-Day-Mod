@@ -16361,7 +16361,7 @@ locations = {
    }
     bodrog = {
       define_pop = {
-         culture = hungarian
+         culture = serbian
          religion = catholic
          size = 1.000
          type = peasants
@@ -16393,7 +16393,7 @@ locations = {
    }
     bacs = {
       define_pop = {
-         culture = hungarian
+         culture = serbian
          religion = catholic
          size = 1.000
          type = peasants
@@ -18433,7 +18433,7 @@ locations = {
    }
     mohacs = {
       define_pop = {
-         culture = hungarian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222013,7 +222013,7 @@ locations = {
    }
     srebrenica = {
       define_pop = {
-         culture = bosnian
+         culture = serbian
          religion = bosnian_church
          size = 1.000
          type = peasants
@@ -222045,7 +222045,7 @@ locations = {
    }
     doboj = {
       define_pop = {
-         culture = bosnian
+         culture = serbian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222061,7 +222061,7 @@ locations = {
    }
     bihac = {
       define_pop = {
-         culture = croatian
+         culture = bosnian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222069,7 +222069,7 @@ locations = {
    }
     dubica = {
       define_pop = {
-         culture = croatian
+         culture = serbian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222077,7 +222077,7 @@ locations = {
    }
     ustikolina = {
       define_pop = {
-         culture = bosnian
+         culture = serbian
          religion = bosnian_church
          size = 1.000
          type = peasants
@@ -222085,7 +222085,7 @@ locations = {
    }
     drijeva = {
       define_pop = {
-         culture = bosnian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222117,7 +222117,7 @@ locations = {
    }
     kljuc = {
       define_pop = {
-         culture = bosnian
+         culture = serbian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222125,7 +222125,7 @@ locations = {
    }
     mostar = {
       define_pop = {
-         culture = bosnian
+         culture = croatian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -222133,7 +222133,7 @@ locations = {
    }
     metkovic = {
       define_pop = {
-         culture = dalmatian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222141,7 +222141,7 @@ locations = {
    }
     trebinje = {
       define_pop = {
-         culture = bosnian
+         culture = serbian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -222149,7 +222149,7 @@ locations = {
    }
     gacko = {
       define_pop = {
-         culture = bosnian
+         culture = serbian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -222157,7 +222157,7 @@ locations = {
    }
     srb = {
       define_pop = {
-         culture = croatian
+         culture = serbian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222165,7 +222165,7 @@ locations = {
    }
     glamoc = {
       define_pop = {
-         culture = croatian
+         culture = serbian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222181,7 +222181,7 @@ locations = {
    }
     glaz = {
       define_pop = {
-         culture = bosnian
+         culture = serbian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222189,7 +222189,7 @@ locations = {
    }
     teocak = {
       define_pop = {
-         culture = bosnian
+         culture = serbian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -222205,7 +222205,7 @@ locations = {
    }
     borac = {
       define_pop = {
-         culture = bosnian
+         culture = serbian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -222221,7 +222221,7 @@ locations = {
    }
     vukovar = {
       define_pop = {
-         culture = hungarian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222237,7 +222237,7 @@ locations = {
    }
     gradiski_brod = {
       define_pop = {
-         culture = croatian
+         culture = serbian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222309,7 +222309,7 @@ locations = {
    }
     ilok = {
       define_pop = {
-         culture = hungarian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222341,7 +222341,7 @@ locations = {
    }
     krk = {
       define_pop = {
-         culture = dalmatian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222349,7 +222349,7 @@ locations = {
    }
     pag = {
       define_pop = {
-         culture = dalmatian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222357,7 +222357,7 @@ locations = {
    }
     rijeka = {
       define_pop = {
-         culture = dalmatian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222397,7 +222397,7 @@ locations = {
    }
     brac = {
       define_pop = {
-         culture = dalmatian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222405,7 +222405,7 @@ locations = {
    }
     split = {
       define_pop = {
-         culture = dalmatian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222421,7 +222421,7 @@ locations = {
    }
     zadar = {
       define_pop = {
-         culture = dalmatian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222461,7 +222461,7 @@ locations = {
    }
     slano = {
       define_pop = {
-         culture = dalmatian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222469,7 +222469,7 @@ locations = {
    }
     dubrovnik = {
       define_pop = {
-         culture = dalmatian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222485,7 +222485,7 @@ locations = {
    }
     osijek = {
       define_pop = {
-         culture = hungarian
+         culture = croatian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222549,7 +222549,7 @@ locations = {
    }
     visesav = {
       define_pop = {
-         culture = wallachian
+         culture = serbian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -222565,7 +222565,7 @@ locations = {
    }
     svrljig = {
       define_pop = {
-         culture = bulgarian
+         culture = serbian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -222573,7 +222573,7 @@ locations = {
    }
     pirot = {
       define_pop = {
-         culture = bulgarian
+         culture = serbian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -222645,7 +222645,7 @@ locations = {
    }
     kucevo = {
       define_pop = {
-         culture = wallachian
+         culture = serbian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -222749,7 +222749,7 @@ locations = {
    }
     kikinda = {
       define_pop = {
-         culture = hungarian
+         culture = serbian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222757,7 +222757,7 @@ locations = {
    }
     titel = {
       define_pop = {
-         culture = hungarian
+         culture = serbian
          religion = catholic
          size = 1.000
          type = peasants
@@ -222805,7 +222805,7 @@ locations = {
    }
     tsaribrod = {
       define_pop = {
-         culture = bulgarian
+         culture = serbian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223133,7 +223133,7 @@ locations = {
    }
     kleisoura = {
       define_pop = {
-         culture = greek_culture
+         culture = albanian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223645,7 +223645,7 @@ locations = {
    }
     argyrokastro = {
       define_pop = {
-         culture = greek_culture
+         culture = albanian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223805,7 +223805,7 @@ locations = {
    }
     avlonya = {
       define_pop = {
-         culture = greek_culture
+         culture = albanian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223853,7 +223853,7 @@ locations = {
    }
     shkoder = {
       define_pop = {
-         culture = serbian
+         culture = albanian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224077,7 +224077,7 @@ locations = {
    }
     gjakova = {
       define_pop = {
-         culture = serbian
+         culture = albanian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224085,7 +224085,7 @@ locations = {
    }
     peja = {
       define_pop = {
-         culture = serbian
+         culture = albanian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224101,7 +224101,7 @@ locations = {
    }
     pristina = {
       define_pop = {
-         culture = serbian
+         culture = albanian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224109,7 +224109,7 @@ locations = {
    }
     novo_brdo = {
       define_pop = {
-         culture = serbian
+         culture = albanian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224117,7 +224117,7 @@ locations = {
    }
     prizren = {
       define_pop = {
-         culture = serbian
+         culture = albanian
          religion = orthodox
          size = 1.000
          type = peasants
