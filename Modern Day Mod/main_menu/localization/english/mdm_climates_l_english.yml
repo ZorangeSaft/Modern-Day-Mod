@@ -1,0 +1,66 @@
+﻿l_english:
+tropical_rainforest_climate: "Rainforest"
+tropical_rainforest_climate_desc: "Rainforest climate represents the Af climate classification under the Köppen-Geiger climate classification system." #Feel free to redo these descriptions to be a little more flavourful, rather then a rather bland copy pasted description - Hǎdiros
+
+tropical_monsoon_climate: "Hot Monsoonal"
+tropical_monsoon_climate_desc: "Hot Monsoonal climate represents the Am climate classification under the Köppen-Geiger climate classification system.""
+
+tropical_savanna_climate: "Savanna"
+tropical_savanna_climate_desc: "Savanna climate represents the Aw & As climate classifications under the Köppen-Geiger climate classification system.""
+
+hot_arid_desert_climate: "Arid"
+hot_arid_desert_climate_desc: "Arid climate represents the BWh climate classification under the Köppen-Geiger climate classification system.""
+
+cold_arid_desert_climate: "Cold Arid"
+cold_arid_desert_climate_desc: "Cold Arid climate represents the BWk climate classification under the Köppen-Geiger climate classification system.""
+
+hot_semiarid_steppe_climate: "Scrub"
+hot_semiarid_steppe_climate_desc: "Scrub climate represents the BSh climate classification under the Köppen-Geiger climate classification system.""
+
+cold_semiarid_steppe_climate: "Steppe"
+cold_semiarid_steppe_climate_desc: "Steppe climate represents the BSk climate classification under the Köppen-Geiger climate classification system.""
+
+hot_mediterranean_climate: "Mediterranean"
+hot_mediterranean_climate_desc: "Mediterranean climate represents the Csa climate classification under the Köppen-Geiger climate classification system.""
+
+cool_mediterranean_climate: "Cool Mediterranean"
+cool_mediterranean_climate_desc: "Cool Mediterranean climate represents the Csb & Csc climate classifications under the Köppen-Geiger climate classification system.""
+
+subtropical_monsoon_climate: "Warm Monsoonal"
+subtropical_monsoon_climate_desc: "Warm Monsoonal climate represents the Cwa climate classification under the Köppen-Geiger climate classification system.""
+
+subtropical_humid_climate: "Subtropical"
+subtropical_humid_climate_desc: "Subtropical climate represents the Cfa climate classification under the Köppen-Geiger climate classification system.""
+
+subtropical_highland_climate: "High Subtropical"
+subtropical_highland_climate_desc: "High Subtropical climate represents the Cwb & Cwc climate classifications under the Köppen-Geiger climate classification system.""
+
+temperate_oceanic_climate: "Oceanic"
+temperate_oceanic_climate_desc: "Oceanic climate represents the Cfb climate classification under the Köppen-Geiger climate classification system.""
+
+subpolar_oceanic_climate: "Cold Oceanic"
+subpolar_oceanic_climate_desc: "Cold Oceanic climate represents the Cfc climate classification under the Köppen-Geiger climate classification system.""
+
+temperate_continental_humid_climate: "Continental"
+temperate_continental_humid_climate_desc: "Continental climate represents the Dfa & Dfb climate classifications under the Köppen-Geiger climate classification system.""
+
+temperate_monsoon_climate: "Cool Monsoonal"
+temperate_monsoon_climate_desc: "Cool Monsoonal climate represents the Dwa & Dwb climate classifications under the Köppen-Geiger climate classification system.""
+
+temperate_continental_climate: "Dry Continental"
+temperate_continental_climate_desc: "Dry Continental climate represents the Dsa & Dsb climate classifications under the Köppen-Geiger climate classification system.""
+
+subarctic_continental_humid_climate: "Boreal"
+subarctic_continental_humid_climate_desc: "Boreal climate represents the Dfc & Dfd climate classifications under the Köppen-Geiger climate classification system.""
+
+subarctic_monsoon_climate: "Cold Monsoonal"
+subarctic_monsoon_climate_desc: "Cold Monsoonal climate represents the Dwc & Dwd climate classifications under the Köppen-Geiger climate classification system.""
+
+subarctic_continental_climate: "Hyperboreal"
+subarctic_continental_climate_desc: "Hyperboreal climate represents the Dsc & Dsd climate classifications under the Köppen-Geiger climate classification system.""
+
+tundra_climate: "Tundra"
+tundra_climate_desc: "Tundra climate represents the ET climate classification under the Köppen-Geiger climate classification system.""
+
+ice_cap_climate: "Glacial"
+ice_cap_climate_desc: "Glacial climate represents the EF climate classification under the Köppen-Geiger climate classification system.""
