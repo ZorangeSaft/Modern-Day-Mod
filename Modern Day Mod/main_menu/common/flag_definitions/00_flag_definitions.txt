@@ -1796,6 +1796,13 @@ CONG = { # mdm modern day mod Congo
 	}
 }
 
+COOK = { # mdm modern day mod Cook Islands
+	flag_definition = {
+		coa = mdm_COOK_today
+		priority = 1
+	}
+}
+
 COST = { # mdm modern day mod Costa Rica
 	flag_definition = {
 		coa = mdm_COST_today

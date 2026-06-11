@@ -556,6 +556,22 @@ mdm_CONG_today = { # mdm modern day mod Congo
 	color3 = rgb { 221 31 25 }
 }
 
+mdm_COOK_today = { # mdm modern day mod Cook Islands
+	pattern = "pattern_solid.dds"
+	color1 = rgb { 0 27 105 }
+
+	textured_emblem = {
+		texture = "mdm_coa_union_jack.dds"
+		instance = { position = { 0.25 0.25 } scale = { 0.5 0.5 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_stars_cook_islands.dds"
+		color1= "white"
+		instance = { position = { 0.75 0.5 } scale = { 0.65 0.65 } } # eyeballed
+	}
+}
+
 mdm_COST_today = { # mdm modern day mod Costa Rica
 	pattern = "mdm_pattern_horizontal_stripes_costa_rica.dds"
 	color1 = rgb { 219 36 22 }
