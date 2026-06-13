@@ -102,6 +102,10 @@ mdm_on_game_start = {
 			  name = mdm_local_urbanisation_suitability
 			  value = mdm_local_urbanisation_suitability_level
 			}
+      #change_building_level_in_location = {
+			#	building = building_type:mdm_solar_panel
+			#	value = 1
+			#}
 		}
 
     #minerals

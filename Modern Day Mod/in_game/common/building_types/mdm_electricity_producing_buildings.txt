@@ -77,7 +77,8 @@ mdm_wind_turbine = {
 mdm_solar_panel = {
 	is_foreign = no
 	max_levels = {
-  	value = var:mdm_local_solar_illumination
+	1
+  	#value = var:mdm_local_solar_illumination
 	}
 	pop_type = laborers
 	
@@ -95,9 +96,9 @@ mdm_solar_panel = {
 	price = mdm_default_price
 	build_time = mdm_default_build_time
 
-	location_potential = {
-		has_building = building_type:mdm_electrical_grid
-	}
+	#location_potential = {
+	#	has_building = building_type:mdm_electrical_grid
+	#}
 
 	unique_production_methods = {
 		mdm_solar_panel_production = {
@@ -107,6 +108,126 @@ mdm_solar_panel = {
 			
 			#debug_max_profit = 0.6
 			category = building_maintenance
+
+			potential = {
+				scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 10 } }
+			}
+
+			allow = {
+				scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 10 } }
+			}
+		}
+		mdm_solar_panel_production_2 = {
+			tools = 0.2
+			produced = electricity
+			output = 20 #temporary
+			
+			#debug_max_profit = 0.6
+			category = building_maintenance
+
+			potential = {
+				scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 20 } }
+			}
+
+			allow = {
+				scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 20 } }
+			}
+		}
+		mdm_solar_panel_production_3 = {
+			tools = 0.3
+			produced = electricity
+			output = 30 #temporary
+			
+			#debug_max_profit = 0.6
+			category = building_maintenance
+
+			potential = {
+				scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 30 } }
+			}
+
+			allow = {
+			scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 30 } }
+			}
+		}
+		mdm_solar_panel_production_4 = {
+			tools = 0.4
+			produced = electricity
+			output = 40 #temporary
+			
+			#debug_max_profit = 0.6
+			category = building_maintenance
+
+			potential = {
+				scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 40 } }
+			}
+
+			allow = {
+			scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 40 } }
+			}
+		}
+		mdm_solar_panel_production_5 = {
+			tools = 0.5
+			produced = electricity
+			output = 50 #temporary
+			
+			#debug_max_profit = 0.6
+			category = building_maintenance
+
+			potential = {
+				scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 50 } }
+			}
+
+			allow = {
+			scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 50 } }
+			}
+		}
+		mdm_solar_panel_production_6 = {
+			tools = 0.6
+			produced = electricity
+			output = 60 #temporary
+			
+			#debug_max_profit = 0.6
+			category = building_maintenance
+
+			potential = {
+				scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 60 } }
+			}
+
+			allow = {
+			scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 60 } }
+			}
+		}
+		mdm_solar_panel_production_7 = {
+			tools = 0.7
+			produced = electricity
+			output = 70 #temporary
+			
+			#debug_max_profit = 0.6
+			category = building_maintenance
+
+			potential = {
+				scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 70 } }
+			}
+
+			allow = {
+			scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 70 } }
+			}
+		}
+		mdm_solar_panel_production_8 = {
+			tools = 0.8
+			produced = electricity
+			output = 80 #temporary
+			
+			#debug_max_profit = 0.6
+			category = building_maintenance
+
+			potential = {
+				scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 80 } }
+			}
+
+			allow = {
+			scope:target ?= { location ?= {  var:mdm_local_solar_illumination > 80 } }
+			}
 		}
 	}
 
