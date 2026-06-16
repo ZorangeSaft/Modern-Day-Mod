@@ -469,6 +469,23 @@ mdm_CASCA_today = { # mdm modern day mod Cascadia
 	}
 }
 
+mdm_CAT_today = { # mdm modern day mod Catalonia
+	pattern = "mdm_pattern_horizontal_stripes_9.dds"
+	color1 = rgb { 251 214 4 }
+	color2 = rgb { 205 0 0 }
+
+	colored_emblem = {
+		texture = "mdm_ce_hoist_triangle_90.dds"
+		color1 = rgb { 6 69 176 }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_star_five.dds"
+		color1 = "white"
+		instance = { position = { 0.145 0.488 } scale = { 0.262 0.262 } }
+	}
+}
+
 mdm_CHAD_today = { # mdm modern day mod Chad
 	pattern = "pattern_tricolor_vertical_01.dds"
 	color1 = rgb { 0 32 91 }
@@ -2585,6 +2602,25 @@ mdm_UKR_today = { # mdm modern day mod Ukraine
 	pattern = "pattern_horizontal_split_01.dds"
 	color1 = rgb { 0 87 183 }
 	color2 = rgb { 255 215 0 }
+}
+
+mdm_URUG_today = { # mdm modern day mod Uruguay
+	pattern = "mdm_pattern_horizontal_stripes_9.dds"
+	color1 = "white"
+	color2 = rgb { 0 56 168 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = "white"
+		instance = { position = { 0.185 0.278 } scale = { 0.37 0.556 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_uruguay.dds"
+		color1 = rgb { 252 209 22 }
+		color2 = rgb { 123 63 0 }
+		instance = { position = { 0.185 0.278 } scale = { 0.419 0.419 } }
+	}
 }
 
 mdm_USA_today = { # mdm modern day mod United States
