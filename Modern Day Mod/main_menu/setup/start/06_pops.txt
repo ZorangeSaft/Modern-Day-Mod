@@ -369,7 +369,7 @@ locations = {
    }
     hornborg = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -385,7 +385,7 @@ locations = {
    }
     kungsbacka = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -681,7 +681,7 @@ locations = {
    }
     idre = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -721,7 +721,7 @@ locations = {
    }
     hammerdal = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -729,7 +729,7 @@ locations = {
    }
     offerdal = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -737,7 +737,7 @@ locations = {
    }
     berg = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -745,7 +745,7 @@ locations = {
    }
     froso = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -753,7 +753,7 @@ locations = {
    }
     ragunda = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -785,7 +785,7 @@ locations = {
    }
     oviken = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -849,7 +849,7 @@ locations = {
    }
     vindeln = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -865,7 +865,7 @@ locations = {
    }
     tornea = {
       define_pop = {
-         culture = kvens
+         culture = swedish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -881,7 +881,7 @@ locations = {
    }
     pitea = {
       define_pop = {
-         culture = kvens
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -889,7 +889,7 @@ locations = {
    }
     lulea = {
       define_pop = {
-         culture = kvens
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -897,7 +897,7 @@ locations = {
    }
     ranea = {
       define_pop = {
-         culture = kvens
+         culture = swedish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -905,7 +905,7 @@ locations = {
    }
     gratesk = {
       define_pop = {
-         culture = kvens
+         culture = swedish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -913,7 +913,7 @@ locations = {
    }
     hienatiemi = {
       define_pop = {
-         culture = kvens
+         culture = swedish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -921,7 +921,7 @@ locations = {
    }
     pajala = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -929,7 +929,7 @@ locations = {
    }
     branna = {
       define_pop = {
-         culture = kvens
+         culture = swedish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -937,7 +937,7 @@ locations = {
    }
     byske = {
       define_pop = {
-         culture = kvens
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -945,7 +945,7 @@ locations = {
    }
     bodebyn = {
       define_pop = {
-         culture = kvens
+         culture = swedish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -953,7 +953,7 @@ locations = {
    }
     alvsby = {
       define_pop = {
-         culture = kvens
+         culture = swedish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -961,7 +961,7 @@ locations = {
    }
     asele = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -969,7 +969,7 @@ locations = {
    }
     lycksele = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -977,7 +977,7 @@ locations = {
    }
     sorsele = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -985,7 +985,7 @@ locations = {
    }
     arvidsjaur = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -993,7 +993,7 @@ locations = {
    }
     arjeplog = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1001,7 +1001,7 @@ locations = {
    }
     silbojock = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1009,7 +1009,7 @@ locations = {
    }
     volgsjo = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1017,7 +1017,7 @@ locations = {
    }
     stensele = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1025,7 +1025,7 @@ locations = {
    }
     tarna = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1033,7 +1033,7 @@ locations = {
    }
     ortrask = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1041,7 +1041,7 @@ locations = {
    }
     akkajaur = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1049,7 +1049,7 @@ locations = {
    }
     socksjock = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1065,7 +1065,7 @@ locations = {
    }
     kvikkjock = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1073,7 +1073,7 @@ locations = {
    }
     porjus = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1081,7 +1081,7 @@ locations = {
    }
     gellivaara = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1089,7 +1089,7 @@ locations = {
    }
     juckasjarvi = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1097,7 +1097,7 @@ locations = {
    }
     mourionska = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1105,7 +1105,7 @@ locations = {
    }
     enontakis = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1113,7 +1113,7 @@ locations = {
    }
     raunala = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1121,7 +1121,7 @@ locations = {
    }
     abisko = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1129,7 +1129,7 @@ locations = {
    }
     sarek = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1137,7 +1137,7 @@ locations = {
    }
     korpilombo = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1145,7 +1145,7 @@ locations = {
    }
     nikkaluokta = {
       define_pop = {
-         culture = sapmi
+         culture = swedish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1153,7 +1153,7 @@ locations = {
    }
     kasivarren = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1161,7 +1161,7 @@ locations = {
    }
     abo = {
       define_pop = {
-         culture = swedish
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1193,7 +1193,7 @@ locations = {
    }
     helsinge = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1201,7 +1201,7 @@ locations = {
    }
     ekenas = {
       define_pop = {
-         culture = finnish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1209,7 +1209,7 @@ locations = {
    }
     sjundea = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1217,7 +1217,7 @@ locations = {
    }
     porvoo = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1225,7 +1225,7 @@ locations = {
    }
     kymi_fi = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1233,7 +1233,7 @@ locations = {
    }
     ikalis = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1241,7 +1241,7 @@ locations = {
    }
     raumo = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1249,7 +1249,7 @@ locations = {
    }
     bjorneborg = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1257,7 +1257,7 @@ locations = {
    }
     hvittis = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1265,7 +1265,7 @@ locations = {
    }
     sastmola = {
       define_pop = {
-         culture = kvens
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1273,7 +1273,7 @@ locations = {
    }
     birkala = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1281,7 +1281,7 @@ locations = {
    }
     sastamala = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1289,7 +1289,7 @@ locations = {
    }
     orivesi = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1297,7 +1297,7 @@ locations = {
    }
     hollola = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1305,7 +1305,7 @@ locations = {
    }
     lohja = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1313,7 +1313,7 @@ locations = {
    }
     tavastehus = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1321,7 +1321,7 @@ locations = {
    }
     janakkala = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1329,7 +1329,7 @@ locations = {
    }
     forssa = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1337,7 +1337,7 @@ locations = {
    }
     itis = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1345,7 +1345,7 @@ locations = {
    }
     liljendal = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1353,7 +1353,7 @@ locations = {
    }
     jyvaskyla = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1361,7 +1361,7 @@ locations = {
    }
     jamsa = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1369,7 +1369,7 @@ locations = {
    }
     saarijarvi = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1377,7 +1377,7 @@ locations = {
    }
     viitasaari = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1385,7 +1385,7 @@ locations = {
    }
     laukas = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1393,7 +1393,7 @@ locations = {
    }
     sysma = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1401,7 +1401,7 @@ locations = {
    }
     kiemi = {
       define_pop = {
-         culture = kvens
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1409,7 +1409,7 @@ locations = {
    }
     simo = {
       define_pop = {
-         culture = kvens
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1425,7 +1425,7 @@ locations = {
    }
     koppo = {
       define_pop = {
-         culture = kvens
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1433,7 +1433,7 @@ locations = {
    }
     pedersore = {
       define_pop = {
-         culture = kvens
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1441,7 +1441,7 @@ locations = {
    }
     storkyro = {
       define_pop = {
-         culture = kvens
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1449,7 +1449,7 @@ locations = {
    }
     vora = {
       define_pop = {
-         culture = kvens
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1457,7 +1457,7 @@ locations = {
    }
     uleaborg = {
       define_pop = {
-         culture = kvens
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1465,7 +1465,7 @@ locations = {
    }
     brahestad = {
       define_pop = {
-         culture = swedish
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1473,7 +1473,7 @@ locations = {
    }
     karleby = {
       define_pop = {
-         culture = swedish
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1481,7 +1481,7 @@ locations = {
    }
     kaustby = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1489,7 +1489,7 @@ locations = {
    }
     lappo = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1497,7 +1497,7 @@ locations = {
    }
     kuivaniemi = {
       define_pop = {
-         culture = kvens
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1505,7 +1505,7 @@ locations = {
    }
     mikkeli = {
       define_pop = {
-         culture = savonian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1513,7 +1513,7 @@ locations = {
    }
     olofsborg = {
       define_pop = {
-         culture = savonian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1521,7 +1521,7 @@ locations = {
    }
     heinola = {
       define_pop = {
-         culture = savonian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1529,7 +1529,7 @@ locations = {
    }
     kangasniemi = {
       define_pop = {
-         culture = savonian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1537,7 +1537,7 @@ locations = {
    }
     ristiina = {
       define_pop = {
-         culture = savonian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1545,7 +1545,7 @@ locations = {
    }
     joroinen = {
       define_pop = {
-         culture = savonian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1553,7 +1553,7 @@ locations = {
    }
     kuopio = {
       define_pop = {
-         culture = savonian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1561,7 +1561,7 @@ locations = {
    }
     idensalmi = {
       define_pop = {
-         culture = savonian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1569,7 +1569,7 @@ locations = {
    }
     kajana = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1577,7 +1577,7 @@ locations = {
    }
     rautavaara = {
       define_pop = {
-         culture = savonian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1585,7 +1585,7 @@ locations = {
    }
     savonranta = {
       define_pop = {
-         culture = savonian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1601,7 +1601,7 @@ locations = {
    }
     villmanstrand = {
       define_pop = {
-         culture = karelian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1609,7 +1609,7 @@ locations = {
    }
     veckelax = {
       define_pop = {
-         culture = karelian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1617,7 +1617,7 @@ locations = {
    }
     elimaki = {
       define_pop = {
-         culture = tavastian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1625,7 +1625,7 @@ locations = {
    }
     vederlax = {
       define_pop = {
-         culture = karelian
+         culture = finnish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1705,7 +1705,7 @@ locations = {
    }
     joensuu = {
       define_pop = {
-         culture = karelian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1713,7 +1713,7 @@ locations = {
    }
     vartsila = {
       define_pop = {
-         culture = karelian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1729,7 +1729,7 @@ locations = {
    }
     ilomantsi = {
       define_pop = {
-         culture = karelian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1737,7 +1737,7 @@ locations = {
    }
     lieksa = {
       define_pop = {
-         culture = karelian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1745,7 +1745,7 @@ locations = {
    }
     nurmes = {
       define_pop = {
-         culture = karelian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1753,7 +1753,7 @@ locations = {
    }
     juuka = {
       define_pop = {
-         culture = karelian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1777,7 +1777,7 @@ locations = {
    }
     mohko = {
       define_pop = {
-         culture = karelian
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1793,7 +1793,7 @@ locations = {
    }
     rovaniemi = {
       define_pop = {
-         culture = kvens
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1801,7 +1801,7 @@ locations = {
    }
     pudasjarvi = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1809,7 +1809,7 @@ locations = {
    }
     taivalkoski = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1817,7 +1817,7 @@ locations = {
    }
     kuusamo = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1825,7 +1825,7 @@ locations = {
    }
     utajarvi = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1833,7 +1833,7 @@ locations = {
    }
     siikalatva = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1841,7 +1841,7 @@ locations = {
    }
     sotkamo = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1849,7 +1849,7 @@ locations = {
    }
     kuhmo = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1857,7 +1857,7 @@ locations = {
    }
     paltamo = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1865,7 +1865,7 @@ locations = {
    }
     suomussalmi = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1873,7 +1873,7 @@ locations = {
    }
     ranua = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -1881,7 +1881,7 @@ locations = {
    }
     posio = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1889,7 +1889,7 @@ locations = {
    }
     salla = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1897,7 +1897,7 @@ locations = {
    }
     kemijarvi = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1905,7 +1905,7 @@ locations = {
    }
     korvala = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1913,7 +1913,7 @@ locations = {
    }
     enare = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1921,7 +1921,7 @@ locations = {
    }
     kittila = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1929,7 +1929,7 @@ locations = {
    }
     sodankyla = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1937,7 +1937,7 @@ locations = {
    }
     savukoski = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1945,7 +1945,7 @@ locations = {
    }
     nunnanen = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1953,7 +1953,7 @@ locations = {
    }
     ivalo = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -1969,7 +1969,7 @@ locations = {
    }
     konghalla = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1977,7 +1977,7 @@ locations = {
    }
     uddevalla = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -1985,7 +1985,7 @@ locations = {
    }
     stromstad = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -2057,7 +2057,7 @@ locations = {
    }
     sveg = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -2065,7 +2065,7 @@ locations = {
    }
     hede = {
       define_pop = {
-         culture = norwegian
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -2673,7 +2673,7 @@ locations = {
    }
     raisa = {
       define_pop = {
-         culture = sapmi
+         culture = norwegian
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -2689,7 +2689,7 @@ locations = {
    }
     varanger = {
       define_pop = {
-         culture = sapmi
+         culture = norwegian
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -2697,7 +2697,7 @@ locations = {
    }
     vardo = {
       define_pop = {
-         culture = sapmi
+         culture = norwegian
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -2705,7 +2705,7 @@ locations = {
    }
     deatnu = {
       define_pop = {
-         culture = sapmi
+         culture = norwegian
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -2713,7 +2713,7 @@ locations = {
    }
     porsanger = {
       define_pop = {
-         culture = sapmi
+         culture = norwegian
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -2729,7 +2729,7 @@ locations = {
    }
     hammerfest = {
       define_pop = {
-         culture = sapmi
+         culture = norwegian
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -2737,7 +2737,7 @@ locations = {
    }
     alta = {
       define_pop = {
-         culture = sapmi
+         culture = norwegian
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -2761,7 +2761,7 @@ locations = {
    }
     hattfjelldal = {
       define_pop = {
-         culture = sapmi
+         culture = norwegian
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -2865,7 +2865,7 @@ locations = {
    }
     kirkenes = {
       define_pop = {
-         culture = sapmi
+         culture = norwegian
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -2873,7 +2873,7 @@ locations = {
    }
     lebesby = {
       define_pop = {
-         culture = sapmi
+         culture = norwegian
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -18441,7 +18441,7 @@ locations = {
    }
     varberg = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -18449,7 +18449,7 @@ locations = {
    }
     laholm = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -18457,7 +18457,7 @@ locations = {
    }
     helsingborg = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -18465,7 +18465,7 @@ locations = {
    }
     lund = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -18473,7 +18473,7 @@ locations = {
    }
     malmo = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -18481,7 +18481,7 @@ locations = {
    }
     gladsax = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -18489,7 +18489,7 @@ locations = {
    }
     osby = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -18497,7 +18497,7 @@ locations = {
    }
     solvesborg = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -18505,7 +18505,7 @@ locations = {
    }
     ronneby = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -18721,7 +18721,7 @@ locations = {
    }
     asbo = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -18729,7 +18729,7 @@ locations = {
    }
     bregne = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -18737,7 +18737,7 @@ locations = {
    }
     halmstad = {
       define_pop = {
-         culture = danish
+         culture = swedish
          religion = catholic
          size = 1.000
          type = peasants
@@ -66263,7 +66263,7 @@ locations = {
    }
     kantalahti = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66335,7 +66335,7 @@ locations = {
    }
     umba = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66343,7 +66343,7 @@ locations = {
    }
     kola = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66351,7 +66351,7 @@ locations = {
    }
     kovda = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66359,7 +66359,7 @@ locations = {
    }
     keret = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66367,7 +66367,7 @@ locations = {
    }
     kriitina = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66375,7 +66375,7 @@ locations = {
    }
     raivke = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66383,7 +66383,7 @@ locations = {
    }
     olenitsa = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66759,7 +66759,7 @@ locations = {
    }
     suonikyla = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66767,7 +66767,7 @@ locations = {
    }
     koliskoj = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66775,7 +66775,7 @@ locations = {
    }
     maaselka = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66783,7 +66783,7 @@ locations = {
    }
     luujarvi = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66791,7 +66791,7 @@ locations = {
    }
     akkala = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66799,7 +66799,7 @@ locations = {
    }
     mootka = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66807,7 +66807,7 @@ locations = {
    }
     pechenga = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66815,7 +66815,7 @@ locations = {
    }
     prirechnyi = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66823,7 +66823,7 @@ locations = {
    }
     alakurti = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66831,7 +66831,7 @@ locations = {
    }
     kiestinki = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66839,7 +66839,7 @@ locations = {
    }
     uhtuo = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66847,7 +66847,7 @@ locations = {
    }
     jyskyjarvi = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66855,7 +66855,7 @@ locations = {
    }
     paanajarvi = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66879,7 +66879,7 @@ locations = {
    }
     pieninka = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66895,7 +66895,7 @@ locations = {
    }
     rukajarvi = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66927,7 +66927,7 @@ locations = {
    }
     kashkarantsy = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66935,7 +66935,7 @@ locations = {
    }
     varzuga = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66943,7 +66943,7 @@ locations = {
    }
     pyalitsa = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66951,7 +66951,7 @@ locations = {
    }
     tetrino = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66959,7 +66959,7 @@ locations = {
    }
     ponoi = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66967,7 +66967,7 @@ locations = {
    }
     svyatoy_nos = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66975,7 +66975,7 @@ locations = {
    }
     kiltina = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66983,7 +66983,7 @@ locations = {
    }
     semiostrov = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66991,7 +66991,7 @@ locations = {
    }
     dalniye_zelentsy = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
@@ -66999,7 +66999,7 @@ locations = {
    }
     nuorttijarvi = {
       define_pop = {
-         culture = sapmi
+         culture = finnish
          religion = sapmi_shamanism
          size = 1.000
          type = peasants
