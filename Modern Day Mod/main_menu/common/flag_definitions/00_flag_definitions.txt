@@ -6133,6 +6133,13 @@ UKR = { # mdm modern day mod Ukraine
 	}
 }
 
+URUG = { # mdm modern day mod Uruguay
+	flag_definition = {
+		coa = mdm_URUG_today
+		priority = 1
+	}
+}
+
 ULA = { # Nara Ula
 	flag_definition = {
 		coa = ULA

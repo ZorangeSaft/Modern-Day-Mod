@@ -2604,6 +2604,25 @@ mdm_UKR_today = { # mdm modern day mod Ukraine
 	color2 = rgb { 255 215 0 }
 }
 
+mdm_URUG_today = { # mdm modern day mod Uruguay
+	pattern = "mdm_pattern_horizontal_stripes_9.dds"
+	color1 = "white"
+	color2 = rgb { 0 56 168 }
+
+	colored_emblem = {
+		texture = "mdm_ce_box.dds"
+		color1 = "white"
+		instance = { position = { 0.185 0.278 } scale = { 0.37 0.556 } }
+	}
+
+	colored_emblem = {
+		texture = "mdm_ce_uruguay.dds"
+		color1 = rgb { 252 209 22 }
+		color2 = rgb { 123 63 0 }
+		instance = { position = { 0.185 0.278 } scale = { 0.419 0.419 } }
+	}
+}
+
 mdm_USA_today = { # mdm modern day mod United States
 	pattern = "pattern_solid.dds"
 	color1 = rgb { 192 3 44 }
