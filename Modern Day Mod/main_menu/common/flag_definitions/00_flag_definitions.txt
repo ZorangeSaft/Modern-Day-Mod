@@ -1544,26 +1544,10 @@ CASCA = {  # mdm modern day mod Cascadia
 	}
 }
 
-CAT = { # Catalonia
+CAT = {  # mdm modern day mod Catalonia
 	flag_definition = {
-		coa = CAT
+		coa = mdm_CAT_today
 		priority = 1
-	}
-	flag_definition = {
-		coa = ARA
-		priority = 2
-		trigger = {
-			NOT = { country_exists = c:ARA }
-		}
-	}
-	flag_definition = {
-		coa = CAT_sitges
-		priority = 3
-		trigger = {
-			scope:actor ?= {
-				capital = location:sitges
-			}
-		}
 	}
 }
 
