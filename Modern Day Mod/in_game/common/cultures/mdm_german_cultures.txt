@@ -84,20 +84,6 @@ mdm_tyrolean_culture = {
 	}
 }
 
-mdm_vorarlbergian_culture = {
-	language = alemannic_dialect
-	
-	color = rgb { 127 127 127 }
-	
-	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
-	
-	opinions = { }
-	
-	culture_groups = {
-		german_group
-	}
-}
-
 mdm_low_german_culture = {
 	language = mdm_german_dialect
 	

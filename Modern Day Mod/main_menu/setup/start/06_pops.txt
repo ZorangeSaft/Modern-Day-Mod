@@ -10577,7 +10577,7 @@ locations = {
    }
     bregenz = {
       define_pop = {
-         culture = mdm_vorarlbergian_culture
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10585,7 +10585,7 @@ locations = {
    }
     bludenz = {
       define_pop = {
-         culture = mdm_vorarlbergian_culture
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -10705,7 +10705,7 @@ locations = {
    }
     feldkirch = {
       define_pop = {
-         culture = mdm_vorarlbergian_culture
+         culture = mdm_alemannic_culture
          religion = catholic
          size = 1.000
          type = peasants
