@@ -125,7 +125,6 @@
  dalmatian: "Dalmatian"
  bulgarian: "Bulgarian"
  slovene: "Slovene"
- sclavene: "Sclavene"
  french: "French"
  catalan: "Catalan"
  breton: "Breton"
@@ -3010,3 +3009,6 @@
  mdm_low_german_culture: "Low German"
  mdm_east_german_culture: "East German"
  mdm_german_dialect: "German"
+ 
+ mdm_north_macedonian_culture: "North Macedonian"
+ mdm_macedonian_dialect: "Macedonian"

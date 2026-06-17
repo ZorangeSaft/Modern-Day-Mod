@@ -223341,7 +223341,7 @@ locations = {
    }
     pyli = {
       define_pop = {
-         culture = aromanian
+         culture = greek_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223437,7 +223437,7 @@ locations = {
    }
     florina = {
       define_pop = {
-         culture = greek_culture
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223757,7 +223757,7 @@ locations = {
    }
     ormenio = {
       define_pop = {
-         culture = greek_culture
+         culture = bulgarian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223885,7 +223885,7 @@ locations = {
    }
     ohrid = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223893,7 +223893,7 @@ locations = {
    }
     bitola = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223901,7 +223901,7 @@ locations = {
    }
     prilep = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223909,7 +223909,7 @@ locations = {
    }
     kocani = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223917,7 +223917,7 @@ locations = {
    }
     kicevo = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223925,7 +223925,7 @@ locations = {
    }
     debar = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223933,7 +223933,7 @@ locations = {
    }
     tetovo = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223941,7 +223941,7 @@ locations = {
    }
     skopje = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223949,7 +223949,7 @@ locations = {
    }
     kumanovo = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223965,7 +223965,7 @@ locations = {
    }
     veles = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223973,7 +223973,7 @@ locations = {
    }
     prosek = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223981,7 +223981,7 @@ locations = {
    }
     shtip = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223989,7 +223989,7 @@ locations = {
    }
     strumica = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -223997,7 +223997,7 @@ locations = {
    }
     kratovo = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_north_macedonian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224245,7 +224245,7 @@ locations = {
    }
     sozopol = {
       define_pop = {
-         culture = greek_culture
+         culture = bulgarian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224253,7 +224253,7 @@ locations = {
    }
     burgas = {
       define_pop = {
-         culture = greek_culture
+         culture = bulgarian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224397,7 +224397,7 @@ locations = {
    }
     shumen = {
       define_pop = {
-         culture = bulgarian
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224405,7 +224405,7 @@ locations = {
    }
     aytos = {
       define_pop = {
-         culture = bulgarian
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224589,7 +224589,7 @@ locations = {
    }
     veliki_preslav = {
       define_pop = {
-         culture = bulgarian
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224597,7 +224597,7 @@ locations = {
    }
     ktenia = {
       define_pop = {
-         culture = bulgarian
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224621,7 +224621,7 @@ locations = {
    }
     perperek = {
       define_pop = {
-         culture = bulgarian
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224629,7 +224629,7 @@ locations = {
    }
     ustra = {
       define_pop = {
-         culture = bulgarian
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224701,7 +224701,7 @@ locations = {
    }
     ahtopol = {
       define_pop = {
-         culture = greek_culture
+         culture = bulgarian
          religion = orthodox
          size = 1.000
          type = peasants
