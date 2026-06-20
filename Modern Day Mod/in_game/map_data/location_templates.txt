@@ -3981,23 +3981,23 @@ hieraniony = { climate = temperate_continental_humid_climate culture = polesian_
 kreva = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = lumber religion = romuva topography = flatland vegetation = forest }
 braslaw = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = fur religion = romuva topography = flatland vegetation = forest }
 drysvyaty = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = fiber_crops religion = romuva topography = flatland vegetation = forest }
-ezerenai = { topography = wetlands vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = lumber}
+ezerenai = { topography = wetlands vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = lumber}
 miory = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = lumber religion = orthodox topography = wetlands vegetation = woods }
-kaunas = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = wool}
-alytus = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = lumber religion = romuva topography = wetlands vegetation = woods }
-punia = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = wool}
-vilkaviskis = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = millet religion = romuva topography = flatland vegetation = woods }
+kaunas = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = wool}
+alytus = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = lumber religion = romuva topography = wetlands vegetation = woods }
+punia = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = wool}
+vilkaviskis = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = millet religion = romuva topography = flatland vegetation = woods }
 lida = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = fur religion = romuva topography = flatland vegetation = forest }
 astrina = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = fiber_crops religion = romuva topography = flatland vegetation = forest }
-eisiskes = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = fur}
+eisiskes = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = fur}
 shchuchyn = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = wild_game religion = romuva topography = flatland vegetation = forest }
 suwalki = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = romuva topography = flatland vegetation = forest }
 lipsk = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = romuva topography = flatland vegetation = forest }
-veisiejai = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = legumes religion = romuva topography = flatland vegetation = forest }
-trakai = { topography = wetlands vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = wild_game}
-lazdijai = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = millet religion = romuva topography = flatland vegetation = woods }
-onushkis = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = clay}
-merkine = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = fur}
+veisiejai = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = legumes religion = romuva topography = flatland vegetation = forest }
+trakai = { topography = wetlands vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = wild_game}
+lazdijai = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = millet religion = romuva topography = flatland vegetation = woods }
+onushkis = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = clay}
+merkine = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = fur}
 svir = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = millet religion = romuva topography = flatland vegetation = forest }
 dokshytsy = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = clay religion = orthodox topography = flatland vegetation = forest }
 hlybokaye = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = lumber religion = orthodox topography = flatland vegetation = woods }
@@ -4005,20 +4005,20 @@ myadzyel = { climate = temperate_continental_humid_climate culture = polesian_cu
 svencionys = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = beeswax religion = romuva topography = flatland vegetation = forest }
 vileyka = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = millet religion = romuva topography = flatland vegetation = forest }
 lake_narach = { topography = lakes climate = temperate_continental_humid_climate}
-upyte = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = fur}
-birzai = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = lumber}
-linkava = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = lumber religion = romuva topography = wetlands vegetation = woods }
-panevezys = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = horses}
-pasvalys = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = lumber religion = romuva topography = wetlands vegetation = woods }
-vilkmerge = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = fiber_crops}
-anyksciai = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = fur}
-maleisiai = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = legumes}
-rokiskis = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = beeswax}
-utena = { topography = wetlands vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = wild_game}
-vilnius = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = millet}
-giedraiciai = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = legumes}
-kernave = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = fish}
-medininkai_vilna = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = livestock}
+upyte = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = fur}
+birzai = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = lumber}
+linkava = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = lumber religion = romuva topography = wetlands vegetation = woods }
+panevezys = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = horses}
+pasvalys = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = lumber religion = romuva topography = wetlands vegetation = woods }
+vilkmerge = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = fiber_crops}
+anyksciai = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = fur}
+maleisiai = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = legumes}
+rokiskis = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = beeswax}
+utena = { topography = wetlands vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = wild_game}
+vilnius = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = millet}
+giedraiciai = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = legumes}
+kernave = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = fish}
+medininkai_vilna = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = livestock}
 ciechanow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = farmland }
 przasnysz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fur religion = catholic topography = flatland vegetation = woods }
 rozan = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
@@ -4066,9 +4066,9 @@ tczew = { climate = temperate_continental_humid_climate culture = mdm_polish_cul
 tilsit = { climate = temperate_continental_humid_climate culture = muscovite raw_material = lumber religion = romuva topography = flatland vegetation = forest }
 gumbinnen = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wild_game religion = catholic topography = flatland vegetation = forest }
 labiau = { climate = temperate_continental_humid_climate culture = muscovite raw_material = fish religion = catholic topography = wetlands vegetation = grasslands }
-memel = { climate = temperate_continental_humid_climate culture = aukstaitian natural_harbor_suitability = 0.50 raw_material = sand religion = romuva topography = flatland vegetation = woods }
+memel = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture natural_harbor_suitability = 0.50 raw_material = sand religion = romuva topography = flatland vegetation = woods }
 ragnit = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = romuva topography = wetlands vegetation = forest }
-windenburg = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = wild_game religion = catholic topography = wetlands vegetation = woods }
+windenburg = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = wild_game religion = catholic topography = wetlands vegetation = woods }
 curonian_lagoon = { topography = lakes climate = temperate_continental_humid_climate}
 konigsberg = { climate = temperate_continental_humid_climate culture = muscovite modifier = amber_coast_base natural_harbor_suitability = 0.75 raw_material = amber religion = catholic topography = flatland vegetation = grasslands }
 balga = { climate = temperate_continental_humid_climate culture = mdm_polish_culture modifier = amber_coast_base raw_material = amber religion = catholic topography = flatland vegetation = woods }
@@ -4099,22 +4099,22 @@ morag = { climate = temperate_continental_humid_climate culture = mdm_polish_cul
 lidzbark = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
 frombork = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fish religion = catholic topography = flatland vegetation = woods }
 olsztyn = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = horses religion = catholic topography = flatland vegetation = woods }
-medininkai = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = millet religion = romuva topography = flatland vegetation = woods }
-palanga = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = salt religion = romuva topography = flatland vegetation = woods }
-rietavas = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = lumber religion = romuva topography = flatland vegetation = forest }
-silale = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = fur religion = romuva topography = flatland vegetation = forest }
-skuodas = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = horses religion = romuva topography = flatland vegetation = woods }
-taurage = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = medicaments religion = romuva topography = flatland vegetation = forest }
-raseiniai = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = millet religion = romuva topography = flatland vegetation = woods }
-jurbarkas = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = wild_game religion = romuva topography = flatland vegetation = woods }
-kedainiai = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = wool}
-panemune = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = beeswax religion = romuva topography = flatland vegetation = woods }
-tendziogala = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = livestock religion = romuva topography = flatland vegetation = woods }
-siauliai = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = wheat religion = romuva topography = flatland vegetation = woods }
-kraziai = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = beeswax religion = romuva topography = flatland vegetation = woods }
-mazeikiai = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = wheat religion = romuva topography = flatland vegetation = woods }
-papile = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = lumber religion = romuva topography = flatland vegetation = woods }
-zagare = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = clay religion = romuva topography = flatland vegetation = woods }
+medininkai = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = millet religion = romuva topography = flatland vegetation = woods }
+palanga = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = salt religion = romuva topography = flatland vegetation = woods }
+rietavas = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = lumber religion = romuva topography = flatland vegetation = forest }
+silale = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = fur religion = romuva topography = flatland vegetation = forest }
+skuodas = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = horses religion = romuva topography = flatland vegetation = woods }
+taurage = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = medicaments religion = romuva topography = flatland vegetation = forest }
+raseiniai = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = millet religion = romuva topography = flatland vegetation = woods }
+jurbarkas = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = wild_game religion = romuva topography = flatland vegetation = woods }
+kedainiai = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = mdm_lithuanian_culture raw_material = wool}
+panemune = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = beeswax religion = romuva topography = flatland vegetation = woods }
+tendziogala = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = livestock religion = romuva topography = flatland vegetation = woods }
+siauliai = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = wheat religion = romuva topography = flatland vegetation = woods }
+kraziai = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = beeswax religion = romuva topography = flatland vegetation = woods }
+mazeikiai = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = wheat religion = romuva topography = flatland vegetation = woods }
+papile = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = lumber religion = romuva topography = flatland vegetation = woods }
+zagare = { climate = temperate_continental_humid_climate culture = mdm_lithuanian_culture raw_material = clay religion = romuva topography = flatland vegetation = woods }
 glogow = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
 gora = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = woods }
 kozuchow = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = fiber_crops religion = catholic topography = flatland vegetation = grasslands }

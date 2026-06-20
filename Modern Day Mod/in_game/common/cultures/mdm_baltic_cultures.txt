@@ -1,0 +1,88 @@
+curonian = { #Baltic
+	language = western_baltic_dialect
+	
+	color = map_curonian
+	
+	tags = { baltic_gfx eastern_european_gfx european_gfx }
+
+	opinions = { }
+
+	culture_groups = {
+		baltic_group
+	}
+}
+
+estonian = { #https://en.wikipedia.org/wiki/Estonians
+	language = estonian_dialect
+	
+	color = map_estonian
+	
+	tags = { finnish_gfx baltic_gfx eastern_european_gfx european_gfx }
+
+	opinions = { }
+	
+	culture_groups = {
+		finnic_group
+		baltic_group
+	}
+}
+
+latvian = {  #Baltic https://en.wikipedia.org/wiki/Latvians
+	language = latvian_dialect
+	
+	color = map_latvian	
+	
+	tags = { baltic_gfx eastern_european_gfx european_gfx }
+
+	opinions = { }
+	
+	culture_groups = {
+		baltic_group
+	}
+	
+}
+
+liv = {  #Finnic https://en.wikipedia.org/wiki/Livonians
+	language = estonian_dialect
+	
+	color = map_liv
+	
+	tags = { baltic_gfx finnish_gfx eastern_european_gfx european_gfx }
+
+	opinions = { }
+	
+	culture_groups = {
+		finnic_group
+		baltic_group
+	}
+}
+
+german_baltic = { #Baltic https://en.wikipedia.org/wiki/Baltic_Germans
+	language = low_german_dialect
+	
+	color = map_baltic_german
+	
+	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
+
+	opinions = { }
+
+	culture_groups = {
+		german_group
+		baltic_group
+	}
+}
+
+mdm_lithuanian_culture = {
+	language = lithuanian_dialect
+	
+	color = map_LIT
+	
+	tags = { baltic_gfx eastern_european_gfx european_gfx }
+
+	opinions = { }
+
+	culture_groups = {
+		lithuanian_group
+		baltic_group
+	}
+}

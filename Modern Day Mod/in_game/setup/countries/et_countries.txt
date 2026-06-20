@@ -1050,7 +1050,7 @@ LIBY = {
 LIT = {
 	color = rgb { 219  219  119 } #{ 154  69  116 }
 	color2 = rgb { 219  219  119 } #{ 154  69  116 }
-	culture_definition = aukstaitian
+	culture_definition = mdm_lithuanian_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
