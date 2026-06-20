@@ -1470,7 +1470,7 @@ PHIL = {
 POL = { #didnt use hoi4 color here
 	color = rgb { 197  92  106 } #{ 150 23 23 } #{ 197  92  106 }
 	color2 = rgb { 197  92  106 } #{ 150 23 23 } #{ 197  92  106 }
-	culture_definition = greater_polish
+	culture_definition =  mdm_polish_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2

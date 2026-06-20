@@ -5705,7 +5705,7 @@ locations = {
    }
     stettin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5737,7 +5737,7 @@ locations = {
    }
     swinousjcie = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5753,7 +5753,7 @@ locations = {
    }
     kamien = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5761,7 +5761,7 @@ locations = {
    }
     gryfia_gora = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5769,7 +5769,7 @@ locations = {
    }
     bialogard = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5777,7 +5777,7 @@ locations = {
    }
     slawno = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5785,7 +5785,7 @@ locations = {
    }
     koszalin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5793,7 +5793,7 @@ locations = {
    }
     bobolice = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5801,7 +5801,7 @@ locations = {
    }
     nowoszczecin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5809,7 +5809,7 @@ locations = {
    }
     wielen = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5817,7 +5817,7 @@ locations = {
    }
     santok = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5825,7 +5825,7 @@ locations = {
    }
     choszczno = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5833,7 +5833,7 @@ locations = {
    }
     drawsko = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5841,7 +5841,7 @@ locations = {
    }
     swidwin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5849,7 +5849,7 @@ locations = {
    }
     resko = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5857,7 +5857,7 @@ locations = {
    }
     nowogard = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5889,7 +5889,7 @@ locations = {
    }
     gryfow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5897,7 +5897,7 @@ locations = {
    }
     pyrzyce = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5905,7 +5905,7 @@ locations = {
    }
     szadzko = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5913,7 +5913,7 @@ locations = {
    }
     soltyn = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5921,7 +5921,7 @@ locations = {
    }
     gorzow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -5929,7 +5929,7 @@ locations = {
    }
     chojna = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -6057,7 +6057,7 @@ locations = {
    }
     miastko = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -6065,7 +6065,7 @@ locations = {
    }
     bytow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -6073,7 +6073,7 @@ locations = {
    }
     lebork = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -6081,7 +6081,7 @@ locations = {
    }
     slupsk = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -6089,7 +6089,7 @@ locations = {
    }
     goleniow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -6097,7 +6097,7 @@ locations = {
    }
     kolobrzeg = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -6313,7 +6313,7 @@ locations = {
    }
     guben = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -6489,7 +6489,7 @@ locations = {
    }
     gorlitz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -11633,7 +11633,7 @@ locations = {
    }
     klodzko = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -11753,7 +11753,7 @@ locations = {
    }
     grodek = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -11769,7 +11769,7 @@ locations = {
    }
     sokolka = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = romuva
          size = 1.000
          type = peasants
@@ -12049,7 +12049,7 @@ locations = {
    }
     dobrzyn = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12057,7 +12057,7 @@ locations = {
    }
     lipno = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12065,7 +12065,7 @@ locations = {
    }
     rypin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12073,7 +12073,7 @@ locations = {
    }
     wloclawek = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12081,7 +12081,7 @@ locations = {
    }
     bydgoszcz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12089,7 +12089,7 @@ locations = {
    }
     inowroclaw = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12097,7 +12097,7 @@ locations = {
    }
     kowal = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12105,7 +12105,7 @@ locations = {
    }
     radziejow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12113,7 +12113,7 @@ locations = {
    }
     leczyca = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12121,7 +12121,7 @@ locations = {
    }
     lodz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12129,7 +12129,7 @@ locations = {
    }
     orlow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12137,7 +12137,7 @@ locations = {
    }
     sieradz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12145,7 +12145,7 @@ locations = {
    }
     brzeznica = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12153,7 +12153,7 @@ locations = {
    }
     piotrkow_trybunalski = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12161,7 +12161,7 @@ locations = {
    }
     radomsko = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12169,7 +12169,7 @@ locations = {
    }
     szadek = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12177,7 +12177,7 @@ locations = {
    }
     turek = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12185,7 +12185,7 @@ locations = {
    }
     tuszyn = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12193,7 +12193,7 @@ locations = {
    }
     uniejow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12201,7 +12201,7 @@ locations = {
    }
     wielun = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12209,7 +12209,7 @@ locations = {
    }
     ostrzeszow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12217,7 +12217,7 @@ locations = {
    }
     wieruszow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12225,7 +12225,7 @@ locations = {
    }
     zgierz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12233,7 +12233,7 @@ locations = {
    }
     gniezno = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12241,7 +12241,7 @@ locations = {
    }
     mogilno = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12249,7 +12249,7 @@ locations = {
    }
     trzemeszno = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12257,7 +12257,7 @@ locations = {
    }
     kalisz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12265,7 +12265,7 @@ locations = {
    }
     ostrow_wielkopolski = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12273,7 +12273,7 @@ locations = {
    }
     pleszew = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12281,7 +12281,7 @@ locations = {
    }
     konin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12289,7 +12289,7 @@ locations = {
    }
     kolo = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12297,7 +12297,7 @@ locations = {
    }
     lad_konin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12305,7 +12305,7 @@ locations = {
    }
     koscian = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12313,7 +12313,7 @@ locations = {
    }
     babimost = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12321,7 +12321,7 @@ locations = {
    }
     grodzisk_wielkopolski = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12329,7 +12329,7 @@ locations = {
    }
     rawicz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12337,7 +12337,7 @@ locations = {
    }
     srem = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12345,7 +12345,7 @@ locations = {
    }
     wschowa = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12353,7 +12353,7 @@ locations = {
    }
     naklo = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12361,7 +12361,7 @@ locations = {
    }
     wyrzysk = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12369,7 +12369,7 @@ locations = {
    }
     zlotow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12377,7 +12377,7 @@ locations = {
    }
     poznan = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12385,7 +12385,7 @@ locations = {
    }
     buk = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12393,7 +12393,7 @@ locations = {
    }
     czarnkow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12401,7 +12401,7 @@ locations = {
    }
     miedzyrzecz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12409,7 +12409,7 @@ locations = {
    }
     oborniki = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12417,7 +12417,7 @@ locations = {
    }
     skwierzyna = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12425,7 +12425,7 @@ locations = {
    }
     szamotuly = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12433,7 +12433,7 @@ locations = {
    }
     pyzdry = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12441,7 +12441,7 @@ locations = {
    }
     kozmin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12449,7 +12449,7 @@ locations = {
    }
     sroda_wielkopolska = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12457,7 +12457,7 @@ locations = {
    }
     czaplinek = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12465,7 +12465,7 @@ locations = {
    }
     czlopa = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12473,7 +12473,7 @@ locations = {
    }
     walcz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12481,7 +12481,7 @@ locations = {
    }
     znin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12489,7 +12489,7 @@ locations = {
    }
     chodziez = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12497,7 +12497,7 @@ locations = {
    }
     szubin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12505,7 +12505,7 @@ locations = {
    }
     czestochowa = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12513,7 +12513,7 @@ locations = {
    }
     lelow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12521,7 +12521,7 @@ locations = {
    }
     mstow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12529,7 +12529,7 @@ locations = {
    }
     kielce = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12537,7 +12537,7 @@ locations = {
    }
     opoczno = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12545,7 +12545,7 @@ locations = {
    }
     przedborz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12553,7 +12553,7 @@ locations = {
    }
     zarnow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12561,7 +12561,7 @@ locations = {
    }
     krakow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12569,7 +12569,7 @@ locations = {
    }
     chrzanow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12577,7 +12577,7 @@ locations = {
    }
     ksiaz_wielki = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12585,7 +12585,7 @@ locations = {
    }
     proszowice = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12593,7 +12593,7 @@ locations = {
    }
     lublin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12601,7 +12601,7 @@ locations = {
    }
     janow_lubelski = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12609,7 +12609,7 @@ locations = {
    }
     kazimierz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12617,7 +12617,7 @@ locations = {
    }
     lubartow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12625,7 +12625,7 @@ locations = {
    }
     lukow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12633,7 +12633,7 @@ locations = {
    }
     urzedow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12641,7 +12641,7 @@ locations = {
    }
     nowy_sacz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12649,7 +12649,7 @@ locations = {
    }
     biecz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12657,7 +12657,7 @@ locations = {
    }
     czchow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12665,7 +12665,7 @@ locations = {
    }
     jaslo = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12673,7 +12673,7 @@ locations = {
    }
     nowy_targ = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12681,7 +12681,7 @@ locations = {
    }
     pilzno = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12689,7 +12689,7 @@ locations = {
    }
     busko_zdroj = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12697,7 +12697,7 @@ locations = {
    }
     debica = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12705,7 +12705,7 @@ locations = {
    }
     tarnow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12713,7 +12713,7 @@ locations = {
    }
     wislica = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12721,7 +12721,7 @@ locations = {
    }
     radom = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12729,7 +12729,7 @@ locations = {
    }
     ilza = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12737,7 +12737,7 @@ locations = {
    }
     stezyca = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12745,7 +12745,7 @@ locations = {
    }
     szydlowiec = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12753,7 +12753,7 @@ locations = {
    }
     zwolen = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12761,7 +12761,7 @@ locations = {
    }
     sandomierz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12769,7 +12769,7 @@ locations = {
    }
     kunow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12777,7 +12777,7 @@ locations = {
    }
     opatow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12785,7 +12785,7 @@ locations = {
    }
     rudnik_poland = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12793,7 +12793,7 @@ locations = {
    }
     wieliczka = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12801,7 +12801,7 @@ locations = {
    }
     myslenice = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12809,7 +12809,7 @@ locations = {
    }
     oswiecim = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12817,7 +12817,7 @@ locations = {
    }
     zywiec = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12953,7 +12953,7 @@ locations = {
    }
     suwalki = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = romuva
          size = 1.000
          type = peasants
@@ -12961,7 +12961,7 @@ locations = {
    }
     lipsk = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = romuva
          size = 1.000
          type = peasants
@@ -13169,7 +13169,7 @@ locations = {
    }
     ciechanow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13177,7 +13177,7 @@ locations = {
    }
     przasnysz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13185,7 +13185,7 @@ locations = {
    }
     rozan = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13193,7 +13193,7 @@ locations = {
    }
     zakroczym = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13201,7 +13201,7 @@ locations = {
    }
     czersk = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13209,7 +13209,7 @@ locations = {
    }
     garwolin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13217,7 +13217,7 @@ locations = {
    }
     grojec = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13225,7 +13225,7 @@ locations = {
    }
     liw = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13233,7 +13233,7 @@ locations = {
    }
     lomza = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13241,7 +13241,7 @@ locations = {
    }
     kolno = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13249,7 +13249,7 @@ locations = {
    }
     ostroleka = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13257,7 +13257,7 @@ locations = {
    }
     wizna = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13265,7 +13265,7 @@ locations = {
    }
     zambrow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13273,7 +13273,7 @@ locations = {
    }
     plock = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13281,7 +13281,7 @@ locations = {
    }
     plonsk = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13289,7 +13289,7 @@ locations = {
    }
     sierpc = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13297,7 +13297,7 @@ locations = {
    }
     szrensk = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13305,7 +13305,7 @@ locations = {
    }
     drohiczyn = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13313,7 +13313,7 @@ locations = {
    }
     bielsk_podlaski = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13321,7 +13321,7 @@ locations = {
    }
     goniadz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13329,7 +13329,7 @@ locations = {
    }
     mielnik = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13337,7 +13337,7 @@ locations = {
    }
     sokolow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13345,7 +13345,7 @@ locations = {
    }
     suraz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13353,7 +13353,7 @@ locations = {
    }
     tykocin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = romuva
          size = 1.000
          type = peasants
@@ -13361,7 +13361,7 @@ locations = {
    }
     rawa = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13369,7 +13369,7 @@ locations = {
    }
     biala_rawska = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13377,7 +13377,7 @@ locations = {
    }
     gabin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13385,7 +13385,7 @@ locations = {
    }
     gostynin = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13393,7 +13393,7 @@ locations = {
    }
     sochaczew = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13401,7 +13401,7 @@ locations = {
    }
     warsaw = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13409,7 +13409,7 @@ locations = {
    }
     nur = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13417,7 +13417,7 @@ locations = {
    }
     kamieniec = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13425,7 +13425,7 @@ locations = {
    }
     tarczyn = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13641,7 +13641,7 @@ locations = {
    }
     biala_podlaska = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -13665,7 +13665,7 @@ locations = {
    }
     wlodawa = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -13785,7 +13785,7 @@ locations = {
    }
     chelmno = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13793,7 +13793,7 @@ locations = {
    }
     brodnica = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13801,7 +13801,7 @@ locations = {
    }
     grudziadz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13809,7 +13809,7 @@ locations = {
    }
     lubawa = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13817,7 +13817,7 @@ locations = {
    }
     torun = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13825,7 +13825,7 @@ locations = {
    }
     gdansk = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13833,7 +13833,7 @@ locations = {
    }
     gniew = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13841,7 +13841,7 @@ locations = {
    }
     koscierzyna = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13865,7 +13865,7 @@ locations = {
    }
     tczew = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13929,7 +13929,7 @@ locations = {
    }
     balga = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -13977,7 +13977,7 @@ locations = {
    }
     elk = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = romuva
          size = 1.000
          type = peasants
@@ -13985,7 +13985,7 @@ locations = {
    }
     barten = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = romuva
          size = 1.000
          type = peasants
@@ -13993,7 +13993,7 @@ locations = {
    }
     nibork = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = romuva
          size = 1.000
          type = peasants
@@ -14001,7 +14001,7 @@ locations = {
    }
     ostroda = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14009,7 +14009,7 @@ locations = {
    }
     ryn_poland = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = romuva
          size = 1.000
          type = peasants
@@ -14017,7 +14017,7 @@ locations = {
    }
     szczytno = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = romuva
          size = 1.000
          type = peasants
@@ -14025,7 +14025,7 @@ locations = {
    }
     wegorzewo = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = romuva
          size = 1.000
          type = peasants
@@ -14033,7 +14033,7 @@ locations = {
    }
     tuchola = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14041,7 +14041,7 @@ locations = {
    }
     bialobork = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14049,7 +14049,7 @@ locations = {
    }
     czluchow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14057,7 +14057,7 @@ locations = {
    }
     nowe = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14065,7 +14065,7 @@ locations = {
    }
     swiecie = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14073,7 +14073,7 @@ locations = {
    }
     malbork = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14081,7 +14081,7 @@ locations = {
    }
     dzierzgon = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14089,7 +14089,7 @@ locations = {
    }
     elblag = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14097,7 +14097,7 @@ locations = {
    }
     kwidzyn = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14105,7 +14105,7 @@ locations = {
    }
     morag = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14113,7 +14113,7 @@ locations = {
    }
     frombork = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14121,7 +14121,7 @@ locations = {
    }
     lidzbark = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14129,7 +14129,7 @@ locations = {
    }
     olsztyn = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = romuva
          size = 1.000
          type = peasants
@@ -14153,7 +14153,7 @@ locations = {
    }
     grabowiec = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -14161,7 +14161,7 @@ locations = {
    }
     lubaczow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -14321,7 +14321,7 @@ locations = {
    }
     przemysl = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -14329,7 +14329,7 @@ locations = {
    }
     piskorowice = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -14337,7 +14337,7 @@ locations = {
    }
     rzeszow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -14345,7 +14345,7 @@ locations = {
    }
     yaroslav_poland = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -14353,7 +14353,7 @@ locations = {
    }
     sanok = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -14361,7 +14361,7 @@ locations = {
    }
     krosno = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -14369,7 +14369,7 @@ locations = {
    }
     lesko = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -14553,7 +14553,7 @@ locations = {
    }
     torzym = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14609,7 +14609,7 @@ locations = {
    }
     grodkow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14617,7 +14617,7 @@ locations = {
    }
     wroclaw = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14625,7 +14625,7 @@ locations = {
    }
     olawa = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14633,7 +14633,7 @@ locations = {
    }
     brzeg = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14641,7 +14641,7 @@ locations = {
    }
     ziebice = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14649,7 +14649,7 @@ locations = {
    }
     swidnica = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14657,7 +14657,7 @@ locations = {
    }
     olesnica = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14665,7 +14665,7 @@ locations = {
    }
     trzebnica = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14673,7 +14673,7 @@ locations = {
    }
     legnica = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14681,7 +14681,7 @@ locations = {
    }
     wolow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14689,7 +14689,7 @@ locations = {
    }
     jawor = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14697,7 +14697,7 @@ locations = {
    }
     glogow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14705,7 +14705,7 @@ locations = {
    }
     krosno_odrzanskie = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14713,7 +14713,7 @@ locations = {
    }
     sulechow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14721,7 +14721,7 @@ locations = {
    }
     zielona_gora = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14729,7 +14729,7 @@ locations = {
    }
     zary = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14737,7 +14737,7 @@ locations = {
    }
     zagan = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14745,7 +14745,7 @@ locations = {
    }
     kozuchow = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14753,7 +14753,7 @@ locations = {
    }
     boleslawiec = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14761,7 +14761,7 @@ locations = {
    }
     szprotawa = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14769,7 +14769,7 @@ locations = {
    }
     gora = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14777,7 +14777,7 @@ locations = {
    }
     zlotoryja = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14785,7 +14785,7 @@ locations = {
    }
     milicz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14793,7 +14793,7 @@ locations = {
    }
     sroda_slaska = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14801,7 +14801,7 @@ locations = {
    }
     kamienna_gora = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14809,7 +14809,7 @@ locations = {
    }
     rychbach = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14817,7 +14817,7 @@ locations = {
    }
     niemcza = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14841,7 +14841,7 @@ locations = {
    }
     nysa = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14897,7 +14897,7 @@ locations = {
    }
     glubczyce = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -14913,7 +14913,7 @@ locations = {
    }
     siewierz = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -15217,7 +15217,7 @@ locations = {
    }
     chelm = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -15225,7 +15225,7 @@ locations = {
    }
     krasnystaw = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -15257,7 +15257,7 @@ locations = {
    }
     ugrovesk = {
       define_pop = {
-         culture = greater_polish
+         culture = mdm_polish_culture
          religion = orthodox
          size = 1.000
          type = peasants

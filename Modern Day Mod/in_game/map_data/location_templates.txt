@@ -1043,10 +1043,10 @@ segeberg = { climate = temperate_oceanic_climate culture = lower_saxon raw_mater
 pinneberg = { climate = temperate_oceanic_climate culture = lower_saxon raw_material = millet religion = catholic topography = flatland vegetation = grasslands }
 plon = { climate = temperate_oceanic_climate culture = lower_saxon raw_material = fish religion = catholic topography = flatland vegetation = grasslands }
 chojna = { climate = temperate_oceanic_climate culture = saxon raw_material = fish religion = catholic topography = flatland vegetation = forest }
-soltyn = { climate = temperate_oceanic_climate culture = greater_polish raw_material = fur religion = catholic topography = flatland vegetation = forest }
-gorzow = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wool religion = catholic topography = wetlands vegetation = woods }
-santok = { climate = temperate_oceanic_climate culture = greater_polish raw_material = lumber religion = catholic topography = flatland vegetation = woods }
-torzym = { climate = temperate_oceanic_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = woods }
+soltyn = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = fur religion = catholic topography = flatland vegetation = forest }
+gorzow = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = wetlands vegetation = woods }
+santok = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = lumber religion = catholic topography = flatland vegetation = woods }
+torzym = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
 stendal = { climate = temperate_oceanic_climate culture = saxon raw_material = fruit religion = catholic topography = flatland vegetation = grasslands }
 gardelegen = { climate = temperate_oceanic_climate culture = saxon raw_material = fur religion = catholic topography = flatland vegetation = grasslands }
 salzwedel = { climate = temperate_oceanic_climate culture = saxon raw_material = fiber_crops religion = catholic topography = flatland vegetation = grasslands }
@@ -1325,34 +1325,34 @@ stralsund = { climate = temperate_oceanic_climate culture = saxon natural_harbor
 ribnitz = { climate = temperate_oceanic_climate culture = saxon raw_material = wild_game religion = catholic topography = flatland vegetation = woods }
 grimmen = { climate = temperate_oceanic_climate culture = saxon raw_material = sand religion = catholic topography = flatland vegetation = grasslands }
 rugen = { climate = temperate_oceanic_climate culture = saxon raw_material = fish religion = catholic topography = flatland vegetation = grasslands }
-swinousjcie = { climate = temperate_oceanic_climate culture = greater_polish raw_material = amber religion = catholic topography = flatland vegetation = grasslands }
+swinousjcie = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = amber religion = catholic topography = flatland vegetation = grasslands }
 wolgast = { climate = temperate_oceanic_climate culture = saxon raw_material = salt religion = catholic topography = flatland vegetation = grasslands }
 anklam = { climate = temperate_oceanic_climate culture = saxon raw_material = livestock religion = catholic topography = flatland vegetation = grasslands }
 demmin = { climate = temperate_oceanic_climate culture = saxon raw_material = legumes religion = catholic topography = flatland vegetation = grasslands }
-stettin = { climate = temperate_oceanic_climate culture = greater_polish natural_harbor_suitability = 0.50 raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
+stettin = { climate = temperate_oceanic_climate culture = mdm_polish_culture natural_harbor_suitability = 0.50 raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
 ueckermunde = { climate = temperate_oceanic_climate culture = saxon raw_material = fish religion = catholic topography = flatland vegetation = woods }
-kamien = { climate = temperate_oceanic_climate culture = greater_polish raw_material = fish religion = catholic topography = wetlands vegetation = grasslands }
-nowogard = { climate = temperate_oceanic_climate culture = greater_polish raw_material = legumes religion = catholic topography = flatland vegetation = grasslands }
-goleniow = { climate = temperate_oceanic_climate culture = greater_polish raw_material = lumber religion = catholic topography = wetlands vegetation = woods }
-koszalin = { climate = temperate_oceanic_climate culture = greater_polish raw_material = fish religion = catholic topography = flatland vegetation = grasslands }
-bialogard = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = woods }
-gryfia_gora = { climate = temperate_oceanic_climate culture = greater_polish raw_material = sand religion = catholic topography = flatland vegetation = grasslands }
-kolobrzeg = { climate = temperate_oceanic_climate culture = greater_polish raw_material = salt religion = catholic topography = flatland vegetation = grasslands }
-swidwin = { climate = temperate_oceanic_climate culture = greater_polish raw_material = fiber_crops religion = catholic topography = flatland vegetation = woods }
-resko = { climate = temperate_oceanic_climate culture = greater_polish raw_material = lumber religion = catholic topography = flatland vegetation = woods }
-bobolice = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = lumber religion = catholic topography = flatland vegetation = forest }
-nowoszczecin = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = forest }
-slupsk = { climate = temperate_oceanic_climate culture = greater_polish raw_material = amber religion = catholic topography = flatland vegetation = grasslands }
+kamien = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = fish religion = catholic topography = wetlands vegetation = grasslands }
+nowogard = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = legumes religion = catholic topography = flatland vegetation = grasslands }
+goleniow = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = lumber religion = catholic topography = wetlands vegetation = woods }
+koszalin = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = fish religion = catholic topography = flatland vegetation = grasslands }
+bialogard = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = woods }
+gryfia_gora = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = sand religion = catholic topography = flatland vegetation = grasslands }
+kolobrzeg = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = salt religion = catholic topography = flatland vegetation = grasslands }
+swidwin = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = fiber_crops religion = catholic topography = flatland vegetation = woods }
+resko = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = lumber religion = catholic topography = flatland vegetation = woods }
+bobolice = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = lumber religion = catholic topography = flatland vegetation = forest }
+nowoszczecin = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = forest }
+slupsk = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = amber religion = catholic topography = flatland vegetation = grasslands }
 lebork = { topography = flatland vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = kashubian raw_material = fish natural_harbor_suitability = 0.00}
 bytow = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = catholic culture = kashubian raw_material = lumber}
-miastko = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wild_game religion = catholic topography = flatland vegetation = forest }
-slawno = { climate = temperate_oceanic_climate culture = greater_polish raw_material = sand religion = catholic topography = flatland vegetation = grasslands }
+miastko = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wild_game religion = catholic topography = flatland vegetation = forest }
+slawno = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = sand religion = catholic topography = flatland vegetation = grasslands }
 lebsko_lake = { topography = lakes climate = temperate_oceanic_climate}
-pyrzyce = { climate = temperate_oceanic_climate culture = greater_polish raw_material = medicaments religion = catholic topography = flatland vegetation = grasslands }
-choszczno = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wild_game religion = catholic topography = flatland vegetation = woods }
-szadzko = { climate = temperate_oceanic_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = grasslands }
+pyrzyce = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = medicaments religion = catholic topography = flatland vegetation = grasslands }
+choszczno = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wild_game religion = catholic topography = flatland vegetation = woods }
+szadzko = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = grasslands }
 gryfow = { climate = temperate_oceanic_climate culture = saxon raw_material = wild_game religion = catholic topography = flatland vegetation = grasslands }
-drawsko = { climate = temperate_oceanic_climate culture = greater_polish raw_material = legumes religion = catholic topography = flatland vegetation = woods }
+drawsko = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = legumes religion = catholic topography = flatland vegetation = woods }
 vienna = { topography = flatland vegetation = farmland climate = temperate_oceanic_climate religion = catholic culture = danube_bavarian raw_material = fiber_crops}
 austria_baden = { topography = flatland vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = danube_bavarian raw_material = clay}
 bruck_leitha = { topography = flatland vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = danube_bavarian raw_material = wine}
@@ -2260,7 +2260,7 @@ auxonne = { climate = temperate_oceanic_climate culture = french raw_material = 
 beaune = { climate = temperate_oceanic_climate culture = french raw_material = wine religion = catholic topography = flatland vegetation = farmland }
 chalon_sur_saone = { climate = temperate_oceanic_climate culture = french raw_material = wine religion = catholic topography = flatland vegetation = farmland }
 louhans = { climate = temperate_oceanic_climate culture = french raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
-nevers = { climate = temperate_oceanic_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = grasslands }
+nevers = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = grasslands }
 cercy = { climate = temperate_oceanic_climate culture = french raw_material = coal religion = catholic topography = flatland vegetation = grasslands }
 chateau_chinon = { climate = temperate_oceanic_climate culture = french raw_material = iron_ore religion = catholic topography = hills vegetation = woods }
 donzy = { climate = temperate_oceanic_climate culture = french raw_material = medicaments religion = catholic topography = flatland vegetation = grasslands }
@@ -3877,104 +3877,104 @@ tartu = { topography = flatland vegetation = grasslands climate = temperate_cont
 valka = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = estonian raw_material = lumber}
 vastseliina = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = catholic culture = estonian raw_material = beeswax}
 vonnu = { topography = wetlands vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = estonian raw_material = fiber_crops}
-dobrzyn = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = grasslands }
-lipno = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = grasslands }
-rypin = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
-wloclawek = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = sand religion = catholic topography = flatland vegetation = grasslands }
-bydgoszcz = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = wheat}
-inowroclaw = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = salt}
-kowal = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = grasslands }
-radziejow = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = millet}
-leczyca = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = legumes religion = catholic topography = flatland vegetation = woods }
-lodz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = sand religion = catholic topography = flatland vegetation = woods }
-orlow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = horses religion = catholic topography = flatland vegetation = woods }
-zgierz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
-sieradz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = grasslands }
-brzeznica = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = woods }
-piotrkow_trybunalski = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = beeswax religion = catholic topography = flatland vegetation = woods }
-radomsko = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = woods }
-szadek = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = woods }
-turek = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = grasslands }
-tuszyn = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = woods }
-uniejow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = woods }
-wielun = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = grasslands }
-ostrzeszow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = woods }
-wieruszow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = woods }
-gniezno = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = millet}
-mogilno = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = livestock}
-trzemeszno = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = wool}
-kalisz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = woods }
-ostrow_wielkopolski = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
-pleszew = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = clay}
-konin = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = legumes religion = catholic topography = flatland vegetation = forest }
-kolo = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = grasslands }
-lad_konin = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = forest }
-koscian = { climate = temperate_oceanic_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = woods }
-babimost = { climate = temperate_oceanic_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
-grodzisk_wielkopolski = { climate = temperate_oceanic_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = farmland }
-rawicz = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = woods }
-srem = { topography = flatland vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = greater_polish raw_material = wheat}
-wschowa = { climate = temperate_oceanic_climate culture = greater_polish raw_material = fruit religion = catholic topography = flatland vegetation = woods }
-naklo = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = lumber religion = catholic topography = flatland vegetation = forest }
-wyrzysk = { topography = wetlands vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = legumes}
-zlotow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = woods }
-poznan = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
-buk = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = farmland }
-czarnkow = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = woods }
-miedzyrzecz = { climate = temperate_oceanic_climate culture = greater_polish raw_material = legumes religion = catholic topography = wetlands vegetation = grasslands }
-oborniki = { topography = flatland vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = greater_polish raw_material = millet}
-skwierzyna = { climate = temperate_oceanic_climate culture = greater_polish raw_material = horses religion = catholic topography = flatland vegetation = woods }
-szamotuly = { climate = temperate_oceanic_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = grasslands }
-wielen = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = woods }
-pyzdry = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = wool}
-kozmin = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = alum}
-sroda_wielkopolska = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = millet}
-walcz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wild_game religion = catholic topography = flatland vegetation = forest }
-czaplinek = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = lumber religion = catholic topography = flatland vegetation = woods }
-czlopa = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = forest }
-znin = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = wheat}
-chodziez = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = iron_ore}
-szubin = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = wheat}
-kielce = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = copper_ore religion = catholic topography = flatland vegetation = forest }
-opoczno = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = woods }
-przedborz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = lead_ore religion = catholic topography = flatland vegetation = forest }
-zarnow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = clay religion = catholic topography = flatland vegetation = woods }
-czestochowa = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
-lelow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fiber_crops religion = catholic topography = flatland vegetation = woods }
-mstow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = woods }
-krakow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = salt religion = catholic topography = flatland vegetation = farmland }
-chrzanow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = lead_ore religion = catholic topography = flatland vegetation = woods }
-ksiaz_wielki = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = horses religion = catholic topography = flatland vegetation = woods }
-proszowice = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = clay religion = catholic topography = flatland vegetation = farmland }
-lublin = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = farmland }
-janow_lubelski = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = legumes religion = catholic topography = flatland vegetation = forest }
-kazimierz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = legumes religion = catholic topography = flatland vegetation = woods }
-lukow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wild_game religion = catholic topography = flatland vegetation = woods }
-lubartow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fiber_crops religion = catholic topography = flatland vegetation = woods }
-urzedow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
-nowy_sacz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = hills vegetation = woods }
-biecz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fiber_crops religion = catholic topography = flatland vegetation = woods }
-czchow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = woods }
-jaslo = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = hills vegetation = forest }
-nowy_targ = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fur religion = catholic topography = plateau vegetation = forest }
-pilzno = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = forest }
-busko_zdroj = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = stone religion = catholic topography = flatland vegetation = forest }
-debica = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wild_game religion = catholic topography = flatland vegetation = woods }
-tarnow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = salt religion = catholic topography = flatland vegetation = grasslands }
-wislica = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fiber_crops religion = catholic topography = wetlands vegetation = grasslands }
-radom = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = clay religion = catholic topography = flatland vegetation = forest }
-ilza = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = forest }
-stezyca = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wild_game religion = catholic topography = flatland vegetation = forest }
-szydlowiec = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
-zwolen = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = forest }
-sandomierz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = horses religion = catholic topography = wetlands vegetation = farmland }
-kunow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = clay religion = catholic topography = flatland vegetation = forest }
-opatow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = copper_ore religion = catholic topography = flatland vegetation = farmland }
-rudnik_poland = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = forest }
-wieliczka = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = salt religion = catholic topography = flatland vegetation = farmland }
-myslenice = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = coal religion = catholic topography = hills vegetation = woods }
-oswiecim = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = stone religion = catholic topography = hills vegetation = farmland }
-zywiec = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = hills vegetation = woods }
+dobrzyn = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = grasslands }
+lipno = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = grasslands }
+rypin = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
+wloclawek = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = sand religion = catholic topography = flatland vegetation = grasslands }
+bydgoszcz = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = wheat}
+inowroclaw = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = salt}
+kowal = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = grasslands }
+radziejow = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = millet}
+leczyca = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = legumes religion = catholic topography = flatland vegetation = woods }
+lodz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = sand religion = catholic topography = flatland vegetation = woods }
+orlow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = horses religion = catholic topography = flatland vegetation = woods }
+zgierz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
+sieradz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = grasslands }
+brzeznica = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
+piotrkow_trybunalski = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = beeswax religion = catholic topography = flatland vegetation = woods }
+radomsko = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
+szadek = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
+turek = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = grasslands }
+tuszyn = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = woods }
+uniejow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = woods }
+wielun = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = grasslands }
+ostrzeszow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = woods }
+wieruszow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = woods }
+gniezno = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = millet}
+mogilno = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = livestock}
+trzemeszno = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = wool}
+kalisz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
+ostrow_wielkopolski = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
+pleszew = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = clay}
+konin = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = legumes religion = catholic topography = flatland vegetation = forest }
+kolo = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = grasslands }
+lad_konin = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = forest }
+koscian = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
+babimost = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
+grodzisk_wielkopolski = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = farmland }
+rawicz = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = woods }
+srem = { topography = flatland vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = mdm_polish_culture raw_material = wheat}
+wschowa = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = fruit religion = catholic topography = flatland vegetation = woods }
+naklo = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = lumber religion = catholic topography = flatland vegetation = forest }
+wyrzysk = { topography = wetlands vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = legumes}
+zlotow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
+poznan = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
+buk = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = farmland }
+czarnkow = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = woods }
+miedzyrzecz = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = legumes religion = catholic topography = wetlands vegetation = grasslands }
+oborniki = { topography = flatland vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = mdm_polish_culture raw_material = millet}
+skwierzyna = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = horses religion = catholic topography = flatland vegetation = woods }
+szamotuly = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = grasslands }
+wielen = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = woods }
+pyzdry = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = wool}
+kozmin = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = alum}
+sroda_wielkopolska = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = millet}
+walcz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wild_game religion = catholic topography = flatland vegetation = forest }
+czaplinek = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = lumber religion = catholic topography = flatland vegetation = woods }
+czlopa = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = forest }
+znin = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = wheat}
+chodziez = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = iron_ore}
+szubin = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = wheat}
+kielce = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = copper_ore religion = catholic topography = flatland vegetation = forest }
+opoczno = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = woods }
+przedborz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = lead_ore religion = catholic topography = flatland vegetation = forest }
+zarnow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = clay religion = catholic topography = flatland vegetation = woods }
+czestochowa = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
+lelow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fiber_crops religion = catholic topography = flatland vegetation = woods }
+mstow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
+krakow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = salt religion = catholic topography = flatland vegetation = farmland }
+chrzanow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = lead_ore religion = catholic topography = flatland vegetation = woods }
+ksiaz_wielki = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = horses religion = catholic topography = flatland vegetation = woods }
+proszowice = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = clay religion = catholic topography = flatland vegetation = farmland }
+lublin = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = farmland }
+janow_lubelski = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = legumes religion = catholic topography = flatland vegetation = forest }
+kazimierz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = legumes religion = catholic topography = flatland vegetation = woods }
+lukow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wild_game religion = catholic topography = flatland vegetation = woods }
+lubartow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fiber_crops religion = catholic topography = flatland vegetation = woods }
+urzedow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
+nowy_sacz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = hills vegetation = woods }
+biecz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fiber_crops religion = catholic topography = flatland vegetation = woods }
+czchow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = woods }
+jaslo = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = hills vegetation = forest }
+nowy_targ = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fur religion = catholic topography = plateau vegetation = forest }
+pilzno = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = forest }
+busko_zdroj = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = stone religion = catholic topography = flatland vegetation = forest }
+debica = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wild_game religion = catholic topography = flatland vegetation = woods }
+tarnow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = salt religion = catholic topography = flatland vegetation = grasslands }
+wislica = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fiber_crops religion = catholic topography = wetlands vegetation = grasslands }
+radom = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = clay religion = catholic topography = flatland vegetation = forest }
+ilza = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = forest }
+stezyca = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wild_game religion = catholic topography = flatland vegetation = forest }
+szydlowiec = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
+zwolen = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = forest }
+sandomierz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = horses religion = catholic topography = wetlands vegetation = farmland }
+kunow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = clay religion = catholic topography = flatland vegetation = forest }
+opatow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = copper_ore religion = catholic topography = flatland vegetation = farmland }
+rudnik_poland = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = forest }
+wieliczka = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = salt religion = catholic topography = flatland vegetation = farmland }
+myslenice = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = coal religion = catholic topography = hills vegetation = woods }
+oswiecim = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = stone religion = catholic topography = hills vegetation = farmland }
+zywiec = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = hills vegetation = woods }
 ashmyany = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = wild_game religion = romuva topography = flatland vegetation = forest }
 halshany = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = medicaments religion = romuva topography = flatland vegetation = forest }
 hieraniony = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = lumber religion = romuva topography = flatland vegetation = forest }
@@ -3991,8 +3991,8 @@ lida = { climate = temperate_continental_humid_climate culture = polesian_cultur
 astrina = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = fiber_crops religion = romuva topography = flatland vegetation = forest }
 eisiskes = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = fur}
 shchuchyn = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = wild_game religion = romuva topography = flatland vegetation = forest }
-suwalki = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = romuva topography = flatland vegetation = forest }
-lipsk = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = romuva topography = flatland vegetation = forest }
+suwalki = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = romuva topography = flatland vegetation = forest }
+lipsk = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = romuva topography = flatland vegetation = forest }
 veisiejai = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = legumes religion = romuva topography = flatland vegetation = forest }
 trakai = { topography = wetlands vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = wild_game}
 lazdijai = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = millet religion = romuva topography = flatland vegetation = woods }
@@ -4019,50 +4019,50 @@ vilnius = { topography = flatland vegetation = farmland climate = temperate_cont
 giedraiciai = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = legumes}
 kernave = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = fish}
 medininkai_vilna = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = romuva culture = aukstaitian raw_material = livestock}
-ciechanow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = farmland }
-przasnysz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fur religion = catholic topography = flatland vegetation = woods }
-rozan = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = woods }
-zakroczym = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wild_game religion = catholic topography = flatland vegetation = grasslands }
-czersk = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = lumber religion = catholic topography = wetlands vegetation = forest }
-garwolin = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = forest }
-grojec = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
-liw = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wild_game religion = catholic topography = flatland vegetation = forest }
-lomza = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = forest }
-kolno = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = wetlands vegetation = forest }
-ostroleka = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wild_game religion = catholic topography = wetlands vegetation = forest }
-wizna = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = horses religion = catholic topography = flatland vegetation = forest }
-zambrow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = forest }
-plock = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = farmland }
-plonsk = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = woods }
-sierpc = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = woods }
-szrensk = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wild_game religion = catholic topography = flatland vegetation = woods }
-drohiczyn = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = forest }
-bielsk_podlaski = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = horses religion = catholic topography = flatland vegetation = forest }
-goniadz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = wetlands vegetation = forest }
-mielnik = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = woods }
-sokolow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = forest }
-suraz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = forest }
-tykocin = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = clay religion = catholic topography = flatland vegetation = forest }
-rawa = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = woods }
-biala_rawska = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = woods }
-gabin = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = grasslands }
-gostynin = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = clay religion = catholic topography = flatland vegetation = grasslands }
-sochaczew = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
-warsaw = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
-kamieniec = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = clay religion = catholic topography = flatland vegetation = woods }
-nur = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = lumber religion = catholic topography = flatland vegetation = forest }
-tarczyn = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = farmland }
-chelmno = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = fiber_crops}
-brodnica = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = grasslands }
-grudziadz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = farmland }
-lubawa = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = woods }
-torun = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = wool}
-gdansk = { climate = temperate_oceanic_climate culture = greater_polish natural_harbor_suitability = 0.50 raw_material = dyes religion = catholic topography = wetlands vegetation = farmland }
-gniew = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = beeswax religion = catholic topography = flatland vegetation = farmland }
+ciechanow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = farmland }
+przasnysz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fur religion = catholic topography = flatland vegetation = woods }
+rozan = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
+zakroczym = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wild_game religion = catholic topography = flatland vegetation = grasslands }
+czersk = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = lumber religion = catholic topography = wetlands vegetation = forest }
+garwolin = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = forest }
+grojec = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
+liw = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wild_game religion = catholic topography = flatland vegetation = forest }
+lomza = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = forest }
+kolno = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = wetlands vegetation = forest }
+ostroleka = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wild_game religion = catholic topography = wetlands vegetation = forest }
+wizna = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = horses religion = catholic topography = flatland vegetation = forest }
+zambrow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = forest }
+plock = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = farmland }
+plonsk = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = woods }
+sierpc = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = woods }
+szrensk = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wild_game religion = catholic topography = flatland vegetation = woods }
+drohiczyn = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = forest }
+bielsk_podlaski = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = horses religion = catholic topography = flatland vegetation = forest }
+goniadz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = wetlands vegetation = forest }
+mielnik = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = woods }
+sokolow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = forest }
+suraz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = forest }
+tykocin = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = clay religion = catholic topography = flatland vegetation = forest }
+rawa = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = woods }
+biala_rawska = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
+gabin = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = grasslands }
+gostynin = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = clay religion = catholic topography = flatland vegetation = grasslands }
+sochaczew = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
+warsaw = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
+kamieniec = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = clay religion = catholic topography = flatland vegetation = woods }
+nur = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = lumber religion = catholic topography = flatland vegetation = forest }
+tarczyn = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = farmland }
+chelmno = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = fiber_crops}
+brodnica = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = grasslands }
+grudziadz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = farmland }
+lubawa = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
+torun = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = wool}
+gdansk = { climate = temperate_oceanic_climate culture = mdm_polish_culture natural_harbor_suitability = 0.50 raw_material = dyes religion = catholic topography = wetlands vegetation = farmland }
+gniew = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = beeswax religion = catholic topography = flatland vegetation = farmland }
 koscierzyna = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = catholic culture = kashubian raw_material = legumes}
 mirochowo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = kashubian raw_material = clay}
 puck = { topography = flatland vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = kashubian raw_material = wheat natural_harbor_suitability = 0.00}
-tczew = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
+tczew = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
 tilsit = { climate = temperate_continental_humid_climate culture = muscovite raw_material = lumber religion = romuva topography = flatland vegetation = forest }
 gumbinnen = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wild_game religion = catholic topography = flatland vegetation = forest }
 labiau = { climate = temperate_continental_humid_climate culture = muscovite raw_material = fish religion = catholic topography = wetlands vegetation = grasslands }
@@ -4071,34 +4071,34 @@ ragnit = { climate = temperate_continental_humid_climate culture = muscovite raw
 windenburg = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = wild_game religion = catholic topography = wetlands vegetation = woods }
 curonian_lagoon = { topography = lakes climate = temperate_continental_humid_climate}
 konigsberg = { climate = temperate_continental_humid_climate culture = muscovite modifier = amber_coast_base natural_harbor_suitability = 0.75 raw_material = amber religion = catholic topography = flatland vegetation = grasslands }
-balga = { climate = temperate_continental_humid_climate culture = greater_polish modifier = amber_coast_base raw_material = amber religion = catholic topography = flatland vegetation = woods }
+balga = { climate = temperate_continental_humid_climate culture = mdm_polish_culture modifier = amber_coast_base raw_material = amber religion = catholic topography = flatland vegetation = woods }
 brandenburg_prussia = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = catholic topography = flatland vegetation = woods }
 fischhausen = { climate = temperate_continental_humid_climate culture = muscovite raw_material = fish religion = catholic topography = flatland vegetation = grasslands }
 gerdauen = { climate = temperate_continental_humid_climate culture = muscovite raw_material = fiber_crops religion = catholic topography = wetlands vegetation = woods }
 insterburg = { climate = temperate_continental_humid_climate culture = muscovite raw_material = beeswax religion = catholic topography = flatland vegetation = forest }
 wehlau = { climate = temperate_continental_humid_climate culture = muscovite raw_material = fur religion = catholic topography = flatland vegetation = woods }
-elk = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = lumber religion = catholic topography = wetlands vegetation = forest }
-barten = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fur religion = catholic topography = flatland vegetation = forest }
-nibork = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = clay religion = catholic topography = flatland vegetation = grasslands }
-ostroda = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = grasslands }
-ryn_poland = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = wetlands vegetation = forest }
-szczytno = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = stone religion = catholic topography = wetlands vegetation = forest }
-wegorzewo = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = forest }
+elk = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = lumber religion = catholic topography = wetlands vegetation = forest }
+barten = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fur religion = catholic topography = flatland vegetation = forest }
+nibork = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = clay religion = catholic topography = flatland vegetation = grasslands }
+ostroda = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = grasslands }
+ryn_poland = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = wetlands vegetation = forest }
+szczytno = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = stone religion = catholic topography = wetlands vegetation = forest }
+wegorzewo = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = forest }
 lake_mamry = { topography = lakes climate = temperate_continental_humid_climate}
 lake_sniardwy = { topography = lakes climate = temperate_continental_humid_climate}
 tuchola = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = catholic culture = kashubian raw_material = wild_game}
-bialobork = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fur religion = catholic topography = flatland vegetation = forest }
-czluchow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = horses religion = catholic topography = flatland vegetation = forest }
-nowe = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = grasslands }
-swiecie = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = greater_polish raw_material = alum}
-malbork = { climate = temperate_continental_humid_climate culture = greater_polish modifier = amber_coast_base raw_material = amber religion = catholic topography = wetlands vegetation = farmland }
-dzierzgon = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fiber_crops religion = catholic topography = flatland vegetation = grasslands }
-elblag = { climate = temperate_continental_humid_climate culture = greater_polish natural_harbor_suitability = 0.50 raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
-kwidzyn = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = legumes religion = catholic topography = flatland vegetation = grasslands }
-morag = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fruit religion = catholic topography = flatland vegetation = woods }
-lidzbark = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = woods }
-frombork = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fish religion = catholic topography = flatland vegetation = woods }
-olsztyn = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = horses religion = catholic topography = flatland vegetation = woods }
+bialobork = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fur religion = catholic topography = flatland vegetation = forest }
+czluchow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = horses religion = catholic topography = flatland vegetation = forest }
+nowe = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = grasslands }
+swiecie = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = mdm_polish_culture raw_material = alum}
+malbork = { climate = temperate_continental_humid_climate culture = mdm_polish_culture modifier = amber_coast_base raw_material = amber religion = catholic topography = wetlands vegetation = farmland }
+dzierzgon = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fiber_crops religion = catholic topography = flatland vegetation = grasslands }
+elblag = { climate = temperate_continental_humid_climate culture = mdm_polish_culture natural_harbor_suitability = 0.50 raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
+kwidzyn = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = legumes religion = catholic topography = flatland vegetation = grasslands }
+morag = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fruit religion = catholic topography = flatland vegetation = woods }
+lidzbark = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = woods }
+frombork = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fish religion = catholic topography = flatland vegetation = woods }
+olsztyn = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = horses religion = catholic topography = flatland vegetation = woods }
 medininkai = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = millet religion = romuva topography = flatland vegetation = woods }
 palanga = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = salt religion = romuva topography = flatland vegetation = woods }
 rietavas = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = lumber religion = romuva topography = flatland vegetation = forest }
@@ -4115,21 +4115,21 @@ kraziai = { climate = temperate_continental_humid_climate culture = aukstaitian 
 mazeikiai = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = wheat religion = romuva topography = flatland vegetation = woods }
 papile = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = lumber religion = romuva topography = flatland vegetation = woods }
 zagare = { climate = temperate_continental_humid_climate culture = aukstaitian raw_material = clay religion = romuva topography = flatland vegetation = woods }
-glogow = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
-gora = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = woods }
-kozuchow = { climate = temperate_oceanic_climate culture = greater_polish raw_material = fiber_crops religion = catholic topography = flatland vegetation = grasslands }
-szprotawa = { climate = temperate_oceanic_climate culture = greater_polish raw_material = fiber_crops religion = catholic topography = flatland vegetation = grasslands }
-zielona_gora = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wine religion = catholic topography = flatland vegetation = farmland }
-legnica = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
-boleslawiec = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = clay religion = catholic topography = flatland vegetation = grasslands }
-jawor = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = copper_ore religion = catholic topography = hills vegetation = grasslands }
-wolow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = horses religion = catholic topography = flatland vegetation = woods }
-zlotoryja = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = gold_ore religion = catholic topography = flatland vegetation = grasslands }
-olesnica = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = woods }
-milicz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fish religion = catholic topography = flatland vegetation = woods }
-namyslow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = woods }
-sycow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = woods }
-trzebnica = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
+glogow = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
+gora = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = woods }
+kozuchow = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = fiber_crops religion = catholic topography = flatland vegetation = grasslands }
+szprotawa = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = fiber_crops religion = catholic topography = flatland vegetation = grasslands }
+zielona_gora = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wine religion = catholic topography = flatland vegetation = farmland }
+legnica = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
+boleslawiec = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = clay religion = catholic topography = flatland vegetation = grasslands }
+jawor = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = copper_ore religion = catholic topography = hills vegetation = grasslands }
+wolow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = horses religion = catholic topography = flatland vegetation = woods }
+zlotoryja = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = gold_ore religion = catholic topography = flatland vegetation = grasslands }
+olesnica = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = woods }
+milicz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fish religion = catholic topography = flatland vegetation = woods }
+namyslow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = woods }
+sycow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = woods }
+trzebnica = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
 opava = { climate = temperate_continental_humid_climate culture = czech raw_material = lumber religion = catholic topography = flatland vegetation = forest }
 fryvaldov = { climate = temperate_continental_humid_climate culture = czech raw_material = silver_ore religion = catholic topography = hills vegetation = forest }
 glubczyce = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = silesian raw_material = livestock}
@@ -4141,30 +4141,30 @@ lubliniec = { topography = flatland vegetation = forest climate = temperate_cont
 olesno = { climate = temperate_continental_humid_climate culture = german_silesian raw_material = lumber religion = catholic topography = flatland vegetation = forest }
 prudnik = { climate = temperate_continental_humid_climate culture = german_silesian raw_material = fiber_crops religion = catholic topography = flatland vegetation = farmland }
 strzelce_opolskie = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = silesian raw_material = livestock}
-swidnica = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = lead_ore religion = catholic topography = flatland vegetation = grasslands }
-kamienna_gora = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = grasslands }
-rychbach = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
-niemcza = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = stone religion = catholic topography = flatland vegetation = farmland }
-ziebice = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = gold_ore religion = catholic topography = flatland vegetation = farmland }
+swidnica = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = lead_ore religion = catholic topography = flatland vegetation = grasslands }
+kamienna_gora = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = grasslands }
+rychbach = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
+niemcza = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = stone religion = catholic topography = flatland vegetation = farmland }
+ziebice = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = gold_ore religion = catholic topography = flatland vegetation = farmland }
 tesin = { climate = temperate_continental_humid_climate culture = czech raw_material = stone religion = catholic topography = hills vegetation = woods }
-bielsko = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = lumber religion = catholic topography = hills vegetation = woods }
+bielsko = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = lumber religion = catholic topography = hills vegetation = woods }
 bytom = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = silesian raw_material = silver_ore}
 kozle = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = silesian raw_material = wheat}
 pszczyna = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = silesian raw_material = coal}
 raciborz = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = silesian raw_material = wheat}
-siewierz = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = lead_ore religion = catholic topography = flatland vegetation = woods }
+siewierz = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = lead_ore religion = catholic topography = flatland vegetation = woods }
 toszek = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = silesian raw_material = livestock}
-wroclaw = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
-brzeg = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fruit religion = catholic topography = flatland vegetation = farmland }
-grodkow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = lead_ore religion = catholic topography = flatland vegetation = farmland }
-nysa = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = alum religion = catholic topography = flatland vegetation = farmland }
-niemodlin = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
-olawa = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
-sroda_slaska = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
-zagan = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = woods }
-krosno_odrzanskie = { climate = temperate_oceanic_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = forest }
-sulechow = { climate = temperate_oceanic_climate culture = greater_polish raw_material = fiber_crops religion = catholic topography = flatland vegetation = forest }
-zary = { climate = temperate_oceanic_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
+wroclaw = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
+brzeg = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fruit religion = catholic topography = flatland vegetation = farmland }
+grodkow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = lead_ore religion = catholic topography = flatland vegetation = farmland }
+nysa = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = alum religion = catholic topography = flatland vegetation = farmland }
+niemodlin = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
+olawa = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
+sroda_slaska = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
+zagan = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = woods }
+krosno_odrzanskie = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = forest }
+sulechow = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = fiber_crops religion = catholic topography = flatland vegetation = forest }
+zary = { climate = temperate_oceanic_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
 north_central_baltic = { topography = inland_sea climate = temperate_continental_humid_climate}
 gulf_of_riga = { topography = narrows climate = temperate_continental_humid_climate}
 coast_of_osel = { topography = narrows climate = temperate_continental_humid_climate}
@@ -4184,9 +4184,9 @@ pommeranian_bay = { topography = inland_sea climate = temperate_oceanic_climate}
 stettin_lagoon = { topography = inland_sea climate = temperate_oceanic_climate}
 grodno = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = lumber religion = romuva topography = flatland vegetation = forest }
 bershty = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = livestock religion = romuva topography = flatland vegetation = forest }
-grodek = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fiber_crops religion = romuva topography = flatland vegetation = forest }
+grodek = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fiber_crops religion = romuva topography = flatland vegetation = forest }
 masty = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = livestock religion = romuva topography = flatland vegetation = forest }
-sokolka = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = romuva topography = flatland vegetation = forest }
+sokolka = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = romuva topography = flatland vegetation = forest }
 kletsk = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = beeswax}
 bolshie_krugovichi = { topography = wetlands vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = clay}
 kapyl = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = fur}
@@ -4270,13 +4270,13 @@ horodok = { topography = flatland vegetation = woods climate = temperate_contine
 kamianets_podilskyi = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = orthodox culture = ruthenian raw_material = millet}
 zalishchyky = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = legumes religion = orthodox topography = flatland vegetation = farmland }
 brest_litowsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = millet}
-biala_podlaska = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = orthodox topography = flatland vegetation = woods }
+biala_podlaska = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = orthodox topography = flatland vegetation = woods }
 chernyany = { topography = wetlands vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = fiber_crops}
 malaryta = { topography = wetlands vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = livestock}
-wlodawa = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fruit religion = orthodox topography = flatland vegetation = woods }
+wlodawa = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fruit religion = orthodox topography = flatland vegetation = woods }
 kobryn = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = wheat}
 dabuchyn = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = clay}
-hajnowka = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fur religion = orthodox topography = flatland vegetation = forest }
+hajnowka = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fur religion = orthodox topography = flatland vegetation = forest }
 kamyenyets = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = wild_game}
 pinsk = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = amber}
 drahichyn = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = wheat}
@@ -4290,8 +4290,8 @@ hlynne = { climate = temperate_continental_humid_climate culture = ruthenian raw
 stolin = { topography = wetlands vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = lumber}
 belz = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = millet religion = orthodox topography = flatland vegetation = forest }
 busk = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = horses religion = orthodox topography = flatland vegetation = forest }
-grabowiec = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = orthodox topography = flatland vegetation = woods }
-lubaczow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = legumes religion = catholic topography = flatland vegetation = forest }
+grabowiec = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = orthodox topography = flatland vegetation = woods }
+lubaczow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = legumes religion = catholic topography = flatland vegetation = forest }
 sokal = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = fur religion = orthodox topography = flatland vegetation = forest }
 drohobych = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = salt religion = orthodox topography = flatland vegetation = forest }
 sambir = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = stone religion = orthodox topography = flatland vegetation = woods }
@@ -4311,13 +4311,13 @@ brody = { climate = temperate_continental_humid_climate culture = ruthenian raw_
 zhovkva = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = millet religion = orthodox topography = flatland vegetation = forest }
 yavoriv = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = fiber_crops religion = orthodox topography = flatland vegetation = woods }
 zvenyhorod = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = wheat religion = orthodox topography = flatland vegetation = farmland }
-przemysl = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fruit religion = catholic topography = flatland vegetation = woods }
-piskorowice = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = forest }
-rzeszow = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = millet religion = catholic topography = flatland vegetation = farmland }
-yaroslav_poland = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
-sanok = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = salt religion = catholic topography = hills vegetation = forest }
-krosno = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = wool religion = catholic topography = flatland vegetation = forest }
-lesko = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = hills vegetation = forest }
+przemysl = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fruit religion = catholic topography = flatland vegetation = woods }
+piskorowice = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = forest }
+rzeszow = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = millet religion = catholic topography = flatland vegetation = farmland }
+yaroslav_poland = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
+sanok = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = salt religion = catholic topography = hills vegetation = forest }
+krosno = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = wool religion = catholic topography = flatland vegetation = forest }
+lesko = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = hills vegetation = forest }
 terebovlia = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = legumes religion = orthodox topography = flatland vegetation = farmland }
 khorostkiv = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = livestock religion = orthodox topography = flatland vegetation = farmland }
 ternopil = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = wheat religion = orthodox topography = flatland vegetation = farmland }
@@ -4363,12 +4363,12 @@ boldyzh = { topography = flatland vegetation = woods climate = temperate_contine
 dmitriyev = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = livestock}
 rylsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = wool}
 sevsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = lumber}
-chelm = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
-krasnystaw = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = fruit religion = catholic topography = flatland vegetation = woods }
+chelm = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
+krasnystaw = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fruit religion = catholic topography = flatland vegetation = woods }
 liuboml = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = fruit religion = orthodox topography = flatland vegetation = forest }
 ratne = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = horses religion = orthodox topography = wetlands vegetation = forest }
 shatsk = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = fur religion = orthodox topography = wetlands vegetation = forest }
-ugrovesk = { climate = temperate_continental_humid_climate culture = greater_polish raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
+ugrovesk = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = iron_ore religion = catholic topography = flatland vegetation = woods }
 kremenets = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = fiber_crops religion = orthodox topography = flatland vegetation = woods }
 dubno = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
 zbarazh = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = horses religion = orthodox topography = flatland vegetation = woods }
