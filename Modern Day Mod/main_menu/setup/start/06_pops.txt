@@ -15913,7 +15913,7 @@ locations = {
    }
     riga = {
       define_pop = {
-         culture = liv
+         culture = muscovite
          religion = catholic
          size = 1.000
          type = peasants
@@ -15921,7 +15921,7 @@ locations = {
    }
     ventspils = {
       define_pop = {
-         culture = curonian
+         culture = latvian
          religion = romuva
          size = 1.000
          type = peasants
@@ -15977,7 +15977,7 @@ locations = {
    }
     limbazi = {
       define_pop = {
-         culture = liv
+         culture = latvian
          religion = catholic
          size = 1.000
          type = peasants
@@ -15985,7 +15985,7 @@ locations = {
    }
     karksi = {
       define_pop = {
-         culture = liv
+         culture = estonian
          religion = catholic
          size = 1.000
          type = peasants
@@ -16041,7 +16041,7 @@ locations = {
    }
     narva = {
       define_pop = {
-         culture = estonian
+         culture = muscovite
          religion = catholic
          size = 1.000
          type = peasants
@@ -16073,7 +16073,7 @@ locations = {
    }
     piltene = {
       define_pop = {
-         culture = curonian
+         culture = latvian
          religion = catholic
          size = 1.000
          type = peasants
@@ -16081,7 +16081,7 @@ locations = {
    }
     kandava = {
       define_pop = {
-         culture = liv
+         culture = latvian
          religion = catholic
          size = 1.000
          type = peasants
@@ -16089,7 +16089,7 @@ locations = {
    }
     grobina = {
       define_pop = {
-         culture = curonian
+         culture = latvian
          religion = romuva
          size = 1.000
          type = peasants
@@ -16097,7 +16097,7 @@ locations = {
    }
     kuldiga = {
       define_pop = {
-         culture = curonian
+         culture = latvian
          religion = romuva
          size = 1.000
          type = peasants
@@ -16137,7 +16137,7 @@ locations = {
    }
     kraslava = {
       define_pop = {
-         culture = latvian
+         culture = muscovite
          religion = catholic
          size = 1.000
          type = peasants
@@ -16193,7 +16193,7 @@ locations = {
    }
     daugavpils = {
       define_pop = {
-         culture = latvian
+         culture = muscovite
          religion = catholic
          size = 1.000
          type = peasants
@@ -16249,7 +16249,7 @@ locations = {
    }
     saarde = {
       define_pop = {
-         culture = liv
+         culture = estonian
          religion = catholic
          size = 1.000
          type = peasants
@@ -16257,7 +16257,7 @@ locations = {
    }
     dundaga = {
       define_pop = {
-         culture = liv
+         culture = latvian
          religion = catholic
          size = 1.000
          type = peasants
@@ -16265,7 +16265,7 @@ locations = {
    }
     durbe = {
       define_pop = {
-         culture = curonian
+         culture = latvian
          religion = romuva
          size = 1.000
          type = peasants
@@ -16281,7 +16281,7 @@ locations = {
    }
     tukums = {
       define_pop = {
-         culture = liv
+         culture = latvian
          religion = catholic
          size = 1.000
          type = peasants
@@ -16289,7 +16289,7 @@ locations = {
    }
     straupe = {
       define_pop = {
-         culture = liv
+         culture = latvian
          religion = catholic
          size = 1.000
          type = peasants
@@ -16329,7 +16329,7 @@ locations = {
    }
     makonkalns = {
       define_pop = {
-         culture = latvian
+         culture = muscovite
          religion = catholic
          size = 1.000
          type = peasants
