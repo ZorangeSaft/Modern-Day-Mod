@@ -171,7 +171,7 @@ BEL = {
 BELA = {
 	color = rgb { 180 220 190 } #{ 166  231  160 }
 	color2 = rgb { 180 220 190 } #{ 166  231  160 }
-	culture_definition = polatskian_culture
+	culture_definition = mdm_belarusian_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2

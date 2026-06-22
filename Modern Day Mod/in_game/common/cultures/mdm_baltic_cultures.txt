@@ -1,17 +1,3 @@
-curonian = { #Baltic
-	language = western_baltic_dialect
-	
-	color = map_curonian
-	
-	tags = { baltic_gfx eastern_european_gfx european_gfx }
-
-	opinions = { }
-
-	culture_groups = {
-		baltic_group
-	}
-}
-
 estonian = { #https://en.wikipedia.org/wiki/Estonians
 	language = estonian_dialect
 	
@@ -40,21 +26,6 @@ latvian = {  #Baltic https://en.wikipedia.org/wiki/Latvians
 		baltic_group
 	}
 	
-}
-
-liv = {  #Finnic https://en.wikipedia.org/wiki/Livonians
-	language = estonian_dialect
-	
-	color = map_liv
-	
-	tags = { baltic_gfx finnish_gfx eastern_european_gfx european_gfx }
-
-	opinions = { }
-	
-	culture_groups = {
-		finnic_group
-		baltic_group
-	}
 }
 
 german_baltic = { #Baltic https://en.wikipedia.org/wiki/Baltic_Germans

@@ -182,7 +182,6 @@
  basque: "Basque"
  walloon: "Walloon"
  provencal: "Provençal"
- novgorodian: "Novgorodian"
  muscovite: "Muscovite"
  ryazanian: "Ryazanian"
  taino_culture: "Taíno"
@@ -222,9 +221,7 @@
  eastern_amazigh: "Eastern Amazigh"
  ruthenian: "Ruthenian"
  cossack_culture: "Cossack"
- polatskian_culture: "Polatskian"
  smolenskian_culture: "Smolenskian"
- polesian_culture: "Polesian"
  volhynian_culture: "Volhynian"
  halychian_culture: "Halychian"
  rusyn_culture: "Rusyn"
@@ -3009,3 +3006,5 @@
  
  mdm_north_macedonian_culture: "North Macedonian"
  mdm_macedonian_dialect: "Macedonian"
+
+ mdm_belarusian_culture: "Belarusian"
