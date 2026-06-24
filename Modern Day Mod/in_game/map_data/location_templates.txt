@@ -3531,25 +3531,25 @@ coast_languedoc = { topography = inland_sea climate = hot_mediterranean_climate}
 mouths_rhone = { topography = inland_sea climate = hot_mediterranean_climate}
 cape_sicie = { topography = inland_sea climate = hot_mediterranean_climate}
 ligurian_sea_location_1 = { topography = inland_sea climate = hot_mediterranean_climate}
-bacau = { climate = temperate_continental_humid_climate culture = wallachian raw_material = livestock religion = orthodox topography = hills vegetation = forest }
-hangu_romania = { climate = temperate_continental_humid_climate culture = wallachian raw_material = fiber_crops religion = orthodox topography = mountains vegetation = forest }
-piatra_lui_craciun = { climate = temperate_continental_humid_climate culture = wallachian raw_material = stone religion = orthodox topography = hills vegetation = forest }
-roman = { climate = temperate_continental_humid_climate culture = wallachian raw_material = legumes religion = orthodox topography = flatland vegetation = woods }
-targu_neamt = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wild_game religion = orthodox topography = hills vegetation = forest }
-targu_trotus = { climate = temperate_continental_humid_climate culture = wallachian raw_material = salt religion = orthodox topography = mountains vegetation = forest }
+bacau = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = livestock religion = orthodox topography = hills vegetation = forest }
+hangu_romania = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = fiber_crops religion = orthodox topography = mountains vegetation = forest }
+piatra_lui_craciun = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = stone religion = orthodox topography = hills vegetation = forest }
+roman = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = legumes religion = orthodox topography = flatland vegetation = woods }
+targu_neamt = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wild_game religion = orthodox topography = hills vegetation = forest }
+targu_trotus = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = salt religion = orthodox topography = mountains vegetation = forest }
 balti = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = moldovan raw_material = horses}
 hotin = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = livestock religion = orthodox topography = flatland vegetation = forest }
 lipnic = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = moldovan raw_material = wool}
 soroca = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = moldovan raw_material = lumber}
 viadineti = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = moldovan raw_material = millet}
-barlad = { climate = temperate_continental_humid_climate culture = wallachian raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
-adjud = { climate = temperate_continental_humid_climate culture = wallachian raw_material = beeswax religion = orthodox topography = flatland vegetation = forest }
-cudalbi = { climate = cold_semiarid_steppe_climate culture = wallachian raw_material = livestock religion = orthodox topography = flatland vegetation = grasslands }
-focsani = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wine religion = orthodox topography = flatland vegetation = woods }
-galati = { climate = cold_semiarid_steppe_climate culture = wallachian raw_material = wheat religion = orthodox topography = wetlands vegetation = grasslands }
-oancea = { climate = temperate_continental_humid_climate culture = wallachian raw_material = fiber_crops religion = orthodox topography = flatland vegetation = grasslands }
-tecuci = { climate = temperate_continental_humid_climate culture = wallachian raw_material = fruit religion = orthodox topography = flatland vegetation = woods }
-tulnici = { climate = temperate_continental_humid_climate culture = wallachian raw_material = clay religion = orthodox topography = mountains vegetation = woods }
+barlad = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
+adjud = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = beeswax religion = orthodox topography = flatland vegetation = forest }
+cudalbi = { climate = cold_semiarid_steppe_climate culture = mdm_romanian_culture raw_material = livestock religion = orthodox topography = flatland vegetation = grasslands }
+focsani = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wine religion = orthodox topography = flatland vegetation = woods }
+galati = { climate = cold_semiarid_steppe_climate culture = mdm_romanian_culture raw_material = wheat religion = orthodox topography = wetlands vegetation = grasslands }
+oancea = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = fiber_crops religion = orthodox topography = flatland vegetation = grasslands }
+tecuci = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = fruit religion = orthodox topography = flatland vegetation = woods }
+tulnici = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = clay religion = orthodox topography = mountains vegetation = woods }
 cetatea_alba = { climate = cold_semiarid_steppe_climate culture = ruthenian raw_material = fish religion = orthodox topography = flatland vegetation = grasslands }
 cahul = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = moldovan raw_material = wool}
 chilia = { climate = cold_semiarid_steppe_climate culture = ruthenian raw_material = wool religion = orthodox topography = flatland vegetation = grasslands }
@@ -3564,42 +3564,42 @@ lake_katlabukh = { topography = lakes climate = cold_semiarid_steppe_climate}
 lake_kitai = { topography = lakes climate = cold_semiarid_steppe_climate}
 lake_yalpuh = { topography = lakes climate = cold_semiarid_steppe_climate}
 sasyk_lagoon = { topography = lakes climate = cold_semiarid_steppe_climate}
-dorohoi = { climate = temperate_continental_humid_climate culture = wallachian raw_material = fruit religion = orthodox topography = flatland vegetation = woods }
+dorohoi = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = fruit religion = orthodox topography = flatland vegetation = woods }
 cernauti = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = wild_game religion = orthodox topography = flatland vegetation = forest }
 cetatea_tetina = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = legumes religion = orthodox topography = flatland vegetation = forest }
-cotnari = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wool religion = orthodox topography = flatland vegetation = woods }
-harlau = { climate = temperate_continental_humid_climate culture = wallachian raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
+cotnari = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wool religion = orthodox topography = flatland vegetation = woods }
+harlau = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
 stefanesti = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = moldovan raw_material = clay}
-iasi = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wine religion = orthodox topography = flatland vegetation = farmland }
-husi = { climate = temperate_continental_humid_climate culture = wallachian raw_material = millet religion = orthodox topography = flatland vegetation = woods }
+iasi = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wine religion = orthodox topography = flatland vegetation = farmland }
+husi = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = millet religion = orthodox topography = flatland vegetation = woods }
 targul_saratii = { topography = flatland vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = moldovan raw_material = lumber}
-tutova = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
+tutova = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
 ungheni = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = moldovan raw_material = lumber}
-vaslui = { climate = temperate_continental_humid_climate culture = wallachian raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
+vaslui = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
 orhei = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = moldovan raw_material = wine}
 chisinau = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = moldovan raw_material = stone}
 gura_galbenei = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = moldovan raw_material = horses}
 targu_lapusnei = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = moldovan raw_material = fruit}
 tighina = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = moldovan raw_material = wool}
 tuzara = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = moldovan raw_material = livestock}
-suceava = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wheat religion = orthodox topography = flatland vegetation = forest }
-campulung_moldovenesc = { climate = temperate_continental_humid_climate culture = wallachian raw_material = iron_ore religion = orthodox topography = mountains vegetation = forest }
-putna = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wool religion = orthodox topography = hills vegetation = forest }
-siret = { climate = temperate_continental_humid_climate culture = wallachian raw_material = legumes religion = orthodox topography = flatland vegetation = forest }
+suceava = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wheat religion = orthodox topography = flatland vegetation = forest }
+campulung_moldovenesc = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = iron_ore religion = orthodox topography = mountains vegetation = forest }
+putna = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wool religion = orthodox topography = hills vegetation = forest }
+siret = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = legumes religion = orthodox topography = flatland vegetation = forest }
 storozhynets = { climate = temperate_continental_humid_climate culture = ruthenian raw_material = lumber religion = orthodox topography = flatland vegetation = forest }
-vatra_dornei = { climate = temperate_continental_humid_climate culture = wallachian raw_material = lumber religion = orthodox topography = mountains vegetation = forest }
+vatra_dornei = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = lumber religion = orthodox topography = mountains vegetation = forest }
 bihar = { climate = temperate_continental_humid_climate culture = hungarian raw_material = wine religion = orthodox topography = flatland vegetation = woods }
-beius = { climate = temperate_continental_humid_climate culture = wallachian raw_material = iron_ore religion = orthodox topography = flatland vegetation = forest }
-cheresig = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wool religion = orthodox topography = flatland vegetation = woods }
+beius = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = iron_ore religion = orthodox topography = flatland vegetation = forest }
+cheresig = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wool religion = orthodox topography = flatland vegetation = woods }
 debrecen = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = beeswax}
-oradea = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
+oradea = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
 eger = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = clay}
 heves = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = fish}
 miskolc = { topography = wetlands vegetation = forest climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = stone}
 borsod = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = livestock}
-crasna = { climate = temperate_continental_humid_climate culture = wallachian raw_material = lumber religion = orthodox topography = hills vegetation = woods }
-hodod = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wool religion = catholic topography = hills vegetation = forest }
-zalau = { climate = temperate_continental_humid_climate culture = wallachian raw_material = legumes religion = catholic topography = hills vegetation = woods }
+crasna = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = lumber religion = orthodox topography = hills vegetation = woods }
+hodod = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wool religion = catholic topography = hills vegetation = forest }
+zalau = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = legumes religion = catholic topography = hills vegetation = woods }
 pest = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = wheat}
 abrahamtelke = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = saltpeter}
 jaszbereny = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = wild_game}
@@ -3609,8 +3609,8 @@ hajduszoboszlo = { topography = wetlands vegetation = farmland climate = tempera
 nagyboszormeny = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = wool}
 nagykallo = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = wheat}
 varda = { topography = wetlands vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = legumes}
-szatmar = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wheat religion = catholic topography = flatland vegetation = woods }
-baia_mare = { climate = temperate_continental_humid_climate culture = wallachian raw_material = gold_ore religion = catholic topography = hills vegetation = forest }
+szatmar = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wheat religion = catholic topography = flatland vegetation = woods }
+baia_mare = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = gold_ore religion = catholic topography = hills vegetation = forest }
 carei = { climate = temperate_continental_humid_climate culture = hungarian raw_material = livestock religion = catholic topography = wetlands vegetation = woods }
 nagyecsed = { topography = wetlands vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = wool}
 syvlyush = { climate = temperate_continental_humid_climate culture = halychian_culture raw_material = wine religion = catholic topography = flatland vegetation = woods }
@@ -3626,8 +3626,8 @@ stary_tekov = { topography = hills vegetation = woods climate = temperate_contin
 zvolen = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = catholic culture = slovak raw_material = lumber}
 khust = { climate = temperate_continental_humid_climate culture = halychian_culture raw_material = fur religion = orthodox topography = hills vegetation = forest }
 mezhorje = { topography = mountains vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = halychian_culture raw_material = lumber}
-sighet = { climate = temperate_continental_humid_climate culture = wallachian raw_material = salt religion = orthodox topography = mountains vegetation = forest }
-cuhea = { climate = temperate_continental_humid_climate culture = wallachian raw_material = stone religion = orthodox topography = mountains vegetation = forest }
+sighet = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = salt religion = orthodox topography = mountains vegetation = forest }
+cuhea = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = stone religion = orthodox topography = mountains vegetation = forest }
 rakhiv = { topography = mountains vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = halychian_culture raw_material = amber}
 eastern_carpathians1 = { topography = mountains vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
 eastern_carpathians2 = { topography = mountains vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
@@ -3667,28 +3667,28 @@ mukachevo = { topography = mountains vegetation = forest climate = temperate_con
 satoraljaujhely = { topography = wetlands vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = wine}
 uzhorod = { topography = hills vegetation = woods climate = temperate_continental_humid_climate religion = catholic culture = halychian_culture raw_material = copper_ore}
 velikyi_bereznyi = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = catholic culture = halychian_culture raw_material = lumber}
-csanad = { climate = subtropical_humid_climate culture = wallachian raw_material = medicaments religion = catholic topography = flatland vegetation = grasslands }
+csanad = { climate = subtropical_humid_climate culture = mdm_romanian_culture raw_material = medicaments religion = catholic topography = flatland vegetation = grasslands }
 kikinda = { topography = wetlands vegetation = grasslands climate = subtropical_humid_climate religion = catholic culture = hungarian raw_material = clay}
 mako = { topography = wetlands vegetation = farmland climate = subtropical_humid_climate religion = catholic culture = hungarian raw_material = livestock}
 szeged = { topography = wetlands vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = wool}
 halas = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = legumes}
 felegyhaza = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = livestock}
 zenta = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = catholic culture = hungarian raw_material = wheat}
-timisoara = { climate = subtropical_humid_climate culture = wallachian raw_material = livestock religion = orthodox topography = flatland vegetation = farmland }
-caransebes = { climate = temperate_continental_humid_climate culture = wallachian raw_material = marble religion = orthodox topography = hills vegetation = forest }
-lugoj = { climate = temperate_continental_humid_climate culture = wallachian raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
-mihalt = { climate = temperate_continental_humid_climate culture = wallachian raw_material = lumber religion = orthodox topography = hills vegetation = forest }
-recas = { climate = subtropical_humid_climate culture = wallachian raw_material = clay religion = orthodox topography = flatland vegetation = grasslands }
-zarand = { climate = subtropical_humid_climate culture = wallachian raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
-arad = { climate = subtropical_humid_climate culture = wallachian raw_material = wine religion = catholic topography = flatland vegetation = grasslands }
-baia_crisului = { climate = temperate_continental_humid_climate culture = wallachian raw_material = gold_ore religion = orthodox topography = hills vegetation = forest }
-ineu = { climate = subtropical_humid_climate culture = wallachian raw_material = wine religion = orthodox topography = flatland vegetation = forest }
-lipova = { climate = temperate_continental_humid_climate culture = wallachian raw_material = fruit religion = orthodox topography = flatland vegetation = woods }
+timisoara = { climate = subtropical_humid_climate culture = mdm_romanian_culture raw_material = livestock religion = orthodox topography = flatland vegetation = farmland }
+caransebes = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = marble religion = orthodox topography = hills vegetation = forest }
+lugoj = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
+mihalt = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = lumber religion = orthodox topography = hills vegetation = forest }
+recas = { climate = subtropical_humid_climate culture = mdm_romanian_culture raw_material = clay religion = orthodox topography = flatland vegetation = grasslands }
+zarand = { climate = subtropical_humid_climate culture = mdm_romanian_culture raw_material = wheat religion = catholic topography = flatland vegetation = farmland }
+arad = { climate = subtropical_humid_climate culture = mdm_romanian_culture raw_material = wine religion = catholic topography = flatland vegetation = grasslands }
+baia_crisului = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = gold_ore religion = orthodox topography = hills vegetation = forest }
+ineu = { climate = subtropical_humid_climate culture = mdm_romanian_culture raw_material = wine religion = orthodox topography = flatland vegetation = forest }
+lipova = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = fruit religion = orthodox topography = flatland vegetation = woods }
 kovin = { topography = flatland vegetation = grasslands climate = subtropical_humid_climate religion = orthodox culture = serbian raw_material = sand}
-carasova = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wild_game religion = orthodox topography = hills vegetation = woods }
+carasova = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wild_game religion = orthodox topography = hills vegetation = woods }
 modos = { topography = flatland vegetation = grasslands climate = subtropical_humid_climate religion = orthodox culture = serbian raw_material = fish}
 pancevo = { topography = wetlands vegetation = grasslands climate = subtropical_humid_climate religion = orthodox culture = serbian raw_material = livestock}
-semlacu_mare = { climate = subtropical_humid_climate culture = wallachian raw_material = iron_ore religion = orthodox topography = flatland vegetation = grasslands }
+semlacu_mare = { climate = subtropical_humid_climate culture = mdm_romanian_culture raw_material = iron_ore religion = orthodox topography = flatland vegetation = grasslands }
 veliky_beckerek = { topography = wetlands vegetation = farmland climate = subtropical_humid_climate religion = orthodox culture = serbian raw_material = wheat}
 bacs = { climate = subtropical_humid_climate culture = serbian raw_material = wool religion = catholic topography = wetlands vegetation = grasslands }
 baja_hungary = { topography = flatland vegetation = grasslands climate = subtropical_humid_climate religion = catholic culture = hungarian raw_material = fiber_crops}
@@ -3727,28 +3727,28 @@ zalavar = { topography = flatland vegetation = woods climate = subtropical_humid
 cakovec = { topography = flatland vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = croatian raw_material = wheat}
 nagykanizsa = { topography = flatland vegetation = woods climate = temperate_oceanic_climate religion = catholic culture = hungarian raw_material = wine}
 zalaegerszeg = { topography = flatland vegetation = woods climate = subtropical_humid_climate religion = catholic culture = hungarian raw_material = fruit}
-dabaca = { climate = temperate_continental_humid_climate culture = wallachian raw_material = livestock religion = orthodox topography = hills vegetation = grasslands }
-baita = { climate = temperate_continental_humid_climate culture = wallachian raw_material = stone religion = orthodox topography = hills vegetation = forest }
-bistrita = { climate = temperate_continental_humid_climate culture = wallachian raw_material = silver_ore religion = orthodox topography = hills vegetation = forest }
-dej = { climate = temperate_continental_humid_climate culture = wallachian raw_material = salt religion = orthodox topography = hills vegetation = woods }
-sic = { climate = temperate_continental_humid_climate culture = wallachian raw_material = millet religion = orthodox topography = hills vegetation = grasslands }
+dabaca = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = livestock religion = orthodox topography = hills vegetation = grasslands }
+baita = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = stone religion = orthodox topography = hills vegetation = forest }
+bistrita = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = silver_ore religion = orthodox topography = hills vegetation = forest }
+dej = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = salt religion = orthodox topography = hills vegetation = woods }
+sic = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = millet religion = orthodox topography = hills vegetation = grasslands }
 eastern_carpathians3 = { topography = mountains vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
 eastern_carpathians4 = { topography = mountains vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
-alba_iulia = { climate = temperate_continental_humid_climate culture = wallachian raw_material = salt religion = orthodox topography = hills vegetation = grasslands }
-aiud = { climate = temperate_continental_humid_climate culture = wallachian raw_material = helium religion = orthodox topography = hills vegetation = forest }
-cetatea_balta = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wild_game religion = orthodox topography = plateau vegetation = grasslands }
-deva = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wool religion = orthodox topography = hills vegetation = woods }
+alba_iulia = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = salt religion = orthodox topography = hills vegetation = grasslands }
+aiud = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = helium religion = orthodox topography = hills vegetation = forest }
+cetatea_balta = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wild_game religion = orthodox topography = plateau vegetation = grasslands }
+deva = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wool religion = orthodox topography = hills vegetation = woods }
 felvint = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = szekely_culture raw_material = lumber}
-hateg = { climate = temperate_continental_humid_climate culture = wallachian raw_material = lumber religion = orthodox topography = mountains vegetation = forest }
-hunedoara = { climate = temperate_continental_humid_climate culture = wallachian raw_material = iron_ore religion = orthodox topography = hills vegetation = woods }
+hateg = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = lumber religion = orthodox topography = mountains vegetation = forest }
+hunedoara = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = iron_ore religion = orthodox topography = hills vegetation = woods }
 southern_carpathians4 = { topography = mountains vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
 sibiu = { topography = mountains vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = german_transylvanian raw_material = iron_ore}
-brasov = { climate = temperate_continental_humid_climate culture = wallachian raw_material = legumes religion = orthodox topography = mountains vegetation = woods }
-cincu = { climate = temperate_continental_humid_climate culture = wallachian raw_material = livestock religion = orthodox topography = hills vegetation = woods }
-fagaras = { climate = temperate_continental_humid_climate culture = wallachian raw_material = lumber religion = orthodox topography = hills vegetation = forest }
-medias = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wine religion = orthodox topography = hills vegetation = grasslands }
-sebes = { climate = temperate_continental_humid_climate culture = wallachian raw_material = stone religion = orthodox topography = hills vegetation = woods }
-sighisoara = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wool religion = orthodox topography = hills vegetation = woods }
+brasov = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = legumes religion = orthodox topography = mountains vegetation = woods }
+cincu = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = livestock religion = orthodox topography = hills vegetation = woods }
+fagaras = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = lumber religion = orthodox topography = hills vegetation = forest }
+medias = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wine religion = orthodox topography = hills vegetation = grasslands }
+sebes = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = stone religion = orthodox topography = hills vegetation = woods }
+sighisoara = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wool religion = orthodox topography = hills vegetation = woods }
 southern_carpathians2 = { topography = mountains vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
 targu_mures = { topography = plateau vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = szekely_culture raw_material = horses}
 chezdi_osorheiu = { topography = plateau vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = szekely_culture raw_material = livestock}
@@ -3766,58 +3766,58 @@ eastern_carpathians6c = { topography = mountains vegetation = forest climate = s
 eastern_carpathians7 = { topography = mountains vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
 eastern_carpathians8 = { topography = mountains vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
 turda = { climate = temperate_continental_humid_climate culture = szekely_culture modifier = turda_salt_mines_base raw_material = salt religion = orthodox topography = plateau vegetation = grasslands }
-baia_de_aries = { climate = temperate_continental_humid_climate culture = wallachian raw_material = beeswax religion = orthodox topography = mountains vegetation = forest }
+baia_de_aries = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = beeswax religion = orthodox topography = mountains vegetation = forest }
 cluj = { climate = temperate_continental_humid_climate culture = szekely_culture raw_material = salt religion = orthodox topography = plateau vegetation = grasslands }
-huedin = { climate = temperate_continental_humid_climate culture = wallachian raw_material = wool religion = orthodox topography = hills vegetation = woods }
+huedin = { climate = temperate_continental_humid_climate culture = mdm_romanian_culture raw_material = wool religion = orthodox topography = hills vegetation = woods }
 reghin = { climate = temperate_continental_humid_climate culture = szekely_culture raw_material = lumber religion = orthodox topography = hills vegetation = woods }
 inner_carpathians = { topography = mountains vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
-buzau = { topography = flatland vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = wine}
-braila = { topography = wetlands vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = clay}
-bukov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = wool}
-parscov = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = livestock}
-ramnicu_sarat = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = millet}
-valenii_de_munte = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = stone}
-viziru = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = wheat}
+buzau = { topography = flatland vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = wine}
+braila = { topography = wetlands vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = clay}
+bukov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = wool}
+parscov = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = livestock}
+ramnicu_sarat = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = millet}
+valenii_de_munte = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = stone}
+viziru = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = wheat}
 eastern_carpathians9 = { topography = mountains vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
-targoviste = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = fruit}
-arges = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = stone}
-campulung_muscel = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = clay}
-cetateni = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = lumber}
-pitesti = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = millet}
-ploesti = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = salt}
-poenari = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = millet}
-slanic = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = millet}
+targoviste = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = fruit}
+arges = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = stone}
+campulung_muscel = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = clay}
+cetateni = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = lumber}
+pitesti = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = millet}
+ploesti = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = salt}
+poenari = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = millet}
+slanic = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = millet}
 southern_carpathians1 = { topography = mountains vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
-craiova = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = fiber_crops}
-cozia = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = lumber}
-dragasani = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = millet}
-ramnicu_valcea = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = salt}
-stramba = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = medicaments}
-targu_jiu = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = iron_ore}
-targu_bengai = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = livestock}
+craiova = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = fiber_crops}
+cozia = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = lumber}
+dragasani = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = millet}
+ramnicu_valcea = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = salt}
+stramba = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = medicaments}
+targu_jiu = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = iron_ore}
+targu_bengai = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = livestock}
 southern_carpathians3 = { topography = mountains vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
-bucharest = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = wheat}
-cegani = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = wheat}
-gaiseni = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = legumes}
-lichiresti = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = horses}
-meteleu = { topography = flatland vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = lumber}
-orasul_de_floci = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = wool}
-slobozia = { topography = flatland vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = livestock}
-calafat = { topography = flatland vegetation = grasslands climate = subtropical_humid_climate religion = orthodox culture = wallachian raw_material = fish}
-caracal = { topography = flatland vegetation = grasslands climate = subtropical_humid_climate religion = orthodox culture = wallachian raw_material = wheat}
-corabia = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = beeswax}
-plenita = { topography = flatland vegetation = grasslands climate = subtropical_humid_climate religion = orthodox culture = wallachian raw_material = cotton}
-radovanu = { topography = flatland vegetation = grasslands climate = subtropical_humid_climate religion = orthodox culture = wallachian raw_material = wool}
-severin = { topography = hills vegetation = woods climate = subtropical_humid_climate religion = orthodox culture = wallachian raw_material = copper_ore}
-strehaia = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = horses}
-turnu_magurele = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = dyes}
-comana = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = livestock}
-glavacioc = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = lumber}
-gratia = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = wool}
-giurgiu = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = wool}
-rusii_de_vede = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = legumes}
-slatina = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = livestock}
-zimnicea = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = orthodox culture = wallachian raw_material = wheat}
+bucharest = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = wheat}
+cegani = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = wheat}
+gaiseni = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = legumes}
+lichiresti = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = horses}
+meteleu = { topography = flatland vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = lumber}
+orasul_de_floci = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = wool}
+slobozia = { topography = flatland vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = livestock}
+calafat = { topography = flatland vegetation = grasslands climate = subtropical_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = fish}
+caracal = { topography = flatland vegetation = grasslands climate = subtropical_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = wheat}
+corabia = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = beeswax}
+plenita = { topography = flatland vegetation = grasslands climate = subtropical_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = cotton}
+radovanu = { topography = flatland vegetation = grasslands climate = subtropical_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = wool}
+severin = { topography = hills vegetation = woods climate = subtropical_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = copper_ore}
+strehaia = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = horses}
+turnu_magurele = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = dyes}
+comana = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = livestock}
+glavacioc = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = lumber}
+gratia = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = wool}
+giurgiu = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = wool}
+rusii_de_vede = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = legumes}
+slatina = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = livestock}
+zimnicea = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = orthodox culture = mdm_romanian_culture raw_material = wheat}
 kuldiga = { climate = temperate_continental_humid_climate culture = latvian raw_material = lumber religion = catholic topography = flatland vegetation = woods }
 dundaga = { climate = temperate_continental_humid_climate culture = latvian raw_material = amber religion = catholic topography = flatland vegetation = forest }
 durbe = { climate = temperate_continental_humid_climate culture = latvian raw_material = fiber_crops religion = catholic topography = flatland vegetation = woods }
@@ -6058,13 +6058,13 @@ arilje = { topography = hills vegetation = forest climate = subtropical_humid_cl
 gradac = { topography = hills vegetation = woods climate = subtropical_humid_climate religion = orthodox culture = serbian raw_material = livestock}
 prijepolje = { topography = hills vegetation = forest climate = subtropical_humid_climate religion = orthodox culture = serbian raw_material = wheat}
 visegrad = { topography = mountains vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = serbian raw_material = stone}
-babadag = { topography = hills vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = horses natural_harbor_suitability = 0.00}
-cernavoda = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = beeswax}
-constanta = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = livestock natural_harbor_suitability = 0.00}
-enisala = { topography = wetlands vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = fiber_crops natural_harbor_suitability = 0.00}
-isaccea = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = millet}
-tulcea = { topography = wetlands vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = fish natural_harbor_suitability = 0.50}
-harsova = { topography = hills vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = wallachian raw_material = sand}
+babadag = { topography = hills vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = horses natural_harbor_suitability = 0.00}
+cernavoda = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = beeswax}
+constanta = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = livestock natural_harbor_suitability = 0.00}
+enisala = { topography = wetlands vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = fiber_crops natural_harbor_suitability = 0.00}
+isaccea = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = millet}
+tulcea = { topography = wetlands vegetation = woods climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = fish natural_harbor_suitability = 0.50}
+harsova = { topography = hills vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_romanian_culture raw_material = sand}
 pleven = { topography = flatland vegetation = woods climate = subtropical_humid_climate religion = orthodox culture = bulgarian raw_material = horses}
 bozhenitsa = { topography = mountains vegetation = forest climate = subtropical_humid_climate religion = orthodox culture = bulgarian raw_material = wool}
 dobrolak = { topography = flatland vegetation = woods climate = subtropical_humid_climate religion = orthodox culture = bulgarian raw_material = livestock}

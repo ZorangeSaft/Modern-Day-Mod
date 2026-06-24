@@ -16673,7 +16673,7 @@ locations = {
    }
     arad = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -16681,7 +16681,7 @@ locations = {
    }
     crasna = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -16705,7 +16705,7 @@ locations = {
    }
     sic = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -16721,7 +16721,7 @@ locations = {
    }
     zarand = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -16737,7 +16737,7 @@ locations = {
    }
     dej = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -16753,7 +16753,7 @@ locations = {
    }
     cuhea = {
       define_pop = {
-         culture = transylvanian
+         culture = ruthenian
          religion = orthodox
          size = 1.000
          type = peasants
@@ -16761,7 +16761,7 @@ locations = {
    }
     huedin = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -16769,7 +16769,7 @@ locations = {
    }
     zalau = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -16785,7 +16785,7 @@ locations = {
    }
     baia_mare = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -16809,7 +16809,7 @@ locations = {
    }
     beius = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -16833,7 +16833,7 @@ locations = {
    }
     bistrita = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -16841,7 +16841,7 @@ locations = {
    }
     timisoara = {
       define_pop = {
-         culture = serbian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -16865,7 +16865,7 @@ locations = {
    }
     baia_de_aries = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -16881,7 +16881,7 @@ locations = {
    }
     lugoj = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -16897,7 +16897,7 @@ locations = {
    }
     deva = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -16905,7 +16905,7 @@ locations = {
    }
     cluj = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -16921,7 +16921,7 @@ locations = {
    }
     felvint = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -16937,7 +16937,7 @@ locations = {
    }
     mihalt = {
       define_pop = {
-         culture = serbian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -16961,7 +16961,7 @@ locations = {
    }
     hateg = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -16969,7 +16969,7 @@ locations = {
    }
     sebes = {
       define_pop = {
-         culture = german_transylvanian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -16985,7 +16985,7 @@ locations = {
    }
     cetatea_balta = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17001,7 +17001,7 @@ locations = {
    }
     alba_iulia = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17009,7 +17009,7 @@ locations = {
    }
     caransebes = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17017,7 +17017,7 @@ locations = {
    }
     calafat = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17025,7 +17025,7 @@ locations = {
    }
     carasova = {
       define_pop = {
-         culture = serbian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17033,7 +17033,7 @@ locations = {
    }
     sibiu = {
       define_pop = {
-         culture = german_transylvanian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17049,7 +17049,7 @@ locations = {
    }
     medias = {
       define_pop = {
-         culture = german_transylvanian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17057,7 +17057,7 @@ locations = {
    }
     fagaras = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17065,7 +17065,7 @@ locations = {
    }
     szatmar = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17081,7 +17081,7 @@ locations = {
    }
     sighisoara = {
       define_pop = {
-         culture = german_transylvanian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17113,7 +17113,7 @@ locations = {
    }
     campulung_moldovenesc = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17121,7 +17121,7 @@ locations = {
    }
     suceava = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17129,7 +17129,7 @@ locations = {
    }
     targu_neamt = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17137,7 +17137,7 @@ locations = {
    }
     csanad = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17169,7 +17169,7 @@ locations = {
    }
     dorohoi = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17185,7 +17185,7 @@ locations = {
    }
     arges = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17201,7 +17201,7 @@ locations = {
    }
     harsova = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17209,7 +17209,7 @@ locations = {
    }
     giurgiu = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17217,7 +17217,7 @@ locations = {
    }
     turnu_magurele = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17225,7 +17225,7 @@ locations = {
    }
     brasov = {
       define_pop = {
-         culture = german_transylvanian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17233,7 +17233,7 @@ locations = {
    }
     caracal = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17241,7 +17241,7 @@ locations = {
    }
     targu_jiu = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17265,7 +17265,7 @@ locations = {
    }
     targu_trotus = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17273,7 +17273,7 @@ locations = {
    }
     campulung_muscel = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17281,7 +17281,7 @@ locations = {
    }
     valenii_de_munte = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17289,7 +17289,7 @@ locations = {
    }
     braila = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17305,7 +17305,7 @@ locations = {
    }
     turda = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17313,7 +17313,7 @@ locations = {
    }
     severin = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17353,7 +17353,7 @@ locations = {
    }
     rusii_de_vede = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17361,7 +17361,7 @@ locations = {
    }
     vaslui = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17377,7 +17377,7 @@ locations = {
    }
     stramba = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17385,7 +17385,7 @@ locations = {
    }
     slatina = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17393,7 +17393,7 @@ locations = {
    }
     bucharest = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17401,7 +17401,7 @@ locations = {
    }
     bacau = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17409,7 +17409,7 @@ locations = {
    }
     targu_bengai = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17417,7 +17417,7 @@ locations = {
    }
     buzau = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17433,7 +17433,7 @@ locations = {
    }
     tecuci = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17441,7 +17441,7 @@ locations = {
    }
     tulcea = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17449,7 +17449,7 @@ locations = {
    }
     iasi = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17457,7 +17457,7 @@ locations = {
    }
     roman = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17465,7 +17465,7 @@ locations = {
    }
     ramnicu_sarat = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17473,7 +17473,7 @@ locations = {
    }
     orasul_de_floci = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17481,7 +17481,7 @@ locations = {
    }
     craiova = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17489,7 +17489,7 @@ locations = {
    }
     harlau = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17497,7 +17497,7 @@ locations = {
    }
     ramnicu_valcea = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17505,7 +17505,7 @@ locations = {
    }
     comana = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17513,7 +17513,7 @@ locations = {
    }
     tutova = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17521,7 +17521,7 @@ locations = {
    }
     cudalbi = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17529,7 +17529,7 @@ locations = {
    }
     tulnici = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17537,7 +17537,7 @@ locations = {
    }
     ploesti = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17545,7 +17545,7 @@ locations = {
    }
     adjud = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17553,7 +17553,7 @@ locations = {
    }
     oancea = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17569,7 +17569,7 @@ locations = {
    }
     husi = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17577,7 +17577,7 @@ locations = {
    }
     barlad = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17585,7 +17585,7 @@ locations = {
    }
     focsani = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17593,7 +17593,7 @@ locations = {
    }
     galati = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17601,7 +17601,7 @@ locations = {
    }
     targoviste = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17609,7 +17609,7 @@ locations = {
    }
     baia_crisului = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17617,7 +17617,7 @@ locations = {
    }
     gurghiu = {
       define_pop = {
-         culture = hungarian
+         culture = szekely_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17625,7 +17625,7 @@ locations = {
    }
     dabaca = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17633,7 +17633,7 @@ locations = {
    }
     zimnicea = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17641,7 +17641,7 @@ locations = {
    }
     lichiresti = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17649,7 +17649,7 @@ locations = {
    }
     strehaia = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17657,7 +17657,7 @@ locations = {
    }
     semlacu_mare = {
       define_pop = {
-         culture = serbian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17665,7 +17665,7 @@ locations = {
    }
     recas = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17673,7 +17673,7 @@ locations = {
    }
     hunedoara = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17681,7 +17681,7 @@ locations = {
    }
     lipova = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17689,7 +17689,7 @@ locations = {
    }
     ineu = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17697,7 +17697,7 @@ locations = {
    }
     cheresig = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17705,7 +17705,7 @@ locations = {
    }
     oradea = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17713,7 +17713,7 @@ locations = {
    }
     aiud = {
       define_pop = {
-         culture = hungarian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17729,7 +17729,7 @@ locations = {
    }
     hodod = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17737,7 +17737,7 @@ locations = {
    }
     baita = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17745,7 +17745,7 @@ locations = {
    }
     sighet = {
       define_pop = {
-         culture = transylvanian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17753,7 +17753,7 @@ locations = {
    }
     reghin = {
       define_pop = {
-         culture = szekely_culture
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17769,7 +17769,7 @@ locations = {
    }
     cincu = {
       define_pop = {
-         culture = german_transylvanian
+         culture = mdm_romanian_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -17777,7 +17777,7 @@ locations = {
    }
     plenita = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17785,7 +17785,7 @@ locations = {
    }
     radovanu = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17793,7 +17793,7 @@ locations = {
    }
     corabia = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17801,7 +17801,7 @@ locations = {
    }
     dragasani = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17809,7 +17809,7 @@ locations = {
    }
     cozia = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17817,7 +17817,7 @@ locations = {
    }
     poenari = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17825,7 +17825,7 @@ locations = {
    }
     cetateni = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17833,7 +17833,7 @@ locations = {
    }
     slanic = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17841,7 +17841,7 @@ locations = {
    }
     pitesti = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17849,7 +17849,7 @@ locations = {
    }
     glavacioc = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17857,7 +17857,7 @@ locations = {
    }
     gratia = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17865,7 +17865,7 @@ locations = {
    }
     gaiseni = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17873,7 +17873,7 @@ locations = {
    }
     parscov = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17881,7 +17881,7 @@ locations = {
    }
     bukov = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17889,7 +17889,7 @@ locations = {
    }
     meteleu = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17897,7 +17897,7 @@ locations = {
    }
     viziru = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17905,7 +17905,7 @@ locations = {
    }
     slobozia = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17913,7 +17913,7 @@ locations = {
    }
     cegani = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17921,7 +17921,7 @@ locations = {
    }
     cernavoda = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17929,7 +17929,7 @@ locations = {
    }
     constanta = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17937,7 +17937,7 @@ locations = {
    }
     babadag = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17945,7 +17945,7 @@ locations = {
    }
     enisala = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17953,7 +17953,7 @@ locations = {
    }
     isaccea = {
       define_pop = {
-         culture = wallachian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17969,7 +17969,7 @@ locations = {
    }
     putna = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17977,7 +17977,7 @@ locations = {
    }
     siret = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17985,7 +17985,7 @@ locations = {
    }
     vatra_dornei = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -17993,7 +17993,7 @@ locations = {
    }
     hangu_romania = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -18001,7 +18001,7 @@ locations = {
    }
     piatra_lui_craciun = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -18017,7 +18017,7 @@ locations = {
    }
     stefanesti = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -18041,7 +18041,7 @@ locations = {
    }
     cotnari = {
       define_pop = {
-         culture = moldovan
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224349,7 +224349,7 @@ locations = {
    }
     pangalia = {
       define_pop = {
-         culture = bulgarian
+         culture = mdm_romanian_culture
          religion = orthodox
          size = 1.000
          type = peasants

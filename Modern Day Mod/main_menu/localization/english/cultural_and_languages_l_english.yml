@@ -63,7 +63,6 @@
  greek_culture: "Greek"
  slovak: "Slovak"
  transylvanian: "Transylvanian"
- wallachian: "Wallachian"
  moldovan: "Moldovan"
  aromanian: "Aromanian"
  istroromanian: "Istro-Romanian"
@@ -3008,3 +3007,5 @@
  mdm_macedonian_dialect: "Macedonian"
 
  mdm_belarusian_culture: "Belarusian"
+
+ mdm_romanian_culture: "Romanian"
