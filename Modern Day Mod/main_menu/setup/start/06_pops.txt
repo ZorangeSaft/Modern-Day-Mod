@@ -850,7 +850,7 @@ locations = {
     vindeln = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -866,7 +866,7 @@ locations = {
     tornea = {
       define_pop = {
          culture = swedish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -898,7 +898,7 @@ locations = {
     ranea = {
       define_pop = {
          culture = swedish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -906,7 +906,7 @@ locations = {
     gratesk = {
       define_pop = {
          culture = swedish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -914,7 +914,7 @@ locations = {
     hienatiemi = {
       define_pop = {
          culture = swedish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -922,7 +922,7 @@ locations = {
     pajala = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -930,7 +930,7 @@ locations = {
     branna = {
       define_pop = {
          culture = swedish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -946,7 +946,7 @@ locations = {
     bodebyn = {
       define_pop = {
          culture = swedish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -954,7 +954,7 @@ locations = {
     alvsby = {
       define_pop = {
          culture = swedish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -962,7 +962,7 @@ locations = {
     asele = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -970,7 +970,7 @@ locations = {
     lycksele = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -978,7 +978,7 @@ locations = {
     sorsele = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -986,7 +986,7 @@ locations = {
     arvidsjaur = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -994,7 +994,7 @@ locations = {
     arjeplog = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1002,7 +1002,7 @@ locations = {
     silbojock = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1010,7 +1010,7 @@ locations = {
     volgsjo = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1018,7 +1018,7 @@ locations = {
     stensele = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1026,7 +1026,7 @@ locations = {
     tarna = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1034,7 +1034,7 @@ locations = {
     ortrask = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1042,7 +1042,7 @@ locations = {
     akkajaur = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1050,7 +1050,7 @@ locations = {
     socksjock = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1058,7 +1058,7 @@ locations = {
     jokkmokk = {
       define_pop = {
          culture = sapmi
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1066,7 +1066,7 @@ locations = {
     kvikkjock = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1074,7 +1074,7 @@ locations = {
     porjus = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1082,7 +1082,7 @@ locations = {
     gellivaara = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1090,7 +1090,7 @@ locations = {
     juckasjarvi = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1098,7 +1098,7 @@ locations = {
     mourionska = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1106,7 +1106,7 @@ locations = {
     enontakis = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1114,7 +1114,7 @@ locations = {
     raunala = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1122,7 +1122,7 @@ locations = {
     abisko = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1130,7 +1130,7 @@ locations = {
     sarek = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1138,7 +1138,7 @@ locations = {
     korpilombo = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1146,7 +1146,7 @@ locations = {
     nikkaluokta = {
       define_pop = {
          culture = swedish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1154,7 +1154,7 @@ locations = {
     kasivarren = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1290,7 +1290,7 @@ locations = {
     orivesi = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1338,7 +1338,7 @@ locations = {
     itis = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1354,7 +1354,7 @@ locations = {
     jyvaskyla = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1370,7 +1370,7 @@ locations = {
     saarijarvi = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1378,7 +1378,7 @@ locations = {
     viitasaari = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1386,7 +1386,7 @@ locations = {
     laukas = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1402,7 +1402,7 @@ locations = {
     kiemi = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1410,7 +1410,7 @@ locations = {
     simo = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1482,7 +1482,7 @@ locations = {
     kaustby = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1490,7 +1490,7 @@ locations = {
     lappo = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1498,7 +1498,7 @@ locations = {
     kuivaniemi = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1506,7 +1506,7 @@ locations = {
     mikkeli = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1514,7 +1514,7 @@ locations = {
     olofsborg = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1522,7 +1522,7 @@ locations = {
     heinola = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1530,7 +1530,7 @@ locations = {
     kangasniemi = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1538,7 +1538,7 @@ locations = {
     ristiina = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1546,7 +1546,7 @@ locations = {
     joroinen = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1554,7 +1554,7 @@ locations = {
     kuopio = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1562,7 +1562,7 @@ locations = {
     idensalmi = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1570,7 +1570,7 @@ locations = {
     kajana = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1578,7 +1578,7 @@ locations = {
     rautavaara = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1586,7 +1586,7 @@ locations = {
     savonranta = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1618,7 +1618,7 @@ locations = {
     elimaki = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1650,7 +1650,7 @@ locations = {
     korela = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1674,7 +1674,7 @@ locations = {
     konevets = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1682,7 +1682,7 @@ locations = {
     kurkijoki = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1690,7 +1690,7 @@ locations = {
     heinjoki = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1698,7 +1698,7 @@ locations = {
     jaskis = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1706,7 +1706,7 @@ locations = {
     joensuu = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1714,7 +1714,7 @@ locations = {
     vartsila = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1722,7 +1722,7 @@ locations = {
     sordavala = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1730,7 +1730,7 @@ locations = {
     ilomantsi = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1738,7 +1738,7 @@ locations = {
     lieksa = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1746,7 +1746,7 @@ locations = {
     nurmes = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1754,7 +1754,7 @@ locations = {
     juuka = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1762,7 +1762,7 @@ locations = {
     salmi = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1770,7 +1770,7 @@ locations = {
     loimola = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1778,7 +1778,7 @@ locations = {
     mohko = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1786,7 +1786,7 @@ locations = {
     suojarvi = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1794,7 +1794,7 @@ locations = {
     rovaniemi = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1802,7 +1802,7 @@ locations = {
     pudasjarvi = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1810,7 +1810,7 @@ locations = {
     taivalkoski = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1818,7 +1818,7 @@ locations = {
     kuusamo = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1826,7 +1826,7 @@ locations = {
     utajarvi = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1834,7 +1834,7 @@ locations = {
     siikalatva = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1842,7 +1842,7 @@ locations = {
     sotkamo = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1850,7 +1850,7 @@ locations = {
     kuhmo = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1858,7 +1858,7 @@ locations = {
     paltamo = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1866,7 +1866,7 @@ locations = {
     suomussalmi = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1874,7 +1874,7 @@ locations = {
     ranua = {
       define_pop = {
          culture = finnish
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1882,7 +1882,7 @@ locations = {
     posio = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1890,7 +1890,7 @@ locations = {
     salla = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1898,7 +1898,7 @@ locations = {
     kemijarvi = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1906,7 +1906,7 @@ locations = {
     korvala = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1914,7 +1914,7 @@ locations = {
     enare = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1922,7 +1922,7 @@ locations = {
     kittila = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1930,7 +1930,7 @@ locations = {
     sodankyla = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1938,7 +1938,7 @@ locations = {
     savukoski = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1946,7 +1946,7 @@ locations = {
     nunnanen = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1954,7 +1954,7 @@ locations = {
     ivalo = {
       define_pop = {
          culture = finnish
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -1962,7 +1962,7 @@ locations = {
     utsjoki = {
       define_pop = {
          culture = sapmi
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -2674,7 +2674,7 @@ locations = {
     raisa = {
       define_pop = {
          culture = norwegian
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -2682,7 +2682,7 @@ locations = {
     kautokeino = {
       define_pop = {
          culture = sapmi
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -2690,7 +2690,7 @@ locations = {
     varanger = {
       define_pop = {
          culture = norwegian
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -2698,7 +2698,7 @@ locations = {
     vardo = {
       define_pop = {
          culture = norwegian
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -2706,7 +2706,7 @@ locations = {
     deatnu = {
       define_pop = {
          culture = norwegian
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -2714,7 +2714,7 @@ locations = {
     porsanger = {
       define_pop = {
          culture = norwegian
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -2722,7 +2722,7 @@ locations = {
     karasjok = {
       define_pop = {
          culture = sapmi
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -2730,7 +2730,7 @@ locations = {
     hammerfest = {
       define_pop = {
          culture = norwegian
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -2738,7 +2738,7 @@ locations = {
     alta = {
       define_pop = {
          culture = norwegian
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -2762,7 +2762,7 @@ locations = {
     hattfjelldal = {
       define_pop = {
          culture = norwegian
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -2866,7 +2866,7 @@ locations = {
     kirkenes = {
       define_pop = {
          culture = norwegian
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -2874,7 +2874,7 @@ locations = {
     lebesby = {
       define_pop = {
          culture = norwegian
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -11738,7 +11738,7 @@ locations = {
     grodno = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -11746,7 +11746,7 @@ locations = {
     bershty = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -11762,7 +11762,7 @@ locations = {
     masty = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -11770,7 +11770,7 @@ locations = {
     sokolka = {
       define_pop = {
          culture = mdm_polish_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12826,7 +12826,7 @@ locations = {
     ashmyany = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12834,7 +12834,7 @@ locations = {
     halshany = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12842,7 +12842,7 @@ locations = {
     hieraniony = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12850,7 +12850,7 @@ locations = {
     kreva = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12858,7 +12858,7 @@ locations = {
     braslaw = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12866,7 +12866,7 @@ locations = {
     drysvyaty = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12874,7 +12874,7 @@ locations = {
     ezerenai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12890,7 +12890,7 @@ locations = {
     kaunas = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12898,7 +12898,7 @@ locations = {
     alytus = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12906,7 +12906,7 @@ locations = {
     punia = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12914,7 +12914,7 @@ locations = {
     vilkaviskis = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12922,7 +12922,7 @@ locations = {
     lida = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12930,7 +12930,7 @@ locations = {
     astrina = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12938,7 +12938,7 @@ locations = {
     eisiskes = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12946,7 +12946,7 @@ locations = {
     shchuchyn = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12954,7 +12954,7 @@ locations = {
     suwalki = {
       define_pop = {
          culture = mdm_polish_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12962,7 +12962,7 @@ locations = {
     lipsk = {
       define_pop = {
          culture = mdm_polish_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12970,7 +12970,7 @@ locations = {
     veisiejai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -12978,7 +12978,7 @@ locations = {
     svir = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13002,7 +13002,7 @@ locations = {
     myadzyel = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13010,7 +13010,7 @@ locations = {
     svencionys = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13018,7 +13018,7 @@ locations = {
     vileyka = {
       define_pop = {
          culture = mdm_belarusian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13026,7 +13026,7 @@ locations = {
     trakai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13034,7 +13034,7 @@ locations = {
     lazdijai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13042,7 +13042,7 @@ locations = {
     merkine = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13050,7 +13050,7 @@ locations = {
     onushkis = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13058,7 +13058,7 @@ locations = {
     upyte = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13066,7 +13066,7 @@ locations = {
     birzai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13074,7 +13074,7 @@ locations = {
     linkava = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13082,7 +13082,7 @@ locations = {
     panevezys = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13090,7 +13090,7 @@ locations = {
     pasvalys = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13098,7 +13098,7 @@ locations = {
     vilkmerge = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13106,7 +13106,7 @@ locations = {
     anyksciai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13114,7 +13114,7 @@ locations = {
     maleisiai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13122,7 +13122,7 @@ locations = {
     rokiskis = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13130,7 +13130,7 @@ locations = {
     utena = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13138,7 +13138,7 @@ locations = {
     vilnius = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13146,7 +13146,7 @@ locations = {
     giedraiciai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13154,7 +13154,7 @@ locations = {
     kernave = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13162,7 +13162,7 @@ locations = {
     medininkai_vilna = {
       define_pop = {
          culture = mdm_polish_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13354,7 +13354,7 @@ locations = {
     tykocin = {
       define_pop = {
          culture = mdm_polish_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13874,7 +13874,7 @@ locations = {
     tilsit = {
       define_pop = {
          culture = muscovite
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13882,7 +13882,7 @@ locations = {
     gumbinnen = {
       define_pop = {
          culture = muscovite
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13890,7 +13890,7 @@ locations = {
     labiau = {
       define_pop = {
          culture = muscovite
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13898,7 +13898,7 @@ locations = {
     memel = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13906,7 +13906,7 @@ locations = {
     ragnit = {
       define_pop = {
          culture = muscovite
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13914,7 +13914,7 @@ locations = {
     windenburg = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13922,7 +13922,7 @@ locations = {
     konigsberg = {
       define_pop = {
          culture = muscovite
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13938,7 +13938,7 @@ locations = {
     brandenburg_prussia = {
       define_pop = {
          culture = muscovite
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13946,7 +13946,7 @@ locations = {
     fischhausen = {
       define_pop = {
          culture = muscovite
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13954,7 +13954,7 @@ locations = {
     gerdauen = {
       define_pop = {
          culture = muscovite
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13962,7 +13962,7 @@ locations = {
     insterburg = {
       define_pop = {
          culture = muscovite
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13970,7 +13970,7 @@ locations = {
     wehlau = {
       define_pop = {
          culture = muscovite
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13978,7 +13978,7 @@ locations = {
     elk = {
       define_pop = {
          culture = mdm_polish_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13986,7 +13986,7 @@ locations = {
     barten = {
       define_pop = {
          culture = mdm_polish_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -13994,7 +13994,7 @@ locations = {
     nibork = {
       define_pop = {
          culture = mdm_polish_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14010,7 +14010,7 @@ locations = {
     ryn_poland = {
       define_pop = {
          culture = mdm_polish_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14018,7 +14018,7 @@ locations = {
     szczytno = {
       define_pop = {
          culture = mdm_polish_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14026,7 +14026,7 @@ locations = {
     wegorzewo = {
       define_pop = {
          culture = mdm_polish_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14130,7 +14130,7 @@ locations = {
     olsztyn = {
       define_pop = {
          culture = mdm_polish_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14426,7 +14426,7 @@ locations = {
     medininkai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14434,7 +14434,7 @@ locations = {
     palanga = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14442,7 +14442,7 @@ locations = {
     rietavas = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14450,7 +14450,7 @@ locations = {
     silale = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14458,7 +14458,7 @@ locations = {
     skuodas = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14466,7 +14466,7 @@ locations = {
     taurage = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14474,7 +14474,7 @@ locations = {
     raseiniai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14482,7 +14482,7 @@ locations = {
     jurbarkas = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14490,7 +14490,7 @@ locations = {
     kedainiai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14498,7 +14498,7 @@ locations = {
     panemune = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14506,7 +14506,7 @@ locations = {
     tendziogala = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14514,7 +14514,7 @@ locations = {
     siauliai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14522,7 +14522,7 @@ locations = {
     kraziai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14530,7 +14530,7 @@ locations = {
     mazeikiai = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14538,7 +14538,7 @@ locations = {
     papile = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -14546,7 +14546,7 @@ locations = {
     zagare = {
       define_pop = {
          culture = mdm_lithuanian_culture
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -15922,7 +15922,7 @@ locations = {
     ventspils = {
       define_pop = {
          culture = latvian
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -16090,7 +16090,7 @@ locations = {
     grobina = {
       define_pop = {
          culture = latvian
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -16098,7 +16098,7 @@ locations = {
     kuldiga = {
       define_pop = {
          culture = latvian
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -16266,7 +16266,7 @@ locations = {
     durbe = {
       define_pop = {
          culture = latvian
-         religion = romuva
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -54677,7 +54677,7 @@ locations = {
     moschevo = {
       define_pop = {
          culture = muscovite
-         religion = khabzeism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -54685,7 +54685,7 @@ locations = {
     arkhyz = {
       define_pop = {
          culture = muscovite
-         religion = karachay_balkar_paganism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -54693,7 +54693,7 @@ locations = {
     khumar = {
       define_pop = {
          culture = muscovite
-         religion = karachay_balkar_paganism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -54701,7 +54701,7 @@ locations = {
     mamiya_kala = {
       define_pop = {
          culture = karachay_culture
-         religion = karachay_balkar_paganism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -54709,7 +54709,7 @@ locations = {
     rim_gora = {
       define_pop = {
          culture = karachay_culture
-         religion = karachay_balkar_paganism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -54717,7 +54717,7 @@ locations = {
     dzhulat = {
       define_pop = {
          culture = circassian_culture
-         religion = karachay_balkar_paganism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -54725,7 +54725,7 @@ locations = {
     chegem = {
       define_pop = {
          culture = balkar_culture
-         religion = karachay_balkar_paganism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -54733,7 +54733,7 @@ locations = {
     karcha_kala = {
       define_pop = {
          culture = balkar_culture
-         religion = karachay_balkar_paganism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57781,7 +57781,7 @@ locations = {
     shanjir = {
       define_pop = {
          culture = muscovite
-         religion = khabzeism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57797,7 +57797,7 @@ locations = {
     siba_circassia = {
       define_pop = {
          culture = muscovite
-         religion = khabzeism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57821,7 +57821,7 @@ locations = {
     khadyzhi = {
       define_pop = {
          culture = muscovite
-         religion = khabzeism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57829,7 +57829,7 @@ locations = {
     maykop = {
       define_pop = {
          culture = muscovite
-         religion = khabzeism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57837,7 +57837,7 @@ locations = {
     kuzhyb = {
       define_pop = {
          culture = muscovite
-         religion = khabzeism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57845,7 +57845,7 @@ locations = {
     akhtar = {
       define_pop = {
          culture = muscovite
-         religion = khabzeism
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58573,7 +58573,7 @@ locations = {
     staryi_amanak = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -58581,7 +58581,7 @@ locations = {
     bavly = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -58597,7 +58597,7 @@ locations = {
     buguruslan = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -58605,7 +58605,7 @@ locations = {
     abdulino = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -58709,7 +58709,7 @@ locations = {
     sadak = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -59245,7 +59245,7 @@ locations = {
     bolshaya_laptyuga = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -59253,7 +59253,7 @@ locations = {
     vashka = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -59261,7 +59261,7 @@ locations = {
     mezen = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64041,7 +64041,7 @@ locations = {
     mokhcha = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64049,7 +64049,7 @@ locations = {
     nizhny_lomov = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64057,7 +64057,7 @@ locations = {
     zemetchino = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64065,7 +64065,7 @@ locations = {
     insar = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64073,7 +64073,7 @@ locations = {
     tarbeevka = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64081,7 +64081,7 @@ locations = {
     zubova_polyana = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64105,7 +64105,7 @@ locations = {
     kadom = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64113,7 +64113,7 @@ locations = {
     ardatov = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64121,7 +64121,7 @@ locations = {
     sarov = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64129,7 +64129,7 @@ locations = {
     temnikov = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64137,7 +64137,7 @@ locations = {
     krasnoslobodsk = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64145,7 +64145,7 @@ locations = {
     lukoyanov = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64153,7 +64153,7 @@ locations = {
     shatki = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64161,7 +64161,7 @@ locations = {
     arzamas = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64169,7 +64169,7 @@ locations = {
     ruzayevka = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64201,7 +64201,7 @@ locations = {
     bondari = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64249,7 +64249,7 @@ locations = {
     penza = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64265,7 +64265,7 @@ locations = {
     mokshan = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64273,7 +64273,7 @@ locations = {
     lunino = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64329,7 +64329,7 @@ locations = {
     alatyr = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64345,7 +64345,7 @@ locations = {
     sergach = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64361,7 +64361,7 @@ locations = {
     chamzinka = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64369,7 +64369,7 @@ locations = {
     saransk = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64385,7 +64385,7 @@ locations = {
     bolshoye_boldino = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64393,7 +64393,7 @@ locations = {
     sechenovo = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64409,7 +64409,7 @@ locations = {
     shigony = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64417,7 +64417,7 @@ locations = {
     morkvash = {
       define_pop = {
          culture = muscovite
-         religion = moksha_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64513,7 +64513,7 @@ locations = {
     promsa = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64593,7 +64593,7 @@ locations = {
     bolshoye_murashkino = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64601,7 +64601,7 @@ locations = {
     perevoz = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64609,7 +64609,7 @@ locations = {
     dalneye_konstantinovo = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64617,7 +64617,7 @@ locations = {
     lyskovo = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -64905,7 +64905,7 @@ locations = {
     pavlovo = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -65409,7 +65409,7 @@ locations = {
     babayevo = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -65465,7 +65465,7 @@ locations = {
     ozerevo = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -65809,7 +65809,7 @@ locations = {
     maloshuyka = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -65873,7 +65873,7 @@ locations = {
     pudoga = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66033,7 +66033,7 @@ locations = {
     kuloy = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66057,7 +66057,7 @@ locations = {
     pinega = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66065,7 +66065,7 @@ locations = {
     okladnikova_sloboda = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66081,7 +66081,7 @@ locations = {
     khimzha = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66105,7 +66105,7 @@ locations = {
     leshukonskoye = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66113,7 +66113,7 @@ locations = {
     zanyukhcha = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66121,7 +66121,7 @@ locations = {
     verkola = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66129,7 +66129,7 @@ locations = {
     shardonem = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66137,7 +66137,7 @@ locations = {
     pokshenga = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66145,7 +66145,7 @@ locations = {
     chakola = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66153,7 +66153,7 @@ locations = {
     ust_chulasa = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66161,7 +66161,7 @@ locations = {
     koptyuga = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66169,7 +66169,7 @@ locations = {
     chirki = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66265,7 +66265,7 @@ locations = {
     kantalahti = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66273,7 +66273,7 @@ locations = {
     olonets = {
       define_pop = {
          culture = karelian
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66281,7 +66281,7 @@ locations = {
     kizhi = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66289,7 +66289,7 @@ locations = {
     kondpoga = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66297,7 +66297,7 @@ locations = {
     shuya_karelia = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66305,7 +66305,7 @@ locations = {
     shyoltozero = {
       define_pop = {
          culture = vepsian
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66313,7 +66313,7 @@ locations = {
     vazhiny = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66329,7 +66329,7 @@ locations = {
     kem = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66337,7 +66337,7 @@ locations = {
     umba = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66345,7 +66345,7 @@ locations = {
     kola = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66353,7 +66353,7 @@ locations = {
     kovda = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66361,7 +66361,7 @@ locations = {
     keret = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66369,7 +66369,7 @@ locations = {
     kriitina = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66377,7 +66377,7 @@ locations = {
     raivke = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66385,7 +66385,7 @@ locations = {
     olenitsa = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66393,7 +66393,7 @@ locations = {
     sumsky_posad = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66401,7 +66401,7 @@ locations = {
     saarijoki = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66409,7 +66409,7 @@ locations = {
     unezhma = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66681,7 +66681,7 @@ locations = {
     vytegra = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66697,7 +66697,7 @@ locations = {
     lodenoye_pole = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66705,7 +66705,7 @@ locations = {
     vinnitsy = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66713,7 +66713,7 @@ locations = {
     voznesenye = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66721,7 +66721,7 @@ locations = {
     spirkovo = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66729,7 +66729,7 @@ locations = {
     vygozero = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66737,7 +66737,7 @@ locations = {
     karhumagi = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66745,7 +66745,7 @@ locations = {
     semcojarvi = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66753,7 +66753,7 @@ locations = {
     lindjarvi = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66761,7 +66761,7 @@ locations = {
     suonikyla = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66769,7 +66769,7 @@ locations = {
     koliskoj = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66777,7 +66777,7 @@ locations = {
     maaselka = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66785,7 +66785,7 @@ locations = {
     luujarvi = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66793,7 +66793,7 @@ locations = {
     akkala = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66801,7 +66801,7 @@ locations = {
     mootka = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66809,7 +66809,7 @@ locations = {
     pechenga = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66817,7 +66817,7 @@ locations = {
     prirechnyi = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66825,7 +66825,7 @@ locations = {
     alakurti = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66833,7 +66833,7 @@ locations = {
     kiestinki = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66841,7 +66841,7 @@ locations = {
     uhtuo = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66849,7 +66849,7 @@ locations = {
     jyskyjarvi = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66857,7 +66857,7 @@ locations = {
     paanajarvi = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66865,7 +66865,7 @@ locations = {
     repola = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66873,7 +66873,7 @@ locations = {
     ontajarvi = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66881,7 +66881,7 @@ locations = {
     pieninka = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66897,7 +66897,7 @@ locations = {
     rukajarvi = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66905,7 +66905,7 @@ locations = {
     tunkuo = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66913,7 +66913,7 @@ locations = {
     sellinkyla = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66921,7 +66921,7 @@ locations = {
     puatane = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66929,7 +66929,7 @@ locations = {
     kashkarantsy = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66937,7 +66937,7 @@ locations = {
     varzuga = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66945,7 +66945,7 @@ locations = {
     pyalitsa = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66953,7 +66953,7 @@ locations = {
     tetrino = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66961,7 +66961,7 @@ locations = {
     ponoi = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66969,7 +66969,7 @@ locations = {
     svyatoy_nos = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66977,7 +66977,7 @@ locations = {
     kiltina = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66985,7 +66985,7 @@ locations = {
     semiostrov = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -66993,7 +66993,7 @@ locations = {
     dalniye_zelentsy = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -67001,7 +67001,7 @@ locations = {
     nuorttijarvi = {
       define_pop = {
          culture = muscovite
-         religion = sapmi_shamanism
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -67009,7 +67009,7 @@ locations = {
     suikujarvi = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -67017,7 +67017,7 @@ locations = {
     pryazha = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -67025,7 +67025,7 @@ locations = {
     chelmuzhi = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -67033,7 +67033,7 @@ locations = {
     shalskii = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -67041,7 +67041,7 @@ locations = {
     vodlozero = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -67049,7 +67049,7 @@ locations = {
     ostrechiny = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -67065,7 +67065,7 @@ locations = {
     andomsky_pogost = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -67073,7 +67073,7 @@ locations = {
     kinerma = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -67393,7 +67393,7 @@ locations = {
     chuzboy = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -67401,7 +67401,7 @@ locations = {
     koloshma = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -67905,7 +67905,7 @@ locations = {
     nadvoitsy = {
       define_pop = {
          culture = muscovite
-         religion = muinaisusko
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -68025,7 +68025,7 @@ locations = {
     klepiki = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -68081,7 +68081,7 @@ locations = {
     zolotkovo = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -68161,7 +68161,7 @@ locations = {
     spasskoye_lyskovo = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -68169,7 +68169,7 @@ locations = {
     kurmysh = {
       define_pop = {
          culture = muscovite
-         religion = erzya_religion
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -221891,7 +221891,7 @@ locations = {
     konjic = {
       define_pop = {
          culture = bosnian
-         religion = bosnian_church
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -221907,7 +221907,7 @@ locations = {
     srebrenica = {
       define_pop = {
          culture = serbian
-         religion = bosnian_church
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -221915,7 +221915,7 @@ locations = {
     vrhbosna = {
       define_pop = {
          culture = bosnian
-         religion = bosnian_church
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -221923,7 +221923,7 @@ locations = {
     jajce = {
       define_pop = {
          culture = bosnian
-         religion = bosnian_church
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -221971,7 +221971,7 @@ locations = {
     ustikolina = {
       define_pop = {
          culture = serbian
-         religion = bosnian_church
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -221987,7 +221987,7 @@ locations = {
     zenica = {
       define_pop = {
          culture = bosnian
-         religion = bosnian_church
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -222091,7 +222091,7 @@ locations = {
     olovo = {
       define_pop = {
          culture = bosnian
-         religion = bosnian_church
+         religion = catholic
          size = 1.000
          type = peasants
       }
