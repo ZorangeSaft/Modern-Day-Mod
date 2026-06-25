@@ -73864,71 +73864,17 @@ locations = {
    }
     nicosia_cyp = {
       define_pop = {
-         culture = french
-         religion = catholic
-         size = 0.031
-         type = nobles
-      }
-      define_pop = {
          culture = greek_culture
          religion = orthodox
-         size = 0.005
-         type = nobles
-      }
-      define_pop = {
-         culture = french
-         religion = catholic
-         size = 0.041
-         type = clergy
-      }
-      define_pop = {
-         culture = greek_culture
-         religion = orthodox
-         size = 0.142
-         type = clergy
-      }
-      define_pop = {
-         culture = french
-         religion = catholic
-         size = 0.375
-         type = burghers
-      }
-      define_pop = {
-         culture = greek_culture
-         religion = orthodox
-         size = 2.702
-         type = burghers
-      }
-      define_pop = {
-         culture = romanyoti
-         religion = judaism
-         size = 0.363
-         type = burghers
-      }
-      define_pop = {
-         culture = greek_culture
-         religion = orthodox
-         size = 27.013
-         type = peasants
-      }
-      define_pop = {
-         culture = romanyoti
-         religion = judaism
-         size = 0.834
+         size = 1.000
          type = peasants
       }
    }
     famagusta = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = greek_culture
-         religion = orthodox
-         size = 19.640
+         size = 1.000
          type = peasants
       }
    }
@@ -73936,13 +73882,7 @@ locations = {
       define_pop = {
          culture = greek_culture
          religion = orthodox
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = greek_culture
-         religion = orthodox
-         size = 24.312
+         size = 1.000
          type = peasants
       }
    }
@@ -73950,37 +73890,7 @@ locations = {
       define_pop = {
          culture = greek_culture
          religion = orthodox
-         size = 0.021
-         type = nobles
-      }
-      define_pop = {
-         culture = greek_culture
-         religion = orthodox
-         size = 0.133
-         type = clergy
-      }
-      define_pop = {
-         culture = greek_culture
-         religion = orthodox
-         size = 3.083
-         type = burghers
-      }
-      define_pop = {
-         culture = romanyoti
-         religion = judaism
-         size = 0.342
-         type = burghers
-      }
-      define_pop = {
-         culture = greek_culture
-         religion = orthodox
-         size = 20.535
-         type = peasants
-      }
-      define_pop = {
-         culture = romanyoti
-         religion = judaism
-         size = 0.635
+         size = 1.000
          type = peasants
       }
    }
@@ -73988,41 +73898,23 @@ locations = {
       define_pop = {
          culture = greek_culture
          religion = orthodox
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = greek_culture
-         religion = orthodox
-         size = 17.313
+         size = 1.000
          type = peasants
       }
    }
     kyrenia = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = greek_culture
-         religion = orthodox
-         size = 16.561
+         size = 1.000
          type = peasants
       }
    }
     morphou = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = greek_culture
-         religion = orthodox
-         size = 22.059
+         size = 1.000
          type = peasants
       }
    }
@@ -224262,7 +224154,7 @@ locations = {
    }
     malgara = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224638,7 +224530,7 @@ locations = {
    }
     edirne = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224646,7 +224538,7 @@ locations = {
    }
     gallipoli = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224654,7 +224546,7 @@ locations = {
    }
     kesan = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224662,7 +224554,7 @@ locations = {
    }
     hayrabolu = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224670,7 +224562,7 @@ locations = {
    }
     corlu = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224678,7 +224570,7 @@ locations = {
    }
     rodoscuk = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224686,7 +224578,7 @@ locations = {
    }
     enez = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224694,7 +224586,7 @@ locations = {
    }
     kiyikoy = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224710,7 +224602,7 @@ locations = {
    }
     constantinople = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224718,7 +224610,7 @@ locations = {
    }
     silivri = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224726,7 +224618,7 @@ locations = {
    }
     catalca = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224734,7 +224626,7 @@ locations = {
    }
     luleburgaz = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224742,7 +224634,7 @@ locations = {
    }
     kirklareli = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -224750,7 +224642,7 @@ locations = {
    }
     vize = {
       define_pop = {
-         culture = greek_culture
+         culture = turkish_culture
          religion = orthodox
          size = 1.000
          type = peasants
