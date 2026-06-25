@@ -58124,7 +58124,7 @@ locations = {
    }
     kazan = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58132,7 +58132,7 @@ locations = {
    }
     laish = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58140,7 +58140,7 @@ locations = {
    }
     calli = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58148,7 +58148,7 @@ locations = {
    }
     mamadysh = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58156,7 +58156,7 @@ locations = {
    }
     bogatye_saby = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58172,7 +58172,7 @@ locations = {
    }
     dobyaz = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58500,7 +58500,7 @@ locations = {
    }
     bolghar = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58508,7 +58508,7 @@ locations = {
    }
     cukataw = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58516,7 +58516,7 @@ locations = {
    }
     bilyar = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58524,7 +58524,7 @@ locations = {
    }
     almetyevsk = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58532,7 +58532,7 @@ locations = {
    }
     zainsk = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58540,7 +58540,7 @@ locations = {
    }
     sergiyevsk = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58548,7 +58548,7 @@ locations = {
    }
     koshki = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58556,7 +58556,7 @@ locations = {
    }
     kamyshla = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58564,7 +58564,7 @@ locations = {
    }
     bolshoy_cheremshan = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58588,7 +58588,7 @@ locations = {
    }
     bugulma = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58612,7 +58612,7 @@ locations = {
    }
     aznakayevo = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58636,7 +58636,7 @@ locations = {
    }
     menzelinsk = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -58652,7 +58652,7 @@ locations = {
    }
     chalninsky_pochinok = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -64400,7 +64400,7 @@ locations = {
    }
     samara = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -64464,7 +64464,7 @@ locations = {
    }
     simbirsk = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -64472,7 +64472,7 @@ locations = {
    }
     pokrovskoye = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -64480,7 +64480,7 @@ locations = {
    }
     cherdakly = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -64488,7 +64488,7 @@ locations = {
    }
     melekess = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -64496,7 +64496,7 @@ locations = {
    }
     staraya_mayna = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -64504,7 +64504,7 @@ locations = {
    }
     tetyushi = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -64840,7 +64840,7 @@ locations = {
    }
     sviyazhsk = {
       define_pop = {
-         culture = bolghar_culture
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
