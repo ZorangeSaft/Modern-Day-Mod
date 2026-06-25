@@ -5507,11 +5507,11 @@ lake_kenozero_ark = { topography = lakes climate = subarctic_continental_humid_c
 lake_lacha = { topography = lakes climate = subarctic_continental_humid_climate}
 lake_lyokshmozero = { topography = lakes climate = subarctic_continental_humid_climate}
 lake_vodlozero = { topography = lakes climate = subarctic_continental_humid_climate}
-village_onega = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = fish natural_harbor_suitability = 0.00}
-luda = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = pearls natural_harbor_suitability = 0.00}
-malye_oserki = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = fur}
-nyonoksa = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = salt natural_harbor_suitability = 0.00}
-priluky = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = fur}
+village_onega = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = fish natural_harbor_suitability = 0.00}
+luda = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = pearls natural_harbor_suitability = 0.00}
+malye_oserki = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = fur}
+nyonoksa = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = salt natural_harbor_suitability = 0.00}
+priluky = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = fur}
 solovetsky = { topography = flatland vegetation = sparse climate = subarctic_continental_humid_climate religion = orthodox culture = novgorodian raw_material = salt natural_harbor_suitability = 0.00}
 maloshuyka = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = karelian raw_material = fur natural_harbor_suitability = 0.00}
 sumsky_posad = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = karelian raw_material = livestock natural_harbor_suitability = 0.00}
@@ -5524,8 +5524,8 @@ bereznik = { topography = wetlands vegetation = forest climate = subarctic_conti
 rovdino = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = novgorodian raw_material = wild_game}
 sogra = { topography = wetlands vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = novgorodian raw_material = lumber}
 ust_vayenga = { topography = wetlands vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = novgorodian raw_material = lumber}
-yemetsk = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = fur}
-sheleksa = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = fur}
+yemetsk = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = fur}
+sheleksa = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = fur}
 navolok = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = novgorodian raw_material = wild_game}
 shalakusha = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = novgorodian raw_material = fur}
 pudoga = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = novgorodian raw_material = lumber}
@@ -5535,26 +5535,26 @@ shalskii = { topography = flatland vegetation = forest climate = subarctic_conti
 vodlozero = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = novgorodian raw_material = wild_game}
 vytegra = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = novgorodian raw_material = wild_game}
 lake_sumozero = { topography = lakes climate = subarctic_continental_humid_climate}
-kholmogory = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = lumber}
-arkhangelsk = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = fish natural_harbor_suitability = 0.50}
-pomorye = { topography = wetlands vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = fur natural_harbor_suitability = 0.00}
-ust_pinega = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = lumber}
-vaymuga = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = fur}
-brin_navolok = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = lumber}
-siya = { topography = wetlands vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = pomor raw_material = fur}
-kuloy = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = pomor raw_material = salt natural_harbor_suitability = 0.00}
-verkhnyaya_zolotitsa = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = pomor raw_material = fur natural_harbor_suitability = 0.00}
-koyda = { topography = wetlands vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = pomor raw_material = fur natural_harbor_suitability = 0.00}
-pinega = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = pomor raw_material = lumber}
+kholmogory = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
+arkhangelsk = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = fish natural_harbor_suitability = 0.50}
+pomorye = { topography = wetlands vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = fur natural_harbor_suitability = 0.00}
+ust_pinega = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
+vaymuga = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = fur}
+brin_navolok = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
+siya = { topography = wetlands vegetation = forest climate = subarctic_continental_humid_climate religion = orthodox culture = muscovite raw_material = fur}
+kuloy = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = muscovite raw_material = salt natural_harbor_suitability = 0.00}
+verkhnyaya_zolotitsa = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = muscovite raw_material = fur natural_harbor_suitability = 0.00}
+koyda = { topography = wetlands vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = muscovite raw_material = fur natural_harbor_suitability = 0.00}
+pinega = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = muscovite raw_material = lumber}
 russian_wastelands_4 = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
 russian_wastelands_5 = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
 russian_wastelands_6 = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
-okladnikova_sloboda = { topography = wetlands vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = pomor raw_material = fish natural_harbor_suitability = 0.00}
-nes = { topography = flatland vegetation = sparse climate = subarctic_continental_humid_climate religion = shamanism culture = pomor raw_material = fur natural_harbor_suitability = 0.00}
-khimzha = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = pomor raw_material = wild_game}
+okladnikova_sloboda = { topography = wetlands vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = muscovite raw_material = fish natural_harbor_suitability = 0.00}
+nes = { topography = flatland vegetation = sparse climate = subarctic_continental_humid_climate religion = shamanism culture = muscovite raw_material = fur natural_harbor_suitability = 0.00}
+khimzha = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = muscovite raw_material = wild_game}
 vizhas = { topography = flatland vegetation = sparse climate = subarctic_continental_humid_climate religion = shamanism culture = nenets_culture raw_material = fur}
 oma = { topography = flatland vegetation = sparse climate = subarctic_continental_humid_climate religion = shamanism culture = nenets_culture raw_material = fur}
-leshukonskoye = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = pomor raw_material = wild_game}
+leshukonskoye = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = muscovite raw_material = wild_game}
 kanin_peninsula = { topography = flatland vegetation = sparse climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
 russian_wastelands_8 = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
 kolguyev = { topography = flatland vegetation = sparse climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }
@@ -5562,9 +5562,9 @@ lake_peschanka_to = { topography = lakes climate = subarctic_continental_humid_c
 zanyukhcha = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = novgorodian raw_material = lumber}
 verkola = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = novgorodian raw_material = lumber}
 shardonem = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = novgorodian raw_material = lumber}
-pokshenga = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = pomor raw_material = lumber}
-chakola = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = pomor raw_material = lumber}
-ust_chulasa = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = pomor raw_material = lumber}
+pokshenga = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = muscovite raw_material = lumber}
+chakola = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = muscovite raw_material = lumber}
+ust_chulasa = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = muscovite raw_material = lumber}
 koptyuga = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = novgorodian raw_material = lumber}
 chirki = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = shamanism culture = novgorodian raw_material = fur}
 russian_wastelands_7 = { topography = flatland vegetation = forest climate = subarctic_continental_humid_climate religion = catholic culture = swedish raw_material = clay }

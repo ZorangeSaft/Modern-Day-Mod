@@ -59244,7 +59244,7 @@ locations = {
    }
     bolshaya_laptyuga = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -59252,7 +59252,7 @@ locations = {
    }
     vashka = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -59260,7 +59260,7 @@ locations = {
    }
     mezen = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66032,7 +66032,7 @@ locations = {
    }
     kuloy = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66056,7 +66056,7 @@ locations = {
    }
     pinega = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66064,7 +66064,7 @@ locations = {
    }
     okladnikova_sloboda = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66072,7 +66072,7 @@ locations = {
    }
     nes = {
       define_pop = {
-         culture = nenets_culture
+         culture = muscovite
          religion = samoyedic_paganism
          size = 1.000
          type = peasants
@@ -66080,7 +66080,7 @@ locations = {
    }
     khimzha = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66088,7 +66088,7 @@ locations = {
    }
     vizhas = {
       define_pop = {
-         culture = nenets_culture
+         culture = muscovite
          religion = samoyedic_paganism
          size = 1.000
          type = peasants
@@ -66096,7 +66096,7 @@ locations = {
    }
     oma = {
       define_pop = {
-         culture = nenets_culture
+         culture = muscovite
          religion = samoyedic_paganism
          size = 1.000
          type = peasants
@@ -66104,7 +66104,7 @@ locations = {
    }
     leshukonskoye = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66112,7 +66112,7 @@ locations = {
    }
     zanyukhcha = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66120,7 +66120,7 @@ locations = {
    }
     verkola = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66128,7 +66128,7 @@ locations = {
    }
     shardonem = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66136,7 +66136,7 @@ locations = {
    }
     pokshenga = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66144,7 +66144,7 @@ locations = {
    }
     chakola = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66152,7 +66152,7 @@ locations = {
    }
     ust_chulasa = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66160,7 +66160,7 @@ locations = {
    }
     koptyuga = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
@@ -66168,7 +66168,7 @@ locations = {
    }
     chirki = {
       define_pop = {
-         culture = bjarmian
+         culture = muscovite
          religion = muinaisusko
          size = 1.000
          type = peasants
