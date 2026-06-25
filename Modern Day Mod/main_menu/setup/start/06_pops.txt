@@ -57644,7 +57644,7 @@ locations = {
    }
     majar = {
       define_pop = {
-         culture = astrakhani
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -57652,7 +57652,7 @@ locations = {
    }
     zelenokumsk = {
       define_pop = {
-         culture = astrakhani
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57724,7 +57724,7 @@ locations = {
    }
     kara_bazaar = {
       define_pop = {
-         culture = nogai
+         culture = avar_culture
          religion = tengri
          size = 1.000
          type = peasants
@@ -57740,7 +57740,7 @@ locations = {
    }
     kurskaya = {
       define_pop = {
-         culture = astrakhani
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
