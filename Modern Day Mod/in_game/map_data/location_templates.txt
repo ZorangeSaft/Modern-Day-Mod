@@ -4324,22 +4324,22 @@ ternopil = { climate = temperate_continental_humid_climate culture = mdm_ukraini
 zhydachiv = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = coal religion = orthodox topography = flatland vegetation = farmland }
 bolekhiv = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = salt religion = orthodox topography = flatland vegetation = woods }
 dolyna = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = fur religion = orthodox topography = mountains vegetation = forest }
-bryansk = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = livestock}
-foshnya = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = livestock}
-knyazhichi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = lumber}
-pochep = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = legumes}
-revny = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = fiber_crops}
-vshchizh = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wool}
+bryansk = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = livestock}
+foshnya = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = livestock}
+knyazhichi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
+pochep = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = legumes}
+revny = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fiber_crops}
+vshchizh = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wool}
 chernihiv = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = wheat religion = orthodox topography = flatland vegetation = farmland }
 horodnia = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = lumber religion = orthodox topography = flatland vegetation = forest }
 liubech = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = sand religion = orthodox topography = flatland vegetation = forest }
 lutava = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = fiber_crops religion = orthodox topography = flatland vegetation = grasslands }
 sosnytsia = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = fur religion = orthodox topography = flatland vegetation = forest }
 snovsk = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = millet religion = orthodox topography = flatland vegetation = forest }
-gomel = { climate = temperate_continental_humid_climate culture = severian raw_material = lumber religion = orthodox topography = flatland vegetation = woods }
+gomel = { climate = temperate_continental_humid_climate culture = muscovite raw_material = lumber religion = orthodox topography = flatland vegetation = woods }
 chachersk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = iron_ore}
-dobrush = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = legumes}
-tereshkovichy = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = fiber_crops}
+dobrush = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = legumes}
+tereshkovichy = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fiber_crops}
 volosovichy = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polesian_culture raw_material = livestock}
 nizhyn = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = iron_ore religion = orthodox topography = wetlands vegetation = grasslands }
 buryn = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = millet religion = orthodox topography = flatland vegetation = grasslands }
@@ -4351,18 +4351,18 @@ hlukhiv = { climate = temperate_continental_humid_climate culture = mdm_ukrainia
 verba = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = clay religion = orthodox topography = flatland vegetation = woods }
 voronizh_chernihiv = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = fiber_crops religion = orthodox topography = flatland vegetation = woods }
 znobov = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = sand religion = orthodox topography = flatland vegetation = grasslands }
-starodub_siverskyi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = millet}
-drokov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = stone}
-klintsy = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = wild_game}
-mglin = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wheat}
-popowa_gora = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = millet}
-ropsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = fruit}
-radogosch = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = livestock}
-trubchevsk = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = legumes}
-boldyzh = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = livestock}
-dmitriyev = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = livestock}
-rylsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = wool}
-sevsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = lumber}
+starodub_siverskyi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = millet}
+drokov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = stone}
+klintsy = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wild_game}
+mglin = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
+popowa_gora = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = millet}
+ropsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fruit}
+radogosch = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = livestock}
+trubchevsk = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = legumes}
+boldyzh = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = livestock}
+dmitriyev = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = livestock}
+rylsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wool}
+sevsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
 chelm = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = livestock religion = catholic topography = flatland vegetation = farmland }
 krasnystaw = { climate = temperate_continental_humid_climate culture = mdm_polish_culture raw_material = fruit religion = catholic topography = flatland vegetation = woods }
 liuboml = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = fruit religion = orthodox topography = flatland vegetation = forest }
@@ -4458,20 +4458,20 @@ stowbtsy = { climate = temperate_continental_humid_climate culture = polesian_cu
 svislach = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = wild_game religion = orthodox topography = flatland vegetation = woods }
 mogilev = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = fur religion = orthodox topography = flatland vegetation = woods }
 bykhaw = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = fur religion = orthodox topography = flatland vegetation = woods }
-chavusy = { climate = temperate_continental_humid_climate culture = smolenskian_culture raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
+chavusy = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
 klichaw = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
 novy_bykhaw = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = wild_game religion = orthodox topography = flatland vegetation = woods }
-slawharad = { climate = temperate_continental_humid_climate culture = smolenskian_culture raw_material = millet religion = orthodox topography = flatland vegetation = woods }
-mstsislaw = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = medicaments}
-kastsyukovichy = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = fiber_crops}
-khotsimsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wild_game}
-krychaw = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = lumber}
-monastyrshchina = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = beeswax}
-shumyachi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = legumes}
-orsha = { climate = temperate_continental_humid_climate culture = smolenskian_culture raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
+slawharad = { climate = temperate_continental_humid_climate culture = muscovite raw_material = millet religion = orthodox topography = flatland vegetation = woods }
+mstsislaw = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = medicaments}
+kastsyukovichy = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fiber_crops}
+khotsimsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wild_game}
+krychaw = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
+monastyrshchina = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = beeswax}
+shumyachi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = legumes}
+orsha = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = orthodox topography = flatland vegetation = woods }
 drutsk = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = lumber religion = orthodox topography = flatland vegetation = woods }
-horki = { climate = temperate_continental_humid_climate culture = smolenskian_culture raw_material = lumber religion = orthodox topography = flatland vegetation = woods }
-kopys = { climate = temperate_continental_humid_climate culture = smolenskian_culture raw_material = fish religion = orthodox topography = flatland vegetation = woods }
+horki = { climate = temperate_continental_humid_climate culture = muscovite raw_material = lumber religion = orthodox topography = flatland vegetation = woods }
+kopys = { climate = temperate_continental_humid_climate culture = muscovite raw_material = fish religion = orthodox topography = flatland vegetation = woods }
 rudnya = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polatskian_culture raw_material = wild_game}
 tyatseryn = { climate = temperate_continental_humid_climate culture = polesian_culture raw_material = clay religion = orthodox topography = flatland vegetation = woods }
 polotsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polatskian_culture raw_material = iron_ore}
@@ -4648,49 +4648,49 @@ derbent = { topography = flatland vegetation = grasslands climate = cold_semiari
 niyazabad = { topography = flatland vegetation = woods climate = cold_semiarid_steppe_climate religion = sunni culture = adhari_culture raw_material = medicaments natural_harbor_suitability = 0.00}
 quba = { topography = hills vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = adhari_culture raw_material = wool}
 shabran = { topography = hills vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = adhari_culture raw_material = fish natural_harbor_suitability = 0.00}
-theodoro = { climate = subtropical_humid_climate culture = severian natural_harbor_suitability = 1.00 raw_material = wine religion = orthodox topography = hills vegetation = woods }
-qirq_yer = { climate = subtropical_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-lusta = { climate = subtropical_humid_climate culture = severian raw_material = fruit religion = orthodox topography = hills vegetation = woods }
-qarasuvbazar = { climate = subtropical_humid_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+theodoro = { climate = subtropical_humid_climate culture = muscovite natural_harbor_suitability = 1.00 raw_material = wine religion = orthodox topography = hills vegetation = woods }
+qirq_yer = { climate = subtropical_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+lusta = { climate = subtropical_humid_climate culture = muscovite raw_material = fruit religion = orthodox topography = hills vegetation = woods }
+qarasuvbazar = { climate = subtropical_humid_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
 crimean_mountains = { topography = mountains vegetation = woods climate = temperate_continental_humid_climate culture = mdm_socal_culture raw_material = fish religion = catholic }
-kaffa = { climate = cold_semiarid_steppe_climate culture = severian natural_harbor_suitability = 0.75 raw_material = wine religion = orthodox topography = flatland vegetation = grasslands }
-soldaia = { climate = subtropical_humid_climate culture = severian natural_harbor_suitability = 0.25 raw_material = fish religion = orthodox topography = flatland vegetation = grasslands }
-vosporo = { climate = cold_semiarid_steppe_climate culture = severian natural_harbor_suitability = 0.75 raw_material = fruit religion = orthodox topography = flatland vegetation = grasslands }
-seyitler = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-solkhat = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-kalay = { climate = cold_semiarid_steppe_climate culture = severian raw_material = wool religion = sunni topography = wetlands vegetation = grasslands }
-kezlev = { climate = cold_semiarid_steppe_climate culture = severian raw_material = salt religion = sunni topography = flatland vegetation = grasslands }
-aqmecit = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-jurchi = { climate = cold_semiarid_steppe_climate culture = severian raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
-or_qapi = { climate = cold_semiarid_steppe_climate culture = severian raw_material = salt religion = sunni topography = wetlands vegetation = grasslands }
+kaffa = { climate = cold_semiarid_steppe_climate culture = muscovite natural_harbor_suitability = 0.75 raw_material = wine religion = orthodox topography = flatland vegetation = grasslands }
+soldaia = { climate = subtropical_humid_climate culture = muscovite natural_harbor_suitability = 0.25 raw_material = fish religion = orthodox topography = flatland vegetation = grasslands }
+vosporo = { climate = cold_semiarid_steppe_climate culture = muscovite natural_harbor_suitability = 0.75 raw_material = fruit religion = orthodox topography = flatland vegetation = grasslands }
+seyitler = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+solkhat = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+kalay = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = wool religion = sunni topography = wetlands vegetation = grasslands }
+kezlev = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = salt religion = sunni topography = flatland vegetation = grasslands }
+aqmecit = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+jurchi = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
+or_qapi = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = salt religion = sunni topography = wetlands vegetation = grasslands }
 lake_sasyk_syvash = { topography = lakes climate = cold_semiarid_steppe_climate}
 syvash_lagoon = { topography = lakes climate = cold_semiarid_steppe_climate}
 syvash_sand_bar = { topography = flatland vegetation = desert climate = cold_semiarid_steppe_climate}
-taman = { climate = cold_semiarid_steppe_climate culture = severian natural_harbor_suitability = 0.25 raw_material = fish religion = orthodox topography = flatland vegetation = grasslands }
-mapa = { climate = subtropical_humid_climate culture = severian natural_harbor_suitability = 0.25 raw_material = salt religion = sunni topography = flatland vegetation = grasslands }
-susaco = { climate = subtropical_humid_climate culture = severian natural_harbor_suitability = 0.75 raw_material = fish religion = sunni topography = hills vegetation = forest }
-shanjir = { climate = subtropical_humid_climate culture = severian raw_material = beeswax religion = sunni topography = flatland vegetation = grasslands }
-copa = { climate = subtropical_humid_climate culture = severian natural_harbor_suitability = 0.25 raw_material = horses religion = sunni topography = wetlands vegetation = grasslands }
-siba_circassia = { climate = subtropical_humid_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+taman = { climate = cold_semiarid_steppe_climate culture = muscovite natural_harbor_suitability = 0.25 raw_material = fish religion = orthodox topography = flatland vegetation = grasslands }
+mapa = { climate = subtropical_humid_climate culture = muscovite natural_harbor_suitability = 0.25 raw_material = salt religion = sunni topography = flatland vegetation = grasslands }
+susaco = { climate = subtropical_humid_climate culture = muscovite natural_harbor_suitability = 0.75 raw_material = fish religion = sunni topography = hills vegetation = forest }
+shanjir = { climate = subtropical_humid_climate culture = muscovite raw_material = beeswax religion = sunni topography = flatland vegetation = grasslands }
+copa = { climate = subtropical_humid_climate culture = muscovite natural_harbor_suitability = 0.25 raw_material = horses religion = sunni topography = wetlands vegetation = grasslands }
+siba_circassia = { climate = subtropical_humid_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
 tuapse = { topography = hills vegetation = forest climate = subtropical_humid_climate religion = orthodox culture = circassian_culture raw_material = livestock natural_harbor_suitability = 0.00}
 costa = { topography = mountains vegetation = forest climate = subtropical_humid_climate religion = orthodox culture = abazin_culture raw_material = fish natural_harbor_suitability = 0.00}
 khadyzhi = { topography = flatland vegetation = forest climate = subtropical_humid_climate religion = sunni culture = circassian_culture raw_material = wool}
 kuzhyb = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = sunni culture = circassian_culture raw_material = stone}
 maykop = { topography = flatland vegetation = forest climate = subtropical_humid_climate religion = sunni culture = circassian_culture raw_material = clay}
 moschevo = { topography = hills vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = circassian_culture raw_material = lumber}
-akhtar = { climate = temperate_continental_humid_climate culture = severian raw_material = salt religion = sunni topography = wetlands vegetation = grasslands }
-kalininskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-bryukhovetskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
-bzhedygu_kal = { climate = temperate_continental_humid_climate culture = severian raw_material = legumes religion = sunni topography = flatland vegetation = grasslands }
-ust_labinsk = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-pavlovskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-tbilisskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-romanovsky_khutor = { climate = temperate_continental_humid_climate culture = severian raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
+akhtar = { climate = temperate_continental_humid_climate culture = muscovite raw_material = salt religion = sunni topography = wetlands vegetation = grasslands }
+kalininskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+bryukhovetskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+bzhedygu_kal = { climate = temperate_continental_humid_climate culture = muscovite raw_material = legumes religion = sunni topography = flatland vegetation = grasslands }
+ust_labinsk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+pavlovskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+tbilisskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+romanovsky_khutor = { climate = temperate_continental_humid_climate culture = muscovite raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
 chatyun = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = circassian_culture raw_material = stone}
 adyukh = { topography = hills vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = circassian_culture raw_material = stone}
-armavir = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+armavir = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
 shkhancheriekhabl = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = circassian_culture raw_material = millet}
-belorechensk = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+belorechensk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
 khadjibey = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = sand natural_harbor_suitability = 0.50}
 teligol = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = fish natural_harbor_suitability = 0.00}
 kuyanlik = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = livestock}
@@ -4711,12 +4711,12 @@ bereznehuvate = { topography = flatland vegetation = grasslands climate = cold_s
 bashtanka = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = legumes}
 tavan = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = livestock}
 velyka_oleksandrivka = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = clay}
-qalancaq = { climate = cold_semiarid_steppe_climate culture = severian raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
-aslan_horod = { climate = cold_semiarid_steppe_climate culture = severian raw_material = fish religion = sunni topography = flatland vegetation = grasslands }
-ordu_bazar = { climate = cold_semiarid_steppe_climate culture = severian raw_material = salt religion = sunni topography = flatland vegetation = grasslands }
-rohat_kermen = { climate = cold_semiarid_steppe_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-enice = { climate = cold_semiarid_steppe_climate culture = severian raw_material = salt religion = sunni topography = flatland vegetation = grasslands }
-velyka_lepetykha = { climate = cold_semiarid_steppe_climate culture = severian raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
+qalancaq = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
+aslan_horod = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = fish religion = sunni topography = flatland vegetation = grasslands }
+ordu_bazar = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = salt religion = sunni topography = flatland vegetation = grasslands }
+rohat_kermen = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+enice = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = salt religion = sunni topography = flatland vegetation = grasslands }
+velyka_lepetykha = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
 kichkas = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = clay}
 rozdory = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = fish}
 hryshyne = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
@@ -4739,43 +4739,43 @@ sofiivka = { topography = flatland vegetation = grasslands climate = temperate_c
 kryvyi_rih = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = iron_ore}
 tomakivka = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = livestock}
 mykytyn_rih = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = fiber_crops}
-kursk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = millet}
-fatezh = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = wool}
-opalkova = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = legumes}
-kosozhichi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = lumber}
-manturovo_kursk = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = horses}
-olgov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = beeswax}
-oskol = { climate = temperate_continental_humid_climate culture = severian raw_material = legumes religion = sunni topography = flatland vegetation = grasslands }
-troitskoye_na_shchigrakh = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
+kursk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = millet}
+fatezh = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wool}
+opalkova = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = legumes}
+kosozhichi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
+manturovo_kursk = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = horses}
+olgov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = beeswax}
+oskol = { climate = temperate_continental_humid_climate culture = muscovite raw_material = legumes religion = sunni topography = flatland vegetation = grasslands }
+troitskoye_na_shchigrakh = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
 belgorod = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = fiber_crops religion = orthodox topography = flatland vegetation = grasslands }
 korocha = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = wheat religion = orthodox topography = flatland vegetation = grasslands }
-oboyan = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = wheat}
-muzhech = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = livestock}
+oboyan = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
+muzhech = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = livestock}
 rakitnoye = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = livestock religion = orthodox topography = flatland vegetation = grasslands }
 sudzha = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = clay religion = orthodox topography = flatland vegetation = grasslands }
-yelets = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
-gogol = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-talitsa_yelets = { climate = temperate_continental_humid_climate culture = severian raw_material = fiber_crops religion = sunni topography = flatland vegetation = woods }
-terbuny = { climate = temperate_continental_humid_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
-ust_livny = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
-zemlyansk = { climate = temperate_continental_humid_climate culture = severian raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
-alexeyevka = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
-rovenki = { climate = temperate_continental_humid_climate culture = severian raw_material = legumes religion = sunni topography = flatland vegetation = grasslands }
-valuyki = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
-chernyanka = { climate = temperate_continental_humid_climate culture = severian raw_material = legumes religion = sunni topography = flatland vegetation = grasslands }
-kastornoye = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-voronezh = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = sparse }
-anna_russia = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-novaya_pokrovka = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-semidesyatnoye = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-ostrogozhsk = { climate = temperate_continental_humid_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
-rossosh = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-bielska_sloboda = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-bilovodsk = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-novopskov = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-kalnivka = { climate = temperate_continental_humid_climate culture = severian raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
-nyzhnia_duvanka = { climate = temperate_continental_humid_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
-konstantinovka = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+yelets = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
+gogol = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+talitsa_yelets = { climate = temperate_continental_humid_climate culture = muscovite raw_material = fiber_crops religion = sunni topography = flatland vegetation = woods }
+terbuny = { climate = temperate_continental_humid_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+ust_livny = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
+zemlyansk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
+alexeyevka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
+rovenki = { climate = temperate_continental_humid_climate culture = muscovite raw_material = legumes religion = sunni topography = flatland vegetation = grasslands }
+valuyki = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
+chernyanka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = legumes religion = sunni topography = flatland vegetation = grasslands }
+kastornoye = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+voronezh = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = sparse }
+anna_russia = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+novaya_pokrovka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+semidesyatnoye = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+ostrogozhsk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+rossosh = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+bielska_sloboda = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+bilovodsk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+novopskov = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+kalnivka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
+nyzhnia_duvanka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+konstantinovka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
 izium = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
 adalaga = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = wool}
 barvinkove = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = clay}
@@ -4792,141 +4792,141 @@ khotmyzh = { climate = temperate_continental_humid_climate culture = mdm_ukraini
 kotelva = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
 okhtyrka = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = horses religion = orthodox topography = flatland vegetation = woods }
 zmiiv = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = mdm_ukrainian_culture raw_material = saltpeter}
-melitopol = { climate = cold_semiarid_steppe_climate culture = severian natural_harbor_suitability = 0.25 raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
-kyrylivka = { climate = cold_semiarid_steppe_climate culture = severian raw_material = fish religion = sunni topography = flatland vegetation = grasslands }
-tokmak = { climate = cold_semiarid_steppe_climate culture = severian raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
-konski_vody = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-kuchugur = { climate = cold_semiarid_steppe_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
-berdiansk = { climate = cold_semiarid_steppe_climate culture = severian natural_harbor_suitability = 0.25 raw_material = salt religion = sunni topography = flatland vegetation = grasslands }
+melitopol = { climate = cold_semiarid_steppe_climate culture = muscovite natural_harbor_suitability = 0.25 raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
+kyrylivka = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = fish religion = sunni topography = flatland vegetation = grasslands }
+tokmak = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
+konski_vody = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+kuchugur = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+berdiansk = { climate = cold_semiarid_steppe_climate culture = muscovite natural_harbor_suitability = 0.25 raw_material = salt religion = sunni topography = flatland vegetation = grasslands }
 molochnyi_liman = { topography = lakes climate = cold_semiarid_steppe_climate}
-taganrog = { climate = temperate_continental_humid_climate culture = severian natural_harbor_suitability = 0.25 raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
-velyka_novosilka = { climate = temperate_continental_humid_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
-domakha = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-huliaipole = { climate = temperate_continental_humid_climate culture = severian raw_material = legumes religion = sunni topography = flatland vegetation = grasslands }
-shyrokyne = { climate = temperate_continental_humid_climate culture = severian raw_material = sand religion = sunni topography = flatland vegetation = grasslands }
-vasylivka = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+taganrog = { climate = temperate_continental_humid_climate culture = muscovite natural_harbor_suitability = 0.25 raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
+velyka_novosilka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+domakha = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+huliaipole = { climate = temperate_continental_humid_climate culture = muscovite raw_material = legumes religion = sunni topography = flatland vegetation = grasslands }
+shyrokyne = { climate = temperate_continental_humid_climate culture = muscovite raw_material = sand religion = sunni topography = flatland vegetation = grasslands }
+vasylivka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
 mius_liman = { topography = lakes climate = temperate_continental_humid_climate}
-bakhmut = { climate = temperate_continental_humid_climate culture = severian raw_material = salt religion = sunni topography = flatland vegetation = grasslands }
-lysychansk = { climate = temperate_continental_humid_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-kreminna = { climate = temperate_continental_humid_climate culture = severian modifier = kremnica_gold_mines raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
+bakhmut = { climate = temperate_continental_humid_climate culture = muscovite raw_material = salt religion = sunni topography = flatland vegetation = grasslands }
+lysychansk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+kreminna = { climate = temperate_continental_humid_climate culture = muscovite modifier = kremnica_gold_mines raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
 oleksandrivka = { climate = temperate_continental_humid_climate culture = mdm_ukrainian_culture raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
-posad = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-azok = { climate = temperate_continental_humid_climate culture = severian natural_harbor_suitability = 0.50 raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
-bagayevskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-shcherbinovka = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-balzimachi = { climate = cold_semiarid_steppe_climate culture = severian raw_material = fish religion = sunni topography = flatland vegetation = grasslands }
-kanevskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
-starominskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
-yegorlykskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-tana = { climate = temperate_continental_humid_climate culture = severian natural_harbor_suitability = 0.50 raw_material = fish religion = sunni topography = wetlands vegetation = grasslands }
-krasny_sulin = { climate = temperate_continental_humid_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
-shakhty = { climate = cold_semiarid_steppe_climate culture = severian raw_material = coal religion = sunni topography = flatland vegetation = grasslands }
-rovenky = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
-kalmius = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
-kamenskaya = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-semikarakorsk = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-bol_shaya_martynovka = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-cheplak = { climate = cold_semiarid_steppe_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
-bolshoy_gashun = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-dubovskoye = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-yundin = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-ust_tsimla = { climate = cold_semiarid_steppe_climate culture = severian raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
-konstantinovsk = { climate = cold_semiarid_steppe_climate culture = severian raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
-tatsinskaya = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-tormosin = { climate = cold_semiarid_steppe_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
-luhansk = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-mityakinskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-novoaidar = { climate = temperate_continental_humid_climate culture = severian raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
-belaya_kalitva = { climate = temperate_continental_humid_climate culture = severian raw_material = fish religion = sunni topography = flatland vegetation = grasslands }
-millerovo = { climate = temperate_continental_humid_climate culture = severian raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
-kremenskaya = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-kletskaya = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-ust_medveditskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = beeswax religion = sunni topography = flatland vegetation = grasslands }
-oblivskaya = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-nizhny_chir = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-kashary = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-chertkovo = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-bokovskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-milyutinskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-boguchar = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-borisoglebsk = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-bannoye = { climate = temperate_continental_humid_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-kalach = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-sadovoye = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-bolshaya_gribanovka = { climate = temperate_continental_humid_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-buturlinovka = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-verkhny_mamon = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-uryupin = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-mikhaylovka = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-novoanninsky = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-alexeyevskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-veesky = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-kumylzhenskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-zimnyatsky = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-malodelskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-ilovlya = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-mechet = { climate = cold_semiarid_steppe_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-stepanevka = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-sarai_al_jadid = { climate = cold_semiarid_steppe_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-beljamen = { climate = cold_semiarid_steppe_climate culture = severian raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
-zenzevatka = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-nagavskaya = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-aksay = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-yelan = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-machekha = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-novonikolayevsky = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-samoylovka = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-rudnya_pontic = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-danilovka = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-kotovo = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-kamyshin = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-goly_karamysh = { climate = temperate_continental_humid_climate culture = severian raw_material = sand religion = sunni topography = flatland vegetation = grasslands }
+posad = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+azok = { climate = temperate_continental_humid_climate culture = muscovite natural_harbor_suitability = 0.50 raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
+bagayevskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+shcherbinovka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+balzimachi = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = fish religion = sunni topography = flatland vegetation = grasslands }
+kanevskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
+starominskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+yegorlykskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+tana = { climate = temperate_continental_humid_climate culture = muscovite natural_harbor_suitability = 0.50 raw_material = fish religion = sunni topography = wetlands vegetation = grasslands }
+krasny_sulin = { climate = temperate_continental_humid_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+shakhty = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = coal religion = sunni topography = flatland vegetation = grasslands }
+rovenky = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
+kalmius = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
+kamenskaya = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+semikarakorsk = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+bol_shaya_martynovka = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+cheplak = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+bolshoy_gashun = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+dubovskoye = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+yundin = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+ust_tsimla = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
+konstantinovsk = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
+tatsinskaya = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+tormosin = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+luhansk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+mityakinskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+novoaidar = { climate = temperate_continental_humid_climate culture = muscovite raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
+belaya_kalitva = { climate = temperate_continental_humid_climate culture = muscovite raw_material = fish religion = sunni topography = flatland vegetation = grasslands }
+millerovo = { climate = temperate_continental_humid_climate culture = muscovite raw_material = millet religion = sunni topography = flatland vegetation = grasslands }
+kremenskaya = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+kletskaya = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+ust_medveditskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = beeswax religion = sunni topography = flatland vegetation = grasslands }
+oblivskaya = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+nizhny_chir = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+kashary = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+chertkovo = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+bokovskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+milyutinskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+boguchar = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+borisoglebsk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+bannoye = { climate = temperate_continental_humid_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+kalach = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+sadovoye = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+bolshaya_gribanovka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+buturlinovka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+verkhny_mamon = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+uryupin = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+mikhaylovka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+novoanninsky = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+alexeyevskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+veesky = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+kumylzhenskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+zimnyatsky = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+malodelskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+ilovlya = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+mechet = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+stepanevka = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+sarai_al_jadid = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+beljamen = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
+zenzevatka = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+nagavskaya = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+aksay = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+yelan = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+machekha = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+novonikolayevsky = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+samoylovka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+rudnya_pontic = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+danilovka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+kotovo = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+kamyshin = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+goly_karamysh = { climate = temperate_continental_humid_climate culture = muscovite raw_material = sand religion = sunni topography = flatland vegetation = grasslands }
 astrakhan = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = wool natural_harbor_suitability = 0.00}
 khosheutovo = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = wool  }
 krasny_yar = { topography = wetlands vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = fiber_crops  }
 ganyushkino = { topography = flatland vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = wool  }
-pologoye_zaymishche = { climate = cold_semiarid_steppe_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-srednyaya_akhtuba = { climate = cold_semiarid_steppe_climate culture = severian raw_material = wool religion = sunni topography = wetlands vegetation = grasslands }
-bykovo = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-elton = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = sparse }
-zolotari = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = sparse }
-berezhnovka = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = sparse }
+pologoye_zaymishche = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+srednyaya_akhtuba = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = wool religion = sunni topography = wetlands vegetation = grasslands }
+bykovo = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+elton = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = sparse }
+zolotari = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = sparse }
+berezhnovka = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = sparse }
 zamyany = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = wool  }
 yenotayevka = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = wool  }
-sapara = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = severian raw_material = livestock  }
+sapara = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = muscovite raw_material = livestock  }
 chernyye_zemli = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = livestock}
 ikryanoye = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = fish natural_harbor_suitability = 0.00}
-chyorny_yar = { climate = cold_semiarid_steppe_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+chyorny_yar = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
 nikolskoye_pontic = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = wool}
-malye_derbety = { climate = cold_semiarid_steppe_climate culture = severian raw_material = medicaments religion = sunni topography = flatland vegetation = grasslands }
-sadovoye_kalmykia = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-ded_khulsun = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-zavetnoye = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-bolkhuny = { climate = cold_semiarid_steppe_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+malye_derbety = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = medicaments religion = sunni topography = flatland vegetation = grasslands }
+sadovoye_kalmykia = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+ded_khulsun = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+zavetnoye = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+bolkhuny = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
 mikhaylovka_pontic = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = wool}
 rechnoye = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = wool}
 bokey = { topography = flatland vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = nogai raw_material = salt}
-botkul = { climate = cold_semiarid_steppe_climate culture = severian raw_material = salt religion = sunni topography = flatland vegetation = sparse }
+botkul = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = salt religion = sunni topography = flatland vegetation = sparse }
 zhanybek = { topography = flatland vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = nogai raw_material = horses}
 dardeling = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = fish natural_harbor_suitability = 0.00}
 mekletin = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = livestock}
 kok_usn = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = astrakhani raw_material = beeswax}
-yashkul = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-iki_burul = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-priyutnoye = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-elista = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-remontnoye = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-gorodovikovsk = { climate = cold_semiarid_steppe_climate culture = severian raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
-raguli = { climate = cold_semiarid_steppe_climate culture = severian raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
+yashkul = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+iki_burul = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+priyutnoye = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+elista = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+remontnoye = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+gorodovikovsk = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = clay religion = sunni topography = flatland vegetation = grasslands }
+raguli = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = fiber_crops religion = sunni topography = flatland vegetation = grasslands }
 lake_manych = { topography = lakes climate = cold_semiarid_steppe_climate}
 majar = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = circassian_culture raw_material = livestock}
 zelenokumsk = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = circassian_culture raw_material = livestock}
-arzgir = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+arzgir = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
 levokumskoye = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = circassian_culture raw_material = horses}
 novopavlovsk = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = circassian_culture raw_material = stone}
 yessentuq = { topography = plateau vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = circassian_culture raw_material = stone}
 alexandrovskoye = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = circassian_culture raw_material = livestock}
-blagodarnoye = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+blagodarnoye = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
 novoselitskoye = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = circassian_culture raw_material = horses}
 naurskaya = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = nakh_culture raw_material = stone}
 kara_bazaar = { topography = wetlands vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = avar_culture raw_material = fish natural_harbor_suitability = 0.00}
@@ -4934,16 +4934,16 @@ terekli_mekteb = { topography = flatland vegetation = grasslands climate = cold_
 kurskaya = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = circassian_culture raw_material = stone}
 kamysh_burun = { topography = flatland vegetation = grasslands climate = cold_semiarid_steppe_climate religion = sunni culture = circassian_culture raw_material = livestock}
 stavropol = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = circassian_culture raw_material = wool}
-grigoropolisskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+grigoropolisskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
 uspenskoye = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = circassian_culture raw_material = livestock}
 shad_kirman = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = circassian_culture raw_material = stone}
-petrovskoye_pontic = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-privolnoye = { climate = cold_semiarid_steppe_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-belaya_glina = { climate = temperate_continental_humid_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-peschanokopskoye = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-novo_alexandrovskoye = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-bezopasnoye = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-ipatovo = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+petrovskoye_pontic = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+privolnoye = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+belaya_glina = { climate = temperate_continental_humid_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+peschanokopskoye = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+novo_alexandrovskoye = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+bezopasnoye = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+ipatovo = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
 kalmyk = { topography = flatland vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = nogai raw_material = livestock}
 karatobe = { topography = flatland vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = nogai raw_material = livestock}
 shyngyrlau = { topography = flatland vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = nogai raw_material = livestock}
@@ -4961,11 +4961,11 @@ saryadyn = { topography = wetlands vegetation = sparse climate = cold_semiarid_s
 talowski = { topography = wetlands vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = nogai raw_material = horses}
 inder_lake = { topography = lakes climate = cold_semiarid_steppe_climate}
 piterka = { topography = flatland vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = nogai raw_material = livestock}
-krasny_kut_pontic = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = sparse }
+krasny_kut_pontic = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = sparse }
 mokrous = { topography = flatland vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = kazani raw_material = horses}
-savinka = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = sparse }
-rovnoye = { climate = cold_semiarid_steppe_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = sparse }
-pokrovsk = { climate = cold_semiarid_steppe_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = sparse }
+savinka = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = sparse }
+rovnoye = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = sparse }
+pokrovsk = { climate = cold_semiarid_steppe_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = sparse }
 baronsk = { topography = flatland vegetation = sparse climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
 taskala = { topography = flatland vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = nogai raw_material = livestock}
 dergachi = { topography = flatland vegetation = sparse climate = cold_semiarid_steppe_climate religion = sunni culture = nogai raw_material = livestock}
@@ -5003,69 +5003,69 @@ mushkov_pogost = { topography = flatland vegetation = woods climate = temperate_
 rogachevo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fiber_crops}
 ruza = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
 volok = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = millet}
-odoyev = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = lumber}
-belyov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wild_game}
-rzhavets = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = legumes}
+odoyev = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
+belyov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wild_game}
+rzhavets = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = legumes}
 vorotynsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fiber_crops}
-masalsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wool}
-fominichi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = lumber}
-lyubun = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wool}
-pogostishche = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = fiber_crops}
+masalsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wool}
+fominichi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
+lyubun = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wool}
+pogostishche = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fiber_crops}
 yukhnov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = millet}
-karachev = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = wheat}
-bolkhov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = lumber}
-khotiml = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = millet}
-kromy = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = iron_ore}
-zvenihorod_siverskyi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = wheat}
-kozelsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = lumber}
-khvastovichi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = lumber}
-ktsyn = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = medicaments}
-meshchovsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wild_game}
-usty = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = livestock}
-novosil = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = wool}
-bogorodskoye = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = fiber_crops}
-kolpny = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = orthodox topography = flatland vegetation = woods }
-mikhailovka = { climate = temperate_continental_humid_climate culture = severian raw_material = medicaments religion = orthodox topography = flatland vegetation = woods }
-mtsensk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = wheat}
-plavsk = { climate = temperate_continental_humid_climate culture = severian raw_material = lumber religion = orthodox topography = flatland vegetation = woods }
-tagin = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = severian raw_material = wheat}
-vorotynsk_novosil = { climate = temperate_continental_humid_climate culture = severian raw_material = clay religion = orthodox topography = flatland vegetation = woods }
-tarusa = { climate = temperate_continental_humid_climate culture = severian raw_material = wild_game religion = orthodox topography = flatland vegetation = woods }
+karachev = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
+bolkhov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
+khotiml = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = millet}
+kromy = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = iron_ore}
+zvenihorod_siverskyi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
+kozelsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
+khvastovichi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
+ktsyn = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = medicaments}
+meshchovsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wild_game}
+usty = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = livestock}
+novosil = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wool}
+bogorodskoye = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fiber_crops}
+kolpny = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = orthodox topography = flatland vegetation = woods }
+mikhailovka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = medicaments religion = orthodox topography = flatland vegetation = woods }
+mtsensk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
+plavsk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = lumber religion = orthodox topography = flatland vegetation = woods }
+tagin = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
+vorotynsk_novosil = { climate = temperate_continental_humid_climate culture = muscovite raw_material = clay religion = orthodox topography = flatland vegetation = woods }
+tarusa = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wild_game religion = orthodox topography = flatland vegetation = woods }
 kaluga = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
 obolensk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wool}
-volkona = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = orthodox topography = flatland vegetation = woods }
-tula_russia = { climate = temperate_continental_humid_climate culture = severian raw_material = beeswax religion = orthodox topography = flatland vegetation = woods }
-arkhangelskoye = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
-bogoroditsk = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
-kurkino = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-bely = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wheat}
-bolshevo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = millet}
+volkona = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = orthodox topography = flatland vegetation = woods }
+tula_russia = { climate = temperate_continental_humid_climate culture = muscovite raw_material = beeswax religion = orthodox topography = flatland vegetation = woods }
+arkhangelskoye = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
+bogoroditsk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
+kurkino = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+bely = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
+bolshevo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = millet}
 fomin_gorodok = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = legumes}
-shoptovo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = millet}
-verkhovye = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = medicaments}
+shoptovo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = millet}
+verkhovye = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = medicaments}
 yotkino = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polatskian_culture raw_material = lumber}
-dorogobuzh = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wheat}
-demensk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wild_game}
-gorodechnya = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = millet}
-mozhino = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = lumber}
-shui = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = legumes}
-yartsevo = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = millet}
+dorogobuzh = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
+demensk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wild_game}
+gorodechnya = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = millet}
+mozhino = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
+shui = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = legumes}
+yartsevo = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = millet}
 kozlov_vyazma = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = stone}
 orekhovna = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fiber_crops}
 pogoreloye = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = legumes}
 trufany = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = clay}
-zhulino = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = livestock}
-roslavl = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = livestock}
-izyaslavl = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = fruit}
-pustosel = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = clay}
-rognedino = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wheat}
-zaroy = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wheat}
-smolensk = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = millet}
-belik = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wheat}
-berezhnyany = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = livestock}
-dukhovshchina = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wool}
-krasny = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wheat}
-yelnya = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = horses}
+zhulino = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = livestock}
+roslavl = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = livestock}
+izyaslavl = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fruit}
+pustosel = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = clay}
+rognedino = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
+zaroy = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
+smolensk = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = millet}
+belik = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
+berezhnyany = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = livestock}
+dukhovshchina = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wool}
+krasny = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
+yelnya = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = horses}
 toropets = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polatskian_culture raw_material = wild_game}
 andreapol = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polatskian_culture raw_material = lumber}
 bibirevo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polatskian_culture raw_material = clay}
@@ -5075,21 +5075,21 @@ nizhelskoe = { topography = flatland vegetation = woods climate = temperate_cont
 zhizhets = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polatskian_culture raw_material = fiber_crops}
 lake_dvinye = { topography = lakes climate = temperate_continental_humid_climate}
 lake_zhizhitskoye = { topography = lakes climate = temperate_continental_humid_climate}
-verzhavsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = millet}
-demidov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wool}
-katyn = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = legumes}
+verzhavsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = millet}
+demidov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wool}
+katyn = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = legumes}
 luchani = { topography = wetlands vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = polatskian_culture raw_material = lumber}
-shchuchye_smolensk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = sand}
-vetlitsy = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = fiber_crops}
-vyazma = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wool}
-izdeshkovo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = fruit}
+shchuchye_smolensk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = sand}
+vetlitsy = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fiber_crops}
+vyazma = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wool}
+izdeshkovo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fruit}
 khlepen = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
-kholm_zhirkovsky = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = smolenskian_culture raw_material = wheat}
+kholm_zhirkovsky = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
 sychyovka = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
-kasimov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = mishar raw_material = legumes}
+kasimov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = muscovite raw_material = legumes}
 ardatov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = wheat}
-azeevo = { climate = temperate_continental_humid_climate culture = severian raw_material = lumber religion = sunni topography = flatland vegetation = woods }
-kadom = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = woods }
+azeevo = { climate = temperate_continental_humid_climate culture = muscovite raw_material = lumber religion = sunni topography = flatland vegetation = woods }
+kadom = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = woods }
 tuma = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
 murom = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wheat}
 gorbatovo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
@@ -5097,83 +5097,83 @@ klepiki = { topography = flatland vegetation = woods climate = temperate_contine
 melenki = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = legumes}
 shatur = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = sand}
 starodub_votsky = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fiber_crops}
-rostislavl_ryazansky = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
+rostislavl_ryazansky = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
 lyubichi = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = clay}
-lopasnya = { climate = temperate_continental_humid_climate culture = severian raw_material = lumber religion = orthodox topography = flatland vegetation = woods }
-perevitska = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
-serebryanye_prudy = { climate = temperate_continental_humid_climate culture = severian raw_material = fiber_crops religion = orthodox topography = flatland vegetation = woods }
-venyov = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
-ryazan = { climate = temperate_continental_humid_climate culture = severian raw_material = millet religion = orthodox topography = flatland vegetation = woods }
-kazari = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-koponovo = { climate = temperate_continental_humid_climate culture = severian raw_material = fiber_crops religion = sunni topography = flatland vegetation = woods }
-putyatino = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-shilovo = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = woods }
-staraya_ryazan = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = woods }
-pronsk = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = woods }
-dubok = { climate = temperate_continental_humid_climate culture = severian raw_material = legumes religion = sunni topography = flatland vegetation = woods }
-karniki = { climate = temperate_continental_humid_climate culture = severian raw_material = lumber religion = orthodox topography = flatland vegetation = woods }
-knyazhoye = { climate = temperate_continental_humid_climate culture = severian raw_material = lumber religion = sunni topography = flatland vegetation = woods }
-mikhaylov = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = orthodox topography = flatland vegetation = woods }
-skopin = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = woods }
-ryazhsk = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-mokhcha = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-nizhny_lomov = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
-zemetchino = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+lopasnya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = lumber religion = orthodox topography = flatland vegetation = woods }
+perevitska = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
+serebryanye_prudy = { climate = temperate_continental_humid_climate culture = muscovite raw_material = fiber_crops religion = orthodox topography = flatland vegetation = woods }
+venyov = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = orthodox topography = flatland vegetation = woods }
+ryazan = { climate = temperate_continental_humid_climate culture = muscovite raw_material = millet religion = orthodox topography = flatland vegetation = woods }
+kazari = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+koponovo = { climate = temperate_continental_humid_climate culture = muscovite raw_material = fiber_crops religion = sunni topography = flatland vegetation = woods }
+putyatino = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+shilovo = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = woods }
+staraya_ryazan = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = woods }
+pronsk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = woods }
+dubok = { climate = temperate_continental_humid_climate culture = muscovite raw_material = legumes religion = sunni topography = flatland vegetation = woods }
+karniki = { climate = temperate_continental_humid_climate culture = muscovite raw_material = lumber religion = orthodox topography = flatland vegetation = woods }
+knyazhoye = { climate = temperate_continental_humid_climate culture = muscovite raw_material = lumber religion = sunni topography = flatland vegetation = woods }
+mikhaylov = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = orthodox topography = flatland vegetation = woods }
+skopin = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = woods }
+ryazhsk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+mokhcha = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+nizhny_lomov = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
+zemetchino = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
 insar = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = horses}
-tarbeevka = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-zubova_polyana = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+tarbeevka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+zubova_polyana = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
 sarov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = lumber}
 bolshoye_boldino = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = lumber}
-temnikov = { climate = temperate_continental_humid_climate culture = severian raw_material = beeswax religion = sunni topography = flatland vegetation = woods }
-krasnoslobodsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = erzya_religion culture = erzya_culture raw_material = livestock}
-lukoyanov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = erzya_religion culture = erzya_culture raw_material = lumber}
+temnikov = { climate = temperate_continental_humid_climate culture = muscovite raw_material = beeswax religion = sunni topography = flatland vegetation = woods }
+krasnoslobodsk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = erzya_religion culture = muscovite raw_material = livestock}
+lukoyanov = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = erzya_religion culture = muscovite raw_material = lumber}
 shatki = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = lumber}
 arzamas = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = lumber}
 pavlovo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = fur}
-ruzayevka = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = erzya_religion culture = erzya_culture raw_material = horses}
-tambov = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-staroyuryevo = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-sasovo = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-rasskazovo = { climate = temperate_continental_humid_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-bondari = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-morsha = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-mordovo = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-zherdevka = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-uvarovo = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-kirsanov = { climate = temperate_continental_humid_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-penza = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+ruzayevka = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = erzya_religion culture = muscovite raw_material = horses}
+tambov = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+staroyuryevo = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+sasovo = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+rasskazovo = { climate = temperate_continental_humid_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+bondari = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+morsha = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+mordovo = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+zherdevka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+uvarovo = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+kirsanov = { climate = temperate_continental_humid_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+penza = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
 gorodishche = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
 mokshan = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = wheat}
 lunino = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = beeswax}
 nikolskoye = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = wheat}
-malaya_serdoba = { climate = temperate_continental_humid_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-shemysheyka = { climate = temperate_continental_humid_climate culture = severian raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
-chembar = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
-serdobinskaya = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
+malaya_serdoba = { climate = temperate_continental_humid_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+shemysheyka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = horses religion = sunni topography = flatland vegetation = grasslands }
+chembar = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
+serdobinskaya = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
 russky_kameshkir = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
-atkarsk = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-lysye_gory = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-yekaterinovka = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-balanda = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-rtishchevo = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-balashov = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-turki = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-arkadak = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-ukek = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+atkarsk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+lysye_gory = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+yekaterinovka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+balanda = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+rtishchevo = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+balashov = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+turki = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+arkadak = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+ukek = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
 sosnovy_ostrov = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
 malykovka = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = horses}
 novye_burasy = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
 tereshka = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
-petrovsk = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-lipetsk = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-donkov = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-usman = { climate = temperate_continental_humid_climate culture = severian raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
-ust_stanovykh_ryas = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-izberdey = { climate = temperate_continental_humid_climate culture = severian raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
-teshevka = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
-kozlov = { climate = temperate_continental_humid_climate culture = severian raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+petrovsk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+lipetsk = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+donkov = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+usman = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wheat religion = sunni topography = flatland vegetation = grasslands }
+ust_stanovykh_ryas = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+izberdey = { climate = temperate_continental_humid_climate culture = muscovite raw_material = livestock religion = sunni topography = flatland vegetation = grasslands }
+teshevka = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
+kozlov = { climate = temperate_continental_humid_climate culture = muscovite raw_material = wool religion = sunni topography = flatland vegetation = grasslands }
 samara = { topography = flatland vegetation = sparse climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
-shigony = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = moksha_religion culture = moksha_culture raw_material = fiber_crops}
+shigony = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = moksha_religion culture = muscovite raw_material = fiber_crops}
 morkvash = { topography = hills vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = clay}
 khvorostyanka = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
 stavropol_na_volge = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = chuvash_culture raw_material = livestock}
@@ -5206,15 +5206,15 @@ staraya_mayna = { topography = flatland vegetation = grasslands climate = temper
 tetyushi = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
 atrat = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = lumber}
 batyrevo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = lumber}
-altyshevo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = erzya_religion culture = erzya_culture raw_material = lumber}
+altyshevo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = erzya_religion culture = muscovite raw_material = lumber}
 troitskoye_kuroedovo = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = wool}
 bazarny_syzgan = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = wheat}
-staraya_kulatka = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = moksha_religion culture = moksha_culture raw_material = livestock}
-solovtsovo = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = moksha_religion culture = moksha_culture raw_material = wheat}
+staraya_kulatka = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = moksha_religion culture = muscovite raw_material = livestock}
+solovtsovo = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = moksha_religion culture = muscovite raw_material = wheat}
 karsun = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = wheat}
 promsa = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = wheat}
 chamzinka = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = wheat}
-saransk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = erzya_religion culture = erzya_culture raw_material = wheat}
+saransk = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = erzya_religion culture = muscovite raw_material = wheat}
 nizhny_novgorod = { topography = flatland vegetation = farmland climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = copper_ore}
 dalneye_konstantinovo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = lumber}
 gorokhovets = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = orthodox culture = muscovite raw_material = wild_game}
@@ -5775,7 +5775,7 @@ staryi_amanak = { topography = flatland vegetation = grasslands climate = temper
 bavly = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = mari_culture raw_material = beeswax}
 bugulma = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = mari_culture raw_material = livestock}
 buguruslan = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = wheat}
-abdulino = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = erzya_religion culture = erzya_culture raw_material = wheat}
+abdulino = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = erzya_religion culture = muscovite raw_material = wheat}
 aznakayevo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = mari_culture raw_material = lumber}
 syun = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = shamanism culture = mari_culture raw_material = lumber}
 verkhneyarkeyevo = { topography = flatland vegetation = forest climate = temperate_continental_humid_climate religion = shamanism culture = mari_culture raw_material = wild_game}
@@ -5788,15 +5788,15 @@ buzuluk = { topography = flatland vegetation = grasslands climate = temperate_co
 grachevka = { topography = flatland vegetation = sparse climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
 bol_shoy_uran = { topography = flatland vegetation = sparse climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
 malyy_uran = { topography = flatland vegetation = sparse climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
-sadak = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = erzya_religion culture = erzya_culture raw_material = livestock}
+sadak = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = erzya_religion culture = muscovite raw_material = livestock}
 s_ezzaja = { topography = flatland vegetation = sparse climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = horses}
 bogatoye = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = kazani raw_material = livestock}
 chishmy = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = shamanism culture = mari_culture raw_material = lumber}
 ulukulevo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = mari_culture raw_material = wild_game}
 davlekanovo = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = mari_culture raw_material = lumber}
-bizhbulyak = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = erzya_religion culture = erzya_culture raw_material = wheat}
+bizhbulyak = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = erzya_religion culture = muscovite raw_material = wheat}
 turkmenevo = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = mari_culture raw_material = wheat}
-sterlibashevo = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = erzya_religion culture = erzya_culture raw_material = horses}
+sterlibashevo = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = erzya_religion culture = muscovite raw_material = horses}
 sterlitamak = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = mari_culture raw_material = fur}
 meleuz = { topography = flatland vegetation = grasslands climate = temperate_continental_humid_climate religion = sunni culture = bashkir raw_material = horses}
 tabynsky = { topography = flatland vegetation = woods climate = temperate_continental_humid_climate religion = sunni culture = bashkir raw_material = fur}
