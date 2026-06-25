@@ -218,11 +218,8 @@
  mozabite: "Mozabite"
  tuareg: "Tuareg"
  eastern_amazigh: "Eastern Amazigh"
- ruthenian: "Ruthenian"
  cossack_culture: "Cossack"
  smolenskian_culture: "Smolenskian"
- volhynian_culture: "Volhynian"
- halychian_culture: "Halychian"
  rusyn_culture: "Rusyn"
  messufa_culture: "Messufa"
  lamtuna_culture: "Lamtuna"
@@ -3007,5 +3004,6 @@
  mdm_macedonian_dialect: "Macedonian"
 
  mdm_belarusian_culture: "Belarusian"
+ mdm_ukrainian_culture: "Ukrainian"
 
  mdm_romanian_culture: "Romanian"

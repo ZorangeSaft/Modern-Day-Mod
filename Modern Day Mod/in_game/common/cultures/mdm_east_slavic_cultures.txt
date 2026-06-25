@@ -26,20 +26,6 @@ ryazanian = {
 	}
 }
 
-ruthenian = { #KIE
-	language = ukrainian_dialect
-	color = map_ruthenian
-	
-	tags = { ukrainian_gfx ruthenian_gfx east_slavic_gfx slavic_gfx eastern_european_gfx european_gfx }
- 
-	opinions = { }
-
-	culture_groups = {
-		russian_group
-		slavic_group
-	}
-}
-
 pomor = {
 	language = novgorodian_dialect
 	color = map_pomor
@@ -96,34 +82,6 @@ smolenskian_culture = {
 	}
 }
 
-volhynian_culture = { 
-	language = ukrainian_dialect
-	color = map_volhynian
-	
-	tags = { ukrainian_gfx ruthenian_gfx east_slavic_gfx slavic_gfx eastern_european_gfx european_gfx }
- 
-	opinions = { }
-
-	culture_groups = {
-		russian_group
-		slavic_group
-	}
-}
-
-halychian_culture = { 
-	language = ukrainian_dialect
-	color = map_halychian
-	
-	tags = { ukrainian_gfx ruthenian_gfx east_slavic_gfx slavic_gfx eastern_european_gfx european_gfx }
- 
-	opinions = { }
-
-	culture_groups = {
-		russian_group
-		slavic_group
-	}
-}
-
 rusyn_culture = { 
 	language = ukrainian_dialect
 	color = map_rusyn
@@ -144,6 +102,20 @@ mdm_belarusian_culture = {
 	color = map_polesian
 	
 	tags = { belarusian_gfx ruthenian_gfx east_slavic_gfx slavic_gfx eastern_european_gfx european_gfx }
+ 
+	opinions = { }
+
+	culture_groups = {
+		russian_group
+		slavic_group
+	}
+}
+
+mdm_ukrainian_culture = {
+	language = ukrainian_dialect
+	color = map_ruthenian
+	
+	tags = { ukrainian_gfx ruthenian_gfx east_slavic_gfx slavic_gfx eastern_european_gfx european_gfx }
  
 	opinions = { }
 

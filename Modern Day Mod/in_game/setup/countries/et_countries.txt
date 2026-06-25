@@ -1940,7 +1940,7 @@ UGAN = {
 UKR = { #used the color of the blue on their irl flag
 	color = rgb { 0 87 183 } #{ 255  255  95 } #{ 124  183  151 }
 	color2 = rgb { 0 87 183 } #{ 255  255  95 } #{ 124  183  151 }
-	culture_definition = ruthenian
+	culture_definition = mdm_ukrainian_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
