@@ -36232,7 +36232,7 @@ locations = {
          type = peasants
       }
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = orthodox
          size = 3.200
          type = slaves
@@ -36548,7 +36548,7 @@ locations = {
          type = peasants
       }
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = orthodox
          size = 3.308
          type = slaves
@@ -36592,7 +36592,7 @@ locations = {
          type = peasants
       }
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = orthodox
          size = 3.452
          type = slaves
@@ -37014,7 +37014,7 @@ locations = {
          type = peasants
       }
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = orthodox
          size = 4.581
          type = slaves
@@ -54372,7 +54372,7 @@ locations = {
    }
     bedia = {
       define_pop = {
-         culture = mingrelian_culture
+         culture = abkhazian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -54380,7 +54380,7 @@ locations = {
    }
     poti_caucasus = {
       define_pop = {
-         culture = georgian_culture
+         culture = mingrelian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -54412,7 +54412,7 @@ locations = {
    }
     tsageri = {
       define_pop = {
-         culture = svan_culture
+         culture = georgian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -54444,7 +54444,7 @@ locations = {
    }
     akhalkalaki = {
       define_pop = {
-         culture = georgian_culture
+         culture = armenian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -54452,7 +54452,7 @@ locations = {
    }
     kvenipnevi = {
       define_pop = {
-         culture = georgian_culture
+         culture = alan_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -54476,7 +54476,7 @@ locations = {
    }
     dmanisi = {
       define_pop = {
-         culture = georgian_culture
+         culture = adhari_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -54484,7 +54484,7 @@ locations = {
    }
     rustavi = {
       define_pop = {
-         culture = georgian_culture
+         culture = adhari_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -54540,7 +54540,7 @@ locations = {
    }
     tsesi = {
       define_pop = {
-         culture = svan_culture
+         culture = georgian_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -54548,7 +54548,7 @@ locations = {
    }
     lata_georgia = {
       define_pop = {
-         culture = abkhazian_culture
+         culture = svan_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -54604,7 +54604,7 @@ locations = {
    }
     tsagvli = {
       define_pop = {
-         culture = georgian_culture
+         culture = alan_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -54676,7 +54676,7 @@ locations = {
    }
     moschevo = {
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = khabzeism
          size = 1.000
          type = peasants
@@ -54684,7 +54684,7 @@ locations = {
    }
     arkhyz = {
       define_pop = {
-         culture = karachay_culture
+         culture = muscovite
          religion = karachay_balkar_paganism
          size = 1.000
          type = peasants
@@ -54692,7 +54692,7 @@ locations = {
    }
     khumar = {
       define_pop = {
-         culture = karachay_culture
+         culture = muscovite
          religion = karachay_balkar_paganism
          size = 1.000
          type = peasants
@@ -54716,7 +54716,7 @@ locations = {
    }
     dzhulat = {
       define_pop = {
-         culture = balkar_culture
+         culture = circassian_culture
          religion = karachay_balkar_paganism
          size = 1.000
          type = peasants
@@ -54756,7 +54756,7 @@ locations = {
    }
     kasriskari = {
       define_pop = {
-         culture = georgian_culture
+         culture = alan_culture
          religion = orthodox
          size = 1.000
          type = peasants
@@ -55300,7 +55300,7 @@ locations = {
    }
     sotk = {
       define_pop = {
-         culture = armenian_culture
+         culture = adhari_culture
          religion = miaphysite
          size = 1.000
          type = peasants
@@ -55412,7 +55412,7 @@ locations = {
    }
     qarasuvbazar = {
       define_pop = {
-         culture = muscovite
+         culture = crimean
          religion = sunni
          size = 1.000
          type = peasants
@@ -56268,7 +56268,7 @@ locations = {
    }
     taganrog = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -56364,7 +56364,7 @@ locations = {
    }
     tana = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -56372,7 +56372,7 @@ locations = {
    }
     krasny_sulin = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -56380,7 +56380,7 @@ locations = {
    }
     shakhty = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -56396,7 +56396,7 @@ locations = {
    }
     kalmius = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -56404,7 +56404,7 @@ locations = {
    }
     kamenskaya = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -56412,7 +56412,7 @@ locations = {
    }
     azok = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = sunni
          size = 1.000
          type = peasants
@@ -56420,7 +56420,7 @@ locations = {
    }
     bagayevskaya = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -56428,7 +56428,7 @@ locations = {
    }
     shcherbinovka = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -56436,7 +56436,7 @@ locations = {
    }
     balzimachi = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -56444,7 +56444,7 @@ locations = {
    }
     kanevskaya = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -56452,7 +56452,7 @@ locations = {
    }
     starominskaya = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -56460,7 +56460,7 @@ locations = {
    }
     yegorlykskaya = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -56468,7 +56468,7 @@ locations = {
    }
     semikarakorsk = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -56508,7 +56508,7 @@ locations = {
    }
     yundin = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57628,7 +57628,7 @@ locations = {
    }
     gorodovikovsk = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57636,7 +57636,7 @@ locations = {
    }
     raguli = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57676,7 +57676,7 @@ locations = {
    }
     novopavlovsk = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57684,7 +57684,7 @@ locations = {
    }
     yessentuq = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57692,7 +57692,7 @@ locations = {
    }
     alexandrovskoye = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57700,7 +57700,7 @@ locations = {
    }
     blagodarnoye = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57708,7 +57708,7 @@ locations = {
    }
     novoselitskoye = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57716,7 +57716,7 @@ locations = {
    }
     naurskaya = {
       define_pop = {
-         culture = astrakhani
+         culture = nakh_culture
          religion = tengri
          size = 1.000
          type = peasants
@@ -57724,7 +57724,7 @@ locations = {
    }
     kara_bazaar = {
       define_pop = {
-         culture = astrakhani
+         culture = nogai
          religion = tengri
          size = 1.000
          type = peasants
@@ -57732,7 +57732,7 @@ locations = {
    }
     terekli_mekteb = {
       define_pop = {
-         culture = astrakhani
+         culture = nogai
          religion = tengri
          size = 1.000
          type = peasants
@@ -57756,7 +57756,7 @@ locations = {
    }
     taman = {
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = orthodox
          size = 1.000
          type = peasants
@@ -57764,7 +57764,7 @@ locations = {
    }
     mapa = {
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = orthodox
          size = 1.000
          type = peasants
@@ -57772,7 +57772,7 @@ locations = {
    }
     susaco = {
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = orthodox
          size = 1.000
          type = peasants
@@ -57780,7 +57780,7 @@ locations = {
    }
     shanjir = {
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = khabzeism
          size = 1.000
          type = peasants
@@ -57788,7 +57788,7 @@ locations = {
    }
     copa = {
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = orthodox
          size = 1.000
          type = peasants
@@ -57796,7 +57796,7 @@ locations = {
    }
     siba_circassia = {
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = khabzeism
          size = 1.000
          type = peasants
@@ -57804,7 +57804,7 @@ locations = {
    }
     tuapse = {
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = orthodox
          size = 1.000
          type = peasants
@@ -57812,7 +57812,7 @@ locations = {
    }
     costa = {
       define_pop = {
-         culture = abazin_culture
+         culture = muscovite
          religion = orthodox
          size = 1.000
          type = peasants
@@ -57820,7 +57820,7 @@ locations = {
    }
     khadyzhi = {
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = khabzeism
          size = 1.000
          type = peasants
@@ -57828,7 +57828,7 @@ locations = {
    }
     maykop = {
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = khabzeism
          size = 1.000
          type = peasants
@@ -57836,7 +57836,7 @@ locations = {
    }
     kuzhyb = {
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = khabzeism
          size = 1.000
          type = peasants
@@ -57844,7 +57844,7 @@ locations = {
    }
     akhtar = {
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = khabzeism
          size = 1.000
          type = peasants
@@ -57852,7 +57852,7 @@ locations = {
    }
     kalininskaya = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57860,7 +57860,7 @@ locations = {
    }
     bryukhovetskaya = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57868,7 +57868,7 @@ locations = {
    }
     bzhedygu_kal = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57876,7 +57876,7 @@ locations = {
    }
     ust_labinsk = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57884,7 +57884,7 @@ locations = {
    }
     pavlovskaya = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57892,7 +57892,7 @@ locations = {
    }
     tbilisskaya = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57900,7 +57900,7 @@ locations = {
    }
     romanovsky_khutor = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57908,7 +57908,7 @@ locations = {
    }
     chatyun = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57916,7 +57916,7 @@ locations = {
    }
     armavir = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57924,7 +57924,7 @@ locations = {
    }
     shkhancheriekhabl = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57932,7 +57932,7 @@ locations = {
    }
     belorechensk = {
       define_pop = {
-         culture = crimean
+         culture = abazin_culture
          religion = tengri
          size = 1.000
          type = peasants
@@ -57940,7 +57940,7 @@ locations = {
    }
     adyukh = {
       define_pop = {
-         culture = crimean
+         culture = abazin_culture
          religion = tengri
          size = 1.000
          type = peasants
@@ -57948,7 +57948,7 @@ locations = {
    }
     stavropol = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57956,7 +57956,7 @@ locations = {
    }
     grigoropolisskaya = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57964,7 +57964,7 @@ locations = {
    }
     uspenskoye = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57972,7 +57972,7 @@ locations = {
    }
     shad_kirman = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57980,7 +57980,7 @@ locations = {
    }
     petrovskoye_pontic = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57988,7 +57988,7 @@ locations = {
    }
     privolnoye = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -57996,7 +57996,7 @@ locations = {
    }
     belaya_glina = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -58004,7 +58004,7 @@ locations = {
    }
     peschanokopskoye = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -58012,7 +58012,7 @@ locations = {
    }
     novo_alexandrovskoye = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -58020,7 +58020,7 @@ locations = {
    }
     bezopasnoye = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -58028,7 +58028,7 @@ locations = {
    }
     ipatovo = {
       define_pop = {
-         culture = crimean
+         culture = muscovite
          religion = tengri
          size = 1.000
          type = peasants
@@ -81762,7 +81762,7 @@ locations = {
          type = peasants
       }
       define_pop = {
-         culture = circassian_culture
+         culture = muscovite
          religion = orthodox
          size = 2.684
          type = slaves
