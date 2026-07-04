@@ -605,7 +605,7 @@
 				dummy_province_lakes1 = {
 					lake_nasser toshka_lakes lake_rosa_inagua_island lake_azuei lake_enriquillo porto_primavera_reservoir kariba_reservoir cahora_bassa_reservoir rosana_reservoir taquarucu_reservoir capivara_reservoir canoas_reservoirs chavantes_reservoir jurumirim_reservoir billings_reservoir ponte_nova_reservoir paraibuna_reservoir jaguari_river_reservoir jacarei_reservoir atibanha_reservoir
 					barra_bonita_reservoir mario_lopes_leao_reservoir bariri_reservoir nova_avanhandava_reservoir tres_irmaos_reservoir jupia_reservoir ilha_solteira_reservoir agua_vermelha_reservoir marimbondo_reservoir porto_colombia_reservoir igarapava_reservoir jaguara_and_estreito_reservoirs peixoto_reservoir furnas_reservoir funil_and_camargos_reservoirs sao_simao_reservoir cachoeira_dourada_reservoir itumbiara_reservoir emborcacao_reservoir nova_ponte_reservoir
-					tres_marias_reservoir lake42 lake43 lake44 lake45 lake46 lake47 lake48 lake49 lake50 lake51 lake52 lake53 lake54 lake55 lake56 lake57 lake58 lake59 lake60
+					tres_marias_reservoir araruama_lagoon lake43 lake44 lake45 lake46 lake47 lake48 lake49 lake50 lake51 lake52 lake53 lake54 lake55 lake56 lake57 lake58 lake59 lake60
 					lake61 lake62 lake63 lake64 lake65 lake66 lake67 lake68 lake69 lake70 lake71 lake72 lake73 lake74 lake75 lake76 lake77 lake78 lake79 lake80
 					lake81 lake82 lake83 lake84 lake85 lake86 lake87 lake88 lake89 lake90 lake91 lake92 lake93 lake94 lake95 lake96 lake97 lake98 lake99 lake100
 					lake101 lake102 lake103 lake104 lake105 lake106 lake107 lake108 lake109 lake110 lake111 lake112 lake113 lake114 lake115 lake116 lake117 lake118 lake119 lake120

@@ -39748,7 +39748,7 @@ itumbiara_reservoir = { topography = lakes climate = arctic}
 emborcacao_reservoir = { topography = lakes climate = arctic}
 nova_ponte_reservoir = { topography = lakes climate = arctic}
 tres_marias_reservoir = { topography = lakes climate = arctic}
-lake42 = { topography = lakes climate = arctic}
+araruama_lagoon = { topography = lakes climate = arctic}
 lake43 = { topography = lakes climate = arctic}
 lake44 = { topography = lakes climate = arctic}
 lake45 = { topography = lakes climate = arctic}
