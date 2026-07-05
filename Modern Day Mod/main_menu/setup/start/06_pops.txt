@@ -19307,7 +19307,7 @@ locations = {
     bunol = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20099,7 +20099,7 @@ locations = {
     granada = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20107,7 +20107,7 @@ locations = {
     baza = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20115,7 +20115,7 @@ locations = {
     almeria = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20123,7 +20123,7 @@ locations = {
     orgiva = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20131,7 +20131,7 @@ locations = {
     almunecar = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20139,7 +20139,7 @@ locations = {
     ronda = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20147,7 +20147,7 @@ locations = {
     marbella = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20155,7 +20155,7 @@ locations = {
     adra = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20163,7 +20163,7 @@ locations = {
     mojacar = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20171,7 +20171,7 @@ locations = {
     almanzora = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20179,7 +20179,7 @@ locations = {
     guadix = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20195,7 +20195,7 @@ locations = {
     loja = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20203,7 +20203,7 @@ locations = {
     malaga = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20211,7 +20211,7 @@ locations = {
     velez_malaga = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20219,7 +20219,7 @@ locations = {
     pinar = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20227,7 +20227,7 @@ locations = {
     illora = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20291,7 +20291,7 @@ locations = {
     antequera = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -20331,7 +20331,7 @@ locations = {
     algeciras = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -21419,7 +21419,7 @@ locations = {
     huescar = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -21427,7 +21427,7 @@ locations = {
     velez_rubio = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
@@ -21435,7 +21435,7 @@ locations = {
     gergal = {
       define_pop = {
          culture = mdm_spanish_culture
-         religion = sunni
+         religion = catholic
          size = 1.000
          type = peasants
       }
