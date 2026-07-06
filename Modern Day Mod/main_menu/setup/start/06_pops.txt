@@ -58436,16 +58436,16 @@ locations = {
    }
     kirs = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     afanasyevo = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58460,8 +58460,8 @@ locations = {
    }
     belozerye = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58492,8 +58492,8 @@ locations = {
    }
     oparino = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58892,8 +58892,8 @@ locations = {
    }
     nytva = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58908,8 +58908,8 @@ locations = {
    }
     chyormoz = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58956,56 +58956,56 @@ locations = {
    }
     usolye = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     yusva = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     kelich = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     kosa_perm = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     gayny = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     perm = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     kungur = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -59036,16 +59036,16 @@ locations = {
    }
     beryozovka = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     lysva = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -59060,32 +59060,32 @@ locations = {
    }
     kizel = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     gubakha = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     dobryanka = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     solikamsk = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -59220,24 +59220,24 @@ locations = {
    }
     kortkeros = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     ust_vym = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     zheshart = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -59268,56 +59268,56 @@ locations = {
    }
     lalsk = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     podosinovets = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     obyachevo = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     koygorodok = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     vizinga = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     cherdyn = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     lupya = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -59332,16 +59332,16 @@ locations = {
    }
     chernaya = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     nyrob = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -59356,32 +59356,32 @@ locations = {
    }
     pechora = {
       define_pop = {
-         culture = nenets_culture
-         religion = samoyedic_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     usa_reka = {
       define_pop = {
-         culture = nenets_culture
-         religion = samoyedic_paganism
+         culture = komi
+         religion = komi_paganism
          size = 1.000
          type = peasants
       }
    }
     izhma = {
       define_pop = {
-         culture = nenets_culture
-         religion = samoyedic_paganism
+         culture = komi
+         religion = komi_paganism
          size = 1.000
          type = peasants
       }
    }
     ust_tsilma = {
       define_pop = {
-         culture = nenets_culture
-         religion = samoyedic_paganism
+         culture = komi
+         religion = komi_paganism
          size = 1.000
          type = peasants
       }
@@ -59396,24 +59396,24 @@ locations = {
    }
     vukyl = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     troitsko_pechorsk = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     ukhta = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -60740,8 +60740,8 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 0.294
          type = tribesmen
       }
@@ -60824,8 +60824,8 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 0.167
          type = tribesmen
       }
@@ -60852,8 +60852,8 @@ locations = {
          type = tribesmen
       }
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = muscovite
+         religion = orthodox
          size = 0.104
          type = tribesmen
       }
@@ -66160,16 +66160,16 @@ locations = {
    }
     koptyuga = {
       define_pop = {
-         culture = muscovite
-         religion = catholic
+         culture = komi
+         religion = komi_paganism
          size = 1.000
          type = peasants
       }
    }
     chirki = {
       define_pop = {
-         culture = muscovite
-         religion = catholic
+         culture = komi
+         religion = komi_paganism
          size = 1.000
          type = peasants
       }
