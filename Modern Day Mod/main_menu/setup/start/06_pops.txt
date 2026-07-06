@@ -56476,32 +56476,32 @@ locations = {
    }
     bol_shaya_martynovka = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     cheplak = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     bolshoy_gashun = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     dubovskoye = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -56516,32 +56516,32 @@ locations = {
    }
     ust_tsimla = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     konstantinovsk = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     tatsinskaya = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     tormosin = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -56588,24 +56588,24 @@ locations = {
    }
     kremenskaya = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     kletskaya = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     ust_medveditskaya = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -56620,8 +56620,8 @@ locations = {
    }
     nizhny_chir = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -56828,24 +56828,24 @@ locations = {
    }
     zimnyatsky = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     malodelskaya = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     ilovlya = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -56964,56 +56964,56 @@ locations = {
    }
     mechet = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     stepanevka = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     sarai_al_jadid = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     beljamen = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     zenzevatka = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     nagavskaya = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     aksay = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57052,88 +57052,88 @@ locations = {
    }
     rudnya_pontic = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     danilovka = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     kotovo = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     kamyshin = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     goly_karamysh = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     pologoye_zaymishche = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     srednyaya_akhtuba = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     bykovo = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     elton = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     zolotari = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     berezhnovka = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57244,39 +57244,39 @@ locations = {
    }
     astrakhan = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     khosheutovo = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = kazani
+         religion = sunni
          size = 1.000
          type = peasants
       }
    }
     krasny_yar = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = kazani
+         religion = sunni
          size = 1.000
          type = peasants
       }
    }
     ganyushkino = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = kazani
+         religion = sunni
          size = 1.000
          type = peasants
       }
    }
     zamyany = {
       define_pop = {
-         culture = astrakhani
+         culture = kazani
          religion = sunni
          size = 1.000
          type = peasants
@@ -57284,8 +57284,8 @@ locations = {
    }
     yenotayevka = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57293,7 +57293,7 @@ locations = {
     sapara = {
       define_pop = {
          culture = astrakhani
-         religion = tengri
+         religion = tibetan_buddhism
          size = 1.000
          type = peasants
       }
@@ -57301,23 +57301,23 @@ locations = {
     chernyye_zemli = {
       define_pop = {
          culture = astrakhani
-         religion = tengri
+         religion = tibetan_buddhism
          size = 1.000
          type = peasants
       }
    }
     ikryanoye = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     chyorny_yar = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57325,7 +57325,7 @@ locations = {
     nikolskoye_pontic = {
       define_pop = {
          culture = astrakhani
-         religion = tengri
+         religion = tibetan_buddhism
          size = 1.000
          type = peasants
       }
@@ -57333,15 +57333,15 @@ locations = {
     malye_derbety = {
       define_pop = {
          culture = astrakhani
-         religion = tengri
+         religion = tibetan_buddhism
          size = 1.000
          type = peasants
       }
    }
     sadovoye_kalmykia = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57349,39 +57349,39 @@ locations = {
     ded_khulsun = {
       define_pop = {
          culture = astrakhani
-         religion = tengri
+         religion = tibetan_buddhism
          size = 1.000
          type = peasants
       }
    }
     zavetnoye = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     bolkhuny = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     mikhaylovka_pontic = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     rechnoye = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57436,16 +57436,16 @@ locations = {
    }
     savinka = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     rovnoye = {
       define_pop = {
-         culture = astrakhani
-         religion = sunni
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57565,7 +57565,7 @@ locations = {
     dardeling = {
       define_pop = {
          culture = astrakhani
-         religion = tengri
+         religion = tibetan_buddhism
          size = 1.000
          type = peasants
       }
@@ -57573,7 +57573,7 @@ locations = {
     mekletin = {
       define_pop = {
          culture = astrakhani
-         religion = tengri
+         religion = tibetan_buddhism
          size = 1.000
          type = peasants
       }
@@ -57581,7 +57581,7 @@ locations = {
     kok_usn = {
       define_pop = {
          culture = astrakhani
-         religion = tengri
+         religion = tibetan_buddhism
          size = 1.000
          type = peasants
       }
@@ -57589,7 +57589,7 @@ locations = {
     yashkul = {
       define_pop = {
          culture = astrakhani
-         religion = tengri
+         religion = tibetan_buddhism
          size = 1.000
          type = peasants
       }
@@ -57597,7 +57597,7 @@ locations = {
     iki_burul = {
       define_pop = {
          culture = astrakhani
-         religion = tengri
+         religion = tibetan_buddhism
          size = 1.000
          type = peasants
       }
@@ -57605,7 +57605,7 @@ locations = {
     priyutnoye = {
       define_pop = {
          culture = astrakhani
-         religion = tengri
+         religion = tibetan_buddhism
          size = 1.000
          type = peasants
       }
@@ -57613,15 +57613,15 @@ locations = {
     elista = {
       define_pop = {
          culture = astrakhani
-         religion = tengri
+         religion = tibetan_buddhism
          size = 1.000
          type = peasants
       }
    }
     remontnoye = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57660,16 +57660,16 @@ locations = {
    }
     arzgir = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     levokumskoye = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -57748,8 +57748,8 @@ locations = {
    }
     kamysh_burun = {
       define_pop = {
-         culture = astrakhani
-         religion = tengri
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
