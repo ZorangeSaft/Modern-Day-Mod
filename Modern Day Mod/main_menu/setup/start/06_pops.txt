@@ -58236,16 +58236,16 @@ locations = {
    }
     urzhum = {
       define_pop = {
-         culture = muscovite
-         religion = orthodox
+         culture = mari_culture
+         religion = mari_paganism
          size = 1.000
          type = peasants
       }
    }
     sarapul = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58260,8 +58260,8 @@ locations = {
    }
     yelabuga = {
       define_pop = {
-         culture = muscovite
-         religion = orthodox
+         culture = udmurt
+         religion = udmurt_paganism
          size = 1.000
          type = peasants
       }
@@ -58284,8 +58284,8 @@ locations = {
    }
     vyatskiye_polyany = {
       define_pop = {
-         culture = muscovite
-         religion = orthodox
+         culture = udmurt
+         religion = udmurt_paganism
          size = 1.000
          type = peasants
       }
@@ -58300,24 +58300,24 @@ locations = {
    }
     stelty = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     falenki = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     uni = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58332,32 +58332,32 @@ locations = {
    }
     igra = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     dondykar = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     yakshur_bodya = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     votkings = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58372,8 +58372,8 @@ locations = {
    }
     ust_cheptsa = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58404,32 +58404,32 @@ locations = {
    }
     omutninsk = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     nagorsk = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     kholunitsky = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     kobra = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58452,8 +58452,8 @@ locations = {
    }
     orlov = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58476,8 +58476,8 @@ locations = {
    }
     slobodskoy = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58876,8 +58876,8 @@ locations = {
    }
     karagay = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58900,8 +58900,8 @@ locations = {
    }
     kudymkar = {
       define_pop = {
-         culture = komi
-         religion = komi_paganism
+         culture = udmurt
+         religion = udmurt_paganism
          size = 1.000
          type = peasants
       }
@@ -58924,16 +58924,16 @@ locations = {
    }
     okhannoye = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
    }
     chastye = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -58948,8 +58948,8 @@ locations = {
    }
     stepanenki = {
       define_pop = {
-         culture = udmurt
-         religion = udmurt_paganism
+         culture = muscovite
+         religion = orthodox
          size = 1.000
          type = peasants
       }
@@ -66840,7 +66840,7 @@ locations = {
    }
     uhtuo = {
       define_pop = {
-         culture = muscovite
+         culture = karelian
          religion = catholic
          size = 1.000
          type = peasants
