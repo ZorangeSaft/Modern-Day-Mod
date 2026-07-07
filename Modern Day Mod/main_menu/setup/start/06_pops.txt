@@ -33262,28 +33262,10 @@ locations = {
    }
     ghadames = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 0.006
-         type = clergy
-      }
-      define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.199
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 1.136
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sao_culture
-         religion = sao_religion
-         size = 0.073
-         type = slaves
       }
    }
     abalessa = {
@@ -33336,22 +33318,10 @@ locations = {
    }
     madas = {
       define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 0.012
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 3.571
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 6.632
-         type = tribesmen
       }
    }
     touggourt = {
@@ -33684,35 +33654,17 @@ locations = {
    }
     tabarka = {
       define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 0.063
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 10.632
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 1.877
-         type = tribesmen
       }
    }
     sejnane = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.004
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 16.646
+         size = 1.000
          type = peasants
       }
    }
@@ -33720,13 +33672,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.006
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 22.978
+         size = 1.000
          type = peasants
       }
    }
@@ -33734,187 +33680,79 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 24.885
+         size = 1.000
          type = peasants
       }
    }
     feriana = {
       define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 0.011
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 12.976
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 24.098
-         type = tribesmen
       }
    }
     souk_el_arba = {
       define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 23.853
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 4.209
-         type = tribesmen
       }
    }
     el_kef = {
       define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 0.012
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 9.317
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 17.303
-         type = tribesmen
       }
    }
     kesra = {
       define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 17.617
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 3.108
-         type = tribesmen
       }
    }
     thala = {
       define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 0.010
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 6.404
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 11.894
-         type = tribesmen
       }
    }
     kasserine = {
       define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 0.012
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 5.824
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 10.819
-         type = tribesmen
       }
    }
     subaytila = {
       define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 0.013
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 21.306
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 11.471
-         type = tribesmen
       }
    }
     sbiba = {
       define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 0.013
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 17.832
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 9.601
-         type = tribesmen
       }
    }
     kairouan = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 36.488
+         size = 1.000
          type = peasants
       }
    }
@@ -33922,13 +33760,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.006
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 15.603
+         size = 1.000
          type = peasants
       }
    }
@@ -33936,13 +33768,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.003
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 24.574
+         size = 1.000
          type = peasants
       }
    }
@@ -33950,13 +33776,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.006
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 36.624
+         size = 1.000
          type = peasants
       }
    }
@@ -33964,13 +33784,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 26.516
+         size = 1.000
          type = peasants
       }
    }
@@ -33978,57 +33792,15 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.022
-         type = nobles
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 0.110
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 1.628
-         type = burghers
-      }
-      define_pop = {
-         culture = mustaarabi
-         religion = judaism
-         size = 0.185
-         type = burghers
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 27.848
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = tunisian
-         religion = catholic
-         size = 2.165
-         type = peasants
-      }
-      define_pop = {
-         culture = mustaarabi
-         religion = judaism
-         size = 0.928
-         type = slaves
       }
    }
     nabeul = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 24.404
+         size = 1.000
          type = peasants
       }
    }
@@ -34036,13 +33808,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 24.818
+         size = 1.000
          type = peasants
       }
    }
@@ -34050,13 +33816,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.021
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 14.207
+         size = 1.000
          type = peasants
       }
    }
@@ -34064,13 +33824,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 27.880
+         size = 1.000
          type = peasants
       }
    }
@@ -34078,13 +33832,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.021
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 43.660
+         size = 1.000
          type = peasants
       }
    }
@@ -34092,99 +33840,39 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 5.583
+         size = 1.000
          type = peasants
       }
    }
     gafsa = {
       define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 7.812
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = chaoui
-         religion = sunni
-         size = 4.206
-         type = tribesmen
       }
    }
     tozeur = {
       define_pop = {
-         culture = mozabite
-         religion = sunni
-         size = 0.019
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 5.175
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = mozabite
-         religion = ibadi
-         size = 8.136
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mozabite
-         religion = catholic
-         size = 1.478
-         type = tribesmen
       }
    }
     kebili = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 7.955
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = catholic
-         size = 1.325
-         type = tribesmen
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 3.977
-         type = tribesmen
       }
    }
     mahres = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 24.124
+         size = 1.000
          type = peasants
       }
    }
@@ -34192,13 +33880,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 24.454
+         size = 1.000
          type = peasants
       }
    }
@@ -34206,93 +33888,39 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 6.049
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 7.393
-         type = tribesmen
       }
    }
     ajim = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 1.383
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 2.371
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mustaarabi
-         religion = judaism
-         size = 0.197
-         type = slaves
       }
    }
     monastir = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.003
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 11.420
+         size = 1.000
          type = peasants
       }
    }
     gabes = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = sunni
-         size = 0.022
-         type = clergy
-      }
-      define_pop = {
          culture = tunisian
          religion = sunni
-         size = 19.662
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = sunni
-         size = 3.468
-         type = tribesmen
       }
    }
     el_jem = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.006
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 15.244
+         size = 1.000
          type = peasants
       }
    }
@@ -34300,125 +33928,47 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 4.188
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 2.792
-         type = tribesmen
       }
    }
     mahdia = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.008
-         type = nobles
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 0.073
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 1.114
-         type = burghers
-      }
-      define_pop = {
-         culture = mustaarabi
-         religion = judaism
-         size = 0.125
-         type = burghers
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 13.391
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = mustaarabi
-         religion = judaism
-         size = 0.413
-         type = slaves
       }
    }
     zarzis = {
       define_pop = {
-         culture = libyan_arabic_culture
+         culture = tunisian
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 6.608
-         type = tribesmen
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 4.405
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     sidi_fredj = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.006
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 2.404
+         size = 1.000
          type = peasants
       }
    }
     tataouine = {
       define_pop = {
-         culture = libyan_arabic_culture
+         culture = tunisian
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 9.182
-         type = tribesmen
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 6.121
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     sfaqes = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 0.033
-         type = clergy
-      }
-      define_pop = {
-         culture = tunisian
-         religion = sunni
-         size = 22.013
+         size = 1.000
          type = peasants
       }
    }
@@ -34910,7 +34460,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 8.966
+         size = 1.000
          type = peasants
       }
    }
@@ -34918,7 +34468,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 12.500
+         size = 1.000
          type = peasants
       }
    }
@@ -34926,7 +34476,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 10.949
+         size = 1.000
          type = peasants
       }
    }
@@ -34934,71 +34484,47 @@ locations = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.002
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 5.887
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 0.727
-         type = tribesmen
       }
    }
     tarhuna = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = sunni
-         size = 0.002
-         type = clergy
-      }
-      define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 7.269
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 0.897
-         type = tribesmen
       }
    }
     jadu = {
       define_pop = {
-         culture = eastern_amazigh
+         culture = libyan_arabic_culture
          religion = sunni
-         size = 6.339
+         size = 1.000
          type = peasants
       }
    }
     zintan = {
       define_pop = {
-         culture = eastern_amazigh
+         culture = libyan_arabic_culture
          religion = sunni
-         size = 5.728
+         size = 1.000
          type = peasants
       }
    }
     yafran = {
       define_pop = {
-         culture = eastern_amazigh
+         culture = libyan_arabic_culture
          religion = sunni
-         size = 6.122
+         size = 1.000
          type = peasants
       }
    }
     ras_lanuf = {
       define_pop = {
-         culture = eastern_amazigh
+         culture = libyan_arabic_culture
          religion = sunni
-         size = 9.954
+         size = 1.000
          type = peasants
       }
    }
@@ -35006,15 +34532,15 @@ locations = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 18.181
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     el_agheila = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 11.192
+         size = 1.000
          type = peasants
       }
    }
@@ -35094,7 +34620,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 10.460
+         size = 1.000
          type = peasants
       }
    }
@@ -35226,15 +34752,15 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 4.977
+         size = 1.000
          type = peasants
       }
    }
     chenini = {
       define_pop = {
-         culture = eastern_amazigh
+         culture = tunisian
          religion = sunni
-         size = 9.457
+         size = 1.000
          type = peasants
       }
    }
@@ -35242,7 +34768,7 @@ locations = {
       define_pop = {
          culture = tunisian
          religion = sunni
-         size = 6.968
+         size = 1.000
          type = peasants
       }
    }
@@ -35374,9 +34900,9 @@ locations = {
    }
     sinawin = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 1.485
+         culture = libyan_arabic_culture
+         religion = sunni
+         size = 1.000
          type = peasants
       }
    }
@@ -35384,237 +34910,87 @@ locations = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 17.567
-         type = tribesmen
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 4.391
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     nalut = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 1.908
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 10.815
-         type = tribesmen
       }
    }
     zawiya = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 14.633
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 1.808
-         type = tribesmen
       }
    }
     ghariyan = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 2.226
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 12.619
-         type = tribesmen
       }
    }
     tripoli = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.020
-         type = nobles
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 0.083
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 1.426
-         type = burghers
-      }
-      define_pop = {
-         culture = mustaarabi
-         religion = judaism
-         size = 0.158
-         type = burghers
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 16.075
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = mustaarabi
-         religion = judaism
-         size = 0.327
-         type = slaves
       }
    }
     al_khums = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = sunni
-         size = 0.004
-         type = clergy
-      }
-      define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 15.756
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 2.780
-         type = tribesmen
       }
    }
     mizda = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = sunni
-         size = 0.017
-         type = clergy
-      }
-      define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 11.916
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 7.942
-         type = tribesmen
       }
    }
     bani_walid = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = sunni
-         size = 0.012
-         type = clergy
-      }
-      define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 24.015
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 2.966
-         type = tribesmen
       }
    }
     zliten = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.016
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 21.852
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 2.700
-         type = tribesmen
       }
    }
     misratah = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.006
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 11.385
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 1.406
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sao_culture
-         religion = sao_religion
-         size = 0.703
-         type = slaves
       }
    }
     sirte = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.014
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 21.238
+         size = 1.000
          type = peasants
       }
    }
@@ -35622,13 +34998,7 @@ locations = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 12.917
+         size = 1.000
          type = peasants
       }
    }
@@ -35636,146 +35006,56 @@ locations = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.011
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 19.624
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sao_culture
-         religion = sao_religion
-         size = 1.576
-         type = slaves
-      }
-      define_pop = {
-         culture = coptic_culture
-         religion = miaphysite
-         size = 4.088
-         type = slaves
       }
    }
     barca = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.010
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 14.248
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = coptic_culture
-         religion = miaphysite
-         size = 1.408
-         type = slaves
       }
    }
     msus = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.003
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 9.423
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = coptic_culture
-         religion = miaphysite
-         size = 0.588
-         type = slaves
       }
    }
     mechili = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.004
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 11.956
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = coptic_culture
-         religion = miaphysite
-         size = 0.626
-         type = slaves
       }
    }
     al_bayda = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.011
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 14.214
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = coptic_culture
-         religion = miaphysite
-         size = 0.747
-         type = slaves
       }
    }
     derna = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.013
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 14.477
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = coptic_culture
-         religion = miaphysite
-         size = 0.760
-         type = slaves
       }
    }
     tobruk = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.027
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 24.413
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = coptic_culture
-         religion = miaphysite
-         size = 2.081
-         type = slaves
       }
    }
     sallum = {
@@ -35836,231 +35116,87 @@ locations = {
       define_pop = {
          culture = tuareg
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = toubou_culture
-         religion = sunni
-         size = 0.008
-         type = tribesmen
-      }
-      define_pop = {
-         culture = tuareg
-         religion = sunni
-         size = 1.422
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     ubari = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 2.492
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 4.628
-         type = tribesmen
       }
    }
     murzuk = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.006
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 3.698
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 2.465
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sao_culture
-         religion = sao_religion
-         size = 0.339
-         type = slaves
       }
    }
     sabha = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.007
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 4.091
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 2.727
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sao_culture
-         religion = sao_religion
-         size = 0.375
-         type = slaves
       }
    }
     brak = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 0.819
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 0.545
-         type = tribesmen
       }
    }
     zawila = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 1.896
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 3.522
-         type = tribesmen
       }
    }
     sokna = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 1.177
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 2.187
-         type = tribesmen
       }
    }
     zella = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 2.092
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 1.395
-         type = tribesmen
       }
    }
     maradah = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 0.014
-         type = clergy
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 2.675
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 1.783
-         type = tribesmen
       }
    }
     awjila = {
       define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 0.011
-         type = clergy
-      }
-      define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 1.720
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = eastern_amazigh
-         religion = ibadi
-         size = 9.746
-         type = tribesmen
       }
    }
     al_jawf = {
       define_pop = {
          culture = toubou_culture
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = toubou_culture
-         religion = sunni
-         size = 1.389
-         type = peasants
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 0.244
+         size = 1.000
          type = peasants
       }
    }
@@ -36068,19 +35204,7 @@ locations = {
       define_pop = {
          culture = toubou_culture
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = toubou_culture
-         religion = sunni
-         size = 1.647
-         type = peasants
-      }
-      define_pop = {
-         culture = libyan_arabic_culture
-         religion = sunni
-         size = 0.290
+         size = 1.000
          type = peasants
       }
    }
@@ -37620,56 +36744,32 @@ locations = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 11.784
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = coptic_culture
-         religion = miaphysite
-         size = 1.934
-         type = slaves
       }
    }
     tmimi = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 19.713
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = coptic_culture
-         religion = miaphysite
-         size = 0.307
-         type = slaves
       }
    }
     al_khuimat = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 7.402
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = coptic_culture
-         religion = miaphysite
-         size = 0.073
-         type = slaves
       }
    }
     suluntah = {
       define_pop = {
          culture = libyan_arabic_culture
          religion = sunni
-         size = 6.148
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = coptic_culture
-         religion = miaphysite
-         size = 0.076
-         type = slaves
       }
    }
     el_alamein = {
@@ -48286,8 +47386,8 @@ locations = {
       define_pop = {
          culture = toubou_culture
          religion = sunni
-         size = 2.742
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     rano = {
