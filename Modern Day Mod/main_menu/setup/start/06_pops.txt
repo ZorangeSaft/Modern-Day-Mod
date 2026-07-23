@@ -30250,1442 +30250,530 @@ locations = {
    }
     tangier = {
       define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 0.002
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 2.994
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 6.988
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 0.599
-         type = slaves
       }
    }
     asilah = {
       define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 0.010
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 7.302
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 17.039
-         type = tribesmen
       }
    }
     larache = {
       define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 0.050
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 17.550
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 21.450
-         type = tribesmen
       }
    }
     basra_al_hamra = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 5.937
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 4.452
-         type = tribesmen
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 19.298
-         type = tribesmen
       }
    }
     tazroute = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 22.323
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 3.938
-         type = tribesmen
       }
    }
     tetouan = {
       define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 0.111
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 4.333
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 15.177
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 2.166
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sephardi
-         religion = judaism
-         size = 0.444
-         type = slaves
       }
    }
     tizgane = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.013
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 18.749
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sephardi
-         religion = judaism
-         size = 0.400
-         type = slaves
+         size = 1.000
+         type = peasants
       }
    }
     ksar_el_kebir = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 2.660
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 1.063
-         type = tribesmen
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 6.918
-         type = tribesmen
       }
    }
     ouezzane = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.013
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 15.644
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 15.644
-         type = tribesmen
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 7.821
-         type = tribesmen
       }
    }
     taunat = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.028
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 8.400
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 18.902
-         type = tribesmen
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 14.702
-         type = tribesmen
       }
    }
     amergo = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 7.668
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 17.253
-         type = tribesmen
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 13.419
-         type = tribesmen
       }
    }
     badis = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.024
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 16.556
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 11.039
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     temsamane = {
       define_pop = {
-         culture = zenati
+         culture = moroccan
          religion = sunni
-         size = 0.031
-         type = clergy
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 16.965
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 13.878
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     ghassasa = {
       define_pop = {
-         culture = zenati
+         culture = moroccan
          religion = sunni
-         size = 0.017
-         type = clergy
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 28.310
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 9.435
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     fez = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.013
-         type = nobles
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 0.100
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 1.619
-         type = burghers
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 40.853
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 24.511
-         type = tribesmen
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 16.340
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 6.675
-         type = slaves
       }
    }
     la_mamora = {
       define_pop = {
-         culture = moroccan
+         culture = eastern_amazigh
          religion = sunni
-         size = 0.066
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 10.913
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 1.926
-         type = tribesmen
       }
    }
     meknes = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.019
-         type = nobles
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 0.179
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 3.014
-         type = burghers
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 6.738
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 38.187
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 2.647
-         type = slaves
       }
    }
     azrou = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.012
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.841
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 15.993
-         type = tribesmen
       }
    }
     namalata = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.020
-         type = nobles
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 0.020
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 7.668
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 25.564
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 17.896
-         type = tribesmen
       }
    }
     tabarida = {
       define_pop = {
-         culture = zenati
+         culture = moroccan
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 16.228
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     thagia = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 12.760
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 19.140
-         type = tribesmen
       }
    }
     khenifra = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.925
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 17.595
-         type = tribesmen
       }
    }
     sale = {
       define_pop = {
-         culture = sanhaja
+         culture = eastern_amazigh
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 7.584
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 14.086
-         type = tribesmen
       }
    }
     rabat = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.010
-         type = nobles
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 0.099
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 1.658
-         type = burghers
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 8.715
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 13.072
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 1.295
-         type = slaves
       }
    }
     anfa = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 8.530
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 12.797
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 1.173
-         type = slaves
       }
    }
     boulaouane = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.003
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 10.819
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 5.825
-         type = tribesmen
       }
    }
     miatbir = {
       define_pop = {
-         culture = moroccan
+         culture = eastern_amazigh
          religion = sunni
-         size = 0.002
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 10.102
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 1.346
-         type = tribesmen
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 2.020
-         type = tribesmen
       }
    }
     bzou = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 7.255
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 10.883
-         type = tribesmen
       }
    }
     tit = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.011
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 7.678
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 11.520
-         type = tribesmen
       }
    }
     tadla = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 4.305
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 6.458
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 32.293
-         type = tribesmen
       }
    }
     marrakesh = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.002
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 24.979
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 20.438
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 8.232
-         type = slaves
       }
    }
     demnate = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.007
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 2.857
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 4.286
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 21.431
-         type = tribesmen
       }
    }
     aghmat = {
       define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 0.010
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 1.977
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 11.207
-         type = tribesmen
       }
    }
     azemmour = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.015
-         type = nobles
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 0.100
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 2.111
-         type = burghers
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 7.306
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 10.960
-         type = tribesmen
       }
    }
     ameskour = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.006
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 5.472
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 14.228
-         type = tribesmen
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 2.188
-         type = tribesmen
       }
    }
     mazaghan = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.027
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 5.558
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 8.336
-         type = tribesmen
       }
    }
     tezerghe = {
       define_pop = {
-         culture = zenati
+         culture = moroccan
          religion = sunni
-         size = 0.010
-         type = clergy
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 15.207
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     tednest = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.006
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 11.642
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 6.268
-         type = tribesmen
       }
    }
     mogador = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.047
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 14.203
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 2.507
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 0.921
-         type = slaves
       }
    }
     asfi = {
       define_pop = {
-         culture = moroccan
+         culture = eastern_amazigh
          religion = sunni
-         size = 0.025
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 11.095
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 1.957
-         type = tribesmen
       }
    }
     aguz = {
       define_pop = {
-         culture = moroccan
+         culture = eastern_amazigh
          religion = sunni
-         size = 0.045
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 11.518
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 2.031
-         type = tribesmen
       }
    }
     tafedna = {
       define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 0.006
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 3.116
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 17.662
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 1.143
-         type = slaves
       }
    }
     tinmel = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 7.188
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     taroudant = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.010
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 9.478
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 6.318
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 0.869
-         type = slaves
+         size = 1.000
+         type = peasants
       }
    }
     agadir = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 7.412
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 4.941
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 0.679
-         type = slaves
+         size = 1.000
+         type = peasants
       }
    }
     tafraout = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 7.985
-         type = tribesmen
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 3.422
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     tidsi = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.022
-         type = nobles
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 0.083
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 1.769
-         type = burghers
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 13.171
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 4.390
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     igiliz = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 14.273
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     tiout = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 9.520
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     massa_MOR = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.057
-         type = clergy
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 6.473
-         type = tribesmen
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 0.715
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     tamdoult = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 12.663
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 2.234
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     tiznit = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 13.785
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 2.432
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     taznakht = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 3.473
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 19.688
-         type = tribesmen
       }
    }
     assa = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 11.321
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     taghjijt = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.025
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 8.451
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 4.550
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     noul_lamta = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.009
-         type = nobles
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 0.062
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 1.315
-         type = burghers
-      }
-      define_pop = {
-         culture = hassaniya
-         religion = sunni
-         size = 6.783
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 9.690
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 2.906
-         type = tribesmen
       }
    }
     ifni = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.026
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 6.375
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     tantan = {
       define_pop = {
-         culture = hassaniya
+         culture = moroccan
          religion = sunni
-         size = 20.042
-         type = tribesmen
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 3.535
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     laayoune = {
       define_pop = {
-         culture = hassaniya
+         culture = moroccan
          religion = sunni
-         size = 15.723
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     ouarzazate = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 20.615
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     tagmadert = {
       define_pop = {
-         culture = moroccan
+         culture = eastern_amazigh
          religion = sunni
-         size = 0.010
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 11.121
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 1.482
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 2.224
-         type = tribesmen
       }
    }
     bojador = {
       define_pop = {
-         culture = hassaniya
+         culture = moroccan
          religion = sunni
-         size = 8.631
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     dakhla = {
       define_pop = {
-         culture = hassaniya
+         culture = moroccan
          religion = sunni
-         size = 20.539
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     al_kuwayra = {
       define_pop = {
-         culture = hassaniya
+         culture = moroccan
          religion = sunni
-         size = 8.990
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     smara = {
       define_pop = {
-         culture = hassaniya
+         culture = moroccan
          religion = sunni
-         size = 6.510
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     agdez = {
       define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 0.022
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 1.286
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 9.645
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 1.929
-         type = tribesmen
       }
    }
     tindouf = {
@@ -31698,170 +30786,74 @@ locations = {
    }
     er_rich = {
       define_pop = {
-         culture = sanhaja
+         culture = moroccan
          religion = sunni
-         size = 0.010
-         type = clergy
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 10.429
-         type = tribesmen
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 1.840
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     ksar_es_souk = {
       define_pop = {
-         culture = sanhaja
+         culture = moroccan
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 24.322
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     todgha = {
       define_pop = {
-         culture = sanhaja
+         culture = moroccan
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 30.121
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     tazzarine = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 5.754
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 32.612
-         type = tribesmen
       }
    }
     sijilmasa = {
       define_pop = {
-         culture = sanhaja
+         culture = moroccan
          religion = sunni
-         size = 0.036
-         type = nobles
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.173
-         type = clergy
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 2.910
-         type = burghers
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 29.495
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 3.913
-         type = slaves
+         size = 1.000
+         type = peasants
       }
    }
     skoura = {
       define_pop = {
-         culture = masmuda
+         culture = moroccan
          religion = sunni
-         size = 0.018
-         type = clergy
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 8.506
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     boumalne_dades = {
       define_pop = {
-         culture = sanhaja
+         culture = moroccan
          religion = sunni
-         size = 0.025
-         type = clergy
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 20.262
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     terrest = {
       define_pop = {
-         culture = moroccan
+         culture = eastern_amazigh
          religion = sunni
-         size = 0.013
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 9.092
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 9.092
-         type = tribesmen
       }
    }
     beni_sabih = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.033
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 1.294
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 7.348
-         type = tribesmen
       }
    }
     tabelbala = {
@@ -31882,36 +30874,18 @@ locations = {
    }
     sefrou = {
       define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 0.005
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 2.340
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 13.262
-         type = tribesmen
       }
    }
     guercif = {
       define_pop = {
-         culture = zenati
+         culture = moroccan
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 14.214
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     bechar = {
@@ -31932,20 +30906,8 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.010
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 9.669
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 4.143
-         type = tribesmen
       }
    }
     adrar = {
@@ -31966,16 +30928,10 @@ locations = {
    }
     figuig = {
       define_pop = {
-         culture = zenati
+         culture = moroccan
          religion = sunni
-         size = 0.044
-         type = clergy
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 16.675
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     ain_sefra = {
@@ -32036,58 +30992,16 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.017
-         type = nobles
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 0.112
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 2.375
-         type = burghers
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 3.628
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 20.562
-         type = tribesmen
       }
    }
     jerada = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 2.293
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = algerian
-         religion = sunni
-         size = 3.440
-         type = peasants
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 5.734
-         type = tribesmen
       }
    }
     melilla = {
@@ -32106,42 +31020,18 @@ locations = {
    }
     al_mazamma = {
       define_pop = {
-         culture = sanhaja
+         culture = moroccan
          religion = sunni
-         size = 0.024
-         type = clergy
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 10.512
-         type = tribesmen
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 12.846
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     oujda = {
       define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 0.025
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 15.677
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 29.117
-         type = tribesmen
       }
    }
     nedroma = {
@@ -32168,60 +31058,24 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.007
-         type = nobles
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 0.007
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 4.002
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 22.683
-         type = tribesmen
       }
    }
     jarawah_abu_al_aysh = {
       define_pop = {
-         culture = zenati
+         culture = moroccan
          religion = sunni
-         size = 0.010
-         type = clergy
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 12.529
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     taourirt = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.008
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 11.360
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = zenati
-         religion = sunni
-         size = 6.116
-         type = tribesmen
       }
    }
     arshgul = {
@@ -34002,174 +32856,66 @@ locations = {
    }
     naffis = {
       define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 0.004
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 3.126
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 12.510
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 0.860
-         type = slaves
       }
    }
     hanimmei = {
       define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 0.016
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 3.058
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 8.158
-         type = tribesmen
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 9.178
-         type = tribesmen
       }
    }
     tamdegost = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 0.014
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 7.884
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 6.451
-         type = tribesmen
       }
    }
     settat = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.004
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 14.589
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 21.883
-         type = tribesmen
       }
    }
     mrirah = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.004
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 10.573
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 19.637
-         type = tribesmen
       }
    }
     volubilis = {
       define_pop = {
-         culture = moroccan
+         culture = eastern_amazigh
          religion = sunni
-         size = 0.009
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 33.860
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 14.511
-         type = tribesmen
       }
    }
     tefelfelt = {
       define_pop = {
-         culture = sanhaja
+         culture = eastern_amazigh
          religion = sunni
-         size = 0.011
-         type = clergy
-      }
-      define_pop = {
-         culture = moroccan
-         religion = sunni
-         size = 7.732
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 14.360
-         type = tribesmen
       }
    }
     baht = {
       define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 0.011
-         type = clergy
-      }
-      define_pop = {
          culture = moroccan
          religion = sunni
-         size = 5.271
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = sanhaja
-         religion = sunni
-         size = 29.874
-         type = tribesmen
       }
    }
     naama = {
@@ -34368,10 +33114,10 @@ locations = {
    }
     aousserd = {
       define_pop = {
-         culture = hassaniya
+         culture = eastern_amazigh
          religion = sunni
-         size = 8.379
-         type = tribesmen
+         size = 1.000
+         type = peasants
       }
    }
     collo = {
@@ -34586,17 +33332,17 @@ locations = {
    }
     tata_MOR = {
       define_pop = {
-         culture = sanhaja
+         culture = eastern_amazigh
          religion = sunni
-         size = 8.995
+         size = 1.000
          type = peasants
       }
    }
     ait_benhaddou = {
       define_pop = {
-         culture = sanhaja
+         culture = moroccan
          religion = sunni
-         size = 5.501
+         size = 1.000
          type = peasants
       }
    }
@@ -34628,27 +33374,15 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 1.184
+         size = 1.000
          type = peasants
-      }
-      define_pop = {
-         culture = masmuda
-         religion = sunni
-         size = 6.711
-         type = tribesmen
-      }
-      define_pop = {
-         culture = mandinka
-         religion = nyama_religion
-         size = 0.434
-         type = slaves
       }
    }
     bejaad = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 20.000
+         size = 1.000
          type = peasants
       }
    }
@@ -34656,7 +33390,7 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 14.285
+         size = 1.000
          type = peasants
       }
    }
@@ -34792,7 +33526,7 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 11.111
+         size = 1.000
          type = peasants
       }
    }
@@ -34800,15 +33534,15 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 10.000
+         size = 1.000
          type = peasants
       }
    }
     kalaat_sraghna = {
       define_pop = {
-         culture = moroccan
+         culture = eastern_amazigh
          religion = sunni
-         size = 5.994
+         size = 1.000
          type = peasants
       }
    }
@@ -34816,7 +33550,7 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 5.994
+         size = 1.000
          type = peasants
       }
    }
@@ -34824,7 +33558,7 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 12.500
+         size = 1.000
          type = peasants
       }
    }
@@ -34832,7 +33566,7 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 7.998
+         size = 1.000
          type = peasants
       }
    }
@@ -34840,7 +33574,7 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 11.111
+         size = 1.000
          type = peasants
       }
    }
@@ -34848,31 +33582,31 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 5.994
+         size = 1.000
          type = peasants
       }
    }
     tizounine = {
       define_pop = {
-         culture = sanhaja
+         culture = moroccan
          religion = sunni
-         size = 3.998
+         size = 1.000
          type = peasants
       }
    }
     foum_zguid = {
       define_pop = {
-         culture = sanhaja
+         culture = moroccan
          religion = sunni
-         size = 5.497
+         size = 1.000
          type = peasants
       }
    }
     tissint = {
       define_pop = {
-         culture = sanhaja
+         culture = moroccan
          religion = sunni
-         size = 5.000
+         size = 1.000
          type = peasants
       }
    }
@@ -34880,7 +33614,7 @@ locations = {
       define_pop = {
          culture = moroccan
          religion = sunni
-         size = 6.666
+         size = 1.000
          type = peasants
       }
    }
@@ -271646,56 +270380,56 @@ locations = {
     }
     new86 = {
        define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
+          culture = eastern_amazigh
+          religion = sunni
           size = 1
           type = peasants
        }
     }
     new87 = {
        define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
+          culture = eastern_amazigh
+          religion = sunni
           size = 1
           type = peasants
        }
     }
     new88 = {
        define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
+          culture = eastern_amazigh
+          religion = sunni
           size = 1
           type = peasants
        }
     }
     new89 = {
        define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
+          culture = eastern_amazigh
+          religion = sunni
           size = 1
           type = peasants
        }
     }
     new90 = {
        define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
+          culture = eastern_amazigh
+          religion = sunni
           size = 1
           type = peasants
        }
     }
     new91 = {
        define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
+          culture = eastern_amazigh
+          religion = sunni
           size = 1
           type = peasants
        }
     }
     new92 = {
        define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
+          culture = eastern_amazigh
+          religion = sunni
           size = 1
           type = peasants
        }
@@ -318957,173 +317691,173 @@ locations = {
        }
     }
     new6000 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = eastern_amazigh
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6001 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6002 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = eastern_amazigh
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6003 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6004 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = eastern_amazigh
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6005 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6006 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = eastern_amazigh
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6007 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6008 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6009 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = eastern_amazigh
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6010 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6011 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = eastern_amazigh
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6012 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6013 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6014 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6015 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = eastern_amazigh
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6016 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = eastern_amazigh
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6017 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6018 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = eastern_amazigh
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6019 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6020 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = eastern_amazigh
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     new6021 = {
        define_pop = {
           culture = mdm_socal_culture
@@ -359317,141 +358051,141 @@ locations = {
        }
     }
     rif = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     lower_rif = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     western_rif = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     north_middle_atlas = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     south_middle_atlas1 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     south_middle_atlas2 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = eastern_amazigh
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     east_high_atlas = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     anti_atlas1 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     anti_atlas2 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     eastern_anti_atlas = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     western_high_atlas1 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     western_high_atlas2 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     middle_high_atlas = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     eastern_high_atlas1 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     eastern_high_atlas2 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     high_atlas1 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     high_atlas2 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     tellatlas = {
        define_pop = {
           culture = mdm_socal_culture
@@ -359549,45 +358283,45 @@ locations = {
        }
     }
     plain_tamlelt2 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     plain_tamlelt3 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     plain_tamlelt4 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     el_djouf1 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     el_djouf2 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     el_djouf3 = {
        define_pop = {
           culture = mdm_socal_culture
@@ -359605,13 +358339,13 @@ locations = {
        }
     }
     el_djouf5 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     el_eglab_masif1 = {
        define_pop = {
           culture = mdm_socal_culture
@@ -360605,13 +359339,13 @@ locations = {
        }
     }
     erg_amatlich = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = eastern_amazigh
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     erg_aoukar = {
        define_pop = {
           culture = mdm_socal_culture
@@ -371957,13 +370691,13 @@ locations = {
        }
     }
     al_mahbes = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     tamanrasset = {
        define_pop = {
           culture = mdm_socal_culture
@@ -372838,8 +371572,8 @@ locations = {
     }
     sahara_passage_et3 = {
        define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
+          culture = eastern_amazigh
+          religion = sunni
           size = 1
           type = peasants
        }
@@ -373709,21 +372443,21 @@ locations = {
        }
     }
     el_djouf_et3 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     el_djouf_et4 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     el_djouf_et5 = {
        define_pop = {
           culture = mdm_socal_culture
@@ -373773,29 +372507,29 @@ locations = {
        }
     }
     plain_of_tamlelt_et1 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     plain_of_tamlelt_et2 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     el_eglab_massif_et1 = {
-       define_pop = {
-          culture = mdm_socal_culture
-          religion = catholic
-          size = 1
-          type = peasants
-       }
-    }
+      define_pop = {
+         culture = moroccan
+         religion = sunni
+         size = 1.000
+         type = peasants
+      }
+   }
     tenere_et1 = {
        define_pop = {
           culture = mdm_socal_culture
