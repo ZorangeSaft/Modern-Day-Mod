@@ -12921,7 +12921,7 @@ locations = {
    }
     lida = {
       define_pop = {
-         culture = mdm_belarusian_culture
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
@@ -12929,7 +12929,7 @@ locations = {
    }
     astrina = {
       define_pop = {
-         culture = mdm_belarusian_culture
+         culture = mdm_polish_culture
          religion = catholic
          size = 1.000
          type = peasants
