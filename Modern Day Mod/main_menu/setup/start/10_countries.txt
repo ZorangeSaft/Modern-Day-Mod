@@ -19,8 +19,33 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      ABR = {
+         capital = wadadli
+         # government = {ruler = anbr_gaston_browne }
+         country_rank = rank_duchy
+         starting_technology_level = 3
+
+         own_control_core = {
+            wadadli
+         }
+
+         #include = "catholic_monarchy"
+         include = "expl_mdm_whole_world"
+
+         government = {
+            type = republic
+            ruler = random
+          }
+      }
+
+
+      ACAD = {
+         country_rank = rank_county
+       }
 
 
       AFG = {
@@ -52,19 +77,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = afgh_hibatullah_akhundzada
-
-
-
-
-
-
-
-
-
-
-
-
+             # ruler = afgh_hibatullah_akhundzada
          }
       }
 
@@ -87,19 +100,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = alb_bajram_begaj
-
-
-
-
-
-
-
-
-
-
-
-
+             # ruler = alb_bajram_begaj
          }
       }
 
@@ -136,27 +137,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
-      }
-
-
-      ABR = {
-         capital = wadadli
-         # government = {ruler = anbr_gaston_browne }
-         country_rank = rank_duchy
-         starting_technology_level = 3
-
-         own_control_core = {
-            wadadli
-         }
-
-         #include = "catholic_monarchy"
-         include = "expl_mdm_whole_world"
-
-         government = {
-            type = republic
-            ruler = random
-          }
+          }
       }
 
 
@@ -197,7 +178,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -217,8 +198,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      ARAB = {
+         country_rank = rank_county
+       }
 
 
       ARG = {
@@ -258,7 +244,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -279,7 +265,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -299,7 +285,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -356,96 +342,104 @@ countries = {
             meru mimbara mirning nanja narangga nawu ngadjuri ngandatha nonga nukunu
             pamkala tarntanya tidni wanbiri wanbirujurari willeuroo windakan wirameju wirangu yalata
             badhu oxley_wilds alpine_mountains wadbilliga_mountains blue_mountains kosciuszko_mountains strzelecki_desert sturt_stony_desert simpson_desert south_australian_desert
-            pedrika_desert great_victoria_desert tanami_desert great_sandy_desert gibson_desert western_australian_desert little_sandy_desert bellona_reef
-			norfolk frederick_reef lord_howe_island heard_island
-			new7000 new7001 new7002 new7003 new7004 new7005 new7006 new7007 new7008 new7009 new7010 
-			new7011 new7012 new7013 new7014 new7015 new7016 new7017 new7018 new7019 new7020 new7021 
-			new7022 new7023 new7024 new7025 new7026 new7027 new7028 new7029 new7030 new7031 new7032 
-			new7033 new7034 new7035 new7036 new7037 new7038 new7039 new7040 new7041 new7042 new7043 
-			new7044 new7045 new7046 new7047 new7048 new7049 new7050 new7051 new7052 new7053 new7054 
-			new7055 new7056 new7057 new7058 new7059 new7060 new7061 new7062 new7063 new7064 new7065 
-			new7066 new7067 new7068 new7069 new7070 new7071 new7072 new7073 new7074 new7075 new7076 
-			new7077 new7078 new7079 new7080 new7081 new7082 new7083 new7084 new7085 new7086 new7087 
-			new7088 new7089 new7090 new7091 new7092 new7093 new7094 new7095 new7096 new7097 new7098 
-			new7099 new7100 new7101 new7102 new7103 new7104 new7105 new7106 new7107 new7108 new7109 
-			new7110 new7111 new7112 new7113 new7114 new7115 new7116 new7117 new7118 new7119 new7120 
-			new7121 new7122 new7123 new7124 new7125 new7126 new7127 new7128 new7129 new7130 new7131 
-			new7132 new7133 new7134 new7135 new7136 new7137 new7138 new7139 new7140 new7141 new7142 
-			new7143 new7144 new7145 new7146 new7147 new7148 new7149 new7150 new7151 new7152 new7153 
-			new7154 new7155 new7156 new7157 new7158 new7159 new7160 new7161 new7162 new7163 new7164 
-			new7165 new7166 new7167 new7168 new7169 new7170 new7171 new7172 new7173 new7174 new7175 
-			new7176 new7177 new7178 new7179 new7180 new7181 new7182 new7183 new7184 new7185 new7186 
-			new7187 new7188 new7189 new7190 new7191 new7192 new7193 new7194 new7195 new7196 new7197 
-			new7198 new7199 new7200 new7201 new7202 new7203 new7204 new7205 new7206 new7207 new7208 
-			new7209 new7210 new7211 new7212 new7213 new7214 new7215 new7216 new7217 new7218 new7219 
-			new7220 new7221 new7222 new7223 new7224 new7225 new7226 new7227 new7228 new7229 new7230 
-			new7231 new7232 new7233 new7234 new7235 new7236 new7237 new7238 new7239 new7240 new7241 
-			new7242 new7243 new7244 new7245 new7246 new7247 new7248 new7249 new7250 new7251 new7252 
-			new7253 new7254 new7255 new7256 new7257 new7258 new7259 new7260 new7261 new7262 new7263 
-			new7264 new7265 new7266 new7267 new7268 new7269 new7270 new7271 new7272 new7273 new7274 
-			new7275 new7276 new7277 new7278 new7279 new7280 new7281 new7282 new7283 new7284 new7285 
-			new7286 new7287 new7288 new7289 new7290 new7291 new7292 new7293 new7294 new7295 new7296 
-			new7297 new7298 new7299 new7300 new7301 new7302 new7303 new7304 new7305 new7306 new7307 
-			new7308 new7309 new7310 new7311 new7312 new7313 new7314 new7315 new7316 new7317 new7318 
-			new7319 new7320 new7321 new7322 new7323 new7324 new7325 new7326 new7327 new7328 new7329 
-			new7330 new7331 new7332 new7333 new7334 new7335 new7336 new7337 new7338 new7339 new7340 
-			new7341 new7342 new7343 new7344 new7345 new7346 new7347 new7348 new7349 new7350 new7351 
-			new7352 new7353 new7354 new7355 new7356 new7357 new7358 new7359 new7360 new7361 new7362 
-			new7363 new7364 new7365 new7366 new7367 new7368 new7369 new7370 new7371 new7372 new7373 
-			new7374 new7375 new7376 new7377 new7378 new7379 new7380 new7381 new7382 new7383 new7384 
-			new7385 new7386 new7387 new7388 new7389 new7390 new7391 new7392 new7393 new7394 new7395 
-			new7396 new7397 new7398 new7399 new7400 new7401 new7402 new7403 new7404 new7405 new7406 
-			new7407 new7408 new7409 new7410 new7411 new7412 new7413 new7414 new7415 new7416 new7417 
-			new7418 new7419 new7420 new7421 new7422 new7423 new7424 new7425 new7426 new7427 new7428 
-			new7429 new7430 new7431 new7432 new7433 new7434 new7435 new7436 new7437 new7438 new7439 
-			new7440 new7441 new7442 new7443 new7444 new7445 new7446 new7447 new7448 new7449 new7450 
-			new7451 new7452 new7453 new7454 new7455 new7456 new7457 new7458 new7459 new7460 new7461 
-			new7462 new7463 new7464 new7465 new7466 new7467 new7468 new7469 new7470 new7471 new7472 
-			new7473 new7474 new7475 new7476 new7477 new7478 new7479 new7480 new7481 new7482 new7483 
-			new7484 new7485 new7486 new7487 new7488 new7489 new7490 new7491 new7492 new7493 new7494 
-			new7495 new7496 new7497 new7498 new7499 new7500 new7501 new7502 new7503 new7504 new7505 
-			new7506 new7507 new7508 new7509 new7510 new7511 new7512 new7513 new7514 new7515 new7516 
-			new7517 new7518 new7519 new7520 new7521 new7522 new7523 new7524 new7525 new7526 new7527 
-			new7528 new7529 new7530 new7531 new7532 new7533 new7534 new7535 new7536 new7537 new7538 
-			new7539 new7540 new7541 new7542 new7543 new7544 new7545 new7546 new7547 new7548 new7549 
-			new7550 new7551 new7552 new7553 new7554 new7555 new7556 new7557 new7558 new7559 new7560 
-			new7561 new7562 new7563 new7564 new7565 new7566 new7567 new7568 new7569 new7570 new7571 
-			new7572 new7573 new7574 new7575 new7576 new7577 new7578 new7579 new7580 new7581 new7582 
-			new7583 new7584 new7585 new7586 new7587 new7588 new7589 new7590 new7591 new7592 new7593 
-			new7594 new7595 new7596 new7597 new7598 new7599 new7600 new7601 new7602 new7603 new7604 
-			new7605 new7606 new7607 new7608 new7609 new7610 new7611 new7612 new7613 new7614 new7615 
-			new7616 new7617 new7618 new7619 new7620 new7621 new7622 new7623 new7624 new7625 new7626 
-			new7627 new7628 new7629 new7630 new7631 new7632 new7633 new7634 new7635 new7636 new7637 
-			new7638 new7639 new7640 new7641 new7642 new7643 new7644 new7645 new7646 new7647 new7648 
-			new7649 new7650 new7651 new7652 new7653 new7654 new7655 new7656 new7657 new7658 new7659 
-			new7660 new7661 new7662 new7663 new7664 new7665 new7666 new7667 new7668 new7669 new7670 
-			new7671 new7672 new7673 new7674 new7675 new7676 new7677 new7678 new7679 new7680 new7681 
-			new7682 new7683 new7684 new7685 new7686 new7687 new7688 new7689 new7690 new7691 new7692 
-			new7693 new7694 new7695 new7696 new7697 new7698 new7699 new7700 new7701 new7702 new7703 
-			new7704 new7705 new7706 new7707 new7708 new7709 new7710 new7711 new7712 new7713 new7714 
-			new7715 new7716 new7717 new7718 new7719 new7720 new7721 new7722 new7723 new7724 new7725 
-			new7726 new7727 new7728 new7729 new7730 new7731 new7732 new7733 new7734 new7735 new7736 
-			new7737 new7738 new7739 new7740 new7741 new7742 new7743 new7744 new7745 new7746 new7747 
-			new7748 new7749 new7750 new7751 new7752 new7753 new7754 new7755 new7756 new7757 new7758 
-			new7759 new7760 new7761 new7762 new7763 new7764 new7765 new7766 new7767 new7768 new7769 
-			new7770 new7771 new7772 new7773 new7774 new7775 new7776 new7777 new7778 new7779 new7780 
-			new7781 new7782 new7783 new7784 new7785 new7786 new7787 new7788 new7789 new7790 new7791 
-			new7792 new7793 new7794 new7795 new7796 new7797 new7798 new7799 new7800 new7801 new7802 
-			new7803 new7804 new7805 new7806 new7807 new7808 new7809 new7810 new7811 new7812 new7813 
-			new7814 new7815 new7816 new7817 new7818 new7819 new7820 new7821 new7822 new7823 new7824 
-			new7825 new7826 new7827 new7828 new7829 new7830 new7831 new7832 new7833 new7834 new7835 
-			new7836 new7837 new7838 new7839 new7840 new7841 new7842 new7843 new7844 new7845 new7846 
-			new7847 new7848 new7849 new7850 new7851 new7852 new7853 new7854 new7855 new7856 new7857 
-			new7858 new7859 new7860 new7861 new7862 new7863 new7864 new7865 new7866 new7867 new7868 
-			new7869 new7870 new7871 new7872 new7873 new7874 new7875 new7876 new7877 new7878 new7879 
-			new7880 new7881 new7882 new7883 new7884 new7885 new7886 new7887 new7888 new7889 new7890 
-			new7891 new7892 new7893 new7894 new7895 new7896 new7897 new7898 new7899 new7900 new7901 
-			new7902 new7903 new7904 new7905 new7906 new7907 new7908 new7909 new7910 new7911 new7912 
-			new7913 new7914 new7915 new7916 new7917 new7918 new7919 new7920 new7921 new7922 new7923 
-			new7924 new7925 new7926 new7927 new7928 new7929 new7930 new7931 new7932 new7933 new7934 
-			new7935 new7936 new7937 new7938 new7939 new7940 new7941 new7942 new7943 new7944 new7945 
-			new7946 new7947 new7948 new7949 new7950 new7951 new7952 new7953 new7954 new7955 new7956 
-			new7957 new7958 new7959 new7960 new7961 new7962 new7963 new7964 new7965
+            pedrika_desert great_victoria_desert tanami_desert great_sandy_desert gibson_desert western_australian_desert little_sandy_desert bellona_reef norfolk frederick_reef
+            lord_howe_island heard_island new7000 new7001 new7002 new7003 new7004 new7005 new7006 new7007
+            new7008 new7009 new7010 new7011 new7012 new7013 new7014 new7015 new7016 new7017
+            new7018 new7019 new7020 new7021 new7022 new7023 new7024 new7025 new7026 new7027
+            new7028 new7029 new7030 new7031 new7032 new7033 new7034 new7035 new7036 new7037
+            new7038 new7039 new7040 new7041 new7042 new7043 new7044 new7045 new7046 new7047
+            new7048 new7049 new7050 new7051 new7052 new7053 new7054 new7055 new7056 new7057
+            new7058 new7059 new7060 new7061 new7062 new7063 new7064 new7065 new7066 new7067
+            new7068 new7069 new7070 new7071 new7072 new7073 new7074 new7075 new7076 new7077
+            new7078 new7079 new7080 new7081 new7082 new7083 new7084 new7085 new7086 new7087
+            new7088 new7089 new7090 new7091 new7092 new7093 new7094 new7095 new7096 new7097
+            new7098 new7099 new7100 new7101 new7102 new7103 new7104 new7105 new7106 new7107
+            new7108 new7109 new7110 new7111 new7112 new7113 new7114 new7115 new7116 new7117
+            new7118 new7119 new7120 new7121 new7122 new7123 new7124 new7125 new7126 new7127
+            new7128 new7129 new7130 new7131 new7132 new7133 new7134 new7135 new7136 new7137
+            new7138 new7139 new7140 new7141 new7142 new7143 new7144 new7145 new7146 new7147
+            new7148 new7149 new7150 new7151 new7152 new7153 new7154 new7155 new7156 new7157
+            new7158 new7159 new7160 new7161 new7162 new7163 new7164 new7165 new7166 new7167
+            new7168 new7169 new7170 new7171 new7172 new7173 new7174 new7175 new7176 new7177
+            new7178 new7179 new7180 new7181 new7182 new7183 new7184 new7185 new7186 new7187
+            new7188 new7189 new7190 new7191 new7192 new7193 new7194 new7195 new7196 new7197
+            new7198 new7199 new7200 new7201 new7202 new7203 new7204 new7205 new7206 new7207
+            new7208 new7209 new7210 new7211 new7212 new7213 new7214 new7215 new7216 new7217
+            new7218 new7219 new7220 new7221 new7222 new7223 new7224 new7225 new7226 new7227
+            new7228 new7229 new7230 new7231 new7232 new7233 new7234 new7235 new7236 new7237
+            new7238 new7239 new7240 new7241 new7242 new7243 new7244 new7245 new7246 new7247
+            new7248 new7249 new7250 new7251 new7252 new7253 new7254 new7255 new7256 new7257
+            new7258 new7259 new7260 new7261 new7262 new7263 new7264 new7265 new7266 new7267
+            new7268 new7269 new7270 new7271 new7272 new7273 new7274 new7275 new7276 new7277
+            new7278 new7279 new7280 new7281 new7282 new7283 new7284 new7285 new7286 new7287
+            new7288 new7289 new7290 new7291 new7292 new7293 new7294 new7295 new7296 new7297
+            new7298 new7299 new7300 new7301 new7302 new7303 new7304 new7305 new7306 new7307
+            new7308 new7309 new7310 new7311 new7312 new7313 new7314 new7315 new7316 new7317
+            new7318 new7319 new7320 new7321 new7322 new7323 new7324 new7325 new7326 new7327
+            new7328 new7329 new7330 new7331 new7332 new7333 new7334 new7335 new7336 new7337
+            new7338 new7339 new7340 new7341 new7342 new7343 new7344 new7345 new7346 new7347
+            new7348 new7349 new7350 new7351 new7352 new7353 new7354 new7355 new7356 new7357
+            new7358 new7359 new7360 new7361 new7362 new7363 new7364 new7365 new7366 new7367
+            new7368 new7369 new7370 new7371 new7372 new7373 new7374 new7375 new7376 new7377
+            new7378 new7379 new7380 new7381 new7382 new7383 new7384 new7385 new7386 new7387
+            new7388 new7389 new7390 new7391 new7392 new7393 new7394 new7395 new7396 new7397
+            new7398 new7399 new7400 new7401 new7402 new7403 new7404 new7405 new7406 new7407
+            new7408 new7409 new7410 new7411 new7412 new7413 new7414 new7415 new7416 new7417
+            new7418 new7419 new7420 new7421 new7422 new7423 new7424 new7425 new7426 new7427
+            new7428 new7429 new7430 new7431 new7432 new7433 new7434 new7435 new7436 new7437
+            new7438 new7439 new7440 new7441 new7442 new7443 new7444 new7445 new7446 new7447
+            new7448 new7449 new7450 new7451 new7452 new7453 new7454 new7455 new7456 new7457
+            new7458 new7459 new7460 new7461 new7462 new7463 new7464 new7465 new7466 new7467
+            new7468 new7469 new7470 new7471 new7472 new7473 new7474 new7475 new7476 new7477
+            new7478 new7479 new7480 new7481 new7482 new7483 new7484 new7485 new7486 new7487
+            new7488 new7489 new7490 new7491 new7492 new7493 new7494 new7495 new7496 new7497
+            new7498 new7499 new7500 new7501 new7502 new7503 new7504 new7505 new7506 new7507
+            new7508 new7509 new7510 new7511 new7512 new7513 new7514 new7515 new7516 new7517
+            new7518 new7519 new7520 new7521 new7522 new7523 new7524 new7525 new7526 new7527
+            new7528 new7529 new7530 new7531 new7532 new7533 new7534 new7535 new7536 new7537
+            new7538 new7539 new7540 new7541 new7542 new7543 new7544 new7545 new7546 new7547
+            new7548 new7549 new7550 new7551 new7552 new7553 new7554 new7555 new7556 new7557
+            new7558 new7559 new7560 new7561 new7562 new7563 new7564 new7565 new7566 new7567
+            new7568 new7569 new7570 new7571 new7572 new7573 new7574 new7575 new7576 new7577
+            new7578 new7579 new7580 new7581 new7582 new7583 new7584 new7585 new7586 new7587
+            new7588 new7589 new7590 new7591 new7592 new7593 new7594 new7595 new7596 new7597
+            new7598 new7599 new7600 new7601 new7602 new7603 new7604 new7605 new7606 new7607
+            new7608 new7609 new7610 new7611 new7612 new7613 new7614 new7615 new7616 new7617
+            new7618 new7619 new7620 new7621 new7622 new7623 new7624 new7625 new7626 new7627
+            new7628 new7629 new7630 new7631 new7632 new7633 new7634 new7635 new7636 new7637
+            new7638 new7639 new7640 new7641 new7642 new7643 new7644 new7645 new7646 new7647
+            new7648 new7649 new7650 new7651 new7652 new7653 new7654 new7655 new7656 new7657
+            new7658 new7659 new7660 new7661 new7662 new7663 new7664 new7665 new7666 new7667
+            new7668 new7669 new7670 new7671 new7672 new7673 new7674 new7675 new7676 new7677
+            new7678 new7679 new7680 new7681 new7682 new7683 new7684 new7685 new7686 new7687
+            new7688 new7689 new7690 new7691 new7692 new7693 new7694 new7695 new7696 new7697
+            new7698 new7699 new7700 new7701 new7702 new7703 new7704 new7705 new7706 new7707
+            new7708 new7709 new7710 new7711 new7712 new7713 new7714 new7715 new7716 new7717
+            new7718 new7719 new7720 new7721 new7722 new7723 new7724 new7725 new7726 new7727
+            new7728 new7729 new7730 new7731 new7732 new7733 new7734 new7735 new7736 new7737
+            new7738 new7739 new7740 new7741 new7742 new7743 new7744 new7745 new7746 new7747
+            new7748 new7749 new7750 new7751 new7752 new7753 new7754 new7755 new7756 new7757
+            new7758 new7759 new7760 new7761 new7762 new7763 new7764 new7765 new7766 new7767
+            new7768 new7769 new7770 new7771 new7772 new7773 new7774 new7775 new7776 new7777
+            new7778 new7779 new7780 new7781 new7782 new7783 new7784 new7785 new7786 new7787
+            new7788 new7789 new7790 new7791 new7792 new7793 new7794 new7795 new7796 new7797
+            new7798 new7799 new7800 new7801 new7802 new7803 new7804 new7805 new7806 new7807
+            new7808 new7809 new7810 new7811 new7812 new7813 new7814 new7815 new7816 new7817
+            new7818 new7819 new7820 new7821 new7822 new7823 new7824 new7825 new7826 new7827
+            new7828 new7829 new7830 new7831 new7832 new7833 new7834 new7835 new7836 new7837
+            new7838 new7839 new7840 new7841 new7842 new7843 new7844 new7845 new7846 new7847
+            new7848 new7849 new7850 new7851 new7852 new7853 new7854 new7855 new7856 new7857
+            new7858 new7859 new7860 new7861 new7862 new7863 new7864 new7865 new7866 new7867
+            new7868 new7869 new7870 new7871 new7872 new7873 new7874 new7875 new7876 new7877
+            new7878 new7879 new7880 new7881 new7882 new7883 new7884 new7885 new7886 new7887
+            new7888 new7889 new7890 new7891 new7892 new7893 new7894 new7895 new7896 new7897
+            new7898 new7899 new7900 new7901 new7902 new7903 new7904 new7905 new7906 new7907
+            new7908 new7909 new7910 new7911 new7912 new7913 new7914 new7915 new7916 new7917
+            new7918 new7919 new7920 new7921 new7922 new7923 new7924 new7925 new7926 new7927
+            new7928 new7929 new7930 new7931 new7932 new7933 new7934 new7935 new7936 new7937
+            new7938 new7939 new7940 new7941 new7942 new7943 new7944 new7945 new7946 new7947
+            new7948 new7949 new7950 new7951 new7952 new7953 new7954 new7955 new7956 new7957
+            new7958 new7959 new7960 new7961 new7962 new7963 new7964 new7965
          }
 
          include = "expl_mdm_whole_world"
@@ -453,8 +447,68 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      AUCC = {
+         country_rank = rank_county
+       }
+
+
+      AUCT = {
+         country_rank = rank_county
+       }
+
+
+      AUCX = {
+         country_rank = rank_county
+       }
+
+
+      AUJB = {
+         country_rank = rank_county
+       }
+
+
+      AUNF = {
+         country_rank = rank_county
+       }
+
+
+      AUNT = {
+         country_rank = rank_county
+       }
+
+
+      AUNW = {
+         country_rank = rank_county
+       }
+
+
+      AUQD = {
+         country_rank = rank_county
+       }
+
+
+      AUSA = {
+         country_rank = rank_county
+       }
+
+
+      AUTS = {
+         country_rank = rank_county
+       }
+
+
+      AUVC = {
+         country_rank = rank_county
+       }
+
+
+      AUWA = {
+         country_rank = rank_county
+       }
 
 
       AZER = {
@@ -476,7 +530,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -496,7 +550,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -516,7 +570,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -540,7 +594,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -560,7 +614,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -580,7 +634,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -603,7 +657,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -635,7 +689,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -655,7 +709,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -676,7 +730,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -697,8 +751,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      BNLX = {
+         country_rank = rank_county
+       }
 
 
       BOLI = {
@@ -728,7 +787,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -750,7 +809,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -773,7 +832,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -786,8 +845,27 @@ countries = {
          }
 
          include = "expl_mdm_whole_world"
+       }
 
-       }
+
+      BRAC = {
+         country_rank = rank_county
+       }
+
+
+      BRAL = {
+         country_rank = rank_county
+       }
+
+
+      BRAM = {
+         country_rank = rank_county
+       }
+
+
+      BRAP = {
+         country_rank = rank_county
+       }
 
 
       BRAZ = {
@@ -868,13 +946,30 @@ countries = {
             new386 new353 new352 new351 new996 new970 new971 new982 new963 new306
             new969 new959 new985 new973 new960 new986 new987 new991 new989 new988
             new990 sao_bernardo_do_campo new965 new994 new995 new983 new957 new958 new978 new977
-            new974 new972 new980 new975 new979 new976 new1009 new1011 santo_amaro new1010 new1001
-            new1004 new1002 new1005 new1003 new1007 new1006 new1008 new411 new407 new416
-            new415 new417 new414 new418 new419 new403 new406 new420 new422 new412
-            new413 new421 new399 zona_oeste new400 new410 tijuca new402 new401 new409
-            new404 new408 new397 new423 new396 new425 new424 sao_goncalo new405 new426
-            new427 new429 new428 new430 new439 new438 new433 new434 new435 new436
-            new437 new432 new431
+            new974 new972 new980 new975 new979 new976 new1009 new1011 santo_amaro new1010
+            new1001 new1004 new1002 new1005 new1003 new1007 new1006 new1008 new411 new407
+            new416 new415 new417 new414 new418 new419 new403 new406 new420 new422
+            new412 new413 new421 new399 zona_oeste new400 new410 tijuca new402 new401
+            new409 new404 new408 new397 new423 new396 new425 new424 sao_goncalo new405
+            new426 new427 new429 new428 new430 new439 new438 new433 new434 new435
+            new436 new437 new432 new431 new1015 new1013 new1014 new1016 new1017 new1019
+            new1021 new1018 new503 new502 new507 new495 new493 new491 new496 new494
+            new490 new505 new501 new492 new489 new506 new504 new497 new200 new201
+            new570 new568 new567 new456 new462 new540 new463 new528 new530 new529
+            new531 new455 new542 new544 new541 new532 new533 new534 new512 new1020
+            new543 new545 new546 new548 new547 new556 new549 new550 new551 new554
+            new553 new555 new552 new440 new575 new572 new574 new581 new571 new573
+            new580 new582 new569 new578 new577 new579 new576 new584 new583 new586
+            new585 new588 new590 new589 new565 new566 new536 new539 new537 new538
+            new561 new560 new524 new592 new562 new563 new558 new587 new593 new527
+            new591 new595 new596 new597 new564 new594 new559 new557 new523 new525
+            new521 new526 new481 new518 new520 new472 new470 new480 new469 new471
+            new522 new473 new465 new517 new466 new464 new535 new458 new441 new459
+            new457 new454 new443 new460 new450 new442 new468 new446 new447 new461
+            new445 new479 new449 new448 new515 new478 new467 new516 new476 new474
+            new514 new475 new477 new484 new485 new486 new483 new487 new519 new482
+            new488 new499 new452 new500 new451 new453 new444 new498 new513 new508
+            new509 new511 new510
          }
 
          #include = "republic"
@@ -883,8 +978,123 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      BRBA = {
+         country_rank = rank_county
+       }
+
+
+      BRCE = {
+         country_rank = rank_county
+       }
+
+
+      BRDF = {
+         country_rank = rank_county
+       }
+
+
+      BRES = {
+         country_rank = rank_county
+       }
+
+
+      BRGO = {
+         country_rank = rank_county
+       }
+
+
+      BRMA = {
+         country_rank = rank_county
+       }
+
+
+      BRMG = {
+         country_rank = rank_county
+       }
+
+
+      BRMS = {
+         country_rank = rank_county
+       }
+
+
+      BRMT = {
+         country_rank = rank_county
+       }
+
+
+      BRPA = {
+         country_rank = rank_county
+       }
+
+
+      BRPB = {
+         country_rank = rank_county
+       }
+
+
+      BRPE = {
+         country_rank = rank_county
+       }
+
+
+      BRPI = {
+         country_rank = rank_county
+       }
+
+
+      BRPR = {
+         country_rank = rank_county
+       }
+
+
+      BRRJ = {
+         country_rank = rank_county
+       }
+
+
+      BRRN = {
+         country_rank = rank_county
+       }
+
+
+      BRRO = {
+         country_rank = rank_county
+       }
+
+
+      BRRR = {
+         country_rank = rank_county
+       }
+
+
+      BRRS = {
+         country_rank = rank_county
+       }
+
+
+      BRSC = {
+         country_rank = rank_county
+       }
+
+
+      BRSE = {
+         country_rank = rank_county
+       }
+
+
+      BRSP = {
+         country_rank = rank_county
+       }
+
+
+      BRTO = {
+         country_rank = rank_county
+       }
 
 
       BUFA = {
@@ -907,7 +1117,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -934,7 +1144,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -954,8 +1164,18 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      CAAB = {
+         country_rank = rank_county
+       }
+
+
+      CABC = {
+         country_rank = rank_county
+       }
 
 
       CAFR = {
@@ -975,8 +1195,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      CAMB = {
+         country_rank = rank_county
+       }
 
 
       CAME = {
@@ -1000,7 +1225,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1120,8 +1345,53 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      CANA = {
+         country_rank = rank_county
+       }
+
+
+      CANB = {
+         country_rank = rank_county
+       }
+
+
+      CANL = {
+         country_rank = rank_county
+       }
+
+
+      CANS = {
+         country_rank = rank_county
+       }
+
+
+      CANT = {
+         country_rank = rank_county
+       }
+
+
+      CANU = {
+         country_rank = rank_county
+       }
+
+
+      CAON = {
+         country_rank = rank_county
+       }
+
+
+      CAPE = {
+         country_rank = rank_county
+       }
+
+
+      CAQC = {
+         country_rank = rank_county
+       }
 
 
       CASCA = {
@@ -1141,9 +1411,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
+
+
+      CASK = {
+         country_rank = rank_county
+       }
 
 
       CAT = {
@@ -1151,8 +1425,17 @@ countries = {
          country_rank = rank_duchy
 
          include = "expl_mdm_whole_world"
+       }
 
-       }
+
+      CAYT = {
+         country_rank = rank_county
+       }
+
+
+      CEOE = {
+         country_rank = rank_county
+       }
 
 
       CHAD = {
@@ -1176,7 +1459,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1196,7 +1479,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1449,7 +1732,7 @@ countries = {
             karakoram_et1 kunlun1 tibet_passage_et1 taklamakan5 karakoram4 himalaya7 himalaya14 himalaya8 gangdise8 himalaya9
             himalaya10 himalaya13 himalaya11 himalaya15 himalaya12 gangdise5 himalaya16 himalaya18 nyainqentanglha3 himalaya19
             himalaya20 himalaya21 xueshan_yunnan nushan saur_et fan_si_mountains_et new115 new114 new113 new116
-            new107 new108 new109 new110 new111 new112
+            new107 new108 new109 new110 new111 new112 new147
          }
 
          #include = "republic"
@@ -1458,7 +1741,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1476,18 +1759,18 @@ countries = {
             quiquilhue rangkawe uthan_uthatun waykuche wenteche isluga kolla loa achen caguatl
             chain_chaitun ciaike enoo haiyuwel hamhmam horsh_aiken ilalumaala inalumaala jautok jetarktetqal
             kauwes kcewite kelaelkces kolser koy_aike paine pari_aike puyu_huapi saelam tawokser
-            utumaala yeskumaala rapa_nui chak_xana_volcano_et aucanquilcha_volcano_et1 llullaillaco_volcano pissis_mountains_et huemui_mountains juan_fernandez_islands new72 new76
-            new78 new68 new67 huemules_forest new51 new32 new48 new45 new18 new74
-            new73 new69 new55 new71 new70 new60 new63 new62 new66 new65
-            new64 new77 new40 new44 new56 new38 new37 new39 new49 new42
-            new41 new75 new57 new58 new47 new50 new46 new59 new61 new43
-            new53 new54 new52 new30 puyehue_forest piren_forest new31 new35 new36 new34
-            new33 new17 villarica_forest_et new26 new16 new29 new24 new23 new19 new15
-            new14 new22 puyehue_forest_et new27 new25 new21 new20 new12 new10 new9
-            new2 new8 new28 new13 new11 piren_forest_et corcovado_forest new6 new7 new4
-            new5 new3 melimoyu_forest quelat_forest cay_forest nansen_forest_et paine_forest_et san_rafael_forest little_wellington_forest ohiggins_forest
-            paine_forest ilalumaala_forest navarino_forest clarence_forest tawokser_forest ladrillero_forest campo_nevado_forest dawson_forest agostini_forest malte
-            parrillar_forest
+            utumaala yeskumaala rapa_nui chak_xana_volcano_et aucanquilcha_volcano_et1 llullaillaco_volcano pissis_mountains_et huemui_mountains juan_fernandez_islands new72
+            new76 new78 new68 new67 huemules_forest new51 new32 new48 new45 new18
+            new74 new73 new69 new55 new71 new70 new60 new63 new62 new66
+            new65 new64 new77 new40 new44 new56 new38 new37 new39 new49
+            new42 new41 new75 new57 new58 new47 new50 new46 new59 new61
+            new43 new53 new54 new52 new30 puyehue_forest piren_forest new31 new35 new36
+            new34 new33 new17 villarica_forest_et new26 new16 new29 new24 new23 new19
+            new15 new14 new22 puyehue_forest_et new27 new25 new21 new20 new12 new10
+            new9 new2 new8 new28 new13 new11 piren_forest_et corcovado_forest new6 new7
+            new4 new5 new3 melimoyu_forest quelat_forest cay_forest nansen_forest_et paine_forest_et san_rafael_forest little_wellington_forest
+            ohiggins_forest paine_forest ilalumaala_forest navarino_forest clarence_forest tawokser_forest ladrillero_forest campo_nevado_forest dawson_forest agostini_forest
+            malte parrillar_forest
          }
 
          #include = "republic"
@@ -1496,7 +1779,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1532,7 +1815,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1552,7 +1835,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1575,7 +1858,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1586,8 +1869,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            rarotonga_atoll aitutaki_atoll mangaia nga_pu_toru manuae_atoll_cook avarau
-			manihiki rakahanga te_ulu_o_te_watu tongareva 
+            rarotonga_atoll aitutaki_atoll mangaia nga_pu_toru manuae_atoll_cook avarau manihiki rakahanga te_ulu_o_te_watu tongareva
          }
 
          #include = "republic"
@@ -1596,7 +1878,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1617,7 +1899,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1637,7 +1919,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1661,7 +1943,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1684,7 +1966,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1704,7 +1986,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1729,8 +2011,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      CZSK = {
+         country_rank = rank_county
+       }
 
 
       DAN = {
@@ -1745,7 +2032,8 @@ countries = {
             siglufjord vatnahverfi torshavn aabenraa aalborg aarhus ars assens bolling falster
             grindsted haderslev hammershus helsingor hjorring holstebro_lundenes kalo kalundborg kobenhavn kolding
             navskov odense randers ribe ringkobing ringsted roskilde silkeborg skagen slagelse
-            svendborg thisted tonder varde viborg vordingborg eiriksfjord
+            svendborg thisted tonder varde viborg vordingborg eiriksfjord new151 new152 new153
+            new156 new150 new155 new157 new159 new154
          }
 
          #include = "republic"
@@ -1754,7 +2042,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1774,8 +2062,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      DIXI = {
+         country_rank = rank_county
+       }
 
 
       DJIB = {
@@ -1794,7 +2087,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1814,7 +2107,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1836,7 +2129,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1874,14 +2167,18 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
       DUMMY = {
          country_rank = rank_county
+       }
 
-       }
+
+      EAFR = {
+         country_rank = rank_county
+       }
 
 
       ECUA = {
@@ -1905,7 +2202,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1926,7 +2223,18 @@ countries = {
             sharuna siwa tahna connector_egypt16 horn_desert_corridor1 connector_egypt15 connector_egypt5 connector_egypt12 south_eastern_desert connector_egypt6
             eastern_desert south_western_desert connector_egypt10 western_desert connector_egypt8 connector_egypt4 erg_selima_et3 connector_libya16 connector_egypt3 connector_egypt2
             connector_egypt1 great_sand_sea connector_egypt11 grand_erg_oriental_et1 connector_egypt9 north_western_desert nitrian_desert connector_egypt14 north_eastern_desert connector_egypt17
-            northern_sinai_desert1 sinai_desert northern_sinai_desert2 horn_desert_corridor2
+            northern_sinai_desert1 sinai_desert northern_sinai_desert2 horn_desert_corridor2 new1506 new1553 new1554 new1538 new1535 new1555
+            new1537 new1530 new1536 new1551 new1547 new1516 new1539 new1532 new1552 new1541
+            new1540 new1533 new1534 new1543 new1531 new1549 new1542 new1550 new1545 new1546
+            new1548 new1524 new1522 new1544 new1523 new1521 new1529 new1528 new1519 new1517
+            new1520 new1525 new1526 new1518 new1514 new1574 new1515 new1527 new1513 new1573
+            new1557 new1566 new1569 new1579 new1575 new1578 new1577 new1561 new1572 new1576
+            new1559 new1558 new1567 new1556 new1564 new1565 new1563 new1571 new1570 new1568
+            new1562 new1614 new1603 new1595 new1613 new1612 new1611 new1591 new1590 new1609
+            new1589 new1604 new1602 new1592 new1597 new1594 new1598 new1593 new1610 new1601
+            new1607 new1596 new1606 new1605 new1599 new1608 new1600 new1582 new1585 new1588
+            new1581 new1584 new1583 new1587 new1586 new1500 new1511 new1507 new1509 new1510
+            new1512 new1508 new1501 new1503 new1504 new1505 new1502
          }
 
          #include = "republic"
@@ -1935,7 +2243,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1955,7 +2263,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1975,7 +2283,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -1996,7 +2304,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2018,7 +2326,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2038,7 +2346,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2068,7 +2376,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2088,7 +2396,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2104,8 +2412,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -2118,7 +2425,7 @@ countries = {
             beqa_lagoon burebasaga fulaga_atoll kabara_atoll kandavu kubuna moce_atoll ngau qelelevu_atoll taveuni
             vanua_balavu_atoll vanua_levu yasawa vatoa ono_i_llau_atoll bukatatonoa_atoll lakeba vanua_vatu cicia viti_levu_atoll
             navatu_reef totoya_atoll thikombia moala moala_atoll ngau_atoll kadavu_atoll makogai_atoll ovalau koro_island
-            ovalau_atoll cacau_levu_atoll yasawa_atoll rotuma_atoll rotuma 
+            ovalau_atoll cacau_levu_atoll yasawa_atoll rotuma_atoll rotuma
          }
 
          #include = "republic"
@@ -2127,7 +2434,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2156,7 +2463,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2216,18 +2523,18 @@ countries = {
             calvi corte sartene vico cassel douai dunkirk lille maubeuge montmedy
             thionville valenciennes belfort benfeld colmar ensisheim ferrette haguenau lichtenberg mulhouse
             murbach strasbourg zabern ajie cemuhi drehu fwai ndrumbea nengone numee
-            nyelayu ouvea_atoll paici tiri xaracuu yuanga uvea_atoll apataki_atoll aratika_atoll fakarava_atoll futuna cook_knolls 
-            kauehi_atoll raraka_atoll toau_atoll faaite_atoll tahanea_atoll taungataki_atoll mangareva manihi_atoll marutea takaroa_atoll
-            miquelon north_eastern_pyrenees2 north_eastern_pyrenees1 north_western_pyrenees pennine_alps1 graian_alps1 dauphine_alps2 cottian_alps1 maritime_alps1 dauphine_alps1
-            vercors_massif massif_central vivarais_mountains dore_mountains amazon_jungle_et4 corsican_mountains nosy_ampela kwenyii beautemps_beaupre_atoll new_caledonia_barrier_reef_1
-            belep new_caledonia_barrier_reef_2 entrecasteaux_atoll marotiri oparo raivavae_atoll raivavae tubuai_atoll tubuai rurutu
-            nororotu_atoll rimatara hiva_oa ua_pou ua_huka bayonnaise_banks 
-            nuku_hiva eiao puka_puka_atoll napuka_atoll motutunga_atoll haraiki_atoll nganaa_nui_atoll hereheretue_atoll fangatau_atoll raroia_atoll
-            taenga_atoll rekareka_atoll makemo_atoll acteon reao reitoru_atoll tauere_atoll hikueru_atoll taunga_tauranga_atoll tatakoto
-            papakena_atoll paraoa_atoll marokau_atoll nengonengo_atoll haorangi_atoll nukutavake tematagi_atoll anuanuraro_atoll nihiru_atoll manuae_atoll
-            maupihaa_atoll motu_one_atoll mehetia rangiroa_atoll havaii arutua_atoll pora_pora_atoll pora_pora havaii_atoll maupiti_atoll
-            aopuni_atoll maiao tahiti_atoll tahiti moorea_atoll moorea tetiaroa_atoll huahine_atoll huahine makatea_atoll
-            kaukura_atoll tikehau_atoll saint_paul_island kergelen walichi
+            nyelayu ouvea_atoll paici tiri xaracuu yuanga uvea_atoll apataki_atoll aratika_atoll fakarava_atoll
+            futuna cook_knolls kauehi_atoll raraka_atoll toau_atoll faaite_atoll tahanea_atoll taungataki_atoll mangareva manihi_atoll
+            marutea takaroa_atoll miquelon north_eastern_pyrenees2 north_eastern_pyrenees1 north_western_pyrenees pennine_alps1 graian_alps1 dauphine_alps2 cottian_alps1
+            maritime_alps1 dauphine_alps1 vercors_massif massif_central vivarais_mountains dore_mountains amazon_jungle_et4 corsican_mountains nosy_ampela kwenyii
+            beautemps_beaupre_atoll new_caledonia_barrier_reef_1 belep new_caledonia_barrier_reef_2 entrecasteaux_atoll marotiri oparo raivavae_atoll raivavae tubuai_atoll
+            tubuai rurutu nororotu_atoll rimatara hiva_oa ua_pou ua_huka bayonnaise_banks nuku_hiva eiao
+            puka_puka_atoll napuka_atoll motutunga_atoll haraiki_atoll nganaa_nui_atoll hereheretue_atoll fangatau_atoll raroia_atoll taenga_atoll rekareka_atoll
+            makemo_atoll acteon reao reitoru_atoll tauere_atoll hikueru_atoll taunga_tauranga_atoll tatakoto papakena_atoll paraoa_atoll
+            marokau_atoll nengonengo_atoll haorangi_atoll nukutavake tematagi_atoll anuanuraro_atoll nihiru_atoll manuae_atoll maupihaa_atoll motu_one_atoll
+            mehetia rangiroa_atoll havaii arutua_atoll pora_pora_atoll pora_pora havaii_atoll maupiti_atoll aopuni_atoll maiao
+            tahiti_atoll tahiti moorea_atoll moorea tetiaroa_atoll huahine_atoll huahine makatea_atoll kaukura_atoll tikehau_atoll
+            saint_paul_island kergelen walichi
          }
 
          #include = "republic"
@@ -2236,7 +2543,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2258,7 +2565,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2278,7 +2585,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2298,7 +2605,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2337,9 +2644,8 @@ countries = {
             coleraine derry downpatrick dungannon dunluce enniskillen iveagh magherafelt newtownards oriel
             strabane orkney shetland st_helena ochil_hills pennines_01 pennines_03 pennines_02 north_york_moors pennines_06
             pennines_05 pennines_04 cambrian_mountains snowdon berwyn_range dartmoor brecon_beacons ben_nevis cairngorm ben_klibreck
-            fannichs carn_eige scilly_isles georgia_isle tristan_da_cunha_island gough_island malliouhana ariogana ascensao 
-			oeno_atoll pitcairn henderson ducie_atoll 
-			new132 new131
+            fannichs carn_eige scilly_isles georgia_isle tristan_da_cunha_island gough_island malliouhana ariogana ascensao oeno_atoll
+            pitcairn henderson ducie_atoll new132 new131
          }
 
          include = "expl_mdm_whole_world"
@@ -2347,8 +2653,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      GCOL = {
+         country_rank = rank_county
+       }
 
 
       GEO = {
@@ -2374,7 +2685,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2429,7 +2740,7 @@ countries = {
             vaihingen waldburg waldsee welzheim wertingen baden bensheim bonndorf bruchsal buchen
             calw durlach erbach freiburg furstenberg germersheim hachberg heidelberg heilbronn kaiserslautern
             landau_rhineland leiningen mosbach mullheim nagold neustadt_an_der_haardt oberkirch oberndorf offenburg pirmasens
-            sinsheim speyer villingen waldshut zweibrucken amrum_island_wasteland
+            sinsheim speyer villingen waldshut zweibrucken amrum_island_wasteland new149
          }
 
          #include = "republic"
@@ -2438,7 +2749,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2461,14 +2772,23 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      GLAK = {
+         country_rank = rank_county
+       }
 
 
       GLC = {
          country_rank = rank_county
+       }
 
-       }
+
+      GPLA = {
+         country_rank = rank_county
+       }
 
 
       GRE = {
@@ -2499,7 +2819,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2519,7 +2839,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2542,7 +2862,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2564,8 +2884,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      GULF = {
+         country_rank = rank_county
+       }
 
 
       GUYA = {
@@ -2585,7 +2910,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2613,7 +2938,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2634,7 +2959,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2654,7 +2979,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2676,7 +3001,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2701,8 +3026,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      IBER = {
+         country_rank = rank_county
+       }
 
 
       ICE = {
@@ -2723,7 +3053,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2846,7 +3176,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2915,7 +3245,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -2989,7 +3319,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3021,7 +3351,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3048,7 +3378,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3072,7 +3402,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3125,7 +3455,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3147,7 +3477,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3167,7 +3497,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3230,7 +3560,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3252,7 +3582,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3296,7 +3626,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3319,7 +3649,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3342,7 +3672,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3354,8 +3684,8 @@ countries = {
 
          own_control_core = {
             abaiang_atoll abemama_atoll butaritari_atoll maiana_atoll nonouti_atoll onotoa_atoll tabiteuea_atoll tarawa_atoll kiritimati tabuaeran
-            arorae banaba beru_atoll aranuka_atoll kiritimati_atoll teraina kingman_reff palmyra_atoll
-			caroline kanton_atoll manra_atoll orona_atoll malden nikumaroro_atoll starbuck
+            arorae banaba beru_atoll aranuka_atoll kiritimati_atoll teraina kingman_reff palmyra_atoll caroline kanton_atoll
+            manra_atoll orona_atoll malden nikumaroro_atoll starbuck
          }
 
          #include = "republic"
@@ -3364,8 +3694,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      KORE = {
+         country_rank = rank_county
+       }
 
 
       KOSO = {
@@ -3384,7 +3719,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3404,7 +3739,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3428,7 +3763,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3453,7 +3788,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3476,7 +3811,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3496,7 +3831,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3516,7 +3851,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3537,7 +3872,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3565,7 +3900,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3585,7 +3920,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3609,7 +3944,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3629,7 +3964,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3649,7 +3984,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3670,7 +4005,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3698,7 +4033,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3727,7 +4062,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3754,7 +4089,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3774,7 +4109,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3795,7 +4130,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3807,8 +4142,8 @@ countries = {
 
          own_control_core = {
             ailinglaplap_atoll bikini_atoll enewetak_atoll jaluit_atoll kwajalein_atoll namu_atoll rongelap_atoll rongerik_atoll ujae_atoll ailuk_atoll
-            arno_atoll aur_atoll erikub_atoll likiep_atoll majuro_atoll maloelap_atoll mili_atoll namorik_atoll taka_atoll wotje_atoll bikar_atoll
-            taongi_atoll ailinginae_atoll ebon_atoll wotho_atoll ujelang_atoll new160
+            arno_atoll aur_atoll erikub_atoll likiep_atoll majuro_atoll maloelap_atoll mili_atoll namorik_atoll taka_atoll wotje_atoll
+            bikar_atoll taongi_atoll ailinginae_atoll ebon_atoll wotho_atoll ujelang_atoll new160
          }
 
          #include = "republic"
@@ -3817,7 +4152,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3837,7 +4172,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3861,14 +4196,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
       MER = {
          country_rank = rank_county
-
-       }
+       }
 
 
       MEX = {
@@ -3935,7 +4269,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3968,7 +4302,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -3980,9 +4314,8 @@ countries = {
 
          own_control_core = {
             ulithi_atoll woleai_atoll yap chuuk kosrae pohnpei poluwat_atoll pulusuk_atoll satawan_atoll pohnpei_atoll
-            ngatik_atoll oroluk_atoll losap_atoll hall_atoll chuuk_lagoon helene_atoll namonuito_atoll elgin_atoll
-            pulap_atoll caroline_atoll lamotrek_atoll piagailoe_atoll west_faru_atoll faraulep_atoll ngulu_atoll 
-            minto_atoll mokil_atoll namoluk_atoll 
+            ngatik_atoll oroluk_atoll losap_atoll hall_atoll chuuk_lagoon helene_atoll namonuito_atoll elgin_atoll pulap_atoll caroline_atoll
+            lamotrek_atoll piagailoe_atoll west_faru_atoll faraulep_atoll ngulu_atoll minto_atoll mokil_atoll namoluk_atoll
          }
 
          #include = "republic"
@@ -3991,8 +4324,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      MIED = {
+         country_rank = rank_county
+       }
 
 
       MOLD = {
@@ -4016,7 +4354,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4031,8 +4369,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -4053,7 +4390,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4090,7 +4427,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4117,8 +4454,173 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      MTPB = {
+         country_rank = rank_county
+       }
+
+
+      MXAG = {
+         country_rank = rank_county
+       }
+
+
+      MXBC = {
+         country_rank = rank_county
+       }
+
+
+      MXBS = {
+         country_rank = rank_county
+       }
+
+
+      MXCH = {
+         country_rank = rank_county
+       }
+
+
+      MXCL = {
+         country_rank = rank_county
+       }
+
+
+      MXCM = {
+         country_rank = rank_county
+       }
+
+
+      MXCO = {
+         country_rank = rank_county
+       }
+
+
+      MXCS = {
+         country_rank = rank_county
+       }
+
+
+      MXDF = {
+         country_rank = rank_county
+       }
+
+
+      MXDG = {
+         country_rank = rank_county
+       }
+
+
+      MXGR = {
+         country_rank = rank_county
+       }
+
+
+      MXGT = {
+         country_rank = rank_county
+       }
+
+
+      MXHG = {
+         country_rank = rank_county
+       }
+
+
+      MXJA = {
+         country_rank = rank_county
+       }
+
+
+      MXMC = {
+         country_rank = rank_county
+       }
+
+
+      MXMO = {
+         country_rank = rank_county
+       }
+
+
+      MXMX = {
+         country_rank = rank_county
+       }
+
+
+      MXNA = {
+         country_rank = rank_county
+       }
+
+
+      MXNL = {
+         country_rank = rank_county
+       }
+
+
+      MXOA = {
+         country_rank = rank_county
+       }
+
+
+      MXPU = {
+         country_rank = rank_county
+       }
+
+
+      MXQR = {
+         country_rank = rank_county
+       }
+
+
+      MXQT = {
+         country_rank = rank_county
+       }
+
+
+      MXSI = {
+         country_rank = rank_county
+       }
+
+
+      MXSL = {
+         country_rank = rank_county
+       }
+
+
+      MXSO = {
+         country_rank = rank_county
+       }
+
+
+      MXTB = {
+         country_rank = rank_county
+       }
+
+
+      MXTL = {
+         country_rank = rank_county
+       }
+
+
+      MXTM = {
+         country_rank = rank_county
+       }
+
+
+      MXVE = {
+         country_rank = rank_county
+       }
+
+
+      MXYU = {
+         country_rank = rank_county
+       }
+
+
+      MXZA = {
+         country_rank = rank_county
+       }
 
 
       MYAN = {
@@ -4155,8 +4657,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      NAFR = {
+         country_rank = rank_county
+       }
 
 
       NAMI = {
@@ -4179,7 +4686,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4199,14 +4706,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
       NAV = {
          country_rank = rank_county
-
-       }
+       }
 
 
       NCYP = {
@@ -4225,7 +4731,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4241,7 +4747,7 @@ countries = {
             kampen leeuwarden meppel oldenzaal sloten stavoren wedde wolvega zwolle alkmaar
             amersfoort amsterdam apeldoorn arnhem doetinchem dordrecht geertruidenberg harderwijk hoorn leiden
             middelburg nijmegen rotterdam the_hague tiel utrecht zutphen new93 new119 new117
-            new118 new130
+            new118 new130 new158
          }
 
          include = "expl_mdm_whole_world"
@@ -4249,8 +4755,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      NENG = {
+         country_rank = rank_county
+       }
 
 
       NICR = {
@@ -4271,7 +4782,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4297,7 +4808,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4331,7 +4842,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4351,7 +4862,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4377,7 +4888,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4407,8 +4918,18 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      NORD = {
+         country_rank = rank_county
+       }
+
+
+      NORT = {
+         country_rank = rank_county
+       }
 
 
       NPL = {
@@ -4432,8 +4953,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      NROS = {
+         country_rank = rank_county
+       }
 
 
       NZEA = {
@@ -4447,26 +4973,25 @@ countries = {
             tararua tauranga te_tairawhiti urewera wairarapa wairoa waitangi wellington whakatane whanganui
             whangarei rekohu akaroa hurunui kahurangi kaiapoi kaikoura kaitangata mahitahi mawhera
             motupohue okarito otakou otepoti puari rakaia rakiura taramakau tauihu te_tai_aorere
-            timaru waihopai whakatu nukunonu_atoll nz9 nz8 nz7 nz10 nz11
-            nz12 nz5 nz6 nz4 nz1 nz3 nz2 nz16 nz15 nz13
-            nz18 nz17 nz22 nz14 nz20 nz30 nz21 nz29 nz28 nz27
-            nz25 taranaki nz33 nz34 nz40 nz32 nz31 nz41 nz26
-            nz35 nz39 nz38 nz36 nz37 nz42 nz43 nz44 nz66 nz67
-            nz68 nz70 nz59 nz58 nz60 nz79 nz72 nz62 nz19 nz23
-            nz24 nz48 nz45 nz46 nz49 nz50 nz47 nz54 nz53
-            nz56 nz55 nz51 nz52 nz176 nz170 nz173 nz147 nz148
-            nz150 nz78 nz80 nz84 nz81 nz83 nz85 nz86 nz82 nz87
-            nz89 nz101 nz110 nz106 nz179 nz103 nz108 nz105 nz107 nz102
-            nz115 nz99 nz100 nz111 nz112 nz113 nz122 nz174 nz178 nz175
-            nz124 nz104 nz118 nz119 nz177 nz149
-            nz125 nz142 nz116 nz117 nz121 nz139 nz141 nz137 nz140
-            nz120 nz136 nz134 nz77 nz76 nz73 nz90 nz74 nz91 nz92
-            nz93 nz94 nz95 nz96 nz88 nz75 nz65 nz71 nz57 nz64
-            nz69 nz63 nz61 nz98 nz114 nz171 nz172 nz168
-            nz169 nz152 nz153 nz166 nz165 nz167 nz154 nz161
-            nz160 nz146 nz155 nz157 nz163 nz156 nz162 nz180 nz143
-            nz144 nz145 nz128 nz135 nz129 nz138 nz126 nz159 nz127 nz130
-            nz133 nz132 nz151 nz131 nz158 southern_alps ruapehu atafu_atoll  
+            timaru waihopai whakatu nukunonu_atoll nz9 nz8 nz7 nz10 nz11 nz12
+            nz5 nz6 nz4 nz1 nz3 nz2 nz16 nz15 nz13 nz18
+            nz17 nz22 nz14 nz20 nz30 nz21 nz29 nz28 nz27 nz25
+            taranaki nz33 nz34 nz40 nz32 nz31 nz41 nz26 nz35 nz39
+            nz38 nz36 nz37 nz42 nz43 nz44 nz66 nz67 nz68 nz70
+            nz59 nz58 nz60 nz79 nz72 nz62 nz19 nz23 nz24 nz48
+            nz45 nz46 nz49 nz50 nz47 nz54 nz53 nz56 nz55 nz51
+            nz52 nz176 nz170 nz173 nz147 nz148 nz150 nz78 nz80 nz84
+            nz81 nz83 nz85 nz86 nz82 nz87 nz89 nz101 nz110 nz106
+            nz179 nz103 nz108 nz105 nz107 nz102 nz115 nz99 nz100 nz111
+            nz112 nz113 nz122 nz174 nz178 nz175 nz124 nz104 nz118 nz119
+            nz177 nz149 nz125 nz142 nz116 nz117 nz121 nz139 nz141 nz137
+            nz140 nz120 nz136 nz134 nz77 nz76 nz73 nz90 nz74 nz91
+            nz92 nz93 nz94 nz95 nz96 nz88 nz75 nz65 nz71 nz57
+            nz64 nz69 nz63 nz61 nz98 nz114 nz171 nz172 nz168 nz169
+            nz152 nz153 nz166 nz165 nz167 nz154 nz161 nz160 nz146 nz155
+            nz157 nz163 nz156 nz162 nz180 nz143 nz144 nz145 nz128 nz135
+            nz129 nz138 nz126 nz159 nz127 nz130 nz133 nz132 nz151 nz131
+            nz158 southern_alps ruapehu atafu_atoll
          }
 
          include = "expl_mdm_whole_world"
@@ -4474,7 +4999,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4501,8 +5026,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      OSUL = {
+         country_rank = rank_county
+       }
 
 
       PAKI = {
@@ -4542,7 +5072,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4561,7 +5091,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4572,7 +5102,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-			angaur belau belau_atoll
+            angaur belau belau_atoll
          }
 
          #include = "republic"
@@ -4581,7 +5111,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4603,7 +5133,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4634,7 +5164,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4657,8 +5187,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      PEBO = {
+         country_rank = rank_county
+       }
 
 
       PERU = {
@@ -4700,7 +5235,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4732,14 +5267,18 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
       PIR = {
          country_rank = rank_county
+       }
 
-       }
+
+      PLLT = {
+         country_rank = rank_county
+       }
 
 
       POL = {
@@ -4783,7 +5322,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4810,7 +5349,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4830,7 +5369,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -4865,8 +5404,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      ROCK = {
+         country_rank = rank_county
+       }
 
 
       RUS = {
@@ -5110,7 +5654,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5130,7 +5674,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5164,8 +5708,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      SAHE = {
+         country_rank = rank_county
+       }
 
 
       SAM = {
@@ -5184,7 +5733,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5204,7 +5753,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5267,8 +5816,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      SCAN = {
+         country_rank = rank_county
+       }
 
 
       SENE = {
@@ -5291,7 +5845,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5315,7 +5869,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5335,7 +5889,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5367,7 +5921,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5387,7 +5941,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5416,7 +5970,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5437,7 +5991,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5460,7 +6014,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5481,7 +6035,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5501,7 +6055,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5516,8 +6070,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -5537,8 +6090,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      SNGM = {
+         country_rank = rank_county
+       }
 
 
       SOLO = {
@@ -5560,7 +6118,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5584,7 +6142,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5605,7 +6163,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5625,7 +6183,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5683,7 +6241,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5705,7 +6263,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5727,7 +6285,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5747,7 +6305,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5774,8 +6332,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      SUDE = {
+         country_rank = rank_county
+       }
 
 
       SURI = {
@@ -5794,7 +6357,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5814,7 +6377,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5850,7 +6413,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5875,7 +6438,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5901,7 +6464,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5923,7 +6486,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5946,7 +6509,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5973,7 +6536,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -5984,7 +6547,7 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            haapai tongatapu vauvau eua haapai_atoll tongatapu_atoll niuafo_ou niuatoputapu_atoll zephyr_atoll 
+            haapai tongatapu vauvau eua haapai_atoll tongatapu_atoll niuafo_ou niuatoputapu_atoll zephyr_atoll
          }
 
          #include = "polynesian_monarchy"
@@ -5993,7 +6556,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6013,7 +6576,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6033,7 +6596,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6053,7 +6616,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6077,7 +6640,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6101,7 +6664,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6162,7 +6725,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6182,7 +6745,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6204,7 +6767,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6225,7 +6788,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6271,7 +6834,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6286,8 +6849,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -6308,7 +6870,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6471,79 +7033,79 @@ countries = {
             red_rock rock_springs routt ruby_valley savery sinclair split_rock sweetwater tavaputs taveewach
             taviwac teewinot tondzaosha to_aheedliinii tukudika uintah uncompaghre wamsutter wasatch washakie
             winimuc yapudttka hagatna saipan hilo kaua_i ka_u kohala kona lahaina
-            maui moloka_i honolulu tutuila manua usa301 usa302 usa298 usa297 usa310 usa300
-            usa309 usa306 usa311 usa307 usa305 usa314 usa303 usa299 usa351 usa315
-            usa308 usa312 usa352 usa304 usa316 usa348 usa318 usa319 usa313 usa349
-            usa317 usa347 usa324 usa353 usa328 usa323 usa354 usa356 usa327 usa559
-            usa333 usa331 usa357 usa332 usa344 usa320 usa355 usa350 usa321 usa326
-            usa325 usa339 usa341 usa337 usa322 usa335 usa329 usa346 usa330 usa345
-            usa600 usa560 usa340 usa338 usa336 usa343 usa342 usa334 usa450 usa447
-            usa599 usa598 usa594 usa593 usa448 usa459 usa294 usa458 usa451 usa437
-            usa597 usa449 usa446 usa460 usa457 usa592 usa436 usa595 usa296 usa293
-            usa440 usa596 usa591 usa434 usa452 usa295 usa461 usa292 usa456 usa442
-            usa557 usa558 usa582 usa585 usa584 usa572 usa578 usa577 usa576 usa564
-            usa563 usa565 usa579 usa377 usa570 usa583 usa586 usa590 usa580 usa376
-            usa380 usa378 usa366 usa581 usa369 usa367 usa589 usa588 usa386 usa587
-            usa387 usa375 usa373 usa374 usa372 usa371 usa370 usa368 usa406 usa383
-            usa381 usa379 usa390 usa439 usa384 usa389 usa407 usa382 usa405 usa441
-            usa388 usa385 usa392 usa443 usa435 usa444 usa429 usa427 usa432 usa433
-            usa428 usa412 usa418 usa413 usa422 usa411 usa410 usa417 usa415 usa414
-            usa416 usa409 usa426 usa403 usa364 usa365 usa430 usa363 usa431 usa421
-            usa362 usa359 usa358 usa556 usa552 usa550 usa553 usa555 usa554 usa573
-            usa545 usa562 usa546 usa571 usa569 usa574 usa568 usa567 usa536 usa535
-            usa575 usa533 usa542 usa538 usa537 usa534 usa531 usa530 usa532 usa547
-            usa548 usa566 usa529 usa518 usa519 usa509 usa527 usa522 usa526 usa517
-            usa528 usa524 usa520 usa514 usa512 usa525 usa513 usa507 usa508 usa539
-            usa505 usa506 usa541 usa544 usa561 usa549 usa551 usa543 usa540 usa504
-            usa503 usa499 usa501 usa500 usa515 usa498 usa516 usa523 usa502 usa497
-            usa511 usa510 usa400 usa521 usa396 usa402 usa401 usa399 usa398 usa397
-            usa404 usa393 usa391 usa395 usa394 usa425 usa423 usa419 usa424 usa420
-            usa360 usa361 usa453 usa454 usa455 usa170 usa13 usa89 usa18 usa104
-            usa108 usa173 usa78 usa255 usa259 usa270 usa271 usa265 usa254 usa264
-            usa251 usa266 usa249 usa250 usa245 usa261 usa252 usa253 usa268 usa269
-            usa241 usa243 usa244 usa263 usa239 usa237 usa236 usa70 usa71 usa61
-            usa72 usa74 usa60 usa63 usa59 usa65 usa67 usa62 usa66 usa68
-            usa64 usa90 usa130 usa93 usa139 usa175 usa140 usa91 usa92 usa96
-            usa138 usa99 usa131 usa240 usa242 usa235 usa234 usa238 usa232 usa233
-            usa171 usa69 usa84 usa105 usa159 usa161 usa291 usa158 usa160 usa11
-            usa166 usa174 usa88 usa164 usa165 usa86 usa79 usa76 usa75 usa77
-            usa106 usa109 usa156 usa230 usa155 usa157 usa163 usa162 usa107 usa111
-            usa228 usa151 usa152 usa229 usa153 usa148 usa154 usa80 usa87 usa85
-            usa73 usa82 usa81 usa149 usa83 usa150 usa225 usa227 usa231 usa113
-            usa226 usa112 usa146 usa224 usa222 usa223 usa115 usa116 usa221 usa117
-            usa147 usa142 usa144 usa143 usa137 usa145 usa119 powalu usa120 tanalelti
-            usa121 usa216 usa141 usa126 reno usa123 usa220 usa124 usa217 usa219
-            usa181 usa215 usa211 usa212 usa122 usa218 usa182 usa213 usa214 usa178
-            usa180 usa179 usa191 usa177 usa183 usa208 usa136 usa135 usa95 usa176
-            usa127 usa132 usa94 usa98 usa133 usa101 usa125 usa198 usa100 usa102
-            usa118 usa128 usa129 usa199 usa134 usa103 usa210 usa209 usa190 usa196
-            usa200 usa187 usa192 usa204 usa188 usa189 usa194 usa195 usa197 usa205
-            usa207 usa202 usa193 usa184 usa186 usa203 usa206 usa172 usa97 usa169
-            usa168 usa167 usa267 usa45 usa17 usa19 usa12 usa7 usa48 usa272
-            usa262 usa246 usa260 usa247 usa279 usa284 usa257 usa281 usa280 usa287
-            usa258 usa286 usa285 usa288 usa274 usa283 usa278 usa282 usa277 salton_lake
-            usa290 usa54 usa289 usa275 usa276 usa15 usa20 usa16 usa9 usa49
-            usa47 usa40 usa14 usa10 usa6 usa42 usa8 usa5 usa43 usa44
-            usa21 usa41 usa4 usa24 usa3 usa36 usa23 usa46 usa256 usa28
-            usa32 usa25 usa37 usa22 usa34 usa38 usa39 usa2 usa27 usa273
-            usa35 usa33 usa1 usa31 usa29 usa58 usa30 usa56 usa55 usa52
-            usa50 usa51 usa53 usa57 usa481 usa484 usa483 usa495 usa494 usa493
-            usa482 usa492 usa477 usa472 usa473 usa480 usa470 usa491 usa471 usa479
-            usa488 usa486 usa485 usa487 usa476 usa489 usa475 usa469 usa468 usa478
-            usa474 usa465 usa490 usa464 usa462 usa466 usa463 usa467 cumberland_mountains_9 shenandoah_mountains
-            cumberland_mountains_8 cumberland_mountains_7 cumberland_mountains_6 cumberland_mountains cumberland_mountains_3 shady_valley_wasteland blue_ridge_mountains_2 cumberland_mountains_5 cumberland_mountains_4 cumberland_mountains_2
-            tanasee_ridge great_smokies blue_ridge_mountains walden_ridge chattahoochee_forest nantahala_forest cohutta_mountains kuwohi ouachita_mts ouachita_ok
-            channel_islands nomlaki_range chumawi_range klamath_range south_cascade central_cascade north_cascade badlands_mt_2 sw_ktunaxa_ranges rockies_mt
-            selish_range_n nd_badlands selish_range_s badlands_sd_n badlands_mt great_belt_mountains little_belt_mountains bighorn_mountains dukundeka agaidika_range
-            bannock_range arapaho shoshonne laramie_range bear_river_e bear_river_w tosa_konoki dzil_ligai_mountains colorado east_yuttahih
-            grand_teton atsa_kudok_wa c_nuchiu_range nuchiu_range nuwuvi_wasteland yuttahih toyabe sierra_nevada_c grand_canyon pagayuat
-            nuwuvi_desert newe_wasteland atigun_pass chumash_ranges inyo_mountains sierra_nevada_s coast_mountains_et nabesna_forest_et gwichin_uplands_et wrangell_mountains_et
-            central_forest chandalar_forest chugach_mtns tanana_forest alaska yukon_flats alaska_range koyukon_forest dall_plains togiagamiut_forest
-            deg_xit_an_forest dena_ina_uplands yukkhana yukonikhotana gwazhal_mountains koyukuk_forest malemiut_plains kugirukuk kobuk noatak
-            utqiagvik gwazhal_hills kugmiut_uplands uracas maug agrihan alamagan pagan_island noos anatahan
-            rota guahan_atoll mauna_loa nihoa mokumanamana kanemilohai_atoll
-            kauo papa_apoho_atoll holaniku_atoll kuaihelani_atoll holoikauaua_atoll vieques_island mona_island aburakeiru new128 new129
-            new126 new127 new125 new124 new123 new122 new121 new120
+            maui moloka_i honolulu tutuila manua usa301 usa302 usa298 usa297 usa310
+            usa300 usa309 usa306 usa311 usa307 usa305 usa314 usa303 usa299 usa351
+            usa315 usa308 usa312 usa352 usa304 usa316 usa348 usa318 usa319 usa313
+            usa349 usa317 usa347 usa324 usa353 usa328 usa323 usa354 usa356 usa327
+            usa559 usa333 usa331 usa357 usa332 usa344 usa320 usa355 usa350 usa321
+            usa326 usa325 usa339 usa341 usa337 usa322 usa335 usa329 usa346 usa330
+            usa345 usa600 usa560 usa340 usa338 usa336 usa343 usa342 usa334 usa450
+            usa447 usa599 usa598 usa594 usa593 usa448 usa459 usa294 usa458 usa451
+            usa437 usa597 usa449 usa446 usa460 usa457 usa592 usa436 usa595 usa296
+            usa293 usa440 usa596 usa591 usa434 usa452 usa295 usa461 usa292 usa456
+            usa442 usa557 usa558 usa582 usa585 usa584 usa572 usa578 usa577 usa576
+            usa564 usa563 usa565 usa579 usa377 usa570 usa583 usa586 usa590 usa580
+            usa376 usa380 usa378 usa366 usa581 usa369 usa367 usa589 usa588 usa386
+            usa587 usa387 usa375 usa373 usa374 usa372 usa371 usa370 usa368 usa406
+            usa383 usa381 usa379 usa390 usa439 usa384 usa389 usa407 usa382 usa405
+            usa441 usa388 usa385 usa392 usa443 usa435 usa444 usa429 usa427 usa432
+            usa433 usa428 usa412 usa418 usa413 usa422 usa411 usa410 usa417 usa415
+            usa414 usa416 usa409 usa426 usa403 usa364 usa365 usa430 usa363 usa431
+            usa421 usa362 usa359 usa358 usa556 usa552 usa550 usa553 usa555 usa554
+            usa573 usa545 usa562 usa546 usa571 usa569 usa574 usa568 usa567 usa536
+            usa535 usa575 usa533 usa542 usa538 usa537 usa534 usa531 usa530 usa532
+            usa547 usa548 usa566 usa529 usa518 usa519 usa509 usa527 usa522 usa526
+            usa517 usa528 usa524 usa520 usa514 usa512 usa525 usa513 usa507 usa508
+            usa539 usa505 usa506 usa541 usa544 usa561 usa549 usa551 usa543 usa540
+            usa504 usa503 usa499 usa501 usa500 usa515 usa498 usa516 usa523 usa502
+            usa497 usa511 usa510 usa400 usa521 usa396 usa402 usa401 usa399 usa398
+            usa397 usa404 usa393 usa391 usa395 usa394 usa425 usa423 usa419 usa424
+            usa420 usa360 usa361 usa453 usa454 usa455 usa170 usa13 usa89 usa18
+            usa104 usa108 usa173 usa78 usa255 usa259 usa270 usa271 usa265 usa254
+            usa264 usa251 usa266 usa249 usa250 usa245 usa261 usa252 usa253 usa268
+            usa269 usa241 usa243 usa244 usa263 usa239 usa237 usa236 usa70 usa71
+            usa61 usa72 usa74 usa60 usa63 usa59 usa65 usa67 usa62 usa66
+            usa68 usa64 usa90 usa130 usa93 usa139 usa175 usa140 usa91 usa92
+            usa96 usa138 usa99 usa131 usa240 usa242 usa235 usa234 usa238 usa232
+            usa233 usa171 usa69 usa84 usa105 usa159 usa161 usa291 usa158 usa160
+            usa11 usa166 usa174 usa88 usa164 usa165 usa86 usa79 usa76 usa75
+            usa77 usa106 usa109 usa156 usa230 usa155 usa157 usa163 usa162 usa107
+            usa111 usa228 usa151 usa152 usa229 usa153 usa148 usa154 usa80 usa87
+            usa85 usa73 usa82 usa81 usa149 usa83 usa150 usa225 usa227 usa231
+            usa113 usa226 usa112 usa146 usa224 usa222 usa223 usa115 usa116 usa221
+            usa117 usa147 usa142 usa144 usa143 usa137 usa145 usa119 powalu usa120
+            tanalelti usa121 usa216 usa141 usa126 reno usa123 usa220 usa124 usa217
+            usa219 usa181 usa215 usa211 usa212 usa122 usa218 usa182 usa213 usa214
+            usa178 usa180 usa179 usa191 usa177 usa183 usa208 usa136 usa135 usa95
+            usa176 usa127 usa132 usa94 usa98 usa133 usa101 usa125 usa198 usa100
+            usa102 usa118 usa128 usa129 usa199 usa134 usa103 usa210 usa209 usa190
+            usa196 usa200 usa187 usa192 usa204 usa188 usa189 usa194 usa195 usa197
+            usa205 usa207 usa202 usa193 usa184 usa186 usa203 usa206 usa172 usa97
+            usa169 usa168 usa167 usa267 usa45 usa17 usa19 usa12 usa7 usa48
+            usa272 usa262 usa246 usa260 usa247 usa279 usa284 usa257 usa281 usa280
+            usa287 usa258 usa286 usa285 usa288 usa274 usa283 usa278 usa282 usa277
+            salton_lake usa290 usa54 usa289 usa275 usa276 usa15 usa20 usa16 usa9
+            usa49 usa47 usa40 usa14 usa10 usa6 usa42 usa8 usa5 usa43
+            usa44 usa21 usa41 usa4 usa24 usa3 usa36 usa23 usa46 usa256
+            usa28 usa32 usa25 usa37 usa22 usa34 usa38 usa39 usa2 usa27
+            usa273 usa35 usa33 usa1 usa31 usa29 usa58 usa30 usa56 usa55
+            usa52 usa50 usa51 usa53 usa57 usa481 usa484 usa483 usa495 usa494
+            usa493 usa482 usa492 usa477 usa472 usa473 usa480 usa470 usa491 usa471
+            usa479 usa488 usa486 usa485 usa487 usa476 usa489 usa475 usa469 usa468
+            usa478 usa474 usa465 usa490 usa464 usa462 usa466 usa463 usa467 cumberland_mountains_9
+            shenandoah_mountains cumberland_mountains_8 cumberland_mountains_7 cumberland_mountains_6 cumberland_mountains cumberland_mountains_3 shady_valley_wasteland blue_ridge_mountains_2 cumberland_mountains_5 cumberland_mountains_4
+            cumberland_mountains_2 tanasee_ridge great_smokies blue_ridge_mountains walden_ridge chattahoochee_forest nantahala_forest cohutta_mountains kuwohi ouachita_mts
+            ouachita_ok channel_islands nomlaki_range chumawi_range klamath_range south_cascade central_cascade north_cascade badlands_mt_2 sw_ktunaxa_ranges
+            rockies_mt selish_range_n nd_badlands selish_range_s badlands_sd_n badlands_mt great_belt_mountains little_belt_mountains bighorn_mountains dukundeka
+            agaidika_range bannock_range arapaho shoshonne laramie_range bear_river_e bear_river_w tosa_konoki dzil_ligai_mountains colorado
+            east_yuttahih grand_teton atsa_kudok_wa c_nuchiu_range nuchiu_range nuwuvi_wasteland yuttahih toyabe sierra_nevada_c grand_canyon
+            pagayuat nuwuvi_desert newe_wasteland atigun_pass chumash_ranges inyo_mountains sierra_nevada_s coast_mountains_et nabesna_forest_et gwichin_uplands_et
+            wrangell_mountains_et central_forest chandalar_forest chugach_mtns tanana_forest alaska yukon_flats alaska_range koyukon_forest dall_plains
+            togiagamiut_forest deg_xit_an_forest dena_ina_uplands yukkhana yukonikhotana gwazhal_mountains koyukuk_forest malemiut_plains kugirukuk kobuk
+            noatak utqiagvik gwazhal_hills kugmiut_uplands uracas maug agrihan alamagan pagan_island noos
+            anatahan rota guahan_atoll mauna_loa nihoa mokumanamana kanemilohai_atoll kauo papa_apoho_atoll holaniku_atoll
+            kuaihelani_atoll holoikauaua_atoll vieques_island mona_island aburakeiru new128 new129 new126 new127 new125
+            new124 new123 new122 new121 new120
          }
 
          #include = "republic"
@@ -6552,8 +7114,293 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      USAK = {
+         country_rank = rank_county
+       }
+
+
+      USAL = {
+         country_rank = rank_county
+       }
+
+
+      USAR = {
+         country_rank = rank_county
+       }
+
+
+      USAS = {
+         country_rank = rank_county
+       }
+
+
+      USAZ = {
+         country_rank = rank_county
+       }
+
+
+      USCA = {
+         country_rank = rank_county
+       }
+
+
+      USCO = {
+         country_rank = rank_county
+       }
+
+
+      USCT = {
+         country_rank = rank_county
+       }
+
+
+      USDC = {
+         country_rank = rank_county
+       }
+
+
+      USDE = {
+         country_rank = rank_county
+       }
+
+
+      USFL = {
+         country_rank = rank_county
+       }
+
+
+      USGA = {
+         country_rank = rank_county
+       }
+
+
+      USGU = {
+         country_rank = rank_county
+       }
+
+
+      USHI = {
+         country_rank = rank_county
+       }
+
+
+      USIA = {
+         country_rank = rank_county
+       }
+
+
+      USID = {
+         country_rank = rank_county
+       }
+
+
+      USIL = {
+         country_rank = rank_county
+       }
+
+
+      USIN = {
+         country_rank = rank_county
+       }
+
+
+      USKS = {
+         country_rank = rank_county
+       }
+
+
+      USKY = {
+         country_rank = rank_county
+       }
+
+
+      USLA = {
+         country_rank = rank_county
+       }
+
+
+      USMA = {
+         country_rank = rank_county
+       }
+
+
+      USMD = {
+         country_rank = rank_county
+       }
+
+
+      USME = {
+         country_rank = rank_county
+       }
+
+
+      USMI = {
+         country_rank = rank_county
+       }
+
+
+      USMN = {
+         country_rank = rank_county
+       }
+
+
+      USMO = {
+         country_rank = rank_county
+       }
+
+
+      USMP = {
+         country_rank = rank_county
+       }
+
+
+      USMS = {
+         country_rank = rank_county
+       }
+
+
+      USMT = {
+         country_rank = rank_county
+       }
+
+
+      USNC = {
+         country_rank = rank_county
+       }
+
+
+      USND = {
+         country_rank = rank_county
+       }
+
+
+      USNE = {
+         country_rank = rank_county
+       }
+
+
+      USNH = {
+         country_rank = rank_county
+       }
+
+
+      USNJ = {
+         country_rank = rank_county
+       }
+
+
+      USNM = {
+         country_rank = rank_county
+       }
+
+
+      USNV = {
+         country_rank = rank_county
+       }
+
+
+      USNY = {
+         country_rank = rank_county
+       }
+
+
+      USOH = {
+         country_rank = rank_county
+       }
+
+
+      USOK = {
+         country_rank = rank_county
+       }
+
+
+      USOR = {
+         country_rank = rank_county
+       }
+
+
+      USPA = {
+         country_rank = rank_county
+       }
+
+
+      USPR = {
+         country_rank = rank_county
+       }
+
+
+      USRI = {
+         country_rank = rank_county
+       }
+
+
+      USSC = {
+         country_rank = rank_county
+       }
+
+
+      USSD = {
+         country_rank = rank_county
+       }
+
+
+      USSR = {
+         country_rank = rank_county
+       }
+
+
+      USTN = {
+         country_rank = rank_county
+       }
+
+
+      USTX = {
+         country_rank = rank_county
+       }
+
+
+      USUT = {
+         country_rank = rank_county
+       }
+
+
+      USVA = {
+         country_rank = rank_county
+       }
+
+
+      USVI = {
+         country_rank = rank_county
+       }
+
+
+      USVT = {
+         country_rank = rank_county
+       }
+
+
+      USWA = {
+         country_rank = rank_county
+       }
+
+
+      USWI = {
+         country_rank = rank_county
+       }
+
+
+      USWV = {
+         country_rank = rank_county
+       }
+
+
+      USWY = {
+         country_rank = rank_county
+       }
 
 
       UZBE = {
@@ -6578,7 +7425,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6599,7 +7446,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6614,8 +7461,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-
-          }
+          }
       }
 
 
@@ -6642,7 +7488,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6672,8 +7518,23 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      WAFR = {
+         country_rank = rank_county
+       }
+
+
+      WCAN = {
+         country_rank = rank_county
+       }
+
+
+      WIND = {
+         country_rank = rank_county
+       }
 
 
       WSAH = {
@@ -6697,7 +7558,7 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
 
 
@@ -6729,8 +7590,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      YUGO = {
+         country_rank = rank_county
+       }
 
 
       ZAMB = {
@@ -6758,8 +7624,13 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }
+
+
+      ZAPA = {
+         country_rank = rank_county
+       }
 
 
       ZMW = {
@@ -6782,6 +7653,6 @@ countries = {
          government = {
             type = republic
             ruler = random
-          }
+          }
       }}
 }
