@@ -1,4 +1,4 @@
 ﻿#name has to be 01 so it loads after the vanilla file so that stuff gets overwritten by the mod
-NBorder = {
-	SPLINE_TESSELATION_MAX_DISTANCE = 0.1
-}
+#NBorder = {
+#	SPLINE_TESSELATION_MAX_DISTANCE = 0.1
+#}
