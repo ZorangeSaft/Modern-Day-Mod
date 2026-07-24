@@ -225,7 +225,6 @@ french_language = {
 		mdm_franc_comtois_dialect = {}
 		arpitan_dialect = {}
 		mdm_walloon_dialect = {}
-		arpitan_dialect = {}
 	}
 }
 
