@@ -439,7 +439,7 @@ countries = {
             new7928 new7929 new7930 new7931 new7932 new7933 new7934 new7935 new7936 new7937
             new7938 new7939 new7940 new7941 new7942 new7943 new7944 new7945 new7946 new7947
             new7948 new7949 new7950 new7951 new7952 new7953 new7954 new7955 new7956 new7957
-            new7958 new7959 new7960 new7961 new7962 new7963 new7964 new7965
+            new7958 new7959 new7960 new7961 new7962 new7963 new7964 new7965 new7966 
          }
 
          include = "expl_mdm_whole_world"
