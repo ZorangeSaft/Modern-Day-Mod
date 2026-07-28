@@ -3048,10 +3048,15 @@
  mdm_mexican_dialect: "Mexican" #placeholder
 
 
+ #miscellaneous cultures and dialects
+
  mdm_dutch_group: "Dutch"
  mdm_dutch_culture: "Dutch"
  mdm_dutch_language: "Dutch"
  mdm_dutch_dialect: "Dutch"
+
+ mdm_flemish_cutlure: "Flemish"
+ mdm_flemish_dialect: "Flemish"
 
  mdm_belgian_group: "Belgian"
  mdm_walloon_culture: "Walloon"
@@ -3065,7 +3070,7 @@
  mdm_benelux_group: "Benelux"
 
  mdm_alemannic_culture: "Alemannic"
- mdm_bavarian_franconian_culture: "Bavarian-Franconian"
+ mdm_bavarian_franconian_culture: "South German"
  mdm_austrian_culture: "Austrian"
  mdm_tyrolean_culture: "Tyrolean"
 

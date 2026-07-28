@@ -18,7 +18,7 @@ mdm_dutch_culture = {
 mdm_flemish_culture = {
 	language = mdm_flemish_dialect
 	
-	color = map_flemish
+	color = { 242 166 15 } #just a color i picked that looks nice
 	
 	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
 	
