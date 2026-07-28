@@ -116,6 +116,82 @@ walloon = {
 }
 
 
+#caribbean
+
+mdm_haitian_culture = {
+	language = french_language
+	
+	color = rgb { 0 0 0 }
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+	
+	opinions = {}
+	
+	culture_groups = {
+		mdm_francosphere_group
+		mdm_caribbean_group
+	}
+}
+
+mdm_french_antillan_culture = { #guadeloupe and martinique, but not the rest
+	language = french_language
+	
+	color = rgb { 0 0 0 }
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+	
+	opinions = {}
+	
+	culture_groups = {
+		mdm_francosphere_group mdm_caribbean_group mdm_french_caribbean_group
+	}
+}
+
+mdm_saint_martin_culture = { #french side of saint martin
+	language = french_language
+	
+	color = rgb { 0 0 0 }
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+	
+	opinions = {}
+	
+	culture_groups = {
+		mdm_francosphere_group
+		mdm_caribbean_group mdm_french_caribbean_group
+	}
+}
+
+mdm_saint_barthelemy_culture = { #saint barthelemy
+	language = french_language
+	
+	color = rgb { 0 0 0 }
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+	
+	opinions = {}
+	
+	culture_groups = {
+		mdm_francosphere_group
+		mdm_caribbean_group mdm_french_caribbean_group
+	}
+}
+
+mdm_french_guianese_culture = { #french guiana
+	language = french_language
+	
+	color = rgb { 0 0 0 }
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+	
+	opinions = {}
+	
+	culture_groups = {
+		mdm_francosphere_group
+		mdm_caribbean_group mdm_french_caribbean_group
+	}
+}
+
 
 
 

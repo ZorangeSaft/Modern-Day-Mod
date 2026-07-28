@@ -573,7 +573,7 @@ mdm_internationalism_group = { #internationalist cultures like UN and EU ?
 mdm_european_group = { #all european cultures
 }
 
-mdm_caribbean_group = {
+mdm_caribbean_group = { #all caribbean cultures
 }
 
 
@@ -767,6 +767,9 @@ mdm_metrochinese_group = { #big chinese cities, similar to metroamerican
 mdm_francosphere_group = { #france and former french colonies
 }
 
+mdm_french_caribbean_group = { #french caribbean islands and french guyana
+}
+
 
 
 #benelux culture groups
@@ -774,3 +777,4 @@ mdm_benelux_group = {}
 mdm_dutch_group = {}
 mdm_belgian_group = {}
 mdm_luxembourgish_group = {}
+mdm_dutch_caribbean_group = {} #nowhere else to put this really, dutch caribbean islands and suriname

@@ -425,6 +425,28 @@ english_language = {
 			patronym_suffix_son = "patronym_suffix_english_son"
 			patronym_suffix_daughter = "patronym_suffix_english_son"
 		}
+
+		#caribbean english dialects
+		anguillan_dialect = {
+			patronym_suffix_son = "patronym_suffix_english_son"
+			patronym_suffix_daughter = "patronym_suffix_english_son"
+		}
+		virgin_islander_dialect = {
+			patronym_suffix_son = "patronym_suffix_english_son"
+			patronym_suffix_daughter = "patronym_suffix_english_son"
+		}
+		cayman_islands_dialect = {
+			patronym_suffix_son = "patronym_suffix_english_son"
+			patronym_suffix_daughter = "patronym_suffix_english_son"
+		}
+		montserratan_dialect = {
+			patronym_suffix_son = "patronym_suffix_english_son"
+			patronym_suffix_daughter = "patronym_suffix_english_son"
+		}
+		bahamaian_dialect = {
+			patronym_suffix_son = "patronym_suffix_english_son"
+			patronym_suffix_daughter = "patronym_suffix_english_son"
+		}
 		#dialects not final, subject to change
 		#puerto rico speaks spanish primarily
 	}
