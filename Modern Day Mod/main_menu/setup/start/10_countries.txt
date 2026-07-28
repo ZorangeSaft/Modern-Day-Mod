@@ -77,7 +77,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = afgh_hibatullah_akhundzada
+             # ruler = afgh_hibatullah_akhundzada
          }
       }
 
@@ -100,7 +100,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = alb_bajram_begaj
+             # ruler = alb_bajram_begaj
          }
       }
 
@@ -651,7 +651,7 @@ countries = {
             antwerp borgloon bree brussels hasselt leuven mechelen nivelles turnhout aalst
             bruges ghent kortriik ostend oudenaarde sint_niklaas tournai veurne ypres arlon
             ath bastogne bouillon chimay dinant enghien la_roche liege limbourg mons
-            namur neufchateau_luxembourg orchimont stavelot st_vith walcourt
+            namur neufchateau_luxembourg orchimont stavelot st_vith walcourt new598 new599
          }
 
          #include = "catholic_monarchy"
@@ -2744,7 +2744,7 @@ countries = {
             vaihingen waldburg waldsee welzheim wertingen baden bensheim bonndorf bruchsal buchen
             calw durlach erbach freiburg furstenberg germersheim hachberg heidelberg heilbronn kaiserslautern
             landau_rhineland leiningen mosbach mullheim nagold neustadt_an_der_haardt oberkirch oberndorf offenburg pirmasens
-            sinsheim speyer villingen waldshut zweibrucken amrum_island_wasteland new149
+            sinsheim speyer villingen waldshut zweibrucken amrum_island_wasteland new149 new1022
          }
 
          #include = "republic"

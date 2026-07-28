@@ -426,7 +426,7 @@ mdm_uruguayan_culture = {
 castilian = { 
 	language = castilian_dialect
 	
-	color = rgb { 170 50 50 }
+	color = map_CAS
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
