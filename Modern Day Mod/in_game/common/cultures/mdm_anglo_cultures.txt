@@ -1423,7 +1423,7 @@ mdm_tobagonian_culture = {
 mdm_montserratian_culture = {
 	language = mdm_leeward_caribbean_english_dialect
 	
-	color = rgb {0 0 0}
+	color = rgb {0 96 163}
 	
 	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
@@ -1439,7 +1439,7 @@ mdm_montserratian_culture = {
 mdm_caymanian_culture = {
 	language = mdm_cayman_english_dialect
 	
-	color = rgb {0 0 0}
+	color = rgb {0 94 184}
 	
 	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
@@ -1455,7 +1455,7 @@ mdm_caymanian_culture = {
 mdm_virgin_islander_culture = {
 	language = mdm_virgin_islands_english_dialect
 	
-	color = rgb {0 0 0}
+	color = rgb {0 83 166}
 	
 	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
@@ -1471,7 +1471,7 @@ mdm_virgin_islander_culture = {
 mdm_anguillan_culture = {
 	language = mdm_leeward_caribbean_english_dialect
 	
-	color = rgb {0 0 0}
+	color = rgb {0 112 184}
 	
 	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
@@ -1487,7 +1487,7 @@ mdm_anguillan_culture = {
 mdm_turks_and_caicos_culture = {
 	language = mdm_bahamian_english_dialect
 	
-	color = rgb {0 0 0}
+	color = rgb {0 127 183}
 	
 	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
@@ -1503,7 +1503,7 @@ mdm_turks_and_caicos_culture = {
 mdm_bermudan_culture = {
 	language = english_dialect
 	
-	color = rgb {0 0 0}
+	color = rgb {0 60 110}
 	
 	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 

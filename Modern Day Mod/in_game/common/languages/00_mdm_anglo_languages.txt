@@ -490,7 +490,7 @@ english_language = {
 
 english_creole_language = {
 
-	color = map_ENG #todo:change this to a more appropriate color that isnt just normal english
+	color = {145 44 10} #todo:change this to a more appropriate color maby
 
 	family = germanic_language_family
 

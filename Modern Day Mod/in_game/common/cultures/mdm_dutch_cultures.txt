@@ -37,7 +37,7 @@ mdm_flemish_culture = {
 mdm_abc_islands_culture = { #aruba, bonaire, curacao
 	language = mdm_papiamento_language
 	
-	color = rgb {0 0 0}
+	color = rgb {0 101 196}
 	
 	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
 	
@@ -51,7 +51,7 @@ mdm_abc_islands_culture = { #aruba, bonaire, curacao
 mdm_sint_maartener_culture = {
 	language = mdm_saint_martin_english_dialect
 	
-	color = rgb {0 0 0}
+	color = rgb {0 122 202}
 	
 	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
 	
@@ -65,7 +65,7 @@ mdm_sint_maartener_culture = {
 mdm_statian_culture = {
 	language = mdm_statian_english_dialect
 	
-	color = rgb {0 0 0}
+	color = rgb {73 139 213}
 	
 	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
 	
@@ -79,7 +79,7 @@ mdm_statian_culture = {
 mdm_saban_culture = {
 	language = mdm_saban_english_dialect
 	
-	color = rgb {0 0 0}
+	color = rgb {84 155 203}
 	
 	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
 	
@@ -93,7 +93,7 @@ mdm_saban_culture = {
 mdm_surinamese_culture = {
 	language = mdm_dutch_dialect
 	
-	color = rgb {0 0 0}
+	color = rgb {0 136 74}
 	
 	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
 	
@@ -110,7 +110,7 @@ mdm_surinamese_culture = {
 mdm_afrikaner_culture = {
 	language = mdm_afrikaans_dialect
 	
-	color = rgb {0 0 0}
+	color = rgb {64 117 40}
 	
 	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
 	
