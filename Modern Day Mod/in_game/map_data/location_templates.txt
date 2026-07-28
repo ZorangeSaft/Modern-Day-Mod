@@ -2065,7 +2065,7 @@ dungannon = { climate = temperate_oceanic_climate culture = scottish raw_materia
 strabane = { climate = temperate_oceanic_climate culture = scottish raw_material = wheat religion = catholic topography = hills vegetation = grasslands }
 clogher = { climate = temperate_oceanic_climate culture = scottish raw_material = fiber_crops religion = catholic topography = wetlands vegetation = woods }
 enniskillen = { climate = temperate_oceanic_climate culture = scottish raw_material = livestock religion = catholic topography = flatland vegetation = grasslands }
-belcoo = { climate = temperate_oceanic_climate culture = scottish raw_material = livestock religion = catholic topography = hills vegetation = grasslands }
+belcoo = { topography = hills vegetation = grasslands climate = temperate_oceanic_climate religion = catholic culture = anglo_irish raw_material = livestock  }
 lough_erne = { topography = lakes climate = temperate_oceanic_climate}
 derry = { climate = temperate_oceanic_climate culture = scottish raw_material = horses religion = catholic topography = hills vegetation = farmland }
 coleraine = { climate = temperate_oceanic_climate culture = scottish raw_material = millet religion = catholic topography = flatland vegetation = farmland }
