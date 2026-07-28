@@ -19974,28 +19974,28 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = portuguese religion = catholic size = 1.000
       }
    }
    angra = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = portuguese religion = catholic size = 1.000
       }
    }
    horta = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = portuguese religion = catholic size = 1.000
       }
    }
    ponta_delgada = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = portuguese religion = catholic size = 1.000
       }
    }
    santa_maria = {
@@ -165859,21 +165859,21 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = igneri religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_virgin_islander_culture religion = catholic size = 1.000
       }
    }
    aburakeiru = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_puerto_rican_culture religion = catholic size = 1.000
       }
    }
    ayay = {
       define_pop
 
 
-        = {           type = peasants  culture = igneri religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_puerto_rican_culture religion = catholic size = 1.000
       }
    }
    buriari = {
@@ -166069,91 +166069,91 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_caymanian_culture religion = catholic size = 1.000
       }
    }
    caycos = {
       define_pop
 
 
-        = {           type = peasants  culture = lucayo religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_turks_and_caicos_culture religion = catholic size = 1.000
       }
    }
    guanahani = {
       define_pop
 
 
-        = {           type = peasants  culture = lucayo religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    jumento = {
       define_pop
 
 
-        = {           type = peasants  culture = lucayo religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    inagua = {
       define_pop
 
 
-        = {           type = peasants  culture = lucayo religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    samana_cay = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    utiaquia = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    abacoa = {
       define_pop
 
 
-        = {           type = peasants  culture = lucayo religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    eleuthera = {
       define_pop
 
 
-        = {           type = peasants  culture = lucayo religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    guanima = {
       define_pop
 
 
-        = {           type = peasants  culture = lucayo religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    exuma = {
       define_pop
 
 
-        = {           type = peasants  culture = lucayo religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    bahama = {
       define_pop
 
 
-        = {           type = peasants  culture = lucayo religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    lucayoneque = {
       define_pop
 
 
-        = {           type = peasants  culture = lucayo religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    cordrilla_central = {
@@ -234017,14 +234017,14 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_puerto_rican_culture religion = catholic size = 1.000
       }
    }
    vieques_island = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_puerto_rican_culture religion = catholic size = 1.000
       }
    }
    guaynia = {
@@ -237265,7 +237265,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_alaskan_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_interior_culture religion = catholic size = 1.000
       }
    }
    ulkatchot_en = {
@@ -253580,210 +253580,210 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new171 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new172 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new173 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new174 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new175 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new176 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new177 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new178 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new179 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new180 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new181 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new182 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new183 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new184 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new185 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new186 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new187 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new188 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new189 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new190 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new191 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new192 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new193 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new194 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new195 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_turks_and_caicos_culture religion = catholic size = 1.000
       }
    }
    new196 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_turks_and_caicos_culture religion = catholic size = 1.000
       }
    }
    new197 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_turks_and_caicos_culture religion = catholic size = 1.000
       }
    }
    new198 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new199 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_bahamian_culture religion = catholic size = 1.000
       }
    }
    new200 = {

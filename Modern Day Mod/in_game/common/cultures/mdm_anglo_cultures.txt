@@ -1484,3 +1484,20 @@ mdm_turks_and_caicos_culture = {
 		mdm_anglo_caribbean_group
 	}
 }
+
+mdm_bermudan_culture = {
+	language = english_dialect
+	
+	color = rgb {0 0 0}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
