@@ -390,6 +390,9 @@
  mdm_anglosphere_group: "Anglosphere"
  mdm_anglosphere_group_desc: "The diverse cultures of the Anglosphere"
 
+ mdm_anglo_caribbean_group: "Anglo-Caribbean"
+ mdm_anglo_caribbean_group_desc: "The diverse cultures of the English-speaking Caribbean"
+
  mdm_anglo_american_group: "Anglo-American"
  mdm_anglo_american_group_desc: "The shared cultural heritage of the United States and Canada"
 
@@ -399,8 +402,14 @@
  mdm_francosphere_group: "Francosphere"
  mdm_francosphere_group_desc: "The diverse cultures of the Francophone world, united under language and shared history of their former empire"
 
+ mdm_french_caribbean_group: "French Caribbean"
+ mdm_french_caribbean_group_desc: "The diverse cultures of the French Caribbean and French Guiana"
+
  mdm_lusosphere_group: "Lusosphere"
  mdm_lusosphere_group_desc: "The diverse cultures of the Lusophone world, united under language and shared history of their former empire"
+
+ mdm_dutch_caribbean_group: "Dutch Caribbean"
+ mdm_dutch_caribbean_group_desc: "The diverse cultures of the Dutch Caribbean and Suriname"
 
  mdm_post_soviet_group: "Post-Soviet"
  mdm_post_soviet_group_desc: "The diverse cultures of the former Soviet Union, united under shared history of their former empire"

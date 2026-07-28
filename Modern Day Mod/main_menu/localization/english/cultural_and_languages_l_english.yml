@@ -2957,6 +2957,23 @@
  #hispanosphere cultures
 
  mdm_mexican_culture: "Mexican" #placeholder
+ mdm_guatemalan_culture: "Guatemalan"
+ mdm_honduran_culture: "Honduran"
+ mdm_salvadoran_culture: "Salvadoran"
+ mdm_nicaraguan_culture: "Nicaraguan"
+ mdm_costa_rican_culture: "Costa Rican"
+ mdm_panamanian_culture: "Panamanian"
+ mdm_cuban_culture: "Cuban"
+ mdm_dominican_culture: "Dominican"
+ mdm_venezuelan_culture: "Venezuelan"
+ mdm_colombian_culture: "Colombian"
+ mdm_ecuadorean_culture: "Ecuadorian"
+ mdm_peruvian_culture: "Peruvian"
+ mdm_bolivian_culture: "Bolivian"
+ mdm_chilean_culture: "Chilean"
+ mdm_argentine_culture: "Argentine"
+ mdm_paraguayan_culture: "Paraguayan"
+ mdm_uruguayan_culture: "Uruguayan"
 
 
  #hispanosphere dialects
