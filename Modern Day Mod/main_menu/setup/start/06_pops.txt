@@ -165761,98 +165761,98 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = french religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_guadeloupean_culture religion = catholic size = 1.000
       }
    }
    waitu_kubuli = {
       define_pop
 
 
-        = {           type = peasants  culture = carib religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_dominican_islander_culture religion = catholic size = 1.000
       }
    }
    iguanacaera = {
       define_pop
 
 
-        = {           type = peasants  culture = french religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_martinican_culture religion = catholic size = 1.000
       }
    }
    hewanorra = {
       define_pop
 
 
-        = {           type = peasants  culture = carib religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_saint_lucian_culture religion = catholic size = 1.000
       }
    }
    youloumain = {
       define_pop
 
 
-        = {           type = peasants  culture = carib religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_vincentian_culture religion = catholic size = 1.000
       }
    }
    ichirouganaim = {
       define_pop
 
 
-        = {           type = peasants  culture = carib religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_barbadian_culture religion = catholic size = 1.000
       }
    }
    kamahuya = {
       define_pop
 
 
-        = {           type = peasants  culture = carib religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_grenadian_culture religion = catholic size = 1.000
       }
    }
    alubera = {
       define_pop
 
 
-        = {           type = peasants  culture = carib religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_tobagonian_culture religion = catholic size = 1.000
       }
    }
    cairiani = {
       define_pop
 
 
-        = {           type = peasants  culture = carib religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_trinidadian_culture religion = catholic size = 1.000
       }
    }
    ariogana = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_montserratian_culture religion = catholic size = 1.000
       }
    }
    wadadli = {
       define_pop
 
 
-        = {           type = peasants  culture = igneri religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_antiguan_barbudan_culture religion = catholic size = 1.000
       }
    }
    liamuiga = {
       define_pop
 
 
-        = {           type = peasants  culture = igneri religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_kittitian_nevisian_culture religion = catholic size = 1.000
       }
    }
    walichi = {
       define_pop
 
 
-        = {           type = peasants  culture = french religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_saint_martin_culture religion = catholic size = 1.000
       }
    }
    malliouhana = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_anguillan_culture religion = catholic size = 1.000
       }
    }
    anegada = {
@@ -165866,35 +165866,35 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_puerto_rican_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_virgin_islander_culture religion = catholic size = 1.000
       }
    }
    ayay = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_puerto_rican_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_virgin_islander_culture religion = catholic size = 1.000
       }
    }
    buriari = {
       define_pop
 
 
-        = {           type = peasants  culture = caquetio_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_abc_islands_culture religion = catholic size = 1.000
       }
    }
    curacaute = {
       define_pop
 
 
-        = {           type = peasants  culture = caquetio_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_abc_islands_culture religion = catholic size = 1.000
       }
    }
    arubeira = {
       define_pop
 
 
-        = {           type = peasants  culture = caquetio_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_abc_islands_culture religion = catholic size = 1.000
       }
    }
    cotui = {
@@ -165950,35 +165950,35 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = taino_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    iguamuco = {
       define_pop
 
 
-        = {           type = peasants  culture = taino_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    cahay = {
       define_pop
 
 
-        = {           type = peasants  culture = taino_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    jaragua = {
       define_pop
 
 
-        = {           type = peasants  culture = taino_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    guanabo = {
       define_pop
 
 
-        = {           type = peasants  culture = ciboney religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    baracoa = {
@@ -169913,14 +169913,14 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mache_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_belizean_culture religion = catholic size = 1.000
       }
    }
    xunantunich = {
       define_pop
 
 
-        = {           type = peasants  culture = mopan_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_belizean_culture religion = catholic size = 1.000
       }
    }
    wak_kabnal = {
@@ -169934,14 +169934,14 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mopan_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_belizean_culture religion = catholic size = 1.000
       }
    }
    lamanai = {
       define_pop
 
 
-        = {           type = peasants  culture = mopan_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_belizean_culture religion = catholic size = 1.000
       }
    }
    uxwitza = {
@@ -169955,21 +169955,21 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mopan_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_belizean_culture religion = catholic size = 1.000
       }
    }
    tzunuun = {
       define_pop
 
 
-        = {           type = peasants  culture = mopan_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_belizean_culture religion = catholic size = 1.000
       }
    }
    nohmul = {
       define_pop
 
 
-        = {           type = peasants  culture = mopan_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_belizean_culture religion = catholic size = 1.000
       }
    }
    chactemal = {
@@ -169997,14 +169997,14 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mache_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_belizean_culture religion = catholic size = 1.000
       }
    }
    tzoite = {
       define_pop
 
 
-        = {           type = peasants  culture = mache_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_belizean_culture religion = catholic size = 1.000
       }
    }
    noh_peten = {
@@ -171103,7 +171103,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_belizean_culture religion = catholic size = 1.000
       }
    }
    chimalapa_jungle = {
@@ -185776,7 +185776,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_surinamese_culture religion = catholic size = 1.000
       }
    }
    piaui_jungle = {
@@ -196877,7 +196877,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = arawak_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_guyanese_culture religion = catholic size = 1.000
       }
    }
    kumarakapay = {
@@ -197850,91 +197850,91 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = wapishana_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_guyanese_culture religion = catholic size = 1.000
       }
    }
    demerara = {
       define_pop
 
 
-        = {           type = peasants  culture = arawak_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_guyanese_culture religion = catholic size = 1.000
       }
    }
    essequibo = {
       define_pop
 
 
-        = {           type = peasants  culture = arawak_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_guyanese_culture religion = catholic size = 1.000
       }
    }
    neekeari = {
       define_pop
 
 
-        = {           type = peasants  culture = arawak_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_surinamese_culture religion = catholic size = 1.000
       }
    }
    tumatumari = {
       define_pop
 
 
-        = {           type = peasants  culture = carib religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_guyanese_culture religion = catholic size = 1.000
       }
    }
    berbice = {
       define_pop
 
 
-        = {           type = peasants  culture = arawak_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_guyanese_culture religion = catholic size = 1.000
       }
    }
    paramaribo = {
       define_pop
 
 
-        = {           type = peasants  culture = carib religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_surinamese_culture religion = catholic size = 1.000
       }
    }
    iaremappo = {
       define_pop
 
 
-        = {           type = peasants  culture = french religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_french_guianese_culture religion = catholic size = 1.000
       }
    }
    pereru_tepu = {
       define_pop
 
 
-        = {           type = peasants  culture = carib religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_surinamese_culture religion = catholic size = 1.000
       }
    }
    witagron = {
       define_pop
 
 
-        = {           type = peasants  culture = arawak_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_surinamese_culture religion = catholic size = 1.000
       }
    }
    ndyuka = {
       define_pop
 
 
-        = {           type = peasants  culture = carib religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_surinamese_culture religion = catholic size = 1.000
       }
    }
    palikur = {
       define_pop
 
 
-        = {           type = peasants  culture = french religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_french_guianese_culture religion = catholic size = 1.000
       }
    }
    kourou = {
       define_pop
 
 
-        = {           type = peasants  culture = french religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_french_guianese_culture religion = catholic size = 1.000
       }
    }
    guaquire = {
@@ -198109,14 +198109,14 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = french religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_french_guianese_culture religion = catholic size = 1.000
       }
    }
    waini = {
       define_pop
 
 
-        = {           type = peasants  culture = arawak_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_guyanese_culture religion = catholic size = 1.000
       }
    }
    central_mountain_range = {
@@ -198403,7 +198403,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_guyanese_culture religion = catholic size = 1.000
       }
    }
    bouvet_island = {
@@ -233849,7 +233849,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    neiba_mountains = {
@@ -233961,49 +233961,49 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = ciboney religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    yaquimo = {
       define_pop
 
 
-        = {           type = peasants  culture = macorix_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    yaguana = {
       define_pop
 
 
-        = {           type = peasants  culture = taino_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    guacayakima = {
       define_pop
 
 
-        = {           type = peasants  culture = ciboney religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    tortuga = {
       define_pop
 
 
-        = {           type = peasants  culture = ciboney religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    baynoa = {
       define_pop
 
 
-        = {           type = peasants  culture = ciboney religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    guahaba = {
       define_pop
 
 
-        = {           type = peasants  culture = ciboney religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_haitian_culture religion = catholic size = 1.000
       }
    }
    cibao = {
@@ -234255,42 +234255,42 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = ciboney religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_jamaican_culture religion = catholic size = 1.000
       }
    }
    yaguabo = {
       define_pop
 
 
-        = {           type = peasants  culture = ciboney religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_jamaican_culture religion = catholic size = 1.000
       }
    }
    maynoa = {
       define_pop
 
 
-        = {           type = peasants  culture = ciboney religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_jamaican_culture religion = catholic size = 1.000
       }
    }
    guaygata = {
       define_pop
 
 
-        = {           type = peasants  culture = ciboney religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_jamaican_culture religion = catholic size = 1.000
       }
    }
    aguacadiba = {
       define_pop
 
 
-        = {           type = peasants  culture = ciboney religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_jamaican_culture religion = catholic size = 1.000
       }
    }
    oristan = {
       define_pop
 
 
-        = {           type = peasants  culture = ciboney religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_jamaican_culture religion = catholic size = 1.000
       }
    }
    payomkawichum = {
@@ -251879,7 +251879,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_guyanese_culture religion = catholic size = 1.000
       }
    }
    iauarete = {
@@ -251907,14 +251907,14 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_french_guianese_culture religion = catholic size = 1.000
       }
    }
    pokigron = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_surinamese_culture religion = catholic size = 1.000
       }
    }
    jutai = {
@@ -252187,21 +252187,21 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_guyanese_culture religion = catholic size = 1.000
       }
    }
    amazon_jungle_et4 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_french_guianese_culture religion = catholic size = 1.000
       }
    }
    amazon_jungle_et5 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_guyanese_culture religion = catholic size = 1.000
       }
    }
    amazon_jungle_et6 = {
@@ -253041,7 +253041,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_saint_martinois_culture religion = catholic size = 1.000
       }
    }
    new94 = {
@@ -253566,14 +253566,14 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_antiguan_barbudan_culture religion = catholic size = 1.000
       }
    }
    new169 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_kittitian_nevisian_culture religion = catholic size = 1.000
       }
    }
    new170 = {
