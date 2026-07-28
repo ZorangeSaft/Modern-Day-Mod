@@ -1,5 +1,5 @@
 ﻿german_transylvanian = { #https://en.wikipedia.org/wiki/Transylvanian_Saxons
-	language = mdm_german_dialect
+	language = mdm_german_language
 	
 	color = map_german_transylvanian
 	
@@ -13,79 +13,10 @@
 	}
 }
 
-swabian = {
-	language = mdm_german_dialect
-	
-	color = map_SWA
-	
-	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
-	
-	opinions = { }
-	
-	culture_groups = {
-		german_group
-	}
-}
 
-mdm_alemannic_culture = {
-	language = alemannic_dialect
-	
-	color = map_SWI
-	
-	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
-	
-	opinions = { }
-	
-	culture_groups = {
-		swiss_group
-		german_group
-	}
-}
-
-mdm_bavarian_franconian_culture = {
-	language = mdm_german_dialect
-	
-	color = rgb { 75 141 256 }
-	
-	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
-	
-	opinions = { }
-	
-	culture_groups = {
-		german_group
-	}
-}
-
-mdm_austrian_culture = {
-	language = mdm_german_dialect
-	
-	color = map_austrian
-	
-	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
-	
-	opinions = { }
-	
-	culture_groups = {
-		german_group
-	}
-}
-
-mdm_tyrolean_culture = {
-	language = mdm_german_dialect
-	
-	color = rgb { 183 56 44 }
-	
-	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
-	
-	opinions = { }
-	
-	culture_groups = {
-		german_group
-	}
-}
 
 mdm_low_german_culture = {
-	language = mdm_german_dialect
+	language = mdm_low_german_dialect #not to be confused with low german language
 	
 	color = map_WES
 	
@@ -94,26 +25,12 @@ mdm_low_german_culture = {
 	opinions = { }
 	
 	culture_groups = {
-		german_group
+		german_group mdm_germany_group mdm_low_german_group
 	}
 }
 
-mdm_east_german_culture = {
-	language = mdm_german_dialect
-	
-	color = map_SAX
-	
-	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
-	
-	opinions = { }
-	
-	culture_groups = {
-		german_group
-	}
-}
-
-mdm_western_german_culture = {
-	language = mdm_german_dialect
+mdm_rhenish_culture = {
+	language = mdm_middle_german_dialect
 	
 	color = map_HES
 	
@@ -122,6 +39,106 @@ mdm_western_german_culture = {
 	opinions = { }
 	
 	culture_groups = {
-		german_group
+		german_group mdm_germany_group mdm_middle_german_group
+	}
+}
+
+mdm_brandenburger_culture = {
+	language = mdm_low_german_dialect
+	
+	color = map_BRA
+	
+	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		swiss_group german_group mdm_south_german_group
+	}
+}
+
+mdm_berliner_culture = {
+	language = mdm_german_language #really berlin should get its own dialect but then germany couldnt speak standard german as their official
+	
+	color = rgb { 0 0 0 }
+	
+	tags = { north_german_gfx south_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		german_group mdm_germany_group mdm_west_german_group
+	}
+}
+
+mdm_saxon_culture = {
+	language = mdm_middle_german_dialect
+	
+	color = map_SAX
+	
+	tags = { north_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		german_group mdm_germany_group mdm_east_german_group mdm_middle_german_group
+	}
+}
+
+mdm_south_german_culture = {
+	language = mdm_south_german_dialect
+	
+	color = rgb { 75 141 256 }
+	
+	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		german_group mdm_germany_group mdm_south_german_group
+	}
+}
+
+
+
+mdm_swiss_german_culture = {
+	language = mdm_swiss_dialect
+	
+	color = map_SWI
+	
+	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		swiss_group german_group mdm_south_german_group
+	}
+}
+
+mdm_austrian_culture = {
+	language = mdm_austrian_dialect
+	
+	color = map_austrian
+	
+	tags = { south_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		german_group mdm_south_german_group
+	}
+}
+
+mdm_luxembourgish_culture = { #german luxembourgish, not to be confused with luxembourgish french
+	language = mdm_luxembourgish_dialect #german luxembourgish
+	
+	color = rgb { 65 175 179 }
+	
+	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = {}
+	
+	culture_groups = {
+		mdm_luxembourgish_group mdm_benelux_group german_group mdm_middle_german_group
 	}
 }

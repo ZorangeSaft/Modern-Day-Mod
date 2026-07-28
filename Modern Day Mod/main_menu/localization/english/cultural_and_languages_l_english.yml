@@ -3050,6 +3050,8 @@
 
  #miscellaneous cultures and dialects
 
+ #benelux
+
  mdm_dutch_group: "Dutch"
  mdm_dutch_culture: "Dutch"
  mdm_dutch_language: "Dutch"
@@ -3069,20 +3071,45 @@
 
  mdm_benelux_group: "Benelux"
 
- mdm_alemannic_culture: "Alemannic"
- mdm_bavarian_franconian_culture: "South German"
- mdm_austrian_culture: "Austrian"
- mdm_tyrolean_culture: "Tyrolean"
+
+ #italy
 
  mdm_gallo_italic_culture: "Gallo-Italic"
  mdm_gallo_italic_dialect: "Gallo-Italic"
  mdm_italian_language: "Italian"
  mdm_meridional_dialect: "Meridional"
 
- mdm_western_german_culture: "Western German"
+
+ #germany/german speaking
+
+ mdm_german_language: "German" #standard german, "hochdeutsch"
+ mdm_low_german_dialect: "Low German" #not to be confused with low german language
+ mdm_middle_german_dialect: "Middle German"
+ mdm_south_german_dialect: "South German"
+ mdm_swiss_dialect: "Swiss"
+ mdm_austrian_dialect: "Austrian"
+ #really berlin should get its own dialect but then germany couldnt speak standard german as their official
+
  mdm_low_german_culture: "Low German"
- mdm_east_german_culture: "East German"
- mdm_german_dialect: "German"
+ mdm_rhenish_culture: "Rhenish"
+ mdm_brandenburger_culture: "Brandenburger" #intentionally brandenburger instead of brandenburgish or brandenburgian, because burger
+ mdm_berliner_culture: "Berliner" #berlin is very different from the rest of east germany #ich bin ein berliner haha get it 
+ mdm_saxon_culture: "Saxon"
+ mdm_south_german_culture: "South German"
+
+ mdm_swiss_german_culture: "Swiss" #idk wether to make the backend name swiss german or just swiss
+ mdm_austrian_culture: "Austrian"
+
+ #mdm_german_group: "German" #german speaking countries #commented out for now so vanilla german group is used
+ mdm_germany_group: "Germany" #germany itself
+ mdm_low_german_group: "Low German"
+ mdm_middle_german_group: "Middle German"
+ mdm_south_german_group: "South German"
+ mdm_west_german_group: "West German"
+ mdm_east_german_group: "East German" #ostalgie still fairly strong
+
+
+ #eastern europe
  
  mdm_north_macedonian_culture: "North Macedonian"
  mdm_macedonian_dialect: "Macedonian"

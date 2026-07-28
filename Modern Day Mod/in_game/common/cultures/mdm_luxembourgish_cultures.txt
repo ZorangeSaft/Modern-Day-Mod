@@ -1,14 +1,1 @@
-﻿mdm_luxembourgish_culture = {
-	language = mdm_luxembourgish_dialect
-	
-	color = rgb { 65 175 179 }
-	
-	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
-	
-	opinions = {}
-	
-	culture_groups = {
-		mdm_luxembourgish_group
-		mdm_benelux_group
-	}
-}
+﻿#not sure if this should be its own file, moved luxembourgish culture to german file for now

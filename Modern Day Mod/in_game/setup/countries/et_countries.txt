@@ -681,7 +681,7 @@ GEO = { #didnt use hoi4 color here
 GER = {
 	color = rgb { 106  119  89 } #{ 75  130  135 }
 	color2 = rgb { 106  119  89 } #{ 75  130  135 }
-	culture_definition = mdm_western_german_culture
+	culture_definition = mdm_rhenish_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1060,7 +1060,7 @@ LIT = {
 LIEC = {
 	color = rgb { 148 28 97 } # flag color average (without crown)
 	color2 = rgb { 148 28 97 }
-	culture_definition = mdm_alemannic_culture
+	culture_definition = mdm_swiss_german_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
@@ -1790,7 +1790,7 @@ SWE = {
 SWI = { #the color of the red on their irl flag
 	color = rgb { 218 41 28 } #{ 33 14 19 } #{ 153  122  108 }
 	color2 = rgb { 218 41 28 } #{ 33 14 19 } #{ 153  122  108 }
-	culture_definition = mdm_alemannic_culture
+	culture_definition = mdm_swiss_german_culture
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2

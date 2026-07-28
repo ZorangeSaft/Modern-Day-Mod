@@ -778,3 +778,15 @@ mdm_dutch_group = {}
 mdm_belgian_group = {}
 mdm_luxembourgish_group = {}
 mdm_dutch_caribbean_group = {} #nowhere else to put this really, dutch caribbean islands and suriname
+
+
+
+#german culture groups
+
+mdm_german_group = {} #german speaking countries
+mdm_germany_group = {} #germany itself
+mdm_low_german_group = {}
+mdm_middle_german_group = {}
+mdm_south_german_group = {}
+mdm_west_german_group = {}
+mdm_east_german_group = {}

@@ -69,12 +69,29 @@
 	location_prefix = "location_prefix_german"
 
 	dialects = {
-		mdm_german_dialect = {
+		mdm_german_language = { #germany #standard german, "hochdeutsch"
+			default = yes
 		}
 
-		alemannic_dialect = {
-			fallback = mdm_german_dialect
+		mdm_low_german_dialect = { #not to be confused with low german language
 		}
+
+		mdm_middle_german_dialect = {
+		}
+
+		mdm_south_german_dialect = {
+		}
+
+
+		mdm_swiss_dialect = { #switzerland
+		}
+
+		mdm_austrian_dialect = { #austria
+		}
+
+		mdm_luxembourgish_dialect = { #luxembourg
+		}
+
 
 		yiddish_dialect ={
 			male_names = {
