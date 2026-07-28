@@ -305,6 +305,9 @@ mdm_spanish_language = {
 			}
 		}
 		mexican_dialect = {}
+		mdm_cuban_spanish_dialect = {}
+		mdm_puerto_rican_spanish_dialect = {}
+		mdm_dominican_spanish_dialect = {}
 	}
 }
 mdm_catalan_language = {

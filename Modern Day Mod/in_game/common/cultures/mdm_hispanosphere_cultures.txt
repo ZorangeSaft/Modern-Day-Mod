@@ -239,7 +239,7 @@ mdm_panamanian_culture = {
 }
 
 mdm_cuban_culture = {
-	language = spanish_dialect
+	language = mdm_cuban_spanish_dialect
 	
 	color = rgb {34 224 170}
 	
@@ -255,7 +255,7 @@ mdm_cuban_culture = {
 }
 
 mdm_dominican_culture = {
-	language = spanish_dialect
+	language = mdm_dominican_spanish_dialect
 	
 	color = rgb {199 124 69}
 	

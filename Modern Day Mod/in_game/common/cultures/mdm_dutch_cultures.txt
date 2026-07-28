@@ -35,7 +35,7 @@ mdm_flemish_culture = {
 #caribbean
 
 mdm_abc_islands_culture = { #aruba, bonaire, curacao
-	language = mdm_dutch_dialect
+	language = mdm_papiamento_language
 	
 	color = rgb {0 0 0}
 	
@@ -48,8 +48,36 @@ mdm_abc_islands_culture = { #aruba, bonaire, curacao
 	}
 }
 
-mdm_sss_islands_culture = { #sint maarten, sint eustatius, saba
-	language = mdm_dutch_dialect
+mdm_sint_maartener_culture = {
+	language = mdm_saint_martin_english_dialect
+	
+	color = rgb {0 0 0}
+	
+	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = {}
+	
+	culture_groups = {
+		mdm_dutch_group mdm_dutch_caribbean_group mdm_caribbean_group
+	}
+}
+
+mdm_statian_culture = {
+	language = mdm_statian_english_dialect
+	
+	color = rgb {0 0 0}
+	
+	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
+	
+	opinions = {}
+	
+	culture_groups = {
+		mdm_dutch_group mdm_dutch_caribbean_group mdm_caribbean_group
+	}
+}
+
+mdm_saban_culture = {
+	language = mdm_saban_english_dialect
 	
 	color = rgb {0 0 0}
 	

@@ -119,7 +119,7 @@ walloon = {
 #caribbean
 
 mdm_haitian_culture = {
-	language = french_language
+	language = haitian_french_creole_language
 	
 	color = rgb { 0 0 0 }
 	
@@ -134,7 +134,35 @@ mdm_haitian_culture = {
 }
 
 mdm_french_antillan_culture = { #guadeloupe and martinique, but not the rest
-	language = french_language
+	language = mdm_antillean_french_creole_language
+	
+	color = rgb { 0 0 0 }
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+	
+	opinions = {}
+	
+	culture_groups = {
+		mdm_francosphere_group mdm_caribbean_group mdm_french_caribbean_group
+	}
+}
+
+mdm_guadeloupean_culture = {
+	language = mdm_antillean_french_creole_language
+	
+	color = rgb { 0 0 0 }
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+	
+	opinions = {}
+	
+	culture_groups = {
+		mdm_francosphere_group mdm_caribbean_group mdm_french_caribbean_group
+	}
+}
+
+mdm_martinican_culture = {
+	language = mdm_antillean_french_creole_language
 	
 	color = rgb { 0 0 0 }
 	
@@ -148,7 +176,22 @@ mdm_french_antillan_culture = { #guadeloupe and martinique, but not the rest
 }
 
 mdm_saint_martin_culture = { #french side of saint martin
-	language = french_language
+	language = mdm_saint_martin_english_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+	
+	opinions = {}
+	
+	culture_groups = {
+		mdm_francosphere_group
+		mdm_caribbean_group mdm_french_caribbean_group
+	}
+}
+
+mdm_saint_martinois_culture = {
+	language = mdm_saint_martin_english_dialect
 	
 	color = rgb { 0 0 0 }
 	
@@ -163,7 +206,7 @@ mdm_saint_martin_culture = { #french side of saint martin
 }
 
 mdm_saint_barthelemy_culture = { #saint barthelemy
-	language = french_language
+	language = mdm_saint_barth_french_dialect
 	
 	color = rgb { 0 0 0 }
 	

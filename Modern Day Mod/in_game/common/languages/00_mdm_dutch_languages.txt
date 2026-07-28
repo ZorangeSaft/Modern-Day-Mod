@@ -108,5 +108,18 @@
 		mdm_dutch_dialect = {
 			default = yes
 		}
+		mdm_flemish_dialect = {}
+		mdm_afrikaans_dialect = {}
+	}
+}
+
+mdm_papiamento_language = {
+	color = rgb { 240 180 90 }
+	family = romance_language_family
+
+	dialects = {
+		mdm_papiamento_language = {
+			default = yes
+		}
 	}
 }

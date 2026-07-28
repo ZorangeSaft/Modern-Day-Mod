@@ -956,7 +956,7 @@ mdm_south_florida_culture = {
 }
 
 mdm_puerto_rican_culture = { #also spanish speakers on virgin islands
-	language = castilian_dialect #todo: eventually change to newly made spanish dialect
+	language = mdm_puerto_rican_spanish_dialect
 	
 	color = rgb {87 182 192}
 	
@@ -1193,8 +1193,24 @@ mdm_kiwi = { #new zealand
 
 #caribbean independent countries
 
+mdm_leeward_islander_culture = { #anguilla, antigua, montserrat, saint kitts and nevis
+	language = mdm_leeward_caribbean_english_dialect
+	
+	color = rgb {149 74 49}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group mdm_anglo_caribbean_group mdm_caribbean_group
+	}
+}
+
 mdm_antiguan_barbudan_culture = {
-	language = english_dialect
+	language = mdm_leeward_caribbean_english_dialect
 	
 	color = rgb {149 74 49}
 	
@@ -1210,7 +1226,7 @@ mdm_antiguan_barbudan_culture = {
 }
 
 mdm_bahamian_culture = {
-	language = english_dialect
+	language = mdm_bahamian_english_dialect
 	
 	color = rgb {204 255 204}
 	
@@ -1226,7 +1242,7 @@ mdm_bahamian_culture = {
 }
 
 mdm_barbadian_culture = {
-	language = english_dialect
+	language = mdm_bajan_creole_language
 	
 	color = rgb {49 84 169}
 	
@@ -1258,7 +1274,7 @@ mdm_belizean_culture = {
 }
 
 mdm_dominican_islander_culture = {
-	language = english_dialect
+	language = mdm_dominican_english_creole_language
 	
 	color = rgb {69 184 119}
 	
@@ -1274,7 +1290,7 @@ mdm_dominican_islander_culture = {
 }
 
 mdm_grenadian_culture = {
-	language = english_dialect
+	language = mdm_grenadian_english_dialect
 	
 	color = rgb {69 134 99}
 	
@@ -1306,7 +1322,7 @@ mdm_guyanese_culture = {
 }
 
 mdm_jamaican_culture = {
-	language = english_dialect
+	language = mdm_jamaican_creole_language
 	
 	color = rgb {102 102 0}
 	
@@ -1322,7 +1338,7 @@ mdm_jamaican_culture = {
 }
 
 mdm_kittitian_nevisian_culture = {
-	language = english_dialect
+	language = mdm_leeward_caribbean_english_dialect
 	
 	color = rgb {189 74 169}
 	
@@ -1338,7 +1354,7 @@ mdm_kittitian_nevisian_culture = {
 }
 
 mdm_saint_lucian_culture = {
-	language = english_dialect
+	language = mdm_saint_lucian_creole_language
 	
 	color = rgb {109 124 229}
 	
@@ -1354,7 +1370,7 @@ mdm_saint_lucian_culture = {
 }
 
 mdm_vincentian_culture = {
-	language = english_dialect
+	language = mdm_vincentian_english_dialect
 	
 	color = rgb {129 174 159}
 	
@@ -1369,8 +1385,24 @@ mdm_vincentian_culture = {
 	}
 }
 
-mdm_trinidadian_tobagonian_culture = {
-	language = english_dialect
+mdm_trinidadian_culture = {
+	language = mdm_trinidadian_english_creole_language
+	
+	color = rgb {96 96 96}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group mdm_anglo_caribbean_group mdm_caribbean_group
+	}
+}
+
+mdm_tobagonian_culture = {
+	language = mdm_tobagonian_english_creole_language
 	
 	color = rgb {96 96 96}
 	
@@ -1389,7 +1421,7 @@ mdm_trinidadian_tobagonian_culture = {
 #caribbean british overseas territories
 
 mdm_montserratian_culture = {
-	language = english_dialect
+	language = mdm_leeward_caribbean_english_dialect
 	
 	color = rgb {0 0 0}
 	
@@ -1405,7 +1437,7 @@ mdm_montserratian_culture = {
 }
 
 mdm_caymanian_culture = {
-	language = english_dialect
+	language = mdm_cayman_english_dialect
 	
 	color = rgb {0 0 0}
 	
@@ -1421,7 +1453,7 @@ mdm_caymanian_culture = {
 }
 
 mdm_virgin_islander_culture = {
-	language = english_dialect
+	language = mdm_virgin_islands_english_dialect
 	
 	color = rgb {0 0 0}
 	
@@ -1437,7 +1469,7 @@ mdm_virgin_islander_culture = {
 }
 
 mdm_anguillan_culture = {
-	language = english_dialect
+	language = mdm_leeward_caribbean_english_dialect
 	
 	color = rgb {0 0 0}
 	
@@ -1453,7 +1485,7 @@ mdm_anguillan_culture = {
 }
 
 mdm_turks_and_caicos_culture = {
-	language = english_dialect
+	language = mdm_bahamian_english_dialect
 	
 	color = rgb {0 0 0}
 	
