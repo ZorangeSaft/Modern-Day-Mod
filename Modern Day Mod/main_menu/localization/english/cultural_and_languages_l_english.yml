@@ -3053,23 +3053,26 @@
  #benelux
 
  mdm_dutch_group: "Dutch"
+ mdm_dutch_group_desc: "Netherlands the country"
  mdm_dutch_culture: "Dutch"
  mdm_dutch_language: "Dutch"
  mdm_dutch_dialect: "Dutch"
 
- mdm_flemish_cutlure: "Flemish"
+ mdm_flemish_culture: "Flemish"
  mdm_flemish_dialect: "Flemish"
 
  mdm_belgian_group: "Belgian"
+ mdm_belgian_group_desc: "Belgium the country"
  mdm_walloon_culture: "Walloon"
  mdm_walloon_dialect: "Walloon"
 
  mdm_luxembourgish_group: "Luxembourgish"
+ mdm_luxembourgish_group_desc: "Luxembourgish group desc"
  mdm_luxembourgish_culture: "Luxembourgish"
  mdm_luxembourgish_language: "Luxembourgish"
- mdm_luxembourgish_dialect: "Luxembourgish"
 
  mdm_benelux_group: "Benelux"
+ mdm_benelux_group_desc: "Benelux group desc"
 
 
  #italy
@@ -3102,11 +3105,17 @@
 
  #mdm_german_group: "German" #german speaking countries #commented out for now so vanilla german group is used
  mdm_germany_group: "Germany" #germany itself
+ mdm_germany_group_desc: "Germany the country"
  mdm_low_german_group: "Low German"
+ mdm_low_german_group_desc: "Low German group desc"
  mdm_middle_german_group: "Middle German"
+ mdm_middle_german_group_desc: "Middle German group desc"
  mdm_south_german_group: "South German"
+ mdm_south_german_group_desc: "South German group desc"
  mdm_west_german_group: "West German"
+ mdm_west_german_group_desc: "West German group desc"
  mdm_east_german_group: "East German" #ostalgie still fairly strong
+ mdm_east_german_group_desc: "East German group desc"
 
 
  #eastern europe

@@ -53,14 +53,14 @@ mdm_brandenburger_culture = {
 	opinions = { }
 	
 	culture_groups = {
-		swiss_group german_group mdm_south_german_group
+		german_group mdm_germany_group mdm_east_german_group mdm_low_german_group
 	}
 }
 
 mdm_berliner_culture = {
 	language = mdm_german_language #really berlin should get its own dialect but then germany couldnt speak standard german as their official
 	
-	color = rgb { 0 0 0 }
+	color = rgb { 226 56 42 } #red from the flag of berlin https://en.wikipedia.org/wiki/Flag_of_Berlin#/media/File:Flag_of_Berlin.svg
 	
 	tags = { north_german_gfx south_german_gfx german_gfx western_european_gfx european_gfx }
 	
@@ -130,7 +130,7 @@ mdm_austrian_culture = {
 }
 
 mdm_luxembourgish_culture = { #german luxembourgish, not to be confused with luxembourgish french
-	language = mdm_luxembourgish_dialect #german luxembourgish
+	language = mdm_luxembourgish_language #german luxembourgish
 	
 	color = rgb { 65 175 179 }
 	

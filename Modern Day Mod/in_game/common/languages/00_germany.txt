@@ -89,8 +89,8 @@
 		mdm_austrian_dialect = { #austria
 		}
 
-		#mdm_luxembourgish_dialect = { #luxembourg #commented out for now in favor of the other luxembourgish dialect already added
-		#}
+		mdm_luxembourgish_language = { #luxembourg #luxembourgish sort of defies classification because it is basically a standardised form of the local german dialect but with french loandwords and such
+		}
 
 
 		yiddish_dialect ={

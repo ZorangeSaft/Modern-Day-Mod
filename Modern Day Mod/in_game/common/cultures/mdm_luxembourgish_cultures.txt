@@ -1,1 +1,0 @@
-﻿#not sure if this should be its own file, moved luxembourgish culture to german file for now
