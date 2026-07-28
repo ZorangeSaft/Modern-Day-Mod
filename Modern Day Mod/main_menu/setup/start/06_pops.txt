@@ -9397,7 +9397,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_south_german_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_swiss_german_culture religion = catholic size = 1.000
       }
    }
    frauenfeld = {
