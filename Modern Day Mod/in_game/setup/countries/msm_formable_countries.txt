@@ -28,7 +28,7 @@ IBER = {			#mdm Iberia
 	color = rgb { 0 0 0 } 		#color tbd
 	color2 = rgb { 0 0 0 } 		#color tbd
 
-	culture_definition = mdm_spanish_culture
+	culture_definition = castilian
 	religion_definition = catholic
 
 	

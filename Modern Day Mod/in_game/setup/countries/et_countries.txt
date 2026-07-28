@@ -1710,7 +1710,7 @@ SOSE = {
 SPA = {
 	color = rgb { 242  205  94 } #{ 231  181  12 }
 	color2 = rgb { 242  205  94 } #{ 231  181  12 }
-	culture_definition = mdm_spanish_culture
+	culture_definition = castilian
 	religion_definition = catholic #religion_definition = secularism #commented out to remove errors for now
 	description_category = diplomatic
 	difficulty = 2
