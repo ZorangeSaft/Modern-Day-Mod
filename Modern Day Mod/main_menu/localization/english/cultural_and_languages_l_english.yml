@@ -2881,22 +2881,28 @@
 
  #us and canada dialects
 
- mdm_alaskan_dialect: "Alaskan"
- mdm_canadian_dialect: "Canadian"
- mdm_cascadian_dialect: "Cascadian"
- mdm_californian_dialect: "Californian"
- mdm_western_us_dialect: "Western American"
- mdm_inland_southern_dialect: "Inland Southern"
- mdm_southern_dialect: "Southern"
- mdm_floridian_dialect: "Floridian"
- mdm_midland_dialect: "Midlander"
- mdm_northern_dialect: "Inland Northern"
- mdm_west_northern_dialect: "West Northern"
- mdm_mid_atlantic_dialect: "Mid-Atlantic"
- mdm_new_york_dialect: "New York"
- mdm_maritime_new_england_dialect: "Maritime New England"
- mdm_woodland_new_england_dialect: "Woodland New England"
- mdm_maritimes_dialect: "Maritimer"
+ mdm_alaskan_dialect: "Alaskan" #usa
+ mdm_canadian_dialect: "Canadian" #canada
+ mdm_cascadian_dialect: "Cascadian" #usa
+ mdm_californian_dialect: "Californian" #usa
+ mdm_western_us_dialect: "Western American" #usa
+ mdm_inland_southern_dialect: "Inland Southern" #usa
+ mdm_southern_dialect: "Southern" #usa
+ mdm_floridian_dialect: "Floridian" #usa
+ mdm_midland_dialect: "Midlander" #usa
+ mdm_northern_dialect: "Inland Northern" #usa
+ mdm_west_northern_dialect: "West Northern" #usa
+ mdm_mid_atlantic_dialect: "Mid-Atlantic" #usa
+ mdm_new_york_dialect: "New York" #usa 
+ mdm_maritime_new_england_dialect: "Maritime New England" #usa
+ mdm_woodland_new_england_dialect: "Woodland New England" #usa
+ mdm_maritimes_dialect: "Maritimer" #canada
+
+ #australia and new zealand cultures and dialects
+ mdm_australian_culture: "Australian" #australia
+ australian_dialect: "Australian" #australia
+ mdm_kiwi_culture: "Kiwi" #new zealand
+ kiwi_dialect: "Kiwi" #new zealand
 
 
  #caribbean cultures and languages

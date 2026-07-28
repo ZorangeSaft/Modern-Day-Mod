@@ -147,3 +147,14 @@
 		mdm_kriolu_dialect = {}
 	}
 }
+
+mdm_papiamento_language = { #hard to decide if this goes in the dutch languages file or here
+	color = rgb { 240 180 90 }
+	family = romance_language_family #portuguese creole language with spanish and dutch influence, kind of defies classification it seems
+
+	dialects = {
+		mdm_papiamento_language = {
+			default = yes
+		}
+	}
+}

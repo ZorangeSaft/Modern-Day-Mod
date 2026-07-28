@@ -1158,10 +1158,10 @@ mdm_new_foundland_and_labrador_culture = { #temporary name
 
 #oceania
 
-mdm_australian = { #australia, will be split up later
+mdm_australian_culture = { #australia, will be split up later
 	language = australian_dialect
 	
-	color = rgb {0 0 255}
+	color = rgb {57 143 97}
 	
 	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
@@ -1170,14 +1170,14 @@ mdm_australian = { #australia, will be split up later
 	}
 
 	culture_groups = {
-		mdm_anglosphere_group mdm_australian_group mdm_oceanian_group
+		mdm_anglosphere_group mdm_australian_culture_group mdm_oceanian_group
 	}
 }
 
-mdm_kiwi = { #new zealand
+mdm_kiwi_culture = { #new zealand
 	language = kiwi_dialect
 	
-	color = rgb {0 0 255}
+	color = rgb {152 130 191}
 	
 	tags = { english_gfx british_gfx western_european_gfx european_gfx }
 
@@ -1258,7 +1258,7 @@ mdm_barbadian_culture = {
 }
 
 mdm_belizean_culture = {
-	language = english_dialect
+	language = mdm_belizean_english_creole_language
 	
 	color = rgb {0 204 204}
 	
@@ -1306,7 +1306,7 @@ mdm_grenadian_culture = {
 }
 
 mdm_guyanese_culture = {
-	language = english_dialect
+	language = guyanese_english_creole_language
 	
 	color = rgb {255 204 153}
 	

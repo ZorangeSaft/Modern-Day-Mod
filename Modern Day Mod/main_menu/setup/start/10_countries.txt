@@ -77,7 +77,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = afgh_hibatullah_akhundzada
+             # ruler = afgh_hibatullah_akhundzada
          }
       }
 
@@ -100,7 +100,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = alb_bajram_begaj
+             # ruler = alb_bajram_begaj
          }
       }
 
@@ -235,7 +235,7 @@ countries = {
             kashtruk kububu lewfuko makunchawu malal_hue mamull_mapu naupa_huen newenken norquinco popopis
             quemu_quemu rankulche shupaw_kulu somuncura tulshun ucaln viluco vuriloche vuta_chadihue yaminue
             nansen_forest masaks_forest villarica_forest chillan_mountains aconcagua_volcano pissis_mountains ojos_del_salado_volcano aucanquilcha_volcano_et2 noques_jungle yungas_jungle
-            acay_mountains poposayo_mountains bayo_mountain ibera_swamp
+            acay_mountains poposayo_mountains bayo_mountain ibera_swamp pircas_mountains
          }
 
          #include = "republic"
@@ -1340,7 +1340,7 @@ countries = {
             inuvialuit_uplands kynocks_forest kaska_forest mackenzie_mtns haen_uplands gwichin_uplands dan_ki_forest nabesna_forest wrangell_mtns dezadeash_trail
             chilkootg_trail shushtone_forest kechika_trail teslin_trail ediziza_trail tses_kiya_trail tahltan_forest cassiar_mountains sekani_forest spatsizi_forest
             kinaskan_trail ediziza_forest chilcotin_mtns strathacona_range thompson_mtns kwakwala_range n_shuswap_mtns e_shuswap_mtns s_shuswap_mtns ce_ktunaxa_ranges
-            se_ktunaxa_ranges nc_ktunaxa_ranges ne_ktunaxa_ranges cw_ktunaxa_ranges sinixt_range
+            se_ktunaxa_ranges nc_ktunaxa_ranges ne_ktunaxa_ranges cw_ktunaxa_ranges sinixt_range new146
          }
 
          include = "expl_mdm_whole_world"
@@ -7109,7 +7109,7 @@ countries = {
             noatak utqiagvik gwazhal_hills kugmiut_uplands uracas maug agrihan alamagan pagan_island noos
             anatahan rota guahan_atoll mauna_loa nihoa mokumanamana kanemilohai_atoll kauo papa_apoho_atoll holaniku_atoll
             kuaihelani_atoll holoikauaua_atoll vieques_island mona_island aburakeiru new128 new129 new126 new127 new125
-            new124 new123 new122 new121 new120 new167
+            new124 new123 new122 new121 new120 new167 new145
          }
 
          #include = "republic"

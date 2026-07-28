@@ -121,7 +121,7 @@ walloon = {
 mdm_haitian_culture = {
 	language = haitian_french_creole_language
 	
-	color = rgb { 201 0 44 }
+	color = rgb  { 116 125 132 } #{ 201 0 44 } idk where the old one came from, ai made it up, looks nice tho
 	
 	tags = { french_gfx western_european_gfx european_gfx }
 	
@@ -222,9 +222,9 @@ mdm_saint_barthelemy_culture = { #saint barthelemy
 }
 
 mdm_french_guianese_culture = { #french guiana
-	language = french_language
+	language = french_language #no creole for french guiana, they speak mostly french there apparently
 	
-	color = rgb { 24 120 60 }
+	color = rgb { 14 227 181 } #just picked something that looks nice, and is between blue (french) and green (jungle)
 	
 	tags = { french_gfx western_european_gfx european_gfx }
 	
@@ -233,6 +233,23 @@ mdm_french_guianese_culture = { #french guiana
 	culture_groups = {
 		mdm_francosphere_group
 		mdm_caribbean_group mdm_french_caribbean_group
+	}
+}
+
+
+#other
+
+mdm_reunionnais_culture = { #reunion
+	language = mdm_reunionnais_french_creole_language
+	
+	color = rgb { 0 136 204 }
+	
+	tags = { french_gfx western_european_gfx european_gfx }
+	
+	opinions = {}
+	
+	culture_groups = {
+		mdm_francosphere_group
 	}
 }
 

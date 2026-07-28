@@ -649,7 +649,7 @@ mdm_us_pacific_group = { #hawaii and other pacific islands like guam
 mdm_anglo_caribbean_group = { #jamaica, barbados, bahamas, trinidad and tobago, belize, guyana
 }
 
-mdm_australian_group = { #australia
+mdm_australian_culture_group = { #australia
 }
 
 mdm_oceanian_group = { #australia and new zealand

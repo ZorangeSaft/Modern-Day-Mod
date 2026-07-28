@@ -113,13 +113,4 @@
 	}
 }
 
-mdm_papiamento_language = {
-	color = rgb { 240 180 90 }
-	family = romance_language_family
-
-	dialects = {
-		mdm_papiamento_language = {
-			default = yes
-		}
-	}
-}
+#papamiento is in the lusosphere file, since it is a portuguese creole
