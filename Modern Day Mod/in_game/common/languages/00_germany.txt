@@ -89,8 +89,8 @@
 		mdm_austrian_dialect = { #austria
 		}
 
-		mdm_luxembourgish_dialect = { #luxembourg
-		}
+		#mdm_luxembourgish_dialect = { #luxembourg #commented out for now in favor of the other luxembourgish dialect already added
+		#}
 
 
 		yiddish_dialect ={
