@@ -1156,14 +1156,10 @@ mdm_new_foundland_and_labrador_culture = { #temporary name
 }
 
 
+#oceania
 
-
-
-
-#just putting this here to clear error log
-
-british_australian = {
-	language = mdm_maritimes_dialect
+mdm_australian = { #australia, will be split up later
+	language = english_dialect
 	
 	color = rgb {0 0 255}
 	
@@ -1174,6 +1170,317 @@ british_australian = {
 	}
 
 	culture_groups = {
+		mdm_anglosphere_group mdm_australian_group mdm_oceanian_group
+	}
+}
+
+mdm_kiwi = { #new zealand
+	language = english_dialect
+	
+	color = rgb {0 0 255}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group mdm_oceanian_group
+	}
+}
+
+
+#caribbean independent countries
+
+mdm_antiguan_barbudan_culture = {
+	language = english_dialect
+	
+	color = rgb {149 74 49}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
 		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_bahamian_culture = {
+	language = english_dialect
+	
+	color = rgb {204 255 204}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_barbadian_culture = {
+	language = english_dialect
+	
+	color = rgb {49 84 169}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_belizean_culture = {
+	language = english_dialect
+	
+	color = rgb {0 204 204}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_dominican_islander_culture = {
+	language = english_dialect
+	
+	color = rgb {69 184 119}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_grenadian_culture = {
+	language = english_dialect
+	
+	color = rgb {69 134 99}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_guyanese_culture = {
+	language = english_dialect
+	
+	color = rgb {255 204 153}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_jamaican_culture = {
+	language = english_dialect
+	
+	color = rgb {102 102 0}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_kittitian_nevisian_culture = {
+	language = english_dialect
+	
+	color = rgb {189 74 169}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_saint_lucian_culture = {
+	language = english_dialect
+	
+	color = rgb {109 124 229}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_vincentian_culture = {
+	language = english_dialect
+	
+	color = rgb {129 174 159}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_trinidadian_tobagonian_culture = {
+	language = english_dialect
+	
+	color = rgb {96 96 96}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+
+#caribbean british overseas territories
+
+mdm_montserratian_culture = {
+	language = english_dialect
+	
+	color = rgb {0 0 0}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_caymanian_culture = {
+	language = english_dialect
+	
+	color = rgb {0 0 0}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_virgin_islander_culture = {
+	language = english_dialect
+	
+	color = rgb {0 0 0}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_anguillan_culture = {
+	language = english_dialect
+	
+	color = rgb {0 0 0}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
+	}
+}
+
+mdm_turks_and_caicos_culture = {
+	language = english_dialect
+	
+	color = rgb {0 0 0}
+	
+	tags = { english_gfx british_gfx western_european_gfx european_gfx }
+
+	opinions = {
+
+	}
+
+	culture_groups = {
+		mdm_anglosphere_group
+		mdm_anglo_caribbean_group
 	}
 }

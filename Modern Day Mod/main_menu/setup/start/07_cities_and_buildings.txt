@@ -1,10 +1,9 @@
 locations = {
-   #stockholm = { rank = town town_setup = important_scandinavian_town } left here as an example
 }
 building_manager = {
-   mdm_eu_capital = { tag = EUROP level = 1 location = brussels } #mdm modern day mod
-   mdm_un_general_assembly = { tag = UNITE level = 1 location = new_york_city } #mdm modern day mod
-   mdm_vatican_city = { tag = VATIC level = 1 location = rome } #mdm modern day mod
-   mdm_palazzo_malta = { tag = SMOOM level = 1 location = rome } #mdm modern day mod
-   mdm_monaco = { tag = MONAC level = 1 location = nice } #mdm modern day mod
+   mdm_eu_capital = { tag = EUROP level = 1 location = brussels }
+   mdm_un_general_assembly = { tag = UNITE level = 1 location = new_york_city }
+   mdm_vatican_city = { tag = VATIC level = 1 location = rome }
+   mdm_palazzo_malta = { tag = SMOOM level = 1 location = rome }
+   mdm_monaco = { tag = MONAC level = 1 location = nice }
 }

@@ -77,7 +77,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = afgh_hibatullah_akhundzada
+             # ruler = afgh_hibatullah_akhundzada
          }
       }
 
@@ -100,7 +100,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = alb_bajram_begaj
+             # ruler = alb_bajram_begaj
          }
       }
 
@@ -439,7 +439,7 @@ countries = {
             new7928 new7929 new7930 new7931 new7932 new7933 new7934 new7935 new7936 new7937
             new7938 new7939 new7940 new7941 new7942 new7943 new7944 new7945 new7946 new7947
             new7948 new7949 new7950 new7951 new7952 new7953 new7954 new7955 new7956 new7957
-            new7958 new7959 new7960 new7961 new7962 new7963 new7964 new7965 new7966 
+            new7958 new7959 new7960 new7961 new7962 new7963 new7964 new7965 new7966
          }
 
          include = "expl_mdm_whole_world"
@@ -541,7 +541,10 @@ countries = {
          starting_technology_level = 3
 
          own_control_core = {
-            abacoa bahama eleuthera exuma guanahani guanima inagua jumento lucayoneque
+            abacoa bahama eleuthera exuma guanahani guanima inagua jumento lucayoneque new198
+            new199 new184 new194 new180 new192 utiaquia new191 new173 new181 new172
+            new170 new182 new171 new178 new175 new174 new179 new176 new190 new188
+            new177 new189 new183 new187 new185 new193 new186 samana_cay
          }
 
          #include = "catholic_monarchy"
@@ -1957,7 +1960,8 @@ countries = {
             bani_cuba baracoa barajagua batanabo bayamo bayaquitiri camaguey cayaguayo central_sabaneque cubanacan
             cueiba east_cubanacan east_sabaneque guaimaro guamuhaya guanamacabibes guaniguanico guanimar guantanamo habana
             hanabana jagua jiguani lora mabuya macaca macoriges magon maguanes marien_cuba
-            mayari ornofay sabana sagua siguanea south_camaguey west_sabaneneque yateras
+            mayari ornofay sabana sagua siguanea south_camaguey west_sabaneneque yateras new164 new166
+            new165
          }
 
          #include = "republic"
@@ -2645,7 +2649,7 @@ countries = {
             strabane orkney shetland st_helena ochil_hills pennines_01 pennines_03 pennines_02 north_york_moors pennines_06
             pennines_05 pennines_04 cambrian_mountains snowdon berwyn_range dartmoor brecon_beacons ben_nevis cairngorm ben_klibreck
             fannichs carn_eige scilly_isles georgia_isle tristan_da_cunha_island gough_island malliouhana ariogana ascensao oeno_atoll
-            pitcairn henderson ducie_atoll new132 new131
+            pitcairn henderson ducie_atoll new132 new131 new196 new197 new195
          }
 
          include = "expl_mdm_whole_world"
@@ -7105,7 +7109,7 @@ countries = {
             noatak utqiagvik gwazhal_hills kugmiut_uplands uracas maug agrihan alamagan pagan_island noos
             anatahan rota guahan_atoll mauna_loa nihoa mokumanamana kanemilohai_atoll kauo papa_apoho_atoll holaniku_atoll
             kuaihelani_atoll holoikauaua_atoll vieques_island mona_island aburakeiru new128 new129 new126 new127 new125
-            new124 new123 new122 new121 new120
+            new124 new123 new122 new121 new120 new167
          }
 
          #include = "republic"

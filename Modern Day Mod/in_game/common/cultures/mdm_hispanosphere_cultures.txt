@@ -145,7 +145,7 @@ mdm_mexican_culture = {
 mdm_guatemalan_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {124 120 222}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -161,7 +161,7 @@ mdm_guatemalan_culture = {
 mdm_honduran_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {100 125 175}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -177,7 +177,7 @@ mdm_honduran_culture = {
 mdm_salvadoran_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {134 170 42}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -193,7 +193,7 @@ mdm_salvadoran_culture = {
 mdm_nicaraguan_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {113 204 235}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -209,7 +209,7 @@ mdm_nicaraguan_culture = {
 mdm_costa_rican_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {237 165 21}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -225,7 +225,7 @@ mdm_costa_rican_culture = {
 mdm_panamanian_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {152 130 191}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -241,7 +241,7 @@ mdm_panamanian_culture = {
 mdm_cuban_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {34 224 170}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -257,7 +257,7 @@ mdm_cuban_culture = {
 mdm_dominican_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {199 124 69}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -273,7 +273,7 @@ mdm_dominican_culture = {
 mdm_venezuelan_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {171 190 152}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -289,7 +289,7 @@ mdm_venezuelan_culture = {
 mdm_colombian_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {222 187 91}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -305,7 +305,7 @@ mdm_colombian_culture = {
 mdm_ecuadorean_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {249 146 98}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -321,7 +321,7 @@ mdm_ecuadorean_culture = {
 mdm_peruvian_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {196 189 204}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -337,7 +337,7 @@ mdm_peruvian_culture = {
 mdm_bolivian_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {255 180 136}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -353,7 +353,7 @@ mdm_bolivian_culture = {
 mdm_chilean_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {155 101 107}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -369,7 +369,7 @@ mdm_chilean_culture = {
 mdm_argentine_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {145 157 236}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -385,7 +385,7 @@ mdm_argentine_culture = {
 mdm_paraguayan_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {57 113 228}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
@@ -401,7 +401,7 @@ mdm_paraguayan_culture = {
 mdm_uruguayan_culture = {
 	language = spanish_dialect
 	
-	color = rgb {27 136 52}
+	color = rgb {171 190 152}
 	
 	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
 
