@@ -142,6 +142,277 @@ mdm_mexican_culture = {
 		mdm_hispanic_group
 	}
 }
+mdm_guatemalan_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_honduran_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_salvadoran_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_nicaraguan_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_costa_rican_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_panamanian_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_cuban_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_dominican_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_venezuelan_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_colombian_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_ecuadorean_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_peruvian_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_bolivian_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_chilean_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_argentine_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_paraguayan_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
+
+mdm_uruguayan_culture = {
+	language = spanish_dialect
+	
+	color = rgb {27 136 52}
+	
+	tags = { castilian_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+	}
+
+	culture_groups = {
+		mdm_hispanosphere_group
+		mdm_hispanic_group
+	}
+}
 
 
 
