@@ -2927,7 +2927,7 @@
  mdm_anguillan_culture: "Anguillan"
  mdm_turks_and_caicos_culture: "Turks and Caicos"
  mdm_bermudan_culture: "Bermudian"
- mdm_abc_islands_culture: "ABC Islands"
+ mdm_abc_islands_culture: "ABC Islander"
  mdm_sint_maartener_culture: "Sint Maartener"
  mdm_statian_culture: "Statian"
  mdm_saban_culture: "Saban"
@@ -2963,6 +2963,9 @@
  mdm_cuban_spanish_dialect: "Cuban Spanish"
  mdm_puerto_rican_spanish_dialect: "Puerto Rican Spanish"
  mdm_dominican_spanish_dialect: "Dominican Spanish"
+ mdm_english_creole_language: "English Creole"
+ guyanese_english_creole_language: "Guyanese"
+ sraran_tongo_english_creole_language: "Sranan Tongo"
 
 
  #brazil cultures
