@@ -113838,427 +113838,427 @@ locations = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.261
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.261
       }
    }
    kamiiso = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.136
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.136
       }
    }
    kameda = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.175
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.175
       }
    }
    hiyama_hokkaido = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.146
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.146
       }
    }
    kayabe = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.189
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.189
       }
    }
    nishi = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.123
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.123
       }
    }
    futoro = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.142
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.142
       }
    }
    yamakoshi = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.159
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.159
       }
    }
    setana = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.115
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.115
       }
    }
    shimamaki = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.099
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.099
       }
    }
    suttsu = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.113
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.113
       }
    }
    isoya = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.128
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.128
       }
    }
    abuta = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.222
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.222
       }
    }
    iwanai = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.117
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.117
       }
    }
    furubira = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.203
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.203
       }
    }
    yoichi = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.238
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.238
       }
    }
    sapporo = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.262
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.262
       }
    }
    shiraoi = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.428
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.428
       }
    }
    chitose = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.235
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.235
       }
    }
    yuufutsu = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.415
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.415
       }
    }
    yuubari = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.295
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.295
       }
    }
    sorachi = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.662
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.662
       }
    }
    ishikari = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.341
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.341
       }
    }
    atsuta = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.245
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.245
       }
    }
    saru = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.374
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.374
       }
    }
    niikappu = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.128
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.128
       }
    }
    shizunai = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.266
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.266
       }
    }
    urakawa = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.151
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.151
       }
    }
    samani = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.234
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.234
       }
    }
    hiroo = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.110
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.110
       }
    }
    toubui = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.345
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.345
       }
    }
    kasai = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.315
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.315
       }
    }
    rumoi = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.337
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.337
       }
    }
    tomamae = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.268
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.268
       }
    }
    uryuu = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.473
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.473
       }
    }
    teshio = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.421
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.421
       }
    }
    souya = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.280
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.280
       }
    }
    esashi_hokkaido = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.433
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.433
       }
    }
    kitanakagawa = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.378
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.378
       }
    }
    kitakamikawa = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.490
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.490
       }
    }
    nakakamikawa = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.666
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.666
       }
    }
    minamikamikawa = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.396
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.396
       }
    }
    katou = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.383
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.383
       }
    }
    minaminakagawa = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.374
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.374
       }
    }
    monbetsu = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.968
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.968
       }
    }
    tokoro = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.590
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.590
       }
    }
    abashiri = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.199
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.199
       }
    }
    shari = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.448
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.448
       }
    }
    minamiabashiri = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.318
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.318
       }
    }
    ashoro = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.259
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.259
       }
    }
    tokachi = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.198
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.198
       }
    }
    shiranuka = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.300
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.300
       }
    }
    akan_loc = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.241
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.241
       }
    }
    kushiro = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.271
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.271
       }
    }
    kawakami_hokkaido = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.325
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.325
       }
    }
    akkeshi = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.227
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.227
       }
    }
    shibetsu = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.300
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.300
       }
    }
    notsuke = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.276
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.276
       }
    }
    nemuro = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.104
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.104
       }
    }
    hanasaki = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.079
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.079
       }
    }
    kunashiri = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.341
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.341
       }
    }
    etorofu = {
@@ -114328,124 +114328,124 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 25.291
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.291
       }
    }
    kamikita = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 25.754
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.754
       }
       define_pop
 
 
-        = {           type = peasants  culture = ainu_culture religion = ainu_religion size = 1.612
+        = {           type = peasants  culture = saigoku_culture religion = ainu_religion size = 1.612
       }
       define_pop
 
 
-        = {           type = tribesmen  culture = ainu_culture religion = ainu_religion size = 1.867
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 1.867
       }
    }
    shimokita = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 25.768
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.768
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = ainu_religion size = 1.442
+        = {           type = peasants  culture = saigoku_culture religion = ainu_religion size = 1.442
       }
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 2.371
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 2.371
       }
    }
    inaka = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 22.249
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.249
       }
       define_pop
 
 
-        = {           type = peasants  culture = ainu_culture religion = ainu_religion size = 1.030
+        = {           type = peasants  culture = saigoku_culture religion = ainu_religion size = 1.030
       }
       define_pop
 
 
-        = {           type = tribesmen  culture = ainu_culture religion = ainu_religion size = 1.736
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 1.736
       }
    }
    hiraka_aomori = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 27.268
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 27.268
       }
    }
    hanawa = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 23.717
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.717
       }
       define_pop
 
 
-        = {           type = peasants  culture = ainu_culture religion = ainu_religion size = 1.132
+        = {           type = peasants  culture = saigoku_culture religion = ainu_religion size = 1.132
       }
       define_pop
 
 
-        = {           type = tribesmen  culture = ainu_culture religion = ainu_religion size = 2.030
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 2.030
       }
    }
    hiyama = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 28.872
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 28.872
       }
    }
    akita = {
@@ -114457,48 +114457,48 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 27.219
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 27.219
       }
    }
    hinai = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 25.193
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.193
       }
    }
    kazuno = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 24.365
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.365
       }
    }
    kuji = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 26.629
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.629
       }
    }
    shimohei = {
@@ -114510,12 +114510,12 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 12.029
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 12.029
       }
    }
    kitahei = {
@@ -114527,19 +114527,19 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 11.718
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 11.718
       }
    }
    kamihei = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 25.851
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.851
       }
    }
    iwate = {
@@ -114551,12 +114551,12 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 27.795
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 27.795
       }
    }
    shiwa = {
@@ -114568,12 +114568,12 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 26.503
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.503
       }
    }
    hienuki = {
@@ -114585,12 +114585,12 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 26.995
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.995
       }
    }
    waga = {
@@ -114602,36 +114602,36 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 28.823
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 28.823
       }
    }
    toshima = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 26.227
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.227
       }
    }
    yamamoto = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 26.474
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.474
       }
    }
    yuri = {
@@ -114643,84 +114643,84 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 24.138
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.138
       }
    }
    kamiura = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 58.200
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 58.200
       }
    }
    isawa = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 28.252
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 28.252
       }
    }
    esashi = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 26.765
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.765
       }
    }
    yuza = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 25.813
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.813
       }
    }
    kesen = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 26.537
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.537
       }
    }
    iwai = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 29.738
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 29.738
       }
    }
    murayama = {
@@ -114732,12 +114732,12 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 28.108
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 28.108
       }
    }
    tagawa = {
@@ -114749,36 +114749,36 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 28.976
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 28.976
       }
    }
    kitamogami = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 12.755
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 12.755
       }
    }
    minamimogami = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 11.735
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 11.735
       }
    }
    nishiokitama = {
@@ -114790,238 +114790,238 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 12.765
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 12.765
       }
    }
    higashiokitama = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 12.226
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 12.226
       }
    }
    motoyoshi = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 22.308
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.308
       }
    }
    tome = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 17.391
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 17.391
       }
    }
    kurihara = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 48.045
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 48.045
       }
    }
    oshika = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 31.926
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 31.926
       }
    }
    kami = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 28.366
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 28.366
       }
    }
    kurokawa = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 39.585
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 39.585
       }
    }
    miyagi = {
       define_pop
 
 
-        = {           type = nobles  culture = touhoku_culture religion = shinto size = 0.016
+        = {           type = nobles  culture = saigoku_culture religion = shinto size = 0.016
       }
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.188
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.188
       }
       define_pop
 
 
-        = {           type = burghers  culture = touhoku_culture religion = shinto size = 1.629
+        = {           type = burghers  culture = saigoku_culture religion = shinto size = 1.629
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 32.409
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 32.409
       }
    }
    natori = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 31.811
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 31.811
       }
    }
    katta = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 36.712
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 36.712
       }
    }
    uda_mutsu = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 34.212
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 34.212
       }
    }
    namekata = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 21.164
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 21.164
       }
    }
    shineha = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 18.421
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 18.421
       }
    }
    date_loc = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 22.193
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.193
       }
    }
    shinobu = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 21.507
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 21.507
       }
    }
    naraha = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 17.620
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 17.620
       }
    }
    adachi = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 23.451
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.451
       }
    }
    iwaki = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 30.668
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 30.668
       }
    }
    asaka = {
@@ -115033,12 +115033,12 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 12.665
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 12.665
       }
    }
    tamura = {
@@ -115050,24 +115050,24 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 13.217
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 13.217
       }
    }
    kikuta = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 14.305
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 14.305
       }
    }
    yama_jap = {
@@ -115079,72 +115079,72 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 27.463
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 27.463
       }
    }
    kawanuma = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 21.850
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 21.850
       }
    }
    oonuma = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 24.502
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.502
       }
    }
    kitaaizu = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 13.773
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 13.773
       }
    }
    minamiaizu = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 10.702
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 10.702
       }
    }
    iwase = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 18.649
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 18.649
       }
    }
    shirakawa = {
@@ -115156,118 +115156,108 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 41.529
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 41.529
       }
    }
    takano = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 19.335
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 19.335
       }
    }
    iwafune = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 25.377
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.377
       }
    }
    nutari = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 29.478
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 29.478
       }
    }
    nishikanbara = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 11.222
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 3.581
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 14.803
       }
    }
    higashikanbara = {
       define_pop
 
 
-        = {           type = clergy  culture = touhoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = shinto size = 13.254
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 13.254
       }
    }
    koshi = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 42.424
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 11.024
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 53.448
       }
    }
    taga = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 25.077
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.077
       }
    }
    kuji_kanto = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 27.991
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 27.991
       }
    }
    naka = {
@@ -115279,36 +115269,36 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 27.262
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 27.262
       }
    }
    ibaraki = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 24.577
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.577
       }
    }
    kashima = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 49.156
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 49.156
       }
    }
    niihari = {
@@ -115320,12 +115310,12 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 56.525
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 56.525
       }
    }
    tsukuba = {
@@ -115337,12 +115327,12 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 49.155
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 49.155
       }
    }
    kamo = {
@@ -115373,75 +115363,60 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 13.825
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 13.825
       }
    }
    kitauonuma = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 12.768
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 12.768
       }
    }
    kariwa = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 21.380
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 3.591
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.971
       }
    }
    higashikubiki = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 18.252
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 4.722
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.974
       }
    }
    nishikubiki = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 13.864
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 2.686
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 16.550
       }
    }
    nasu = {
@@ -115453,24 +115428,24 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 22.427
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.427
       }
    }
    shioya = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 25.389
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.389
       }
    }
    haga = {
@@ -115482,12 +115457,12 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 24.186
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.186
       }
    }
    kawachi = {
@@ -115499,149 +115474,149 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 28.616
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 28.616
       }
    }
    tsuga = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 26.944
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.944
       }
    }
    ashikaga_loc = {
       define_pop
 
 
-        = {           type = nobles  culture = tougoku_culture religion = shinto size = 0.050
+        = {           type = nobles  culture = saigoku_culture religion = shinto size = 0.050
       }
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 24.362
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.362
       }
    }
    katori = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 52.036
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 52.036
       }
    }
    musa = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 27.377
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 27.377
       }
    }
    isumi = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 26.585
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.585
       }
    }
    awa = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 25.181
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.181
       }
    }
    makuda = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 54.418
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 54.418
       }
    }
    ichihara = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 50.195
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 50.195
       }
    }
    chiba = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 54.223
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 54.223
       }
    }
    souma = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 56.874
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 56.874
       }
    }
    katsushika = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 29.055
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 29.055
       }
    }
    saitama = {
@@ -115653,24 +115628,24 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 25.608
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.608
       }
    }
    adachi_kanto = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 27.913
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 27.913
       }
    }
    toshima_kanto = {
@@ -115682,437 +115657,407 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 52.790
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 52.790
       }
    }
    tachibana = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 25.326
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.326
       }
    }
    tama = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 22.120
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.120
       }
    }
    chichibu = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 27.239
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 27.239
       }
    }
    hiki = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 50.991
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 50.991
       }
    }
    hanzawa = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 22.795
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.795
       }
    }
    tone = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 25.074
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.074
       }
    }
    seta = {
       define_pop
 
 
-        = {           type = nobles  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = nobles  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 28.480
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 28.480
       }
    }
    nitta = {
       define_pop
 
 
-        = {           type = nobles  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = nobles  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 26.903
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.903
       }
    }
    gunma = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 28.549
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 28.549
       }
    }
    agatsuma = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 28.549
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 28.549
       }
    }
    usui = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 24.525
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.525
       }
    }
    kanra = {
       define_pop
 
 
-        = {           type = nobles  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = nobles  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 55.178
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 55.178
       }
    }
    kamakura = {
       define_pop
 
 
-        = {           type = nobles  culture = tougoku_culture religion = shinto size = 0.087
+        = {           type = nobles  culture = saigoku_culture religion = shinto size = 0.087
       }
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.264
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.264
       }
       define_pop
 
 
-        = {           type = burghers  culture = tougoku_culture religion = shinto size = 3.614
+        = {           type = burghers  culture = saigoku_culture religion = shinto size = 3.614
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 248.997
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 248.997
       }
    }
    aikou = {
       define_pop
 
 
-        = {           type = nobles  culture = tougoku_culture religion = shinto size = 0.020
+        = {           type = nobles  culture = saigoku_culture religion = shinto size = 0.020
       }
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 41.279
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 41.279
       }
    }
    ashigara = {
       define_pop
 
 
-        = {           type = nobles  culture = tougoku_culture religion = shinto size = 0.030
+        = {           type = nobles  culture = saigoku_culture religion = shinto size = 0.030
       }
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 27.487
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 27.487
       }
    }
    tagata = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 17.547
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 5.740
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.287
       }
    }
    kamo_izu = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 17.039
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 5.414
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.453
       }
    }
    tsuru = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 22.773
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.773
       }
    }
    yamanashi = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 26.651
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.651
       }
    }
    yatsushiro = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 26.306
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.306
       }
    }
    koma_kai = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 25.836
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.836
       }
    }
    suntou = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 23.428
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.428
       }
    }
    fuji = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 24.757
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.757
       }
    }
    ihara = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 24.589
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 9.813
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 34.402
       }
    }
    abe = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 26.750
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.750
       }
    }
    shida = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 16.424
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 7.004
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.428
       }
    }
    takai = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 26.729
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.729
       }
    }
    minochi = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 20.408
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 3.704
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.112
       }
    }
    azumi = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 25.355
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.355
       }
    }
    sarashina = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 44.360
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 8.795
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 53.155
       }
    }
    chiisagata = {
@@ -116124,201 +116069,161 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 21.795
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 4.019
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.814
       }
    }
    saku = {
       define_pop
 
 
-        = {           type = nobles  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = nobles  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 28.017
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 28.017
       }
    }
    suwa = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 23.785
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.785
       }
    }
    tsukama = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 16.385
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 16.385
       }
    }
    kiso = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 8.359
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 2.360
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 10.719
       }
    }
    kamiina = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 11.453
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 11.453
       }
    }
    shimoina = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 9.958
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 9.958
       }
    }
    kitou = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.015
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.015
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 29.307
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 16.227
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 45.534
       }
    }
    shuuchi = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 21.281
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 10.006
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 31.287
       }
    }
    toyoda = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 19.610
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 6.840
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.450
       }
    }
    fuchi = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 24.063
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 11.850
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 35.913
       }
    }
    shitara = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 18.779
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 8.794
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 27.573
       }
    }
    kamo_mikawa = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 19.623
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 6.951
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 26.574
       }
    }
    hekikai = {
@@ -116330,34 +116235,24 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 35.750
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 17.756
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 53.506
       }
    }
    hoi = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 36.683
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 10.832
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 47.515
       }
    }
    niikawa = {
@@ -116477,34 +116372,24 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 18.265
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 7.293
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.558
       }
    }
    kamioono = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 18.714
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 7.043
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.757
       }
    }
    nakaoono = {
@@ -116523,34 +116408,24 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 15.125
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 6.456
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 21.581
       }
    }
    aichi = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 39.150
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.051
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 62.201
       }
    }
    nakajima = {
@@ -116562,34 +116437,24 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 17.361
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 6.432
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.793
       }
    }
    niwa = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 30.173
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 17.960
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 48.133
       }
    }
    ena = {
@@ -116601,51 +116466,36 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 16.849
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 6.871
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.720
       }
    }
    minokamo = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 15.840
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 9.100
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.940
       }
    }
    toki = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 17.670
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 7.773
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.443
       }
    }
    gujou = {
@@ -116657,85 +116507,60 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 18.214
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 9.589
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 27.803
       }
    }
    mugi = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 17.308
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 7.101
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.409
       }
    }
    katagata = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 17.564
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 6.951
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.515
       }
    }
    ikeda = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 33.056
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 15.922
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 48.978
       }
    }
    fuwa_mino = {
       define_pop
 
 
-        = {           type = clergy  culture = tougoku_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = shinto size = 16.556
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 7.773
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.329
       }
    }
    mie = {
@@ -117048,17 +116873,12 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = korean_culture religion = mahayana size = 1.667
+        = {           type = peasants  culture = saigoku_culture religion = mahayana size = 1.667
       }
       define_pop
 
 
-        = {           type = peasants  culture = yue_wu_culture religion = sanjiao size = 2.665
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = wu_culture religion = sanjiao size = 1.217
+        = {           type = peasants  culture = saigoku_culture religion = sanjiao size = 3.882
       }
    }
    osaka = {
@@ -118196,101 +118016,101 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 2.591
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 2.591
       }
    }
    shimoagata = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 2.872
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 2.872
       }
    }
    nakatsu = {
       define_pop
 
 
-        = {           type = nobles  culture = kyushu_culture religion = shinto size = 0.010
+        = {           type = nobles  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 53.389
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 53.389
       }
    }
    mike = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 23.604
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.604
       }
    }
    usa = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 20.828
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 20.828
       }
    }
    kunisaki = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 23.915
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.915
       }
    }
    hayami = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 23.103
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.103
       }
    }
    kusu = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 22.452
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.452
       }
    }
    hita = {
@@ -118302,60 +118122,60 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 22.574
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.574
       }
    }
    ooita = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 25.074
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.074
       }
    }
    amabe = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 23.103
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.103
       }
    }
    oono_bungo = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 25.115
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.115
       }
    }
    naoiri = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 23.305
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.305
       }
    }
    higashiusuki = {
@@ -118367,132 +118187,132 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 22.142
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.142
       }
    }
    nishiusuki = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 23.699
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.699
       }
    }
    koyu = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 25.230
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.230
       }
    }
    naka_hyuuga = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 13.800
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 13.800
       }
    }
    miyazaki = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 20.513
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 20.513
       }
    }
    nishimorokata = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 17.917
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 17.917
       }
    }
    kitamorokata = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 21.229
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 21.229
       }
    }
    minamimorokata = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 15.858
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 15.858
       }
    }
    oosumi = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 7.114
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 7.114
       }
    }
    kimotsuki = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 14.631
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 14.631
       }
    }
    soo = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 11.827
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 11.827
       }
    }
    kuwabara = {
@@ -118504,53 +118324,53 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 10.633
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 10.633
       }
    }
    kagoshima = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.193
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.193
       }
       define_pop
 
 
-        = {           type = burghers  culture = kyushu_culture religion = shinto size = 1.629
+        = {           type = burghers  culture = saigoku_culture religion = shinto size = 1.629
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 37.899
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 37.899
       }
    }
    ibusuki = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 25.424
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.424
       }
    }
    satsuma = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 21.296
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 21.296
       }
    }
    hishikari = {
@@ -118562,132 +118382,132 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 10.514
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 10.514
       }
    }
    izumi_satsuma = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 16.772
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 16.772
       }
    }
    ashikita = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 22.468
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.468
       }
    }
    kuma = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 23.300
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 23.300
       }
    }
    yatsushiro_higo = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 22.775
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.775
       }
    }
    mashiki = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 25.182
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.182
       }
    }
    aso = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 22.447
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.447
       }
    }
    akita_kumamoto = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 24.833
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.833
       }
    }
    koushi = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 21.922
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 21.922
       }
    }
    tamana = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 22.535
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.535
       }
    }
    amakusa = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 21.900
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 21.900
       }
    }
    takaki = {
@@ -118699,72 +118519,72 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 25.086
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 25.086
       }
    }
    nishisonogi = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 24.685
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.685
       }
    }
    higashisonogi = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 22.674
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.674
       }
    }
    minamimatsuura = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 21.761
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 21.761
       }
    }
    nishimatsuura = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 49.918
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 49.918
       }
    }
    kishima = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 42.243
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 42.243
       }
    }
    higashimatsuura = {
@@ -118776,12 +118596,12 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 22.273
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.273
       }
    }
    saga = {
@@ -118793,82 +118613,77 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 42.792
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 42.792
       }
    }
    kamitsuma = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 24.383
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.383
       }
    }
    mii = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 47.080
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 47.080
       }
    }
    hakata = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 22.535
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 24.202
       }
       define_pop
 
 
-        = {           type = peasants  culture = saigoku_culture religion = shinto size = 1.667
-      }
-      define_pop
-
-
-        = {           type = peasants  culture = korean_culture religion = mahayana size = 0.731
+        = {           type = peasants  culture = saigoku_culture religion = mahayana size = 0.731
       }
    }
    mikasa = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 22.828
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.828
       }
    }
    onga = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.010
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.010
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 48.581
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 48.581
       }
    }
    asakura = {
@@ -118880,36 +118695,36 @@ locations = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 22.048
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 22.048
       }
    }
    kumage_oosumi = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 8.605
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 8.605
       }
    }
    gomu = {
       define_pop
 
 
-        = {           type = clergy  culture = kyushu_culture religion = shinto size = 0.005
+        = {           type = clergy  culture = saigoku_culture religion = shinto size = 0.005
       }
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = shinto size = 9.321
+        = {           type = peasants  culture = saigoku_culture religion = shinto size = 9.321
       }
    }
    amami_ooshima = {
@@ -119017,14 +118832,14 @@ locations = {
       define_pop
 
 
-        = {           type = tribesmen  culture = touhoku_culture religion = ainu_religion size = 0.105
+        = {           type = tribesmen  culture = saigoku_culture religion = ainu_religion size = 0.105
       }
    }
    izu_islands = {
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    makanru = {
@@ -119080,7 +118895,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    mishima_island = {
@@ -119094,119 +118909,119 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    satsunan_islands = {
       define_pop
 
 
-        = {           type = peasants  culture = kyushu_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    ishikari_mountains = {
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    hidaka_mountains = {
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    asama_mountains = {
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    akaishi_mountains = {
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    kiso_mountains = {
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    okuchichibu_mountains = {
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    yatsugatake_mountains = {
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    mikuni_mountains = {
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    hida_mountains = {
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    mount_ontake = {
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    mount_haku = {
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    echigo_mountains = {
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    iide_mountains = {
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    mount_azuma = {
       define_pop
 
 
-        = {           type = peasants  culture = touhoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    mount_fuji = {
       define_pop
 
 
-        = {           type = peasants  culture = tougoku_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = saigoku_culture religion = catholic size = 1.000
       }
    }
    mount_tsurugi = {

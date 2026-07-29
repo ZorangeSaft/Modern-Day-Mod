@@ -124,6 +124,11 @@ japanese_language = {
 	character_name_order = "CHARACTER_NAME_ORDER_PREFIX_LASTNAME_NAME_SUFFIX_NICKNAME_NUMBER"
 	descendant_suffix_male = "descendant_suffix_japanese"
 	descendant_suffix_female = "descendant_suffix_japanese"
+
+	dialects = {
+		mdm_okinawan_japanese_dialect = {
+		}
+	}
 }
 
 ainu_language = {

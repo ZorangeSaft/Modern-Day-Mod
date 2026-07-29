@@ -148,9 +148,9 @@ ainu_culture = {
 }
 
 ryukyu_culture = {
-	language = ryukyu_language
+	language = mdm_okinawan_japanese_dialect #ryukyu_language
 
-	color = map_ryukyu
+	color = { 44 177 186 } #map_ryukyu reef blue
 
 	tags = { japanese_gfx east_asian_gfx }
 
