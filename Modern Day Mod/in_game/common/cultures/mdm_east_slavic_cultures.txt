@@ -1,6 +1,6 @@
 muscovite = {
 	language = russian_dialect
-	color = map_MOS
+	color = { 96 131 80 }
 	
 	tags = { russian_gfx east_slavic_gfx slavic_gfx eastern_european_gfx european_gfx }
 
@@ -9,6 +9,8 @@ muscovite = {
 	culture_groups = {
 		russian_group
 		slavic_group
+		mdm_east_slavic_group
+		mdm_post_soviet_group
 	}
 }
 
@@ -23,6 +25,8 @@ cossack_culture = {
 	culture_groups = {
 		russian_group
 		slavic_group
+		mdm_east_slavic_group
+		mdm_post_soviet_group
 	}
 }
 
@@ -35,9 +39,9 @@ rusyn_culture = {
 	opinions = { }
 
 	culture_groups = {
-		russian_group
 		slavic_group
-		carpathian_group
+		mdm_east_slavic_group
+		mdm_post_soviet_group
 	}
 }
 
@@ -50,8 +54,9 @@ mdm_belarusian_culture = {
 	opinions = { }
 
 	culture_groups = {
-		russian_group
 		slavic_group
+		mdm_east_slavic_group
+		mdm_post_soviet_group
 	}
 }
 
@@ -64,7 +69,8 @@ mdm_ukrainian_culture = {
 	opinions = { }
 
 	culture_groups = {
-		russian_group
 		slavic_group
+		mdm_east_slavic_group
+		mdm_post_soviet_group
 	}
 }

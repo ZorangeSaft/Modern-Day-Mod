@@ -967,7 +967,7 @@ mdm_puerto_rican_culture = { #also spanish speakers on virgin islands
 	}
 
 	culture_groups = { #removed anglo american, idk if that is accurate or not
-		mdm_american_group mdm_us_caribbean_group mdm_caribbean_group
+		mdm_american_group mdm_us_caribbean_group mdm_caribbean_group mdm_spanish_caribbean_group
 	}
 }
 
@@ -1076,7 +1076,7 @@ mdm_ontario_culture = { #temporary name
 }
 
 mdm_quebec_culture = {
-	language = french_language #todo: add quebec dialect (necessary)
+	language = mdm_quebecois_dialect
 	
 	color = rgb {44 44 149}
 	
@@ -1092,7 +1092,7 @@ mdm_quebec_culture = {
 }
 
 mdm_northern_quebec_culture = {
-	language = french_language #todo: add quebec dialect (necessary)
+	language = mdm_quebecois_dialect
 	
 	color = rgb {49 78 91} #2 parts quebec blue, 3 parts boreal green
 	
@@ -1108,7 +1108,7 @@ mdm_northern_quebec_culture = {
 }
 
 mdm_acadian_culture = {
-	language = french_language #todo: add quebec dialect (necessary)
+	language = mdm_quebecois_dialect
 	
 	color = rgb {57 158 214}
 	
@@ -1269,7 +1269,7 @@ mdm_belizean_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglosphere_group mdm_anglo_caribbean_group mdm_caribbean_group
+		mdm_anglosphere_group mdm_anglo_caribbean_group mdm_caribbean_group mdm_spanish_caribbean_group
 	}
 }
 
@@ -1317,7 +1317,7 @@ mdm_guyanese_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglosphere_group mdm_anglo_caribbean_group mdm_caribbean_group
+		mdm_anglosphere_group mdm_anglo_caribbean_group mdm_caribbean_group mdm_guyanan_group
 	}
 }
 
@@ -1397,7 +1397,7 @@ mdm_trinidadian_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglosphere_group mdm_anglo_caribbean_group mdm_caribbean_group
+		mdm_anglosphere_group mdm_anglo_caribbean_group mdm_caribbean_group mdm_spanish_caribbean_group
 	}
 }
 
@@ -1413,7 +1413,7 @@ mdm_tobagonian_culture = {
 	}
 
 	culture_groups = {
-		mdm_anglosphere_group mdm_anglo_caribbean_group mdm_caribbean_group
+		mdm_anglosphere_group mdm_anglo_caribbean_group mdm_caribbean_group mdm_spanish_caribbean_group
 	}
 }
 

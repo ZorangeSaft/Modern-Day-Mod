@@ -576,6 +576,9 @@ mdm_european_group = { #all european cultures
 mdm_caribbean_group = { #all caribbean cultures
 }
 
+mdm_guyanan_group = { #guyana, suriname, french guyana
+}
+
 
 
 #anglosphere culture groups
@@ -738,6 +741,9 @@ mdm_mexican_group = { #mexico
 mdm_central_american_group = { #central america
 }
 
+mdm_spanish_caribbean_group = { #cuba, dominican republic, puerto rico, trinidad and tobago, belize
+}
+
 mdm_andean_group = { #andean south america
 }
 
@@ -790,3 +796,21 @@ mdm_middle_german_group = {}
 mdm_south_german_group = {}
 mdm_west_german_group = {}
 mdm_east_german_group = {}
+
+
+#slavic culture groups
+
+mdm_czechoslovak_group = {}
+mdm_west_slavic_group = {}
+mdm_east_slavic_group = {}
+mdm_serbo_croatian_group = {}
+mdm_bulgarian_group = {}
+
+mdm_albanian_group = {} #obviously not slavic, but nowhere else to put this
+
+
+#italian culture groups
+
+mdm_north_italian_group = {}
+mdm_south_italian_group = {}
+mdm_insular_italian_group = {}

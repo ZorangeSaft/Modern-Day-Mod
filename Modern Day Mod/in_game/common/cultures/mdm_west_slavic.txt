@@ -8,9 +8,9 @@ czech = {
 	opinions = { }
 	
 	culture_groups = {
-		bohemian_group
-		german_group
+		mdm_czechoslovak_group
 		slavic_group
+		mdm_west_slavic_group
 	}
 }
 
@@ -26,6 +26,7 @@ kashubian = {
 	culture_groups = {
 		polish_group
 		slavic_group
+		mdm_west_slavic_group
 	}
 }
 
@@ -38,9 +39,9 @@ silesian = {
 	
 	opinions = { }
 	culture_groups = {
-		bohemian_group
 		polish_group
 		slavic_group
+		mdm_west_slavic_group
 	}
 }
 
@@ -54,8 +55,9 @@ slovak = { #SLO
 	opinions = { }
 	
 	culture_groups = {
-		carpathian_group
+		mdm_czechoslovak_group
 		slavic_group
+		mdm_west_slavic_group
 	}
 }
 
@@ -69,8 +71,10 @@ sorbian = {
 	opinions = { }
 	
 	culture_groups = {
-		bohemian_group
+		mdm_czechoslovak_group #wasnt part of that country obviously, but they are still close as far as i know
 		slavic_group
+		mdm_germany_group
+		mdm_west_slavic_group
 	}
 }
 
@@ -86,5 +90,6 @@ mdm_polish_culture = {
 	culture_groups = {
 		polish_group
 		slavic_group
+		mdm_west_slavic_group
 	}
 }

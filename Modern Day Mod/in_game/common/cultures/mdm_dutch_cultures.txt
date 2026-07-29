@@ -44,7 +44,7 @@ mdm_abc_islands_culture = { #aruba, bonaire, curacao
 	opinions = {}
 	
 	culture_groups = {
-		mdm_dutch_group mdm_dutch_caribbean_group mdm_caribbean_group
+		mdm_dutch_group mdm_dutch_caribbean_group mdm_caribbean_group mdm_spanish_caribbean_group
 	}
 }
 
@@ -100,7 +100,7 @@ mdm_surinamese_culture = {
 	opinions = {}
 	
 	culture_groups = {
-		mdm_dutch_group mdm_dutch_caribbean_group mdm_caribbean_group
+		mdm_dutch_group mdm_dutch_caribbean_group mdm_caribbean_group mdm_guyanan_group
 	}
 }
 

@@ -47,6 +47,7 @@ mdm_gibraltarian_culture = {
 	culture_groups = {
 		iberian_group
 		mdm_hispanosphere_group
+		mdm_anglosphere_group
 	}
 }
 
@@ -155,6 +156,7 @@ mdm_guatemalan_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_central_american_group
 	}
 }
 
@@ -171,6 +173,7 @@ mdm_honduran_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_central_american_group
 	}
 }
 
@@ -187,6 +190,7 @@ mdm_salvadoran_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_central_american_group
 	}
 }
 
@@ -203,6 +207,7 @@ mdm_nicaraguan_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_central_american_group
 	}
 }
 
@@ -219,6 +224,7 @@ mdm_costa_rican_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_central_american_group
 	}
 }
 
@@ -235,6 +241,7 @@ mdm_panamanian_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_central_american_group
 	}
 }
 
@@ -252,6 +259,7 @@ mdm_cuban_culture = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
 		mdm_caribbean_group
+		mdm_spanish_caribbean_group
 	}
 }
 
@@ -269,6 +277,7 @@ mdm_dominican_culture = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
 		mdm_caribbean_group
+		mdm_spanish_caribbean_group
 	}
 }
 
@@ -285,6 +294,7 @@ mdm_venezuelan_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_colombian_group
 	}
 }
 
@@ -301,6 +311,7 @@ mdm_colombian_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_colombian_group
 	}
 }
 
@@ -317,6 +328,8 @@ mdm_ecuadorean_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_colombian_group #not sure
+		mdm_andean_group
 	}
 }
 
@@ -333,6 +346,7 @@ mdm_peruvian_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_andean_group
 	}
 }
 
@@ -349,6 +363,7 @@ mdm_bolivian_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_andean_group
 	}
 }
 
@@ -365,6 +380,8 @@ mdm_chilean_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_andean_group #not sure
+		mdm_southern_cone_group
 	}
 }
 
@@ -381,6 +398,7 @@ mdm_argentine_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_southern_cone_group
 	}
 }
 
@@ -397,6 +415,7 @@ mdm_paraguayan_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_southern_cone_group
 	}
 }
 
@@ -413,6 +432,7 @@ mdm_uruguayan_culture = {
 	culture_groups = {
 		mdm_hispanosphere_group
 		mdm_hispanic_group
+		mdm_southern_cone_group
 	}
 }
 

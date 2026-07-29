@@ -232,7 +232,7 @@ mdm_french_guianese_culture = { #french guiana
 	
 	culture_groups = {
 		mdm_francosphere_group
-		mdm_caribbean_group mdm_french_caribbean_group
+		mdm_caribbean_group mdm_french_caribbean_group mdm_guyanan_group
 	}
 }
 

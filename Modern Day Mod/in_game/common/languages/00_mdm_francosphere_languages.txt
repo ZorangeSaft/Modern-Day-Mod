@@ -218,10 +218,7 @@ french_language = {
 		french_language = {
 			default = yes
 		}
-		norman_dialect = {
-			patronym_prefix_son = "patronym_prefix_norman_son"
-			patronym_prefix_daughter = "patronym_prefix_norman_son"
-		}
+		mdm_quebecois_dialect = {}
 		mdm_franc_comtois_dialect = {}
 		arpitan_dialect = {}
 		mdm_walloon_dialect = {}

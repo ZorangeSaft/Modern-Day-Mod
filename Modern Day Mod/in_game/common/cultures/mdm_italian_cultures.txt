@@ -10,6 +10,8 @@
 
 	culture_groups = {
 		italian_group
+		french_group #mdm
+		mdm_insular_italian_group
 	}
 }
 
@@ -40,6 +42,7 @@ friulian = {
 	
 	culture_groups = {
 		italian_group
+		mdm_north_italian_group
 	}
 }
 
@@ -87,6 +90,7 @@ maltese = {
 		italian_group
 		maghrebi_group
 		arabic_group
+		mdm_insular_italian_group
 	}	
 }
 
@@ -103,6 +107,7 @@ romansh = {
 	culture_groups = {
 		italian_group
 		swiss_group
+		mdm_north_italian_group
 	}
 }
 
@@ -118,6 +123,7 @@ sardinian = {
 	
 	culture_groups = {
 		italian_group
+		mdm_insular_italian_group
 	}
 }
 
@@ -133,6 +139,8 @@ sicilian = {
 	
 	culture_groups = {
 		italian_group
+		mdm_south_italian_group
+		mdm_insular_italian_group
 	}
 }
 
@@ -239,6 +247,7 @@ mdm_gallo_italic_culture = {
 	
 	culture_groups = {
 		italian_group
+		mdm_north_italian_group
 	}
 }
 
@@ -254,6 +263,8 @@ median = {
 	
 	culture_groups = {
 		italian_group
+		mdm_north_italian_group
+		mdm_south_italian_group
 	}
 }
 
@@ -269,5 +280,6 @@ neapolitan = {
 	
 	culture_groups = {
 		italian_group
+		mdm_south_italian_group
 	}
 }

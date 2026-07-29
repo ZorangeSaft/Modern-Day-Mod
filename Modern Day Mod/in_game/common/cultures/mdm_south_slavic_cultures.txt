@@ -10,6 +10,7 @@ bosnian = {
 	culture_groups = {
 		slavic_group
 		south_slavic_group
+		mdm_serbo_croatian_group
 	}
 }
 
@@ -25,6 +26,7 @@ bulgarian = {
 	culture_groups = {
 		slavic_group
 		south_slavic_group
+		mdm_bulgarian_group
 	}
 }
 
@@ -40,6 +42,7 @@ mdm_north_macedonian_culture = {
 	culture_groups = {
 		slavic_group
 		south_slavic_group
+		mdm_bulgarian_group
 	}
 }
 
@@ -55,6 +58,7 @@ croatian = {
 	culture_groups = {
 		slavic_group
 		south_slavic_group
+		mdm_serbo_croatian_group
 	}
 }
 
@@ -69,6 +73,7 @@ serbian = {
 	culture_groups = {
 		slavic_group
 		south_slavic_group
+		mdm_serbo_croatian_group
 	}
 }
 
@@ -84,6 +89,7 @@ slovene = {
 	culture_groups = {
 		slavic_group
 		south_slavic_group
+		mdm_serbo_croatian_group
 	}
 }
 
@@ -96,8 +102,22 @@ albanian = {
 	
 	opinions = { }
 	
-	goods_demand_modifier = {
-		olives = 1.2
+	culture_groups = {
+		mdm_albanian_group
+	}
+}
+
+mdm_kosovo_culture = {
+	language = albanian_language
+	
+	color = map_kosovo
+	
+	tags = { east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		mdm_albanian_group
 	}
 }
 

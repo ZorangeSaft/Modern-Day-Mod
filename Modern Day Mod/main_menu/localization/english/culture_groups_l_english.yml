@@ -94,7 +94,7 @@
  pyrenean_group_desc: "Born of the Pyrenees Mountains that separates southern France from Iberia, the Pyrenean people share a bond forged by the shared hardships and unique societal innovations of remote life in rough borderlands."
  romanian_group: "Romanian"
  romanian_group_desc: "The $romanian_group$ people, descendants of ancient Dacians and Romans, mostly inhabit the regions of Wallachia, Moldova, and Transylvania, but also across the Balkans. They boast a unique Romance variant surrounded by Slavic languages. They are celebrated for their resilience, and a love for folklore that reflects in their music, traditions, and celebrations."
- russian_group: "East Slavic"
+ russian_group: "Russian"
  russian_group_desc: "The Rus' people trace their origins to the Varangians, Scandinavian seafarers and warriors who settled in the Russian region around the 9th century. Over time, the Rus' underwent a process of cultural fusion, blending Slavic traditions with Scandinavian influences. Proximity to the Byzantine Empire promoted cultural and economic exchanges, contributing to their unique culture with a diverse mix of art, architecture, and language."
  scandinavian_group: "Scandinavian"
  scandinavian_group_desc: "Scandinavia is home to a diverse array of peoples, shaped by a rich history of migration, trade, and cultural exchange. The different realms have developed unique identities while maintaining a sense of shared heritage. Renowned for their seafaring skills and vibrant trading networks, the Scandinavians are known for their prowess in seamanship and governance."
@@ -381,8 +381,12 @@
 
  mdm_european_group: "European"
  mdm_european_group_desc: "The diverse cultures of Europe"
+
  mdm_caribbean_group: "Caribbean"
  mdm_caribbean_group_desc: "The diverse cultures of the Caribbean islands"
+
+ mdm_guyanan_group: "Guyanan"
+ mdm_guyanan_group_desc: "The diverse cultures of the Guyanas"
 
 
  #colonial culture groups
@@ -398,6 +402,9 @@
 
  mdm_hispanosphere_group: "Hispanosphere"
  mdm_hispanosphere_group_desc: "The diverse cultures of the Hispanic world, united under language and shared history of their former empire"
+
+ mdm_spanish_caribbean_group: "Spanish Caribbean"
+ mdm_spanish_caribbean_group_desc: "The diverse cultures of the Spanish Caribbean"
 
  mdm_francosphere_group: "Francosphere"
  mdm_francosphere_group_desc: "The diverse cultures of the Francophone world, united under language and shared history of their former empire"
@@ -578,3 +585,38 @@
 
  mdm_metrochinese_group: "Metro Chinese"
  mdm_metrochinese_group_desc: "The people of the largest metropolitan areas of China, some of the biggest cities on earth"
+
+
+
+ #slavic culture groups
+
+ mdm_czechoslovak_group: "Czechoslovak"
+ mdm_czechoslovak_group_desc: "Czechia and Slovakia"
+
+ mdm_west_slavic_group: "West Slavic"
+ mdm_west_slavic_group_desc: "The West Slavs"
+
+ mdm_east_slavic_group: "East Slavic"
+ mdm_east_slavic_group_desc: "The East Slavs"
+
+ mdm_south_slavic_group: "South Slavic"
+ mdm_south_slavic_group_desc: "The South Slavs"
+
+ mdm_serbo_croatian_group: "Serbo-Croatian"
+ mdm_serbo_croatian_group_desc: "Former Yugoslavia"
+
+ mdm_bulgarian_group: "Bulgarian"
+ mdm_bulgarian_group_desc: "Bulgaria and Macedonia"
+
+
+
+ #italian culture groups
+
+ mdm_north_italian_group: "North Italian"
+ mdm_north_italian_group_desc: "The people of northern Italy"
+
+ mdm_south_italian_group: "South Italian"
+ mdm_south_italian_group_desc: "The people of southern Italy"
+
+ mdm_insular_italian_group: "Insular Italian"
+ mdm_insular_italian_group_desc: "The people of the Italian islands"
