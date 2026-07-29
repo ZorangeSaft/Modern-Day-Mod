@@ -625,9 +625,9 @@
  classical_arabic_dialect: "Classical Arabic"
  maltese_dialect: "Maltese"
  serbo_croatian_language: "South Slavic"
- serbian_dialect: "Shtokavian"
- croatian_dialect: "Croatian"
- slovene_dialect: "$slovene$"
+ serbian_language: "Serbian" #mdm
+ croatian_language: "Croatian"
+ slovene_language: "$slovene$"
  bulgarian_language: "Bulgarian"
  church_slavonic_language: "Church Slavonic"
  ta_arawakan_language: "Arawakan"
@@ -2900,9 +2900,9 @@
 
  #australia and new zealand cultures and dialects
  mdm_australian_culture: "Australian" #australia
- australian_dialect: "Australian" #australia
+ mdm_australian_dialect: "Australian" #australia
  mdm_kiwi_culture: "Kiwi" #new zealand
- kiwi_dialect: "Kiwi" #new zealand
+ mdm_kiwi_dialect: "Kiwi" #new zealand
 
 
  #caribbean cultures and languages
@@ -2957,15 +2957,15 @@
  mdm_tobagonian_english_creole_language: "Tobagonian English Creole"
  mdm_saint_lucian_creole_language: "Saint Lucian Creole"
  mdm_papiamento_language: "Papiamento"
- haitian_french_creole_language: "Haitian Creole"
+ mdm_haitian_french_creole_language: "Haitian Creole"
  mdm_antillean_french_creole_language: "Antillean French Creole"
  mdm_saint_barth_french_dialect: "Saint Barth French"
  mdm_cuban_spanish_dialect: "Cuban Spanish"
  mdm_puerto_rican_spanish_dialect: "Puerto Rican Spanish"
  mdm_dominican_spanish_dialect: "Dominican Spanish"
  mdm_english_creole_language: "English Creole"
- guyanese_english_creole_language: "Guyanese"
- sraran_tongo_english_creole_language: "Sranan Tongo"
+ mdm_guyanese_english_creole_language: "Guyanese"
+ mdm_sraran_tongo_english_creole_language: "Sranan Tongo"
 
 
  #brazil cultures
@@ -3121,9 +3121,12 @@
  #eastern europe
  
  mdm_north_macedonian_culture: "North Macedonian"
- mdm_macedonian_dialect: "Macedonian"
+ mdm_macedonian_language: "Macedonian"
 
  mdm_belarusian_culture: "Belarusian"
  mdm_ukrainian_culture: "Ukrainian"
 
  mdm_romanian_culture: "Romanian"
+
+ mdm_bosniak_language: "Bosniak"
+ mdm_montenegrin_language: "Montenegrin"

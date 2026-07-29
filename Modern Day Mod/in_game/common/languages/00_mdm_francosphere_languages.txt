@@ -556,7 +556,7 @@ french_creole_language = { #creole_languages are a bit hard to fit into the game
 	first_name_conjoiner = "-" # to hyphenate compound names like "name_john.name_lucas" as "Jean-Luc" instead of the default "Jean Luc"
 
 	dialects = {
-		haitian_french_creole_language = { #haiti
+		mdm_haitian_french_creole_language = { #haiti
 			#default = yes #idk if this is needed
 		}
 		mdm_antillean_french_creole_language = { #guadeloupe and martinique, but not the rest

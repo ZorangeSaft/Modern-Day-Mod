@@ -1,5 +1,37 @@
+slovene = {
+	language = slovene_language
+	
+	color = map_slovene
+	
+	tags = { south_slavic_gfx east_mediterranean_gfx mediterranean_gfx slavic_gfx eastern_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		slavic_group
+		south_slavic_group
+		mdm_serbo_croatian_group
+	}
+}
+
+croatian = {
+	language = croatian_language
+	
+	color = map_croatian
+	
+	tags = { south_slavic_gfx east_mediterranean_gfx mediterranean_gfx slavic_gfx eastern_european_gfx european_gfx }
+	
+	opinions = { }
+	
+	culture_groups = {
+		slavic_group
+		south_slavic_group
+		mdm_serbo_croatian_group
+	}
+}
+
 bosnian = {
-	language = serbian_dialect
+	language = mdm_bosniak_language
 	
 	color = map_bosnian
 	
@@ -7,6 +39,36 @@ bosnian = {
 	
 	opinions = { }
 	
+	culture_groups = {
+		slavic_group
+		south_slavic_group
+		mdm_serbo_croatian_group
+	}
+}
+
+serbian = {
+	language = serbian_language
+	
+	color = map_serbian
+	
+	tags = { south_slavic_gfx east_mediterranean_gfx mediterranean_gfx slavic_gfx eastern_european_gfx european_gfx }
+	
+	opinions = { }
+	culture_groups = {
+		slavic_group
+		south_slavic_group
+		mdm_serbo_croatian_group
+	}
+}
+
+mdm_montenegrin_culture = {
+	language = mdm_montenegrin_language
+	
+	color = { 171 107 109 }
+	
+	tags = { south_slavic_gfx east_mediterranean_gfx mediterranean_gfx slavic_gfx eastern_european_gfx european_gfx }
+	
+	opinions = { }
 	culture_groups = {
 		slavic_group
 		south_slavic_group
@@ -31,7 +93,7 @@ bulgarian = {
 }
 
 mdm_north_macedonian_culture = { 
-	language = mdm_macedonian_dialect
+	language = mdm_macedonian_language
 	
 	color = rgb { 255 51 51 }
 	
@@ -46,53 +108,9 @@ mdm_north_macedonian_culture = {
 	}
 }
 
-croatian = {
-	language = croatian_dialect
-	
-	color = map_croatian
-	
-	tags = { south_slavic_gfx east_mediterranean_gfx mediterranean_gfx slavic_gfx eastern_european_gfx european_gfx }
-	
-	opinions = { }
-	
-	culture_groups = {
-		slavic_group
-		south_slavic_group
-		mdm_serbo_croatian_group
-	}
-}
 
-serbian = {
-	language = serbian_dialect
-	
-	color = map_serbian
-	
-	tags = { south_slavic_gfx east_mediterranean_gfx mediterranean_gfx slavic_gfx eastern_european_gfx european_gfx }
-	
-	opinions = { }
-	culture_groups = {
-		slavic_group
-		south_slavic_group
-		mdm_serbo_croatian_group
-	}
-}
 
-slovene = {
-	language = slovene_dialect
-	
-	color = map_slovene
-	
-	tags = { south_slavic_gfx east_mediterranean_gfx mediterranean_gfx slavic_gfx eastern_european_gfx european_gfx }
-	
-	opinions = { }
-	
-	culture_groups = {
-		slavic_group
-		south_slavic_group
-		mdm_serbo_croatian_group
-	}
-}
-
+#obviously not slavic but they just fit here in this file
 albanian = {
 	language = albanian_language
 	
@@ -110,7 +128,7 @@ albanian = {
 mdm_kosovo_culture = {
 	language = albanian_language
 	
-	color = map_kosovo
+	color = { 208 166 80 }
 	
 	tags = { east_mediterranean_gfx mediterranean_gfx eastern_european_gfx european_gfx }
 	
@@ -120,6 +138,8 @@ mdm_kosovo_culture = {
 		mdm_albanian_group
 	}
 }
+
+
 
 dalmatian = {
 	language = dalmatian_dialect

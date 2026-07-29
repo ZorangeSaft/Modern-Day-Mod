@@ -91,7 +91,7 @@ mdm_saban_culture = {
 }
 
 mdm_surinamese_culture = {
-	language = sraran_tongo_english_creole_language #got a special name
+	language = mdm_sraran_tongo_english_creole_language #got a special name
 	
 	color = rgb {255 178 102}
 	

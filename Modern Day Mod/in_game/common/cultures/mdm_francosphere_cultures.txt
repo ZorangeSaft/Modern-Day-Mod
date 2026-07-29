@@ -119,7 +119,7 @@ walloon = {
 #caribbean
 
 mdm_haitian_culture = {
-	language = haitian_french_creole_language
+	language = mdm_haitian_french_creole_language
 	
 	color = rgb  { 116 125 132 } #{ 201 0 44 } idk where the old one came from, ai made it up, looks nice tho
 	

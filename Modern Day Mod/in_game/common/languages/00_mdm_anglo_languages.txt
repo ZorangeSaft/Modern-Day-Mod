@@ -483,12 +483,24 @@ english_language = {
 			patronym_suffix_son = "patronym_suffix_english_son"
 			patronym_suffix_daughter = "patronym_suffix_english_son"
 		}
+
+		#oceania
+		mdm_australian_dialect = {
+			patronym_suffix_son = "patronym_suffix_english_son"
+			patronym_suffix_daughter = "patronym_suffix_english_son"
+		}
+		mdm_kiwi_dialect = {
+			patronym_suffix_son = "patronym_suffix_english_son"
+			patronym_suffix_daughter = "patronym_suffix_english_son"
+		}
+
+
 		#dialects not final, subject to change
 		#puerto rico speaks spanish primarily
 	}
 }
 
-english_creole_language = {
+mdm_english_creole_language = {
 
 	color = {145 44 10} #todo:change this to a more appropriate color maby
 
@@ -739,11 +751,11 @@ english_creole_language = {
 			patronym_suffix_son = "patronym_suffix_english_son"
 			patronym_suffix_daughter = "patronym_suffix_english_son"
 		}
-		guyanese_english_creole_language = {
+		mdm_guyanese_english_creole_language = {
 			patronym_suffix_son = "patronym_suffix_english_son"
 			patronym_suffix_daughter = "patronym_suffix_english_son"
 		}
-		sraran_tongo_english_creole_language = { #spoken in formerly dutch suriname
+		mdm_sraran_tongo_english_creole_language = { #spoken in formerly dutch suriname
 			patronym_suffix_son = "patronym_suffix_english_son"
 			patronym_suffix_daughter = "patronym_suffix_english_son"
 		}

@@ -69,6 +69,10 @@ greek_language = {
 		}
 		koine_dialect = {
 		}
+		cypriot_dialect = { #todo:add cypriot culture
+		}
+		griko_dialect = { #todo:add griko culture to map, for southern italy
+		}
 	}
 	
 }
@@ -134,7 +138,7 @@ serbo_croatian_language = {
 	patronym_suffix_daughter = "patronym_suffix_russian_daughter"
 	
 	dialects = {
-		serbian_dialect = {
+		serbian_language = {
 			male_names = {
 				name_bratislav
 				name_constantine
@@ -169,7 +173,7 @@ serbo_croatian_language = {
 			}
 
 		}
-		croatian_dialect = {
+		croatian_language = {
 			male_names = {
 				name_ambrose name_augustine
 				name_benjamin name_bernard
@@ -211,7 +215,7 @@ serbo_croatian_language = {
 				Horvat Filipovic Pavlovic Perkovic
 			}
 		}
-		slovene_dialect = {
+		slovene_language = {
 			male_names = {
 				name_adolf name_albert name_albinus name_aloysius name_amadeus name_ambrose name_august name_augustine
 				name_benjamin name_bernard
@@ -240,6 +244,10 @@ serbo_croatian_language = {
 			dynasty_names = { 
 				
 			}
+		}
+		mdm_bosniak_language = {
+		}
+		mdm_montenegrin_language = {
 		}
 	}
 }
@@ -389,7 +397,7 @@ bulgarian_language = {
 		mdm_bulgarian_dialect = {
 			default = yes
 		}
-		mdm_macedonian_dialect = { }
+		mdm_macedonian_language = { }
 	}
 }
 

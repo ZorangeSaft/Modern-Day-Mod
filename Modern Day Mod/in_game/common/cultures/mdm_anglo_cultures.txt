@@ -1159,7 +1159,7 @@ mdm_new_foundland_and_labrador_culture = { #temporary name
 #oceania
 
 mdm_australian_culture = { #australia, will be split up later
-	language = australian_dialect
+	language = mdm_australian_dialect
 	
 	color = rgb {57 143 97}
 	
@@ -1175,7 +1175,7 @@ mdm_australian_culture = { #australia, will be split up later
 }
 
 mdm_kiwi_culture = { #new zealand
-	language = kiwi_dialect
+	language = mdm_kiwi_dialect
 	
 	color = rgb {152 130 191}
 	
@@ -1306,7 +1306,7 @@ mdm_grenadian_culture = {
 }
 
 mdm_guyanese_culture = {
-	language = guyanese_english_creole_language
+	language = mdm_guyanese_english_creole_language
 	
 	color = rgb {255 204 153}
 	
