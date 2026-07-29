@@ -3140,3 +3140,18 @@
  mdm_montenegrin_language: "Montenegrin"
 
  mdm_kosovar_culture: "Kosovar"
+
+
+ #east asia
+
+ mdm_korean_group: "Korean"
+ mdm_korean_group_desc: "Korean group desc"
+
+ mdm_joseonjok_korean_culture: "Joseonjok"
+ mdm_joseonjok_korean_dialect: "Joseonjok"
+
+ mdm_north_korean_culture: "North Korean"
+ mdm_north_korean_dialect: "North Korean"
+
+ mdm_south_korean_culture: "South Korean"
+ mdm_south_korean_dialect: "South Korean"
