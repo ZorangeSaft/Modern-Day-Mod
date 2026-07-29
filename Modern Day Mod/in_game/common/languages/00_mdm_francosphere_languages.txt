@@ -340,7 +340,7 @@ occitan_language = {
 	}
 }
 
-french_creole_language = { #creole_languages are a bit hard to fit into the games classifications but making them their own language with the seperate creole_languages as langauges under that language makes the most sense i think
+mdm_french_creole_language = { #creole_languages are a bit hard to fit into the games classifications but making them their own language with the seperate creole_languages as langauges under that language makes the most sense i think
 
 	color = {138 69 8} #todo: change this to a different color maby
 
