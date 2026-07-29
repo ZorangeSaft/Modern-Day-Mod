@@ -4035,7 +4035,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = anglo_irish religion = catholic size = 1.000
+        = {           type = peasants  culture = scottish religion = catholic size = 1.000
       }
    }
    killycolly = {
@@ -198697,7 +198697,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = serbian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = orthodox size = 1.000
       }
    }
    srebrenica = {
@@ -198760,7 +198760,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = serbian religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = catholic size = 1.000
       }
    }
    drijeva = {
@@ -198781,7 +198781,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = serbian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = orthodox size = 1.000
       }
    }
    srebrenik = {
@@ -198816,14 +198816,14 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = serbian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = orthodox size = 1.000
       }
    }
    gacko = {
       define_pop
 
 
-        = {           type = peasants  culture = serbian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = orthodox size = 1.000
       }
    }
    srb = {
@@ -200468,63 +200468,63 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = serbian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = orthodox size = 1.000
       }
    }
    onogost = {
       define_pop
 
 
-        = {           type = peasants  culture = serbian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = orthodox size = 1.000
       }
    }
    gradina = {
       define_pop
 
 
-        = {           type = peasants  culture = serbian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = orthodox size = 1.000
       }
    }
    podgorica = {
       define_pop
 
 
-        = {           type = peasants  culture = serbian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = orthodox size = 1.000
       }
    }
    bar_cg = {
       define_pop
 
 
-        = {           type = peasants  culture = serbian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = orthodox size = 1.000
       }
    }
    budimlja = {
       define_pop
 
 
-        = {           type = peasants  culture = serbian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = orthodox size = 1.000
       }
    }
    brskovo = {
       define_pop
 
 
-        = {           type = peasants  culture = serbian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = orthodox size = 1.000
       }
    }
    gjakova = {
       define_pop
 
 
-        = {           type = peasants  culture = albanian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_kosovo_culture religion = orthodox size = 1.000
       }
    }
    peja = {
       define_pop
 
 
-        = {           type = peasants  culture = albanian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_kosovo_culture religion = orthodox size = 1.000
       }
    }
    mitrovica = {
@@ -200538,21 +200538,21 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = albanian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_kosovo_culture religion = orthodox size = 1.000
       }
    }
    novo_brdo = {
       define_pop
 
 
-        = {           type = peasants  culture = albanian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_kosovo_culture religion = orthodox size = 1.000
       }
    }
    prizren = {
       define_pop
 
 
-        = {           type = peasants  culture = albanian religion = orthodox size = 1.000
+        = {           type = peasants  culture = mdm_kosovo_culture religion = orthodox size = 1.000
       }
    }
    melnik = {
@@ -201147,14 +201147,14 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = catholic size = 1.000
       }
    }
    dinaric_alps6 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_montenegrin_culture religion = catholic size = 1.000
       }
    }
    dinaric_alps7 = {
