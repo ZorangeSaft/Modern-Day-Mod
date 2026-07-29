@@ -539,7 +539,7 @@
  english_dialect: "Southern"
  scots_dialect: "Scots"
  northumbrian_dialect: "Northern"
- hiberno_english_dialect: "Hiberno-English"
+ hiberno_english_dialect: "Irish" #"Hiberno-English" #mdm
  brythonic_language: "Brythonic"
  breton_dialect: "Breton"
  welsh_dialect: "Welsh"
