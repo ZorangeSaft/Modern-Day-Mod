@@ -77,7 +77,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = afgh_hibatullah_akhundzada
+             # ruler = afgh_hibatullah_akhundzada
          }
       }
 
@@ -100,7 +100,7 @@ countries = {
             ruler = random
             heir_selection = lottery_election
 
-             # ruler = alb_bajram_begaj
+             # ruler = alb_bajram_begaj
          }
       }
 
@@ -439,11 +439,11 @@ countries = {
             new7928 new7929 new7930 new7931 new7932 new7933 new7934 new7935 new7936 new7937
             new7938 new7939 new7940 new7941 new7942 new7943 new7944 new7945 new7946 new7947
             new7948 new7949 new7950 new7951 new7952 new7953 new7954 new7955 new7956 new7957
-            new7958 new7959 new7960 new7961 new7962 new7963 new7964 new7965 new7966 new7967 
-			new7968 new7969 new7970 new7971 new7972 new7973 new7974 new7975 new7976 new7977 
-			new7978 new7979 new7980 new7981 new7982 new7983 new7984 new7985 new7986 new7987 
-			new7988 new7989 new7990 new7991 new7992 new7993 new7994 new7995 new7996 new7997 
-			new7998 new7999 new8000 new8001
+            new7958 new7959 new7960 new7961 new7962 new7963 new7964 new7965 new7966 new7967
+            new7968 new7969 new7970 new7971 new7972 new7973 new7974 new7975 new7976 new7977
+            new7978 new7979 new7980 new7981 new7982 new7983 new7984 new7985 new7986 new7987
+            new7988 new7989 new7990 new7991 new7992 new7993 new7994 new7995 new7996 new7997
+            new7998 new7999 new8000 new8001
          }
 
          include = "expl_mdm_whole_world"
@@ -3557,9 +3557,9 @@ countries = {
             kamioono kanra katagata kawachi kiso kouka kurita mashita minochi minokamo
             mugi nasu nitta saku sarashina seta shimoina shioya suwa takai
             takashima toki tone tsuga tsukama usui yoshiki habomai hidaka_mountains ishikari_mountains
-            ulleungdo izu_islands echigo_mountains kii_mountains mount_fuji okuchichibu_mountains asama_mountains mikuni_mountains akaishi_mountains yatsugatake_mountains
-            kiso_mountains mount_ontake hida_mountains mount_haku mount_tsurugi ishizuchi_mountains geiyo_islands_wastelands mishima_island koshikishima satsunan_islands
-            kumejima iwo_jima kita_iwo_jima hahajima chichijima tarama yonaguni
+            izu_islands echigo_mountains kii_mountains mount_fuji okuchichibu_mountains asama_mountains mikuni_mountains akaishi_mountains yatsugatake_mountains kiso_mountains
+            mount_ontake hida_mountains mount_haku mount_tsurugi ishizuchi_mountains geiyo_islands_wastelands mishima_island koshikishima satsunan_islands kumejima
+            iwo_jima kita_iwo_jima hahajima chichijima tarama yonaguni
          }
 
          #include = "japanese_clan"
@@ -5969,7 +5969,7 @@ countries = {
             jinjam seosan yeongdong yeonsan andong bonghwa boseongbu dongnae gaeryeong geochang
             geoje gyeongju hadong hapcheon jinju miryang mungyeong namhae sacheon sangju
             seongju seonsan taegu uian uiseong ulju yeongcheon yeongdeok yeongil yeongju
-            yeongyang hekusando
+            yeongyang hekusando ulleungdo
          }
 
          #include = "republic"
