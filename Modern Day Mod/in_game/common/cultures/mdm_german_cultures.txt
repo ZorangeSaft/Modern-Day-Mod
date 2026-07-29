@@ -9,7 +9,7 @@
 	
 	culture_groups = {
 		german_group
-		carpathian_group
+		#carpathian_group
 	}
 }
 

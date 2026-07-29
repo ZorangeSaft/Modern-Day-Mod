@@ -37,7 +37,7 @@ transylvanian = { #TRA
 	
 	culture_groups = {
 		romanian_group
-		carpathian_group
+		#carpathian_group
 	}
 }
 
@@ -51,7 +51,7 @@ moldovan = { #MOL /romanian in EU4
 	opinions = { }
 	culture_groups = {
 		romanian_group
-		carpathian_group
+		#carpathian_group
 	}
 }
 
@@ -65,7 +65,7 @@ hungarian = { #HUN
 	opinions = { }
 	culture_groups = {
 		hungarian_group
-		carpathian_group
+		#
 	}
 }
 
@@ -109,6 +109,6 @@ mdm_romanian_culture = {
 	
 	culture_groups = {
 		romanian_group
-		carpathian_group
+		#carpathian_group
 	}
 }
