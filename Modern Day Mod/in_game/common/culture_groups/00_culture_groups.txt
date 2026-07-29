@@ -789,8 +789,8 @@ mdm_dutch_caribbean_group = {} #nowhere else to put this really, dutch caribbean
 
 #german culture groups
 
-mdm_german_group = {} #german speaking countries
-mdm_germany_group = {} #germany itself
+mdm_germanosphere_group = {} #german speaking countries
+mdm_german_group = {} #germany itself
 mdm_low_german_group = {}
 mdm_middle_german_group = {}
 mdm_south_german_group = {}
@@ -814,3 +814,8 @@ mdm_albanian_group = {} #obviously not slavic, but nowhere else to put this
 mdm_north_italian_group = {}
 mdm_south_italian_group = {}
 mdm_insular_italian_group = {}
+
+
+#east asian culture groups
+
+mdm_korean_group = {}

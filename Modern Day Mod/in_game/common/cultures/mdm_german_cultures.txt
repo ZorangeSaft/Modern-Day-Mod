@@ -8,7 +8,7 @@
 	opinions = { }
 	
 	culture_groups = {
-		german_group
+		mdm_germanosphere_group
 		#carpathian_group
 	}
 }
@@ -25,7 +25,7 @@ mdm_low_german_culture = {
 	opinions = { }
 	
 	culture_groups = {
-		german_group mdm_germany_group mdm_low_german_group
+		mdm_germanosphere_group mdm_german_group mdm_low_german_group
 	}
 }
 
@@ -39,7 +39,7 @@ mdm_rhenish_culture = {
 	opinions = { }
 	
 	culture_groups = {
-		german_group mdm_germany_group mdm_middle_german_group
+		mdm_germanosphere_group mdm_german_group mdm_middle_german_group
 	}
 }
 
@@ -53,7 +53,7 @@ mdm_brandenburger_culture = {
 	opinions = { }
 	
 	culture_groups = {
-		german_group mdm_germany_group mdm_east_german_group mdm_low_german_group
+		mdm_germanosphere_group mdm_german_group mdm_east_german_group mdm_low_german_group
 	}
 }
 
@@ -67,7 +67,7 @@ mdm_berliner_culture = {
 	opinions = { }
 	
 	culture_groups = {
-		german_group mdm_germany_group mdm_west_german_group
+		mdm_germanosphere_group mdm_german_group mdm_west_german_group
 	}
 }
 
@@ -81,7 +81,7 @@ mdm_saxon_culture = {
 	opinions = { }
 	
 	culture_groups = {
-		german_group mdm_germany_group mdm_east_german_group mdm_middle_german_group
+		mdm_germanosphere_group mdm_german_group mdm_east_german_group mdm_middle_german_group
 	}
 }
 
@@ -95,7 +95,7 @@ mdm_south_german_culture = {
 	opinions = { }
 	
 	culture_groups = {
-		german_group mdm_germany_group mdm_south_german_group
+		mdm_germanosphere_group mdm_german_group mdm_south_german_group
 	}
 }
 
@@ -111,7 +111,7 @@ mdm_swiss_german_culture = {
 	opinions = { }
 	
 	culture_groups = {
-		swiss_group german_group mdm_south_german_group
+		swiss_group mdm_germanosphere_group mdm_south_german_group
 	}
 }
 
@@ -125,7 +125,7 @@ mdm_austrian_culture = {
 	opinions = { }
 	
 	culture_groups = {
-		german_group mdm_south_german_group
+		mdm_germanosphere_group mdm_south_german_group
 	}
 }
 
@@ -139,6 +139,6 @@ mdm_luxembourgish_culture = { #german luxembourgish, not to be confused with lux
 	opinions = {}
 	
 	culture_groups = {
-		mdm_luxembourgish_group mdm_benelux_group german_group mdm_middle_german_group
+		mdm_luxembourgish_group mdm_benelux_group mdm_germanosphere_group mdm_middle_german_group
 	}
 }

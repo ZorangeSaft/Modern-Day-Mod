@@ -3106,9 +3106,11 @@
  mdm_swiss_german_culture: "Swiss" #idk wether to make the backend name swiss german or just swiss
  mdm_austrian_culture: "Austrian"
 
+ mdm_germanosphere_group: "Germanosphere"
+ mdm_germanosphere_group_desc: "German-speaking world"
  #mdm_german_group: "German" #german speaking countries #commented out for now so vanilla german group is used
- mdm_germany_group: "Germany" #germany itself
- mdm_germany_group_desc: "Germany the country"
+ mdm_german_group: "Germany" #germany itself
+ mdm_german_group_desc: "Germany the country"
  mdm_low_german_group: "Low German"
  mdm_low_german_group_desc: "Low German group desc"
  mdm_middle_german_group: "Middle German"
