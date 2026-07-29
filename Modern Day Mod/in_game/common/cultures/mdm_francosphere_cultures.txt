@@ -151,7 +151,7 @@ mdm_french_antillan_culture = { #guadeloupe and martinique, but not the rest
 mdm_guadeloupean_culture = {
 	language = mdm_antillean_french_creole_language
 	
-	color = rgb { 0 82 165 }
+	color = rgb { 223 176 52 }
 	
 	tags = { french_gfx western_european_gfx european_gfx }
 	
@@ -165,7 +165,7 @@ mdm_guadeloupean_culture = {
 mdm_martinican_culture = {
 	language = mdm_antillean_french_creole_language
 	
-	color = rgb { 0 90 174 }
+	color = rgb { 52 125 73 }
 	
 	tags = { french_gfx western_european_gfx european_gfx }
 	
@@ -176,25 +176,10 @@ mdm_martinican_culture = {
 	}
 }
 
-mdm_saint_martin_culture = { #french side of saint martin
+mdm_saint_martinois_culture = { #french side of saint martin
 	language = mdm_saint_martin_english_dialect
 	
-	color = rgb { 0 108 180 }
-	
-	tags = { french_gfx western_european_gfx european_gfx }
-	
-	opinions = {}
-	
-	culture_groups = {
-		mdm_francosphere_group
-		mdm_caribbean_group mdm_french_caribbean_group
-	}
-}
-
-mdm_saint_martinois_culture = {
-	language = mdm_saint_martin_english_dialect
-	
-	color = rgb { 0 114 188 }
+	color = rgb { 44 95 186 }
 	
 	tags = { french_gfx western_european_gfx european_gfx }
 	

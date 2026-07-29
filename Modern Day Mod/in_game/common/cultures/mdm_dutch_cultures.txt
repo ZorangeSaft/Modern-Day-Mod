@@ -37,7 +37,7 @@ mdm_flemish_culture = {
 mdm_abc_islands_culture = { #aruba, bonaire, curacao
 	language = mdm_papiamento_language
 	
-	color = rgb {0 101 196}
+	color = rgb { 35 170 165 }
 	
 	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
 	
@@ -48,10 +48,10 @@ mdm_abc_islands_culture = { #aruba, bonaire, curacao
 	}
 }
 
-mdm_sint_maartener_culture = {
+mdm_sint_maartener_culture = { #dutch side of saint martin
 	language = mdm_saint_martin_english_dialect
 	
-	color = rgb {0 122 202}
+	color = rgb { 236 127 44 }
 	
 	tags = { dutch_gfx north_german_gfx german_gfx western_european_gfx european_gfx }
 	

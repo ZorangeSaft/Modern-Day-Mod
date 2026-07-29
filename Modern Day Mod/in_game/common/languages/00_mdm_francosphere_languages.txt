@@ -561,7 +561,7 @@ french_creole_language = { #creole_languages are a bit hard to fit into the game
 		}
 		mdm_antillean_french_creole_language = { #guadeloupe and martinique, but not the rest
 		}
-		mdm_saint_lucian_creole_language = { #saint lucia
+		mdm_saint_lucian_french_creole_language = { #saint lucia
 		}
 		#no creole for french guiana, they speak mostly french there apparently
 		mdm_reunionnais_french_creole_language = { #reuinon

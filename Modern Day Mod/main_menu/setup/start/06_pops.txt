@@ -193758,7 +193758,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_saint_martin_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_sint_maartener_culture religion = catholic size = 1.000
       }
    }
    malliouhana = {

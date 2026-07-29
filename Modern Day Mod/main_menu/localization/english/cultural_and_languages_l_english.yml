@@ -2937,7 +2937,6 @@
  mdm_french_antillan_culture: "French Antillean"
  mdm_guadeloupean_culture: "Guadeloupean"
  mdm_martinican_culture: "Martinican"
- mdm_saint_martin_culture: "Saint Martin"
  mdm_saint_martinois_culture: "Saint Martinois"
  mdm_saint_barthelemy_culture: "Saint Barthelemois"
  mdm_french_guianese_culture: "French Guianese"
@@ -2956,7 +2955,7 @@
  mdm_bajan_creole_language: "Bajan Creole"
  mdm_trinidadian_english_creole_language: "Trinidadian English Creole"
  mdm_tobagonian_english_creole_language: "Tobagonian English Creole"
- mdm_saint_lucian_creole_language: "Saint Lucian Creole"
+ mdm_saint_lucian_french_creole_language: "Saint Lucian Creole"
  mdm_papiamento_language: "Papiamento"
  mdm_haitian_french_creole_language: "Haitian Creole"
  mdm_antillean_french_creole_language: "Antillean French Creole"
@@ -2967,6 +2966,7 @@
  mdm_english_creole_language: "English Creole"
  mdm_guyanese_english_creole_language: "Guyanese"
  mdm_sraran_tongo_english_creole_language: "Sranan Tongo"
+ mdm_belizean_english_creole_language: "Kriol"
 
 
  #brazil cultures
