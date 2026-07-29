@@ -357264,7 +357264,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7968 = {
@@ -357272,7 +357272,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7969 = {
@@ -357280,7 +357280,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7970 = {
@@ -357288,7 +357288,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7971 = {
@@ -357296,7 +357296,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7972 = {
@@ -357304,7 +357304,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7973 = {
@@ -357312,7 +357312,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7974 = {
@@ -357320,7 +357320,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7975 = {
@@ -357328,7 +357328,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7976 = {
@@ -357336,7 +357336,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7977 = {
@@ -357344,7 +357344,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7978 = {
@@ -357352,7 +357352,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7979 = {
@@ -357360,7 +357360,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7980 = {
@@ -357368,7 +357368,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7981 = {
@@ -357376,7 +357376,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7982 = {
@@ -357384,7 +357384,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7983 = {
@@ -357392,7 +357392,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7984 = {
@@ -357400,7 +357400,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7985 = {
@@ -357408,7 +357408,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7986 = {
@@ -357416,7 +357416,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7987 = {
@@ -357424,7 +357424,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7988 = {
@@ -357432,7 +357432,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7989 = {
@@ -357440,7 +357440,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7990 = {
@@ -357448,7 +357448,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7991 = {
@@ -357456,7 +357456,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7992 = {
@@ -357464,7 +357464,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7993 = {
@@ -357472,7 +357472,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7994 = {
@@ -357480,7 +357480,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7995 = {
@@ -357488,7 +357488,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7996 = {
@@ -357496,7 +357496,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7997 = {
@@ -357504,7 +357504,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7998 = {
@@ -357512,7 +357512,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new7999 = {
@@ -357520,7 +357520,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8000 = {
@@ -357528,7 +357528,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8001 = {
@@ -357536,7 +357536,7 @@ locations = {
 
 
         = { 
-          type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+          type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8002 = {
