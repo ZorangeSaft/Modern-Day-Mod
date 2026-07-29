@@ -200517,42 +200517,32 @@ locations = {
    }
    betsiamites = {
       define_pop
-mdm_kosovar_culture
-
         = { 
           type = peasants  culture = mdm_northern_quebec_culture religion = catholic size = 1.000
       }
    }
    pipmuacan = {
-      define_popmdm_kosovar_culture
-
-
+      define_pop
         = { 
           type = peasants  culture = mdm_northern_quebec_culture religion = catholic size = 1.000
       }
    }
    itomamo = {
       define_pop
-
-
         = { 
           type = peasants  culture = mdm_northern_quebec_culture religion = catholic size = 1.000
       }
-   }mdm_kosovar_culture
+   }
    kitchesatsiou = {
       define_pop
-
-
         = { 
           type = peasants  culture = mdm_northern_quebec_culture religion = catholic size = 1.000
-      }mdm_kosovar_culture
+      }
    }
    manouanis = {
       define_pop
-
-
         = { 
-          type = peasants  culture = mdm_northern_mdm_kosovar_cultureigion = catholic size = 1.000
+          type = peasants  culture = mdm_northern_quebec_culture religion = catholic size = 1.000
       }
    }
    manouane = {
@@ -233362,7 +233352,7 @@ mdm_kosovar_culture
 
 
         = { 
-          type = peasants  culture = mdm_kosovo_culture religion = orthodox size = 1.000
+          type = peasants  culture = mdm_kosovar_culture religion = orthodox size = 1.000
       }
    }
    peja = {
@@ -233370,7 +233360,7 @@ mdm_kosovar_culture
 
 
         = { 
-          type = peasants  culture = mdm_kosovo_culture religion = orthodox size = 1.000
+          type = peasants  culture = mdm_kosovar_culture religion = orthodox size = 1.000
       }
    }
    mitrovica = {
@@ -233386,7 +233376,7 @@ mdm_kosovar_culture
 
 
         = { 
-          type = peasants  culture = mdm_kosovo_culture religion = orthodox size = 1.000
+          type = peasants  culture = mdm_kosovar_culture religion = orthodox size = 1.000
       }
    }
    novo_brdo = {
@@ -233394,7 +233384,7 @@ mdm_kosovar_culture
 
 
         = { 
-          type = peasants  culture = mdm_kosovo_culture religion = orthodox size = 1.000
+          type = peasants  culture = mdm_kosovar_culture religion = orthodox size = 1.000
       }
    }
    prizren = {
@@ -233402,7 +233392,7 @@ mdm_kosovar_culture
 
 
         = { 
-          type = peasants  culture = mdm_kosovo_culture religion = orthodox size = 1.000
+          type = peasants  culture = mdm_kosovar_culture religion = orthodox size = 1.000
       }
    }
    melnik = {
