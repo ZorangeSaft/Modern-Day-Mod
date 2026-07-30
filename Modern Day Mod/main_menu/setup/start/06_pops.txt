@@ -16999,7 +16999,7 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = french religion = catholic size = 1.000
+        = {           type = peasants  culture = catalan religion = catholic size = 1.000
       }
    }
    cervera = {
