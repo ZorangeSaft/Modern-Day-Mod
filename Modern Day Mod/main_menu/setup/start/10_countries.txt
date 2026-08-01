@@ -443,7 +443,14 @@ countries = {
             new7968 new7969 new7970 new7971 new7972 new7973 new7974 new7975 new7976 new7977
             new7978 new7979 new7980 new7981 new7982 new7983 new7984 new7985 new7986 new7987
             new7988 new7989 new7990 new7991 new7992 new7993 new7994 new7995 new7996 new7997
-            new7998 new7999 new8000 new8001
+            new7998 new7999 new8000 new8001 new8002 new8003 new8004 new8005 new8006 new8007 
+			new8008 new8009 new8010 new8011 new8012 new8013 new8014 new8015 new8016 new8017 
+			new8018 new8019 new8020 new8021 new8022 new8023 new8024 new8025 new8026 new8027 
+			new8028 new8029 new8030 new8031 new8032 new8033 new8034 new8035 new8036 new8037 
+			new8038 new8039 new8040 new8041 new8042 new8043 new8044 new8045 new8046 new8047 
+			new8048 new8049 new8050 new8051 new8052 new8053 new8054 new8055 new8056 new8057 
+			new8058 new8059 new8060 new8061 new8062 new8063 new8064 new8065 new8066 new8067 
+			new8068
          }
 
          include = "expl_mdm_whole_world"
