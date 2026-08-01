@@ -487,7 +487,12 @@
  mdm_us_pacific_group: "US Pacific"
  mdm_us_pacific_group_desc: "The people of the us Pacific territories, a land of remote islands and diverse cultures"
 
-
+ #Australian and New Zealand culture groups
+ mdm_australian_culture_group: "Australian"
+ mdm_australian_culture_group_desc: "The people of Australia, the southern land" 
+ 
+ mdm_oceanian_group: "Oceanian"
+ mdm_oceanian_group_desc: "The people of Oceanian, the many lands bordering the south Pacific ocean"
 
  #regional brazil culture groups
 

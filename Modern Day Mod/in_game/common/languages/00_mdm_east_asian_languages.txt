@@ -126,6 +126,9 @@ japanese_language = {
 	descendant_suffix_female = "descendant_suffix_japanese"
 
 	dialects = {
+		japanese_language = {
+			default = yes
+		}
 		mdm_okinawan_japanese_dialect = {
 		}
 	}

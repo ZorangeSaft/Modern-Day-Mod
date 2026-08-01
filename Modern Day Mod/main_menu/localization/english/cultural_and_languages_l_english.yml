@@ -539,7 +539,7 @@
  english_dialect: "Southern"
  scots_dialect: "Scots"
  northumbrian_dialect: "Northern"
- hiberno_english_dialect: "Irish" #"Hiberno-English" #mdm
+ hiberno_english_dialect: "Irish" #Hiberno-English #mdm
  brythonic_language: "Brythonic"
  breton_dialect: "Breton"
  welsh_dialect: "Welsh"
@@ -708,14 +708,14 @@
  korean_culture: "Korean"
  korean_language: "Korean"
  tamna_culture: "Tamna"
- saigoku_culture: "Japanese" #"Saigoku" mdm
+ saigoku_culture: "Japanese" #Saigoku mdm
  tougoku_culture: "Tōgoku"
  touhoku_culture: "Tōhoku"
  kyushu_culture: "Kyūshū"
  japanese_language: "Japanese"
  ainu_culture: "Ainu"
  ainu_language: "Ainu"
- ryukyu_culture: "Okinawan" #"Ryūkyū"
+ ryukyu_culture: "Okinawan" #Ryūkyū
  ryukyu_language: "Ryūkyū"
  jurchen_culture: "Jurchen"
  jurchen_language: "Jurchen"
