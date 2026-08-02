@@ -450,7 +450,10 @@ countries = {
 			new8038 new8039 new8040 new8041 new8042 new8043 new8044 new8045 new8046 new8047 
 			new8048 new8049 new8050 new8051 new8052 new8053 new8054 new8055 new8056 new8057 
 			new8058 new8059 new8060 new8061 new8062 new8063 new8064 new8065 new8066 new8067 
-			new8068
+			new8068 new8069 new8070 new8071 new8072 new8073 new8074 new8075 new8076 new8077
+			new8078 new8079 new8080 new8081 new8082 new8083 new8084 new8085 new8086 new8087
+			new8088 new8089 new8090 new8091 new8092 new8093 new8094 new8095 new8096 new8097
+			new8098 new8099 new8100 new8101 new8102 new8103 new8104 new8105 new8106 new8107
          }
 
          include = "expl_mdm_whole_world"
