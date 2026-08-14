@@ -7463,7 +7463,8 @@ countries = {
             usa52 usa50 usa51 usa53 usa57 usa481 usa484 usa483 usa495 usa494
             usa493 usa482 usa492 usa477 usa472 usa473 usa480 usa470 usa491 usa471
             usa479 usa488 usa486 usa485 usa487 usa476 usa489 usa475 usa469 usa468
-            usa478 usa474 usa465 usa490 usa464 usa462 usa466 usa463 usa467 cumberland_mountains_9
+            usa478 usa474 usa465 usa490 usa464 usa462 usa466 usa463 usa467
+            cumberland_mountains_9
             shenandoah_mountains cumberland_mountains_8 cumberland_mountains_7 cumberland_mountains_6 cumberland_mountains cumberland_mountains_3 shady_valley_wasteland blue_ridge_mountains_2 cumberland_mountains_5 cumberland_mountains_4
             cumberland_mountains_2 tanasee_ridge great_smokies blue_ridge_mountains walden_ridge chattahoochee_forest nantahala_forest cohutta_mountains kuwohi ouachita_mts
             ouachita_ok channel_islands nomlaki_range chumawi_range klamath_range south_cascade central_cascade north_cascade badlands_mt_2 sw_ktunaxa_ranges
@@ -7476,7 +7477,11 @@ countries = {
             noatak utqiagvik gwazhal_hills kugmiut_uplands uracas maug agrihan alamagan pagan_island noos
             anatahan rota guahan_atoll mauna_loa nihoa mokumanamana kanemilohai_atoll kauo papa_apoho_atoll holaniku_atoll
             kuaihelani_atoll holoikauaua_atoll vieques_island mona_island aburakeiru new128 new129 new126 new127 new125
-            new124 new123 new122 new121 new120 new167 new145
+            new124 new123 new122 new121 new120 new167 new145 
+            new9000 new9001 new9002 new9003 new9004 new9005 new9006 new9007 new9008 new9009
+            new9010 new9011 new9012 new9013 new9014 new9015 new9016 new9017 new9018 new9019
+            new9020 new9021 new9022 new9023 new9024 new9025 new9026 new9027 new9028 new9029
+            new9030 new9031 new9032 new9033 new9034 new9035 new9036
          }
 
          #include = "republic"
