@@ -3832,7 +3832,7 @@ countries = {
 
 
       KENY = {
-         capital = omotik
+         capital = new3134
          # government = {ruler = keny_william_ruto }
          country_rank = rank_duchy
          starting_technology_level = 3
@@ -3853,7 +3853,10 @@ countries = {
             new3080 new3081 new3082 new3083 new3084 new3085 new3086 new3087 new3088 new3089
             new3090 new3091 new3092 new3093 new3094 new3095 new3096 new3097 new3098 new3099
             new3100 new3101 new3102 new3103 new3104 new3105 new3106 new3107 new3108 new3109
-            new3110 new3111 new3112
+            new3110 new3111 new3112 new3113 new3114 new3115 new3116 new3117 new3118 new3119
+            new3120 new3121 new3122 new3123 new3124 new3125 new3126 new3127 new3128 new3129
+            new3130 new3131 new3132 new3133 new3134 new3135 new3136 new3137 new3138 new3139
+            new3140 new3141 new3142
          }
 
          #include = "republic"
