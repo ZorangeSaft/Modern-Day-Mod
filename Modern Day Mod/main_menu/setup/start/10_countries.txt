@@ -3856,7 +3856,11 @@ countries = {
             new3110 new3111 new3112 new3113 new3114 new3115 new3116 new3117 new3118 new3119
             new3120 new3121 new3122 new3123 new3124 new3125 new3126 new3127 new3128 new3129
             new3130 new3131 new3132 new3133 new3134 new3135 new3136 new3137 new3138 new3139
-            new3140 new3141 new3142
+            new3140 new3141 new3142 new3143 new3144 new3145 new3146 new3147 new3148 new3149
+            new3150 new3151 new3152 new3153 new3154 new3155 new3156 new3157 new3158 new3159
+            new3160 new3161 new3162 new3163 new3164 new3165 new3166 new3167 new3168 new3169
+            new3170 new3171 new3172 new3173 new3174 new3175 new3176 new3177 new3178 new3179
+            new3180 new3181 new3182 new3183 new3184 new3185
          }
 
          #include = "republic"
