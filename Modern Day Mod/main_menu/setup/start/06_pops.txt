@@ -310125,672 +310125,672 @@ locations = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8279 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8280 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8281 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8282 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8283 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8284 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8285 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8286 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8287 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8288 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8289 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8290 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8291 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8292 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8293 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8294 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8295 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8296 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8297 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8298 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8299 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8300 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8301 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8302 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8303 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8304 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8305 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8306 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8307 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8308 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8309 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8310 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8311 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8312 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8313 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8314 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8315 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8316 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8317 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8318 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8319 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8320 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8321 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8322 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8323 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8324 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8325 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8326 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8327 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8328 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8329 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8330 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8331 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8332 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8333 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8334 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8335 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8336 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8337 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8338 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8339 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8340 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8341 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8342 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8343 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8344 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8345 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8346 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8347 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8348 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8349 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8350 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8351 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8352 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8353 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8354 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8355 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8356 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8357 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8358 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8359 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8360 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8361 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8362 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8363 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8364 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8365 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8366 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8367 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8368 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8369 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8370 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8371 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8372 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8373 = {
       define_pop
 
 
-        = {           type = peasants  culture = mdm_socal_culture religion = catholic size = 1.000
+        = {           type = peasants  culture = mdm_australian_culture religion = catholic size = 1.000
       }
    }
    new8374 = {
