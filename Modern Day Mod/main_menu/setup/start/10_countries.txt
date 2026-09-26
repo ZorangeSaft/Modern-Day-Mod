@@ -7228,6 +7228,11 @@ countries = {
          own_control_core = {
             acholi bigo_bya_mugenyi buddu buganda busoga isinguro karamoja katwe kibengo kibiro
             lango mubemde ndorwa north_buganda pawir pubungu rubaga rugombe teso west_eastern_rift_mountains
+            new3306 new3307 new3308 new3309 new3310 new3311 new3312 new3313 new3314 new3315
+            new3316 new3317 new3318 new3319 new3320 new3321 new3322 new3323 new3324 new3325
+            new3326 new3327 new3328 new3329 new3330 new3331 new3332 new3333 new3334 new3335
+            new3336 new3337 new3338 new3339 new3340 new3341 new3342 new3343 new3344 new3345
+            new3346 new3347 new3348 new3349 new3350 new3351 new3352 new3353 new3354 new3355
          }
 
          #include = "republic"
