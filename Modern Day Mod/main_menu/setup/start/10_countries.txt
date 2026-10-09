@@ -7220,7 +7220,7 @@ countries = {
 
 
       UGAN = {
-         capital = buganda
+         capital = rubaga
          # government = {ruler = ugan_yoweri_kaguta_museveni }
          country_rank = rank_county
          starting_technology_level = 3
@@ -7236,7 +7236,12 @@ countries = {
             new3356 new3357 new3358 new3359 new3360 new3361 new3362 new3363 new3364 new3365
             new3366 new3367 new3368 new3369 new3370 new3371 new3372 new3373 new3374 new3375
             new3376 new3377 new3378 new3379 new3380 new3381 new3382 new3383 new3384 new3385
-            new3386 new3387 new3388 new3389 new3390 new3391
+            new3386 new3387 new3388 new3389 new3390 new3391 new3392 new3393 new3394 new3395
+            new3396 new3397 new3398 new3399 new3400 new3401 new3402 new3403 new3404 new3405
+            new3406 new3407 new3408 new3409 new3410 new3411 new3412 new3413 new3414 new3415
+            new3416 new3417 new3418 new3419 new3420 new3421 new3422 new3423 new3424 new3425
+            new3426 new3427 new3428 new3429 new3430 new3431 new3432 new3433 new3434 new3435
+            new3436 new3437 new3438 new3439 new3440 new3441 new3442 new3443
          }
 
          #include = "republic"
