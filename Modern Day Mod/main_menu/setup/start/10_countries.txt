@@ -1317,13 +1317,16 @@ countries = {
 
 
       BUU = {
-         capital = mirama
+         capital = new3492
          # government = {ruler = buu_avariste_ndayishimiye }
          country_rank = rank_county
          starting_technology_level = 3
 
          own_control_core = {
-            mirama mugamba nikoma western_rift_mountains
+            mirama mugamba nikoma western_rift_mountains new3473 new3474 new3475 new3476 new3477 new3478
+            new3479 new3480 new3481 new3482 new3483 new3484 new3485 new3486 new3487 new3488
+            new3489 new3490 new3491 new3492 new3493 new3494 new3495 new3496 new3497 new3498
+            new3499 new3500
          }
 
          #include = "republic"
