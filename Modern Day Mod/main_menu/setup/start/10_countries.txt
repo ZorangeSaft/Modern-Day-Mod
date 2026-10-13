@@ -6060,13 +6060,16 @@ countries = {
 
 
       RWA = {
-         capital = buzanga
+         capital = new3454
          # government = {ruler = rwa_paul_kagame }
          country_rank = rank_county
          starting_technology_level = 3
 
          own_control_core = {
-            buzanga nduga
+            buzanga nduga new3444 new3445 new3446 new3447 new3448 new3449 new3450 new3451
+            new3452 new3453 new3454 new3455 new3456 new3457 new3458 new3459 new3460 new3461
+            new3462 new3463 new3464 new3465 new3466 new3467 new3468 new3469 new3470 new3471
+            new3472
          }
 
          #include = "republic"
